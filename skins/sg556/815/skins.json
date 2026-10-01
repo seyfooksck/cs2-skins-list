@@ -1,0 +1,310 @@
+{
+  "id": "skin-dd5985c30bd8",
+  "name": "SG 553 | Danger Close",
+  "paint_index": "815",
+  "weapon": {
+    "id": "weapon_sg556",
+    "weapon_id": 39,
+    "name": "SG 553",
+    "slug": "sg556"
+  },
+  "pattern": {
+    "id": "gs_sg553_over_heated",
+    "name": "Danger Close"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0.02,
+  "max_float": 0.8,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The terrorist-exclusive SG553 is a premium scoped alternative to the AK47 for effective long-range engagement. It has been hand painted with a metallic-fire themed design.\\n\\n<i>Watch your fire</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 3.33,
+      "max": 14.06,
+      "mean": 7.15,
+      "median": 5.83,
+      "suggested": 4.12,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.34,
+      "max": 12.25,
+      "mean": 0.83,
+      "median": 0.68,
+      "suggested": 0.43,
+      "quantity": 116,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.26,
+      "max": 13.42,
+      "mean": 0.48,
+      "median": 0.34,
+      "suggested": 0.43,
+      "quantity": 501,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.22,
+      "max": 13.8,
+      "mean": 3.43,
+      "median": 0.91,
+      "suggested": 0.23,
+      "quantity": 32,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.12,
+      "max": 3.91,
+      "mean": 0.33,
+      "median": 0.21,
+      "suggested": 0.2,
+      "quantity": 136,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SG 553 | Danger Close (Factory New)",
+      "price": {
+        "min": 3.33,
+        "max": 14.06,
+        "mean": 7.15,
+        "median": 5.83,
+        "suggested": 4.12,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SG 553 | Danger Close (Minimal Wear)",
+      "price": {
+        "min": 0.34,
+        "max": 12.25,
+        "mean": 0.83,
+        "median": 0.68,
+        "suggested": 0.43,
+        "quantity": 116,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "SG 553 | Danger Close (Field-Tested)",
+      "price": {
+        "min": 0.26,
+        "max": 13.42,
+        "mean": 0.48,
+        "median": 0.34,
+        "suggested": 0.43,
+        "quantity": 501,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "SG 553 | Danger Close (Well-Worn)",
+      "price": {
+        "min": 0.22,
+        "max": 13.8,
+        "mean": 3.43,
+        "median": 0.91,
+        "suggested": 0.23,
+        "quantity": 32,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "SG 553 | Danger Close (Battle-Scarred)",
+      "price": {
+        "min": 0.12,
+        "max": 3.91,
+        "mean": 0.33,
+        "median": 0.21,
+        "suggested": 0.2,
+        "quantity": 136,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SG 553 | Danger Close (Factory New)",
+        "price": {
+          "min": 3.33,
+          "max": 14.06,
+          "mean": 7.15,
+          "median": 5.83,
+          "suggested": 4.12,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "SG 553 | Danger Close (Minimal Wear)",
+        "price": {
+          "min": 0.34,
+          "max": 12.25,
+          "mean": 0.83,
+          "median": 0.68,
+          "suggested": 0.43,
+          "quantity": 116,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "SG 553 | Danger Close (Field-Tested)",
+        "price": {
+          "min": 0.26,
+          "max": 13.42,
+          "mean": 0.48,
+          "median": 0.34,
+          "suggested": 0.43,
+          "quantity": 501,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "SG 553 | Danger Close (Well-Worn)",
+        "price": {
+          "min": 0.22,
+          "max": 13.8,
+          "mean": 3.43,
+          "median": 0.91,
+          "suggested": 0.23,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "SG 553 | Danger Close (Battle-Scarred)",
+        "price": {
+          "min": 0.12,
+          "max": 3.91,
+          "mean": 0.33,
+          "median": 0.21,
+          "suggested": 0.2,
+          "quantity": 136,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ SG 553 | Danger Close (Factory New)",
+        "price": {
+          "min": 1.31,
+          "max": 23.08,
+          "mean": 3.3,
+          "median": 1.69,
+          "suggested": 1.5,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ SG 553 | Danger Close (Minimal Wear)",
+        "price": {
+          "min": 0.33,
+          "max": 3.84,
+          "mean": 0.93,
+          "median": 0.57,
+          "suggested": 0.45,
+          "quantity": 42,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ SG 553 | Danger Close (Field-Tested)",
+        "price": {
+          "min": 0.18,
+          "max": 7.5,
+          "mean": 0.51,
+          "median": 0.22,
+          "suggested": 0.23,
+          "quantity": 232,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ SG 553 | Danger Close (Well-Worn)",
+        "price": {
+          "min": 0.26,
+          "max": 1.38,
+          "mean": 0.54,
+          "median": 0.28,
+          "suggested": 0.3,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ SG 553 | Danger Close (Battle-Scarred)",
+        "price": {
+          "min": 0.13,
+          "max": 4.36,
+          "mean": 0.44,
+          "median": 0.21,
+          "suggested": 0.21,
+          "quantity": 47,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SG 553 | Danger Close (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir SG 553 | Danger Close (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir SG 553 | Danger Close (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir SG 553 | Danger Close (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir SG 553 | Danger Close (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:48.081Z"
+}

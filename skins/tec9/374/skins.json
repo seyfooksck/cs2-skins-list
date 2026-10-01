@@ -1,0 +1,257 @@
+{
+  "id": "skin-e7703810e2d0",
+  "name": "Tec-9 | Toxic",
+  "paint_index": "374",
+  "weapon": {
+    "id": "weapon_tec9",
+    "weapon_id": 30,
+    "name": "Tec-9",
+    "slug": "tec9"
+  },
+  "pattern": {
+    "id": "hy_nuclear_skulls5_tec9",
+    "name": "Toxic"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity. It has been painted with a garish hydrographic pattern of nuclear skulls and bones.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 41.52,
+      "max": 186.71,
+      "mean": 80.97,
+      "median": 66.78,
+      "suggested": 48.85,
+      "quantity": 26,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 17.68,
+      "max": 45.09,
+      "mean": 27.14,
+      "median": 24.18,
+      "suggested": 23.9,
+      "quantity": 31,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 11.66,
+      "max": 145.75,
+      "mean": 29.19,
+      "median": 17.05,
+      "suggested": 15.27,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 13.84,
+      "max": 29.06,
+      "mean": 21.45,
+      "median": 21.45,
+      "suggested": 15.28,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Tec-9 | Toxic (Factory New)",
+      "price": {
+        "min": 41.52,
+        "max": 186.71,
+        "mean": 80.97,
+        "median": 66.78,
+        "suggested": 48.85,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Tec-9 | Toxic (Minimal Wear)",
+      "price": {
+        "min": 17.68,
+        "max": 45.09,
+        "mean": 27.14,
+        "median": 24.18,
+        "suggested": 23.9,
+        "quantity": 31,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Tec-9 | Toxic (Field-Tested)",
+      "price": {
+        "min": 11.66,
+        "max": 145.75,
+        "mean": 29.19,
+        "median": 17.05,
+        "suggested": 15.27,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Tec-9 | Toxic (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Tec-9 | Toxic (Battle-Scarred)",
+      "price": {
+        "min": 13.84,
+        "max": 29.06,
+        "mean": 21.45,
+        "median": 21.45,
+        "suggested": 15.28,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Tec-9 | Toxic (Factory New)",
+        "price": {
+          "min": 41.52,
+          "max": 186.71,
+          "mean": 80.97,
+          "median": 66.78,
+          "suggested": 48.85,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Tec-9 | Toxic (Minimal Wear)",
+        "price": {
+          "min": 17.68,
+          "max": 45.09,
+          "mean": 27.14,
+          "median": 24.18,
+          "suggested": 23.9,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Tec-9 | Toxic (Field-Tested)",
+        "price": {
+          "min": 11.66,
+          "max": 145.75,
+          "mean": 29.19,
+          "median": 17.05,
+          "suggested": 15.27,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Tec-9 | Toxic (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Tec-9 | Toxic (Battle-Scarred)",
+        "price": {
+          "min": 13.84,
+          "max": 29.06,
+          "mean": 21.45,
+          "median": 21.45,
+          "suggested": 15.28,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Tec-9 | Toxic (Factory New)",
+        "price": {
+          "min": 65.47,
+          "max": 160.01,
+          "mean": 103.54,
+          "median": 95.76,
+          "suggested": 76.4,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Tec-9 | Toxic (Minimal Wear)",
+        "price": {
+          "min": 20.93,
+          "max": 1175.11,
+          "mean": 134.2,
+          "median": 43.47,
+          "suggested": 25.14,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Tec-9 | Toxic (Field-Tested)",
+        "price": {
+          "min": 14.31,
+          "max": 137.99,
+          "mean": 41.83,
+          "median": 35.01,
+          "suggested": 16.89,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Tec-9 | Toxic (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Tec-9 | Toxic (Battle-Scarred)",
+        "price": {
+          "min": 13.45,
+          "max": 19.02,
+          "mean": 16.23,
+          "median": 16.22,
+          "suggested": 14.09,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.445Z"
+}

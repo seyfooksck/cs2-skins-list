@@ -1,0 +1,249 @@
+{
+  "id": "skin-b083e3da3e03",
+  "name": "★ Butterfly Knife | Lore",
+  "paint_index": "1105",
+  "weapon": {
+    "id": "weapon_knife_butterfly",
+    "weapon_id": 515,
+    "name": "Butterfly Knife",
+    "slug": "knife_butterfly"
+  },
+  "pattern": {
+    "id": "cu_butterfly_lore",
+    "name": "Lore"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This is a custom-designed balisong, commonly known as a butterfly knife. The defining characteristic of this weapon is the fan-like opening of a freely pivoting blade, allowing rapid deployment or concealment. As a result, butterfly knives are outlawed in many countries. It has been custom painted with knotwork.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 1006.73,
+      "max": 1166.94,
+      "mean": 1077.13,
+      "median": 1060.41,
+      "suggested": 1184.33,
+      "quantity": 13,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 681.48,
+      "max": 1012.64,
+      "mean": 763.29,
+      "median": 729.34,
+      "suggested": 777.49,
+      "quantity": 17,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 609.68,
+      "max": 633.71,
+      "mean": 618.63,
+      "median": 612.51,
+      "suggested": 696.58,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 569.45,
+      "max": 654.23,
+      "mean": 596.58,
+      "median": 589.44,
+      "suggested": 643.95,
+      "quantity": 5,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Butterfly Knife | Lore (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Butterfly Knife | Lore (Minimal Wear)",
+      "price": {
+        "min": 1006.73,
+        "max": 1166.94,
+        "mean": 1077.13,
+        "median": 1060.41,
+        "suggested": 1184.33,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Butterfly Knife | Lore (Field-Tested)",
+      "price": {
+        "min": 681.48,
+        "max": 1012.64,
+        "mean": 763.29,
+        "median": 729.34,
+        "suggested": 777.49,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Butterfly Knife | Lore (Well-Worn)",
+      "price": {
+        "min": 609.68,
+        "max": 633.71,
+        "mean": 618.63,
+        "median": 612.51,
+        "suggested": 696.58,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Butterfly Knife | Lore (Battle-Scarred)",
+      "price": {
+        "min": 569.45,
+        "max": 654.23,
+        "mean": 596.58,
+        "median": 589.44,
+        "suggested": 643.95,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Butterfly Knife | Lore (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Butterfly Knife | Lore (Minimal Wear)",
+        "price": {
+          "min": 1006.73,
+          "max": 1166.94,
+          "mean": 1077.13,
+          "median": 1060.41,
+          "suggested": 1184.33,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Butterfly Knife | Lore (Field-Tested)",
+        "price": {
+          "min": 681.48,
+          "max": 1012.64,
+          "mean": 763.29,
+          "median": 729.34,
+          "suggested": 777.49,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Butterfly Knife | Lore (Well-Worn)",
+        "price": {
+          "min": 609.68,
+          "max": 633.71,
+          "mean": 618.63,
+          "median": 612.51,
+          "suggested": 696.58,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Butterfly Knife | Lore (Battle-Scarred)",
+        "price": {
+          "min": 569.45,
+          "max": 654.23,
+          "mean": 596.58,
+          "median": 589.44,
+          "suggested": 643.95,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Butterfly Knife | Lore (Factory New)",
+        "price": {
+          "min": 3267.42,
+          "max": 3267.42,
+          "mean": 3267.42,
+          "median": 3267.42,
+          "suggested": 2978.07,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Butterfly Knife | Lore (Minimal Wear)",
+        "price": {
+          "min": 1050.24,
+          "max": 1050.24,
+          "mean": 1050.24,
+          "median": 1050.24,
+          "suggested": 1234.45,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Butterfly Knife | Lore (Field-Tested)",
+        "price": {
+          "min": 768.11,
+          "max": 1024.14,
+          "mean": 873.9,
+          "median": 851.68,
+          "suggested": 840.85,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Butterfly Knife | Lore (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Butterfly Knife | Lore (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:33.088Z"
+}

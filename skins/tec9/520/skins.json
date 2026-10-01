@@ -1,0 +1,310 @@
+{
+  "id": "skin-4a49656a91ca",
+  "name": "Tec-9 | Avalanche",
+  "paint_index": "520",
+  "weapon": {
+    "id": "weapon_tec9",
+    "weapon_id": 30,
+    "name": "Tec-9",
+    "slug": "tec9"
+  },
+  "pattern": {
+    "id": "cu_tec9_avalanche",
+    "name": "Avalanche"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity. It has been custom painted with a sleek and futuristic hydrographic.\\n\\n<i>We must be smart how we move against her, one wrong move and she'll come crashing down on both of us - The Serpent and the Truth Seeker</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 20.35,
+      "max": 169.52,
+      "mean": 28.43,
+      "median": 23.34,
+      "suggested": 26.43,
+      "quantity": 40,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 5.37,
+      "max": 131.85,
+      "mean": 16.13,
+      "median": 7.21,
+      "suggested": 6.56,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.73,
+      "max": 81.57,
+      "mean": 6.93,
+      "median": 2.92,
+      "suggested": 3.19,
+      "quantity": 50,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.7,
+      "max": 124.85,
+      "mean": 6.22,
+      "median": 1.93,
+      "suggested": 2.26,
+      "quantity": 29,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.48,
+      "max": 6.49,
+      "mean": 2.19,
+      "median": 1.87,
+      "suggested": 2.01,
+      "quantity": 23,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Tec-9 | Avalanche (Factory New)",
+      "price": {
+        "min": 20.35,
+        "max": 169.52,
+        "mean": 28.43,
+        "median": 23.34,
+        "suggested": 26.43,
+        "quantity": 40,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Tec-9 | Avalanche (Minimal Wear)",
+      "price": {
+        "min": 5.37,
+        "max": 131.85,
+        "mean": 16.13,
+        "median": 7.21,
+        "suggested": 6.56,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Tec-9 | Avalanche (Field-Tested)",
+      "price": {
+        "min": 2.73,
+        "max": 81.57,
+        "mean": 6.93,
+        "median": 2.92,
+        "suggested": 3.19,
+        "quantity": 50,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Tec-9 | Avalanche (Well-Worn)",
+      "price": {
+        "min": 1.7,
+        "max": 124.85,
+        "mean": 6.22,
+        "median": 1.93,
+        "suggested": 2.26,
+        "quantity": 29,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Tec-9 | Avalanche (Battle-Scarred)",
+      "price": {
+        "min": 1.48,
+        "max": 6.49,
+        "mean": 2.19,
+        "median": 1.87,
+        "suggested": 2.01,
+        "quantity": 23,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Tec-9 | Avalanche (Factory New)",
+        "price": {
+          "min": 20.35,
+          "max": 169.52,
+          "mean": 28.43,
+          "median": 23.34,
+          "suggested": 26.43,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Tec-9 | Avalanche (Minimal Wear)",
+        "price": {
+          "min": 5.37,
+          "max": 131.85,
+          "mean": 16.13,
+          "median": 7.21,
+          "suggested": 6.56,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Tec-9 | Avalanche (Field-Tested)",
+        "price": {
+          "min": 2.73,
+          "max": 81.57,
+          "mean": 6.93,
+          "median": 2.92,
+          "suggested": 3.19,
+          "quantity": 50,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Tec-9 | Avalanche (Well-Worn)",
+        "price": {
+          "min": 1.7,
+          "max": 124.85,
+          "mean": 6.22,
+          "median": 1.93,
+          "suggested": 2.26,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Tec-9 | Avalanche (Battle-Scarred)",
+        "price": {
+          "min": 1.48,
+          "max": 6.49,
+          "mean": 2.19,
+          "median": 1.87,
+          "suggested": 2.01,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Tec-9 | Avalanche (Factory New)",
+        "price": {
+          "min": 24.51,
+          "max": 102.41,
+          "mean": 36.44,
+          "median": 31.27,
+          "suggested": 29.28,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Tec-9 | Avalanche (Minimal Wear)",
+        "price": {
+          "min": 12.36,
+          "max": 38.89,
+          "mean": 20.55,
+          "median": 17.83,
+          "suggested": 13.5,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Tec-9 | Avalanche (Field-Tested)",
+        "price": {
+          "min": 4.96,
+          "max": 64.82,
+          "mean": 11.23,
+          "median": 5.97,
+          "suggested": 6.86,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Tec-9 | Avalanche (Well-Worn)",
+        "price": {
+          "min": 3.63,
+          "max": 16.34,
+          "mean": 5.08,
+          "median": 4.15,
+          "suggested": 4.35,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Tec-9 | Avalanche (Battle-Scarred)",
+        "price": {
+          "min": 3.01,
+          "max": 127.18,
+          "mean": 10.74,
+          "median": 3.48,
+          "suggested": 3.9,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Tec-9 | Avalanche (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Tec-9 | Avalanche (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Tec-9 | Avalanche (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Tec-9 | Avalanche (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Tec-9 | Avalanche (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.118Z"
+}

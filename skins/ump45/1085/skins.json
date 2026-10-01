@@ -1,0 +1,233 @@
+{
+  "id": "skin-50ccad9f2ecc",
+  "name": "UMP-45 | Mechanism",
+  "paint_index": "1085",
+  "weapon": {
+    "id": "weapon_ump45",
+    "weapon_id": 24,
+    "name": "UMP-45",
+    "slug": "ump45"
+  },
+  "pattern": {
+    "id": "aa_engine_performance",
+    "name": "Mechanism"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.49,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic. An anodized pattern of engine components has been applied.\\n\\n<i>\\\"It doesn't look good...\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.22,
+      "max": 36.53,
+      "mean": 14.95,
+      "median": 16.71,
+      "suggested": 3.27,
+      "quantity": 34,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.73,
+      "max": 77.6,
+      "mean": 7.16,
+      "median": 1.76,
+      "suggested": 2.74,
+      "quantity": 85,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.24,
+      "max": 70.6,
+      "mean": 37.75,
+      "median": 23.34,
+      "suggested": 2.2,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "UMP-45 | Mechanism (Factory New)",
+      "price": {
+        "min": 2.22,
+        "max": 36.53,
+        "mean": 14.95,
+        "median": 16.71,
+        "suggested": 3.27,
+        "quantity": 34,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "UMP-45 | Mechanism (Minimal Wear)",
+      "price": {
+        "min": 1.73,
+        "max": 77.6,
+        "mean": 7.16,
+        "median": 1.76,
+        "suggested": 2.74,
+        "quantity": 85,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "UMP-45 | Mechanism (Field-Tested)",
+      "price": {
+        "min": 2.24,
+        "max": 70.6,
+        "mean": 37.75,
+        "median": 23.34,
+        "suggested": 2.2,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "UMP-45 | Mechanism (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "UMP-45 | Mechanism (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "UMP-45 | Mechanism (Factory New)",
+        "price": {
+          "min": 2.22,
+          "max": 36.53,
+          "mean": 14.95,
+          "median": 16.71,
+          "suggested": 3.27,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "UMP-45 | Mechanism (Minimal Wear)",
+        "price": {
+          "min": 1.73,
+          "max": 77.6,
+          "mean": 7.16,
+          "median": 1.76,
+          "suggested": 2.74,
+          "quantity": 85,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "UMP-45 | Mechanism (Field-Tested)",
+        "price": {
+          "min": 2.24,
+          "max": 70.6,
+          "mean": 37.75,
+          "median": 23.34,
+          "suggested": 2.2,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "UMP-45 | Mechanism (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "UMP-45 | Mechanism (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir UMP-45 | Mechanism (Factory New)",
+        "price": {
+          "min": 2.49,
+          "max": 70.02,
+          "mean": 7.38,
+          "median": 5.1,
+          "suggested": 2.96,
+          "quantity": 96,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir UMP-45 | Mechanism (Minimal Wear)",
+        "price": {
+          "min": 2.16,
+          "max": 25.66,
+          "mean": 5.62,
+          "median": 5.62,
+          "suggested": 2.55,
+          "quantity": 54,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir UMP-45 | Mechanism (Field-Tested)",
+        "price": {
+          "min": 1.46,
+          "max": 56.97,
+          "mean": 5.99,
+          "median": 1.93,
+          "suggested": 2.03,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir UMP-45 | Mechanism (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir UMP-45 | Mechanism (Battle-Scarred)",
+        "price": {
+          "min": 1.76,
+          "max": 1.76,
+          "mean": 1.76,
+          "median": 1.76,
+          "suggested": 1.8,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.685Z"
+}

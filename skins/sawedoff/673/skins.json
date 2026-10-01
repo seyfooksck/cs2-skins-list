@@ -1,0 +1,310 @@
+{
+  "id": "skin-9be5df6c224c",
+  "name": "Sawed-Off | Morris",
+  "paint_index": "673",
+  "weapon": {
+    "id": "weapon_sawedoff",
+    "weapon_id": 29,
+    "name": "Sawed-Off",
+    "slug": "sawedoff"
+  },
+  "pattern": {
+    "id": "aq_sawed-off_flower",
+    "name": "Morris"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit. It has been hand painted with ornate flowers using a pale color palette.\\n\\n<i>Close quarters nouveau</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.15,
+      "max": 10.5,
+      "mean": 5.43,
+      "median": 5.83,
+      "suggested": 2.18,
+      "quantity": 25,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.35,
+      "max": 4.1,
+      "mean": 0.65,
+      "median": 0.48,
+      "suggested": 0.44,
+      "quantity": 35,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.21,
+      "max": 7.99,
+      "mean": 0.47,
+      "median": 0.33,
+      "suggested": 0.3,
+      "quantity": 184,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.15,
+      "max": 5.25,
+      "mean": 0.58,
+      "median": 0.23,
+      "suggested": 0.18,
+      "quantity": 56,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.14,
+      "max": 2.79,
+      "mean": 0.69,
+      "median": 0.27,
+      "suggested": 0.18,
+      "quantity": 58,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Sawed-Off | Morris (Factory New)",
+      "price": {
+        "min": 2.15,
+        "max": 10.5,
+        "mean": 5.43,
+        "median": 5.83,
+        "suggested": 2.18,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Sawed-Off | Morris (Minimal Wear)",
+      "price": {
+        "min": 0.35,
+        "max": 4.1,
+        "mean": 0.65,
+        "median": 0.48,
+        "suggested": 0.44,
+        "quantity": 35,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Sawed-Off | Morris (Field-Tested)",
+      "price": {
+        "min": 0.21,
+        "max": 7.99,
+        "mean": 0.47,
+        "median": 0.33,
+        "suggested": 0.3,
+        "quantity": 184,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Sawed-Off | Morris (Well-Worn)",
+      "price": {
+        "min": 0.15,
+        "max": 5.25,
+        "mean": 0.58,
+        "median": 0.23,
+        "suggested": 0.18,
+        "quantity": 56,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Sawed-Off | Morris (Battle-Scarred)",
+      "price": {
+        "min": 0.14,
+        "max": 2.79,
+        "mean": 0.69,
+        "median": 0.27,
+        "suggested": 0.18,
+        "quantity": 58,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Sawed-Off | Morris (Factory New)",
+        "price": {
+          "min": 2.15,
+          "max": 10.5,
+          "mean": 5.43,
+          "median": 5.83,
+          "suggested": 2.18,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Sawed-Off | Morris (Minimal Wear)",
+        "price": {
+          "min": 0.35,
+          "max": 4.1,
+          "mean": 0.65,
+          "median": 0.48,
+          "suggested": 0.44,
+          "quantity": 35,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Sawed-Off | Morris (Field-Tested)",
+        "price": {
+          "min": 0.21,
+          "max": 7.99,
+          "mean": 0.47,
+          "median": 0.33,
+          "suggested": 0.3,
+          "quantity": 184,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Sawed-Off | Morris (Well-Worn)",
+        "price": {
+          "min": 0.15,
+          "max": 5.25,
+          "mean": 0.58,
+          "median": 0.23,
+          "suggested": 0.18,
+          "quantity": 56,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Sawed-Off | Morris (Battle-Scarred)",
+        "price": {
+          "min": 0.14,
+          "max": 2.79,
+          "mean": 0.69,
+          "median": 0.27,
+          "suggested": 0.18,
+          "quantity": 58,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Morris (Factory New)",
+        "price": {
+          "min": 1.46,
+          "max": 18.66,
+          "mean": 4.49,
+          "median": 2.77,
+          "suggested": 1.99,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Morris (Minimal Wear)",
+        "price": {
+          "min": 0.33,
+          "max": 11.32,
+          "mean": 1.68,
+          "median": 0.47,
+          "suggested": 0.42,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Morris (Field-Tested)",
+        "price": {
+          "min": 0.16,
+          "max": 1.95,
+          "mean": 0.33,
+          "median": 0.22,
+          "suggested": 0.2,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Morris (Well-Worn)",
+        "price": {
+          "min": 0.13,
+          "max": 0.27,
+          "mean": 0.2,
+          "median": 0.21,
+          "suggested": 0.2,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Morris (Battle-Scarred)",
+        "price": {
+          "min": 0.16,
+          "max": 6.44,
+          "mean": 0.91,
+          "median": 0.21,
+          "suggested": 0.2,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Sawed-Off | Morris (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Sawed-Off | Morris (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Sawed-Off | Morris (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Sawed-Off | Morris (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Sawed-Off | Morris (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:46.930Z"
+}

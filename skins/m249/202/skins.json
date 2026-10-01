@@ -1,0 +1,201 @@
+{
+  "id": "skin-735df44a0719",
+  "name": "M249 | Jungle DDPAT",
+  "paint_index": "202",
+  "weapon": {
+    "id": "weapon_m249",
+    "weapon_id": 14,
+    "name": "M249",
+    "slug": "m249"
+  },
+  "pattern": {
+    "id": "hy_ddpat_jungle_bravo",
+    "name": "Jungle DDPAT"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A strong open-area LMG, the M249 is the perfect choice for players willing to trade a slow fire rate for increased accuracy and a high ammo capacity. It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.\\n\\n<i>By the time you're close enough to notice the pixels it's already too late</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 8.06,
+      "max": 43.02,
+      "mean": 18.51,
+      "median": 13.96,
+      "suggested": 9.79,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 15.04,
+      "max": 15.04,
+      "mean": 15.04,
+      "median": 15.04,
+      "suggested": 4.55,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 3.84,
+      "max": 17.25,
+      "mean": 10.55,
+      "median": 10.55,
+      "suggested": 3.11,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M249 | Jungle DDPAT (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M249 | Jungle DDPAT (Minimal Wear)",
+      "price": {
+        "min": 8.06,
+        "max": 43.02,
+        "mean": 18.51,
+        "median": 13.96,
+        "suggested": 9.79,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M249 | Jungle DDPAT (Field-Tested)",
+      "price": {
+        "min": 15.04,
+        "max": 15.04,
+        "mean": 15.04,
+        "median": 15.04,
+        "suggested": 4.55,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M249 | Jungle DDPAT (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M249 | Jungle DDPAT (Battle-Scarred)",
+      "price": {
+        "min": 3.84,
+        "max": 17.25,
+        "mean": 10.55,
+        "median": 10.55,
+        "suggested": 3.11,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M249 | Jungle DDPAT (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "M249 | Jungle DDPAT (Minimal Wear)",
+        "price": {
+          "min": 8.06,
+          "max": 43.02,
+          "mean": 18.51,
+          "median": 13.96,
+          "suggested": 9.79,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M249 | Jungle DDPAT (Field-Tested)",
+        "price": {
+          "min": 15.04,
+          "max": 15.04,
+          "mean": 15.04,
+          "median": 15.04,
+          "suggested": 4.55,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M249 | Jungle DDPAT (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "M249 | Jungle DDPAT (Battle-Scarred)",
+        "price": {
+          "min": 3.84,
+          "max": 17.25,
+          "mean": 10.55,
+          "median": 10.55,
+          "suggested": 3.11,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M249 | Jungle DDPAT (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M249 | Jungle DDPAT (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M249 | Jungle DDPAT (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M249 | Jungle DDPAT (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M249 | Jungle DDPAT (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:39.872Z"
+}

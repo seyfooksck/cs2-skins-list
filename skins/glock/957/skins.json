@@ -1,0 +1,310 @@
+{
+  "id": "skin-3596d60709cc",
+  "name": "Glock-18 | Bullet Queen",
+  "paint_index": "957",
+  "weapon": {
+    "id": "weapon_glock",
+    "weapon_id": 4,
+    "name": "Glock-18",
+    "slug": "glock"
+  },
+  "pattern": {
+    "id": "cu_glock18_warmaiden",
+    "name": "Bullet Queen"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. Menacing bullets and a War Maiden in a pink jacket have been custom painted over a yellow and black base.\\n\\n<i>\\\"I'll stop shooting when you start shushing\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 165.94,
+      "max": 563.27,
+      "mean": 241.09,
+      "median": 208.44,
+      "suggested": 227.5,
+      "quantity": 20,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 63.49,
+      "max": 161.43,
+      "mean": 75.71,
+      "median": 72.79,
+      "suggested": 85.24,
+      "quantity": 84,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 56.3,
+      "max": 125.2,
+      "mean": 64.62,
+      "median": 63.55,
+      "suggested": 75.27,
+      "quantity": 189,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 54.85,
+      "max": 102.41,
+      "mean": 63.01,
+      "median": 61.14,
+      "suggested": 70.74,
+      "quantity": 60,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 55.1,
+      "max": 140.03,
+      "mean": 62.69,
+      "median": 60.04,
+      "suggested": 71.32,
+      "quantity": 40,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Glock-18 | Bullet Queen (Factory New)",
+      "price": {
+        "min": 165.94,
+        "max": 563.27,
+        "mean": 241.09,
+        "median": 208.44,
+        "suggested": 227.5,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Glock-18 | Bullet Queen (Minimal Wear)",
+      "price": {
+        "min": 63.49,
+        "max": 161.43,
+        "mean": 75.71,
+        "median": 72.79,
+        "suggested": 85.24,
+        "quantity": 84,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Glock-18 | Bullet Queen (Field-Tested)",
+      "price": {
+        "min": 56.3,
+        "max": 125.2,
+        "mean": 64.62,
+        "median": 63.55,
+        "suggested": 75.27,
+        "quantity": 189,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Glock-18 | Bullet Queen (Well-Worn)",
+      "price": {
+        "min": 54.85,
+        "max": 102.41,
+        "mean": 63.01,
+        "median": 61.14,
+        "suggested": 70.74,
+        "quantity": 60,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Glock-18 | Bullet Queen (Battle-Scarred)",
+      "price": {
+        "min": 55.1,
+        "max": 140.03,
+        "mean": 62.69,
+        "median": 60.04,
+        "suggested": 71.32,
+        "quantity": 40,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Glock-18 | Bullet Queen (Factory New)",
+        "price": {
+          "min": 165.94,
+          "max": 563.27,
+          "mean": 241.09,
+          "median": 208.44,
+          "suggested": 227.5,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Glock-18 | Bullet Queen (Minimal Wear)",
+        "price": {
+          "min": 63.49,
+          "max": 161.43,
+          "mean": 75.71,
+          "median": 72.79,
+          "suggested": 85.24,
+          "quantity": 84,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Glock-18 | Bullet Queen (Field-Tested)",
+        "price": {
+          "min": 56.3,
+          "max": 125.2,
+          "mean": 64.62,
+          "median": 63.55,
+          "suggested": 75.27,
+          "quantity": 189,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Glock-18 | Bullet Queen (Well-Worn)",
+        "price": {
+          "min": 54.85,
+          "max": 102.41,
+          "mean": 63.01,
+          "median": 61.14,
+          "suggested": 70.74,
+          "quantity": 60,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Glock-18 | Bullet Queen (Battle-Scarred)",
+        "price": {
+          "min": 55.1,
+          "max": 140.03,
+          "mean": 62.69,
+          "median": 60.04,
+          "suggested": 71.32,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Glock-18 | Bullet Queen (Factory New)",
+        "price": {
+          "min": 149.52,
+          "max": 245.05,
+          "mean": 205.51,
+          "median": 201.21,
+          "suggested": 217.68,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Glock-18 | Bullet Queen (Minimal Wear)",
+        "price": {
+          "min": 70.1,
+          "max": 105.02,
+          "mean": 83.86,
+          "median": 82.41,
+          "suggested": 100.64,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Glock-18 | Bullet Queen (Field-Tested)",
+        "price": {
+          "min": 58.65,
+          "max": 81.67,
+          "mean": 64.29,
+          "median": 63,
+          "suggested": 72.45,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Glock-18 | Bullet Queen (Well-Worn)",
+        "price": {
+          "min": 52.45,
+          "max": 79.29,
+          "mean": 59.68,
+          "median": 59.37,
+          "suggested": 66.96,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Glock-18 | Bullet Queen (Battle-Scarred)",
+        "price": {
+          "min": 57.06,
+          "max": 69.25,
+          "mean": 60.81,
+          "median": 59.67,
+          "suggested": 69.2,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Glock-18 | Bullet Queen (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Glock-18 | Bullet Queen (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Glock-18 | Bullet Queen (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Glock-18 | Bullet Queen (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Glock-18 | Bullet Queen (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:31.740Z"
+}

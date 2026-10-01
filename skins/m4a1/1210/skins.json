@@ -1,0 +1,310 @@
+{
+  "id": "skin-5626422553f8",
+  "name": "M4A4 | Choppa",
+  "paint_index": "1210",
+  "weapon": {
+    "id": "weapon_m4a1",
+    "weapon_id": 16,
+    "name": "M4A4",
+    "slug": "m4a1"
+  },
+  "pattern": {
+    "id": "m4a4_green_camo",
+    "name": "Choppa"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted using a green camo pattern.\\n\\n<i>Increase your digital footprint</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.26,
+      "max": 115.53,
+      "mean": 8.2,
+      "median": 5.4,
+      "suggested": 2.92,
+      "quantity": 180,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.25,
+      "max": 13.31,
+      "mean": 0.46,
+      "median": 0.32,
+      "suggested": 0.31,
+      "quantity": 756,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.08,
+      "max": 5.44,
+      "mean": 0.25,
+      "median": 0.15,
+      "suggested": 0.12,
+      "quantity": 1037,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.07,
+      "max": 4.67,
+      "mean": 0.16,
+      "median": 0.11,
+      "suggested": 0.1,
+      "quantity": 732,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.07,
+      "max": 4.38,
+      "mean": 0.15,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 394,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A4 | Choppa (Factory New)",
+      "price": {
+        "min": 2.26,
+        "max": 115.53,
+        "mean": 8.2,
+        "median": 5.4,
+        "suggested": 2.92,
+        "quantity": 180,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A4 | Choppa (Minimal Wear)",
+      "price": {
+        "min": 0.25,
+        "max": 13.31,
+        "mean": 0.46,
+        "median": 0.32,
+        "suggested": 0.31,
+        "quantity": 756,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A4 | Choppa (Field-Tested)",
+      "price": {
+        "min": 0.08,
+        "max": 5.44,
+        "mean": 0.25,
+        "median": 0.15,
+        "suggested": 0.12,
+        "quantity": 1037,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M4A4 | Choppa (Well-Worn)",
+      "price": {
+        "min": 0.07,
+        "max": 4.67,
+        "mean": 0.16,
+        "median": 0.11,
+        "suggested": 0.1,
+        "quantity": 732,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M4A4 | Choppa (Battle-Scarred)",
+      "price": {
+        "min": 0.07,
+        "max": 4.38,
+        "mean": 0.15,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 394,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A4 | Choppa (Factory New)",
+        "price": {
+          "min": 2.26,
+          "max": 115.53,
+          "mean": 8.2,
+          "median": 5.4,
+          "suggested": 2.92,
+          "quantity": 180,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A4 | Choppa (Minimal Wear)",
+        "price": {
+          "min": 0.25,
+          "max": 13.31,
+          "mean": 0.46,
+          "median": 0.32,
+          "suggested": 0.31,
+          "quantity": 756,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A4 | Choppa (Field-Tested)",
+        "price": {
+          "min": 0.08,
+          "max": 5.44,
+          "mean": 0.25,
+          "median": 0.15,
+          "suggested": 0.12,
+          "quantity": 1037,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M4A4 | Choppa (Well-Worn)",
+        "price": {
+          "min": 0.07,
+          "max": 4.67,
+          "mean": 0.16,
+          "median": 0.11,
+          "suggested": 0.1,
+          "quantity": 732,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M4A4 | Choppa (Battle-Scarred)",
+        "price": {
+          "min": 0.07,
+          "max": 4.38,
+          "mean": 0.15,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 394,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ M4A4 | Choppa (Factory New)",
+        "price": {
+          "min": 5.17,
+          "max": 45.34,
+          "mean": 19.65,
+          "median": 14.26,
+          "suggested": 5.19,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ M4A4 | Choppa (Minimal Wear)",
+        "price": {
+          "min": 0.68,
+          "max": 29.17,
+          "mean": 2.68,
+          "median": 1.79,
+          "suggested": 0.77,
+          "quantity": 203,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ M4A4 | Choppa (Field-Tested)",
+        "price": {
+          "min": 0.16,
+          "max": 4.04,
+          "mean": 0.62,
+          "median": 0.39,
+          "suggested": 0.21,
+          "quantity": 415,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ M4A4 | Choppa (Well-Worn)",
+        "price": {
+          "min": 0.09,
+          "max": 1.87,
+          "mean": 0.21,
+          "median": 0.21,
+          "suggested": 0.12,
+          "quantity": 240,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ M4A4 | Choppa (Battle-Scarred)",
+        "price": {
+          "min": 0.08,
+          "max": 0.41,
+          "mean": 0.16,
+          "median": 0.15,
+          "suggested": 0.1,
+          "quantity": 151,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A4 | Choppa (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A4 | Choppa (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A4 | Choppa (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M4A4 | Choppa (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M4A4 | Choppa (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:40.619Z"
+}

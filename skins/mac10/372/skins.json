@@ -1,0 +1,257 @@
+{
+  "id": "skin-9f0f8f333aaa",
+  "name": "MAC-10 | Nuclear Garden",
+  "paint_index": "372",
+  "weapon": {
+    "id": "weapon_mac10",
+    "weapon_id": 17,
+    "name": "MAC-10",
+    "slug": "mac10"
+  },
+  "pattern": {
+    "id": "am_nuclear_skulls3_mac10",
+    "name": "Nuclear Garden"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been chromed then overlayed with a semi transparent hydrographic pattern of nuclear skulls and bones.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 46.68,
+      "max": 316.51,
+      "mean": 92.72,
+      "median": 66.14,
+      "suggested": 64.18,
+      "quantity": 38,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 30.31,
+      "max": 1377.51,
+      "mean": 144.33,
+      "median": 38.08,
+      "suggested": 25.32,
+      "quantity": 13,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 28.43,
+      "max": 43.18,
+      "mean": 38.05,
+      "median": 42.56,
+      "suggested": 17.56,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 15.17,
+      "max": 15.17,
+      "mean": 15.17,
+      "median": 15.17,
+      "suggested": 15.97,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAC-10 | Nuclear Garden (Factory New)",
+      "price": {
+        "min": 46.68,
+        "max": 316.51,
+        "mean": 92.72,
+        "median": 66.14,
+        "suggested": 64.18,
+        "quantity": 38,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAC-10 | Nuclear Garden (Minimal Wear)",
+      "price": {
+        "min": 30.31,
+        "max": 1377.51,
+        "mean": 144.33,
+        "median": 38.08,
+        "suggested": 25.32,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAC-10 | Nuclear Garden (Field-Tested)",
+      "price": {
+        "min": 28.43,
+        "max": 43.18,
+        "mean": 38.05,
+        "median": 42.56,
+        "suggested": 17.56,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAC-10 | Nuclear Garden (Well-Worn)",
+      "price": {
+        "min": 15.17,
+        "max": 15.17,
+        "mean": 15.17,
+        "median": 15.17,
+        "suggested": 15.97,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAC-10 | Nuclear Garden (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAC-10 | Nuclear Garden (Factory New)",
+        "price": {
+          "min": 46.68,
+          "max": 316.51,
+          "mean": 92.72,
+          "median": 66.14,
+          "suggested": 64.18,
+          "quantity": 38,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAC-10 | Nuclear Garden (Minimal Wear)",
+        "price": {
+          "min": 30.31,
+          "max": 1377.51,
+          "mean": 144.33,
+          "median": 38.08,
+          "suggested": 25.32,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAC-10 | Nuclear Garden (Field-Tested)",
+        "price": {
+          "min": 28.43,
+          "max": 43.18,
+          "mean": 38.05,
+          "median": 42.56,
+          "suggested": 17.56,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAC-10 | Nuclear Garden (Well-Worn)",
+        "price": {
+          "min": 15.17,
+          "max": 15.17,
+          "mean": 15.17,
+          "median": 15.17,
+          "suggested": 15.97,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MAC-10 | Nuclear Garden (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAC-10 | Nuclear Garden (Factory New)",
+        "price": {
+          "min": 107.61,
+          "max": 799.17,
+          "mean": 376.52,
+          "median": 387.57,
+          "suggested": 54.65,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAC-10 | Nuclear Garden (Minimal Wear)",
+        "price": {
+          "min": 29.17,
+          "max": 102.41,
+          "mean": 51.51,
+          "median": 43.8,
+          "suggested": 28.09,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAC-10 | Nuclear Garden (Field-Tested)",
+        "price": {
+          "min": 21.92,
+          "max": 549.85,
+          "mean": 86.26,
+          "median": 28.44,
+          "suggested": 15.57,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAC-10 | Nuclear Garden (Well-Worn)",
+        "price": {
+          "min": 700.16,
+          "max": 700.16,
+          "mean": 700.16,
+          "median": 700.16,
+          "suggested": 17.95,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAC-10 | Nuclear Garden (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.495Z"
+}

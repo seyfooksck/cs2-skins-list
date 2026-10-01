@@ -1,0 +1,310 @@
+{
+  "id": "skin-21f65eaf09eb",
+  "name": "Galil AR | Signal",
+  "paint_index": "807",
+  "weapon": {
+    "id": "weapon_galilar",
+    "weapon_id": 13,
+    "name": "Galil AR",
+    "slug": "galilar"
+  },
+  "pattern": {
+    "id": "hy_galil_signal_red",
+    "name": "Signal"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat. A hydrographic pattern of red hexagons has been applied over a dark blue base.\\n\\n<i>Information is never free</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 5.27,
+      "max": 79.35,
+      "mean": 12.26,
+      "median": 7.09,
+      "suggested": 7.33,
+      "quantity": 96,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.18,
+      "max": 25.67,
+      "mean": 2.4,
+      "median": 1.41,
+      "suggested": 1.43,
+      "quantity": 126,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.72,
+      "max": 112.66,
+      "mean": 2.08,
+      "median": 0.96,
+      "suggested": 0.91,
+      "quantity": 334,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.76,
+      "max": 39.68,
+      "mean": 2.54,
+      "median": 0.88,
+      "suggested": 0.93,
+      "quantity": 36,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.71,
+      "max": 14.42,
+      "mean": 2.64,
+      "median": 1.74,
+      "suggested": 1.03,
+      "quantity": 14,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Galil AR | Signal (Factory New)",
+      "price": {
+        "min": 5.27,
+        "max": 79.35,
+        "mean": 12.26,
+        "median": 7.09,
+        "suggested": 7.33,
+        "quantity": 96,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Galil AR | Signal (Minimal Wear)",
+      "price": {
+        "min": 1.18,
+        "max": 25.67,
+        "mean": 2.4,
+        "median": 1.41,
+        "suggested": 1.43,
+        "quantity": 126,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Galil AR | Signal (Field-Tested)",
+      "price": {
+        "min": 0.72,
+        "max": 112.66,
+        "mean": 2.08,
+        "median": 0.96,
+        "suggested": 0.91,
+        "quantity": 334,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Galil AR | Signal (Well-Worn)",
+      "price": {
+        "min": 0.76,
+        "max": 39.68,
+        "mean": 2.54,
+        "median": 0.88,
+        "suggested": 0.93,
+        "quantity": 36,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Galil AR | Signal (Battle-Scarred)",
+      "price": {
+        "min": 0.71,
+        "max": 14.42,
+        "mean": 2.64,
+        "median": 1.74,
+        "suggested": 1.03,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Galil AR | Signal (Factory New)",
+        "price": {
+          "min": 5.27,
+          "max": 79.35,
+          "mean": 12.26,
+          "median": 7.09,
+          "suggested": 7.33,
+          "quantity": 96,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Galil AR | Signal (Minimal Wear)",
+        "price": {
+          "min": 1.18,
+          "max": 25.67,
+          "mean": 2.4,
+          "median": 1.41,
+          "suggested": 1.43,
+          "quantity": 126,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Galil AR | Signal (Field-Tested)",
+        "price": {
+          "min": 0.72,
+          "max": 112.66,
+          "mean": 2.08,
+          "median": 0.96,
+          "suggested": 0.91,
+          "quantity": 334,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Galil AR | Signal (Well-Worn)",
+        "price": {
+          "min": 0.76,
+          "max": 39.68,
+          "mean": 2.54,
+          "median": 0.88,
+          "suggested": 0.93,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Galil AR | Signal (Battle-Scarred)",
+        "price": {
+          "min": 0.71,
+          "max": 14.42,
+          "mean": 2.64,
+          "median": 1.74,
+          "suggested": 1.03,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Galil AR | Signal (Factory New)",
+        "price": {
+          "min": 4.75,
+          "max": 135.35,
+          "mean": 20.63,
+          "median": 10.79,
+          "suggested": 5.53,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Galil AR | Signal (Minimal Wear)",
+        "price": {
+          "min": 2.42,
+          "max": 53.13,
+          "mean": 5.73,
+          "median": 2.82,
+          "suggested": 2.91,
+          "quantity": 43,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Galil AR | Signal (Field-Tested)",
+        "price": {
+          "min": 1.07,
+          "max": 56.6,
+          "mean": 3.61,
+          "median": 1.69,
+          "suggested": 1.42,
+          "quantity": 166,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Galil AR | Signal (Well-Worn)",
+        "price": {
+          "min": 1.9,
+          "max": 2.39,
+          "mean": 2.03,
+          "median": 1.96,
+          "suggested": 1.52,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Galil AR | Signal (Battle-Scarred)",
+        "price": {
+          "min": 1.59,
+          "max": 21.64,
+          "mean": 3.52,
+          "median": 1.88,
+          "suggested": 1.51,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Galil AR | Signal (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Galil AR | Signal (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Galil AR | Signal (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Galil AR | Signal (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Galil AR | Signal (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:31.168Z"
+}

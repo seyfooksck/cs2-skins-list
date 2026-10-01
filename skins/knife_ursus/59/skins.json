@@ -1,0 +1,185 @@
+{
+  "id": "skin-3bdc5f369061",
+  "name": "★ Ursus Knife | Slaughter",
+  "paint_index": "59",
+  "weapon": {
+    "id": "weapon_knife_ursus",
+    "weapon_id": 519,
+    "name": "Ursus Knife",
+    "slug": "knife_ursus"
+  },
+  "pattern": {
+    "id": "am_zebra",
+    "name": "Slaughter"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.01,
+  "max_float": 0.26,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This tanto-style survival knife features a faceted blade and full tang, complete with impact pommel. No fuss, no moving parts - just a reliable blade that's ready to work. It has been painted in a zebra-stripe pattern with aluminum and chrome paints with various reflectivities, and has then been covered with a tomato red candy coat.\\n\\n<i>Valeria doesn't pay Javier to ask questions... she pays him to pry out answers</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 189.03,
+      "max": 397.34,
+      "mean": 227.34,
+      "median": 197.29,
+      "suggested": 216.97,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 168.96,
+      "max": 358.35,
+      "mean": 214.53,
+      "median": 194.06,
+      "suggested": 213.73,
+      "quantity": 13,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 207.83,
+      "max": 227.28,
+      "mean": 217.56,
+      "median": 217.56,
+      "suggested": 213.85,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Ursus Knife | Slaughter (Factory New)",
+      "price": {
+        "min": 189.03,
+        "max": 397.34,
+        "mean": 227.34,
+        "median": 197.29,
+        "suggested": 216.97,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Ursus Knife | Slaughter (Minimal Wear)",
+      "price": {
+        "min": 168.96,
+        "max": 358.35,
+        "mean": 214.53,
+        "median": 194.06,
+        "suggested": 213.73,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Ursus Knife | Slaughter (Field-Tested)",
+      "price": {
+        "min": 207.83,
+        "max": 227.28,
+        "mean": 217.56,
+        "median": 217.56,
+        "suggested": 213.85,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Ursus Knife | Slaughter (Factory New)",
+        "price": {
+          "min": 189.03,
+          "max": 397.34,
+          "mean": 227.34,
+          "median": 197.29,
+          "suggested": 216.97,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Ursus Knife | Slaughter (Minimal Wear)",
+        "price": {
+          "min": 168.96,
+          "max": 358.35,
+          "mean": 214.53,
+          "median": 194.06,
+          "suggested": 213.73,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Ursus Knife | Slaughter (Field-Tested)",
+        "price": {
+          "min": 207.83,
+          "max": 227.28,
+          "mean": 217.56,
+          "median": 217.56,
+          "suggested": 213.85,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Ursus Knife | Slaughter (Factory New)",
+        "price": {
+          "min": 249.71,
+          "max": 409.65,
+          "mean": 329.68,
+          "median": 329.68,
+          "suggested": 319.81,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Ursus Knife | Slaughter (Minimal Wear)",
+        "price": {
+          "min": 307.24,
+          "max": 307.24,
+          "mean": 307.24,
+          "median": 307.24,
+          "suggested": 229.71,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Ursus Knife | Slaughter (Field-Tested)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:39.139Z"
+}

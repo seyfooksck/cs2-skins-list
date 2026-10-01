@@ -1,0 +1,289 @@
+{
+  "id": "skin-bb21a91fe207",
+  "name": "MP7 | Tall Grass",
+  "paint_index": "1023",
+  "weapon": {
+    "id": "weapon_mp7",
+    "weapon_id": 33,
+    "name": "MP7",
+    "slug": "mp7"
+  },
+  "pattern": {
+    "id": "hy_drywood_green",
+    "name": "Tall Grass"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.65,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. A green grass hydrographic pattern has been applied.\\n\\n<i>Nothing good ever happens in tall grass</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 11.66,
+      "max": 189.91,
+      "mean": 46.63,
+      "median": 34.89,
+      "suggested": 12.29,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.63,
+      "max": 54.26,
+      "mean": 8.97,
+      "median": 7.69,
+      "suggested": 3.06,
+      "quantity": 21,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.79,
+      "max": 48.43,
+      "mean": 6.98,
+      "median": 5.25,
+      "suggested": 2.18,
+      "quantity": 34,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.97,
+      "max": 3.28,
+      "mean": 2.63,
+      "median": 2.63,
+      "suggested": 1.88,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.84,
+      "max": 4.55,
+      "mean": 3.12,
+      "median": 3.06,
+      "suggested": 1.72,
+      "quantity": 6,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP7 | Tall Grass (Factory New)",
+      "price": {
+        "min": 11.66,
+        "max": 189.91,
+        "mean": 46.63,
+        "median": 34.89,
+        "suggested": 12.29,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP7 | Tall Grass (Minimal Wear)",
+      "price": {
+        "min": 2.63,
+        "max": 54.26,
+        "mean": 8.97,
+        "median": 7.69,
+        "suggested": 3.06,
+        "quantity": 21,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP7 | Tall Grass (Field-Tested)",
+      "price": {
+        "min": 1.79,
+        "max": 48.43,
+        "mean": 6.98,
+        "median": 5.25,
+        "suggested": 2.18,
+        "quantity": 34,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP7 | Tall Grass (Well-Worn)",
+      "price": {
+        "min": 1.97,
+        "max": 3.28,
+        "mean": 2.63,
+        "median": 2.63,
+        "suggested": 1.88,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP7 | Tall Grass (Battle-Scarred)",
+      "price": {
+        "min": 1.84,
+        "max": 4.55,
+        "mean": 3.12,
+        "median": 3.06,
+        "suggested": 1.72,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP7 | Tall Grass (Factory New)",
+        "price": {
+          "min": 11.66,
+          "max": 189.91,
+          "mean": 46.63,
+          "median": 34.89,
+          "suggested": 12.29,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP7 | Tall Grass (Minimal Wear)",
+        "price": {
+          "min": 2.63,
+          "max": 54.26,
+          "mean": 8.97,
+          "median": 7.69,
+          "suggested": 3.06,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP7 | Tall Grass (Field-Tested)",
+        "price": {
+          "min": 1.79,
+          "max": 48.43,
+          "mean": 6.98,
+          "median": 5.25,
+          "suggested": 2.18,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP7 | Tall Grass (Well-Worn)",
+        "price": {
+          "min": 1.97,
+          "max": 3.28,
+          "mean": 2.63,
+          "median": 2.63,
+          "suggested": 1.88,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP7 | Tall Grass (Battle-Scarred)",
+        "price": {
+          "min": 1.84,
+          "max": 4.55,
+          "mean": 3.12,
+          "median": 3.06,
+          "suggested": 1.72,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP7 | Tall Grass (Factory New)",
+        "price": {
+          "min": 3.29,
+          "max": 560.13,
+          "mean": 43.18,
+          "median": 6.41,
+          "suggested": 3.83,
+          "quantity": 38,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP7 | Tall Grass (Minimal Wear)",
+        "price": {
+          "min": 2.4,
+          "max": 14,
+          "mean": 4.35,
+          "median": 4.01,
+          "suggested": 2.89,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP7 | Tall Grass (Field-Tested)",
+        "price": {
+          "min": 1.69,
+          "max": 23.34,
+          "mean": 2.99,
+          "median": 2.38,
+          "suggested": 2.02,
+          "quantity": 48,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP7 | Tall Grass (Well-Worn)",
+        "price": {
+          "min": 2.66,
+          "max": 4.06,
+          "mean": 3.55,
+          "median": 3.5,
+          "suggested": 1.5,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP7 | Tall Grass (Battle-Scarred)",
+        "price": {
+          "min": 1.39,
+          "max": 23.34,
+          "mean": 5.23,
+          "median": 2,
+          "suggested": 1.63,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:43.180Z"
+}

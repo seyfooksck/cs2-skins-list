@@ -1,0 +1,310 @@
+{
+  "id": "skin-2e2b5cf9fae7",
+  "name": "Five-SeveN | Fairy Tale",
+  "paint_index": "979",
+  "weapon": {
+    "id": "weapon_fiveseven",
+    "weapon_id": 3,
+    "name": "Five-SeveN",
+    "slug": "fiveseven"
+  },
+  "pattern": {
+    "id": "cu_five_seven_diary",
+    "name": "Fairy Tale"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0.02,
+  "max_float": 0.9,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. It has been custom painted with a princess, unicorns, beautiful flowers, and a castle in the distance.\\n\\n<i>\\\"Today's gonna be a good day—I can just feel it\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 357.12,
+      "max": 885.29,
+      "mean": 548.66,
+      "median": 479.25,
+      "suggested": 421.47,
+      "quantity": 20,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 65.86,
+      "max": 198.38,
+      "mean": 86.9,
+      "median": 75,
+      "suggested": 79.77,
+      "quantity": 23,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 29.06,
+      "max": 879.29,
+      "mean": 71.77,
+      "median": 42.65,
+      "suggested": 36.9,
+      "quantity": 28,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 27.77,
+      "max": 28.04,
+      "mean": 27.91,
+      "median": 27.91,
+      "suggested": 32.06,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 27.59,
+      "max": 52.51,
+      "mean": 37.7,
+      "median": 30.18,
+      "suggested": 31.91,
+      "quantity": 10,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Five-SeveN | Fairy Tale (Factory New)",
+      "price": {
+        "min": 357.12,
+        "max": 885.29,
+        "mean": 548.66,
+        "median": 479.25,
+        "suggested": 421.47,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Five-SeveN | Fairy Tale (Minimal Wear)",
+      "price": {
+        "min": 65.86,
+        "max": 198.38,
+        "mean": 86.9,
+        "median": 75,
+        "suggested": 79.77,
+        "quantity": 23,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Five-SeveN | Fairy Tale (Field-Tested)",
+      "price": {
+        "min": 29.06,
+        "max": 879.29,
+        "mean": 71.77,
+        "median": 42.65,
+        "suggested": 36.9,
+        "quantity": 28,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Five-SeveN | Fairy Tale (Well-Worn)",
+      "price": {
+        "min": 27.77,
+        "max": 28.04,
+        "mean": 27.91,
+        "median": 27.91,
+        "suggested": 32.06,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Five-SeveN | Fairy Tale (Battle-Scarred)",
+      "price": {
+        "min": 27.59,
+        "max": 52.51,
+        "mean": 37.7,
+        "median": 30.18,
+        "suggested": 31.91,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Five-SeveN | Fairy Tale (Factory New)",
+        "price": {
+          "min": 357.12,
+          "max": 885.29,
+          "mean": 548.66,
+          "median": 479.25,
+          "suggested": 421.47,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Five-SeveN | Fairy Tale (Minimal Wear)",
+        "price": {
+          "min": 65.86,
+          "max": 198.38,
+          "mean": 86.9,
+          "median": 75,
+          "suggested": 79.77,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Five-SeveN | Fairy Tale (Field-Tested)",
+        "price": {
+          "min": 29.06,
+          "max": 879.29,
+          "mean": 71.77,
+          "median": 42.65,
+          "suggested": 36.9,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Five-SeveN | Fairy Tale (Well-Worn)",
+        "price": {
+          "min": 27.77,
+          "max": 28.04,
+          "mean": 27.91,
+          "median": 27.91,
+          "suggested": 32.06,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Five-SeveN | Fairy Tale (Battle-Scarred)",
+        "price": {
+          "min": 27.59,
+          "max": 52.51,
+          "mean": 37.7,
+          "median": 30.18,
+          "suggested": 31.91,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Fairy Tale (Factory New)",
+        "price": {
+          "min": 204.06,
+          "max": 641.82,
+          "mean": 317.86,
+          "median": 217.38,
+          "suggested": 250.25,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Fairy Tale (Minimal Wear)",
+        "price": {
+          "min": 75.5,
+          "max": 348.81,
+          "mean": 122.35,
+          "median": 101.92,
+          "suggested": 95.63,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Fairy Tale (Field-Tested)",
+        "price": {
+          "min": 47.62,
+          "max": 79.9,
+          "mean": 59.75,
+          "median": 51.72,
+          "suggested": 56.42,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Fairy Tale (Well-Worn)",
+        "price": {
+          "min": 31.64,
+          "max": 36.57,
+          "mean": 34.11,
+          "median": 34.11,
+          "suggested": 41.93,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Fairy Tale (Battle-Scarred)",
+        "price": {
+          "min": 37.86,
+          "max": 1166.94,
+          "mean": 602.4,
+          "median": 602.4,
+          "suggested": 39.19,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Five-SeveN | Fairy Tale (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Five-SeveN | Fairy Tale (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Five-SeveN | Fairy Tale (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Five-SeveN | Fairy Tale (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Five-SeveN | Fairy Tale (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:30.012Z"
+}

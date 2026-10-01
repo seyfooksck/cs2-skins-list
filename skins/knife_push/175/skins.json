@@ -1,0 +1,233 @@
+{
+  "id": "skin-4c0f4d0143ab",
+  "name": "★ Shadow Daggers | Scorched",
+  "paint_index": "175",
+  "weapon": {
+    "id": "weapon_knife_push",
+    "weapon_id": 516,
+    "name": "Shadow Daggers",
+    "slug": "knife_push"
+  },
+  "pattern": {
+    "id": "sp_dapple",
+    "name": "Scorched"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Designed for efficient brutality, using a push dagger is as simple as throwing a punch or two. It has been spray-painted in a sun-dappled pattern.\\n\\n<i>The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 134.2,
+      "max": 134.2,
+      "mean": 134.2,
+      "median": 134.2,
+      "suggested": 150.91,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 57.85,
+      "max": 67.16,
+      "mean": 61.11,
+      "median": 58.34,
+      "suggested": 65.8,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 46.68,
+      "max": 54.99,
+      "mean": 52.03,
+      "median": 52.7,
+      "suggested": 57.12,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 58.83,
+      "max": 87.53,
+      "mean": 73.18,
+      "median": 73.18,
+      "suggested": 68.59,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Shadow Daggers | Scorched (Factory New)",
+      "price": {
+        "min": 134.2,
+        "max": 134.2,
+        "mean": 134.2,
+        "median": 134.2,
+        "suggested": 150.91,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Shadow Daggers | Scorched (Minimal Wear)",
+      "price": {
+        "min": 57.85,
+        "max": 67.16,
+        "mean": 61.11,
+        "median": 58.34,
+        "suggested": 65.8,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Shadow Daggers | Scorched (Field-Tested)",
+      "price": {
+        "min": 46.68,
+        "max": 54.99,
+        "mean": 52.03,
+        "median": 52.7,
+        "suggested": 57.12,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Shadow Daggers | Scorched (Well-Worn)",
+      "price": {
+        "min": 58.83,
+        "max": 87.53,
+        "mean": 73.18,
+        "median": 73.18,
+        "suggested": 68.59,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Shadow Daggers | Scorched (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Shadow Daggers | Scorched (Factory New)",
+        "price": {
+          "min": 134.2,
+          "max": 134.2,
+          "mean": 134.2,
+          "median": 134.2,
+          "suggested": 150.91,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Shadow Daggers | Scorched (Minimal Wear)",
+        "price": {
+          "min": 57.85,
+          "max": 67.16,
+          "mean": 61.11,
+          "median": 58.34,
+          "suggested": 65.8,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Shadow Daggers | Scorched (Field-Tested)",
+        "price": {
+          "min": 46.68,
+          "max": 54.99,
+          "mean": 52.03,
+          "median": 52.7,
+          "suggested": 57.12,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Shadow Daggers | Scorched (Well-Worn)",
+        "price": {
+          "min": 58.83,
+          "max": 87.53,
+          "mean": 73.18,
+          "median": 73.18,
+          "suggested": 68.59,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Shadow Daggers | Scorched (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Shadow Daggers | Scorched (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Shadow Daggers | Scorched (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Shadow Daggers | Scorched (Field-Tested)",
+        "price": {
+          "min": 79.53,
+          "max": 79.53,
+          "mean": 79.53,
+          "median": 79.53,
+          "suggested": 69.31,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Shadow Daggers | Scorched (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Shadow Daggers | Scorched (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:37.526Z"
+}

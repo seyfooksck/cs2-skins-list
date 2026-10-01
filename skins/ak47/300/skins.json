@@ -1,0 +1,249 @@
+{
+  "id": "skin-08d8e5941dfe",
+  "name": "AK-47 | Emerald Pinstripe",
+  "paint_index": "300",
+  "weapon": {
+    "id": "weapon_ak47",
+    "weapon_id": 7,
+    "name": "AK-47",
+    "slug": "ak47"
+  },
+  "pattern": {
+    "id": "cu_pinstripe_ak47",
+    "name": "Emerald Pinstripe"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. It has been given a bog oak stock and painted a white and green pinstripes.\\n\\n<i>Questioning Imogen is questioning me. Now Relax, have some scotch, and let's talk business - The Father and The Phoenix Part 2</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 25.37,
+      "max": 675.94,
+      "mean": 92,
+      "median": 57.71,
+      "suggested": 31.48,
+      "quantity": 41,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 3.97,
+      "max": 382.2,
+      "mean": 26.22,
+      "median": 11.67,
+      "suggested": 5.22,
+      "quantity": 92,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.37,
+      "max": 87.52,
+      "mean": 9.62,
+      "median": 6.41,
+      "suggested": 3.23,
+      "quantity": 177,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 2.18,
+      "max": 81.67,
+      "mean": 6.62,
+      "median": 3.5,
+      "suggested": 3.01,
+      "quantity": 71,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 2.26,
+      "max": 124.85,
+      "mean": 9.36,
+      "median": 4.28,
+      "suggested": 3,
+      "quantity": 40,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AK-47 | Emerald Pinstripe (Factory New)",
+      "price": {
+        "min": 25.37,
+        "max": 675.94,
+        "mean": 92,
+        "median": 57.71,
+        "suggested": 31.48,
+        "quantity": 41,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AK-47 | Emerald Pinstripe (Minimal Wear)",
+      "price": {
+        "min": 3.97,
+        "max": 382.2,
+        "mean": 26.22,
+        "median": 11.67,
+        "suggested": 5.22,
+        "quantity": 92,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AK-47 | Emerald Pinstripe (Field-Tested)",
+      "price": {
+        "min": 2.37,
+        "max": 87.52,
+        "mean": 9.62,
+        "median": 6.41,
+        "suggested": 3.23,
+        "quantity": 177,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AK-47 | Emerald Pinstripe (Well-Worn)",
+      "price": {
+        "min": 2.18,
+        "max": 81.67,
+        "mean": 6.62,
+        "median": 3.5,
+        "suggested": 3.01,
+        "quantity": 71,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AK-47 | Emerald Pinstripe (Battle-Scarred)",
+      "price": {
+        "min": 2.26,
+        "max": 124.85,
+        "mean": 9.36,
+        "median": 4.28,
+        "suggested": 3,
+        "quantity": 40,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AK-47 | Emerald Pinstripe (Factory New)",
+        "price": {
+          "min": 25.37,
+          "max": 675.94,
+          "mean": 92,
+          "median": 57.71,
+          "suggested": 31.48,
+          "quantity": 41,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AK-47 | Emerald Pinstripe (Minimal Wear)",
+        "price": {
+          "min": 3.97,
+          "max": 382.2,
+          "mean": 26.22,
+          "median": 11.67,
+          "suggested": 5.22,
+          "quantity": 92,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AK-47 | Emerald Pinstripe (Field-Tested)",
+        "price": {
+          "min": 2.37,
+          "max": 87.52,
+          "mean": 9.62,
+          "median": 6.41,
+          "suggested": 3.23,
+          "quantity": 177,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AK-47 | Emerald Pinstripe (Well-Worn)",
+        "price": {
+          "min": 2.18,
+          "max": 81.67,
+          "mean": 6.62,
+          "median": 3.5,
+          "suggested": 3.01,
+          "quantity": 71,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AK-47 | Emerald Pinstripe (Battle-Scarred)",
+        "price": {
+          "min": 2.26,
+          "max": 124.85,
+          "mean": 9.36,
+          "median": 4.28,
+          "suggested": 3,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AK-47 | Emerald Pinstripe (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AK-47 | Emerald Pinstripe (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AK-47 | Emerald Pinstripe (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AK-47 | Emerald Pinstripe (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AK-47 | Emerald Pinstripe (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:20:20.747Z"
+}

@@ -1,0 +1,258 @@
+{
+  "id": "skin-b2a5203033ee",
+  "name": "Five-SeveN | Monkey Business",
+  "paint_index": "427",
+  "weapon": {
+    "id": "weapon_fiveseven",
+    "weapon_id": 3,
+    "name": "Five-SeveN",
+    "slug": "fiveseven"
+  },
+  "pattern": {
+    "id": "cu_fiveseven_banana",
+    "name": "Monkey Business"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0.1,
+  "max_float": 0.9,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. It's a banana.\\n\\n<i>Sometimes it's ok to play with your food</i>",
+  "images": {
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "mw": {
+      "min": 44.34,
+      "max": 274.93,
+      "mean": 79.92,
+      "median": 64.3,
+      "suggested": 58.95,
+      "quantity": 45,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 11.41,
+      "max": 132.42,
+      "mean": 14.2,
+      "median": 13.19,
+      "suggested": 15.06,
+      "quantity": 326,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 11.42,
+      "max": 35.01,
+      "mean": 13.14,
+      "median": 12.28,
+      "suggested": 13.58,
+      "quantity": 67,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 11.12,
+      "max": 29.26,
+      "mean": 14.19,
+      "median": 12.95,
+      "suggested": 13,
+      "quantity": 33,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Five-SeveN | Monkey Business (Minimal Wear)",
+      "price": {
+        "min": 44.34,
+        "max": 274.93,
+        "mean": 79.92,
+        "median": 64.3,
+        "suggested": 58.95,
+        "quantity": 45,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Five-SeveN | Monkey Business (Field-Tested)",
+      "price": {
+        "min": 11.41,
+        "max": 132.42,
+        "mean": 14.2,
+        "median": 13.19,
+        "suggested": 15.06,
+        "quantity": 326,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Five-SeveN | Monkey Business (Well-Worn)",
+      "price": {
+        "min": 11.42,
+        "max": 35.01,
+        "mean": 13.14,
+        "median": 12.28,
+        "suggested": 13.58,
+        "quantity": 67,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Five-SeveN | Monkey Business (Battle-Scarred)",
+      "price": {
+        "min": 11.12,
+        "max": 29.26,
+        "mean": 14.19,
+        "median": 12.95,
+        "suggested": 13,
+        "quantity": 33,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "mw": {
+        "market_hash_name": "Five-SeveN | Monkey Business (Minimal Wear)",
+        "price": {
+          "min": 44.34,
+          "max": 274.93,
+          "mean": 79.92,
+          "median": 64.3,
+          "suggested": 58.95,
+          "quantity": 45,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Five-SeveN | Monkey Business (Field-Tested)",
+        "price": {
+          "min": 11.41,
+          "max": 132.42,
+          "mean": 14.2,
+          "median": 13.19,
+          "suggested": 15.06,
+          "quantity": 326,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Five-SeveN | Monkey Business (Well-Worn)",
+        "price": {
+          "min": 11.42,
+          "max": 35.01,
+          "mean": 13.14,
+          "median": 12.28,
+          "suggested": 13.58,
+          "quantity": 67,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Five-SeveN | Monkey Business (Battle-Scarred)",
+        "price": {
+          "min": 11.12,
+          "max": 29.26,
+          "mean": 14.19,
+          "median": 12.95,
+          "suggested": 13,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "mw": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Monkey Business (Minimal Wear)",
+        "price": {
+          "min": 51.58,
+          "max": 175.04,
+          "mean": 67.62,
+          "median": 60.54,
+          "suggested": 65.77,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Monkey Business (Field-Tested)",
+        "price": {
+          "min": 13.93,
+          "max": 82.63,
+          "mean": 18.25,
+          "median": 15.49,
+          "suggested": 17.61,
+          "quantity": 39,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Monkey Business (Well-Worn)",
+        "price": {
+          "min": 10.25,
+          "max": 18.2,
+          "mean": 13.07,
+          "median": 12.28,
+          "suggested": 13.62,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Monkey Business (Battle-Scarred)",
+        "price": {
+          "min": 11.4,
+          "max": 17.92,
+          "mean": 13.29,
+          "median": 12.16,
+          "suggested": 13.48,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "mw": {
+        "market_hash_name": "Souvenir Five-SeveN | Monkey Business (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Five-SeveN | Monkey Business (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Five-SeveN | Monkey Business (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Five-SeveN | Monkey Business (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:30.056Z"
+}

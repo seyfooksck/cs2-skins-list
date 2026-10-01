@@ -1,0 +1,273 @@
+{
+  "id": "skin-3c42ea1dd98c",
+  "name": "FAMAS | Waters of Nephthys",
+  "paint_index": "1241",
+  "weapon": {
+    "id": "weapon_famas",
+    "weapon_id": 10,
+    "name": "FAMAS",
+    "slug": "famas"
+  },
+  "pattern": {
+    "id": "cu_famas_holo_ocean",
+    "name": "Waters of Nephthys"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. The blues on this custom painted FAMAS shift as lighting conditions change.\\n\\n<i>Water always wins</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 261.73,
+      "max": 649.23,
+      "mean": 431.41,
+      "median": 358.45,
+      "suggested": 278.32,
+      "quantity": 21,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 93.34,
+      "max": 256.04,
+      "mean": 149.29,
+      "median": 124.86,
+      "suggested": 111.19,
+      "quantity": 23,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 46.68,
+      "max": 151.7,
+      "mean": 75.69,
+      "median": 74.58,
+      "suggested": 60.03,
+      "quantity": 22,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 93.35,
+      "max": 93.35,
+      "mean": 93.35,
+      "median": 93.35,
+      "suggested": 54.96,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 46.79,
+      "max": 105.02,
+      "mean": 75.91,
+      "median": 75.91,
+      "suggested": 48.87,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "FAMAS | Waters of Nephthys (Factory New)",
+      "price": {
+        "min": 261.73,
+        "max": 649.23,
+        "mean": 431.41,
+        "median": 358.45,
+        "suggested": 278.32,
+        "quantity": 21,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "FAMAS | Waters of Nephthys (Minimal Wear)",
+      "price": {
+        "min": 93.34,
+        "max": 256.04,
+        "mean": 149.29,
+        "median": 124.86,
+        "suggested": 111.19,
+        "quantity": 23,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "FAMAS | Waters of Nephthys (Field-Tested)",
+      "price": {
+        "min": 46.68,
+        "max": 151.7,
+        "mean": 75.69,
+        "median": 74.58,
+        "suggested": 60.03,
+        "quantity": 22,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "FAMAS | Waters of Nephthys (Well-Worn)",
+      "price": {
+        "min": 93.35,
+        "max": 93.35,
+        "mean": 93.35,
+        "median": 93.35,
+        "suggested": 54.96,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "FAMAS | Waters of Nephthys (Battle-Scarred)",
+      "price": {
+        "min": 46.79,
+        "max": 105.02,
+        "mean": 75.91,
+        "median": 75.91,
+        "suggested": 48.87,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "FAMAS | Waters of Nephthys (Factory New)",
+        "price": {
+          "min": 261.73,
+          "max": 649.23,
+          "mean": 431.41,
+          "median": 358.45,
+          "suggested": 278.32,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "FAMAS | Waters of Nephthys (Minimal Wear)",
+        "price": {
+          "min": 93.34,
+          "max": 256.04,
+          "mean": 149.29,
+          "median": 124.86,
+          "suggested": 111.19,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "FAMAS | Waters of Nephthys (Field-Tested)",
+        "price": {
+          "min": 46.68,
+          "max": 151.7,
+          "mean": 75.69,
+          "median": 74.58,
+          "suggested": 60.03,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "FAMAS | Waters of Nephthys (Well-Worn)",
+        "price": {
+          "min": 93.35,
+          "max": 93.35,
+          "mean": 93.35,
+          "median": 93.35,
+          "suggested": 54.96,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "FAMAS | Waters of Nephthys (Battle-Scarred)",
+        "price": {
+          "min": 46.79,
+          "max": 105.02,
+          "mean": 75.91,
+          "median": 75.91,
+          "suggested": 48.87,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir FAMAS | Waters of Nephthys (Factory New)",
+        "price": {
+          "min": 277.15,
+          "max": 277.15,
+          "mean": 277.15,
+          "median": 277.15,
+          "suggested": 246.18,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir FAMAS | Waters of Nephthys (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir FAMAS | Waters of Nephthys (Field-Tested)",
+        "price": {
+          "min": 56.25,
+          "max": 56.25,
+          "mean": 56.25,
+          "median": 56.25,
+          "suggested": 60.56,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir FAMAS | Waters of Nephthys (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir FAMAS | Waters of Nephthys (Battle-Scarred)",
+        "price": {
+          "min": 56.36,
+          "max": 56.36,
+          "mean": 56.36,
+          "median": 56.36,
+          "suggested": 52.13,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:29.424Z"
+}

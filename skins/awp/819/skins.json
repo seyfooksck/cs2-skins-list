@@ -1,0 +1,265 @@
+{
+  "id": "skin-6c02d562ff70",
+  "name": "AWP | Desert Hydra",
+  "paint_index": "819",
+  "weapon": {
+    "id": "weapon_awp",
+    "weapon_id": 9,
+    "name": "AWP",
+    "slug": "awp"
+  },
+  "pattern": {
+    "id": "gs_awp_hydra",
+    "name": "Desert Hydra"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. Gold snakes creep towards the barrel of this custom painted AWP. The scope, barrel, and butt stock have been painted white.\\n\\n<i>Cutting off one head means two more appear—is that a risk you're willing to take? - Valeria Jenner, Revolutionary</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1590.82,
+      "max": 5155.07,
+      "mean": 2784.34,
+      "median": 2743.42,
+      "suggested": 1872.03,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1339.63,
+      "max": 3500.8,
+      "mean": 1973.75,
+      "median": 1896.88,
+      "suggested": 1545.82,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1126.56,
+      "max": 3034.03,
+      "mean": 1667.87,
+      "median": 1341.98,
+      "suggested": 1365.03,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 1140.48,
+      "max": 2593.19,
+      "mean": 1570.44,
+      "median": 1318.95,
+      "suggested": 1300.69,
+      "quantity": 10,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AWP | Desert Hydra (Factory New)",
+      "price": {
+        "min": 1590.82,
+        "max": 5155.07,
+        "mean": 2784.34,
+        "median": 2743.42,
+        "suggested": 1872.03,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AWP | Desert Hydra (Minimal Wear)",
+      "price": {
+        "min": 1339.63,
+        "max": 3500.8,
+        "mean": 1973.75,
+        "median": 1896.88,
+        "suggested": 1545.82,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AWP | Desert Hydra (Field-Tested)",
+      "price": {
+        "min": 1126.56,
+        "max": 3034.03,
+        "mean": 1667.87,
+        "median": 1341.98,
+        "suggested": 1365.03,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AWP | Desert Hydra (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AWP | Desert Hydra (Battle-Scarred)",
+      "price": {
+        "min": 1140.48,
+        "max": 2593.19,
+        "mean": 1570.44,
+        "median": 1318.95,
+        "suggested": 1300.69,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AWP | Desert Hydra (Factory New)",
+        "price": {
+          "min": 1590.82,
+          "max": 5155.07,
+          "mean": 2784.34,
+          "median": 2743.42,
+          "suggested": 1872.03,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AWP | Desert Hydra (Minimal Wear)",
+        "price": {
+          "min": 1339.63,
+          "max": 3500.8,
+          "mean": 1973.75,
+          "median": 1896.88,
+          "suggested": 1545.82,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AWP | Desert Hydra (Field-Tested)",
+        "price": {
+          "min": 1126.56,
+          "max": 3034.03,
+          "mean": 1667.87,
+          "median": 1341.98,
+          "suggested": 1365.03,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AWP | Desert Hydra (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "AWP | Desert Hydra (Battle-Scarred)",
+        "price": {
+          "min": 1140.48,
+          "max": 2593.19,
+          "mean": 1570.44,
+          "median": 1318.95,
+          "suggested": 1300.69,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AWP | Desert Hydra (Factory New)",
+        "price": {
+          "min": 1983.79,
+          "max": 11679.65,
+          "mean": 5799.21,
+          "median": 3734.2,
+          "suggested": 1939.35,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AWP | Desert Hydra (Minimal Wear)",
+        "price": {
+          "min": 1505.35,
+          "max": 2916.26,
+          "mean": 1988.38,
+          "median": 1788.18,
+          "suggested": 1502.48,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AWP | Desert Hydra (Field-Tested)",
+        "price": {
+          "min": 1166.94,
+          "max": 2333.87,
+          "mean": 1464.56,
+          "median": 1328.64,
+          "suggested": 1267.35,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AWP | Desert Hydra (Well-Worn)",
+        "price": {
+          "min": 1081.61,
+          "max": 1142.43,
+          "mean": 1112.02,
+          "median": 1112.02,
+          "suggested": 1167.01,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AWP | Desert Hydra (Battle-Scarred)",
+        "price": {
+          "min": 1014.73,
+          "max": 2899.2,
+          "mean": 1912.61,
+          "median": 2333.87,
+          "suggested": 1084.25,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:26.200Z"
+}

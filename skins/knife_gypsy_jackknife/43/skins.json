@@ -1,0 +1,233 @@
+{
+  "id": "skin-9be2a16f0d99",
+  "name": "★ Navaja Knife | Stained",
+  "paint_index": "43",
+  "weapon": {
+    "id": "weapon_knife_gypsy_jackknife",
+    "weapon_id": 520,
+    "name": "Navaja Knife",
+    "slug": "knife_gypsy_jackknife"
+  },
+  "pattern": {
+    "id": "aq_forced",
+    "name": "Stained"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This marble-enamel-handled flip knife conceals a small but viciously tapered blade. It has been given a forced patina using lemon and mustard dripped onto the surface.\\n\\n<i>If you think it's messy now, wait until you see it under a blacklight</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 53.24,
+      "max": 65.34,
+      "mean": 57.87,
+      "median": 55.02,
+      "suggested": 64.24,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 54.88,
+      "max": 54.88,
+      "mean": 54.88,
+      "median": 54.88,
+      "suggested": 57.69,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 46.55,
+      "max": 55,
+      "mean": 50.55,
+      "median": 50.32,
+      "suggested": 54.82,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 84.63,
+      "max": 281.09,
+      "mean": 145.47,
+      "median": 108.08,
+      "suggested": 52.34,
+      "quantity": 4,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Navaja Knife | Stained (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Navaja Knife | Stained (Minimal Wear)",
+      "price": {
+        "min": 53.24,
+        "max": 65.34,
+        "mean": 57.87,
+        "median": 55.02,
+        "suggested": 64.24,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Navaja Knife | Stained (Field-Tested)",
+      "price": {
+        "min": 54.88,
+        "max": 54.88,
+        "mean": 54.88,
+        "median": 54.88,
+        "suggested": 57.69,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Navaja Knife | Stained (Well-Worn)",
+      "price": {
+        "min": 46.55,
+        "max": 55,
+        "mean": 50.55,
+        "median": 50.32,
+        "suggested": 54.82,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Navaja Knife | Stained (Battle-Scarred)",
+      "price": {
+        "min": 84.63,
+        "max": 281.09,
+        "mean": 145.47,
+        "median": 108.08,
+        "suggested": 52.34,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Navaja Knife | Stained (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Navaja Knife | Stained (Minimal Wear)",
+        "price": {
+          "min": 53.24,
+          "max": 65.34,
+          "mean": 57.87,
+          "median": 55.02,
+          "suggested": 64.24,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Navaja Knife | Stained (Field-Tested)",
+        "price": {
+          "min": 54.88,
+          "max": 54.88,
+          "mean": 54.88,
+          "median": 54.88,
+          "suggested": 57.69,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Navaja Knife | Stained (Well-Worn)",
+        "price": {
+          "min": 46.55,
+          "max": 55,
+          "mean": 50.55,
+          "median": 50.32,
+          "suggested": 54.82,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Navaja Knife | Stained (Battle-Scarred)",
+        "price": {
+          "min": 84.63,
+          "max": 281.09,
+          "mean": 145.47,
+          "median": 108.08,
+          "suggested": 52.34,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Navaja Knife | Stained (Factory New)",
+        "price": {
+          "min": 171.35,
+          "max": 171.35,
+          "mean": 171.35,
+          "median": 171.35,
+          "suggested": 199.37,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Navaja Knife | Stained (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Navaja Knife | Stained (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Navaja Knife | Stained (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Navaja Knife | Stained (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:35.515Z"
+}

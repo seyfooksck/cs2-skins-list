@@ -1,0 +1,209 @@
+{
+  "id": "skin-ec9d6cd13e48",
+  "name": "AWP | Pit Viper",
+  "paint_index": "251",
+  "weapon": {
+    "id": "weapon_awp",
+    "weapon_id": 9,
+    "name": "AWP",
+    "slug": "awp"
+  },
+  "pattern": {
+    "id": "hy_snakeskin",
+    "name": "Pit Viper"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0.08,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been painted with a snakeskin patterned hydrographic.\\n\\n<i>I know you don't believe in the cause...and when I expose you, Valeria will have your head - The Shield and The Serpent Part 1</i>",
+  "images": {
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "mw": {
+      "min": 1.46,
+      "max": 233.39,
+      "mean": 14.41,
+      "median": 2.32,
+      "suggested": 2.09,
+      "quantity": 364,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.85,
+      "max": 134.5,
+      "mean": 4.42,
+      "median": 1.21,
+      "suggested": 1.18,
+      "quantity": 574,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.03,
+      "max": 30.33,
+      "mean": 2.15,
+      "median": 1.55,
+      "suggested": 1.19,
+      "quantity": 53,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.92,
+      "max": 40.84,
+      "mean": 5.47,
+      "median": 1.38,
+      "suggested": 1.19,
+      "quantity": 41,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AWP | Pit Viper (Minimal Wear)",
+      "price": {
+        "min": 1.46,
+        "max": 233.39,
+        "mean": 14.41,
+        "median": 2.32,
+        "suggested": 2.09,
+        "quantity": 364,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AWP | Pit Viper (Field-Tested)",
+      "price": {
+        "min": 0.85,
+        "max": 134.5,
+        "mean": 4.42,
+        "median": 1.21,
+        "suggested": 1.18,
+        "quantity": 574,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AWP | Pit Viper (Well-Worn)",
+      "price": {
+        "min": 1.03,
+        "max": 30.33,
+        "mean": 2.15,
+        "median": 1.55,
+        "suggested": 1.19,
+        "quantity": 53,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AWP | Pit Viper (Battle-Scarred)",
+      "price": {
+        "min": 0.92,
+        "max": 40.84,
+        "mean": 5.47,
+        "median": 1.38,
+        "suggested": 1.19,
+        "quantity": 41,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "mw": {
+        "market_hash_name": "AWP | Pit Viper (Minimal Wear)",
+        "price": {
+          "min": 1.46,
+          "max": 233.39,
+          "mean": 14.41,
+          "median": 2.32,
+          "suggested": 2.09,
+          "quantity": 364,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AWP | Pit Viper (Field-Tested)",
+        "price": {
+          "min": 0.85,
+          "max": 134.5,
+          "mean": 4.42,
+          "median": 1.21,
+          "suggested": 1.18,
+          "quantity": 574,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AWP | Pit Viper (Well-Worn)",
+        "price": {
+          "min": 1.03,
+          "max": 30.33,
+          "mean": 2.15,
+          "median": 1.55,
+          "suggested": 1.19,
+          "quantity": 53,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AWP | Pit Viper (Battle-Scarred)",
+        "price": {
+          "min": 0.92,
+          "max": 40.84,
+          "mean": 5.47,
+          "median": 1.38,
+          "suggested": 1.19,
+          "quantity": 41,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "mw": {
+        "market_hash_name": "Souvenir AWP | Pit Viper (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AWP | Pit Viper (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AWP | Pit Viper (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AWP | Pit Viper (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:26.311Z"
+}

@@ -1,0 +1,185 @@
+{
+  "id": "skin-bbdcf11905dc",
+  "name": "★ Ursus Knife | Forest DDPAT",
+  "paint_index": "5",
+  "weapon": {
+    "id": "weapon_knife_ursus",
+    "weapon_id": 519,
+    "name": "Ursus Knife",
+    "slug": "knife_ursus"
+  },
+  "pattern": {
+    "id": "hy_ddpat",
+    "name": "Forest DDPAT"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This tanto-style survival knife features a faceted blade and full tang, complete with impact pommel. No fuss, no moving parts - just a reliable blade that's ready to work. It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.\\n\\n<i>By the time you're close enough to notice the pixels it's already too late</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 80.08,
+      "max": 127.88,
+      "mean": 95.77,
+      "median": 87.49,
+      "suggested": 87.04,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 74.53,
+      "max": 198.37,
+      "mean": 136.45,
+      "median": 136.45,
+      "suggested": 77.45,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Ursus Knife | Forest DDPAT (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Ursus Knife | Forest DDPAT (Minimal Wear)",
+      "price": {
+        "min": 80.08,
+        "max": 127.88,
+        "mean": 95.77,
+        "median": 87.49,
+        "suggested": 87.04,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Ursus Knife | Forest DDPAT (Field-Tested)",
+      "price": {
+        "min": 74.53,
+        "max": 198.37,
+        "mean": 136.45,
+        "median": 136.45,
+        "suggested": 77.45,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Ursus Knife | Forest DDPAT (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Ursus Knife | Forest DDPAT (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Ursus Knife | Forest DDPAT (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Ursus Knife | Forest DDPAT (Minimal Wear)",
+        "price": {
+          "min": 80.08,
+          "max": 127.88,
+          "mean": 95.77,
+          "median": 87.49,
+          "suggested": 87.04,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Ursus Knife | Forest DDPAT (Field-Tested)",
+        "price": {
+          "min": 74.53,
+          "max": 198.37,
+          "mean": 136.45,
+          "median": 136.45,
+          "suggested": 77.45,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Ursus Knife | Forest DDPAT (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ Ursus Knife | Forest DDPAT (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Ursus Knife | Forest DDPAT (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Ursus Knife | Forest DDPAT (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Ursus Knife | Forest DDPAT (Field-Tested)",
+        "price": {
+          "min": 84.39,
+          "max": 149.86,
+          "mean": 117.13,
+          "median": 117.13,
+          "suggested": 89.7,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Ursus Knife | Forest DDPAT (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Ursus Knife | Forest DDPAT (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:39.242Z"
+}

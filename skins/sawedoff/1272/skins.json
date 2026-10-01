@@ -1,0 +1,249 @@
+{
+  "id": "skin-f2dd022eab22",
+  "name": "Sawed-Off | Runoff",
+  "paint_index": "1272",
+  "weapon": {
+    "id": "weapon_sawedoff",
+    "weapon_id": 29,
+    "name": "Sawed-Off",
+    "slug": "sawedoff"
+  },
+  "pattern": {
+    "id": "gsch_ripple",
+    "name": "Runoff"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 0.780822,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit. Parts of this Sawed-Off have been lightly color case-hardened through the application of wood charcoal at high temperatures.\\n\\n<i>A \\\"brown shotgun\\\" with a twist</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.06,
+      "max": 4.96,
+      "mean": 0.46,
+      "median": 0.16,
+      "suggested": 0.08,
+      "quantity": 71,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.02,
+      "max": 20.48,
+      "mean": 0.23,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 275,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.02,
+      "max": 4.07,
+      "mean": 0.06,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 937,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.02,
+      "max": 0.05,
+      "mean": 0.04,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 42,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.02,
+      "max": 1.75,
+      "mean": 0.05,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 220,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Sawed-Off | Runoff (Factory New)",
+      "price": {
+        "min": 0.06,
+        "max": 4.96,
+        "mean": 0.46,
+        "median": 0.16,
+        "suggested": 0.08,
+        "quantity": 71,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Sawed-Off | Runoff (Minimal Wear)",
+      "price": {
+        "min": 0.02,
+        "max": 20.48,
+        "mean": 0.23,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 275,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Sawed-Off | Runoff (Field-Tested)",
+      "price": {
+        "min": 0.02,
+        "max": 4.07,
+        "mean": 0.06,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 937,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Sawed-Off | Runoff (Well-Worn)",
+      "price": {
+        "min": 0.02,
+        "max": 0.05,
+        "mean": 0.04,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 42,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Sawed-Off | Runoff (Battle-Scarred)",
+      "price": {
+        "min": 0.02,
+        "max": 1.75,
+        "mean": 0.05,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 220,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Sawed-Off | Runoff (Factory New)",
+        "price": {
+          "min": 0.06,
+          "max": 4.96,
+          "mean": 0.46,
+          "median": 0.16,
+          "suggested": 0.08,
+          "quantity": 71,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Sawed-Off | Runoff (Minimal Wear)",
+        "price": {
+          "min": 0.02,
+          "max": 20.48,
+          "mean": 0.23,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 275,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Sawed-Off | Runoff (Field-Tested)",
+        "price": {
+          "min": 0.02,
+          "max": 4.07,
+          "mean": 0.06,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 937,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Sawed-Off | Runoff (Well-Worn)",
+        "price": {
+          "min": 0.02,
+          "max": 0.05,
+          "mean": 0.04,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 42,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Sawed-Off | Runoff (Battle-Scarred)",
+        "price": {
+          "min": 0.02,
+          "max": 1.75,
+          "mean": 0.05,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 220,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Sawed-Off | Runoff (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Sawed-Off | Runoff (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Sawed-Off | Runoff (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Sawed-Off | Runoff (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Sawed-Off | Runoff (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:47.169Z"
+}

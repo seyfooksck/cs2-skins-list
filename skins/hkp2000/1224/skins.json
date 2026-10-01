@@ -1,0 +1,310 @@
+{
+  "id": "skin-c36fdc469906",
+  "name": "P2000 | Wicked Sick",
+  "paint_index": "1224",
+  "weapon": {
+    "id": "weapon_hkp2000",
+    "weapon_id": 32,
+    "name": "P2000",
+    "slug": "hkp2000"
+  },
+  "pattern": {
+    "id": "cu_p2000_decline",
+    "name": "Wicked Sick"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Accurate and controllable, the German-made P2000 is a serviceable first-round pistol that works best against unarmored opponents. This custom paint job features neon-colored designs meant to grab (and keep) your attention.\\n\\n<i>Can I have your attention please?</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 16.79,
+      "max": 204.38,
+      "mean": 31.01,
+      "median": 20.75,
+      "suggested": 24.86,
+      "quantity": 46,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 6.29,
+      "max": 190.79,
+      "mean": 12.99,
+      "median": 7.98,
+      "suggested": 8.28,
+      "quantity": 71,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 3.3,
+      "max": 63.89,
+      "mean": 4.87,
+      "median": 4.26,
+      "suggested": 4.95,
+      "quantity": 518,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 3.27,
+      "max": 174.46,
+      "mean": 4.71,
+      "median": 3.8,
+      "suggested": 4.2,
+      "quantity": 206,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 3.08,
+      "max": 191.69,
+      "mean": 6.38,
+      "median": 3.8,
+      "suggested": 3.84,
+      "quantity": 153,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P2000 | Wicked Sick (Factory New)",
+      "price": {
+        "min": 16.79,
+        "max": 204.38,
+        "mean": 31.01,
+        "median": 20.75,
+        "suggested": 24.86,
+        "quantity": 46,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P2000 | Wicked Sick (Minimal Wear)",
+      "price": {
+        "min": 6.29,
+        "max": 190.79,
+        "mean": 12.99,
+        "median": 7.98,
+        "suggested": 8.28,
+        "quantity": 71,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P2000 | Wicked Sick (Field-Tested)",
+      "price": {
+        "min": 3.3,
+        "max": 63.89,
+        "mean": 4.87,
+        "median": 4.26,
+        "suggested": 4.95,
+        "quantity": 518,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P2000 | Wicked Sick (Well-Worn)",
+      "price": {
+        "min": 3.27,
+        "max": 174.46,
+        "mean": 4.71,
+        "median": 3.8,
+        "suggested": 4.2,
+        "quantity": 206,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P2000 | Wicked Sick (Battle-Scarred)",
+      "price": {
+        "min": 3.08,
+        "max": 191.69,
+        "mean": 6.38,
+        "median": 3.8,
+        "suggested": 3.84,
+        "quantity": 153,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P2000 | Wicked Sick (Factory New)",
+        "price": {
+          "min": 16.79,
+          "max": 204.38,
+          "mean": 31.01,
+          "median": 20.75,
+          "suggested": 24.86,
+          "quantity": 46,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P2000 | Wicked Sick (Minimal Wear)",
+        "price": {
+          "min": 6.29,
+          "max": 190.79,
+          "mean": 12.99,
+          "median": 7.98,
+          "suggested": 8.28,
+          "quantity": 71,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P2000 | Wicked Sick (Field-Tested)",
+        "price": {
+          "min": 3.3,
+          "max": 63.89,
+          "mean": 4.87,
+          "median": 4.26,
+          "suggested": 4.95,
+          "quantity": 518,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P2000 | Wicked Sick (Well-Worn)",
+        "price": {
+          "min": 3.27,
+          "max": 174.46,
+          "mean": 4.71,
+          "median": 3.8,
+          "suggested": 4.2,
+          "quantity": 206,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P2000 | Wicked Sick (Battle-Scarred)",
+        "price": {
+          "min": 3.08,
+          "max": 191.69,
+          "mean": 6.38,
+          "median": 3.8,
+          "suggested": 3.84,
+          "quantity": 153,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P2000 | Wicked Sick (Factory New)",
+        "price": {
+          "min": 21.62,
+          "max": 51.21,
+          "mean": 33.43,
+          "median": 33.93,
+          "suggested": 25.79,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P2000 | Wicked Sick (Minimal Wear)",
+        "price": {
+          "min": 7.01,
+          "max": 35,
+          "mean": 11.23,
+          "median": 7.99,
+          "suggested": 8.97,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P2000 | Wicked Sick (Field-Tested)",
+        "price": {
+          "min": 3.63,
+          "max": 121.62,
+          "mean": 7.2,
+          "median": 4.25,
+          "suggested": 4.88,
+          "quantity": 47,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ P2000 | Wicked Sick (Well-Worn)",
+        "price": {
+          "min": 3.15,
+          "max": 5.75,
+          "mean": 3.84,
+          "median": 3.62,
+          "suggested": 3.84,
+          "quantity": 49,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ P2000 | Wicked Sick (Battle-Scarred)",
+        "price": {
+          "min": 3.13,
+          "max": 158.7,
+          "mean": 11.61,
+          "median": 3.93,
+          "suggested": 3.71,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P2000 | Wicked Sick (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P2000 | Wicked Sick (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P2000 | Wicked Sick (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P2000 | Wicked Sick (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P2000 | Wicked Sick (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:32.492Z"
+}

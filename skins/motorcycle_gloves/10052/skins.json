@@ -1,0 +1,204 @@
+{
+  "id": "skin-bfd054b9c87b",
+  "name": "★ Moto Gloves | Polygon",
+  "paint_index": "10052",
+  "weapon": {
+    "id": "motorcycle_gloves",
+    "weapon_id": 5033,
+    "name": "Moto Gloves",
+    "slug": "motorcycle_gloves"
+  },
+  "pattern": {
+    "id": "motorcycle_trigrid_blue",
+    "name": "Polygon"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_gloves",
+    "name": "Gloves"
+  },
+  "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "These bulky hard knuckled gloves can protect the wearers hands from road rash at 60 mph. It has been constructed from a mix of man-made materials and leather in various shades of blue.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 218.22,
+      "max": 817.85,
+      "mean": 280.06,
+      "median": 246.46,
+      "suggested": 290.58,
+      "quantity": 51,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 122.53,
+      "max": 350.08,
+      "mean": 159.75,
+      "median": 144.64,
+      "suggested": 158.52,
+      "quantity": 140,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 113.18,
+      "max": 264.82,
+      "mean": 136.73,
+      "median": 124.96,
+      "suggested": 142.23,
+      "quantity": 25,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 93.46,
+      "max": 166.08,
+      "mean": 115.61,
+      "median": 107.45,
+      "suggested": 111.17,
+      "quantity": 24,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Moto Gloves | Polygon (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Moto Gloves | Polygon (Minimal Wear)",
+      "price": {
+        "min": 218.22,
+        "max": 817.85,
+        "mean": 280.06,
+        "median": 246.46,
+        "suggested": 290.58,
+        "quantity": 51,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Moto Gloves | Polygon (Field-Tested)",
+      "price": {
+        "min": 122.53,
+        "max": 350.08,
+        "mean": 159.75,
+        "median": 144.64,
+        "suggested": 158.52,
+        "quantity": 140,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Moto Gloves | Polygon (Well-Worn)",
+      "price": {
+        "min": 113.18,
+        "max": 264.82,
+        "mean": 136.73,
+        "median": 124.96,
+        "suggested": 142.23,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Moto Gloves | Polygon (Battle-Scarred)",
+      "price": {
+        "min": 93.46,
+        "max": 166.08,
+        "mean": 115.61,
+        "median": 107.45,
+        "suggested": 111.17,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Moto Gloves | Polygon (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Moto Gloves | Polygon (Minimal Wear)",
+        "price": {
+          "min": 218.22,
+          "max": 817.85,
+          "mean": 280.06,
+          "median": 246.46,
+          "suggested": 290.58,
+          "quantity": 51,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Moto Gloves | Polygon (Field-Tested)",
+        "price": {
+          "min": 122.53,
+          "max": 350.08,
+          "mean": 159.75,
+          "median": 144.64,
+          "suggested": 158.52,
+          "quantity": 140,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Moto Gloves | Polygon (Well-Worn)",
+        "price": {
+          "min": 113.18,
+          "max": 264.82,
+          "mean": 136.73,
+          "median": 124.96,
+          "suggested": 142.23,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Moto Gloves | Polygon (Battle-Scarred)",
+        "price": {
+          "min": 93.46,
+          "max": 166.08,
+          "mean": 115.61,
+          "median": 107.45,
+          "suggested": 111.17,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:23.296Z"
+}

@@ -1,0 +1,233 @@
+{
+  "id": "skin-5b32b41aab3b",
+  "name": "★ Bowie Knife | Scorched",
+  "paint_index": "175",
+  "weapon": {
+    "id": "weapon_knife_survival_bowie",
+    "weapon_id": 514,
+    "name": "Bowie Knife",
+    "slug": "knife_survival_bowie"
+  },
+  "pattern": {
+    "id": "sp_dapple",
+    "name": "Scorched"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This full-tang sawback Bowie knife is designed for heavy use in brutal survival situations. It has been spray-painted in a sun-dappled pattern.\\n\\n<i>The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 93.12,
+      "max": 93.12,
+      "mean": 93.12,
+      "median": 93.12,
+      "suggested": 96.18,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 56.34,
+      "max": 93.35,
+      "mean": 67.66,
+      "median": 64.13,
+      "suggested": 70.59,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 67.47,
+      "max": 67.47,
+      "mean": 67.47,
+      "median": 67.47,
+      "suggested": 69.12,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 69.51,
+      "max": 70.58,
+      "mean": 70.05,
+      "median": 70.05,
+      "suggested": 75.31,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Bowie Knife | Scorched (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Bowie Knife | Scorched (Minimal Wear)",
+      "price": {
+        "min": 93.12,
+        "max": 93.12,
+        "mean": 93.12,
+        "median": 93.12,
+        "suggested": 96.18,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Bowie Knife | Scorched (Field-Tested)",
+      "price": {
+        "min": 56.34,
+        "max": 93.35,
+        "mean": 67.66,
+        "median": 64.13,
+        "suggested": 70.59,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Bowie Knife | Scorched (Well-Worn)",
+      "price": {
+        "min": 67.47,
+        "max": 67.47,
+        "mean": 67.47,
+        "median": 67.47,
+        "suggested": 69.12,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Bowie Knife | Scorched (Battle-Scarred)",
+      "price": {
+        "min": 69.51,
+        "max": 70.58,
+        "mean": 70.05,
+        "median": 70.05,
+        "suggested": 75.31,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Bowie Knife | Scorched (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Bowie Knife | Scorched (Minimal Wear)",
+        "price": {
+          "min": 93.12,
+          "max": 93.12,
+          "mean": 93.12,
+          "median": 93.12,
+          "suggested": 96.18,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Bowie Knife | Scorched (Field-Tested)",
+        "price": {
+          "min": 56.34,
+          "max": 93.35,
+          "mean": 67.66,
+          "median": 64.13,
+          "suggested": 70.59,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Bowie Knife | Scorched (Well-Worn)",
+        "price": {
+          "min": 67.47,
+          "max": 67.47,
+          "mean": 67.47,
+          "median": 67.47,
+          "suggested": 69.12,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Bowie Knife | Scorched (Battle-Scarred)",
+        "price": {
+          "min": 69.51,
+          "max": 70.58,
+          "mean": 70.05,
+          "median": 70.05,
+          "suggested": 75.31,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Bowie Knife | Scorched (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Bowie Knife | Scorched (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Bowie Knife | Scorched (Field-Tested)",
+        "price": {
+          "min": 74.33,
+          "max": 74.33,
+          "mean": 74.33,
+          "median": 74.33,
+          "suggested": 73.03,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Bowie Knife | Scorched (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Bowie Knife | Scorched (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:38.565Z"
+}

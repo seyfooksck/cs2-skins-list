@@ -1,0 +1,204 @@
+{
+  "id": "skin-fabc9079a914",
+  "name": "★ Specialist Gloves | Forest DDPAT",
+  "paint_index": "10030",
+  "weapon": {
+    "id": "specialist_gloves",
+    "weapon_id": 5034,
+    "name": "Specialist Gloves",
+    "slug": "specialist_gloves"
+  },
+  "pattern": {
+    "id": "specialist_ddpat_green_camo",
+    "name": "Forest DDPAT"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_gloves",
+    "name": "Gloves"
+  },
+  "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Durable, breathable, and stylish; these gloves are designed to take (and give) a beating. The hand stitched leather has been paired with rugged DDPAT printed fabric.\\n\\n<i>Some people don't like getting their hands dirty</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 634.81,
+      "max": 798.83,
+      "mean": 727.41,
+      "median": 748.58,
+      "suggested": 456.86,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 396.02,
+      "max": 700.16,
+      "mean": 494.28,
+      "median": 444.02,
+      "suggested": 490.64,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 399.48,
+      "max": 399.48,
+      "mean": 399.48,
+      "median": 399.48,
+      "suggested": 179.39,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 125.75,
+      "max": 166.6,
+      "mean": 142.18,
+      "median": 138.19,
+      "suggested": 156.99,
+      "quantity": 4,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Specialist Gloves | Forest DDPAT (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Specialist Gloves | Forest DDPAT (Minimal Wear)",
+      "price": {
+        "min": 634.81,
+        "max": 798.83,
+        "mean": 727.41,
+        "median": 748.58,
+        "suggested": 456.86,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Specialist Gloves | Forest DDPAT (Field-Tested)",
+      "price": {
+        "min": 396.02,
+        "max": 700.16,
+        "mean": 494.28,
+        "median": 444.02,
+        "suggested": 490.64,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Specialist Gloves | Forest DDPAT (Well-Worn)",
+      "price": {
+        "min": 399.48,
+        "max": 399.48,
+        "mean": 399.48,
+        "median": 399.48,
+        "suggested": 179.39,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Specialist Gloves | Forest DDPAT (Battle-Scarred)",
+      "price": {
+        "min": 125.75,
+        "max": 166.6,
+        "mean": 142.18,
+        "median": 138.19,
+        "suggested": 156.99,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Specialist Gloves | Forest DDPAT (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Specialist Gloves | Forest DDPAT (Minimal Wear)",
+        "price": {
+          "min": 634.81,
+          "max": 798.83,
+          "mean": 727.41,
+          "median": 748.58,
+          "suggested": 456.86,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Specialist Gloves | Forest DDPAT (Field-Tested)",
+        "price": {
+          "min": 396.02,
+          "max": 700.16,
+          "mean": 494.28,
+          "median": 444.02,
+          "suggested": 490.64,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Specialist Gloves | Forest DDPAT (Well-Worn)",
+        "price": {
+          "min": 399.48,
+          "max": 399.48,
+          "mean": 399.48,
+          "median": 399.48,
+          "suggested": 179.39,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Specialist Gloves | Forest DDPAT (Battle-Scarred)",
+        "price": {
+          "min": 125.75,
+          "max": 166.6,
+          "mean": 142.18,
+          "median": 138.19,
+          "suggested": 156.99,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:23.688Z"
+}

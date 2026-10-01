@@ -1,0 +1,154 @@
+{
+  "id": "skin-e31ccc486589",
+  "name": "M4A1-S | Bright Water",
+  "paint_index": "189",
+  "weapon": {
+    "id": "weapon_m4a1_silencer",
+    "weapon_id": 60,
+    "name": "M4A1-S",
+    "slug": "m4a1_silencer"
+  },
+  "pattern": {
+    "id": "hy_ocean_bravo",
+    "name": "Bright Water"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0.1,
+  "max_float": 0.22,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. This memento from Seaside has been painted using a blue camo hydrographic.\\n\\n<i>Ours is a world of intrigue...but sometimes camouflage is meant to be seen - Booth, Arms Dealer</i>",
+  "images": {
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "mw": {
+      "min": 53.14,
+      "max": 5017.82,
+      "mean": 220.76,
+      "median": 89.27,
+      "suggested": 68.92,
+      "quantity": 60,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 37.13,
+      "max": 323.7,
+      "mean": 94.88,
+      "median": 40.97,
+      "suggested": 45.07,
+      "quantity": 13,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A1-S | Bright Water (Minimal Wear)",
+      "price": {
+        "min": 53.14,
+        "max": 5017.82,
+        "mean": 220.76,
+        "median": 89.27,
+        "suggested": 68.92,
+        "quantity": 60,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A1-S | Bright Water (Field-Tested)",
+      "price": {
+        "min": 37.13,
+        "max": 323.7,
+        "mean": 94.88,
+        "median": 40.97,
+        "suggested": 45.07,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "mw": {
+        "market_hash_name": "M4A1-S | Bright Water (Minimal Wear)",
+        "price": {
+          "min": 53.14,
+          "max": 5017.82,
+          "mean": 220.76,
+          "median": 89.27,
+          "suggested": 68.92,
+          "quantity": 60,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A1-S | Bright Water (Field-Tested)",
+        "price": {
+          "min": 37.13,
+          "max": 323.7,
+          "mean": 94.88,
+          "median": 40.97,
+          "suggested": 45.07,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "mw": {
+        "market_hash_name": "StatTrak™ M4A1-S | Bright Water (Minimal Wear)",
+        "price": {
+          "min": 69.53,
+          "max": 716.9,
+          "mean": 160.1,
+          "median": 135.03,
+          "suggested": 90.13,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ M4A1-S | Bright Water (Field-Tested)",
+        "price": {
+          "min": 61.73,
+          "max": 254.39,
+          "mean": 107.38,
+          "median": 70.2,
+          "suggested": 78.49,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "mw": {
+        "market_hash_name": "Souvenir M4A1-S | Bright Water (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A1-S | Bright Water (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.110Z"
+}

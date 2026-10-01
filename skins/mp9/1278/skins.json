@@ -1,0 +1,249 @@
+{
+  "id": "skin-53f83414cf17",
+  "name": "MP9 | Buff Blue",
+  "paint_index": "1278",
+  "weapon": {
+    "id": "weapon_mp9",
+    "weapon_id": 34,
+    "name": "MP9",
+    "slug": "mp9"
+  },
+  "pattern": {
+    "id": "ht_blue_edges",
+    "name": "Buff Blue"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been spray-painted with a worn, blue pattern.\\n\\n<i>That's gonna leave a mark!</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.11,
+      "max": 17.41,
+      "mean": 0.81,
+      "median": 0.42,
+      "suggested": 0.13,
+      "quantity": 1169,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.04,
+      "max": 6.42,
+      "mean": 0.82,
+      "median": 0.18,
+      "suggested": 0.03,
+      "quantity": 445,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.02,
+      "max": 4.07,
+      "mean": 0.08,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 1328,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.04,
+      "max": 0.97,
+      "mean": 0.13,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 72,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.02,
+      "max": 0.62,
+      "mean": 0.05,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 238,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP9 | Buff Blue (Factory New)",
+      "price": {
+        "min": 0.11,
+        "max": 17.41,
+        "mean": 0.81,
+        "median": 0.42,
+        "suggested": 0.13,
+        "quantity": 1169,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP9 | Buff Blue (Minimal Wear)",
+      "price": {
+        "min": 0.04,
+        "max": 6.42,
+        "mean": 0.82,
+        "median": 0.18,
+        "suggested": 0.03,
+        "quantity": 445,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP9 | Buff Blue (Field-Tested)",
+      "price": {
+        "min": 0.02,
+        "max": 4.07,
+        "mean": 0.08,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 1328,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP9 | Buff Blue (Well-Worn)",
+      "price": {
+        "min": 0.04,
+        "max": 0.97,
+        "mean": 0.13,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 72,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP9 | Buff Blue (Battle-Scarred)",
+      "price": {
+        "min": 0.02,
+        "max": 0.62,
+        "mean": 0.05,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 238,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP9 | Buff Blue (Factory New)",
+        "price": {
+          "min": 0.11,
+          "max": 17.41,
+          "mean": 0.81,
+          "median": 0.42,
+          "suggested": 0.13,
+          "quantity": 1169,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP9 | Buff Blue (Minimal Wear)",
+        "price": {
+          "min": 0.04,
+          "max": 6.42,
+          "mean": 0.82,
+          "median": 0.18,
+          "suggested": 0.03,
+          "quantity": 445,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP9 | Buff Blue (Field-Tested)",
+        "price": {
+          "min": 0.02,
+          "max": 4.07,
+          "mean": 0.08,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 1328,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP9 | Buff Blue (Well-Worn)",
+        "price": {
+          "min": 0.04,
+          "max": 0.97,
+          "mean": 0.13,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 72,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP9 | Buff Blue (Battle-Scarred)",
+        "price": {
+          "min": 0.02,
+          "max": 0.62,
+          "mean": 0.05,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 238,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP9 | Buff Blue (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP9 | Buff Blue (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP9 | Buff Blue (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP9 | Buff Blue (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP9 | Buff Blue (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:43.773Z"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "skin-95fae4f18169",
+  "name": "AUG | Amber Slipstream",
+  "paint_index": "708",
+  "weapon": {
+    "id": "weapon_aug",
+    "weapon_id": 8,
+    "name": "AUG",
+    "slug": "aug"
+  },
+  "pattern": {
+    "id": "hy_aug_torn_orange",
+    "name": "Amber Slipstream"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.55,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire. It has been hand painted with a smoky grey and vibrant orange hydrographic.\\n\\n<i>Please keep your hands and arms inside the vehicle</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.8,
+      "max": 10.82,
+      "mean": 3.05,
+      "median": 2.32,
+      "suggested": 2.49,
+      "quantity": 75,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.41,
+      "max": 10.72,
+      "mean": 0.81,
+      "median": 0.51,
+      "suggested": 0.61,
+      "quantity": 72,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.35,
+      "max": 3.5,
+      "mean": 0.65,
+      "median": 0.5,
+      "suggested": 0.53,
+      "quantity": 224,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.32,
+      "max": 0.55,
+      "mean": 0.44,
+      "median": 0.47,
+      "suggested": 0.44,
+      "quantity": 29,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.33,
+      "max": 0.43,
+      "mean": 0.37,
+      "median": 0.36,
+      "suggested": 0.37,
+      "quantity": 16,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AUG | Amber Slipstream (Factory New)",
+      "price": {
+        "min": 1.8,
+        "max": 10.82,
+        "mean": 3.05,
+        "median": 2.32,
+        "suggested": 2.49,
+        "quantity": 75,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AUG | Amber Slipstream (Minimal Wear)",
+      "price": {
+        "min": 0.41,
+        "max": 10.72,
+        "mean": 0.81,
+        "median": 0.51,
+        "suggested": 0.61,
+        "quantity": 72,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AUG | Amber Slipstream (Field-Tested)",
+      "price": {
+        "min": 0.35,
+        "max": 3.5,
+        "mean": 0.65,
+        "median": 0.5,
+        "suggested": 0.53,
+        "quantity": 224,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AUG | Amber Slipstream (Well-Worn)",
+      "price": {
+        "min": 0.32,
+        "max": 0.55,
+        "mean": 0.44,
+        "median": 0.47,
+        "suggested": 0.44,
+        "quantity": 29,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AUG | Amber Slipstream (Battle-Scarred)",
+      "price": {
+        "min": 0.33,
+        "max": 0.43,
+        "mean": 0.37,
+        "median": 0.36,
+        "suggested": 0.37,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AUG | Amber Slipstream (Factory New)",
+        "price": {
+          "min": 1.8,
+          "max": 10.82,
+          "mean": 3.05,
+          "median": 2.32,
+          "suggested": 2.49,
+          "quantity": 75,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AUG | Amber Slipstream (Minimal Wear)",
+        "price": {
+          "min": 0.41,
+          "max": 10.72,
+          "mean": 0.81,
+          "median": 0.51,
+          "suggested": 0.61,
+          "quantity": 72,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AUG | Amber Slipstream (Field-Tested)",
+        "price": {
+          "min": 0.35,
+          "max": 3.5,
+          "mean": 0.65,
+          "median": 0.5,
+          "suggested": 0.53,
+          "quantity": 224,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AUG | Amber Slipstream (Well-Worn)",
+        "price": {
+          "min": 0.32,
+          "max": 0.55,
+          "mean": 0.44,
+          "median": 0.47,
+          "suggested": 0.44,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AUG | Amber Slipstream (Battle-Scarred)",
+        "price": {
+          "min": 0.33,
+          "max": 0.43,
+          "mean": 0.37,
+          "median": 0.36,
+          "suggested": 0.37,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AUG | Amber Slipstream (Factory New)",
+        "price": {
+          "min": 1.24,
+          "max": 28.86,
+          "mean": 3.93,
+          "median": 1.8,
+          "suggested": 1.52,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AUG | Amber Slipstream (Minimal Wear)",
+        "price": {
+          "min": 0.61,
+          "max": 6.93,
+          "mean": 1.25,
+          "median": 0.77,
+          "suggested": 0.7,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AUG | Amber Slipstream (Field-Tested)",
+        "price": {
+          "min": 0.34,
+          "max": 1.89,
+          "mean": 0.56,
+          "median": 0.44,
+          "suggested": 0.45,
+          "quantity": 49,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AUG | Amber Slipstream (Well-Worn)",
+        "price": {
+          "min": 0.4,
+          "max": 1.62,
+          "mean": 0.63,
+          "median": 0.56,
+          "suggested": 0.46,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ AUG | Amber Slipstream (Battle-Scarred)",
+        "price": {
+          "min": 0.3,
+          "max": 14.06,
+          "mean": 1.95,
+          "median": 0.54,
+          "suggested": 0.39,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AUG | Amber Slipstream (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AUG | Amber Slipstream (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AUG | Amber Slipstream (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AUG | Amber Slipstream (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AUG | Amber Slipstream (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.538Z"
+}

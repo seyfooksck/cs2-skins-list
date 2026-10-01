@@ -1,0 +1,105 @@
+{
+  "id": "skin-9d918c84051e",
+  "name": "AUG | Anodized Navy",
+  "paint_index": "197",
+  "weapon": {
+    "id": "weapon_aug",
+    "weapon_id": 8,
+    "name": "AUG",
+    "slug": "aug"
+  },
+  "pattern": {
+    "id": "an_navy_bravo",
+    "name": "Anodized Navy"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire. This memento from Ali has been painted with a chrome base coat and candied in transparent navy anodized effect paint.\\n\\n<i>I already lost one man to Valeria's lies... I don't intend to lose anyone else - Felix Riley, Commanding Officer</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 30.92,
+      "max": 1817.34,
+      "mean": 237.87,
+      "median": 46.62,
+      "suggested": 39.92,
+      "quantity": 26,
+      "currency": "USD"
+    },
+    "mw": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AUG | Anodized Navy (Factory New)",
+      "price": {
+        "min": 30.92,
+        "max": 1817.34,
+        "mean": 237.87,
+        "median": 46.62,
+        "suggested": 39.92,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AUG | Anodized Navy (Minimal Wear)",
+      "price": null,
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AUG | Anodized Navy (Factory New)",
+        "price": {
+          "min": 30.92,
+          "max": 1817.34,
+          "mean": 237.87,
+          "median": 46.62,
+          "suggested": 39.92,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AUG | Anodized Navy (Minimal Wear)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AUG | Anodized Navy (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AUG | Anodized Navy (Minimal Wear)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.253Z"
+}

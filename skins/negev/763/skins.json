@@ -1,0 +1,177 @@
+{
+  "id": "skin-fe643065d84b",
+  "name": "Negev | Mjölnir",
+  "paint_index": "763",
+  "weapon": {
+    "id": "weapon_negev",
+    "weapon_id": 28,
+    "name": "Negev",
+    "slug": "negev"
+  },
+  "pattern": {
+    "id": "gs_negev_thor",
+    "name": "Mjölnir"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted red and features a number of Norse runes.\\n\\n<i>\\\"This is all Loki's fault…\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2473.91,
+      "max": 3034.04,
+      "mean": 2727.52,
+      "median": 2701.07,
+      "suggested": 3132.06,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2693.55,
+      "max": 2693.55,
+      "mean": 2693.55,
+      "median": 2693.55,
+      "suggested": 2805.3,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ft": null,
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Negev | Mjölnir (Factory New)",
+      "price": {
+        "min": 2473.91,
+        "max": 3034.04,
+        "mean": 2727.52,
+        "median": 2701.07,
+        "suggested": 3132.06,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Negev | Mjölnir (Minimal Wear)",
+      "price": {
+        "min": 2693.55,
+        "max": 2693.55,
+        "mean": 2693.55,
+        "median": 2693.55,
+        "suggested": 2805.3,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Negev | Mjölnir (Field-Tested)",
+      "price": null,
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Negev | Mjölnir (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Negev | Mjölnir (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Negev | Mjölnir (Factory New)",
+        "price": {
+          "min": 2473.91,
+          "max": 3034.04,
+          "mean": 2727.52,
+          "median": 2701.07,
+          "suggested": 3132.06,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Negev | Mjölnir (Minimal Wear)",
+        "price": {
+          "min": 2693.55,
+          "max": 2693.55,
+          "mean": 2693.55,
+          "median": 2693.55,
+          "suggested": 2805.3,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Negev | Mjölnir (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Negev | Mjölnir (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Negev | Mjölnir (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Negev | Mjölnir (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Negev | Mjölnir (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Negev | Mjölnir (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Negev | Mjölnir (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Negev | Mjölnir (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.181Z"
+}

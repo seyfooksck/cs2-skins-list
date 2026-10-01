@@ -1,0 +1,225 @@
+{
+  "id": "skin-26cf44b7986b",
+  "name": "★ Bowie Knife | Boreal Forest",
+  "paint_index": "77",
+  "weapon": {
+    "id": "weapon_knife_survival_bowie",
+    "weapon_id": 514,
+    "name": "Bowie Knife",
+    "slug": "knife_survival_bowie"
+  },
+  "pattern": {
+    "id": "hy_forest_boreal",
+    "name": "Boreal Forest"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This full-tang sawback Bowie knife is designed for heavy use in brutal survival situations. It has been painted using a forest camouflage hydrographic.\\n\\n<i>The woods can be a dangerous place... never travel alone</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 67.67,
+      "max": 86.58,
+      "mean": 77.95,
+      "median": 78.64,
+      "suggested": 91.51,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 53.67,
+      "max": 61.39,
+      "mean": 56.25,
+      "median": 53.68,
+      "suggested": 70.66,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 140.02,
+      "max": 140.02,
+      "mean": 140.02,
+      "median": 140.02,
+      "suggested": 72.5,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 89.25,
+      "max": 89.25,
+      "mean": 89.25,
+      "median": 89.25,
+      "suggested": 80.81,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Bowie Knife | Boreal Forest (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Bowie Knife | Boreal Forest (Minimal Wear)",
+      "price": {
+        "min": 67.67,
+        "max": 86.58,
+        "mean": 77.95,
+        "median": 78.64,
+        "suggested": 91.51,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Bowie Knife | Boreal Forest (Field-Tested)",
+      "price": {
+        "min": 53.67,
+        "max": 61.39,
+        "mean": 56.25,
+        "median": 53.68,
+        "suggested": 70.66,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Bowie Knife | Boreal Forest (Well-Worn)",
+      "price": {
+        "min": 140.02,
+        "max": 140.02,
+        "mean": 140.02,
+        "median": 140.02,
+        "suggested": 72.5,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Bowie Knife | Boreal Forest (Battle-Scarred)",
+      "price": {
+        "min": 89.25,
+        "max": 89.25,
+        "mean": 89.25,
+        "median": 89.25,
+        "suggested": 80.81,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Bowie Knife | Boreal Forest (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Bowie Knife | Boreal Forest (Minimal Wear)",
+        "price": {
+          "min": 67.67,
+          "max": 86.58,
+          "mean": 77.95,
+          "median": 78.64,
+          "suggested": 91.51,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Bowie Knife | Boreal Forest (Field-Tested)",
+        "price": {
+          "min": 53.67,
+          "max": 61.39,
+          "mean": 56.25,
+          "median": 53.68,
+          "suggested": 70.66,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Bowie Knife | Boreal Forest (Well-Worn)",
+        "price": {
+          "min": 140.02,
+          "max": 140.02,
+          "mean": 140.02,
+          "median": 140.02,
+          "suggested": 72.5,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Bowie Knife | Boreal Forest (Battle-Scarred)",
+        "price": {
+          "min": 89.25,
+          "max": 89.25,
+          "mean": 89.25,
+          "median": 89.25,
+          "suggested": 80.81,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Bowie Knife | Boreal Forest (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Bowie Knife | Boreal Forest (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Bowie Knife | Boreal Forest (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Bowie Knife | Boreal Forest (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Bowie Knife | Boreal Forest (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:38.495Z"
+}

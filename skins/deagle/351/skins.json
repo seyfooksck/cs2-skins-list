@@ -1,0 +1,206 @@
+{
+  "id": "skin-ec1689ee3e4c",
+  "name": "Desert Eagle | Conspiracy",
+  "paint_index": "351",
+  "weapon": {
+    "id": "weapon_deagle",
+    "weapon_id": 1,
+    "name": "Desert Eagle",
+    "slug": "deagle"
+  },
+  "pattern": {
+    "id": "cu_deagle_aureus",
+    "name": "Conspiracy"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.3,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. It has been painted with dark, metallic paint and pale yellow accents.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 30.15,
+      "max": 688.76,
+      "mean": 52.75,
+      "median": 40.03,
+      "suggested": 42.8,
+      "quantity": 146,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 18.67,
+      "max": 1166.94,
+      "mean": 34.81,
+      "median": 21.49,
+      "suggested": 24.48,
+      "quantity": 204,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 19.48,
+      "max": 278.9,
+      "mean": 38.22,
+      "median": 20.9,
+      "suggested": 24.1,
+      "quantity": 46,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Desert Eagle | Conspiracy (Factory New)",
+      "price": {
+        "min": 30.15,
+        "max": 688.76,
+        "mean": 52.75,
+        "median": 40.03,
+        "suggested": 42.8,
+        "quantity": 146,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Desert Eagle | Conspiracy (Minimal Wear)",
+      "price": {
+        "min": 18.67,
+        "max": 1166.94,
+        "mean": 34.81,
+        "median": 21.49,
+        "suggested": 24.48,
+        "quantity": 204,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Desert Eagle | Conspiracy (Field-Tested)",
+      "price": {
+        "min": 19.48,
+        "max": 278.9,
+        "mean": 38.22,
+        "median": 20.9,
+        "suggested": 24.1,
+        "quantity": 46,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Desert Eagle | Conspiracy (Factory New)",
+        "price": {
+          "min": 30.15,
+          "max": 688.76,
+          "mean": 52.75,
+          "median": 40.03,
+          "suggested": 42.8,
+          "quantity": 146,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Desert Eagle | Conspiracy (Minimal Wear)",
+        "price": {
+          "min": 18.67,
+          "max": 1166.94,
+          "mean": 34.81,
+          "median": 21.49,
+          "suggested": 24.48,
+          "quantity": 204,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Desert Eagle | Conspiracy (Field-Tested)",
+        "price": {
+          "min": 19.48,
+          "max": 278.9,
+          "mean": 38.22,
+          "median": 20.9,
+          "suggested": 24.1,
+          "quantity": 46,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Conspiracy (Factory New)",
+        "price": {
+          "min": 34.28,
+          "max": 344.13,
+          "mean": 71.94,
+          "median": 49.01,
+          "suggested": 40.27,
+          "quantity": 37,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Conspiracy (Minimal Wear)",
+        "price": {
+          "min": 23.99,
+          "max": 437.59,
+          "mean": 69.89,
+          "median": 41.24,
+          "suggested": 27.93,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Conspiracy (Field-Tested)",
+        "price": {
+          "min": 18.82,
+          "max": 233.38,
+          "mean": 47.96,
+          "median": 23.81,
+          "suggested": 24.57,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Desert Eagle | Conspiracy (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Desert Eagle | Conspiracy (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Desert Eagle | Conspiracy (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:28.244Z"
+}

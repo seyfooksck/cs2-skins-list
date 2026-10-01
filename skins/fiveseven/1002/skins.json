@@ -1,0 +1,129 @@
+{
+  "id": "skin-72c4240d9c33",
+  "name": "Five-SeveN | Berries And Cherries",
+  "paint_index": "1002",
+  "weapon": {
+    "id": "weapon_fiveseven",
+    "weapon_id": 3,
+    "name": "Five-SeveN",
+    "slug": "fiveseven"
+  },
+  "pattern": {
+    "id": "aa_fade_red_blue",
+    "name": "Berries And Cherries"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. The slide has been painted half red and half blue.\\n\\n<i>Woop-woop!</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 128.07,
+      "max": 465.61,
+      "mean": 218.79,
+      "median": 205.87,
+      "suggested": 149.8,
+      "quantity": 79,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 156.3,
+      "max": 175.04,
+      "mean": 168.96,
+      "median": 172.26,
+      "suggested": 179.94,
+      "quantity": 4,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Five-SeveN | Berries And Cherries (Factory New)",
+      "price": {
+        "min": 128.07,
+        "max": 465.61,
+        "mean": 218.79,
+        "median": 205.87,
+        "suggested": 149.8,
+        "quantity": 79,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Five-SeveN | Berries And Cherries (Minimal Wear)",
+      "price": {
+        "min": 156.3,
+        "max": 175.04,
+        "mean": 168.96,
+        "median": 172.26,
+        "suggested": 179.94,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Five-SeveN | Berries And Cherries (Factory New)",
+        "price": {
+          "min": 128.07,
+          "max": 465.61,
+          "mean": 218.79,
+          "median": 205.87,
+          "suggested": 149.8,
+          "quantity": 79,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Five-SeveN | Berries And Cherries (Minimal Wear)",
+        "price": {
+          "min": 156.3,
+          "max": 175.04,
+          "mean": 168.96,
+          "median": 172.26,
+          "suggested": 179.94,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Five-SeveN | Berries And Cherries (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Five-SeveN | Berries And Cherries (Minimal Wear)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:29.871Z"
+}

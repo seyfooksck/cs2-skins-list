@@ -1,0 +1,169 @@
+{
+  "id": "skin-35cdf436d872",
+  "name": "G3SG1 | Green Apple",
+  "paint_index": "294",
+  "weapon": {
+    "id": "weapon_g3sg1",
+    "weapon_id": 11,
+    "name": "G3SG1",
+    "slug": "g3sg1"
+  },
+  "pattern": {
+    "id": "so_green",
+    "name": "Green Apple"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.3,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The pricy G3SG1 lowers movement speed considerably but compensates with a higher rate of fire than other sniper rifles. It has individual parts spray-painted solid colors in a green and black color scheme.\\n\\n<i>An apple a day keeps insurance premiums high</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.26,
+      "max": 110.86,
+      "mean": 3.48,
+      "median": 1.75,
+      "suggested": 0.39,
+      "quantity": 188,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.09,
+      "max": 52.51,
+      "mean": 0.85,
+      "median": 0.16,
+      "suggested": 0.13,
+      "quantity": 186,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.09,
+      "max": 6.29,
+      "mean": 0.28,
+      "median": 0.12,
+      "suggested": 0.14,
+      "quantity": 121,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "G3SG1 | Green Apple (Factory New)",
+      "price": {
+        "min": 0.26,
+        "max": 110.86,
+        "mean": 3.48,
+        "median": 1.75,
+        "suggested": 0.39,
+        "quantity": 188,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "G3SG1 | Green Apple (Minimal Wear)",
+      "price": {
+        "min": 0.09,
+        "max": 52.51,
+        "mean": 0.85,
+        "median": 0.16,
+        "suggested": 0.13,
+        "quantity": 186,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "G3SG1 | Green Apple (Field-Tested)",
+      "price": {
+        "min": 0.09,
+        "max": 6.29,
+        "mean": 0.28,
+        "median": 0.12,
+        "suggested": 0.14,
+        "quantity": 121,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "G3SG1 | Green Apple (Factory New)",
+        "price": {
+          "min": 0.26,
+          "max": 110.86,
+          "mean": 3.48,
+          "median": 1.75,
+          "suggested": 0.39,
+          "quantity": 188,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "G3SG1 | Green Apple (Minimal Wear)",
+        "price": {
+          "min": 0.09,
+          "max": 52.51,
+          "mean": 0.85,
+          "median": 0.16,
+          "suggested": 0.13,
+          "quantity": 186,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "G3SG1 | Green Apple (Field-Tested)",
+        "price": {
+          "min": 0.09,
+          "max": 6.29,
+          "mean": 0.28,
+          "median": 0.12,
+          "suggested": 0.14,
+          "quantity": 121,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir G3SG1 | Green Apple (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir G3SG1 | Green Apple (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir G3SG1 | Green Apple (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:30.713Z"
+}

@@ -1,0 +1,145 @@
+{
+  "id": "skin-a50a85fe3050",
+  "name": "SSG 08 | Carbon Fiber",
+  "paint_index": "70",
+  "weapon": {
+    "id": "weapon_ssg08",
+    "weapon_id": 40,
+    "name": "SSG 08",
+    "slug": "ssg08"
+  },
+  "pattern": {
+    "id": "am_carbon_fiber",
+    "name": "Carbon Fiber"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.12,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship. It has been painted using a carbon fiber hydrographic over a graphite base coat.\\n\\n<i>Just because I carried my team doesn't mean it wasn't a team effort - Rona Sabri, Rising Star</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 4.38,
+      "max": 131.86,
+      "mean": 25.17,
+      "median": 16.93,
+      "suggested": 5.73,
+      "quantity": 83,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 3.43,
+      "max": 17.5,
+      "mean": 6.15,
+      "median": 3.43,
+      "suggested": 5.05,
+      "quantity": 43,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SSG 08 | Carbon Fiber (Factory New)",
+      "price": {
+        "min": 4.38,
+        "max": 131.86,
+        "mean": 25.17,
+        "median": 16.93,
+        "suggested": 5.73,
+        "quantity": 83,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SSG 08 | Carbon Fiber (Minimal Wear)",
+      "price": {
+        "min": 3.43,
+        "max": 17.5,
+        "mean": 6.15,
+        "median": 3.43,
+        "suggested": 5.05,
+        "quantity": 43,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SSG 08 | Carbon Fiber (Factory New)",
+        "price": {
+          "min": 4.38,
+          "max": 131.86,
+          "mean": 25.17,
+          "median": 16.93,
+          "suggested": 5.73,
+          "quantity": 83,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "SSG 08 | Carbon Fiber (Minimal Wear)",
+        "price": {
+          "min": 3.43,
+          "max": 17.5,
+          "mean": 6.15,
+          "median": 3.43,
+          "suggested": 5.05,
+          "quantity": 43,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SSG 08 | Carbon Fiber (Factory New)",
+        "price": {
+          "min": 2.91,
+          "max": 105.23,
+          "mean": 29.75,
+          "median": 17.5,
+          "suggested": 2.69,
+          "quantity": 141,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir SSG 08 | Carbon Fiber (Minimal Wear)",
+        "price": {
+          "min": 2.24,
+          "max": 54.88,
+          "mean": 17.64,
+          "median": 12.66,
+          "suggested": 2.57,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:48.327Z"
+}

@@ -1,0 +1,129 @@
+{
+  "id": "skin-6cccc7b762e4",
+  "name": "R8 Revolver | Blaze",
+  "paint_index": "37",
+  "weapon": {
+    "id": "weapon_revolver",
+    "weapon_id": 64,
+    "name": "R8 Revolver",
+    "slug": "revolver"
+  },
+  "pattern": {
+    "id": "aa_flames",
+    "name": "Blaze"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The R8 Revolver delivers a highly accurate and powerful round at the expense of a lengthy trigger-pull. Firing rapidly by fanning the hammer may be the best option when point-blank stopping power is required. It has been painted by airbrushing transparent paints over a chrome base coat.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 5.02,
+      "max": 157.54,
+      "mean": 14.74,
+      "median": 9.6,
+      "suggested": 6.15,
+      "quantity": 308,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 4.35,
+      "max": 30.34,
+      "mean": 15.6,
+      "median": 9.17,
+      "suggested": 6.24,
+      "quantity": 21,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "R8 Revolver | Blaze (Factory New)",
+      "price": {
+        "min": 5.02,
+        "max": 157.54,
+        "mean": 14.74,
+        "median": 9.6,
+        "suggested": 6.15,
+        "quantity": 308,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "R8 Revolver | Blaze (Minimal Wear)",
+      "price": {
+        "min": 4.35,
+        "max": 30.34,
+        "mean": 15.6,
+        "median": 9.17,
+        "suggested": 6.24,
+        "quantity": 21,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "R8 Revolver | Blaze (Factory New)",
+        "price": {
+          "min": 5.02,
+          "max": 157.54,
+          "mean": 14.74,
+          "median": 9.6,
+          "suggested": 6.15,
+          "quantity": 308,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "R8 Revolver | Blaze (Minimal Wear)",
+        "price": {
+          "min": 4.35,
+          "max": 30.34,
+          "mean": 15.6,
+          "median": 9.17,
+          "suggested": 6.24,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir R8 Revolver | Blaze (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir R8 Revolver | Blaze (Minimal Wear)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:46.534Z"
+}

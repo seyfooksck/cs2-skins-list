@@ -1,0 +1,310 @@
+{
+  "id": "skin-d9b6c949df6f",
+  "name": "Nova | Plume",
+  "paint_index": "890",
+  "weapon": {
+    "id": "weapon_nova",
+    "weapon_id": 35,
+    "name": "Nova",
+    "slug": "nova"
+  },
+  "pattern": {
+    "id": "cu_nova_featherswing",
+    "name": "Plume"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Nova's rock-bottom price tag makes it a great ambush weapon for a cash-strapped team. Custom painted brown feathers overlay a wooden receiver and stock.\\n\\n<i>This oughta ruffle some feathers</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 4.43,
+      "max": 35.79,
+      "mean": 10.25,
+      "median": 6.09,
+      "suggested": 5.28,
+      "quantity": 26,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.05,
+      "max": 7.18,
+      "mean": 4.31,
+      "median": 4.06,
+      "suggested": 2.72,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.79,
+      "max": 5.06,
+      "mean": 2.14,
+      "median": 2,
+      "suggested": 1.1,
+      "quantity": 93,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.32,
+      "max": 3.22,
+      "mean": 2.15,
+      "median": 1.9,
+      "suggested": 1.15,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.62,
+      "max": 3.5,
+      "mean": 1.56,
+      "median": 1.16,
+      "suggested": 0.88,
+      "quantity": 30,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Nova | Plume (Factory New)",
+      "price": {
+        "min": 4.43,
+        "max": 35.79,
+        "mean": 10.25,
+        "median": 6.09,
+        "suggested": 5.28,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Nova | Plume (Minimal Wear)",
+      "price": {
+        "min": 2.05,
+        "max": 7.18,
+        "mean": 4.31,
+        "median": 4.06,
+        "suggested": 2.72,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Nova | Plume (Field-Tested)",
+      "price": {
+        "min": 0.79,
+        "max": 5.06,
+        "mean": 2.14,
+        "median": 2,
+        "suggested": 1.1,
+        "quantity": 93,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Nova | Plume (Well-Worn)",
+      "price": {
+        "min": 1.32,
+        "max": 3.22,
+        "mean": 2.15,
+        "median": 1.9,
+        "suggested": 1.15,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Nova | Plume (Battle-Scarred)",
+      "price": {
+        "min": 0.62,
+        "max": 3.5,
+        "mean": 1.56,
+        "median": 1.16,
+        "suggested": 0.88,
+        "quantity": 30,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Nova | Plume (Factory New)",
+        "price": {
+          "min": 4.43,
+          "max": 35.79,
+          "mean": 10.25,
+          "median": 6.09,
+          "suggested": 5.28,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Nova | Plume (Minimal Wear)",
+        "price": {
+          "min": 2.05,
+          "max": 7.18,
+          "mean": 4.31,
+          "median": 4.06,
+          "suggested": 2.72,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Nova | Plume (Field-Tested)",
+        "price": {
+          "min": 0.79,
+          "max": 5.06,
+          "mean": 2.14,
+          "median": 2,
+          "suggested": 1.1,
+          "quantity": 93,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Nova | Plume (Well-Worn)",
+        "price": {
+          "min": 1.32,
+          "max": 3.22,
+          "mean": 2.15,
+          "median": 1.9,
+          "suggested": 1.15,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Nova | Plume (Battle-Scarred)",
+        "price": {
+          "min": 0.62,
+          "max": 3.5,
+          "mean": 1.56,
+          "median": 1.16,
+          "suggested": 0.88,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Nova | Plume (Factory New)",
+        "price": {
+          "min": 4.38,
+          "max": 41.61,
+          "mean": 19.52,
+          "median": 10.85,
+          "suggested": 4.7,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Nova | Plume (Minimal Wear)",
+        "price": {
+          "min": 2.08,
+          "max": 2.56,
+          "mean": 2.22,
+          "median": 2.14,
+          "suggested": 2.95,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Nova | Plume (Field-Tested)",
+        "price": {
+          "min": 0.85,
+          "max": 3.16,
+          "mean": 1.46,
+          "median": 1.63,
+          "suggested": 1.03,
+          "quantity": 47,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Nova | Plume (Well-Worn)",
+        "price": {
+          "min": 1.51,
+          "max": 1.65,
+          "mean": 1.59,
+          "median": 1.58,
+          "suggested": 1.7,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Nova | Plume (Battle-Scarred)",
+        "price": {
+          "min": 0.84,
+          "max": 1.75,
+          "mean": 1.18,
+          "median": 1.07,
+          "suggested": 1.05,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Nova | Plume (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Nova | Plume (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Nova | Plume (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Nova | Plume (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Nova | Plume (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.455Z"
+}

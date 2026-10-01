@@ -1,0 +1,206 @@
+{
+  "id": "skin-064fed483cd7",
+  "name": "Nova | Antique",
+  "paint_index": "286",
+  "weapon": {
+    "id": "weapon_nova",
+    "weapon_id": 35,
+    "name": "Nova",
+    "slug": "nova"
+  },
+  "pattern": {
+    "id": "cu_nova_antique",
+    "name": "Antique"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.3,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Nova's rock-bottom price tag makes it a great ambush weapon for a cash-strapped team. It has been painted using a combination of hydrographics and dry-transfer decals to create the look of a wood stock and gold inlay.\\n\\n<i>With age comes wisdom and stopping power</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 11.09,
+      "max": 729.92,
+      "mean": 33.29,
+      "median": 15.39,
+      "suggested": 15.44,
+      "quantity": 63,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 9.59,
+      "max": 17.47,
+      "mean": 11.53,
+      "median": 11.18,
+      "suggested": 11.95,
+      "quantity": 47,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 10.54,
+      "max": 14.59,
+      "mean": 12.4,
+      "median": 12.15,
+      "suggested": 14.52,
+      "quantity": 10,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Nova | Antique (Factory New)",
+      "price": {
+        "min": 11.09,
+        "max": 729.92,
+        "mean": 33.29,
+        "median": 15.39,
+        "suggested": 15.44,
+        "quantity": 63,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Nova | Antique (Minimal Wear)",
+      "price": {
+        "min": 9.59,
+        "max": 17.47,
+        "mean": 11.53,
+        "median": 11.18,
+        "suggested": 11.95,
+        "quantity": 47,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Nova | Antique (Field-Tested)",
+      "price": {
+        "min": 10.54,
+        "max": 14.59,
+        "mean": 12.4,
+        "median": 12.15,
+        "suggested": 14.52,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Nova | Antique (Factory New)",
+        "price": {
+          "min": 11.09,
+          "max": 729.92,
+          "mean": 33.29,
+          "median": 15.39,
+          "suggested": 15.44,
+          "quantity": 63,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Nova | Antique (Minimal Wear)",
+        "price": {
+          "min": 9.59,
+          "max": 17.47,
+          "mean": 11.53,
+          "median": 11.18,
+          "suggested": 11.95,
+          "quantity": 47,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Nova | Antique (Field-Tested)",
+        "price": {
+          "min": 10.54,
+          "max": 14.59,
+          "mean": 12.4,
+          "median": 12.15,
+          "suggested": 14.52,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Nova | Antique (Factory New)",
+        "price": {
+          "min": 22.95,
+          "max": 116.1,
+          "mean": 35.08,
+          "median": 26.28,
+          "suggested": 23.26,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Nova | Antique (Minimal Wear)",
+        "price": {
+          "min": 13.07,
+          "max": 34.42,
+          "mean": 20.12,
+          "median": 19.97,
+          "suggested": 17.33,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Nova | Antique (Field-Tested)",
+        "price": {
+          "min": 24.51,
+          "max": 24.51,
+          "mean": 24.51,
+          "median": 24.51,
+          "suggested": 15.74,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Nova | Antique (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Nova | Antique (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Nova | Antique (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.442Z"
+}

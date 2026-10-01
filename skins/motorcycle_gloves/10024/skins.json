@@ -1,0 +1,228 @@
+{
+  "id": "skin-d8671b33d6d9",
+  "name": "★ Moto Gloves | Eclipse",
+  "paint_index": "10024",
+  "weapon": {
+    "id": "motorcycle_gloves",
+    "weapon_id": 5033,
+    "name": "Moto Gloves",
+    "slug": "motorcycle_gloves"
+  },
+  "pattern": {
+    "id": "motorcycle_basic_black",
+    "name": "Eclipse"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_gloves",
+    "name": "Gloves"
+  },
+  "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "These bulky hard knuckled gloves can protect the wearers hands from road rash at 60 mph. This is the original classic black design that made Tortue a household name.\\n\\n<i>Don't call it a midlife crisis</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 819.32,
+      "max": 819.32,
+      "mean": 819.32,
+      "median": 819.32,
+      "suggested": 1271.63,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 768.1,
+      "max": 1166.95,
+      "mean": 930.64,
+      "median": 893.77,
+      "suggested": 686.33,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 573.53,
+      "max": 1166.94,
+      "mean": 793.72,
+      "median": 759.1,
+      "suggested": 649.26,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 170.57,
+      "max": 909.16,
+      "mean": 662.96,
+      "median": 909.16,
+      "suggested": 172.41,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 127.2,
+      "max": 568.23,
+      "mean": 421.22,
+      "median": 568.23,
+      "suggested": 120.76,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Moto Gloves | Eclipse (Factory New)",
+      "price": {
+        "min": 819.32,
+        "max": 819.32,
+        "mean": 819.32,
+        "median": 819.32,
+        "suggested": 1271.63,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Moto Gloves | Eclipse (Minimal Wear)",
+      "price": {
+        "min": 768.1,
+        "max": 1166.95,
+        "mean": 930.64,
+        "median": 893.77,
+        "suggested": 686.33,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Moto Gloves | Eclipse (Field-Tested)",
+      "price": {
+        "min": 573.53,
+        "max": 1166.94,
+        "mean": 793.72,
+        "median": 759.1,
+        "suggested": 649.26,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Moto Gloves | Eclipse (Well-Worn)",
+      "price": {
+        "min": 170.57,
+        "max": 909.16,
+        "mean": 662.96,
+        "median": 909.16,
+        "suggested": 172.41,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Moto Gloves | Eclipse (Battle-Scarred)",
+      "price": {
+        "min": 127.2,
+        "max": 568.23,
+        "mean": 421.22,
+        "median": 568.23,
+        "suggested": 120.76,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Moto Gloves | Eclipse (Factory New)",
+        "price": {
+          "min": 819.32,
+          "max": 819.32,
+          "mean": 819.32,
+          "median": 819.32,
+          "suggested": 1271.63,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Moto Gloves | Eclipse (Minimal Wear)",
+        "price": {
+          "min": 768.1,
+          "max": 1166.95,
+          "mean": 930.64,
+          "median": 893.77,
+          "suggested": 686.33,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Moto Gloves | Eclipse (Field-Tested)",
+        "price": {
+          "min": 573.53,
+          "max": 1166.94,
+          "mean": 793.72,
+          "median": 759.1,
+          "suggested": 649.26,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Moto Gloves | Eclipse (Well-Worn)",
+        "price": {
+          "min": 170.57,
+          "max": 909.16,
+          "mean": 662.96,
+          "median": 909.16,
+          "suggested": 172.41,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Moto Gloves | Eclipse (Battle-Scarred)",
+        "price": {
+          "min": 127.2,
+          "max": 568.23,
+          "mean": 421.22,
+          "median": 568.23,
+          "suggested": 120.76,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:23.157Z"
+}

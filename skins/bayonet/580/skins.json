@@ -1,0 +1,265 @@
+{
+  "id": "skin-f17c8f06006a",
+  "name": "★ Bayonet | Freehand",
+  "paint_index": "580",
+  "weapon": {
+    "id": "weapon_bayonet",
+    "weapon_id": 500,
+    "name": "Bayonet",
+    "slug": "bayonet"
+  },
+  "pattern": {
+    "id": "am_marked_up",
+    "name": "Freehand"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.48,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Relatively unchanged in its design since World War II, the bayonet still retains a place in modern military strategy. Bayonet charges have continued to be effective as recently as the second Gulf War and the war in Afghanistan. It has been painted black and purple, then decorated with a metallic marker.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 208.88,
+      "max": 496.3,
+      "mean": 294.08,
+      "median": 233.47,
+      "suggested": 257.45,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 228.86,
+      "max": 262.56,
+      "mean": 241.22,
+      "median": 232.22,
+      "suggested": 245.48,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 163.37,
+      "max": 408.43,
+      "mean": 209.44,
+      "median": 184.34,
+      "suggested": 224.84,
+      "quantity": 17,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 174.99,
+      "max": 174.99,
+      "mean": 174.99,
+      "median": 174.99,
+      "suggested": 203.71,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 226.69,
+      "max": 226.69,
+      "mean": 226.69,
+      "median": 226.69,
+      "suggested": 247.66,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Bayonet | Freehand (Factory New)",
+      "price": {
+        "min": 208.88,
+        "max": 496.3,
+        "mean": 294.08,
+        "median": 233.47,
+        "suggested": 257.45,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Bayonet | Freehand (Minimal Wear)",
+      "price": {
+        "min": 228.86,
+        "max": 262.56,
+        "mean": 241.22,
+        "median": 232.22,
+        "suggested": 245.48,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Bayonet | Freehand (Field-Tested)",
+      "price": {
+        "min": 163.37,
+        "max": 408.43,
+        "mean": 209.44,
+        "median": 184.34,
+        "suggested": 224.84,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Bayonet | Freehand (Well-Worn)",
+      "price": {
+        "min": 174.99,
+        "max": 174.99,
+        "mean": 174.99,
+        "median": 174.99,
+        "suggested": 203.71,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Bayonet | Freehand (Battle-Scarred)",
+      "price": {
+        "min": 226.69,
+        "max": 226.69,
+        "mean": 226.69,
+        "median": 226.69,
+        "suggested": 247.66,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Bayonet | Freehand (Factory New)",
+        "price": {
+          "min": 208.88,
+          "max": 496.3,
+          "mean": 294.08,
+          "median": 233.47,
+          "suggested": 257.45,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Bayonet | Freehand (Minimal Wear)",
+        "price": {
+          "min": 228.86,
+          "max": 262.56,
+          "mean": 241.22,
+          "median": 232.22,
+          "suggested": 245.48,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Bayonet | Freehand (Field-Tested)",
+        "price": {
+          "min": 163.37,
+          "max": 408.43,
+          "mean": 209.44,
+          "median": 184.34,
+          "suggested": 224.84,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Bayonet | Freehand (Well-Worn)",
+        "price": {
+          "min": 174.99,
+          "max": 174.99,
+          "mean": 174.99,
+          "median": 174.99,
+          "suggested": 203.71,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Bayonet | Freehand (Battle-Scarred)",
+        "price": {
+          "min": 226.69,
+          "max": 226.69,
+          "mean": 226.69,
+          "median": 226.69,
+          "suggested": 247.66,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Freehand (Factory New)",
+        "price": {
+          "min": 345.62,
+          "max": 345.62,
+          "mean": 345.62,
+          "median": 345.62,
+          "suggested": 390.83,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Freehand (Minimal Wear)",
+        "price": {
+          "min": 233.39,
+          "max": 233.39,
+          "mean": 233.39,
+          "median": 233.39,
+          "suggested": 277.67,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Freehand (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Freehand (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Freehand (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:26.576Z"
+}

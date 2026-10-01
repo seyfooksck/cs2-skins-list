@@ -1,0 +1,185 @@
+{
+  "id": "skin-04079b605b66",
+  "name": "★ Classic Knife | Slaughter",
+  "paint_index": "59",
+  "weapon": {
+    "id": "weapon_knife_css",
+    "weapon_id": 503,
+    "name": "Classic Knife",
+    "slug": "knife_css"
+  },
+  "pattern": {
+    "id": "am_zebra",
+    "name": "Slaughter"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.01,
+  "max_float": 0.26,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A classic of the Counter-Strike series, the edge of this knife is press-fit Stellite perfectly held in place due to its precise fit with the titanium on the blade's cheek and spine. The handle is fossilized mastodon ivory held in a carbon fibre pocket. It has been painted in a zebra-stripe pattern with aluminum and chrome paints with various reflectivities, and has then been covered with a tomato red candy coat.\\n\\n<i>Valeria doesn't pay Javier to ask questions... she pays him to pry out answers</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 214.48,
+      "max": 350.08,
+      "mean": 258.76,
+      "median": 245.06,
+      "suggested": 278.16,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 198.82,
+      "max": 433.91,
+      "mean": 264.16,
+      "median": 215.88,
+      "suggested": 242.81,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 175.32,
+      "max": 196.57,
+      "mean": 185.95,
+      "median": 185.95,
+      "suggested": 224.08,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Classic Knife | Slaughter (Factory New)",
+      "price": {
+        "min": 214.48,
+        "max": 350.08,
+        "mean": 258.76,
+        "median": 245.06,
+        "suggested": 278.16,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Classic Knife | Slaughter (Minimal Wear)",
+      "price": {
+        "min": 198.82,
+        "max": 433.91,
+        "mean": 264.16,
+        "median": 215.88,
+        "suggested": 242.81,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Classic Knife | Slaughter (Field-Tested)",
+      "price": {
+        "min": 175.32,
+        "max": 196.57,
+        "mean": 185.95,
+        "median": 185.95,
+        "suggested": 224.08,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Classic Knife | Slaughter (Factory New)",
+        "price": {
+          "min": 214.48,
+          "max": 350.08,
+          "mean": 258.76,
+          "median": 245.06,
+          "suggested": 278.16,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Classic Knife | Slaughter (Minimal Wear)",
+        "price": {
+          "min": 198.82,
+          "max": 433.91,
+          "mean": 264.16,
+          "median": 215.88,
+          "suggested": 242.81,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Classic Knife | Slaughter (Field-Tested)",
+        "price": {
+          "min": 175.32,
+          "max": 196.57,
+          "mean": 185.95,
+          "median": 185.95,
+          "suggested": 224.08,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Classic Knife | Slaughter (Factory New)",
+        "price": {
+          "min": 522.31,
+          "max": 553.13,
+          "mean": 537.72,
+          "median": 537.72,
+          "suggested": 342.22,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Classic Knife | Slaughter (Minimal Wear)",
+        "price": {
+          "min": 215.07,
+          "max": 239.63,
+          "mean": 227.35,
+          "median": 227.35,
+          "suggested": 269.34,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Classic Knife | Slaughter (Field-Tested)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:33.864Z"
+}

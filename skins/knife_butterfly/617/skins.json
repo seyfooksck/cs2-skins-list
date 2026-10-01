@@ -1,0 +1,113 @@
+{
+  "id": "skin-89f34e17d8b4",
+  "name": "★ Butterfly Knife | Doppler",
+  "paint_index": "617",
+  "weapon": {
+    "id": "weapon_knife_butterfly",
+    "weapon_id": 515,
+    "name": "Butterfly Knife",
+    "slug": "knife_butterfly"
+  },
+  "pattern": {
+    "id": "am_blackpearl_marbleized_b",
+    "name": "Doppler"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This is a custom-designed balisong, commonly known as a butterfly knife. The defining characteristic of this weapon is the fan-like opening of a freely pivoting blade, allowing rapid deployment or concealment. As a result, butterfly knives are outlawed in many countries. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 6652.22,
+      "max": 15506.12,
+      "mean": 8792.78,
+      "median": 7566.21,
+      "suggested": 7437.66,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "mw": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Butterfly Knife | Doppler (Factory New)",
+      "price": {
+        "min": 6652.22,
+        "max": 15506.12,
+        "mean": 8792.78,
+        "median": 7566.21,
+        "suggested": 7437.66,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Butterfly Knife | Doppler (Minimal Wear)",
+      "price": null,
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Butterfly Knife | Doppler (Factory New)",
+        "price": {
+          "min": 6652.22,
+          "max": 15506.12,
+          "mean": 8792.78,
+          "median": 7566.21,
+          "suggested": 7437.66,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Butterfly Knife | Doppler (Minimal Wear)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Butterfly Knife | Doppler (Factory New)",
+        "price": {
+          "min": 2684.45,
+          "max": 2684.45,
+          "mean": 2684.45,
+          "median": 2684.45,
+          "suggested": 2387.93,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Butterfly Knife | Doppler (Minimal Wear)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:32.808Z"
+}

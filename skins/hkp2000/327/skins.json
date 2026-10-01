@@ -1,0 +1,193 @@
+{
+  "id": "skin-994f496c1e81",
+  "name": "P2000 | Chainmail",
+  "paint_index": "327",
+  "weapon": {
+    "id": "weapon_hkp2000",
+    "weapon_id": 32,
+    "name": "P2000",
+    "slug": "hkp2000"
+  },
+  "pattern": {
+    "id": "am_chainmail",
+    "name": "Chainmail"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.22,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Accurate and controllable, the German-made P2000 is a serviceable first-round pistol that works best against unarmored opponents. It has been painted with a semi-transparent hydrographic in a chainmail pattern over a silver base coat.\\n\\n<i>Of all the members of The Phoenix, none are more loyal to Valeria than her bodyguard Naomi</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 61.38,
+      "max": 402.59,
+      "mean": 179.11,
+      "median": 123.98,
+      "suggested": 77.78,
+      "quantity": 23,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 80.24,
+      "max": 122.53,
+      "mean": 101.38,
+      "median": 101.38,
+      "suggested": 92.4,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 82.98,
+      "max": 175.03,
+      "mean": 129,
+      "median": 129,
+      "suggested": 125.16,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P2000 | Chainmail (Factory New)",
+      "price": {
+        "min": 61.38,
+        "max": 402.59,
+        "mean": 179.11,
+        "median": 123.98,
+        "suggested": 77.78,
+        "quantity": 23,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P2000 | Chainmail (Minimal Wear)",
+      "price": {
+        "min": 80.24,
+        "max": 122.53,
+        "mean": 101.38,
+        "median": 101.38,
+        "suggested": 92.4,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P2000 | Chainmail (Field-Tested)",
+      "price": {
+        "min": 82.98,
+        "max": 175.03,
+        "mean": 129,
+        "median": 129,
+        "suggested": 125.16,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P2000 | Chainmail (Factory New)",
+        "price": {
+          "min": 61.38,
+          "max": 402.59,
+          "mean": 179.11,
+          "median": 123.98,
+          "suggested": 77.78,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P2000 | Chainmail (Minimal Wear)",
+        "price": {
+          "min": 80.24,
+          "max": 122.53,
+          "mean": 101.38,
+          "median": 101.38,
+          "suggested": 92.4,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P2000 | Chainmail (Field-Tested)",
+        "price": {
+          "min": 82.98,
+          "max": 175.03,
+          "mean": 129,
+          "median": 129,
+          "suggested": 125.16,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P2000 | Chainmail (Factory New)",
+        "price": {
+          "min": 54.39,
+          "max": 116.68,
+          "mean": 68.42,
+          "median": 61.85,
+          "suggested": 59.88,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P2000 | Chainmail (Minimal Wear)",
+        "price": {
+          "min": 48.92,
+          "max": 460.94,
+          "mean": 134.29,
+          "median": 66.12,
+          "suggested": 62.45,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P2000 | Chainmail (Field-Tested)",
+        "price": {
+          "min": 58.35,
+          "max": 58.35,
+          "mean": 58.35,
+          "median": 58.35,
+          "suggested": 39.52,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:32.339Z"
+}

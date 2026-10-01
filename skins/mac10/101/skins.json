@@ -1,0 +1,225 @@
+{
+  "id": "skin-31eae8d1e829",
+  "name": "MAC-10 | Tornado",
+  "paint_index": "101",
+  "weapon": {
+    "id": "weapon_mac10",
+    "weapon_id": 17,
+    "name": "MAC-10",
+    "slug": "mac10"
+  },
+  "pattern": {
+    "id": "so_tornado",
+    "name": "Tornado"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has individual parts spray-painted solid colors in a tornado color scheme.\\n\\n<i>Don't be fooled by its simplicity</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 204.83,
+      "max": 204.83,
+      "mean": 204.83,
+      "median": 204.83,
+      "suggested": 101.46,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "mw": null,
+    "ft": {
+      "min": 2.28,
+      "max": 2.84,
+      "mean": 2.57,
+      "median": 2.59,
+      "suggested": 2.97,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 2.73,
+      "max": 2.73,
+      "mean": 2.73,
+      "median": 2.73,
+      "suggested": 3.04,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 18.58,
+      "max": 18.58,
+      "mean": 18.58,
+      "median": 18.58,
+      "suggested": 2.63,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAC-10 | Tornado (Factory New)",
+      "price": {
+        "min": 204.83,
+        "max": 204.83,
+        "mean": 204.83,
+        "median": 204.83,
+        "suggested": 101.46,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAC-10 | Tornado (Minimal Wear)",
+      "price": null,
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAC-10 | Tornado (Field-Tested)",
+      "price": {
+        "min": 2.28,
+        "max": 2.84,
+        "mean": 2.57,
+        "median": 2.59,
+        "suggested": 2.97,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAC-10 | Tornado (Well-Worn)",
+      "price": {
+        "min": 2.73,
+        "max": 2.73,
+        "mean": 2.73,
+        "median": 2.73,
+        "suggested": 3.04,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAC-10 | Tornado (Battle-Scarred)",
+      "price": {
+        "min": 18.58,
+        "max": 18.58,
+        "mean": 18.58,
+        "median": 18.58,
+        "suggested": 2.63,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAC-10 | Tornado (Factory New)",
+        "price": {
+          "min": 204.83,
+          "max": 204.83,
+          "mean": 204.83,
+          "median": 204.83,
+          "suggested": 101.46,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAC-10 | Tornado (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "MAC-10 | Tornado (Field-Tested)",
+        "price": {
+          "min": 2.28,
+          "max": 2.84,
+          "mean": 2.57,
+          "median": 2.59,
+          "suggested": 2.97,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAC-10 | Tornado (Well-Worn)",
+        "price": {
+          "min": 2.73,
+          "max": 2.73,
+          "mean": 2.73,
+          "median": 2.73,
+          "suggested": 3.04,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MAC-10 | Tornado (Battle-Scarred)",
+        "price": {
+          "min": 18.58,
+          "max": 18.58,
+          "mean": 18.58,
+          "median": 18.58,
+          "suggested": 2.63,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAC-10 | Tornado (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAC-10 | Tornado (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAC-10 | Tornado (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAC-10 | Tornado (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAC-10 | Tornado (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.056Z"
+}

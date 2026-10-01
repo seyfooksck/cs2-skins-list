@@ -1,0 +1,310 @@
+{
+  "id": "skin-5e748c63e9a7",
+  "name": "PP-Bizon | Osiris",
+  "paint_index": "349",
+  "weapon": {
+    "id": "weapon_bizon",
+    "weapon_id": 26,
+    "name": "PP-Bizon",
+    "slug": "bizon"
+  },
+  "pattern": {
+    "id": "cu_bizon-osiris",
+    "name": "Osiris"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly. It has been custom painted with a high-tech design in black, white, and amber.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 4.76,
+      "max": 134.2,
+      "mean": 19.09,
+      "median": 6.66,
+      "suggested": 6.17,
+      "quantity": 44,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.03,
+      "max": 122.52,
+      "mean": 3.71,
+      "median": 2.37,
+      "suggested": 2.81,
+      "quantity": 139,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.07,
+      "max": 18.88,
+      "mean": 3.33,
+      "median": 2.56,
+      "suggested": 2.57,
+      "quantity": 139,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 2.07,
+      "max": 3.22,
+      "mean": 2.49,
+      "median": 2.4,
+      "suggested": 2.5,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 2.75,
+      "max": 2.78,
+      "mean": 2.77,
+      "median": 2.78,
+      "suggested": 2.38,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "PP-Bizon | Osiris (Factory New)",
+      "price": {
+        "min": 4.76,
+        "max": 134.2,
+        "mean": 19.09,
+        "median": 6.66,
+        "suggested": 6.17,
+        "quantity": 44,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "PP-Bizon | Osiris (Minimal Wear)",
+      "price": {
+        "min": 2.03,
+        "max": 122.52,
+        "mean": 3.71,
+        "median": 2.37,
+        "suggested": 2.81,
+        "quantity": 139,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "PP-Bizon | Osiris (Field-Tested)",
+      "price": {
+        "min": 2.07,
+        "max": 18.88,
+        "mean": 3.33,
+        "median": 2.56,
+        "suggested": 2.57,
+        "quantity": 139,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "PP-Bizon | Osiris (Well-Worn)",
+      "price": {
+        "min": 2.07,
+        "max": 3.22,
+        "mean": 2.49,
+        "median": 2.4,
+        "suggested": 2.5,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "PP-Bizon | Osiris (Battle-Scarred)",
+      "price": {
+        "min": 2.75,
+        "max": 2.78,
+        "mean": 2.77,
+        "median": 2.78,
+        "suggested": 2.38,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "PP-Bizon | Osiris (Factory New)",
+        "price": {
+          "min": 4.76,
+          "max": 134.2,
+          "mean": 19.09,
+          "median": 6.66,
+          "suggested": 6.17,
+          "quantity": 44,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "PP-Bizon | Osiris (Minimal Wear)",
+        "price": {
+          "min": 2.03,
+          "max": 122.52,
+          "mean": 3.71,
+          "median": 2.37,
+          "suggested": 2.81,
+          "quantity": 139,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "PP-Bizon | Osiris (Field-Tested)",
+        "price": {
+          "min": 2.07,
+          "max": 18.88,
+          "mean": 3.33,
+          "median": 2.56,
+          "suggested": 2.57,
+          "quantity": 139,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "PP-Bizon | Osiris (Well-Worn)",
+        "price": {
+          "min": 2.07,
+          "max": 3.22,
+          "mean": 2.49,
+          "median": 2.4,
+          "suggested": 2.5,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "PP-Bizon | Osiris (Battle-Scarred)",
+        "price": {
+          "min": 2.75,
+          "max": 2.78,
+          "mean": 2.77,
+          "median": 2.78,
+          "suggested": 2.38,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Osiris (Factory New)",
+        "price": {
+          "min": 4.49,
+          "max": 46.68,
+          "mean": 8.74,
+          "median": 5.55,
+          "suggested": 5.79,
+          "quantity": 37,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Osiris (Minimal Wear)",
+        "price": {
+          "min": 2.29,
+          "max": 52.51,
+          "mean": 4.96,
+          "median": 3.37,
+          "suggested": 3.23,
+          "quantity": 60,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Osiris (Field-Tested)",
+        "price": {
+          "min": 1.88,
+          "max": 16.22,
+          "mean": 2.94,
+          "median": 2.31,
+          "suggested": 2.57,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Osiris (Well-Worn)",
+        "price": {
+          "min": 2.19,
+          "max": 5.02,
+          "mean": 3.76,
+          "median": 3.55,
+          "suggested": 2.69,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Osiris (Battle-Scarred)",
+        "price": {
+          "min": 2.46,
+          "max": 86.56,
+          "mean": 44.52,
+          "median": 44.52,
+          "suggested": 2.93,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir PP-Bizon | Osiris (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir PP-Bizon | Osiris (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir PP-Bizon | Osiris (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir PP-Bizon | Osiris (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir PP-Bizon | Osiris (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:26.971Z"
+}

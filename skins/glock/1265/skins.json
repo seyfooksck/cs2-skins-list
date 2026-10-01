@@ -1,0 +1,249 @@
+{
+  "id": "skin-ad93599cbfb9",
+  "name": "Glock-18 | Ocean Topo",
+  "paint_index": "1265",
+  "weapon": {
+    "id": "weapon_glock",
+    "weapon_id": 4,
+    "name": "Glock-18",
+    "slug": "glock"
+  },
+  "pattern": {
+    "id": "hye_topo",
+    "name": "Ocean Topo"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. A blue topographic pattern has been applied.\\n\\n<i>\\\"Yeah, I saw that too...\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.48,
+      "max": 65.93,
+      "mean": 1.1,
+      "median": 0.68,
+      "suggested": 0.57,
+      "quantity": 752,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.22,
+      "max": 3.15,
+      "mean": 1.16,
+      "median": 1.51,
+      "suggested": 0.27,
+      "quantity": 151,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.06,
+      "max": 4.08,
+      "mean": 0.21,
+      "median": 0.08,
+      "suggested": 0.09,
+      "quantity": 156,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.08,
+      "max": 2.63,
+      "mean": 0.22,
+      "median": 0.14,
+      "suggested": 0.09,
+      "quantity": 29,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.07,
+      "max": 3.44,
+      "mean": 0.18,
+      "median": 0.08,
+      "suggested": 0.09,
+      "quantity": 36,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Glock-18 | Ocean Topo (Factory New)",
+      "price": {
+        "min": 0.48,
+        "max": 65.93,
+        "mean": 1.1,
+        "median": 0.68,
+        "suggested": 0.57,
+        "quantity": 752,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Glock-18 | Ocean Topo (Minimal Wear)",
+      "price": {
+        "min": 0.22,
+        "max": 3.15,
+        "mean": 1.16,
+        "median": 1.51,
+        "suggested": 0.27,
+        "quantity": 151,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Glock-18 | Ocean Topo (Field-Tested)",
+      "price": {
+        "min": 0.06,
+        "max": 4.08,
+        "mean": 0.21,
+        "median": 0.08,
+        "suggested": 0.09,
+        "quantity": 156,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Glock-18 | Ocean Topo (Well-Worn)",
+      "price": {
+        "min": 0.08,
+        "max": 2.63,
+        "mean": 0.22,
+        "median": 0.14,
+        "suggested": 0.09,
+        "quantity": 29,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Glock-18 | Ocean Topo (Battle-Scarred)",
+      "price": {
+        "min": 0.07,
+        "max": 3.44,
+        "mean": 0.18,
+        "median": 0.08,
+        "suggested": 0.09,
+        "quantity": 36,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Glock-18 | Ocean Topo (Factory New)",
+        "price": {
+          "min": 0.48,
+          "max": 65.93,
+          "mean": 1.1,
+          "median": 0.68,
+          "suggested": 0.57,
+          "quantity": 752,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Glock-18 | Ocean Topo (Minimal Wear)",
+        "price": {
+          "min": 0.22,
+          "max": 3.15,
+          "mean": 1.16,
+          "median": 1.51,
+          "suggested": 0.27,
+          "quantity": 151,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Glock-18 | Ocean Topo (Field-Tested)",
+        "price": {
+          "min": 0.06,
+          "max": 4.08,
+          "mean": 0.21,
+          "median": 0.08,
+          "suggested": 0.09,
+          "quantity": 156,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Glock-18 | Ocean Topo (Well-Worn)",
+        "price": {
+          "min": 0.08,
+          "max": 2.63,
+          "mean": 0.22,
+          "median": 0.14,
+          "suggested": 0.09,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Glock-18 | Ocean Topo (Battle-Scarred)",
+        "price": {
+          "min": 0.07,
+          "max": 3.44,
+          "mean": 0.18,
+          "median": 0.08,
+          "suggested": 0.09,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Glock-18 | Ocean Topo (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Glock-18 | Ocean Topo (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Glock-18 | Ocean Topo (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Glock-18 | Ocean Topo (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Glock-18 | Ocean Topo (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:32.191Z"
+}

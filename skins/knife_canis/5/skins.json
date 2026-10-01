@@ -1,0 +1,233 @@
+{
+  "id": "skin-b862260eaab4",
+  "name": "★ Survival Knife | Forest DDPAT",
+  "paint_index": "5",
+  "weapon": {
+    "id": "weapon_knife_canis",
+    "weapon_id": 518,
+    "name": "Survival Knife",
+    "slug": "knife_canis"
+  },
+  "pattern": {
+    "id": "hy_ddpat",
+    "name": "Forest DDPAT"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.\\n\\n<i>By the time you're close enough to notice the pixels it's already too late</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 148.77,
+      "max": 148.77,
+      "mean": 148.77,
+      "median": 148.77,
+      "suggested": 148.4,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 58.51,
+      "max": 119.03,
+      "mean": 79.19,
+      "median": 68.25,
+      "suggested": 66.31,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 61.99,
+      "max": 198.37,
+      "mean": 146.21,
+      "median": 143.93,
+      "suggested": 58.19,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 46.68,
+      "max": 46.68,
+      "mean": 46.68,
+      "median": 46.68,
+      "suggested": 57.6,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Survival Knife | Forest DDPAT (Factory New)",
+      "price": {
+        "min": 148.77,
+        "max": 148.77,
+        "mean": 148.77,
+        "median": 148.77,
+        "suggested": 148.4,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Survival Knife | Forest DDPAT (Minimal Wear)",
+      "price": {
+        "min": 58.51,
+        "max": 119.03,
+        "mean": 79.19,
+        "median": 68.25,
+        "suggested": 66.31,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Survival Knife | Forest DDPAT (Field-Tested)",
+      "price": {
+        "min": 61.99,
+        "max": 198.37,
+        "mean": 146.21,
+        "median": 143.93,
+        "suggested": 58.19,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Survival Knife | Forest DDPAT (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Survival Knife | Forest DDPAT (Battle-Scarred)",
+      "price": {
+        "min": 46.68,
+        "max": 46.68,
+        "mean": 46.68,
+        "median": 46.68,
+        "suggested": 57.6,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Survival Knife | Forest DDPAT (Factory New)",
+        "price": {
+          "min": 148.77,
+          "max": 148.77,
+          "mean": 148.77,
+          "median": 148.77,
+          "suggested": 148.4,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Survival Knife | Forest DDPAT (Minimal Wear)",
+        "price": {
+          "min": 58.51,
+          "max": 119.03,
+          "mean": 79.19,
+          "median": 68.25,
+          "suggested": 66.31,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Survival Knife | Forest DDPAT (Field-Tested)",
+        "price": {
+          "min": 61.99,
+          "max": 198.37,
+          "mean": 146.21,
+          "median": 143.93,
+          "suggested": 58.19,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Survival Knife | Forest DDPAT (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ Survival Knife | Forest DDPAT (Battle-Scarred)",
+        "price": {
+          "min": 46.68,
+          "max": 46.68,
+          "mean": 46.68,
+          "median": 46.68,
+          "suggested": 57.6,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Forest DDPAT (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Forest DDPAT (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Forest DDPAT (Field-Tested)",
+        "price": {
+          "min": 69.14,
+          "max": 69.14,
+          "mean": 69.14,
+          "median": 69.14,
+          "suggested": 62.22,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Forest DDPAT (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Forest DDPAT (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:33.445Z"
+}

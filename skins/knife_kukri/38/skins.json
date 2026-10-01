@@ -1,0 +1,145 @@
+{
+  "id": "skin-6dbefc59c1b9",
+  "name": "★ Kukri Knife | Fade",
+  "paint_index": "38",
+  "weapon": {
+    "id": "weapon_knife_kukri",
+    "weapon_id": 526,
+    "name": "Kukri Knife",
+    "slug": "knife_kukri"
+  },
+  "pattern": {
+    "id": "aa_fade",
+    "name": "Fade"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Used in traditional rituals, such as weddings or stabbings. It has been painted by airbrushing transparent paints that fade together over a chrome base coat.\\n\\n<i>This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 190.08,
+      "max": 1047.5,
+      "mean": 310.67,
+      "median": 214.98,
+      "suggested": 241.16,
+      "quantity": 73,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 201.16,
+      "max": 303.05,
+      "mean": 248.79,
+      "median": 225.78,
+      "suggested": 250.04,
+      "quantity": 5,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Kukri Knife | Fade (Factory New)",
+      "price": {
+        "min": 190.08,
+        "max": 1047.5,
+        "mean": 310.67,
+        "median": 214.98,
+        "suggested": 241.16,
+        "quantity": 73,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Kukri Knife | Fade (Minimal Wear)",
+      "price": {
+        "min": 201.16,
+        "max": 303.05,
+        "mean": 248.79,
+        "median": 225.78,
+        "suggested": 250.04,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Kukri Knife | Fade (Factory New)",
+        "price": {
+          "min": 190.08,
+          "max": 1047.5,
+          "mean": 310.67,
+          "median": 214.98,
+          "suggested": 241.16,
+          "quantity": 73,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Kukri Knife | Fade (Minimal Wear)",
+        "price": {
+          "min": 201.16,
+          "max": 303.05,
+          "mean": 248.79,
+          "median": 225.78,
+          "suggested": 250.04,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Kukri Knife | Fade (Factory New)",
+        "price": {
+          "min": 227.47,
+          "max": 610.31,
+          "mean": 299.44,
+          "median": 250.74,
+          "suggested": 270.62,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Kukri Knife | Fade (Minimal Wear)",
+        "price": {
+          "min": 388.59,
+          "max": 388.59,
+          "mean": 388.59,
+          "median": 388.59,
+          "suggested": 277.84,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:36.120Z"
+}

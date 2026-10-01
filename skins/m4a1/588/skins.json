@@ -1,0 +1,310 @@
+{
+  "id": "skin-ca4eb6f53d0e",
+  "name": "M4A4 | Desolate Space",
+  "paint_index": "588",
+  "weapon": {
+    "id": "weapon_m4a1",
+    "weapon_id": 16,
+    "name": "M4A4",
+    "slug": "m4a1"
+  },
+  "pattern": {
+    "id": "cu_m4a4_desolate_space",
+    "name": "Desolate Space"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with a space theme.\\n\\n<i>\\\"We've lost contact\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 107.65,
+      "max": 583.47,
+      "mean": 182.32,
+      "median": 156.05,
+      "suggested": 120.86,
+      "quantity": 36,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 23.34,
+      "max": 1165.77,
+      "mean": 44.65,
+      "median": 31.51,
+      "suggested": 28.69,
+      "quantity": 157,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 12.99,
+      "max": 258.48,
+      "mean": 23.14,
+      "median": 17.36,
+      "suggested": 17.54,
+      "quantity": 154,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 12.28,
+      "max": 41.89,
+      "mean": 19.17,
+      "median": 13.77,
+      "suggested": 15.38,
+      "quantity": 55,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 11.88,
+      "max": 180.34,
+      "mean": 22.32,
+      "median": 13.77,
+      "suggested": 14.38,
+      "quantity": 26,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A4 | Desolate Space (Factory New)",
+      "price": {
+        "min": 107.65,
+        "max": 583.47,
+        "mean": 182.32,
+        "median": 156.05,
+        "suggested": 120.86,
+        "quantity": 36,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A4 | Desolate Space (Minimal Wear)",
+      "price": {
+        "min": 23.34,
+        "max": 1165.77,
+        "mean": 44.65,
+        "median": 31.51,
+        "suggested": 28.69,
+        "quantity": 157,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A4 | Desolate Space (Field-Tested)",
+      "price": {
+        "min": 12.99,
+        "max": 258.48,
+        "mean": 23.14,
+        "median": 17.36,
+        "suggested": 17.54,
+        "quantity": 154,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M4A4 | Desolate Space (Well-Worn)",
+      "price": {
+        "min": 12.28,
+        "max": 41.89,
+        "mean": 19.17,
+        "median": 13.77,
+        "suggested": 15.38,
+        "quantity": 55,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M4A4 | Desolate Space (Battle-Scarred)",
+      "price": {
+        "min": 11.88,
+        "max": 180.34,
+        "mean": 22.32,
+        "median": 13.77,
+        "suggested": 14.38,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A4 | Desolate Space (Factory New)",
+        "price": {
+          "min": 107.65,
+          "max": 583.47,
+          "mean": 182.32,
+          "median": 156.05,
+          "suggested": 120.86,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A4 | Desolate Space (Minimal Wear)",
+        "price": {
+          "min": 23.34,
+          "max": 1165.77,
+          "mean": 44.65,
+          "median": 31.51,
+          "suggested": 28.69,
+          "quantity": 157,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A4 | Desolate Space (Field-Tested)",
+        "price": {
+          "min": 12.99,
+          "max": 258.48,
+          "mean": 23.14,
+          "median": 17.36,
+          "suggested": 17.54,
+          "quantity": 154,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M4A4 | Desolate Space (Well-Worn)",
+        "price": {
+          "min": 12.28,
+          "max": 41.89,
+          "mean": 19.17,
+          "median": 13.77,
+          "suggested": 15.38,
+          "quantity": 55,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M4A4 | Desolate Space (Battle-Scarred)",
+        "price": {
+          "min": 11.88,
+          "max": 180.34,
+          "mean": 22.32,
+          "median": 13.77,
+          "suggested": 14.38,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ M4A4 | Desolate Space (Factory New)",
+        "price": {
+          "min": 110.29,
+          "max": 165.62,
+          "mean": 135.07,
+          "median": 133.89,
+          "suggested": 147.44,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ M4A4 | Desolate Space (Minimal Wear)",
+        "price": {
+          "min": 49.79,
+          "max": 71.17,
+          "mean": 59.23,
+          "median": 56.71,
+          "suggested": 62.19,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ M4A4 | Desolate Space (Field-Tested)",
+        "price": {
+          "min": 29.7,
+          "max": 224.61,
+          "mean": 46.54,
+          "median": 42.41,
+          "suggested": 38.97,
+          "quantity": 38,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ M4A4 | Desolate Space (Well-Worn)",
+        "price": {
+          "min": 33.69,
+          "max": 68.36,
+          "mean": 38.3,
+          "median": 34.05,
+          "suggested": 29.38,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ M4A4 | Desolate Space (Battle-Scarred)",
+        "price": {
+          "min": 24.96,
+          "max": 40.84,
+          "mean": 32.35,
+          "median": 31.72,
+          "suggested": 28.59,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A4 | Desolate Space (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A4 | Desolate Space (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A4 | Desolate Space (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M4A4 | Desolate Space (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M4A4 | Desolate Space (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:40.182Z"
+}

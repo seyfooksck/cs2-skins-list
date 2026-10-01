@@ -1,0 +1,102 @@
+{
+  "id": "skin-0754464c778a",
+  "name": "Galil AR | Blue Titanium",
+  "paint_index": "216",
+  "weapon": {
+    "id": "weapon_galilar",
+    "weapon_id": 13,
+    "name": "Galil AR",
+    "slug": "galilar"
+  },
+  "pattern": {
+    "id": "an_titanium30v",
+    "name": "Blue Titanium"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.04,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat. It has a titanium parts whose blue color is characteristic of an oxide layer achieved via controlled anodization at 30 volts.",
+  "images": {
+    "fn": "fn.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 32.64,
+      "max": 82.65,
+      "mean": 42.27,
+      "median": 38.35,
+      "suggested": 43.81,
+      "quantity": 56,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Galil AR | Blue Titanium (Factory New)",
+      "price": {
+        "min": 32.64,
+        "max": 82.65,
+        "mean": 42.27,
+        "median": 38.35,
+        "suggested": 43.81,
+        "quantity": 56,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Galil AR | Blue Titanium (Factory New)",
+        "price": {
+          "min": 32.64,
+          "max": 82.65,
+          "mean": 42.27,
+          "median": 38.35,
+          "suggested": 43.81,
+          "quantity": 56,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Galil AR | Blue Titanium (Factory New)",
+        "price": {
+          "min": 14.06,
+          "max": 825.13,
+          "mean": 104.2,
+          "median": 25.21,
+          "suggested": 16.44,
+          "quantity": 45,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Galil AR | Blue Titanium (Factory New)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:30.857Z"
+}

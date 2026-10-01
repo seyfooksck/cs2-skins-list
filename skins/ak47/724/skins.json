@@ -1,0 +1,201 @@
+{
+  "id": "skin-921a5a81c48a",
+  "name": "AK-47 | Wild Lotus",
+  "paint_index": "724",
+  "weapon": {
+    "id": "weapon_ak47",
+    "weapon_id": 7,
+    "name": "AK-47",
+    "slug": "ak47"
+  },
+  "pattern": {
+    "id": "cu_ak_island_floral",
+    "name": "Wild Lotus"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. A custom paint job of an orange lotus has been hand painted over a green base.\\n\\n<i>Muck or nettles</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 17501.48,
+      "max": 17501.48,
+      "mean": 17501.48,
+      "median": 17501.48,
+      "suggested": 17978.04,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "mw": null,
+    "ft": {
+      "min": 8167.39,
+      "max": 9678.83,
+      "mean": 8940.34,
+      "median": 8974.79,
+      "suggested": 8754.04,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 4390.02,
+      "max": 5133.36,
+      "mean": 4643.42,
+      "median": 4406.89,
+      "suggested": 4884.06,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AK-47 | Wild Lotus (Factory New)",
+      "price": {
+        "min": 17501.48,
+        "max": 17501.48,
+        "mean": 17501.48,
+        "median": 17501.48,
+        "suggested": 17978.04,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AK-47 | Wild Lotus (Minimal Wear)",
+      "price": null,
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AK-47 | Wild Lotus (Field-Tested)",
+      "price": {
+        "min": 8167.39,
+        "max": 9678.83,
+        "mean": 8940.34,
+        "median": 8974.79,
+        "suggested": 8754.04,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AK-47 | Wild Lotus (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AK-47 | Wild Lotus (Battle-Scarred)",
+      "price": {
+        "min": 4390.02,
+        "max": 5133.36,
+        "mean": 4643.42,
+        "median": 4406.89,
+        "suggested": 4884.06,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AK-47 | Wild Lotus (Factory New)",
+        "price": {
+          "min": 17501.48,
+          "max": 17501.48,
+          "mean": 17501.48,
+          "median": 17501.48,
+          "suggested": 17978.04,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AK-47 | Wild Lotus (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "AK-47 | Wild Lotus (Field-Tested)",
+        "price": {
+          "min": 8167.39,
+          "max": 9678.83,
+          "mean": 8940.34,
+          "median": 8974.79,
+          "suggested": 8754.04,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AK-47 | Wild Lotus (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "AK-47 | Wild Lotus (Battle-Scarred)",
+        "price": {
+          "min": 4390.02,
+          "max": 5133.36,
+          "mean": 4643.42,
+          "median": 4406.89,
+          "suggested": 4884.06,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AK-47 | Wild Lotus (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AK-47 | Wild Lotus (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AK-47 | Wild Lotus (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AK-47 | Wild Lotus (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AK-47 | Wild Lotus (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:20:20.629Z"
+}

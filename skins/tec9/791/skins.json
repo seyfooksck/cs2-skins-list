@@ -1,0 +1,281 @@
+{
+  "id": "skin-c7e68ecd7321",
+  "name": "Tec-9 | Remote Control",
+  "paint_index": "791",
+  "weapon": {
+    "id": "weapon_tec9",
+    "weapon_id": 30,
+    "name": "Tec-9",
+    "slug": "tec9"
+  },
+  "pattern": {
+    "id": "gs_tec9_envoy",
+    "name": "Remote Control"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity. It has been hand painted with colorful dials and switches atop a blue base.\\n\\n<i>Don't touch that dial</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 44.33,
+      "max": 162.2,
+      "mean": 64.5,
+      "median": 59.27,
+      "suggested": 52.52,
+      "quantity": 25,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 6.06,
+      "max": 193.71,
+      "mean": 20.33,
+      "median": 8.87,
+      "suggested": 7.32,
+      "quantity": 20,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 3.01,
+      "max": 18.67,
+      "mean": 5.22,
+      "median": 3.87,
+      "suggested": 3.52,
+      "quantity": 37,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 2.4,
+      "max": 44.55,
+      "mean": 5.08,
+      "median": 3.91,
+      "suggested": 2.87,
+      "quantity": 33,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 2.16,
+      "max": 102.41,
+      "mean": 13.02,
+      "median": 3.66,
+      "suggested": 2.71,
+      "quantity": 20,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Tec-9 | Remote Control (Factory New)",
+      "price": {
+        "min": 44.33,
+        "max": 162.2,
+        "mean": 64.5,
+        "median": 59.27,
+        "suggested": 52.52,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Tec-9 | Remote Control (Minimal Wear)",
+      "price": {
+        "min": 6.06,
+        "max": 193.71,
+        "mean": 20.33,
+        "median": 8.87,
+        "suggested": 7.32,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Tec-9 | Remote Control (Field-Tested)",
+      "price": {
+        "min": 3.01,
+        "max": 18.67,
+        "mean": 5.22,
+        "median": 3.87,
+        "suggested": 3.52,
+        "quantity": 37,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Tec-9 | Remote Control (Well-Worn)",
+      "price": {
+        "min": 2.4,
+        "max": 44.55,
+        "mean": 5.08,
+        "median": 3.91,
+        "suggested": 2.87,
+        "quantity": 33,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Tec-9 | Remote Control (Battle-Scarred)",
+      "price": {
+        "min": 2.16,
+        "max": 102.41,
+        "mean": 13.02,
+        "median": 3.66,
+        "suggested": 2.71,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Tec-9 | Remote Control (Factory New)",
+        "price": {
+          "min": 44.33,
+          "max": 162.2,
+          "mean": 64.5,
+          "median": 59.27,
+          "suggested": 52.52,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Tec-9 | Remote Control (Minimal Wear)",
+        "price": {
+          "min": 6.06,
+          "max": 193.71,
+          "mean": 20.33,
+          "median": 8.87,
+          "suggested": 7.32,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Tec-9 | Remote Control (Field-Tested)",
+        "price": {
+          "min": 3.01,
+          "max": 18.67,
+          "mean": 5.22,
+          "median": 3.87,
+          "suggested": 3.52,
+          "quantity": 37,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Tec-9 | Remote Control (Well-Worn)",
+        "price": {
+          "min": 2.4,
+          "max": 44.55,
+          "mean": 5.08,
+          "median": 3.91,
+          "suggested": 2.87,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Tec-9 | Remote Control (Battle-Scarred)",
+        "price": {
+          "min": 2.16,
+          "max": 102.41,
+          "mean": 13.02,
+          "median": 3.66,
+          "suggested": 2.71,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Tec-9 | Remote Control (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Tec-9 | Remote Control (Minimal Wear)",
+        "price": {
+          "min": 30.06,
+          "max": 30.06,
+          "mean": 30.06,
+          "median": 30.06,
+          "suggested": 36.51,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Tec-9 | Remote Control (Field-Tested)",
+        "price": {
+          "min": 20.43,
+          "max": 20.43,
+          "mean": 20.43,
+          "median": 20.43,
+          "suggested": 23.03,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Tec-9 | Remote Control (Well-Worn)",
+        "price": {
+          "min": 18.33,
+          "max": 309.24,
+          "mean": 163.79,
+          "median": 163.79,
+          "suggested": 23.94,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Tec-9 | Remote Control (Battle-Scarred)",
+        "price": {
+          "min": 32.87,
+          "max": 32.87,
+          "mean": 32.87,
+          "median": 32.87,
+          "suggested": 22.04,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.271Z"
+}

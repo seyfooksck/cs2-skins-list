@@ -1,0 +1,278 @@
+{
+  "id": "skin-1ea3c927a8e1",
+  "name": "P250 | Cartel",
+  "paint_index": "388",
+  "weapon": {
+    "id": "weapon_p250",
+    "weapon_id": 36,
+    "name": "P250",
+    "slug": "p250"
+  },
+  "pattern": {
+    "id": "aq_p250_cartel",
+    "name": "Cartel"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.75,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A low-recoil firearm with a high rate of fire, the P250 is a relatively inexpensive choice against armored opponents. It has been engraved with skeletons, flowers and serpents.\\n\\n<i>One little squeeze turns every morning into the Day of the Dead</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 39.17,
+      "max": 151.43,
+      "mean": 70.61,
+      "median": 63.36,
+      "suggested": 53.86,
+      "quantity": 27,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 13.14,
+      "max": 77.12,
+      "mean": 21.54,
+      "median": 18.08,
+      "suggested": 15.37,
+      "quantity": 23,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 8.57,
+      "max": 31.45,
+      "mean": 12.56,
+      "median": 9.97,
+      "suggested": 10.82,
+      "quantity": 33,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 9.45,
+      "max": 401.43,
+      "mean": 96.2,
+      "median": 10.63,
+      "suggested": 11.13,
+      "quantity": 6,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P250 | Cartel (Factory New)",
+      "price": {
+        "min": 39.17,
+        "max": 151.43,
+        "mean": 70.61,
+        "median": 63.36,
+        "suggested": 53.86,
+        "quantity": 27,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P250 | Cartel (Minimal Wear)",
+      "price": {
+        "min": 13.14,
+        "max": 77.12,
+        "mean": 21.54,
+        "median": 18.08,
+        "suggested": 15.37,
+        "quantity": 23,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P250 | Cartel (Field-Tested)",
+      "price": {
+        "min": 8.57,
+        "max": 31.45,
+        "mean": 12.56,
+        "median": 9.97,
+        "suggested": 10.82,
+        "quantity": 33,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P250 | Cartel (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P250 | Cartel (Battle-Scarred)",
+      "price": {
+        "min": 9.45,
+        "max": 401.43,
+        "mean": 96.2,
+        "median": 10.63,
+        "suggested": 11.13,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P250 | Cartel (Factory New)",
+        "price": {
+          "min": 39.17,
+          "max": 151.43,
+          "mean": 70.61,
+          "median": 63.36,
+          "suggested": 53.86,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P250 | Cartel (Minimal Wear)",
+        "price": {
+          "min": 13.14,
+          "max": 77.12,
+          "mean": 21.54,
+          "median": 18.08,
+          "suggested": 15.37,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P250 | Cartel (Field-Tested)",
+        "price": {
+          "min": 8.57,
+          "max": 31.45,
+          "mean": 12.56,
+          "median": 9.97,
+          "suggested": 10.82,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P250 | Cartel (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "P250 | Cartel (Battle-Scarred)",
+        "price": {
+          "min": 9.45,
+          "max": 401.43,
+          "mean": 96.2,
+          "median": 10.63,
+          "suggested": 11.13,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P250 | Cartel (Factory New)",
+        "price": {
+          "min": 97.58,
+          "max": 175.8,
+          "mean": 135.05,
+          "median": 128.25,
+          "suggested": 110.48,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P250 | Cartel (Minimal Wear)",
+        "price": {
+          "min": 30.68,
+          "max": 61.47,
+          "mean": 41.1,
+          "median": 38.51,
+          "suggested": 39.04,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P250 | Cartel (Field-Tested)",
+        "price": {
+          "min": 18.25,
+          "max": 41.15,
+          "mean": 28.53,
+          "median": 24.73,
+          "suggested": 21.54,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ P250 | Cartel (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ P250 | Cartel (Battle-Scarred)",
+        "price": {
+          "min": 23.34,
+          "max": 64.18,
+          "mean": 40.36,
+          "median": 33.58,
+          "suggested": 19.57,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P250 | Cartel (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P250 | Cartel (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P250 | Cartel (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P250 | Cartel (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P250 | Cartel (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:45.017Z"
+}

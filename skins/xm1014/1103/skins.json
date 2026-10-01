@@ -1,0 +1,310 @@
+{
+  "id": "skin-88cb1dcb9c18",
+  "name": "XM1014 | Watchdog",
+  "paint_index": "1103",
+  "weapon": {
+    "id": "weapon_xm1014",
+    "weapon_id": 25,
+    "name": "XM1014",
+    "slug": "xm1014"
+  },
+  "pattern": {
+    "id": "gs_xm1014_watchdog",
+    "name": "Watchdog"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The XM1014 is a powerful fully automatic shotgun that justifies its heftier price tag with the ability to paint a room with lead fast. It has been custom painted with a jade green base and two guardian lions watching either direction. A third lion has been painted beneath the rear sight.\\n\\n<i>Protect and prosper</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 8.26,
+      "max": 29.17,
+      "mean": 14.39,
+      "median": 13.64,
+      "suggested": 11.93,
+      "quantity": 38,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 3.4,
+      "max": 18.96,
+      "mean": 5.15,
+      "median": 3.79,
+      "suggested": 4.3,
+      "quantity": 29,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.94,
+      "max": 4.06,
+      "mean": 2.65,
+      "median": 2.19,
+      "suggested": 2.44,
+      "quantity": 31,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.41,
+      "max": 2.1,
+      "mean": 1.61,
+      "median": 1.58,
+      "suggested": 1.74,
+      "quantity": 30,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.41,
+      "max": 2.25,
+      "mean": 1.84,
+      "median": 1.94,
+      "suggested": 1.74,
+      "quantity": 14,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "XM1014 | Watchdog (Factory New)",
+      "price": {
+        "min": 8.26,
+        "max": 29.17,
+        "mean": 14.39,
+        "median": 13.64,
+        "suggested": 11.93,
+        "quantity": 38,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "XM1014 | Watchdog (Minimal Wear)",
+      "price": {
+        "min": 3.4,
+        "max": 18.96,
+        "mean": 5.15,
+        "median": 3.79,
+        "suggested": 4.3,
+        "quantity": 29,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "XM1014 | Watchdog (Field-Tested)",
+      "price": {
+        "min": 1.94,
+        "max": 4.06,
+        "mean": 2.65,
+        "median": 2.19,
+        "suggested": 2.44,
+        "quantity": 31,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "XM1014 | Watchdog (Well-Worn)",
+      "price": {
+        "min": 1.41,
+        "max": 2.1,
+        "mean": 1.61,
+        "median": 1.58,
+        "suggested": 1.74,
+        "quantity": 30,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "XM1014 | Watchdog (Battle-Scarred)",
+      "price": {
+        "min": 1.41,
+        "max": 2.25,
+        "mean": 1.84,
+        "median": 1.94,
+        "suggested": 1.74,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "XM1014 | Watchdog (Factory New)",
+        "price": {
+          "min": 8.26,
+          "max": 29.17,
+          "mean": 14.39,
+          "median": 13.64,
+          "suggested": 11.93,
+          "quantity": 38,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "XM1014 | Watchdog (Minimal Wear)",
+        "price": {
+          "min": 3.4,
+          "max": 18.96,
+          "mean": 5.15,
+          "median": 3.79,
+          "suggested": 4.3,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "XM1014 | Watchdog (Field-Tested)",
+        "price": {
+          "min": 1.94,
+          "max": 4.06,
+          "mean": 2.65,
+          "median": 2.19,
+          "suggested": 2.44,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "XM1014 | Watchdog (Well-Worn)",
+        "price": {
+          "min": 1.41,
+          "max": 2.1,
+          "mean": 1.61,
+          "median": 1.58,
+          "suggested": 1.74,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "XM1014 | Watchdog (Battle-Scarred)",
+        "price": {
+          "min": 1.41,
+          "max": 2.25,
+          "mean": 1.84,
+          "median": 1.94,
+          "suggested": 1.74,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ XM1014 | Watchdog (Factory New)",
+        "price": {
+          "min": 25.08,
+          "max": 87.52,
+          "mean": 39.7,
+          "median": 34.37,
+          "suggested": 28.83,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ XM1014 | Watchdog (Minimal Wear)",
+        "price": {
+          "min": 6.58,
+          "max": 23.34,
+          "mean": 13,
+          "median": 13.49,
+          "suggested": 8.67,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ XM1014 | Watchdog (Field-Tested)",
+        "price": {
+          "min": 3.62,
+          "max": 148.04,
+          "mean": 15.87,
+          "median": 5.41,
+          "suggested": 4.64,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ XM1014 | Watchdog (Well-Worn)",
+        "price": {
+          "min": 2.24,
+          "max": 2.85,
+          "mean": 2.51,
+          "median": 2.5,
+          "suggested": 2.77,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ XM1014 | Watchdog (Battle-Scarred)",
+        "price": {
+          "min": 2.04,
+          "max": 3.38,
+          "mean": 2.54,
+          "median": 2.29,
+          "suggested": 2.68,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir XM1014 | Watchdog (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir XM1014 | Watchdog (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir XM1014 | Watchdog (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir XM1014 | Watchdog (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir XM1014 | Watchdog (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:51.251Z"
+}

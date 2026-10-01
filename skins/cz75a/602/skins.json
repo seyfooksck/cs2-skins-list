@@ -1,0 +1,310 @@
+{
+  "id": "skin-44edcae0251b",
+  "name": "CZ75-Auto | Imprint",
+  "paint_index": "602",
+  "weapon": {
+    "id": "weapon_cz75a",
+    "weapon_id": 63,
+    "name": "CZ75-Auto",
+    "slug": "cz75a"
+  },
+  "pattern": {
+    "id": "gs_cz75_tread",
+    "name": "Imprint"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fully automatic variant of the CZ75, the CZ75-Auto is the ideal short-term choice for turning the tables and gaining your opponents weapon. But with very little ammo in the magazine, strong trigger discipline is required. It has been painstakingly etched by hand.\\n\\n<i>Couture firearms have taken the Czech Republic by storm</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 4.81,
+      "max": 12.84,
+      "mean": 7.67,
+      "median": 6.88,
+      "suggested": 5.62,
+      "quantity": 17,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.42,
+      "max": 2.19,
+      "mean": 0.69,
+      "median": 0.56,
+      "suggested": 0.58,
+      "quantity": 53,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.29,
+      "max": 10.5,
+      "mean": 0.78,
+      "median": 0.54,
+      "suggested": 0.42,
+      "quantity": 136,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.21,
+      "max": 4.9,
+      "mean": 0.42,
+      "median": 0.3,
+      "suggested": 0.29,
+      "quantity": 85,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.18,
+      "max": 9.34,
+      "mean": 0.55,
+      "median": 0.27,
+      "suggested": 0.28,
+      "quantity": 86,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "CZ75-Auto | Imprint (Factory New)",
+      "price": {
+        "min": 4.81,
+        "max": 12.84,
+        "mean": 7.67,
+        "median": 6.88,
+        "suggested": 5.62,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "CZ75-Auto | Imprint (Minimal Wear)",
+      "price": {
+        "min": 0.42,
+        "max": 2.19,
+        "mean": 0.69,
+        "median": 0.56,
+        "suggested": 0.58,
+        "quantity": 53,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "CZ75-Auto | Imprint (Field-Tested)",
+      "price": {
+        "min": 0.29,
+        "max": 10.5,
+        "mean": 0.78,
+        "median": 0.54,
+        "suggested": 0.42,
+        "quantity": 136,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "CZ75-Auto | Imprint (Well-Worn)",
+      "price": {
+        "min": 0.21,
+        "max": 4.9,
+        "mean": 0.42,
+        "median": 0.3,
+        "suggested": 0.29,
+        "quantity": 85,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "CZ75-Auto | Imprint (Battle-Scarred)",
+      "price": {
+        "min": 0.18,
+        "max": 9.34,
+        "mean": 0.55,
+        "median": 0.27,
+        "suggested": 0.28,
+        "quantity": 86,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "CZ75-Auto | Imprint (Factory New)",
+        "price": {
+          "min": 4.81,
+          "max": 12.84,
+          "mean": 7.67,
+          "median": 6.88,
+          "suggested": 5.62,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "CZ75-Auto | Imprint (Minimal Wear)",
+        "price": {
+          "min": 0.42,
+          "max": 2.19,
+          "mean": 0.69,
+          "median": 0.56,
+          "suggested": 0.58,
+          "quantity": 53,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "CZ75-Auto | Imprint (Field-Tested)",
+        "price": {
+          "min": 0.29,
+          "max": 10.5,
+          "mean": 0.78,
+          "median": 0.54,
+          "suggested": 0.42,
+          "quantity": 136,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "CZ75-Auto | Imprint (Well-Worn)",
+        "price": {
+          "min": 0.21,
+          "max": 4.9,
+          "mean": 0.42,
+          "median": 0.3,
+          "suggested": 0.29,
+          "quantity": 85,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "CZ75-Auto | Imprint (Battle-Scarred)",
+        "price": {
+          "min": 0.18,
+          "max": 9.34,
+          "mean": 0.55,
+          "median": 0.27,
+          "suggested": 0.28,
+          "quantity": 86,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Imprint (Factory New)",
+        "price": {
+          "min": 4,
+          "max": 25.25,
+          "mean": 10.81,
+          "median": 8.01,
+          "suggested": 4.94,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Imprint (Minimal Wear)",
+        "price": {
+          "min": 0.83,
+          "max": 26.84,
+          "mean": 2.16,
+          "median": 0.97,
+          "suggested": 0.99,
+          "quantity": 39,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Imprint (Field-Tested)",
+        "price": {
+          "min": 0.34,
+          "max": 138.59,
+          "mean": 4.49,
+          "median": 0.49,
+          "suggested": 0.4,
+          "quantity": 51,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Imprint (Well-Worn)",
+        "price": {
+          "min": 0.22,
+          "max": 2.86,
+          "mean": 0.5,
+          "median": 0.29,
+          "suggested": 0.28,
+          "quantity": 48,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Imprint (Battle-Scarred)",
+        "price": {
+          "min": 0.19,
+          "max": 3.5,
+          "mean": 0.49,
+          "median": 0.32,
+          "suggested": 0.27,
+          "quantity": 48,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir CZ75-Auto | Imprint (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir CZ75-Auto | Imprint (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir CZ75-Auto | Imprint (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir CZ75-Auto | Imprint (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir CZ75-Auto | Imprint (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:27.708Z"
+}

@@ -1,0 +1,206 @@
+{
+  "id": "skin-8d4ed32149ee",
+  "name": "UMP-45 | Bone Pile",
+  "paint_index": "193",
+  "weapon": {
+    "id": "weapon_ump45",
+    "weapon_id": 24,
+    "name": "UMP-45",
+    "slug": "ump45"
+  },
+  "pattern": {
+    "id": "sp_skull_diagram_bravo",
+    "name": "Bone Pile"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0.06,
+  "max_float": 0.34,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic. This memento from Cache has been painted with skulls over a wiring diagram.\\n\\n<i>One more for the collection</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 64.24,
+      "max": 64.54,
+      "mean": 64.39,
+      "median": 64.39,
+      "suggested": 38.54,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 5.62,
+      "max": 39.94,
+      "mean": 9.85,
+      "median": 6.86,
+      "suggested": 6.61,
+      "quantity": 17,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 4.42,
+      "max": 9.9,
+      "mean": 6.43,
+      "median": 5.83,
+      "suggested": 6,
+      "quantity": 17,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "UMP-45 | Bone Pile (Factory New)",
+      "price": {
+        "min": 64.24,
+        "max": 64.54,
+        "mean": 64.39,
+        "median": 64.39,
+        "suggested": 38.54,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "UMP-45 | Bone Pile (Minimal Wear)",
+      "price": {
+        "min": 5.62,
+        "max": 39.94,
+        "mean": 9.85,
+        "median": 6.86,
+        "suggested": 6.61,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "UMP-45 | Bone Pile (Field-Tested)",
+      "price": {
+        "min": 4.42,
+        "max": 9.9,
+        "mean": 6.43,
+        "median": 5.83,
+        "suggested": 6,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "UMP-45 | Bone Pile (Factory New)",
+        "price": {
+          "min": 64.24,
+          "max": 64.54,
+          "mean": 64.39,
+          "median": 64.39,
+          "suggested": 38.54,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "UMP-45 | Bone Pile (Minimal Wear)",
+        "price": {
+          "min": 5.62,
+          "max": 39.94,
+          "mean": 9.85,
+          "median": 6.86,
+          "suggested": 6.61,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "UMP-45 | Bone Pile (Field-Tested)",
+        "price": {
+          "min": 4.42,
+          "max": 9.9,
+          "mean": 6.43,
+          "median": 5.83,
+          "suggested": 6,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ UMP-45 | Bone Pile (Factory New)",
+        "price": {
+          "min": 29.98,
+          "max": 31.51,
+          "mean": 30.75,
+          "median": 30.75,
+          "suggested": 27.5,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ UMP-45 | Bone Pile (Minimal Wear)",
+        "price": {
+          "min": 6.65,
+          "max": 700.15,
+          "mean": 70.42,
+          "median": 8.31,
+          "suggested": 7.13,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ UMP-45 | Bone Pile (Field-Tested)",
+        "price": {
+          "min": 6.32,
+          "max": 816.86,
+          "mean": 205.45,
+          "median": 9.09,
+          "suggested": 7.23,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir UMP-45 | Bone Pile (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir UMP-45 | Bone Pile (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir UMP-45 | Bone Pile (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:50.217Z"
+}

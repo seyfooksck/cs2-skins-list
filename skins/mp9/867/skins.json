@@ -1,0 +1,225 @@
+{
+  "id": "skin-895e721a640e",
+  "name": "MP9 | Stained Glass",
+  "paint_index": "867",
+  "weapon": {
+    "id": "weapon_mp9",
+    "weapon_id": 34,
+    "name": "MP9",
+    "slug": "mp9"
+  },
+  "pattern": {
+    "id": "am_stained_glass",
+    "name": "Stained Glass"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been painted to resemble blue and red stained glass.\\n\\n<i>You break it, you buy it</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 133.95,
+      "max": 1867.1,
+      "mean": 460.59,
+      "median": 271.38,
+      "suggested": 202.25,
+      "quantity": 26,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 111.33,
+      "max": 186.41,
+      "mean": 152.75,
+      "median": 169.15,
+      "suggested": 142.78,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 104.35,
+      "max": 154.15,
+      "mean": 130.56,
+      "median": 139.26,
+      "suggested": 129.3,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 764.34,
+      "max": 923.43,
+      "mean": 843.89,
+      "median": 843.89,
+      "suggested": 902.42,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP9 | Stained Glass (Factory New)",
+      "price": {
+        "min": 133.95,
+        "max": 1867.1,
+        "mean": 460.59,
+        "median": 271.38,
+        "suggested": 202.25,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP9 | Stained Glass (Minimal Wear)",
+      "price": {
+        "min": 111.33,
+        "max": 186.41,
+        "mean": 152.75,
+        "median": 169.15,
+        "suggested": 142.78,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP9 | Stained Glass (Field-Tested)",
+      "price": {
+        "min": 104.35,
+        "max": 154.15,
+        "mean": 130.56,
+        "median": 139.26,
+        "suggested": 129.3,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP9 | Stained Glass (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP9 | Stained Glass (Battle-Scarred)",
+      "price": {
+        "min": 764.34,
+        "max": 923.43,
+        "mean": 843.89,
+        "median": 843.89,
+        "suggested": 902.42,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP9 | Stained Glass (Factory New)",
+        "price": {
+          "min": 133.95,
+          "max": 1867.1,
+          "mean": 460.59,
+          "median": 271.38,
+          "suggested": 202.25,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP9 | Stained Glass (Minimal Wear)",
+        "price": {
+          "min": 111.33,
+          "max": 186.41,
+          "mean": 152.75,
+          "median": 169.15,
+          "suggested": 142.78,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP9 | Stained Glass (Field-Tested)",
+        "price": {
+          "min": 104.35,
+          "max": 154.15,
+          "mean": 130.56,
+          "median": 139.26,
+          "suggested": 129.3,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP9 | Stained Glass (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "MP9 | Stained Glass (Battle-Scarred)",
+        "price": {
+          "min": 764.34,
+          "max": 923.43,
+          "mean": 843.89,
+          "median": 843.89,
+          "suggested": 902.42,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP9 | Stained Glass (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP9 | Stained Glass (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP9 | Stained Glass (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP9 | Stained Glass (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP9 | Stained Glass (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:43.559Z"
+}

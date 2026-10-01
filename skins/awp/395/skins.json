@@ -1,0 +1,154 @@
+{
+  "id": "skin-67b936c9cb52",
+  "name": "AWP | Man-o'-war",
+  "paint_index": "395",
+  "weapon": {
+    "id": "weapon_awp",
+    "weapon_id": 9,
+    "name": "AWP",
+    "slug": "awp"
+  },
+  "pattern": {
+    "id": "am_awp_glory",
+    "name": "Man-o'-war"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.1,
+  "max_float": 0.2,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been given a base coat of blue metallic paint then hand-painted with metallic gold swirls and accents.\\n\\n<i>Turn some heads before you take them off</i>",
+  "images": {
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "mw": {
+      "min": 118.01,
+      "max": 2476.82,
+      "mean": 180.72,
+      "median": 136.33,
+      "suggested": 152.79,
+      "quantity": 105,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 116.74,
+      "max": 140.2,
+      "mean": 126.76,
+      "median": 125.18,
+      "suggested": 144.51,
+      "quantity": 10,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AWP | Man-o'-war (Minimal Wear)",
+      "price": {
+        "min": 118.01,
+        "max": 2476.82,
+        "mean": 180.72,
+        "median": 136.33,
+        "suggested": 152.79,
+        "quantity": 105,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AWP | Man-o'-war (Field-Tested)",
+      "price": {
+        "min": 116.74,
+        "max": 140.2,
+        "mean": 126.76,
+        "median": 125.18,
+        "suggested": 144.51,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "mw": {
+        "market_hash_name": "AWP | Man-o'-war (Minimal Wear)",
+        "price": {
+          "min": 118.01,
+          "max": 2476.82,
+          "mean": 180.72,
+          "median": 136.33,
+          "suggested": 152.79,
+          "quantity": 105,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AWP | Man-o'-war (Field-Tested)",
+        "price": {
+          "min": 116.74,
+          "max": 140.2,
+          "mean": 126.76,
+          "median": 125.18,
+          "suggested": 144.51,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "mw": {
+        "market_hash_name": "StatTrak™ AWP | Man-o'-war (Minimal Wear)",
+        "price": {
+          "min": 130.86,
+          "max": 635.98,
+          "mean": 199.56,
+          "median": 151.71,
+          "suggested": 162.89,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AWP | Man-o'-war (Field-Tested)",
+        "price": {
+          "min": 115.53,
+          "max": 189.39,
+          "mean": 155.61,
+          "median": 163.36,
+          "suggested": 147.5,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "mw": {
+        "market_hash_name": "Souvenir AWP | Man-o'-war (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AWP | Man-o'-war (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.751Z"
+}

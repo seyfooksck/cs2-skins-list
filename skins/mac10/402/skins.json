@@ -1,0 +1,310 @@
+{
+  "id": "skin-4938e7b7b6cd",
+  "name": "MAC-10 | Malachite",
+  "paint_index": "402",
+  "weapon": {
+    "id": "weapon_mac10",
+    "weapon_id": 17,
+    "name": "MAC-10",
+    "slug": "mac10"
+  },
+  "pattern": {
+    "id": "am_mac10_malachite",
+    "name": "Malachite"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been painted using metallic effect paints and given a wavy pattern using a rubber comb tool.\\n\\n<i>Bright colors hide a gun with a dark purpose</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 12.46,
+      "max": 76.52,
+      "mean": 21.1,
+      "median": 14.4,
+      "suggested": 16.57,
+      "quantity": 21,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 4.07,
+      "max": 130.69,
+      "mean": 25,
+      "median": 5.69,
+      "suggested": 4.74,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.16,
+      "max": 52.1,
+      "mean": 3.63,
+      "median": 2.8,
+      "suggested": 2.73,
+      "quantity": 62,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 2.12,
+      "max": 2.8,
+      "mean": 2.39,
+      "median": 2.3,
+      "suggested": 2.62,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.96,
+      "max": 2.86,
+      "mean": 2.36,
+      "median": 2.37,
+      "suggested": 2.32,
+      "quantity": 6,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAC-10 | Malachite (Factory New)",
+      "price": {
+        "min": 12.46,
+        "max": 76.52,
+        "mean": 21.1,
+        "median": 14.4,
+        "suggested": 16.57,
+        "quantity": 21,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAC-10 | Malachite (Minimal Wear)",
+      "price": {
+        "min": 4.07,
+        "max": 130.69,
+        "mean": 25,
+        "median": 5.69,
+        "suggested": 4.74,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAC-10 | Malachite (Field-Tested)",
+      "price": {
+        "min": 2.16,
+        "max": 52.1,
+        "mean": 3.63,
+        "median": 2.8,
+        "suggested": 2.73,
+        "quantity": 62,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAC-10 | Malachite (Well-Worn)",
+      "price": {
+        "min": 2.12,
+        "max": 2.8,
+        "mean": 2.39,
+        "median": 2.3,
+        "suggested": 2.62,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAC-10 | Malachite (Battle-Scarred)",
+      "price": {
+        "min": 1.96,
+        "max": 2.86,
+        "mean": 2.36,
+        "median": 2.37,
+        "suggested": 2.32,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAC-10 | Malachite (Factory New)",
+        "price": {
+          "min": 12.46,
+          "max": 76.52,
+          "mean": 21.1,
+          "median": 14.4,
+          "suggested": 16.57,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAC-10 | Malachite (Minimal Wear)",
+        "price": {
+          "min": 4.07,
+          "max": 130.69,
+          "mean": 25,
+          "median": 5.69,
+          "suggested": 4.74,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAC-10 | Malachite (Field-Tested)",
+        "price": {
+          "min": 2.16,
+          "max": 52.1,
+          "mean": 3.63,
+          "median": 2.8,
+          "suggested": 2.73,
+          "quantity": 62,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAC-10 | Malachite (Well-Worn)",
+        "price": {
+          "min": 2.12,
+          "max": 2.8,
+          "mean": 2.39,
+          "median": 2.3,
+          "suggested": 2.62,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MAC-10 | Malachite (Battle-Scarred)",
+        "price": {
+          "min": 1.96,
+          "max": 2.86,
+          "mean": 2.36,
+          "median": 2.37,
+          "suggested": 2.32,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MAC-10 | Malachite (Factory New)",
+        "price": {
+          "min": 17.14,
+          "max": 25.89,
+          "mean": 20.25,
+          "median": 18.67,
+          "suggested": 15.23,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MAC-10 | Malachite (Minimal Wear)",
+        "price": {
+          "min": 6.1,
+          "max": 130.69,
+          "mean": 40.29,
+          "median": 12.19,
+          "suggested": 6.61,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MAC-10 | Malachite (Field-Tested)",
+        "price": {
+          "min": 3.71,
+          "max": 7,
+          "mean": 4.52,
+          "median": 4.41,
+          "suggested": 4.83,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MAC-10 | Malachite (Well-Worn)",
+        "price": {
+          "min": 3.8,
+          "max": 5.64,
+          "mean": 4.7,
+          "median": 4.47,
+          "suggested": 3.86,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MAC-10 | Malachite (Battle-Scarred)",
+        "price": {
+          "min": 4.34,
+          "max": 5.08,
+          "mean": 4.71,
+          "median": 4.71,
+          "suggested": 3.64,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAC-10 | Malachite (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAC-10 | Malachite (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAC-10 | Malachite (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAC-10 | Malachite (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAC-10 | Malachite (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.469Z"
+}

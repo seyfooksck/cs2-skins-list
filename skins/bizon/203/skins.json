@@ -1,0 +1,201 @@
+{
+  "id": "skin-a8c2f61364e2",
+  "name": "PP-Bizon | Rust Coat",
+  "paint_index": "203",
+  "weapon": {
+    "id": "weapon_bizon",
+    "weapon_id": 26,
+    "name": "PP-Bizon",
+    "slug": "bizon"
+  },
+  "pattern": {
+    "id": "aq_steel_bravo",
+    "name": "Rust Coat"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly. This memento from Siege is still perfectly operational although the exterior surfaces have rusted.\\n\\n<i>Scars build character</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 946.39,
+      "max": 946.39,
+      "mean": 946.39,
+      "median": 946.39,
+      "suggested": 18.3,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 17.5,
+      "max": 17.5,
+      "mean": 17.5,
+      "median": 17.5,
+      "suggested": 14.44,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 19.38,
+      "max": 19.46,
+      "mean": 19.43,
+      "median": 19.43,
+      "suggested": 18.63,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "PP-Bizon | Rust Coat (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "PP-Bizon | Rust Coat (Minimal Wear)",
+      "price": {
+        "min": 946.39,
+        "max": 946.39,
+        "mean": 946.39,
+        "median": 946.39,
+        "suggested": 18.3,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "PP-Bizon | Rust Coat (Field-Tested)",
+      "price": {
+        "min": 17.5,
+        "max": 17.5,
+        "mean": 17.5,
+        "median": 17.5,
+        "suggested": 14.44,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "PP-Bizon | Rust Coat (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "PP-Bizon | Rust Coat (Battle-Scarred)",
+      "price": {
+        "min": 19.38,
+        "max": 19.46,
+        "mean": 19.43,
+        "median": 19.43,
+        "suggested": 18.63,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "PP-Bizon | Rust Coat (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "PP-Bizon | Rust Coat (Minimal Wear)",
+        "price": {
+          "min": 946.39,
+          "max": 946.39,
+          "mean": 946.39,
+          "median": 946.39,
+          "suggested": 18.3,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "PP-Bizon | Rust Coat (Field-Tested)",
+        "price": {
+          "min": 17.5,
+          "max": 17.5,
+          "mean": 17.5,
+          "median": 17.5,
+          "suggested": 14.44,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "PP-Bizon | Rust Coat (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "PP-Bizon | Rust Coat (Battle-Scarred)",
+        "price": {
+          "min": 19.38,
+          "max": 19.46,
+          "mean": 19.43,
+          "median": 19.43,
+          "suggested": 18.63,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir PP-Bizon | Rust Coat (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir PP-Bizon | Rust Coat (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir PP-Bizon | Rust Coat (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir PP-Bizon | Rust Coat (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir PP-Bizon | Rust Coat (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:26.932Z"
+}

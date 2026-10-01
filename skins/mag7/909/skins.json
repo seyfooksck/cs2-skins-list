@@ -1,0 +1,310 @@
+{
+  "id": "skin-25cbd4e0e058",
+  "name": "MAG-7 | Popdog",
+  "paint_index": "909",
+  "weapon": {
+    "id": "weapon_mag7",
+    "weapon_id": 27,
+    "name": "MAG-7",
+    "slug": "mag7"
+  },
+  "pattern": {
+    "id": "gs_mag7_popdog",
+    "name": "Popdog"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.8,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The CT-exclusive Mag-7 delivers a devastating amount of damage at close range. Its rapid magazine-style reloads make it a great tactical choice. It has been custom painted to resemble a train car with Pop Dog painted on the side.\\n\\n<i>The dog that refreshes!</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.86,
+      "max": 28.86,
+      "mean": 7.08,
+      "median": 4.27,
+      "suggested": 2.76,
+      "quantity": 24,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.44,
+      "max": 0.77,
+      "mean": 0.58,
+      "median": 0.55,
+      "suggested": 0.67,
+      "quantity": 21,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.49,
+      "max": 13.42,
+      "mean": 0.79,
+      "median": 0.6,
+      "suggested": 0.81,
+      "quantity": 173,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.33,
+      "max": 1.51,
+      "mean": 0.75,
+      "median": 0.57,
+      "suggested": 0.38,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.21,
+      "max": 2.33,
+      "mean": 0.47,
+      "median": 0.36,
+      "suggested": 0.33,
+      "quantity": 36,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAG-7 | Popdog (Factory New)",
+      "price": {
+        "min": 1.86,
+        "max": 28.86,
+        "mean": 7.08,
+        "median": 4.27,
+        "suggested": 2.76,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAG-7 | Popdog (Minimal Wear)",
+      "price": {
+        "min": 0.44,
+        "max": 0.77,
+        "mean": 0.58,
+        "median": 0.55,
+        "suggested": 0.67,
+        "quantity": 21,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAG-7 | Popdog (Field-Tested)",
+      "price": {
+        "min": 0.49,
+        "max": 13.42,
+        "mean": 0.79,
+        "median": 0.6,
+        "suggested": 0.81,
+        "quantity": 173,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAG-7 | Popdog (Well-Worn)",
+      "price": {
+        "min": 0.33,
+        "max": 1.51,
+        "mean": 0.75,
+        "median": 0.57,
+        "suggested": 0.38,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAG-7 | Popdog (Battle-Scarred)",
+      "price": {
+        "min": 0.21,
+        "max": 2.33,
+        "mean": 0.47,
+        "median": 0.36,
+        "suggested": 0.33,
+        "quantity": 36,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAG-7 | Popdog (Factory New)",
+        "price": {
+          "min": 1.86,
+          "max": 28.86,
+          "mean": 7.08,
+          "median": 4.27,
+          "suggested": 2.76,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAG-7 | Popdog (Minimal Wear)",
+        "price": {
+          "min": 0.44,
+          "max": 0.77,
+          "mean": 0.58,
+          "median": 0.55,
+          "suggested": 0.67,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAG-7 | Popdog (Field-Tested)",
+        "price": {
+          "min": 0.49,
+          "max": 13.42,
+          "mean": 0.79,
+          "median": 0.6,
+          "suggested": 0.81,
+          "quantity": 173,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAG-7 | Popdog (Well-Worn)",
+        "price": {
+          "min": 0.33,
+          "max": 1.51,
+          "mean": 0.75,
+          "median": 0.57,
+          "suggested": 0.38,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MAG-7 | Popdog (Battle-Scarred)",
+        "price": {
+          "min": 0.21,
+          "max": 2.33,
+          "mean": 0.47,
+          "median": 0.36,
+          "suggested": 0.33,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MAG-7 | Popdog (Factory New)",
+        "price": {
+          "min": 1.28,
+          "max": 65.35,
+          "mean": 9.57,
+          "median": 1.84,
+          "suggested": 1.34,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MAG-7 | Popdog (Minimal Wear)",
+        "price": {
+          "min": 0.35,
+          "max": 19.29,
+          "mean": 0.83,
+          "median": 0.41,
+          "suggested": 0.45,
+          "quantity": 53,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MAG-7 | Popdog (Field-Tested)",
+        "price": {
+          "min": 0.2,
+          "max": 2.53,
+          "mean": 0.3,
+          "median": 0.22,
+          "suggested": 0.25,
+          "quantity": 57,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MAG-7 | Popdog (Well-Worn)",
+        "price": {
+          "min": 0.27,
+          "max": 0.57,
+          "mean": 0.37,
+          "median": 0.34,
+          "suggested": 0.35,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MAG-7 | Popdog (Battle-Scarred)",
+        "price": {
+          "min": 0.19,
+          "max": 0.57,
+          "mean": 0.23,
+          "median": 0.22,
+          "suggested": 0.27,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAG-7 | Popdog (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAG-7 | Popdog (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAG-7 | Popdog (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAG-7 | Popdog (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAG-7 | Popdog (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.409Z"
+}

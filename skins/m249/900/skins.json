@@ -1,0 +1,302 @@
+{
+  "id": "skin-af475732c9cd",
+  "name": "M249 | Warbird",
+  "paint_index": "900",
+  "weapon": {
+    "id": "weapon_m249",
+    "weapon_id": 14,
+    "name": "M249",
+    "slug": "m249"
+  },
+  "pattern": {
+    "id": "gs_m249_warbird_veteran",
+    "name": "Warbird"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0.05,
+  "max_float": 0.65,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A strong open-area LMG, the M249 is the perfect choice for players willing to trade a slow fire rate for increased accuracy and a high ammo capacity. Originally blue with a yellow heat shield, age and use have taken their toll on its appearance.\\n\\n<i>This old bird deserves a rest</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 6.34,
+      "max": 86.08,
+      "mean": 32.92,
+      "median": 37.98,
+      "suggested": 6.69,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.1,
+      "max": 16.92,
+      "mean": 4.14,
+      "median": 3.52,
+      "suggested": 3.15,
+      "quantity": 32,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.77,
+      "max": 5.83,
+      "mean": 2.61,
+      "median": 1.88,
+      "suggested": 0.92,
+      "quantity": 115,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.95,
+      "max": 1.75,
+      "mean": 1.41,
+      "median": 1.49,
+      "suggested": 1.11,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.71,
+      "max": 2.22,
+      "mean": 1.23,
+      "median": 1.05,
+      "suggested": 0.96,
+      "quantity": 21,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M249 | Warbird (Factory New)",
+      "price": {
+        "min": 6.34,
+        "max": 86.08,
+        "mean": 32.92,
+        "median": 37.98,
+        "suggested": 6.69,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M249 | Warbird (Minimal Wear)",
+      "price": {
+        "min": 2.1,
+        "max": 16.92,
+        "mean": 4.14,
+        "median": 3.52,
+        "suggested": 3.15,
+        "quantity": 32,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M249 | Warbird (Field-Tested)",
+      "price": {
+        "min": 0.77,
+        "max": 5.83,
+        "mean": 2.61,
+        "median": 1.88,
+        "suggested": 0.92,
+        "quantity": 115,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M249 | Warbird (Well-Worn)",
+      "price": {
+        "min": 0.95,
+        "max": 1.75,
+        "mean": 1.41,
+        "median": 1.49,
+        "suggested": 1.11,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M249 | Warbird (Battle-Scarred)",
+      "price": {
+        "min": 0.71,
+        "max": 2.22,
+        "mean": 1.23,
+        "median": 1.05,
+        "suggested": 0.96,
+        "quantity": 21,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M249 | Warbird (Factory New)",
+        "price": {
+          "min": 6.34,
+          "max": 86.08,
+          "mean": 32.92,
+          "median": 37.98,
+          "suggested": 6.69,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M249 | Warbird (Minimal Wear)",
+        "price": {
+          "min": 2.1,
+          "max": 16.92,
+          "mean": 4.14,
+          "median": 3.52,
+          "suggested": 3.15,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M249 | Warbird (Field-Tested)",
+        "price": {
+          "min": 0.77,
+          "max": 5.83,
+          "mean": 2.61,
+          "median": 1.88,
+          "suggested": 0.92,
+          "quantity": 115,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M249 | Warbird (Well-Worn)",
+        "price": {
+          "min": 0.95,
+          "max": 1.75,
+          "mean": 1.41,
+          "median": 1.49,
+          "suggested": 1.11,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M249 | Warbird (Battle-Scarred)",
+        "price": {
+          "min": 0.71,
+          "max": 2.22,
+          "mean": 1.23,
+          "median": 1.05,
+          "suggested": 0.96,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ M249 | Warbird (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ M249 | Warbird (Minimal Wear)",
+        "price": {
+          "min": 1.96,
+          "max": 6.01,
+          "mean": 2.78,
+          "median": 2.45,
+          "suggested": 2.31,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ M249 | Warbird (Field-Tested)",
+        "price": {
+          "min": 0.76,
+          "max": 2.22,
+          "mean": 1.65,
+          "median": 1.9,
+          "suggested": 0.96,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ M249 | Warbird (Well-Worn)",
+        "price": {
+          "min": 2.58,
+          "max": 2.58,
+          "mean": 2.58,
+          "median": 2.58,
+          "suggested": 2.08,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ M249 | Warbird (Battle-Scarred)",
+        "price": {
+          "min": 1.19,
+          "max": 1.55,
+          "mean": 1.32,
+          "median": 1.21,
+          "suggested": 1.03,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M249 | Warbird (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M249 | Warbird (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M249 | Warbird (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M249 | Warbird (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M249 | Warbird (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:39.829Z"
+}

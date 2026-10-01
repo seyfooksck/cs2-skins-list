@@ -1,0 +1,225 @@
+{
+  "id": "skin-d13cfff64bcd",
+  "name": "Desert Eagle | Pilot",
+  "paint_index": "347",
+  "weapon": {
+    "id": "weapon_deagle",
+    "weapon_id": 1,
+    "name": "Desert Eagle",
+    "slug": "deagle"
+  },
+  "pattern": {
+    "id": "aq_pilot_deagle",
+    "name": "Pilot"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. It has a brass inlay of a pilot's wings.\\n\\n<i>Assume crash positions</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 232.9,
+      "max": 408.43,
+      "mean": 349.79,
+      "median": 408.43,
+      "suggested": 242.73,
+      "quantity": 13,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 127.78,
+      "max": 130.14,
+      "mean": 128.96,
+      "median": 128.96,
+      "suggested": 152.14,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 97.39,
+      "max": 343.28,
+      "mean": 157.48,
+      "median": 108.25,
+      "suggested": 112.88,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 72.34,
+      "max": 72.34,
+      "mean": 72.34,
+      "median": 72.34,
+      "suggested": 84.16,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Desert Eagle | Pilot (Factory New)",
+      "price": {
+        "min": 232.9,
+        "max": 408.43,
+        "mean": 349.79,
+        "median": 408.43,
+        "suggested": 242.73,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Desert Eagle | Pilot (Minimal Wear)",
+      "price": {
+        "min": 127.78,
+        "max": 130.14,
+        "mean": 128.96,
+        "median": 128.96,
+        "suggested": 152.14,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Desert Eagle | Pilot (Field-Tested)",
+      "price": {
+        "min": 97.39,
+        "max": 343.28,
+        "mean": 157.48,
+        "median": 108.25,
+        "suggested": 112.88,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Desert Eagle | Pilot (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Desert Eagle | Pilot (Battle-Scarred)",
+      "price": {
+        "min": 72.34,
+        "max": 72.34,
+        "mean": 72.34,
+        "median": 72.34,
+        "suggested": 84.16,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Desert Eagle | Pilot (Factory New)",
+        "price": {
+          "min": 232.9,
+          "max": 408.43,
+          "mean": 349.79,
+          "median": 408.43,
+          "suggested": 242.73,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Desert Eagle | Pilot (Minimal Wear)",
+        "price": {
+          "min": 127.78,
+          "max": 130.14,
+          "mean": 128.96,
+          "median": 128.96,
+          "suggested": 152.14,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Desert Eagle | Pilot (Field-Tested)",
+        "price": {
+          "min": 97.39,
+          "max": 343.28,
+          "mean": 157.48,
+          "median": 108.25,
+          "suggested": 112.88,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Desert Eagle | Pilot (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Desert Eagle | Pilot (Battle-Scarred)",
+        "price": {
+          "min": 72.34,
+          "max": 72.34,
+          "mean": 72.34,
+          "median": 72.34,
+          "suggested": 84.16,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Desert Eagle | Pilot (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Desert Eagle | Pilot (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Desert Eagle | Pilot (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Desert Eagle | Pilot (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Desert Eagle | Pilot (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:28.204Z"
+}

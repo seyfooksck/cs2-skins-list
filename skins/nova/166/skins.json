@@ -1,0 +1,177 @@
+{
+  "id": "skin-4699b404f02d",
+  "name": "Nova | Blaze Orange",
+  "paint_index": "166",
+  "weapon": {
+    "id": "weapon_nova",
+    "weapon_id": 35,
+    "name": "Nova",
+    "slug": "nova"
+  },
+  "pattern": {
+    "id": "hy_hunter_blaze_orange",
+    "name": "Blaze Orange"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Nova's rock-bottom price tag makes it a great ambush weapon for a cash-strapped team. It has been painted using a photographic hunting camo hydrographic.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 55.43,
+      "max": 55.86,
+      "mean": 55.65,
+      "median": 55.65,
+      "suggested": 51.34,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 23.33,
+      "max": 35.35,
+      "mean": 29.34,
+      "median": 29.34,
+      "suggested": 23.55,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Nova | Blaze Orange (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Nova | Blaze Orange (Minimal Wear)",
+      "price": {
+        "min": 55.43,
+        "max": 55.86,
+        "mean": 55.65,
+        "median": 55.65,
+        "suggested": 51.34,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Nova | Blaze Orange (Field-Tested)",
+      "price": {
+        "min": 23.33,
+        "max": 35.35,
+        "mean": 29.34,
+        "median": 29.34,
+        "suggested": 23.55,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Nova | Blaze Orange (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Nova | Blaze Orange (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Nova | Blaze Orange (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Nova | Blaze Orange (Minimal Wear)",
+        "price": {
+          "min": 55.43,
+          "max": 55.86,
+          "mean": 55.65,
+          "median": 55.65,
+          "suggested": 51.34,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Nova | Blaze Orange (Field-Tested)",
+        "price": {
+          "min": 23.33,
+          "max": 35.35,
+          "mean": 29.34,
+          "median": 29.34,
+          "suggested": 23.55,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Nova | Blaze Orange (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Nova | Blaze Orange (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Nova | Blaze Orange (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Nova | Blaze Orange (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Nova | Blaze Orange (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Nova | Blaze Orange (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Nova | Blaze Orange (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.641Z"
+}

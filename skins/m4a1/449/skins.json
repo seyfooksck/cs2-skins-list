@@ -1,0 +1,145 @@
+{
+  "id": "skin-ad324799f97c",
+  "name": "M4A4 | Poseidon",
+  "paint_index": "449",
+  "weapon": {
+    "id": "weapon_m4a1",
+    "weapon_id": 16,
+    "name": "M4A4",
+    "slug": "m4a1"
+  },
+  "pattern": {
+    "id": "cu_poseidon",
+    "name": "Poseidon"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.33,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with a depiction of a battle between Pisces and Poseidon.\\n\\n<i>Three can keep a secret if two of them are dead</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2042.14,
+      "max": 4784.44,
+      "mean": 2826.18,
+      "median": 2444.44,
+      "suggested": 2115.26,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1161.37,
+      "max": 3267.42,
+      "mean": 1582.19,
+      "median": 1346.32,
+      "suggested": 1419.44,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "ft": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A4 | Poseidon (Factory New)",
+      "price": {
+        "min": 2042.14,
+        "max": 4784.44,
+        "mean": 2826.18,
+        "median": 2444.44,
+        "suggested": 2115.26,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A4 | Poseidon (Minimal Wear)",
+      "price": {
+        "min": 1161.37,
+        "max": 3267.42,
+        "mean": 1582.19,
+        "median": 1346.32,
+        "suggested": 1419.44,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A4 | Poseidon (Field-Tested)",
+      "price": null,
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A4 | Poseidon (Factory New)",
+        "price": {
+          "min": 2042.14,
+          "max": 4784.44,
+          "mean": 2826.18,
+          "median": 2444.44,
+          "suggested": 2115.26,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A4 | Poseidon (Minimal Wear)",
+        "price": {
+          "min": 1161.37,
+          "max": 3267.42,
+          "mean": 1582.19,
+          "median": 1346.32,
+          "suggested": 1419.44,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A4 | Poseidon (Field-Tested)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A4 | Poseidon (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A4 | Poseidon (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A4 | Poseidon (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:40.318Z"
+}

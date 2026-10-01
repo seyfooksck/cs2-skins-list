@@ -1,0 +1,289 @@
+{
+  "id": "skin-d7d145b204a5",
+  "name": "USP-S | Road Rash",
+  "paint_index": "318",
+  "weapon": {
+    "id": "weapon_usp_silencer",
+    "weapon_id": 61,
+    "name": "USP-S",
+    "slug": "usp_silencer"
+  },
+  "pattern": {
+    "id": "cu_usp_sandpapered",
+    "name": "Road Rash"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise. It has been custom painted with the image of a flying bullet, then weathered with sandpaper.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 140.03,
+      "max": 840.19,
+      "mean": 321.7,
+      "median": 254.3,
+      "suggested": 225.81,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 55.78,
+      "max": 1020.32,
+      "mean": 169.65,
+      "median": 91.02,
+      "suggested": 72.84,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 38.75,
+      "max": 30614.6,
+      "mean": 1392.26,
+      "median": 58.35,
+      "suggested": 43.47,
+      "quantity": 23,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 30.11,
+      "max": 81.57,
+      "mean": 65.34,
+      "median": 74.23,
+      "suggested": 35.13,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 44.34,
+      "max": 87.52,
+      "mean": 69.28,
+      "median": 72.63,
+      "suggested": 28.85,
+      "quantity": 4,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "USP-S | Road Rash (Factory New)",
+      "price": {
+        "min": 140.03,
+        "max": 840.19,
+        "mean": 321.7,
+        "median": 254.3,
+        "suggested": 225.81,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "USP-S | Road Rash (Minimal Wear)",
+      "price": {
+        "min": 55.78,
+        "max": 1020.32,
+        "mean": 169.65,
+        "median": 91.02,
+        "suggested": 72.84,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "USP-S | Road Rash (Field-Tested)",
+      "price": {
+        "min": 38.75,
+        "max": 30614.6,
+        "mean": 1392.26,
+        "median": 58.35,
+        "suggested": 43.47,
+        "quantity": 23,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "USP-S | Road Rash (Well-Worn)",
+      "price": {
+        "min": 30.11,
+        "max": 81.57,
+        "mean": 65.34,
+        "median": 74.23,
+        "suggested": 35.13,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "USP-S | Road Rash (Battle-Scarred)",
+      "price": {
+        "min": 44.34,
+        "max": 87.52,
+        "mean": 69.28,
+        "median": 72.63,
+        "suggested": 28.85,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "USP-S | Road Rash (Factory New)",
+        "price": {
+          "min": 140.03,
+          "max": 840.19,
+          "mean": 321.7,
+          "median": 254.3,
+          "suggested": 225.81,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "USP-S | Road Rash (Minimal Wear)",
+        "price": {
+          "min": 55.78,
+          "max": 1020.32,
+          "mean": 169.65,
+          "median": 91.02,
+          "suggested": 72.84,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "USP-S | Road Rash (Field-Tested)",
+        "price": {
+          "min": 38.75,
+          "max": 30614.6,
+          "mean": 1392.26,
+          "median": 58.35,
+          "suggested": 43.47,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "USP-S | Road Rash (Well-Worn)",
+        "price": {
+          "min": 30.11,
+          "max": 81.57,
+          "mean": 65.34,
+          "median": 74.23,
+          "suggested": 35.13,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "USP-S | Road Rash (Battle-Scarred)",
+        "price": {
+          "min": 44.34,
+          "max": 87.52,
+          "mean": 69.28,
+          "median": 72.63,
+          "suggested": 28.85,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir USP-S | Road Rash (Factory New)",
+        "price": {
+          "min": 128.36,
+          "max": 197.21,
+          "mean": 164.85,
+          "median": 168.98,
+          "suggested": 126.83,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir USP-S | Road Rash (Minimal Wear)",
+        "price": {
+          "min": 38.33,
+          "max": 105.02,
+          "mean": 70.44,
+          "median": 72.85,
+          "suggested": 52.05,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir USP-S | Road Rash (Field-Tested)",
+        "price": {
+          "min": 26.08,
+          "max": 35.01,
+          "mean": 29.92,
+          "median": 29.84,
+          "suggested": 36.62,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir USP-S | Road Rash (Well-Worn)",
+        "price": {
+          "min": 21.89,
+          "max": 29.17,
+          "mean": 25.53,
+          "median": 25.53,
+          "suggested": 27.49,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir USP-S | Road Rash (Battle-Scarred)",
+        "price": {
+          "min": 23.74,
+          "max": 274.65,
+          "mean": 104.57,
+          "median": 69.65,
+          "suggested": 25.96,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:50.570Z"
+}

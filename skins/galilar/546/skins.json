@@ -1,0 +1,310 @@
+{
+  "id": "skin-b60d3982f423",
+  "name": "Galil AR | Firefight",
+  "paint_index": "546",
+  "weapon": {
+    "id": "weapon_galilar",
+    "weapon_id": 13,
+    "name": "Galil AR",
+    "slug": "galilar"
+  },
+  "pattern": {
+    "id": "gs_galilar_incenerator",
+    "name": "Firefight"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat. It has been given crimson accents and a hand painted icon.\\n\\n<i>Booth had this weapon commissioned for Valeria in an attempt to smooth things over with the Phoenix</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 18.38,
+      "max": 121.48,
+      "mean": 34.38,
+      "median": 31.66,
+      "suggested": 28.19,
+      "quantity": 32,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.07,
+      "max": 27.33,
+      "mean": 4.07,
+      "median": 2.96,
+      "suggested": 2.95,
+      "quantity": 84,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.27,
+      "max": 6.2,
+      "mean": 1.62,
+      "median": 1.59,
+      "suggested": 1.5,
+      "quantity": 119,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.13,
+      "max": 2.33,
+      "mean": 1.35,
+      "median": 1.28,
+      "suggested": 1.33,
+      "quantity": 38,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.09,
+      "max": 20.72,
+      "mean": 2.47,
+      "median": 1.33,
+      "suggested": 1.33,
+      "quantity": 29,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Galil AR | Firefight (Factory New)",
+      "price": {
+        "min": 18.38,
+        "max": 121.48,
+        "mean": 34.38,
+        "median": 31.66,
+        "suggested": 28.19,
+        "quantity": 32,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Galil AR | Firefight (Minimal Wear)",
+      "price": {
+        "min": 2.07,
+        "max": 27.33,
+        "mean": 4.07,
+        "median": 2.96,
+        "suggested": 2.95,
+        "quantity": 84,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Galil AR | Firefight (Field-Tested)",
+      "price": {
+        "min": 1.27,
+        "max": 6.2,
+        "mean": 1.62,
+        "median": 1.59,
+        "suggested": 1.5,
+        "quantity": 119,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Galil AR | Firefight (Well-Worn)",
+      "price": {
+        "min": 1.13,
+        "max": 2.33,
+        "mean": 1.35,
+        "median": 1.28,
+        "suggested": 1.33,
+        "quantity": 38,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Galil AR | Firefight (Battle-Scarred)",
+      "price": {
+        "min": 1.09,
+        "max": 20.72,
+        "mean": 2.47,
+        "median": 1.33,
+        "suggested": 1.33,
+        "quantity": 29,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Galil AR | Firefight (Factory New)",
+        "price": {
+          "min": 18.38,
+          "max": 121.48,
+          "mean": 34.38,
+          "median": 31.66,
+          "suggested": 28.19,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Galil AR | Firefight (Minimal Wear)",
+        "price": {
+          "min": 2.07,
+          "max": 27.33,
+          "mean": 4.07,
+          "median": 2.96,
+          "suggested": 2.95,
+          "quantity": 84,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Galil AR | Firefight (Field-Tested)",
+        "price": {
+          "min": 1.27,
+          "max": 6.2,
+          "mean": 1.62,
+          "median": 1.59,
+          "suggested": 1.5,
+          "quantity": 119,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Galil AR | Firefight (Well-Worn)",
+        "price": {
+          "min": 1.13,
+          "max": 2.33,
+          "mean": 1.35,
+          "median": 1.28,
+          "suggested": 1.33,
+          "quantity": 38,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Galil AR | Firefight (Battle-Scarred)",
+        "price": {
+          "min": 1.09,
+          "max": 20.72,
+          "mean": 2.47,
+          "median": 1.33,
+          "suggested": 1.33,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Galil AR | Firefight (Factory New)",
+        "price": {
+          "min": 16.55,
+          "max": 36.4,
+          "mean": 23.12,
+          "median": 19.76,
+          "suggested": 19.35,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Galil AR | Firefight (Minimal Wear)",
+        "price": {
+          "min": 4.2,
+          "max": 60.45,
+          "mean": 10.14,
+          "median": 5.06,
+          "suggested": 5.13,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Galil AR | Firefight (Field-Tested)",
+        "price": {
+          "min": 1.38,
+          "max": 30.2,
+          "mean": 2.53,
+          "median": 1.74,
+          "suggested": 1.89,
+          "quantity": 50,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Galil AR | Firefight (Well-Worn)",
+        "price": {
+          "min": 1.17,
+          "max": 1.91,
+          "mean": 1.41,
+          "median": 1.42,
+          "suggested": 1.5,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Galil AR | Firefight (Battle-Scarred)",
+        "price": {
+          "min": 1.17,
+          "max": 1.91,
+          "mean": 1.37,
+          "median": 1.34,
+          "suggested": 1.43,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Galil AR | Firefight (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Galil AR | Firefight (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Galil AR | Firefight (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Galil AR | Firefight (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Galil AR | Firefight (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:31.080Z"
+}

@@ -1,0 +1,249 @@
+{
+  "id": "skin-4b8b1ad9100f",
+  "name": "M249 | Spectrogram",
+  "paint_index": "875",
+  "weapon": {
+    "id": "weapon_m249",
+    "weapon_id": 14,
+    "name": "M249",
+    "slug": "m249"
+  },
+  "pattern": {
+    "id": "ht_peaks_rainbow",
+    "name": "Spectrogram"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A strong open-area LMG, the M249 is the perfect choice for players willing to trade a slow fire rate for increased accuracy and a high ammo capacity. It has been custom painted using a green and blue halftone pattern.\\n\\n<i>This one's off the charts</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.82,
+      "max": 29.76,
+      "mean": 4.78,
+      "median": 1.19,
+      "suggested": 0.96,
+      "quantity": 132,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.29,
+      "max": 21.59,
+      "mean": 1.82,
+      "median": 0.74,
+      "suggested": 0.36,
+      "quantity": 74,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.2,
+      "max": 14,
+      "mean": 2.57,
+      "median": 0.42,
+      "suggested": 0.2,
+      "quantity": 121,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.21,
+      "max": 7.99,
+      "mean": 0.96,
+      "median": 0.37,
+      "suggested": 0.25,
+      "quantity": 17,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.25,
+      "max": 7.99,
+      "mean": 1.04,
+      "median": 0.34,
+      "suggested": 0.29,
+      "quantity": 11,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M249 | Spectrogram (Factory New)",
+      "price": {
+        "min": 0.82,
+        "max": 29.76,
+        "mean": 4.78,
+        "median": 1.19,
+        "suggested": 0.96,
+        "quantity": 132,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M249 | Spectrogram (Minimal Wear)",
+      "price": {
+        "min": 0.29,
+        "max": 21.59,
+        "mean": 1.82,
+        "median": 0.74,
+        "suggested": 0.36,
+        "quantity": 74,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M249 | Spectrogram (Field-Tested)",
+      "price": {
+        "min": 0.2,
+        "max": 14,
+        "mean": 2.57,
+        "median": 0.42,
+        "suggested": 0.2,
+        "quantity": 121,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M249 | Spectrogram (Well-Worn)",
+      "price": {
+        "min": 0.21,
+        "max": 7.99,
+        "mean": 0.96,
+        "median": 0.37,
+        "suggested": 0.25,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M249 | Spectrogram (Battle-Scarred)",
+      "price": {
+        "min": 0.25,
+        "max": 7.99,
+        "mean": 1.04,
+        "median": 0.34,
+        "suggested": 0.29,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M249 | Spectrogram (Factory New)",
+        "price": {
+          "min": 0.82,
+          "max": 29.76,
+          "mean": 4.78,
+          "median": 1.19,
+          "suggested": 0.96,
+          "quantity": 132,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M249 | Spectrogram (Minimal Wear)",
+        "price": {
+          "min": 0.29,
+          "max": 21.59,
+          "mean": 1.82,
+          "median": 0.74,
+          "suggested": 0.36,
+          "quantity": 74,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M249 | Spectrogram (Field-Tested)",
+        "price": {
+          "min": 0.2,
+          "max": 14,
+          "mean": 2.57,
+          "median": 0.42,
+          "suggested": 0.2,
+          "quantity": 121,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M249 | Spectrogram (Well-Worn)",
+        "price": {
+          "min": 0.21,
+          "max": 7.99,
+          "mean": 0.96,
+          "median": 0.37,
+          "suggested": 0.25,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M249 | Spectrogram (Battle-Scarred)",
+        "price": {
+          "min": 0.25,
+          "max": 7.99,
+          "mean": 1.04,
+          "median": 0.34,
+          "suggested": 0.29,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M249 | Spectrogram (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M249 | Spectrogram (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M249 | Spectrogram (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M249 | Spectrogram (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M249 | Spectrogram (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:39.845Z"
+}

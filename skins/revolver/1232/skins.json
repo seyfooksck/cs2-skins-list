@@ -1,0 +1,310 @@
+{
+  "id": "skin-f1184959b60b",
+  "name": "R8 Revolver | Banana Cannon",
+  "paint_index": "1232",
+  "weapon": {
+    "id": "weapon_revolver",
+    "weapon_id": 64,
+    "name": "R8 Revolver",
+    "slug": "revolver"
+  },
+  "pattern": {
+    "id": "gs_r8_banana",
+    "name": "Banana Cannon"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The R8 Revolver delivers a highly accurate and powerful round at the expense of a lengthy trigger-pull. Firing rapidly by fanning the hammer may be the best option when point-blank stopping power is required. It has been custom painted to resemble a very ripe banana.\\n\\n<i>Catch them slipping</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 4.66,
+      "max": 256.73,
+      "mean": 20.62,
+      "median": 6.79,
+      "suggested": 5.63,
+      "quantity": 50,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.92,
+      "max": 71.77,
+      "mean": 2.7,
+      "median": 1.47,
+      "suggested": 1.14,
+      "quantity": 243,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.39,
+      "max": 25.88,
+      "mean": 0.84,
+      "median": 0.57,
+      "suggested": 0.58,
+      "quantity": 659,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.37,
+      "max": 11.79,
+      "mean": 0.67,
+      "median": 0.46,
+      "suggested": 0.5,
+      "quantity": 160,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.39,
+      "max": 5.18,
+      "mean": 0.76,
+      "median": 0.5,
+      "suggested": 0.5,
+      "quantity": 147,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "R8 Revolver | Banana Cannon (Factory New)",
+      "price": {
+        "min": 4.66,
+        "max": 256.73,
+        "mean": 20.62,
+        "median": 6.79,
+        "suggested": 5.63,
+        "quantity": 50,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "R8 Revolver | Banana Cannon (Minimal Wear)",
+      "price": {
+        "min": 0.92,
+        "max": 71.77,
+        "mean": 2.7,
+        "median": 1.47,
+        "suggested": 1.14,
+        "quantity": 243,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "R8 Revolver | Banana Cannon (Field-Tested)",
+      "price": {
+        "min": 0.39,
+        "max": 25.88,
+        "mean": 0.84,
+        "median": 0.57,
+        "suggested": 0.58,
+        "quantity": 659,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "R8 Revolver | Banana Cannon (Well-Worn)",
+      "price": {
+        "min": 0.37,
+        "max": 11.79,
+        "mean": 0.67,
+        "median": 0.46,
+        "suggested": 0.5,
+        "quantity": 160,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "R8 Revolver | Banana Cannon (Battle-Scarred)",
+      "price": {
+        "min": 0.39,
+        "max": 5.18,
+        "mean": 0.76,
+        "median": 0.5,
+        "suggested": 0.5,
+        "quantity": 147,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "R8 Revolver | Banana Cannon (Factory New)",
+        "price": {
+          "min": 4.66,
+          "max": 256.73,
+          "mean": 20.62,
+          "median": 6.79,
+          "suggested": 5.63,
+          "quantity": 50,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "R8 Revolver | Banana Cannon (Minimal Wear)",
+        "price": {
+          "min": 0.92,
+          "max": 71.77,
+          "mean": 2.7,
+          "median": 1.47,
+          "suggested": 1.14,
+          "quantity": 243,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "R8 Revolver | Banana Cannon (Field-Tested)",
+        "price": {
+          "min": 0.39,
+          "max": 25.88,
+          "mean": 0.84,
+          "median": 0.57,
+          "suggested": 0.58,
+          "quantity": 659,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "R8 Revolver | Banana Cannon (Well-Worn)",
+        "price": {
+          "min": 0.37,
+          "max": 11.79,
+          "mean": 0.67,
+          "median": 0.46,
+          "suggested": 0.5,
+          "quantity": 160,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "R8 Revolver | Banana Cannon (Battle-Scarred)",
+        "price": {
+          "min": 0.39,
+          "max": 5.18,
+          "mean": 0.76,
+          "median": 0.5,
+          "suggested": 0.5,
+          "quantity": 147,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Banana Cannon (Factory New)",
+        "price": {
+          "min": 5.22,
+          "max": 233.38,
+          "mean": 26.16,
+          "median": 5.73,
+          "suggested": 6.09,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Banana Cannon (Minimal Wear)",
+        "price": {
+          "min": 1.19,
+          "max": 33.95,
+          "mean": 2.81,
+          "median": 1.33,
+          "suggested": 1.42,
+          "quantity": 35,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Banana Cannon (Field-Tested)",
+        "price": {
+          "min": 0.37,
+          "max": 1.28,
+          "mean": 0.7,
+          "median": 0.7,
+          "suggested": 0.65,
+          "quantity": 205,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Banana Cannon (Well-Worn)",
+        "price": {
+          "min": 0.46,
+          "max": 33.79,
+          "mean": 1.19,
+          "median": 0.67,
+          "suggested": 0.53,
+          "quantity": 87,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Banana Cannon (Battle-Scarred)",
+        "price": {
+          "min": 0.43,
+          "max": 1.98,
+          "mean": 0.64,
+          "median": 0.64,
+          "suggested": 0.53,
+          "quantity": 42,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir R8 Revolver | Banana Cannon (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir R8 Revolver | Banana Cannon (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir R8 Revolver | Banana Cannon (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir R8 Revolver | Banana Cannon (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir R8 Revolver | Banana Cannon (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:46.613Z"
+}

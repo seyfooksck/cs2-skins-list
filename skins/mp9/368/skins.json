@@ -1,0 +1,289 @@
+{
+  "id": "skin-f93016c04c3b",
+  "name": "MP9 | Setting Sun",
+  "paint_index": "368",
+  "weapon": {
+    "id": "weapon_mp9",
+    "weapon_id": 34,
+    "name": "MP9",
+    "slug": "mp9"
+  },
+  "pattern": {
+    "id": "hy_nuclear_pattern2_mp9",
+    "name": "Setting Sun"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been painted with a hydrographic pattern of nuclear hazards symbols.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 44.51,
+      "max": 569.45,
+      "mean": 141.81,
+      "median": 92.18,
+      "suggested": 58.89,
+      "quantity": 25,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 19.98,
+      "max": 89.15,
+      "mean": 38.07,
+      "median": 32.09,
+      "suggested": 24.15,
+      "quantity": 22,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 15.73,
+      "max": 35,
+      "mean": 26.87,
+      "median": 32.14,
+      "suggested": 19.28,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 25.22,
+      "max": 29.15,
+      "mean": 26.2,
+      "median": 25.22,
+      "suggested": 14.16,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 12.75,
+      "max": 17.88,
+      "mean": 16.38,
+      "median": 17.34,
+      "suggested": 16.58,
+      "quantity": 5,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP9 | Setting Sun (Factory New)",
+      "price": {
+        "min": 44.51,
+        "max": 569.45,
+        "mean": 141.81,
+        "median": 92.18,
+        "suggested": 58.89,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP9 | Setting Sun (Minimal Wear)",
+      "price": {
+        "min": 19.98,
+        "max": 89.15,
+        "mean": 38.07,
+        "median": 32.09,
+        "suggested": 24.15,
+        "quantity": 22,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP9 | Setting Sun (Field-Tested)",
+      "price": {
+        "min": 15.73,
+        "max": 35,
+        "mean": 26.87,
+        "median": 32.14,
+        "suggested": 19.28,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP9 | Setting Sun (Well-Worn)",
+      "price": {
+        "min": 25.22,
+        "max": 29.15,
+        "mean": 26.2,
+        "median": 25.22,
+        "suggested": 14.16,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP9 | Setting Sun (Battle-Scarred)",
+      "price": {
+        "min": 12.75,
+        "max": 17.88,
+        "mean": 16.38,
+        "median": 17.34,
+        "suggested": 16.58,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP9 | Setting Sun (Factory New)",
+        "price": {
+          "min": 44.51,
+          "max": 569.45,
+          "mean": 141.81,
+          "median": 92.18,
+          "suggested": 58.89,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP9 | Setting Sun (Minimal Wear)",
+        "price": {
+          "min": 19.98,
+          "max": 89.15,
+          "mean": 38.07,
+          "median": 32.09,
+          "suggested": 24.15,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP9 | Setting Sun (Field-Tested)",
+        "price": {
+          "min": 15.73,
+          "max": 35,
+          "mean": 26.87,
+          "median": 32.14,
+          "suggested": 19.28,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP9 | Setting Sun (Well-Worn)",
+        "price": {
+          "min": 25.22,
+          "max": 29.15,
+          "mean": 26.2,
+          "median": 25.22,
+          "suggested": 14.16,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP9 | Setting Sun (Battle-Scarred)",
+        "price": {
+          "min": 12.75,
+          "max": 17.88,
+          "mean": 16.38,
+          "median": 17.34,
+          "suggested": 16.58,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP9 | Setting Sun (Factory New)",
+        "price": {
+          "min": 110.86,
+          "max": 110.86,
+          "mean": 110.86,
+          "median": 110.86,
+          "suggested": 99.79,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP9 | Setting Sun (Minimal Wear)",
+        "price": {
+          "min": 26.84,
+          "max": 291.72,
+          "mean": 73.52,
+          "median": 40.83,
+          "suggested": 24.6,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP9 | Setting Sun (Field-Tested)",
+        "price": {
+          "min": 13.98,
+          "max": 409.65,
+          "mean": 60.55,
+          "median": 14.68,
+          "suggested": 16.48,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP9 | Setting Sun (Well-Worn)",
+        "price": {
+          "min": 10.09,
+          "max": 58.35,
+          "mean": 25.37,
+          "median": 12.89,
+          "suggested": 14.06,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP9 | Setting Sun (Battle-Scarred)",
+        "price": {
+          "min": 13.42,
+          "max": 23.62,
+          "mean": 18.52,
+          "median": 18.52,
+          "suggested": 8.73,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:43.798Z"
+}

@@ -1,0 +1,193 @@
+{
+  "id": "skin-c14e09c62ca0",
+  "name": "USP-S | Orange Anolis",
+  "paint_index": "922",
+  "weapon": {
+    "id": "weapon_usp_silencer",
+    "weapon_id": 61,
+    "name": "USP-S",
+    "slug": "usp_silencer"
+  },
+  "pattern": {
+    "id": "am_lizard_red",
+    "name": "Orange Anolis"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.37,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise. A red and gold lizard scale pattern has been applied.\\n\\n<i>Painted to scale</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 99.49,
+      "max": 440.8,
+      "mean": 277.82,
+      "median": 291.73,
+      "suggested": 85.41,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 22.73,
+      "max": 253.2,
+      "mean": 89.38,
+      "median": 45.31,
+      "suggested": 24.85,
+      "quantity": 13,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 21.03,
+      "max": 85.19,
+      "mean": 39.59,
+      "median": 30.11,
+      "suggested": 24.23,
+      "quantity": 8,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "USP-S | Orange Anolis (Factory New)",
+      "price": {
+        "min": 99.49,
+        "max": 440.8,
+        "mean": 277.82,
+        "median": 291.73,
+        "suggested": 85.41,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "USP-S | Orange Anolis (Minimal Wear)",
+      "price": {
+        "min": 22.73,
+        "max": 253.2,
+        "mean": 89.38,
+        "median": 45.31,
+        "suggested": 24.85,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "USP-S | Orange Anolis (Field-Tested)",
+      "price": {
+        "min": 21.03,
+        "max": 85.19,
+        "mean": 39.59,
+        "median": 30.11,
+        "suggested": 24.23,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "USP-S | Orange Anolis (Factory New)",
+        "price": {
+          "min": 99.49,
+          "max": 440.8,
+          "mean": 277.82,
+          "median": 291.73,
+          "suggested": 85.41,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "USP-S | Orange Anolis (Minimal Wear)",
+        "price": {
+          "min": 22.73,
+          "max": 253.2,
+          "mean": 89.38,
+          "median": 45.31,
+          "suggested": 24.85,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "USP-S | Orange Anolis (Field-Tested)",
+        "price": {
+          "min": 21.03,
+          "max": 85.19,
+          "mean": 39.59,
+          "median": 30.11,
+          "suggested": 24.23,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir USP-S | Orange Anolis (Factory New)",
+        "price": {
+          "min": 26.93,
+          "max": 399.48,
+          "mean": 62.7,
+          "median": 35.22,
+          "suggested": 34.52,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir USP-S | Orange Anolis (Minimal Wear)",
+        "price": {
+          "min": 21,
+          "max": 30.85,
+          "mean": 24.46,
+          "median": 23.9,
+          "suggested": 24.88,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir USP-S | Orange Anolis (Field-Tested)",
+        "price": {
+          "min": 18.83,
+          "max": 47.28,
+          "mean": 24.34,
+          "median": 20.32,
+          "suggested": 23.44,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:50.380Z"
+}

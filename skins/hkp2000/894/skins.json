@@ -1,0 +1,310 @@
+{
+  "id": "skin-3c3bc3fa44dc",
+  "name": "P2000 | Obsidian",
+  "paint_index": "894",
+  "weapon": {
+    "id": "weapon_hkp2000",
+    "weapon_id": 32,
+    "name": "P2000",
+    "slug": "hkp2000"
+  },
+  "pattern": {
+    "id": "cu_p2000_obsidian",
+    "name": "Obsidian"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Accurate and controllable, the German-made P2000 is a serviceable first-round pistol that works best against unarmored opponents. It has been custom painted to look like it was submerged in lava and is solidifying into obsidian as it cools.\\n\\n<i>Giving the term \\\"glass cannon\\\" a whole new meaning</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 31.51,
+      "max": 77.4,
+      "mean": 45.09,
+      "median": 46.64,
+      "suggested": 41.78,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 5.94,
+      "max": 43.05,
+      "mean": 15.17,
+      "median": 16.44,
+      "suggested": 7.01,
+      "quantity": 20,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.18,
+      "max": 6.44,
+      "mean": 4.64,
+      "median": 5.41,
+      "suggested": 2.69,
+      "quantity": 16,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.59,
+      "max": 4.98,
+      "mean": 2.57,
+      "median": 1.93,
+      "suggested": 2.01,
+      "quantity": 21,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.65,
+      "max": 31.12,
+      "mean": 5.18,
+      "median": 1.91,
+      "suggested": 2.04,
+      "quantity": 12,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P2000 | Obsidian (Factory New)",
+      "price": {
+        "min": 31.51,
+        "max": 77.4,
+        "mean": 45.09,
+        "median": 46.64,
+        "suggested": 41.78,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P2000 | Obsidian (Minimal Wear)",
+      "price": {
+        "min": 5.94,
+        "max": 43.05,
+        "mean": 15.17,
+        "median": 16.44,
+        "suggested": 7.01,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P2000 | Obsidian (Field-Tested)",
+      "price": {
+        "min": 2.18,
+        "max": 6.44,
+        "mean": 4.64,
+        "median": 5.41,
+        "suggested": 2.69,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P2000 | Obsidian (Well-Worn)",
+      "price": {
+        "min": 1.59,
+        "max": 4.98,
+        "mean": 2.57,
+        "median": 1.93,
+        "suggested": 2.01,
+        "quantity": 21,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P2000 | Obsidian (Battle-Scarred)",
+      "price": {
+        "min": 1.65,
+        "max": 31.12,
+        "mean": 5.18,
+        "median": 1.91,
+        "suggested": 2.04,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P2000 | Obsidian (Factory New)",
+        "price": {
+          "min": 31.51,
+          "max": 77.4,
+          "mean": 45.09,
+          "median": 46.64,
+          "suggested": 41.78,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P2000 | Obsidian (Minimal Wear)",
+        "price": {
+          "min": 5.94,
+          "max": 43.05,
+          "mean": 15.17,
+          "median": 16.44,
+          "suggested": 7.01,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P2000 | Obsidian (Field-Tested)",
+        "price": {
+          "min": 2.18,
+          "max": 6.44,
+          "mean": 4.64,
+          "median": 5.41,
+          "suggested": 2.69,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P2000 | Obsidian (Well-Worn)",
+        "price": {
+          "min": 1.59,
+          "max": 4.98,
+          "mean": 2.57,
+          "median": 1.93,
+          "suggested": 2.01,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P2000 | Obsidian (Battle-Scarred)",
+        "price": {
+          "min": 1.65,
+          "max": 31.12,
+          "mean": 5.18,
+          "median": 1.91,
+          "suggested": 2.04,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P2000 | Obsidian (Factory New)",
+        "price": {
+          "min": 40.83,
+          "max": 116.43,
+          "mean": 57.68,
+          "median": 43.52,
+          "suggested": 35.95,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P2000 | Obsidian (Minimal Wear)",
+        "price": {
+          "min": 11.37,
+          "max": 466.55,
+          "mean": 80.2,
+          "median": 19.14,
+          "suggested": 11.99,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P2000 | Obsidian (Field-Tested)",
+        "price": {
+          "min": 4.12,
+          "max": 74.15,
+          "mean": 13.15,
+          "median": 6.37,
+          "suggested": 4.75,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ P2000 | Obsidian (Well-Worn)",
+        "price": {
+          "min": 4.07,
+          "max": 5.78,
+          "mean": 4.52,
+          "median": 4.1,
+          "suggested": 4.17,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ P2000 | Obsidian (Battle-Scarred)",
+        "price": {
+          "min": 3.28,
+          "max": 4.17,
+          "mean": 3.77,
+          "median": 3.87,
+          "suggested": 4.09,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P2000 | Obsidian (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P2000 | Obsidian (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P2000 | Obsidian (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P2000 | Obsidian (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P2000 | Obsidian (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:32.549Z"
+}

@@ -1,0 +1,169 @@
+{
+  "id": "skin-953912490f9b",
+  "name": "Desert Eagle | The Bronze",
+  "paint_index": "992",
+  "weapon": {
+    "id": "weapon_deagle",
+    "weapon_id": 1,
+    "name": "Desert Eagle",
+    "slug": "deagle"
+  },
+  "pattern": {
+    "id": "am_numbers_bronze",
+    "name": "The Bronze"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.3,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. A multicolored pattern of randomized numbers has been applied.\\n\\n<i>Numbers don't lie, but I do</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 54.88,
+      "max": 312.74,
+      "mean": 88.89,
+      "median": 71.68,
+      "suggested": 70.45,
+      "quantity": 25,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 3.63,
+      "max": 120.94,
+      "mean": 7.47,
+      "median": 6.39,
+      "suggested": 4.64,
+      "quantity": 201,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 3.33,
+      "max": 25.01,
+      "mean": 5.81,
+      "median": 4.8,
+      "suggested": 4.17,
+      "quantity": 64,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Desert Eagle | The Bronze (Factory New)",
+      "price": {
+        "min": 54.88,
+        "max": 312.74,
+        "mean": 88.89,
+        "median": 71.68,
+        "suggested": 70.45,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Desert Eagle | The Bronze (Minimal Wear)",
+      "price": {
+        "min": 3.63,
+        "max": 120.94,
+        "mean": 7.47,
+        "median": 6.39,
+        "suggested": 4.64,
+        "quantity": 201,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Desert Eagle | The Bronze (Field-Tested)",
+      "price": {
+        "min": 3.33,
+        "max": 25.01,
+        "mean": 5.81,
+        "median": 4.8,
+        "suggested": 4.17,
+        "quantity": 64,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Desert Eagle | The Bronze (Factory New)",
+        "price": {
+          "min": 54.88,
+          "max": 312.74,
+          "mean": 88.89,
+          "median": 71.68,
+          "suggested": 70.45,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Desert Eagle | The Bronze (Minimal Wear)",
+        "price": {
+          "min": 3.63,
+          "max": 120.94,
+          "mean": 7.47,
+          "median": 6.39,
+          "suggested": 4.64,
+          "quantity": 201,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Desert Eagle | The Bronze (Field-Tested)",
+        "price": {
+          "min": 3.33,
+          "max": 25.01,
+          "mean": 5.81,
+          "median": 4.8,
+          "suggested": 4.17,
+          "quantity": 64,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Desert Eagle | The Bronze (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Desert Eagle | The Bronze (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Desert Eagle | The Bronze (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:28.040Z"
+}

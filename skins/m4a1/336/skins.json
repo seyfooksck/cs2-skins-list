@@ -1,0 +1,302 @@
+{
+  "id": "skin-e3516262b49a",
+  "name": "M4A4 | Desert-Strike",
+  "paint_index": "336",
+  "weapon": {
+    "id": "weapon_m4a1",
+    "weapon_id": 16,
+    "name": "M4A4",
+    "slug": "m4a1"
+  },
+  "pattern": {
+    "id": "cu_titanstorm",
+    "name": "Desert-Strike"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with a high-tech design in tan and black.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 98.4,
+      "max": 307.24,
+      "mean": 155.06,
+      "median": 147.62,
+      "suggested": 126.31,
+      "quantity": 26,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 36.18,
+      "max": 303.4,
+      "mean": 69.51,
+      "median": 51.3,
+      "suggested": 43,
+      "quantity": 39,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 32.66,
+      "max": 215.77,
+      "mean": 51.14,
+      "median": 37.52,
+      "suggested": 38.58,
+      "quantity": 26,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 40.34,
+      "max": 40.34,
+      "mean": 40.34,
+      "median": 40.34,
+      "suggested": 40.13,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 31.3,
+      "max": 133.03,
+      "mean": 69.9,
+      "median": 45.37,
+      "suggested": 38.81,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A4 | Desert-Strike (Factory New)",
+      "price": {
+        "min": 98.4,
+        "max": 307.24,
+        "mean": 155.06,
+        "median": 147.62,
+        "suggested": 126.31,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A4 | Desert-Strike (Minimal Wear)",
+      "price": {
+        "min": 36.18,
+        "max": 303.4,
+        "mean": 69.51,
+        "median": 51.3,
+        "suggested": 43,
+        "quantity": 39,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A4 | Desert-Strike (Field-Tested)",
+      "price": {
+        "min": 32.66,
+        "max": 215.77,
+        "mean": 51.14,
+        "median": 37.52,
+        "suggested": 38.58,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M4A4 | Desert-Strike (Well-Worn)",
+      "price": {
+        "min": 40.34,
+        "max": 40.34,
+        "mean": 40.34,
+        "median": 40.34,
+        "suggested": 40.13,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M4A4 | Desert-Strike (Battle-Scarred)",
+      "price": {
+        "min": 31.3,
+        "max": 133.03,
+        "mean": 69.9,
+        "median": 45.37,
+        "suggested": 38.81,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A4 | Desert-Strike (Factory New)",
+        "price": {
+          "min": 98.4,
+          "max": 307.24,
+          "mean": 155.06,
+          "median": 147.62,
+          "suggested": 126.31,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A4 | Desert-Strike (Minimal Wear)",
+        "price": {
+          "min": 36.18,
+          "max": 303.4,
+          "mean": 69.51,
+          "median": 51.3,
+          "suggested": 43,
+          "quantity": 39,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A4 | Desert-Strike (Field-Tested)",
+        "price": {
+          "min": 32.66,
+          "max": 215.77,
+          "mean": 51.14,
+          "median": 37.52,
+          "suggested": 38.58,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M4A4 | Desert-Strike (Well-Worn)",
+        "price": {
+          "min": 40.34,
+          "max": 40.34,
+          "mean": 40.34,
+          "median": 40.34,
+          "suggested": 40.13,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M4A4 | Desert-Strike (Battle-Scarred)",
+        "price": {
+          "min": 31.3,
+          "max": 133.03,
+          "mean": 69.9,
+          "median": 45.37,
+          "suggested": 38.81,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ M4A4 | Desert-Strike (Factory New)",
+        "price": {
+          "min": 75.76,
+          "max": 837.18,
+          "mean": 225.28,
+          "median": 123.72,
+          "suggested": 97.71,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ M4A4 | Desert-Strike (Minimal Wear)",
+        "price": {
+          "min": 41.67,
+          "max": 83.55,
+          "mean": 63.36,
+          "median": 68.73,
+          "suggested": 51.07,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ M4A4 | Desert-Strike (Field-Tested)",
+        "price": {
+          "min": 42.59,
+          "max": 93.34,
+          "mean": 65.79,
+          "median": 61.45,
+          "suggested": 44.79,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ M4A4 | Desert-Strike (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ M4A4 | Desert-Strike (Battle-Scarred)",
+        "price": {
+          "min": 45.06,
+          "max": 45.06,
+          "mean": 45.06,
+          "median": 45.06,
+          "suggested": 53.75,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A4 | Desert-Strike (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A4 | Desert-Strike (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A4 | Desert-Strike (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M4A4 | Desert-Strike (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M4A4 | Desert-Strike (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:40.332Z"
+}

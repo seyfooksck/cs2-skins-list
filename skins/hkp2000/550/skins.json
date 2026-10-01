@@ -1,0 +1,310 @@
+{
+  "id": "skin-3903899a4282",
+  "name": "P2000 | Oceanic",
+  "paint_index": "550",
+  "weapon": {
+    "id": "weapon_hkp2000",
+    "weapon_id": 32,
+    "name": "P2000",
+    "slug": "hkp2000"
+  },
+  "pattern": {
+    "id": "hy_p2000_oceani",
+    "name": "Oceanic"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Accurate and controllable, the German-made P2000 is a serviceable first-round pistol that works best against unarmored opponents. It has been given a black base coat then accented with blue designs.\\n\\n<i>Has anyone heard from Kotaro or Carmen? - Felix Riley, Commanding Officer</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 4.46,
+      "max": 72.14,
+      "mean": 11.4,
+      "median": 6.63,
+      "suggested": 5.81,
+      "quantity": 32,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.41,
+      "max": 58.35,
+      "mean": 2.15,
+      "median": 0.53,
+      "suggested": 0.53,
+      "quantity": 52,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.44,
+      "max": 5.83,
+      "mean": 0.88,
+      "median": 0.62,
+      "suggested": 0.61,
+      "quantity": 161,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.37,
+      "max": 0.5,
+      "mean": 0.44,
+      "median": 0.42,
+      "suggested": 0.5,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.36,
+      "max": 3.64,
+      "mean": 0.95,
+      "median": 0.51,
+      "suggested": 0.47,
+      "quantity": 27,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P2000 | Oceanic (Factory New)",
+      "price": {
+        "min": 4.46,
+        "max": 72.14,
+        "mean": 11.4,
+        "median": 6.63,
+        "suggested": 5.81,
+        "quantity": 32,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P2000 | Oceanic (Minimal Wear)",
+      "price": {
+        "min": 0.41,
+        "max": 58.35,
+        "mean": 2.15,
+        "median": 0.53,
+        "suggested": 0.53,
+        "quantity": 52,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P2000 | Oceanic (Field-Tested)",
+      "price": {
+        "min": 0.44,
+        "max": 5.83,
+        "mean": 0.88,
+        "median": 0.62,
+        "suggested": 0.61,
+        "quantity": 161,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P2000 | Oceanic (Well-Worn)",
+      "price": {
+        "min": 0.37,
+        "max": 0.5,
+        "mean": 0.44,
+        "median": 0.42,
+        "suggested": 0.5,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P2000 | Oceanic (Battle-Scarred)",
+      "price": {
+        "min": 0.36,
+        "max": 3.64,
+        "mean": 0.95,
+        "median": 0.51,
+        "suggested": 0.47,
+        "quantity": 27,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P2000 | Oceanic (Factory New)",
+        "price": {
+          "min": 4.46,
+          "max": 72.14,
+          "mean": 11.4,
+          "median": 6.63,
+          "suggested": 5.81,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P2000 | Oceanic (Minimal Wear)",
+        "price": {
+          "min": 0.41,
+          "max": 58.35,
+          "mean": 2.15,
+          "median": 0.53,
+          "suggested": 0.53,
+          "quantity": 52,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P2000 | Oceanic (Field-Tested)",
+        "price": {
+          "min": 0.44,
+          "max": 5.83,
+          "mean": 0.88,
+          "median": 0.62,
+          "suggested": 0.61,
+          "quantity": 161,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P2000 | Oceanic (Well-Worn)",
+        "price": {
+          "min": 0.37,
+          "max": 0.5,
+          "mean": 0.44,
+          "median": 0.42,
+          "suggested": 0.5,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P2000 | Oceanic (Battle-Scarred)",
+        "price": {
+          "min": 0.36,
+          "max": 3.64,
+          "mean": 0.95,
+          "median": 0.51,
+          "suggested": 0.47,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P2000 | Oceanic (Factory New)",
+        "price": {
+          "min": 1.52,
+          "max": 36.93,
+          "mean": 6.94,
+          "median": 2.09,
+          "suggested": 1.88,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P2000 | Oceanic (Minimal Wear)",
+        "price": {
+          "min": 0.5,
+          "max": 5.48,
+          "mean": 1.42,
+          "median": 0.93,
+          "suggested": 0.67,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P2000 | Oceanic (Field-Tested)",
+        "price": {
+          "min": 0.34,
+          "max": 23.34,
+          "mean": 2.09,
+          "median": 0.44,
+          "suggested": 0.45,
+          "quantity": 43,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ P2000 | Oceanic (Well-Worn)",
+        "price": {
+          "min": 0.36,
+          "max": 10.49,
+          "mean": 1.12,
+          "median": 0.57,
+          "suggested": 0.48,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ P2000 | Oceanic (Battle-Scarred)",
+        "price": {
+          "min": 0.33,
+          "max": 2.47,
+          "mean": 0.9,
+          "median": 0.63,
+          "suggested": 0.42,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P2000 | Oceanic (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P2000 | Oceanic (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P2000 | Oceanic (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P2000 | Oceanic (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P2000 | Oceanic (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:32.656Z"
+}

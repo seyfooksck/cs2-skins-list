@@ -1,0 +1,129 @@
+{
+  "id": "skin-da5da69785da",
+  "name": "Glock-18 | Fade",
+  "paint_index": "38",
+  "weapon": {
+    "id": "weapon_glock",
+    "weapon_id": 4,
+    "name": "Glock-18",
+    "slug": "glock"
+  },
+  "pattern": {
+    "id": "aa_fade",
+    "name": "Fade"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. It has been painted by airbrushing transparent paints that fade together over a chrome base coat.\\n\\n<i>This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1770.1,
+      "max": 3101.85,
+      "mean": 2210.56,
+      "median": 2105.31,
+      "suggested": 2067.16,
+      "quantity": 18,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1926.22,
+      "max": 1945.38,
+      "mean": 1935.8,
+      "median": 1935.8,
+      "suggested": 2313.61,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Glock-18 | Fade (Factory New)",
+      "price": {
+        "min": 1770.1,
+        "max": 3101.85,
+        "mean": 2210.56,
+        "median": 2105.31,
+        "suggested": 2067.16,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Glock-18 | Fade (Minimal Wear)",
+      "price": {
+        "min": 1926.22,
+        "max": 1945.38,
+        "mean": 1935.8,
+        "median": 1935.8,
+        "suggested": 2313.61,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Glock-18 | Fade (Factory New)",
+        "price": {
+          "min": 1770.1,
+          "max": 3101.85,
+          "mean": 2210.56,
+          "median": 2105.31,
+          "suggested": 2067.16,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Glock-18 | Fade (Minimal Wear)",
+        "price": {
+          "min": 1926.22,
+          "max": 1945.38,
+          "mean": 1935.8,
+          "median": 1935.8,
+          "suggested": 2313.61,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Glock-18 | Fade (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Glock-18 | Fade (Minimal Wear)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:31.445Z"
+}

@@ -1,0 +1,249 @@
+{
+  "id": "skin-3190df4f462d",
+  "name": "Negev | Phoenix Stencil",
+  "paint_index": "1012",
+  "weapon": {
+    "id": "weapon_negev",
+    "weapon_id": 28,
+    "name": "Negev",
+    "slug": "negev"
+  },
+  "pattern": {
+    "id": "hy_phoenix_tags_red",
+    "name": "Phoenix Stencil"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.65,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. A multicolored pattern of various Phoenix Connexion graffiti has been applied.\\n\\n<i>\\\"We cannot be killed!\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 25.42,
+      "max": 48.22,
+      "mean": 35.3,
+      "median": 34.24,
+      "suggested": 30.26,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 23.11,
+      "max": 1395.66,
+      "mean": 276.84,
+      "median": 48.64,
+      "suggested": 25.01,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 17.24,
+      "max": 1144.18,
+      "mean": 161.35,
+      "median": 21.95,
+      "suggested": 19.55,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 17.62,
+      "max": 17.62,
+      "mean": 17.62,
+      "median": 17.62,
+      "suggested": 17.57,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 16.34,
+      "max": 16.34,
+      "mean": 16.34,
+      "median": 16.34,
+      "suggested": 22.25,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Negev | Phoenix Stencil (Factory New)",
+      "price": {
+        "min": 25.42,
+        "max": 48.22,
+        "mean": 35.3,
+        "median": 34.24,
+        "suggested": 30.26,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Negev | Phoenix Stencil (Minimal Wear)",
+      "price": {
+        "min": 23.11,
+        "max": 1395.66,
+        "mean": 276.84,
+        "median": 48.64,
+        "suggested": 25.01,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Negev | Phoenix Stencil (Field-Tested)",
+      "price": {
+        "min": 17.24,
+        "max": 1144.18,
+        "mean": 161.35,
+        "median": 21.95,
+        "suggested": 19.55,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Negev | Phoenix Stencil (Well-Worn)",
+      "price": {
+        "min": 17.62,
+        "max": 17.62,
+        "mean": 17.62,
+        "median": 17.62,
+        "suggested": 17.57,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Negev | Phoenix Stencil (Battle-Scarred)",
+      "price": {
+        "min": 16.34,
+        "max": 16.34,
+        "mean": 16.34,
+        "median": 16.34,
+        "suggested": 22.25,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Negev | Phoenix Stencil (Factory New)",
+        "price": {
+          "min": 25.42,
+          "max": 48.22,
+          "mean": 35.3,
+          "median": 34.24,
+          "suggested": 30.26,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Negev | Phoenix Stencil (Minimal Wear)",
+        "price": {
+          "min": 23.11,
+          "max": 1395.66,
+          "mean": 276.84,
+          "median": 48.64,
+          "suggested": 25.01,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Negev | Phoenix Stencil (Field-Tested)",
+        "price": {
+          "min": 17.24,
+          "max": 1144.18,
+          "mean": 161.35,
+          "median": 21.95,
+          "suggested": 19.55,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Negev | Phoenix Stencil (Well-Worn)",
+        "price": {
+          "min": 17.62,
+          "max": 17.62,
+          "mean": 17.62,
+          "median": 17.62,
+          "suggested": 17.57,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Negev | Phoenix Stencil (Battle-Scarred)",
+        "price": {
+          "min": 16.34,
+          "max": 16.34,
+          "mean": 16.34,
+          "median": 16.34,
+          "suggested": 22.25,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Negev | Phoenix Stencil (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Negev | Phoenix Stencil (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Negev | Phoenix Stencil (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Negev | Phoenix Stencil (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Negev | Phoenix Stencil (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.220Z"
+}

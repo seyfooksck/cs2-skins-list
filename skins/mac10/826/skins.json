@@ -1,0 +1,289 @@
+{
+  "id": "skin-62d86c75d355",
+  "name": "MAC-10 | Sienna Damask",
+  "paint_index": "826",
+  "weapon": {
+    "id": "weapon_mac10",
+    "weapon_id": 17,
+    "name": "MAC-10",
+    "slug": "mac10"
+  },
+  "pattern": {
+    "id": "sp_mirage_flowers_tan",
+    "name": "Sienna Damask"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. A damask flower pattern has been spray-painted atop the weapon's tan-colored base.\\n\\n<i>Technically the best camouflages are the ones you don't notice...</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.9,
+      "max": 166.29,
+      "mean": 10.25,
+      "median": 1.62,
+      "suggested": 1.22,
+      "quantity": 64,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.28,
+      "max": 5.83,
+      "mean": 1.54,
+      "median": 1.07,
+      "suggested": 0.3,
+      "quantity": 32,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.11,
+      "max": 10.72,
+      "mean": 1.88,
+      "median": 0.93,
+      "suggested": 0.15,
+      "quantity": 81,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.48,
+      "max": 1.17,
+      "mean": 0.85,
+      "median": 0.88,
+      "suggested": 0.36,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.22,
+      "max": 1.02,
+      "mean": 0.67,
+      "median": 0.75,
+      "suggested": 0.27,
+      "quantity": 18,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAC-10 | Sienna Damask (Factory New)",
+      "price": {
+        "min": 0.9,
+        "max": 166.29,
+        "mean": 10.25,
+        "median": 1.62,
+        "suggested": 1.22,
+        "quantity": 64,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAC-10 | Sienna Damask (Minimal Wear)",
+      "price": {
+        "min": 0.28,
+        "max": 5.83,
+        "mean": 1.54,
+        "median": 1.07,
+        "suggested": 0.3,
+        "quantity": 32,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAC-10 | Sienna Damask (Field-Tested)",
+      "price": {
+        "min": 0.11,
+        "max": 10.72,
+        "mean": 1.88,
+        "median": 0.93,
+        "suggested": 0.15,
+        "quantity": 81,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAC-10 | Sienna Damask (Well-Worn)",
+      "price": {
+        "min": 0.48,
+        "max": 1.17,
+        "mean": 0.85,
+        "median": 0.88,
+        "suggested": 0.36,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAC-10 | Sienna Damask (Battle-Scarred)",
+      "price": {
+        "min": 0.22,
+        "max": 1.02,
+        "mean": 0.67,
+        "median": 0.75,
+        "suggested": 0.27,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAC-10 | Sienna Damask (Factory New)",
+        "price": {
+          "min": 0.9,
+          "max": 166.29,
+          "mean": 10.25,
+          "median": 1.62,
+          "suggested": 1.22,
+          "quantity": 64,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAC-10 | Sienna Damask (Minimal Wear)",
+        "price": {
+          "min": 0.28,
+          "max": 5.83,
+          "mean": 1.54,
+          "median": 1.07,
+          "suggested": 0.3,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAC-10 | Sienna Damask (Field-Tested)",
+        "price": {
+          "min": 0.11,
+          "max": 10.72,
+          "mean": 1.88,
+          "median": 0.93,
+          "suggested": 0.15,
+          "quantity": 81,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAC-10 | Sienna Damask (Well-Worn)",
+        "price": {
+          "min": 0.48,
+          "max": 1.17,
+          "mean": 0.85,
+          "median": 0.88,
+          "suggested": 0.36,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MAC-10 | Sienna Damask (Battle-Scarred)",
+        "price": {
+          "min": 0.22,
+          "max": 1.02,
+          "mean": 0.67,
+          "median": 0.75,
+          "suggested": 0.27,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAC-10 | Sienna Damask (Factory New)",
+        "price": {
+          "min": 0.23,
+          "max": 39.94,
+          "mean": 9.95,
+          "median": 12.11,
+          "suggested": 0.29,
+          "quantity": 165,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAC-10 | Sienna Damask (Minimal Wear)",
+        "price": {
+          "min": 0.09,
+          "max": 35,
+          "mean": 3.41,
+          "median": 2.33,
+          "suggested": 0.13,
+          "quantity": 589,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAC-10 | Sienna Damask (Field-Tested)",
+        "price": {
+          "min": 0.06,
+          "max": 20.67,
+          "mean": 2.77,
+          "median": 0.58,
+          "suggested": 0.07,
+          "quantity": 2077,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAC-10 | Sienna Damask (Well-Worn)",
+        "price": {
+          "min": 0.06,
+          "max": 20.48,
+          "mean": 4.15,
+          "median": 3.86,
+          "suggested": 0.07,
+          "quantity": 96,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAC-10 | Sienna Damask (Battle-Scarred)",
+        "price": {
+          "min": 0.06,
+          "max": 19.24,
+          "mean": 4.35,
+          "median": 4.36,
+          "suggested": 0.07,
+          "quantity": 194,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.081Z"
+}

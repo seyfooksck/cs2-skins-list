@@ -1,0 +1,137 @@
+{
+  "id": "skin-a07dad6154a3",
+  "name": "★ Gut Knife | Doppler",
+  "paint_index": "420",
+  "weapon": {
+    "id": "weapon_knife_gut",
+    "weapon_id": 506,
+    "name": "Gut Knife",
+    "slug": "knife_gut"
+  },
+  "pattern": {
+    "id": "am_doppler_phase3",
+    "name": "Doppler"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The most notable feature of a gut knife is the gut hook on the spine of the blade.  Originally popularized as an aid for field dressing game, the gut hook is also effective at  cutting through fibrous materials like rope, webbing, or safety belts with ease. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 594.92,
+      "max": 1088.75,
+      "mean": 775.29,
+      "median": 708.74,
+      "suggested": 579.11,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 292.06,
+      "max": 292.06,
+      "mean": 292.06,
+      "median": 292.06,
+      "suggested": 135.77,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Gut Knife | Doppler (Factory New)",
+      "price": {
+        "min": 594.92,
+        "max": 1088.75,
+        "mean": 775.29,
+        "median": 708.74,
+        "suggested": 579.11,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Gut Knife | Doppler (Minimal Wear)",
+      "price": {
+        "min": 292.06,
+        "max": 292.06,
+        "mean": 292.06,
+        "median": 292.06,
+        "suggested": 135.77,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Gut Knife | Doppler (Factory New)",
+        "price": {
+          "min": 594.92,
+          "max": 1088.75,
+          "mean": 775.29,
+          "median": 708.74,
+          "suggested": 579.11,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Gut Knife | Doppler (Minimal Wear)",
+        "price": {
+          "min": 292.06,
+          "max": 292.06,
+          "mean": 292.06,
+          "median": 292.06,
+          "suggested": 135.77,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Gut Knife | Doppler (Factory New)",
+        "price": {
+          "min": 227.28,
+          "max": 227.28,
+          "mean": 227.28,
+          "median": 227.28,
+          "suggested": 146.95,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Gut Knife | Doppler (Minimal Wear)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:34.943Z"
+}

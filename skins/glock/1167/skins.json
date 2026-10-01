@@ -1,0 +1,310 @@
+{
+  "id": "skin-2c04c0201892",
+  "name": "Glock-18 | Block-18",
+  "paint_index": "1167",
+  "weapon": {
+    "id": "weapon_glock",
+    "weapon_id": 4,
+    "name": "Glock-18",
+    "slug": "glock"
+  },
+  "pattern": {
+    "id": "glock_brick_mondrian",
+    "name": "Block-18"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.671875,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. It has been custom painted to section the weapon off into colored blocks.\\n\\n<i>Blocked and loaded</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.5,
+      "max": 133.5,
+      "mean": 6.55,
+      "median": 3.21,
+      "suggested": 3.01,
+      "quantity": 212,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.02,
+      "max": 51.35,
+      "mean": 1.75,
+      "median": 1.12,
+      "suggested": 1.26,
+      "quantity": 361,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.39,
+      "max": 120.78,
+      "mean": 0.91,
+      "median": 0.65,
+      "suggested": 0.65,
+      "quantity": 1425,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.49,
+      "max": 1.54,
+      "mean": 0.82,
+      "median": 0.82,
+      "suggested": 0.67,
+      "quantity": 83,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.48,
+      "max": 19.84,
+      "mean": 0.88,
+      "median": 0.58,
+      "suggested": 0.67,
+      "quantity": 135,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Glock-18 | Block-18 (Factory New)",
+      "price": {
+        "min": 2.5,
+        "max": 133.5,
+        "mean": 6.55,
+        "median": 3.21,
+        "suggested": 3.01,
+        "quantity": 212,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Glock-18 | Block-18 (Minimal Wear)",
+      "price": {
+        "min": 1.02,
+        "max": 51.35,
+        "mean": 1.75,
+        "median": 1.12,
+        "suggested": 1.26,
+        "quantity": 361,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Glock-18 | Block-18 (Field-Tested)",
+      "price": {
+        "min": 0.39,
+        "max": 120.78,
+        "mean": 0.91,
+        "median": 0.65,
+        "suggested": 0.65,
+        "quantity": 1425,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Glock-18 | Block-18 (Well-Worn)",
+      "price": {
+        "min": 0.49,
+        "max": 1.54,
+        "mean": 0.82,
+        "median": 0.82,
+        "suggested": 0.67,
+        "quantity": 83,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Glock-18 | Block-18 (Battle-Scarred)",
+      "price": {
+        "min": 0.48,
+        "max": 19.84,
+        "mean": 0.88,
+        "median": 0.58,
+        "suggested": 0.67,
+        "quantity": 135,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Glock-18 | Block-18 (Factory New)",
+        "price": {
+          "min": 2.5,
+          "max": 133.5,
+          "mean": 6.55,
+          "median": 3.21,
+          "suggested": 3.01,
+          "quantity": 212,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Glock-18 | Block-18 (Minimal Wear)",
+        "price": {
+          "min": 1.02,
+          "max": 51.35,
+          "mean": 1.75,
+          "median": 1.12,
+          "suggested": 1.26,
+          "quantity": 361,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Glock-18 | Block-18 (Field-Tested)",
+        "price": {
+          "min": 0.39,
+          "max": 120.78,
+          "mean": 0.91,
+          "median": 0.65,
+          "suggested": 0.65,
+          "quantity": 1425,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Glock-18 | Block-18 (Well-Worn)",
+        "price": {
+          "min": 0.49,
+          "max": 1.54,
+          "mean": 0.82,
+          "median": 0.82,
+          "suggested": 0.67,
+          "quantity": 83,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Glock-18 | Block-18 (Battle-Scarred)",
+        "price": {
+          "min": 0.48,
+          "max": 19.84,
+          "mean": 0.88,
+          "median": 0.58,
+          "suggested": 0.67,
+          "quantity": 135,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Glock-18 | Block-18 (Factory New)",
+        "price": {
+          "min": 5.62,
+          "max": 40.84,
+          "mean": 9.49,
+          "median": 6.92,
+          "suggested": 6.75,
+          "quantity": 61,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Glock-18 | Block-18 (Minimal Wear)",
+        "price": {
+          "min": 2.72,
+          "max": 8.18,
+          "mean": 3.43,
+          "median": 3.16,
+          "suggested": 3.46,
+          "quantity": 72,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Glock-18 | Block-18 (Field-Tested)",
+        "price": {
+          "min": 1.16,
+          "max": 839.8,
+          "mean": 4.61,
+          "median": 1.68,
+          "suggested": 1.5,
+          "quantity": 322,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Glock-18 | Block-18 (Well-Worn)",
+        "price": {
+          "min": 1.35,
+          "max": 3.14,
+          "mean": 1.9,
+          "median": 1.63,
+          "suggested": 1.57,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Glock-18 | Block-18 (Battle-Scarred)",
+        "price": {
+          "min": 1.14,
+          "max": 2.53,
+          "mean": 1.53,
+          "median": 1.35,
+          "suggested": 1.45,
+          "quantity": 35,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Glock-18 | Block-18 (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Glock-18 | Block-18 (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Glock-18 | Block-18 (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Glock-18 | Block-18 (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Glock-18 | Block-18 (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:31.912Z"
+}

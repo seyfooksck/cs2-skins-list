@@ -1,0 +1,310 @@
+{
+  "id": "skin-df49957ef56b",
+  "name": "MP7 | Cirrus",
+  "paint_index": "627",
+  "weapon": {
+    "id": "weapon_mp7",
+    "weapon_id": 33,
+    "name": "MP7",
+    "slug": "mp7"
+  },
+  "pattern": {
+    "id": "gs_final_pooldeadv2",
+    "name": "Cirrus"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.75,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been painted metallic blue and given a skull decal.\\n\\n<i>Get your head out of the clouds</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 15.24,
+      "max": 169.09,
+      "mean": 33.29,
+      "median": 24.87,
+      "suggested": 24.77,
+      "quantity": 69,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 3.5,
+      "max": 127.2,
+      "mean": 8.92,
+      "median": 4.95,
+      "suggested": 4.85,
+      "quantity": 34,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.95,
+      "max": 25.67,
+      "mean": 1.65,
+      "median": 1.07,
+      "suggested": 1.31,
+      "quantity": 395,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.91,
+      "max": 52.51,
+      "mean": 2.68,
+      "median": 1.13,
+      "suggested": 1.22,
+      "quantity": 35,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.76,
+      "max": 120.19,
+      "mean": 5.86,
+      "median": 0.92,
+      "suggested": 0.95,
+      "quantity": 39,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP7 | Cirrus (Factory New)",
+      "price": {
+        "min": 15.24,
+        "max": 169.09,
+        "mean": 33.29,
+        "median": 24.87,
+        "suggested": 24.77,
+        "quantity": 69,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP7 | Cirrus (Minimal Wear)",
+      "price": {
+        "min": 3.5,
+        "max": 127.2,
+        "mean": 8.92,
+        "median": 4.95,
+        "suggested": 4.85,
+        "quantity": 34,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP7 | Cirrus (Field-Tested)",
+      "price": {
+        "min": 0.95,
+        "max": 25.67,
+        "mean": 1.65,
+        "median": 1.07,
+        "suggested": 1.31,
+        "quantity": 395,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP7 | Cirrus (Well-Worn)",
+      "price": {
+        "min": 0.91,
+        "max": 52.51,
+        "mean": 2.68,
+        "median": 1.13,
+        "suggested": 1.22,
+        "quantity": 35,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP7 | Cirrus (Battle-Scarred)",
+      "price": {
+        "min": 0.76,
+        "max": 120.19,
+        "mean": 5.86,
+        "median": 0.92,
+        "suggested": 0.95,
+        "quantity": 39,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP7 | Cirrus (Factory New)",
+        "price": {
+          "min": 15.24,
+          "max": 169.09,
+          "mean": 33.29,
+          "median": 24.87,
+          "suggested": 24.77,
+          "quantity": 69,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP7 | Cirrus (Minimal Wear)",
+        "price": {
+          "min": 3.5,
+          "max": 127.2,
+          "mean": 8.92,
+          "median": 4.95,
+          "suggested": 4.85,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP7 | Cirrus (Field-Tested)",
+        "price": {
+          "min": 0.95,
+          "max": 25.67,
+          "mean": 1.65,
+          "median": 1.07,
+          "suggested": 1.31,
+          "quantity": 395,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP7 | Cirrus (Well-Worn)",
+        "price": {
+          "min": 0.91,
+          "max": 52.51,
+          "mean": 2.68,
+          "median": 1.13,
+          "suggested": 1.22,
+          "quantity": 35,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP7 | Cirrus (Battle-Scarred)",
+        "price": {
+          "min": 0.76,
+          "max": 120.19,
+          "mean": 5.86,
+          "median": 0.92,
+          "suggested": 0.95,
+          "quantity": 39,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MP7 | Cirrus (Factory New)",
+        "price": {
+          "min": 7.46,
+          "max": 21,
+          "mean": 13.97,
+          "median": 16.17,
+          "suggested": 9.26,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MP7 | Cirrus (Minimal Wear)",
+        "price": {
+          "min": 3.31,
+          "max": 29.17,
+          "mean": 8.03,
+          "median": 7.25,
+          "suggested": 4.17,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MP7 | Cirrus (Field-Tested)",
+        "price": {
+          "min": 1.28,
+          "max": 13.42,
+          "mean": 2.75,
+          "median": 1.56,
+          "suggested": 1.72,
+          "quantity": 54,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MP7 | Cirrus (Well-Worn)",
+        "price": {
+          "min": 1.35,
+          "max": 6.78,
+          "mean": 4.46,
+          "median": 4.13,
+          "suggested": 1.63,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MP7 | Cirrus (Battle-Scarred)",
+        "price": {
+          "min": 0.97,
+          "max": 11.67,
+          "mean": 2.22,
+          "median": 1.37,
+          "suggested": 1.27,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP7 | Cirrus (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP7 | Cirrus (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP7 | Cirrus (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP7 | Cirrus (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP7 | Cirrus (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:43.108Z"
+}

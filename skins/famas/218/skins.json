@@ -1,0 +1,258 @@
+{
+  "id": "skin-c93cab7179a8",
+  "name": "FAMAS | Hexane",
+  "paint_index": "218",
+  "weapon": {
+    "id": "weapon_famas",
+    "weapon_id": 10,
+    "name": "FAMAS",
+    "slug": "famas"
+  },
+  "pattern": {
+    "id": "hy_bluehex",
+    "name": "Hexane"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.4,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. It has been painted using a hexagon patterned hydrographic.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 19.25,
+      "max": 204.21,
+      "mean": 53.04,
+      "median": 32.27,
+      "suggested": 27.41,
+      "quantity": 20,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 3.12,
+      "max": 10.25,
+      "mean": 5.31,
+      "median": 5.1,
+      "suggested": 3.63,
+      "quantity": 22,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 3.16,
+      "max": 69.9,
+      "mean": 9.7,
+      "median": 3.98,
+      "suggested": 3.12,
+      "quantity": 31,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 5.9,
+      "max": 5.9,
+      "mean": 5.9,
+      "median": 5.9,
+      "suggested": 4.17,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "FAMAS | Hexane (Factory New)",
+      "price": {
+        "min": 19.25,
+        "max": 204.21,
+        "mean": 53.04,
+        "median": 32.27,
+        "suggested": 27.41,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "FAMAS | Hexane (Minimal Wear)",
+      "price": {
+        "min": 3.12,
+        "max": 10.25,
+        "mean": 5.31,
+        "median": 5.1,
+        "suggested": 3.63,
+        "quantity": 22,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "FAMAS | Hexane (Field-Tested)",
+      "price": {
+        "min": 3.16,
+        "max": 69.9,
+        "mean": 9.7,
+        "median": 3.98,
+        "suggested": 3.12,
+        "quantity": 31,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "FAMAS | Hexane (Well-Worn)",
+      "price": {
+        "min": 5.9,
+        "max": 5.9,
+        "mean": 5.9,
+        "median": 5.9,
+        "suggested": 4.17,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "FAMAS | Hexane (Factory New)",
+        "price": {
+          "min": 19.25,
+          "max": 204.21,
+          "mean": 53.04,
+          "median": 32.27,
+          "suggested": 27.41,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "FAMAS | Hexane (Minimal Wear)",
+        "price": {
+          "min": 3.12,
+          "max": 10.25,
+          "mean": 5.31,
+          "median": 5.1,
+          "suggested": 3.63,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "FAMAS | Hexane (Field-Tested)",
+        "price": {
+          "min": 3.16,
+          "max": 69.9,
+          "mean": 9.7,
+          "median": 3.98,
+          "suggested": 3.12,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "FAMAS | Hexane (Well-Worn)",
+        "price": {
+          "min": 5.9,
+          "max": 5.9,
+          "mean": 5.9,
+          "median": 5.9,
+          "suggested": 4.17,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ FAMAS | Hexane (Factory New)",
+        "price": {
+          "min": 8.37,
+          "max": 139.92,
+          "mean": 39.5,
+          "median": 18.25,
+          "suggested": 9.73,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ FAMAS | Hexane (Minimal Wear)",
+        "price": {
+          "min": 4.64,
+          "max": 163.86,
+          "mean": 42.76,
+          "median": 16.34,
+          "suggested": 6.26,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ FAMAS | Hexane (Field-Tested)",
+        "price": {
+          "min": 3.73,
+          "max": 647.65,
+          "mean": 72.57,
+          "median": 8.09,
+          "suggested": 4.29,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ FAMAS | Hexane (Well-Worn)",
+        "price": {
+          "min": 5.01,
+          "max": 5.01,
+          "mean": 5.01,
+          "median": 5.01,
+          "suggested": 5.4,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir FAMAS | Hexane (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir FAMAS | Hexane (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir FAMAS | Hexane (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir FAMAS | Hexane (Well-Worn)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:29.653Z"
+}

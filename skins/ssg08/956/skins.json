@@ -1,0 +1,310 @@
+{
+  "id": "skin-e5f08d307bdd",
+  "name": "SSG 08 | Fever Dream",
+  "paint_index": "956",
+  "weapon": {
+    "id": "weapon_ssg08",
+    "weapon_id": 40,
+    "name": "SSG 08",
+    "slug": "ssg08"
+  },
+  "pattern": {
+    "id": "cu_ssg08_fever_dream",
+    "name": "Fever Dream"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.72,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship. It has been custom painted with manic pink, blue, and purple drawings on a black base.\\n\\n<i>H@@HH@H@H@HA!!</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 5.94,
+      "max": 79.91,
+      "mean": 16.24,
+      "median": 9.53,
+      "suggested": 7.25,
+      "quantity": 51,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.42,
+      "max": 47.53,
+      "mean": 3.9,
+      "median": 2.54,
+      "suggested": 2.87,
+      "quantity": 104,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.97,
+      "max": 123.68,
+      "mean": 3.02,
+      "median": 1.12,
+      "suggested": 1.25,
+      "quantity": 137,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.06,
+      "max": 2.93,
+      "mean": 1.73,
+      "median": 1.62,
+      "suggested": 1.26,
+      "quantity": 33,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.88,
+      "max": 10.82,
+      "mean": 1.55,
+      "median": 1.05,
+      "suggested": 1.19,
+      "quantity": 43,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SSG 08 | Fever Dream (Factory New)",
+      "price": {
+        "min": 5.94,
+        "max": 79.91,
+        "mean": 16.24,
+        "median": 9.53,
+        "suggested": 7.25,
+        "quantity": 51,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SSG 08 | Fever Dream (Minimal Wear)",
+      "price": {
+        "min": 2.42,
+        "max": 47.53,
+        "mean": 3.9,
+        "median": 2.54,
+        "suggested": 2.87,
+        "quantity": 104,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "SSG 08 | Fever Dream (Field-Tested)",
+      "price": {
+        "min": 0.97,
+        "max": 123.68,
+        "mean": 3.02,
+        "median": 1.12,
+        "suggested": 1.25,
+        "quantity": 137,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "SSG 08 | Fever Dream (Well-Worn)",
+      "price": {
+        "min": 1.06,
+        "max": 2.93,
+        "mean": 1.73,
+        "median": 1.62,
+        "suggested": 1.26,
+        "quantity": 33,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "SSG 08 | Fever Dream (Battle-Scarred)",
+      "price": {
+        "min": 0.88,
+        "max": 10.82,
+        "mean": 1.55,
+        "median": 1.05,
+        "suggested": 1.19,
+        "quantity": 43,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SSG 08 | Fever Dream (Factory New)",
+        "price": {
+          "min": 5.94,
+          "max": 79.91,
+          "mean": 16.24,
+          "median": 9.53,
+          "suggested": 7.25,
+          "quantity": 51,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "SSG 08 | Fever Dream (Minimal Wear)",
+        "price": {
+          "min": 2.42,
+          "max": 47.53,
+          "mean": 3.9,
+          "median": 2.54,
+          "suggested": 2.87,
+          "quantity": 104,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "SSG 08 | Fever Dream (Field-Tested)",
+        "price": {
+          "min": 0.97,
+          "max": 123.68,
+          "mean": 3.02,
+          "median": 1.12,
+          "suggested": 1.25,
+          "quantity": 137,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "SSG 08 | Fever Dream (Well-Worn)",
+        "price": {
+          "min": 1.06,
+          "max": 2.93,
+          "mean": 1.73,
+          "median": 1.62,
+          "suggested": 1.26,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "SSG 08 | Fever Dream (Battle-Scarred)",
+        "price": {
+          "min": 0.88,
+          "max": 10.82,
+          "mean": 1.55,
+          "median": 1.05,
+          "suggested": 1.19,
+          "quantity": 43,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ SSG 08 | Fever Dream (Factory New)",
+        "price": {
+          "min": 11.63,
+          "max": 139.52,
+          "mean": 34.94,
+          "median": 13.7,
+          "suggested": 13.54,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ SSG 08 | Fever Dream (Minimal Wear)",
+        "price": {
+          "min": 5.79,
+          "max": 104.15,
+          "mean": 10.48,
+          "median": 7.84,
+          "suggested": 6.76,
+          "quantity": 58,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ SSG 08 | Fever Dream (Field-Tested)",
+        "price": {
+          "min": 2.39,
+          "max": 43.76,
+          "mean": 4,
+          "median": 2.64,
+          "suggested": 2.88,
+          "quantity": 51,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ SSG 08 | Fever Dream (Well-Worn)",
+        "price": {
+          "min": 4.71,
+          "max": 19.84,
+          "mean": 6.91,
+          "median": 4.95,
+          "suggested": 3.64,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ SSG 08 | Fever Dream (Battle-Scarred)",
+        "price": {
+          "min": 1.96,
+          "max": 72.14,
+          "mean": 4.34,
+          "median": 2.7,
+          "suggested": 2.51,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SSG 08 | Fever Dream (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir SSG 08 | Fever Dream (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir SSG 08 | Fever Dream (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir SSG 08 | Fever Dream (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir SSG 08 | Fever Dream (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:48.428Z"
+}

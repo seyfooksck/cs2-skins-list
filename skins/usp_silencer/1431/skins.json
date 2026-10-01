@@ -1,0 +1,318 @@
+{
+  "id": "skin-12f8829b002d",
+  "name": "USP-S | Silent Shot",
+  "paint_index": "1431",
+  "weapon": {
+    "id": "weapon_usp_silencer",
+    "weapon_id": 61,
+    "name": "USP-S",
+    "slug": "usp_silencer"
+  },
+  "pattern": {
+    "id": "usps_silent_boy",
+    "name": "Silent Shot"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise. It has been custom painted with black and blue geometric symbols and shurikens.\\n\\n<i>Exercise discretion while executing aggression</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.83,
+      "max": 291.73,
+      "mean": 6.76,
+      "median": 3.49,
+      "suggested": 2.23,
+      "quantity": 297,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.75,
+      "max": 6.41,
+      "mean": 2.18,
+      "median": 1.58,
+      "suggested": 0.85,
+      "quantity": 284,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.33,
+      "max": 15.36,
+      "mean": 1.37,
+      "median": 0.83,
+      "suggested": 0.44,
+      "quantity": 293,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.18,
+      "max": 3.5,
+      "mean": 0.78,
+      "median": 0.64,
+      "suggested": 0.28,
+      "quantity": 195,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.21,
+      "max": 44.72,
+      "mean": 1.4,
+      "median": 0.44,
+      "suggested": 0.27,
+      "quantity": 81,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "USP-S | Silent Shot (Factory New)",
+      "price": {
+        "min": 1.83,
+        "max": 291.73,
+        "mean": 6.76,
+        "median": 3.49,
+        "suggested": 2.23,
+        "quantity": 297,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "USP-S | Silent Shot (Minimal Wear)",
+      "price": {
+        "min": 0.75,
+        "max": 6.41,
+        "mean": 2.18,
+        "median": 1.58,
+        "suggested": 0.85,
+        "quantity": 284,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "USP-S | Silent Shot (Field-Tested)",
+      "price": {
+        "min": 0.33,
+        "max": 15.36,
+        "mean": 1.37,
+        "median": 0.83,
+        "suggested": 0.44,
+        "quantity": 293,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "USP-S | Silent Shot (Well-Worn)",
+      "price": {
+        "min": 0.18,
+        "max": 3.5,
+        "mean": 0.78,
+        "median": 0.64,
+        "suggested": 0.28,
+        "quantity": 195,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "USP-S | Silent Shot (Battle-Scarred)",
+      "price": {
+        "min": 0.21,
+        "max": 44.72,
+        "mean": 1.4,
+        "median": 0.44,
+        "suggested": 0.27,
+        "quantity": 81,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "USP-S | Silent Shot (Factory New)",
+        "price": {
+          "min": 1.83,
+          "max": 291.73,
+          "mean": 6.76,
+          "median": 3.49,
+          "suggested": 2.23,
+          "quantity": 297,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "USP-S | Silent Shot (Minimal Wear)",
+        "price": {
+          "min": 0.75,
+          "max": 6.41,
+          "mean": 2.18,
+          "median": 1.58,
+          "suggested": 0.85,
+          "quantity": 284,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "USP-S | Silent Shot (Field-Tested)",
+        "price": {
+          "min": 0.33,
+          "max": 15.36,
+          "mean": 1.37,
+          "median": 0.83,
+          "suggested": 0.44,
+          "quantity": 293,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "USP-S | Silent Shot (Well-Worn)",
+        "price": {
+          "min": 0.18,
+          "max": 3.5,
+          "mean": 0.78,
+          "median": 0.64,
+          "suggested": 0.28,
+          "quantity": 195,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "USP-S | Silent Shot (Battle-Scarred)",
+        "price": {
+          "min": 0.21,
+          "max": 44.72,
+          "mean": 1.4,
+          "median": 0.44,
+          "suggested": 0.27,
+          "quantity": 81,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ USP-S | Silent Shot (Factory New)",
+        "price": {
+          "min": 7.85,
+          "max": 21.45,
+          "mean": 11.31,
+          "median": 8.17,
+          "suggested": 8.42,
+          "quantity": 98,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ USP-S | Silent Shot (Minimal Wear)",
+        "price": {
+          "min": 2.65,
+          "max": 10.99,
+          "mean": 6.36,
+          "median": 7.59,
+          "suggested": 3.15,
+          "quantity": 103,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ USP-S | Silent Shot (Field-Tested)",
+        "price": {
+          "min": 2.21,
+          "max": 35.01,
+          "mean": 6.69,
+          "median": 6.48,
+          "suggested": 1.96,
+          "quantity": 43,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ USP-S | Silent Shot (Well-Worn)",
+        "price": {
+          "min": 1.05,
+          "max": 2.87,
+          "mean": 1.7,
+          "median": 1.24,
+          "suggested": 1.35,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ USP-S | Silent Shot (Battle-Scarred)",
+        "price": {
+          "min": 0.79,
+          "max": 5.83,
+          "mean": 2.63,
+          "median": 2.32,
+          "suggested": 0.98,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir USP-S | Silent Shot (Factory New)",
+        "price": {
+          "min": 75.76,
+          "max": 75.76,
+          "mean": 75.76,
+          "median": 75.76,
+          "suggested": 25.93,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir USP-S | Silent Shot (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir USP-S | Silent Shot (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir USP-S | Silent Shot (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir USP-S | Silent Shot (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:50.944Z"
+}

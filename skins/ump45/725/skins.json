@@ -1,0 +1,225 @@
+{
+  "id": "skin-5a552bf64f59",
+  "name": "UMP-45 | Day Lily",
+  "paint_index": "725",
+  "weapon": {
+    "id": "weapon_ump45",
+    "weapon_id": 24,
+    "name": "UMP-45",
+    "slug": "ump45"
+  },
+  "pattern": {
+    "id": "hy_bloom_red",
+    "name": "Day Lily"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.55,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic. A hydrographic pattern of red lilies has been applied.\\n\\n<i>While beautiful, lilies are most often associated with death</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 103.48,
+      "max": 972.93,
+      "mean": 288.53,
+      "median": 117.62,
+      "suggested": 129.32,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 84.4,
+      "max": 84.4,
+      "mean": 84.4,
+      "median": 84.4,
+      "suggested": 97.22,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 69.36,
+      "max": 150.48,
+      "mean": 99.85,
+      "median": 78.22,
+      "suggested": 77.18,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 70.02,
+      "max": 70.02,
+      "mean": 70.02,
+      "median": 70.02,
+      "suggested": 84.93,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "UMP-45 | Day Lily (Factory New)",
+      "price": {
+        "min": 103.48,
+        "max": 972.93,
+        "mean": 288.53,
+        "median": 117.62,
+        "suggested": 129.32,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "UMP-45 | Day Lily (Minimal Wear)",
+      "price": {
+        "min": 84.4,
+        "max": 84.4,
+        "mean": 84.4,
+        "median": 84.4,
+        "suggested": 97.22,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "UMP-45 | Day Lily (Field-Tested)",
+      "price": {
+        "min": 69.36,
+        "max": 150.48,
+        "mean": 99.85,
+        "median": 78.22,
+        "suggested": 77.18,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "UMP-45 | Day Lily (Well-Worn)",
+      "price": {
+        "min": 70.02,
+        "max": 70.02,
+        "mean": 70.02,
+        "median": 70.02,
+        "suggested": 84.93,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "UMP-45 | Day Lily (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "UMP-45 | Day Lily (Factory New)",
+        "price": {
+          "min": 103.48,
+          "max": 972.93,
+          "mean": 288.53,
+          "median": 117.62,
+          "suggested": 129.32,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "UMP-45 | Day Lily (Minimal Wear)",
+        "price": {
+          "min": 84.4,
+          "max": 84.4,
+          "mean": 84.4,
+          "median": 84.4,
+          "suggested": 97.22,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "UMP-45 | Day Lily (Field-Tested)",
+        "price": {
+          "min": 69.36,
+          "max": 150.48,
+          "mean": 99.85,
+          "median": 78.22,
+          "suggested": 77.18,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "UMP-45 | Day Lily (Well-Worn)",
+        "price": {
+          "min": 70.02,
+          "max": 70.02,
+          "mean": 70.02,
+          "median": 70.02,
+          "suggested": 84.93,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "UMP-45 | Day Lily (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir UMP-45 | Day Lily (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir UMP-45 | Day Lily (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir UMP-45 | Day Lily (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir UMP-45 | Day Lily (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir UMP-45 | Day Lily (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:50.017Z"
+}

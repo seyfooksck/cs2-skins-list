@@ -1,0 +1,198 @@
+{
+  "id": "skin-8ba50607cea6",
+  "name": "P250 | Splash",
+  "paint_index": "162",
+  "weapon": {
+    "id": "weapon_p250",
+    "weapon_id": 36,
+    "name": "P250",
+    "slug": "p250"
+  },
+  "pattern": {
+    "id": "sp_splash_p250",
+    "name": "Splash"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0.06,
+  "max_float": 0.18,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A low-recoil firearm with a high rate of fire, the P250 is a relatively inexpensive choice against armored opponents. It has been spray-painted and decorated using a splash-shaped stencil.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 72.54,
+      "max": 1091.98,
+      "mean": 206.69,
+      "median": 88.06,
+      "suggested": 72.77,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 20.29,
+      "max": 816.84,
+      "mean": 97.45,
+      "median": 31.59,
+      "suggested": 27.51,
+      "quantity": 22,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 20.44,
+      "max": 93.34,
+      "mean": 52.37,
+      "median": 43.33,
+      "suggested": 23.59,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P250 | Splash (Factory New)",
+      "price": {
+        "min": 72.54,
+        "max": 1091.98,
+        "mean": 206.69,
+        "median": 88.06,
+        "suggested": 72.77,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P250 | Splash (Minimal Wear)",
+      "price": {
+        "min": 20.29,
+        "max": 816.84,
+        "mean": 97.45,
+        "median": 31.59,
+        "suggested": 27.51,
+        "quantity": 22,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P250 | Splash (Field-Tested)",
+      "price": {
+        "min": 20.44,
+        "max": 93.34,
+        "mean": 52.37,
+        "median": 43.33,
+        "suggested": 23.59,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P250 | Splash (Factory New)",
+        "price": {
+          "min": 72.54,
+          "max": 1091.98,
+          "mean": 206.69,
+          "median": 88.06,
+          "suggested": 72.77,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P250 | Splash (Minimal Wear)",
+        "price": {
+          "min": 20.29,
+          "max": 816.84,
+          "mean": 97.45,
+          "median": 31.59,
+          "suggested": 27.51,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P250 | Splash (Field-Tested)",
+        "price": {
+          "min": 20.44,
+          "max": 93.34,
+          "mean": 52.37,
+          "median": 43.33,
+          "suggested": 23.59,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P250 | Splash (Factory New)",
+        "price": {
+          "min": 89.08,
+          "max": 175.04,
+          "mean": 125.42,
+          "median": 118.79,
+          "suggested": 106.47,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P250 | Splash (Minimal Wear)",
+        "price": {
+          "min": 33.01,
+          "max": 688.76,
+          "mean": 130.99,
+          "median": 69.64,
+          "suggested": 43.06,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P250 | Splash (Field-Tested)",
+        "price": null
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P250 | Splash (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P250 | Splash (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P250 | Splash (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:45.748Z"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "skin-2bcac1c42296",
+  "name": "Desert Eagle | Firebreathing",
+  "paint_index": "1430",
+  "weapon": {
+    "id": "weapon_deagle",
+    "weapon_id": 1,
+    "name": "Desert Eagle",
+    "slug": "deagle"
+  },
+  "pattern": {
+    "id": "deagle_firebreathing",
+    "name": "Firebreathing"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. It has been custom painted with purple and blue flames using pearlescent paint.\\n\\n<i>Contains exceptional qualities and abilities</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 5.44,
+      "max": 151.7,
+      "mean": 11.27,
+      "median": 7.25,
+      "suggested": 6.85,
+      "quantity": 133,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.18,
+      "max": 145.19,
+      "mean": 6.52,
+      "median": 7.38,
+      "suggested": 2.86,
+      "quantity": 179,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.2,
+      "max": 16.54,
+      "mean": 3.52,
+      "median": 4.26,
+      "suggested": 1.41,
+      "quantity": 89,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.88,
+      "max": 3.01,
+      "mean": 1.77,
+      "median": 1.34,
+      "suggested": 1.07,
+      "quantity": 48,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.86,
+      "max": 74.68,
+      "mean": 3.93,
+      "median": 1.3,
+      "suggested": 1.03,
+      "quantity": 30,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Desert Eagle | Firebreathing (Factory New)",
+      "price": {
+        "min": 5.44,
+        "max": 151.7,
+        "mean": 11.27,
+        "median": 7.25,
+        "suggested": 6.85,
+        "quantity": 133,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Desert Eagle | Firebreathing (Minimal Wear)",
+      "price": {
+        "min": 2.18,
+        "max": 145.19,
+        "mean": 6.52,
+        "median": 7.38,
+        "suggested": 2.86,
+        "quantity": 179,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Desert Eagle | Firebreathing (Field-Tested)",
+      "price": {
+        "min": 1.2,
+        "max": 16.54,
+        "mean": 3.52,
+        "median": 4.26,
+        "suggested": 1.41,
+        "quantity": 89,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Desert Eagle | Firebreathing (Well-Worn)",
+      "price": {
+        "min": 0.88,
+        "max": 3.01,
+        "mean": 1.77,
+        "median": 1.34,
+        "suggested": 1.07,
+        "quantity": 48,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Desert Eagle | Firebreathing (Battle-Scarred)",
+      "price": {
+        "min": 0.86,
+        "max": 74.68,
+        "mean": 3.93,
+        "median": 1.3,
+        "suggested": 1.03,
+        "quantity": 30,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Desert Eagle | Firebreathing (Factory New)",
+        "price": {
+          "min": 5.44,
+          "max": 151.7,
+          "mean": 11.27,
+          "median": 7.25,
+          "suggested": 6.85,
+          "quantity": 133,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Desert Eagle | Firebreathing (Minimal Wear)",
+        "price": {
+          "min": 2.18,
+          "max": 145.19,
+          "mean": 6.52,
+          "median": 7.38,
+          "suggested": 2.86,
+          "quantity": 179,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Desert Eagle | Firebreathing (Field-Tested)",
+        "price": {
+          "min": 1.2,
+          "max": 16.54,
+          "mean": 3.52,
+          "median": 4.26,
+          "suggested": 1.41,
+          "quantity": 89,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Desert Eagle | Firebreathing (Well-Worn)",
+        "price": {
+          "min": 0.88,
+          "max": 3.01,
+          "mean": 1.77,
+          "median": 1.34,
+          "suggested": 1.07,
+          "quantity": 48,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Desert Eagle | Firebreathing (Battle-Scarred)",
+        "price": {
+          "min": 0.86,
+          "max": 74.68,
+          "mean": 3.93,
+          "median": 1.3,
+          "suggested": 1.03,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Firebreathing (Factory New)",
+        "price": {
+          "min": 15.03,
+          "max": 52.5,
+          "mean": 23.62,
+          "median": 15.75,
+          "suggested": 16.66,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Firebreathing (Minimal Wear)",
+        "price": {
+          "min": 4.96,
+          "max": 47.03,
+          "mean": 11.1,
+          "median": 8.39,
+          "suggested": 5.86,
+          "quantity": 47,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Firebreathing (Field-Tested)",
+        "price": {
+          "min": 2.36,
+          "max": 9.95,
+          "mean": 4.38,
+          "median": 3.21,
+          "suggested": 3.49,
+          "quantity": 50,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Firebreathing (Well-Worn)",
+        "price": {
+          "min": 2.1,
+          "max": 6.09,
+          "mean": 4.82,
+          "median": 6.09,
+          "suggested": 2.28,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Firebreathing (Battle-Scarred)",
+        "price": {
+          "min": 1.91,
+          "max": 3.55,
+          "mean": 2.56,
+          "median": 2.43,
+          "suggested": 2.23,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Desert Eagle | Firebreathing (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Desert Eagle | Firebreathing (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Desert Eagle | Firebreathing (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Desert Eagle | Firebreathing (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Desert Eagle | Firebreathing (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:28.344Z"
+}

@@ -1,0 +1,249 @@
+{
+  "id": "skin-927dacf99b7b",
+  "name": "M249 | Predator",
+  "paint_index": "170",
+  "weapon": {
+    "id": "weapon_m249",
+    "weapon_id": 14,
+    "name": "M249",
+    "slug": "m249"
+  },
+  "pattern": {
+    "id": "sp_zebracam",
+    "name": "Predator"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A strong open-area LMG, the M249 is the perfect choice for players willing to trade a slow fire rate for increased accuracy and a high ammo capacity. It has been spray-painted in a zebra stripe pattern.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 22.17,
+      "max": 85.13,
+      "mean": 61,
+      "median": 68.34,
+      "suggested": 15.69,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.44,
+      "max": 20.95,
+      "mean": 5.4,
+      "median": 2.52,
+      "suggested": 1.86,
+      "quantity": 45,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.99,
+      "max": 9.74,
+      "mean": 3.79,
+      "median": 1.41,
+      "suggested": 1.25,
+      "quantity": 98,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.1,
+      "max": 5.82,
+      "mean": 2.32,
+      "median": 1.16,
+      "suggested": 1.06,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.83,
+      "max": 1.12,
+      "mean": 0.95,
+      "median": 0.9,
+      "suggested": 0.95,
+      "quantity": 23,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M249 | Predator (Factory New)",
+      "price": {
+        "min": 22.17,
+        "max": 85.13,
+        "mean": 61,
+        "median": 68.34,
+        "suggested": 15.69,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M249 | Predator (Minimal Wear)",
+      "price": {
+        "min": 1.44,
+        "max": 20.95,
+        "mean": 5.4,
+        "median": 2.52,
+        "suggested": 1.86,
+        "quantity": 45,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M249 | Predator (Field-Tested)",
+      "price": {
+        "min": 0.99,
+        "max": 9.74,
+        "mean": 3.79,
+        "median": 1.41,
+        "suggested": 1.25,
+        "quantity": 98,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M249 | Predator (Well-Worn)",
+      "price": {
+        "min": 1.1,
+        "max": 5.82,
+        "mean": 2.32,
+        "median": 1.16,
+        "suggested": 1.06,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M249 | Predator (Battle-Scarred)",
+      "price": {
+        "min": 0.83,
+        "max": 1.12,
+        "mean": 0.95,
+        "median": 0.9,
+        "suggested": 0.95,
+        "quantity": 23,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M249 | Predator (Factory New)",
+        "price": {
+          "min": 22.17,
+          "max": 85.13,
+          "mean": 61,
+          "median": 68.34,
+          "suggested": 15.69,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M249 | Predator (Minimal Wear)",
+        "price": {
+          "min": 1.44,
+          "max": 20.95,
+          "mean": 5.4,
+          "median": 2.52,
+          "suggested": 1.86,
+          "quantity": 45,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M249 | Predator (Field-Tested)",
+        "price": {
+          "min": 0.99,
+          "max": 9.74,
+          "mean": 3.79,
+          "median": 1.41,
+          "suggested": 1.25,
+          "quantity": 98,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M249 | Predator (Well-Worn)",
+        "price": {
+          "min": 1.1,
+          "max": 5.82,
+          "mean": 2.32,
+          "median": 1.16,
+          "suggested": 1.06,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M249 | Predator (Battle-Scarred)",
+        "price": {
+          "min": 0.83,
+          "max": 1.12,
+          "mean": 0.95,
+          "median": 0.9,
+          "suggested": 0.95,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M249 | Predator (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M249 | Predator (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M249 | Predator (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M249 | Predator (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M249 | Predator (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:40.059Z"
+}

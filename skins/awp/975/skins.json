@@ -1,0 +1,310 @@
+{
+  "id": "skin-a89bff508437",
+  "name": "AWP | Exoskeleton",
+  "paint_index": "975",
+  "weapon": {
+    "id": "weapon_awp",
+    "weapon_id": 9,
+    "name": "AWP",
+    "slug": "awp"
+  },
+  "pattern": {
+    "id": "gs_awp_exoskeleton",
+    "name": "Exoskeleton"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. The metal on this AWP has been intricately pressed with patterns of interlocking skulls.\\n\\n<i>Full tilt</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 49,
+      "max": 221.55,
+      "mean": 103.69,
+      "median": 93.78,
+      "suggested": 68.29,
+      "quantity": 59,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 10.99,
+      "max": 150.71,
+      "mean": 19.59,
+      "median": 16.47,
+      "suggested": 15.52,
+      "quantity": 78,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 5.8,
+      "max": 30.71,
+      "mean": 8.23,
+      "median": 6.64,
+      "suggested": 6.85,
+      "quantity": 126,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 4.88,
+      "max": 12.84,
+      "mean": 6.01,
+      "median": 5.29,
+      "suggested": 5.97,
+      "quantity": 19,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 4.42,
+      "max": 31.65,
+      "mean": 9.7,
+      "median": 7.54,
+      "suggested": 5.43,
+      "quantity": 40,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AWP | Exoskeleton (Factory New)",
+      "price": {
+        "min": 49,
+        "max": 221.55,
+        "mean": 103.69,
+        "median": 93.78,
+        "suggested": 68.29,
+        "quantity": 59,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AWP | Exoskeleton (Minimal Wear)",
+      "price": {
+        "min": 10.99,
+        "max": 150.71,
+        "mean": 19.59,
+        "median": 16.47,
+        "suggested": 15.52,
+        "quantity": 78,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AWP | Exoskeleton (Field-Tested)",
+      "price": {
+        "min": 5.8,
+        "max": 30.71,
+        "mean": 8.23,
+        "median": 6.64,
+        "suggested": 6.85,
+        "quantity": 126,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AWP | Exoskeleton (Well-Worn)",
+      "price": {
+        "min": 4.88,
+        "max": 12.84,
+        "mean": 6.01,
+        "median": 5.29,
+        "suggested": 5.97,
+        "quantity": 19,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AWP | Exoskeleton (Battle-Scarred)",
+      "price": {
+        "min": 4.42,
+        "max": 31.65,
+        "mean": 9.7,
+        "median": 7.54,
+        "suggested": 5.43,
+        "quantity": 40,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AWP | Exoskeleton (Factory New)",
+        "price": {
+          "min": 49,
+          "max": 221.55,
+          "mean": 103.69,
+          "median": 93.78,
+          "suggested": 68.29,
+          "quantity": 59,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AWP | Exoskeleton (Minimal Wear)",
+        "price": {
+          "min": 10.99,
+          "max": 150.71,
+          "mean": 19.59,
+          "median": 16.47,
+          "suggested": 15.52,
+          "quantity": 78,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AWP | Exoskeleton (Field-Tested)",
+        "price": {
+          "min": 5.8,
+          "max": 30.71,
+          "mean": 8.23,
+          "median": 6.64,
+          "suggested": 6.85,
+          "quantity": 126,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AWP | Exoskeleton (Well-Worn)",
+        "price": {
+          "min": 4.88,
+          "max": 12.84,
+          "mean": 6.01,
+          "median": 5.29,
+          "suggested": 5.97,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AWP | Exoskeleton (Battle-Scarred)",
+        "price": {
+          "min": 4.42,
+          "max": 31.65,
+          "mean": 9.7,
+          "median": 7.54,
+          "suggested": 5.43,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AWP | Exoskeleton (Factory New)",
+        "price": {
+          "min": 38.22,
+          "max": 392.45,
+          "mean": 76.9,
+          "median": 65.84,
+          "suggested": 48.79,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AWP | Exoskeleton (Minimal Wear)",
+        "price": {
+          "min": 15.71,
+          "max": 46.67,
+          "mean": 25.01,
+          "median": 23.04,
+          "suggested": 19.27,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AWP | Exoskeleton (Field-Tested)",
+        "price": {
+          "min": 8.32,
+          "max": 113.94,
+          "mean": 19.95,
+          "median": 12.84,
+          "suggested": 10.68,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AWP | Exoskeleton (Well-Worn)",
+        "price": {
+          "min": 8.82,
+          "max": 512.08,
+          "mean": 47.09,
+          "median": 10.98,
+          "suggested": 9.54,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ AWP | Exoskeleton (Battle-Scarred)",
+        "price": {
+          "min": 9.3,
+          "max": 26.83,
+          "mean": 14.4,
+          "median": 12.5,
+          "suggested": 9.82,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AWP | Exoskeleton (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AWP | Exoskeleton (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AWP | Exoskeleton (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AWP | Exoskeleton (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AWP | Exoskeleton (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:26.175Z"
+}

@@ -1,0 +1,289 @@
+{
+  "id": "skin-7976ca00d006",
+  "name": "Glock-18 | Green Line",
+  "paint_index": "1200",
+  "weapon": {
+    "id": "weapon_glock",
+    "weapon_id": 4,
+    "name": "Glock-18",
+    "slug": "glock"
+  },
+  "pattern": {
+    "id": "glock_train_green",
+    "name": "Green Line"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. A green train car found outside Train's A site has been custom painted on the slide.\\n\\n<i>\\\"Next stop, Train Yard—doors on your right\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 14.33,
+      "max": 101.48,
+      "mean": 28.51,
+      "median": 24.45,
+      "suggested": 24.2,
+      "quantity": 94,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.77,
+      "max": 83.44,
+      "mean": 8.41,
+      "median": 4.13,
+      "suggested": 1.95,
+      "quantity": 156,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.46,
+      "max": 12.84,
+      "mean": 1.58,
+      "median": 1.49,
+      "suggested": 0.58,
+      "quantity": 159,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.29,
+      "max": 17.18,
+      "mean": 2.99,
+      "median": 1.12,
+      "suggested": 0.39,
+      "quantity": 99,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.26,
+      "max": 23.92,
+      "mean": 3.49,
+      "median": 0.79,
+      "suggested": 0.3,
+      "quantity": 78,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Glock-18 | Green Line (Factory New)",
+      "price": {
+        "min": 14.33,
+        "max": 101.48,
+        "mean": 28.51,
+        "median": 24.45,
+        "suggested": 24.2,
+        "quantity": 94,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Glock-18 | Green Line (Minimal Wear)",
+      "price": {
+        "min": 1.77,
+        "max": 83.44,
+        "mean": 8.41,
+        "median": 4.13,
+        "suggested": 1.95,
+        "quantity": 156,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Glock-18 | Green Line (Field-Tested)",
+      "price": {
+        "min": 0.46,
+        "max": 12.84,
+        "mean": 1.58,
+        "median": 1.49,
+        "suggested": 0.58,
+        "quantity": 159,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Glock-18 | Green Line (Well-Worn)",
+      "price": {
+        "min": 0.29,
+        "max": 17.18,
+        "mean": 2.99,
+        "median": 1.12,
+        "suggested": 0.39,
+        "quantity": 99,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Glock-18 | Green Line (Battle-Scarred)",
+      "price": {
+        "min": 0.26,
+        "max": 23.92,
+        "mean": 3.49,
+        "median": 0.79,
+        "suggested": 0.3,
+        "quantity": 78,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Glock-18 | Green Line (Factory New)",
+        "price": {
+          "min": 14.33,
+          "max": 101.48,
+          "mean": 28.51,
+          "median": 24.45,
+          "suggested": 24.2,
+          "quantity": 94,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Glock-18 | Green Line (Minimal Wear)",
+        "price": {
+          "min": 1.77,
+          "max": 83.44,
+          "mean": 8.41,
+          "median": 4.13,
+          "suggested": 1.95,
+          "quantity": 156,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Glock-18 | Green Line (Field-Tested)",
+        "price": {
+          "min": 0.46,
+          "max": 12.84,
+          "mean": 1.58,
+          "median": 1.49,
+          "suggested": 0.58,
+          "quantity": 159,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Glock-18 | Green Line (Well-Worn)",
+        "price": {
+          "min": 0.29,
+          "max": 17.18,
+          "mean": 2.99,
+          "median": 1.12,
+          "suggested": 0.39,
+          "quantity": 99,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Glock-18 | Green Line (Battle-Scarred)",
+        "price": {
+          "min": 0.26,
+          "max": 23.92,
+          "mean": 3.49,
+          "median": 0.79,
+          "suggested": 0.3,
+          "quantity": 78,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Glock-18 | Green Line (Factory New)",
+        "price": {
+          "min": 24.62,
+          "max": 75.76,
+          "mean": 35.47,
+          "median": 24.67,
+          "suggested": 24.72,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Glock-18 | Green Line (Minimal Wear)",
+        "price": {
+          "min": 3.66,
+          "max": 6.99,
+          "mean": 4.77,
+          "median": 3.66,
+          "suggested": 2.77,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Glock-18 | Green Line (Field-Tested)",
+        "price": {
+          "min": 1.45,
+          "max": 14,
+          "mean": 3.28,
+          "median": 1.88,
+          "suggested": 1.08,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Glock-18 | Green Line (Well-Worn)",
+        "price": {
+          "min": 0.55,
+          "max": 0.58,
+          "mean": 0.57,
+          "median": 0.57,
+          "suggested": 0.66,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Glock-18 | Green Line (Battle-Scarred)",
+        "price": {
+          "min": 0.6,
+          "max": 0.6,
+          "mean": 0.6,
+          "median": 0.6,
+          "suggested": 0.69,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:32.005Z"
+}

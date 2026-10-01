@@ -1,0 +1,289 @@
+{
+  "id": "skin-38eda175bd2a",
+  "name": "Nova | Quick Sand",
+  "paint_index": "929",
+  "weapon": {
+    "id": "weapon_nova",
+    "weapon_id": 35,
+    "name": "Nova",
+    "slug": "nova"
+  },
+  "pattern": {
+    "id": "hy_torn_camo_paints",
+    "name": "Quick Sand"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Nova's rock-bottom price tag makes it a great ambush weapon for a cash-strapped team. A tan and blue hydrographic pattern has been applied to the stock and receiver. The barrel has been painted dark blue.\\n\\n<i>\\\"A welcome sight\\\" would be putting it lightly</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 7.11,
+      "max": 116.69,
+      "mean": 40.94,
+      "median": 26.91,
+      "suggested": 7.97,
+      "quantity": 26,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 7.28,
+      "max": 28.01,
+      "mean": 17.64,
+      "median": 17.64,
+      "suggested": 6.17,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 11.13,
+      "max": 27.55,
+      "mean": 19.72,
+      "median": 20.28,
+      "suggested": 4.35,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 4.78,
+      "max": 24.8,
+      "mean": 14.8,
+      "median": 14.8,
+      "suggested": 3.7,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 11.67,
+      "max": 23.19,
+      "mean": 17.84,
+      "median": 18.67,
+      "suggested": 3.64,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Nova | Quick Sand (Factory New)",
+      "price": {
+        "min": 7.11,
+        "max": 116.69,
+        "mean": 40.94,
+        "median": 26.91,
+        "suggested": 7.97,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Nova | Quick Sand (Minimal Wear)",
+      "price": {
+        "min": 7.28,
+        "max": 28.01,
+        "mean": 17.64,
+        "median": 17.64,
+        "suggested": 6.17,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Nova | Quick Sand (Field-Tested)",
+      "price": {
+        "min": 11.13,
+        "max": 27.55,
+        "mean": 19.72,
+        "median": 20.28,
+        "suggested": 4.35,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Nova | Quick Sand (Well-Worn)",
+      "price": {
+        "min": 4.78,
+        "max": 24.8,
+        "mean": 14.8,
+        "median": 14.8,
+        "suggested": 3.7,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Nova | Quick Sand (Battle-Scarred)",
+      "price": {
+        "min": 11.67,
+        "max": 23.19,
+        "mean": 17.84,
+        "median": 18.67,
+        "suggested": 3.64,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Nova | Quick Sand (Factory New)",
+        "price": {
+          "min": 7.11,
+          "max": 116.69,
+          "mean": 40.94,
+          "median": 26.91,
+          "suggested": 7.97,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Nova | Quick Sand (Minimal Wear)",
+        "price": {
+          "min": 7.28,
+          "max": 28.01,
+          "mean": 17.64,
+          "median": 17.64,
+          "suggested": 6.17,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Nova | Quick Sand (Field-Tested)",
+        "price": {
+          "min": 11.13,
+          "max": 27.55,
+          "mean": 19.72,
+          "median": 20.28,
+          "suggested": 4.35,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Nova | Quick Sand (Well-Worn)",
+        "price": {
+          "min": 4.78,
+          "max": 24.8,
+          "mean": 14.8,
+          "median": 14.8,
+          "suggested": 3.7,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Nova | Quick Sand (Battle-Scarred)",
+        "price": {
+          "min": 11.67,
+          "max": 23.19,
+          "mean": 17.84,
+          "median": 18.67,
+          "suggested": 3.64,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Nova | Quick Sand (Factory New)",
+        "price": {
+          "min": 7,
+          "max": 22.53,
+          "mean": 10.89,
+          "median": 9.27,
+          "suggested": 7.32,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Nova | Quick Sand (Minimal Wear)",
+        "price": {
+          "min": 6.31,
+          "max": 20.48,
+          "mean": 10.09,
+          "median": 8.47,
+          "suggested": 6.08,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Nova | Quick Sand (Field-Tested)",
+        "price": {
+          "min": 4,
+          "max": 5.81,
+          "mean": 4.52,
+          "median": 4.55,
+          "suggested": 3.24,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Nova | Quick Sand (Well-Worn)",
+        "price": {
+          "min": 3.37,
+          "max": 3.37,
+          "mean": 3.37,
+          "median": 3.37,
+          "suggested": 3.3,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Nova | Quick Sand (Battle-Scarred)",
+        "price": {
+          "min": 2.66,
+          "max": 39.94,
+          "mean": 23.88,
+          "median": 39.94,
+          "suggested": 3.1,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.677Z"
+}

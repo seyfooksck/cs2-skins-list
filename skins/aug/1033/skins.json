@@ -1,0 +1,193 @@
+{
+  "id": "skin-07b30f648b35",
+  "name": "AUG | Carved Jade",
+  "paint_index": "1033",
+  "weapon": {
+    "id": "weapon_aug",
+    "weapon_id": 8,
+    "name": "AUG",
+    "slug": "aug"
+  },
+  "pattern": {
+    "id": "am_jade",
+    "name": "Carved Jade"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.2,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire. It has been painted with a chrome base coat and candied in transparent jade-green anodized effect paint.\\n\\n<i>The finest of the finer things</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 42.01,
+      "max": 328.43,
+      "mean": 98.37,
+      "median": 69.63,
+      "suggested": 48.8,
+      "quantity": 75,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 9.71,
+      "max": 81.29,
+      "mean": 27.56,
+      "median": 31.51,
+      "suggested": 11.73,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 16.66,
+      "max": 30.88,
+      "mean": 26.12,
+      "median": 30.81,
+      "suggested": 16.73,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AUG | Carved Jade (Factory New)",
+      "price": {
+        "min": 42.01,
+        "max": 328.43,
+        "mean": 98.37,
+        "median": 69.63,
+        "suggested": 48.8,
+        "quantity": 75,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AUG | Carved Jade (Minimal Wear)",
+      "price": {
+        "min": 9.71,
+        "max": 81.29,
+        "mean": 27.56,
+        "median": 31.51,
+        "suggested": 11.73,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AUG | Carved Jade (Field-Tested)",
+      "price": {
+        "min": 16.66,
+        "max": 30.88,
+        "mean": 26.12,
+        "median": 30.81,
+        "suggested": 16.73,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AUG | Carved Jade (Factory New)",
+        "price": {
+          "min": 42.01,
+          "max": 328.43,
+          "mean": 98.37,
+          "median": 69.63,
+          "suggested": 48.8,
+          "quantity": 75,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AUG | Carved Jade (Minimal Wear)",
+        "price": {
+          "min": 9.71,
+          "max": 81.29,
+          "mean": 27.56,
+          "median": 31.51,
+          "suggested": 11.73,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AUG | Carved Jade (Field-Tested)",
+        "price": {
+          "min": 16.66,
+          "max": 30.88,
+          "mean": 26.12,
+          "median": 30.81,
+          "suggested": 16.73,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AUG | Carved Jade (Factory New)",
+        "price": {
+          "min": 14.59,
+          "max": 512.08,
+          "mean": 62.02,
+          "median": 35.3,
+          "suggested": 19.19,
+          "quantity": 48,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AUG | Carved Jade (Minimal Wear)",
+        "price": {
+          "min": 6.18,
+          "max": 164.21,
+          "mean": 23.62,
+          "median": 7.16,
+          "suggested": 7.22,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AUG | Carved Jade (Field-Tested)",
+        "price": {
+          "min": 5.24,
+          "max": 53.12,
+          "mean": 11.13,
+          "median": 5.5,
+          "suggested": 6.17,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.228Z"
+}

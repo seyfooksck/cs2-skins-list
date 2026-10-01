@@ -1,0 +1,121 @@
+{
+  "id": "skin-65d7965e0e39",
+  "name": "★ Bayonet | Tiger Tooth",
+  "paint_index": "409",
+  "weapon": {
+    "id": "weapon_bayonet",
+    "weapon_id": 500,
+    "name": "Bayonet",
+    "slug": "bayonet"
+  },
+  "pattern": {
+    "id": "an_tiger_orange",
+    "name": "Tiger Tooth"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Relatively unchanged in its design since World War II, the bayonet still retains a place in modern military strategy. Bayonet charges have continued to be effective as recently as the second Gulf War and the war in Afghanistan. It has been anodized orange and hand-etched in a tiger stripe pattern.\\n\\n<i>Like the tiger it is rare... like the tiger it is deadly...</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 314.77,
+      "max": 3091.22,
+      "mean": 454.55,
+      "median": 348.54,
+      "suggested": 406.99,
+      "quantity": 60,
+      "currency": "USD"
+    },
+    "mw": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Bayonet | Tiger Tooth (Factory New)",
+      "price": {
+        "min": 314.77,
+        "max": 3091.22,
+        "mean": 454.55,
+        "median": 348.54,
+        "suggested": 406.99,
+        "quantity": 60,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Bayonet | Tiger Tooth (Minimal Wear)",
+      "price": null,
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Bayonet | Tiger Tooth (Factory New)",
+        "price": {
+          "min": 314.77,
+          "max": 3091.22,
+          "mean": 454.55,
+          "median": 348.54,
+          "suggested": 406.99,
+          "quantity": 60,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Bayonet | Tiger Tooth (Minimal Wear)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Tiger Tooth (Factory New)",
+        "price": {
+          "min": 368.52,
+          "max": 2917.34,
+          "mean": 899.27,
+          "median": 511.87,
+          "suggested": 444.96,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Tiger Tooth (Minimal Wear)",
+        "price": {
+          "min": 641.82,
+          "max": 641.82,
+          "mean": 641.82,
+          "median": 641.82,
+          "suggested": 497.71,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:26.633Z"
+}

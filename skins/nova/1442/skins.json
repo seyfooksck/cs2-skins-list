@@ -1,0 +1,249 @@
+{
+  "id": "skin-a559f10a1997",
+  "name": "Nova | Smart Gun",
+  "paint_index": "1442",
+  "weapon": {
+    "id": "weapon_nova",
+    "weapon_id": 35,
+    "name": "Nova",
+    "slug": "nova"
+  },
+  "pattern": {
+    "id": "nova_smart",
+    "name": "Smart Gun"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Nova's rock-bottom price tag makes it a great ambush weapon for a cash-strapped team. It has been custom painted with a brain near the rear sight, designed to appear embedded in the weapon, and finished with metallic silver paint.\\n\\n<i>The marriage of tech and organics</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 22.27,
+      "max": 52.51,
+      "mean": 39.12,
+      "median": 40.84,
+      "suggested": 35.5,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 11.06,
+      "max": 17.5,
+      "mean": 14.32,
+      "median": 14.34,
+      "suggested": 13.88,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 5.8,
+      "max": 10.98,
+      "mean": 7.54,
+      "median": 5.82,
+      "suggested": 5.98,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 2.74,
+      "max": 2.74,
+      "mean": 2.74,
+      "median": 2.74,
+      "suggested": 4.14,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 3.34,
+      "max": 3.34,
+      "mean": 3.34,
+      "median": 3.34,
+      "suggested": 3.94,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Nova | Smart Gun (Factory New)",
+      "price": {
+        "min": 22.27,
+        "max": 52.51,
+        "mean": 39.12,
+        "median": 40.84,
+        "suggested": 35.5,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Nova | Smart Gun (Minimal Wear)",
+      "price": {
+        "min": 11.06,
+        "max": 17.5,
+        "mean": 14.32,
+        "median": 14.34,
+        "suggested": 13.88,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Nova | Smart Gun (Field-Tested)",
+      "price": {
+        "min": 5.8,
+        "max": 10.98,
+        "mean": 7.54,
+        "median": 5.82,
+        "suggested": 5.98,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Nova | Smart Gun (Well-Worn)",
+      "price": {
+        "min": 2.74,
+        "max": 2.74,
+        "mean": 2.74,
+        "median": 2.74,
+        "suggested": 4.14,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Nova | Smart Gun (Battle-Scarred)",
+      "price": {
+        "min": 3.34,
+        "max": 3.34,
+        "mean": 3.34,
+        "median": 3.34,
+        "suggested": 3.94,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Nova | Smart Gun (Factory New)",
+        "price": {
+          "min": 22.27,
+          "max": 52.51,
+          "mean": 39.12,
+          "median": 40.84,
+          "suggested": 35.5,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Nova | Smart Gun (Minimal Wear)",
+        "price": {
+          "min": 11.06,
+          "max": 17.5,
+          "mean": 14.32,
+          "median": 14.34,
+          "suggested": 13.88,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Nova | Smart Gun (Field-Tested)",
+        "price": {
+          "min": 5.8,
+          "max": 10.98,
+          "mean": 7.54,
+          "median": 5.82,
+          "suggested": 5.98,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Nova | Smart Gun (Well-Worn)",
+        "price": {
+          "min": 2.74,
+          "max": 2.74,
+          "mean": 2.74,
+          "median": 2.74,
+          "suggested": 4.14,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Nova | Smart Gun (Battle-Scarred)",
+        "price": {
+          "min": 3.34,
+          "max": 3.34,
+          "mean": 3.34,
+          "median": 3.34,
+          "suggested": 3.94,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Nova | Smart Gun (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Nova | Smart Gun (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Nova | Smart Gun (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Nova | Smart Gun (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Nova | Smart Gun (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.784Z"
+}

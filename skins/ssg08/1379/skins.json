@@ -1,0 +1,249 @@
+{
+  "id": "skin-2efacc35df16",
+  "name": "SSG 08 | Calligrafaux",
+  "paint_index": "1379",
+  "weapon": {
+    "id": "weapon_ssg08",
+    "weapon_id": 40,
+    "name": "SSG 08",
+    "slug": "ssg08"
+  },
+  "pattern": {
+    "id": "ht_red_edges_fineline",
+    "name": "Calligrafaux"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship. A red calligraphy design has been applied.\\n\\n<i>Put it in writing</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.09,
+      "max": 45.22,
+      "mean": 5.71,
+      "median": 6.49,
+      "suggested": 1.84,
+      "quantity": 92,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.72,
+      "max": 4.08,
+      "mean": 0.89,
+      "median": 0.85,
+      "suggested": 0.2,
+      "quantity": 112,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.05,
+      "max": 4.4,
+      "mean": 0.23,
+      "median": 0.06,
+      "suggested": 0.07,
+      "quantity": 171,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.02,
+      "max": 0.48,
+      "mean": 0.09,
+      "median": 0.05,
+      "suggested": 0.05,
+      "quantity": 136,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.02,
+      "max": 1.83,
+      "mean": 0.09,
+      "median": 0.05,
+      "suggested": 0.05,
+      "quantity": 63,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SSG 08 | Calligrafaux (Factory New)",
+      "price": {
+        "min": 2.09,
+        "max": 45.22,
+        "mean": 5.71,
+        "median": 6.49,
+        "suggested": 1.84,
+        "quantity": 92,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SSG 08 | Calligrafaux (Minimal Wear)",
+      "price": {
+        "min": 0.72,
+        "max": 4.08,
+        "mean": 0.89,
+        "median": 0.85,
+        "suggested": 0.2,
+        "quantity": 112,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "SSG 08 | Calligrafaux (Field-Tested)",
+      "price": {
+        "min": 0.05,
+        "max": 4.4,
+        "mean": 0.23,
+        "median": 0.06,
+        "suggested": 0.07,
+        "quantity": 171,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "SSG 08 | Calligrafaux (Well-Worn)",
+      "price": {
+        "min": 0.02,
+        "max": 0.48,
+        "mean": 0.09,
+        "median": 0.05,
+        "suggested": 0.05,
+        "quantity": 136,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "SSG 08 | Calligrafaux (Battle-Scarred)",
+      "price": {
+        "min": 0.02,
+        "max": 1.83,
+        "mean": 0.09,
+        "median": 0.05,
+        "suggested": 0.05,
+        "quantity": 63,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SSG 08 | Calligrafaux (Factory New)",
+        "price": {
+          "min": 2.09,
+          "max": 45.22,
+          "mean": 5.71,
+          "median": 6.49,
+          "suggested": 1.84,
+          "quantity": 92,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "SSG 08 | Calligrafaux (Minimal Wear)",
+        "price": {
+          "min": 0.72,
+          "max": 4.08,
+          "mean": 0.89,
+          "median": 0.85,
+          "suggested": 0.2,
+          "quantity": 112,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "SSG 08 | Calligrafaux (Field-Tested)",
+        "price": {
+          "min": 0.05,
+          "max": 4.4,
+          "mean": 0.23,
+          "median": 0.06,
+          "suggested": 0.07,
+          "quantity": 171,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "SSG 08 | Calligrafaux (Well-Worn)",
+        "price": {
+          "min": 0.02,
+          "max": 0.48,
+          "mean": 0.09,
+          "median": 0.05,
+          "suggested": 0.05,
+          "quantity": 136,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "SSG 08 | Calligrafaux (Battle-Scarred)",
+        "price": {
+          "min": 0.02,
+          "max": 1.83,
+          "mean": 0.09,
+          "median": 0.05,
+          "suggested": 0.05,
+          "quantity": 63,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SSG 08 | Calligrafaux (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir SSG 08 | Calligrafaux (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir SSG 08 | Calligrafaux (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir SSG 08 | Calligrafaux (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir SSG 08 | Calligrafaux (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:48.594Z"
+}

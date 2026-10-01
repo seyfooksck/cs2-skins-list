@@ -1,0 +1,310 @@
+{
+  "id": "skin-5c202c8939b2",
+  "name": "MAC-10 | Carnivore",
+  "paint_index": "589",
+  "weapon": {
+    "id": "weapon_mac10",
+    "weapon_id": 17,
+    "name": "MAC-10",
+    "slug": "mac10"
+  },
+  "pattern": {
+    "id": "aq_mac_10_alien_camo",
+    "name": "Carnivore"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been painted using a red and purple hydrographic over a metallic base coat.\\n\\n<i>Prepare before serving</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 7.41,
+      "max": 47.26,
+      "mean": 21.19,
+      "median": 13.48,
+      "suggested": 7.56,
+      "quantity": 29,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.6,
+      "max": 23.34,
+      "mean": 2.09,
+      "median": 1.11,
+      "suggested": 0.84,
+      "quantity": 36,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.46,
+      "max": 5.85,
+      "mean": 0.85,
+      "median": 0.62,
+      "suggested": 0.66,
+      "quantity": 138,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.32,
+      "max": 3.5,
+      "mean": 1.46,
+      "median": 0.48,
+      "suggested": 0.44,
+      "quantity": 79,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.28,
+      "max": 4.67,
+      "mean": 0.78,
+      "median": 0.39,
+      "suggested": 0.4,
+      "quantity": 34,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAC-10 | Carnivore (Factory New)",
+      "price": {
+        "min": 7.41,
+        "max": 47.26,
+        "mean": 21.19,
+        "median": 13.48,
+        "suggested": 7.56,
+        "quantity": 29,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAC-10 | Carnivore (Minimal Wear)",
+      "price": {
+        "min": 0.6,
+        "max": 23.34,
+        "mean": 2.09,
+        "median": 1.11,
+        "suggested": 0.84,
+        "quantity": 36,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAC-10 | Carnivore (Field-Tested)",
+      "price": {
+        "min": 0.46,
+        "max": 5.85,
+        "mean": 0.85,
+        "median": 0.62,
+        "suggested": 0.66,
+        "quantity": 138,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAC-10 | Carnivore (Well-Worn)",
+      "price": {
+        "min": 0.32,
+        "max": 3.5,
+        "mean": 1.46,
+        "median": 0.48,
+        "suggested": 0.44,
+        "quantity": 79,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAC-10 | Carnivore (Battle-Scarred)",
+      "price": {
+        "min": 0.28,
+        "max": 4.67,
+        "mean": 0.78,
+        "median": 0.39,
+        "suggested": 0.4,
+        "quantity": 34,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAC-10 | Carnivore (Factory New)",
+        "price": {
+          "min": 7.41,
+          "max": 47.26,
+          "mean": 21.19,
+          "median": 13.48,
+          "suggested": 7.56,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAC-10 | Carnivore (Minimal Wear)",
+        "price": {
+          "min": 0.6,
+          "max": 23.34,
+          "mean": 2.09,
+          "median": 1.11,
+          "suggested": 0.84,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAC-10 | Carnivore (Field-Tested)",
+        "price": {
+          "min": 0.46,
+          "max": 5.85,
+          "mean": 0.85,
+          "median": 0.62,
+          "suggested": 0.66,
+          "quantity": 138,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAC-10 | Carnivore (Well-Worn)",
+        "price": {
+          "min": 0.32,
+          "max": 3.5,
+          "mean": 1.46,
+          "median": 0.48,
+          "suggested": 0.44,
+          "quantity": 79,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MAC-10 | Carnivore (Battle-Scarred)",
+        "price": {
+          "min": 0.28,
+          "max": 4.67,
+          "mean": 0.78,
+          "median": 0.39,
+          "suggested": 0.4,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MAC-10 | Carnivore (Factory New)",
+        "price": {
+          "min": 4.67,
+          "max": 21.64,
+          "mean": 13.59,
+          "median": 13.38,
+          "suggested": 5.4,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MAC-10 | Carnivore (Minimal Wear)",
+        "price": {
+          "min": 0.91,
+          "max": 10.5,
+          "mean": 2.28,
+          "median": 1.41,
+          "suggested": 1.05,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MAC-10 | Carnivore (Field-Tested)",
+        "price": {
+          "min": 0.41,
+          "max": 9.32,
+          "mean": 0.88,
+          "median": 0.48,
+          "suggested": 0.48,
+          "quantity": 37,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MAC-10 | Carnivore (Well-Worn)",
+        "price": {
+          "min": 0.33,
+          "max": 4.2,
+          "mean": 0.68,
+          "median": 0.42,
+          "suggested": 0.38,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MAC-10 | Carnivore (Battle-Scarred)",
+        "price": {
+          "min": 0.34,
+          "max": 12.84,
+          "mean": 1.02,
+          "median": 0.69,
+          "suggested": 0.43,
+          "quantity": 43,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAC-10 | Carnivore (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAC-10 | Carnivore (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAC-10 | Carnivore (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAC-10 | Carnivore (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAC-10 | Carnivore (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.548Z"
+}

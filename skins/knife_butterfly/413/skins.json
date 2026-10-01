@@ -1,0 +1,129 @@
+{
+  "id": "skin-c14ef2ceee15",
+  "name": "★ Butterfly Knife | Marble Fade",
+  "paint_index": "413",
+  "weapon": {
+    "id": "weapon_knife_butterfly",
+    "weapon_id": 515,
+    "name": "Butterfly Knife",
+    "slug": "knife_butterfly"
+  },
+  "pattern": {
+    "id": "am_marble_fade",
+    "name": "Marble Fade"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This is a custom-designed balisong, commonly known as a butterfly knife. The defining characteristic of this weapon is the fan-like opening of a freely pivoting blade, allowing rapid deployment or concealment. As a result, butterfly knives are outlawed in many countries. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated in three colors.\\n\\n<i>The blade is made of many colors, but soon it all looks red</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1510.83,
+      "max": 5410.21,
+      "mean": 2075.55,
+      "median": 1657.46,
+      "suggested": 1695.22,
+      "quantity": 13,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1867.09,
+      "max": 1867.09,
+      "mean": 1867.09,
+      "median": 1867.09,
+      "suggested": 1732.89,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Butterfly Knife | Marble Fade (Factory New)",
+      "price": {
+        "min": 1510.83,
+        "max": 5410.21,
+        "mean": 2075.55,
+        "median": 1657.46,
+        "suggested": 1695.22,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Butterfly Knife | Marble Fade (Minimal Wear)",
+      "price": {
+        "min": 1867.09,
+        "max": 1867.09,
+        "mean": 1867.09,
+        "median": 1867.09,
+        "suggested": 1732.89,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Butterfly Knife | Marble Fade (Factory New)",
+        "price": {
+          "min": 1510.83,
+          "max": 5410.21,
+          "mean": 2075.55,
+          "median": 1657.46,
+          "suggested": 1695.22,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Butterfly Knife | Marble Fade (Minimal Wear)",
+        "price": {
+          "min": 1867.09,
+          "max": 1867.09,
+          "mean": 1867.09,
+          "median": 1867.09,
+          "suggested": 1732.89,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Butterfly Knife | Marble Fade (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Butterfly Knife | Marble Fade (Minimal Wear)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:32.950Z"
+}

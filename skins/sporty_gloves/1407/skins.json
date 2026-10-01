@@ -1,0 +1,204 @@
+{
+  "id": "skin-4a3cb425ea4e",
+  "name": "★ Sport Gloves | Blaze",
+  "paint_index": "1407",
+  "weapon": {
+    "id": "sporty_gloves",
+    "weapon_id": 5030,
+    "name": "Sport Gloves",
+    "slug": "sporty_gloves"
+  },
+  "pattern": {
+    "id": "glove_sport_flames_orange",
+    "name": "Blaze"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_gloves",
+    "name": "Gloves"
+  },
+  "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Synthetic fabrics make these athletic gloves durable and eye-catching. It has been painted by airbrushing transparent paints over a chrome base coat.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 303.4,
+      "max": 384.91,
+      "mean": 344.43,
+      "median": 350.08,
+      "suggested": 381.15,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 164.97,
+      "max": 1067.11,
+      "mean": 235.02,
+      "median": 199.74,
+      "suggested": 196.03,
+      "quantity": 31,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 147.61,
+      "max": 147.61,
+      "mean": 147.61,
+      "median": 147.61,
+      "suggested": 173.9,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 136.2,
+      "max": 197.46,
+      "mean": 167.15,
+      "median": 167.47,
+      "suggested": 158.79,
+      "quantity": 5,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Sport Gloves | Blaze (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Sport Gloves | Blaze (Minimal Wear)",
+      "price": {
+        "min": 303.4,
+        "max": 384.91,
+        "mean": 344.43,
+        "median": 350.08,
+        "suggested": 381.15,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Sport Gloves | Blaze (Field-Tested)",
+      "price": {
+        "min": 164.97,
+        "max": 1067.11,
+        "mean": 235.02,
+        "median": 199.74,
+        "suggested": 196.03,
+        "quantity": 31,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Sport Gloves | Blaze (Well-Worn)",
+      "price": {
+        "min": 147.61,
+        "max": 147.61,
+        "mean": 147.61,
+        "median": 147.61,
+        "suggested": 173.9,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Sport Gloves | Blaze (Battle-Scarred)",
+      "price": {
+        "min": 136.2,
+        "max": 197.46,
+        "mean": 167.15,
+        "median": 167.47,
+        "suggested": 158.79,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Sport Gloves | Blaze (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Sport Gloves | Blaze (Minimal Wear)",
+        "price": {
+          "min": 303.4,
+          "max": 384.91,
+          "mean": 344.43,
+          "median": 350.08,
+          "suggested": 381.15,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Sport Gloves | Blaze (Field-Tested)",
+        "price": {
+          "min": 164.97,
+          "max": 1067.11,
+          "mean": 235.02,
+          "median": 199.74,
+          "suggested": 196.03,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Sport Gloves | Blaze (Well-Worn)",
+        "price": {
+          "min": 147.61,
+          "max": 147.61,
+          "mean": 147.61,
+          "median": 147.61,
+          "suggested": 173.9,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Sport Gloves | Blaze (Battle-Scarred)",
+        "price": {
+          "min": 136.2,
+          "max": 197.46,
+          "mean": 167.15,
+          "median": 167.47,
+          "suggested": 158.79,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:23.883Z"
+}

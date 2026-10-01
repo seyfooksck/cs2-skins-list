@@ -1,0 +1,310 @@
+{
+  "id": "skin-99526dbb85e6",
+  "name": "Glock-18 | Umbral Rabbit",
+  "paint_index": "1227",
+  "weapon": {
+    "id": "weapon_glock",
+    "weapon_id": 4,
+    "name": "Glock-18",
+    "slug": "glock"
+  },
+  "pattern": {
+    "id": "cu_glock_moon_rabbit",
+    "name": "Umbral Rabbit"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.75,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. It has been custom painted with a dreamlike scene of a mystical rabbit hopping before a full moon.\\n\\n<i>Take a leap of faith</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.86,
+      "max": 153.45,
+      "mean": 12.52,
+      "median": 4.66,
+      "suggested": 3.72,
+      "quantity": 127,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.93,
+      "max": 52.51,
+      "mean": 2.25,
+      "median": 1.14,
+      "suggested": 1.1,
+      "quantity": 169,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.39,
+      "max": 14.34,
+      "mean": 0.75,
+      "median": 0.61,
+      "suggested": 0.55,
+      "quantity": 1047,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.41,
+      "max": 0.84,
+      "mean": 0.6,
+      "median": 0.58,
+      "suggested": 0.55,
+      "quantity": 63,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.39,
+      "max": 12.26,
+      "mean": 0.81,
+      "median": 0.55,
+      "suggested": 0.54,
+      "quantity": 128,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Glock-18 | Umbral Rabbit (Factory New)",
+      "price": {
+        "min": 2.86,
+        "max": 153.45,
+        "mean": 12.52,
+        "median": 4.66,
+        "suggested": 3.72,
+        "quantity": 127,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Glock-18 | Umbral Rabbit (Minimal Wear)",
+      "price": {
+        "min": 0.93,
+        "max": 52.51,
+        "mean": 2.25,
+        "median": 1.14,
+        "suggested": 1.1,
+        "quantity": 169,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Glock-18 | Umbral Rabbit (Field-Tested)",
+      "price": {
+        "min": 0.39,
+        "max": 14.34,
+        "mean": 0.75,
+        "median": 0.61,
+        "suggested": 0.55,
+        "quantity": 1047,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Glock-18 | Umbral Rabbit (Well-Worn)",
+      "price": {
+        "min": 0.41,
+        "max": 0.84,
+        "mean": 0.6,
+        "median": 0.58,
+        "suggested": 0.55,
+        "quantity": 63,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Glock-18 | Umbral Rabbit (Battle-Scarred)",
+      "price": {
+        "min": 0.39,
+        "max": 12.26,
+        "mean": 0.81,
+        "median": 0.55,
+        "suggested": 0.54,
+        "quantity": 128,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Glock-18 | Umbral Rabbit (Factory New)",
+        "price": {
+          "min": 2.86,
+          "max": 153.45,
+          "mean": 12.52,
+          "median": 4.66,
+          "suggested": 3.72,
+          "quantity": 127,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Glock-18 | Umbral Rabbit (Minimal Wear)",
+        "price": {
+          "min": 0.93,
+          "max": 52.51,
+          "mean": 2.25,
+          "median": 1.14,
+          "suggested": 1.1,
+          "quantity": 169,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Glock-18 | Umbral Rabbit (Field-Tested)",
+        "price": {
+          "min": 0.39,
+          "max": 14.34,
+          "mean": 0.75,
+          "median": 0.61,
+          "suggested": 0.55,
+          "quantity": 1047,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Glock-18 | Umbral Rabbit (Well-Worn)",
+        "price": {
+          "min": 0.41,
+          "max": 0.84,
+          "mean": 0.6,
+          "median": 0.58,
+          "suggested": 0.55,
+          "quantity": 63,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Glock-18 | Umbral Rabbit (Battle-Scarred)",
+        "price": {
+          "min": 0.39,
+          "max": 12.26,
+          "mean": 0.81,
+          "median": 0.55,
+          "suggested": 0.54,
+          "quantity": 128,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Glock-18 | Umbral Rabbit (Factory New)",
+        "price": {
+          "min": 4.96,
+          "max": 145.86,
+          "mean": 14.08,
+          "median": 10.91,
+          "suggested": 5.63,
+          "quantity": 68,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Glock-18 | Umbral Rabbit (Minimal Wear)",
+        "price": {
+          "min": 1.89,
+          "max": 47.04,
+          "mean": 5.83,
+          "median": 5.01,
+          "suggested": 2.24,
+          "quantity": 44,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Glock-18 | Umbral Rabbit (Field-Tested)",
+        "price": {
+          "min": 0.69,
+          "max": 26.38,
+          "mean": 1.91,
+          "median": 0.97,
+          "suggested": 0.83,
+          "quantity": 187,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Glock-18 | Umbral Rabbit (Well-Worn)",
+        "price": {
+          "min": 0.83,
+          "max": 37.88,
+          "mean": 2.38,
+          "median": 1.09,
+          "suggested": 0.99,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Glock-18 | Umbral Rabbit (Battle-Scarred)",
+        "price": {
+          "min": 0.53,
+          "max": 21.11,
+          "mean": 1.34,
+          "median": 0.81,
+          "suggested": 0.77,
+          "quantity": 45,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Glock-18 | Umbral Rabbit (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Glock-18 | Umbral Rabbit (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Glock-18 | Umbral Rabbit (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Glock-18 | Umbral Rabbit (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Glock-18 | Umbral Rabbit (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:31.829Z"
+}

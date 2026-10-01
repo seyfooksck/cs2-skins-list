@@ -1,0 +1,310 @@
+{
+  "id": "skin-4c1d61428041",
+  "name": "M249 | Deep Relief",
+  "paint_index": "983",
+  "weapon": {
+    "id": "weapon_m249",
+    "weapon_id": 14,
+    "name": "M249",
+    "slug": "m249"
+  },
+  "pattern": {
+    "id": "cu_m249_deep_relief",
+    "name": "Deep Relief"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A strong open-area LMG, the M249 is the perfect choice for players willing to trade a slow fire rate for increased accuracy and a high ammo capacity. A sand-colored top layer gives way to darker greens the deeper you go. This is a custom paint job you can feel.\\n\\n<i>How many bullets to get to the center?</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 4.19,
+      "max": 68.53,
+      "mean": 13.55,
+      "median": 6.76,
+      "suggested": 4.83,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.31,
+      "max": 7,
+      "mean": 2.31,
+      "median": 2.14,
+      "suggested": 1.63,
+      "quantity": 28,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.28,
+      "max": 6.32,
+      "mean": 1.96,
+      "median": 1.73,
+      "suggested": 1.67,
+      "quantity": 28,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.62,
+      "max": 5.25,
+      "mean": 1.09,
+      "median": 0.92,
+      "suggested": 0.88,
+      "quantity": 44,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.67,
+      "max": 5.38,
+      "mean": 1.58,
+      "median": 0.95,
+      "suggested": 0.65,
+      "quantity": 17,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M249 | Deep Relief (Factory New)",
+      "price": {
+        "min": 4.19,
+        "max": 68.53,
+        "mean": 13.55,
+        "median": 6.76,
+        "suggested": 4.83,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M249 | Deep Relief (Minimal Wear)",
+      "price": {
+        "min": 1.31,
+        "max": 7,
+        "mean": 2.31,
+        "median": 2.14,
+        "suggested": 1.63,
+        "quantity": 28,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M249 | Deep Relief (Field-Tested)",
+      "price": {
+        "min": 1.28,
+        "max": 6.32,
+        "mean": 1.96,
+        "median": 1.73,
+        "suggested": 1.67,
+        "quantity": 28,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M249 | Deep Relief (Well-Worn)",
+      "price": {
+        "min": 0.62,
+        "max": 5.25,
+        "mean": 1.09,
+        "median": 0.92,
+        "suggested": 0.88,
+        "quantity": 44,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M249 | Deep Relief (Battle-Scarred)",
+      "price": {
+        "min": 0.67,
+        "max": 5.38,
+        "mean": 1.58,
+        "median": 0.95,
+        "suggested": 0.65,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M249 | Deep Relief (Factory New)",
+        "price": {
+          "min": 4.19,
+          "max": 68.53,
+          "mean": 13.55,
+          "median": 6.76,
+          "suggested": 4.83,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M249 | Deep Relief (Minimal Wear)",
+        "price": {
+          "min": 1.31,
+          "max": 7,
+          "mean": 2.31,
+          "median": 2.14,
+          "suggested": 1.63,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M249 | Deep Relief (Field-Tested)",
+        "price": {
+          "min": 1.28,
+          "max": 6.32,
+          "mean": 1.96,
+          "median": 1.73,
+          "suggested": 1.67,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M249 | Deep Relief (Well-Worn)",
+        "price": {
+          "min": 0.62,
+          "max": 5.25,
+          "mean": 1.09,
+          "median": 0.92,
+          "suggested": 0.88,
+          "quantity": 44,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M249 | Deep Relief (Battle-Scarred)",
+        "price": {
+          "min": 0.67,
+          "max": 5.38,
+          "mean": 1.58,
+          "median": 0.95,
+          "suggested": 0.65,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ M249 | Deep Relief (Factory New)",
+        "price": {
+          "min": 6.49,
+          "max": 28.86,
+          "mean": 11.55,
+          "median": 8.3,
+          "suggested": 6.01,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ M249 | Deep Relief (Minimal Wear)",
+        "price": {
+          "min": 1.54,
+          "max": 78.52,
+          "mean": 7.18,
+          "median": 2.02,
+          "suggested": 1.93,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ M249 | Deep Relief (Field-Tested)",
+        "price": {
+          "min": 0.7,
+          "max": 0.99,
+          "mean": 0.84,
+          "median": 0.88,
+          "suggested": 0.9,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ M249 | Deep Relief (Well-Worn)",
+        "price": {
+          "min": 0.55,
+          "max": 1.16,
+          "mean": 0.82,
+          "median": 0.76,
+          "suggested": 0.82,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ M249 | Deep Relief (Battle-Scarred)",
+        "price": {
+          "min": 0.53,
+          "max": 3.13,
+          "mean": 0.99,
+          "median": 0.76,
+          "suggested": 0.7,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M249 | Deep Relief (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M249 | Deep Relief (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M249 | Deep Relief (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M249 | Deep Relief (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M249 | Deep Relief (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:39.725Z"
+}

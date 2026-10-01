@@ -1,0 +1,289 @@
+{
+  "id": "skin-708b065ba04a",
+  "name": "Desert Eagle | Tilted",
+  "paint_index": "138",
+  "weapon": {
+    "id": "weapon_deagle",
+    "weapon_id": 1,
+    "name": "Desert Eagle",
+    "slug": "deagle"
+  },
+  "pattern": {
+    "id": "cu_overpass_aqua_deagle",
+    "name": "Tilted"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.75,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. Its aqua-colored base has been tagged with graffiti from different artists.\\n\\n<i>\\\"I want EVERY round\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.79,
+      "max": 128.36,
+      "mean": 6.74,
+      "median": 5.72,
+      "suggested": 2.38,
+      "quantity": 859,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.46,
+      "max": 390.32,
+      "mean": 3.38,
+      "median": 1.8,
+      "suggested": 0.59,
+      "quantity": 1832,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.11,
+      "max": 105.02,
+      "mean": 1.25,
+      "median": 0.68,
+      "suggested": 0.16,
+      "quantity": 1764,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.13,
+      "max": 2.68,
+      "mean": 0.49,
+      "median": 0.21,
+      "suggested": 0.18,
+      "quantity": 85,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.09,
+      "max": 7,
+      "mean": 0.55,
+      "median": 0.21,
+      "suggested": 0.15,
+      "quantity": 168,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Desert Eagle | Tilted (Factory New)",
+      "price": {
+        "min": 1.79,
+        "max": 128.36,
+        "mean": 6.74,
+        "median": 5.72,
+        "suggested": 2.38,
+        "quantity": 859,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Desert Eagle | Tilted (Minimal Wear)",
+      "price": {
+        "min": 0.46,
+        "max": 390.32,
+        "mean": 3.38,
+        "median": 1.8,
+        "suggested": 0.59,
+        "quantity": 1832,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Desert Eagle | Tilted (Field-Tested)",
+      "price": {
+        "min": 0.11,
+        "max": 105.02,
+        "mean": 1.25,
+        "median": 0.68,
+        "suggested": 0.16,
+        "quantity": 1764,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Desert Eagle | Tilted (Well-Worn)",
+      "price": {
+        "min": 0.13,
+        "max": 2.68,
+        "mean": 0.49,
+        "median": 0.21,
+        "suggested": 0.18,
+        "quantity": 85,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Desert Eagle | Tilted (Battle-Scarred)",
+      "price": {
+        "min": 0.09,
+        "max": 7,
+        "mean": 0.55,
+        "median": 0.21,
+        "suggested": 0.15,
+        "quantity": 168,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Desert Eagle | Tilted (Factory New)",
+        "price": {
+          "min": 1.79,
+          "max": 128.36,
+          "mean": 6.74,
+          "median": 5.72,
+          "suggested": 2.38,
+          "quantity": 859,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Desert Eagle | Tilted (Minimal Wear)",
+        "price": {
+          "min": 0.46,
+          "max": 390.32,
+          "mean": 3.38,
+          "median": 1.8,
+          "suggested": 0.59,
+          "quantity": 1832,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Desert Eagle | Tilted (Field-Tested)",
+        "price": {
+          "min": 0.11,
+          "max": 105.02,
+          "mean": 1.25,
+          "median": 0.68,
+          "suggested": 0.16,
+          "quantity": 1764,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Desert Eagle | Tilted (Well-Worn)",
+        "price": {
+          "min": 0.13,
+          "max": 2.68,
+          "mean": 0.49,
+          "median": 0.21,
+          "suggested": 0.18,
+          "quantity": 85,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Desert Eagle | Tilted (Battle-Scarred)",
+        "price": {
+          "min": 0.09,
+          "max": 7,
+          "mean": 0.55,
+          "median": 0.21,
+          "suggested": 0.15,
+          "quantity": 168,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Desert Eagle | Tilted (Factory New)",
+        "price": {
+          "min": 4.55,
+          "max": 23.34,
+          "mean": 9.71,
+          "median": 7.91,
+          "suggested": 5.86,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Desert Eagle | Tilted (Minimal Wear)",
+        "price": {
+          "min": 1.7,
+          "max": 15.15,
+          "mean": 3.85,
+          "median": 2.21,
+          "suggested": 1.96,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Desert Eagle | Tilted (Field-Tested)",
+        "price": {
+          "min": 0.54,
+          "max": 286.76,
+          "mean": 17.83,
+          "median": 0.92,
+          "suggested": 0.63,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Desert Eagle | Tilted (Well-Worn)",
+        "price": {
+          "min": 0.98,
+          "max": 6.58,
+          "mean": 2.08,
+          "median": 1.65,
+          "suggested": 1.16,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Desert Eagle | Tilted (Battle-Scarred)",
+        "price": {
+          "min": 0.3,
+          "max": 3.5,
+          "mean": 0.81,
+          "median": 0.63,
+          "suggested": 0.45,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:28.306Z"
+}

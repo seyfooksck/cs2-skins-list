@@ -1,0 +1,310 @@
+{
+  "id": "skin-fbda3c593717",
+  "name": "AK-47 | Rat Rod",
+  "paint_index": "885",
+  "weapon": {
+    "id": "weapon_ak47",
+    "weapon_id": 7,
+    "name": "AK-47",
+    "slug": "ak47"
+  },
+  "pattern": {
+    "id": "gs_ak47_nibbler",
+    "name": "Rat Rod"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. Recovered from a wasteland junkyard, its original blue topcoat has been painted over, etched into, and weathered away.\\n\\n<i>Nowhere to run</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 91.85,
+      "max": 560.49,
+      "mean": 194.07,
+      "median": 157.72,
+      "suggested": 111.7,
+      "quantity": 23,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 7.77,
+      "max": 58.35,
+      "mean": 15.63,
+      "median": 11.87,
+      "suggested": 11.28,
+      "quantity": 54,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 3.97,
+      "max": 214.13,
+      "mean": 9.13,
+      "median": 6.99,
+      "suggested": 5.3,
+      "quantity": 156,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 3.66,
+      "max": 16.33,
+      "mean": 5.26,
+      "median": 4.75,
+      "suggested": 4.98,
+      "quantity": 57,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 4.13,
+      "max": 180.34,
+      "mean": 21.31,
+      "median": 4.57,
+      "suggested": 4.82,
+      "quantity": 22,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AK-47 | Rat Rod (Factory New)",
+      "price": {
+        "min": 91.85,
+        "max": 560.49,
+        "mean": 194.07,
+        "median": 157.72,
+        "suggested": 111.7,
+        "quantity": 23,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AK-47 | Rat Rod (Minimal Wear)",
+      "price": {
+        "min": 7.77,
+        "max": 58.35,
+        "mean": 15.63,
+        "median": 11.87,
+        "suggested": 11.28,
+        "quantity": 54,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AK-47 | Rat Rod (Field-Tested)",
+      "price": {
+        "min": 3.97,
+        "max": 214.13,
+        "mean": 9.13,
+        "median": 6.99,
+        "suggested": 5.3,
+        "quantity": 156,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AK-47 | Rat Rod (Well-Worn)",
+      "price": {
+        "min": 3.66,
+        "max": 16.33,
+        "mean": 5.26,
+        "median": 4.75,
+        "suggested": 4.98,
+        "quantity": 57,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AK-47 | Rat Rod (Battle-Scarred)",
+      "price": {
+        "min": 4.13,
+        "max": 180.34,
+        "mean": 21.31,
+        "median": 4.57,
+        "suggested": 4.82,
+        "quantity": 22,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AK-47 | Rat Rod (Factory New)",
+        "price": {
+          "min": 91.85,
+          "max": 560.49,
+          "mean": 194.07,
+          "median": 157.72,
+          "suggested": 111.7,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AK-47 | Rat Rod (Minimal Wear)",
+        "price": {
+          "min": 7.77,
+          "max": 58.35,
+          "mean": 15.63,
+          "median": 11.87,
+          "suggested": 11.28,
+          "quantity": 54,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AK-47 | Rat Rod (Field-Tested)",
+        "price": {
+          "min": 3.97,
+          "max": 214.13,
+          "mean": 9.13,
+          "median": 6.99,
+          "suggested": 5.3,
+          "quantity": 156,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AK-47 | Rat Rod (Well-Worn)",
+        "price": {
+          "min": 3.66,
+          "max": 16.33,
+          "mean": 5.26,
+          "median": 4.75,
+          "suggested": 4.98,
+          "quantity": 57,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AK-47 | Rat Rod (Battle-Scarred)",
+        "price": {
+          "min": 4.13,
+          "max": 180.34,
+          "mean": 21.31,
+          "median": 4.57,
+          "suggested": 4.82,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AK-47 | Rat Rod (Factory New)",
+        "price": {
+          "min": 52.51,
+          "max": 180.88,
+          "mean": 85.17,
+          "median": 64.17,
+          "suggested": 59,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AK-47 | Rat Rod (Minimal Wear)",
+        "price": {
+          "min": 20.07,
+          "max": 56.01,
+          "mean": 24.38,
+          "median": 21.8,
+          "suggested": 23.43,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AK-47 | Rat Rod (Field-Tested)",
+        "price": {
+          "min": 10.72,
+          "max": 38.88,
+          "mean": 15.16,
+          "median": 13.43,
+          "suggested": 15.39,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AK-47 | Rat Rod (Well-Worn)",
+        "price": {
+          "min": 12,
+          "max": 24.56,
+          "mean": 15.24,
+          "median": 13.63,
+          "suggested": 15.71,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ AK-47 | Rat Rod (Battle-Scarred)",
+        "price": {
+          "min": 12.38,
+          "max": 14.77,
+          "mean": 13.36,
+          "median": 13.34,
+          "suggested": 14.17,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AK-47 | Rat Rod (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AK-47 | Rat Rod (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AK-47 | Rat Rod (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AK-47 | Rat Rod (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AK-47 | Rat Rod (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:20:20.845Z"
+}

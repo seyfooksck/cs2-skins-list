@@ -1,0 +1,113 @@
+{
+  "id": "skin-9aeb6997f804",
+  "name": "★ Nomad Knife | Marble Fade",
+  "paint_index": "413",
+  "weapon": {
+    "id": "weapon_knife_outdoor",
+    "weapon_id": 521,
+    "name": "Nomad Knife",
+    "slug": "knife_outdoor"
+  },
+  "pattern": {
+    "id": "am_marble_fade",
+    "name": "Marble Fade"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This ergonomic tactical hunting lock-blade knife features composite handle inserts and a broad, sturdy blade, useful for cutting and prying apart material. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated in three colors.\\n\\n<i>The blade is made of many colors, but soon it all looks red</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 255.55,
+      "max": 816.86,
+      "mean": 342.32,
+      "median": 283.69,
+      "suggested": 328.76,
+      "quantity": 32,
+      "currency": "USD"
+    },
+    "mw": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Nomad Knife | Marble Fade (Factory New)",
+      "price": {
+        "min": 255.55,
+        "max": 816.86,
+        "mean": 342.32,
+        "median": 283.69,
+        "suggested": 328.76,
+        "quantity": 32,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Nomad Knife | Marble Fade (Minimal Wear)",
+      "price": null,
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Nomad Knife | Marble Fade (Factory New)",
+        "price": {
+          "min": 255.55,
+          "max": 816.86,
+          "mean": 342.32,
+          "median": 283.69,
+          "suggested": 328.76,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Nomad Knife | Marble Fade (Minimal Wear)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Nomad Knife | Marble Fade (Factory New)",
+        "price": {
+          "min": 297.55,
+          "max": 297.55,
+          "mean": 297.55,
+          "median": 297.55,
+          "suggested": 328.7,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Nomad Knife | Marble Fade (Minimal Wear)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:36.894Z"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "skin-5bcef416d83b",
+  "name": "P250 | Inferno",
+  "paint_index": "907",
+  "weapon": {
+    "id": "weapon_p250",
+    "weapon_id": 36,
+    "name": "P250",
+    "slug": "p250"
+  },
+  "pattern": {
+    "id": "gs_p250_inferno",
+    "name": "Inferno"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.68,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A low-recoil firearm with a high rate of fire, the P250 is a relatively inexpensive choice against armored opponents. A custom paint job which reflects the ethos of de_inferno has been applied.\\n\\n<i>\\\"But look at the time!\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 19.84,
+      "max": 163.37,
+      "mean": 35.97,
+      "median": 26.68,
+      "suggested": 30.72,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.09,
+      "max": 5.25,
+      "mean": 3.27,
+      "median": 2.77,
+      "suggested": 2.48,
+      "quantity": 19,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.63,
+      "max": 68.85,
+      "mean": 2.24,
+      "median": 0.91,
+      "suggested": 0.86,
+      "quantity": 92,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.81,
+      "max": 33.26,
+      "mean": 2.47,
+      "median": 0.92,
+      "suggested": 0.83,
+      "quantity": 22,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.63,
+      "max": 5.83,
+      "mean": 1.31,
+      "median": 0.97,
+      "suggested": 0.83,
+      "quantity": 19,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P250 | Inferno (Factory New)",
+      "price": {
+        "min": 19.84,
+        "max": 163.37,
+        "mean": 35.97,
+        "median": 26.68,
+        "suggested": 30.72,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P250 | Inferno (Minimal Wear)",
+      "price": {
+        "min": 2.09,
+        "max": 5.25,
+        "mean": 3.27,
+        "median": 2.77,
+        "suggested": 2.48,
+        "quantity": 19,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P250 | Inferno (Field-Tested)",
+      "price": {
+        "min": 0.63,
+        "max": 68.85,
+        "mean": 2.24,
+        "median": 0.91,
+        "suggested": 0.86,
+        "quantity": 92,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P250 | Inferno (Well-Worn)",
+      "price": {
+        "min": 0.81,
+        "max": 33.26,
+        "mean": 2.47,
+        "median": 0.92,
+        "suggested": 0.83,
+        "quantity": 22,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P250 | Inferno (Battle-Scarred)",
+      "price": {
+        "min": 0.63,
+        "max": 5.83,
+        "mean": 1.31,
+        "median": 0.97,
+        "suggested": 0.83,
+        "quantity": 19,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P250 | Inferno (Factory New)",
+        "price": {
+          "min": 19.84,
+          "max": 163.37,
+          "mean": 35.97,
+          "median": 26.68,
+          "suggested": 30.72,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P250 | Inferno (Minimal Wear)",
+        "price": {
+          "min": 2.09,
+          "max": 5.25,
+          "mean": 3.27,
+          "median": 2.77,
+          "suggested": 2.48,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P250 | Inferno (Field-Tested)",
+        "price": {
+          "min": 0.63,
+          "max": 68.85,
+          "mean": 2.24,
+          "median": 0.91,
+          "suggested": 0.86,
+          "quantity": 92,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P250 | Inferno (Well-Worn)",
+        "price": {
+          "min": 0.81,
+          "max": 33.26,
+          "mean": 2.47,
+          "median": 0.92,
+          "suggested": 0.83,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P250 | Inferno (Battle-Scarred)",
+        "price": {
+          "min": 0.63,
+          "max": 5.83,
+          "mean": 1.31,
+          "median": 0.97,
+          "suggested": 0.83,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P250 | Inferno (Factory New)",
+        "price": {
+          "min": 6.09,
+          "max": 27.64,
+          "mean": 10.56,
+          "median": 7.66,
+          "suggested": 7.09,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P250 | Inferno (Minimal Wear)",
+        "price": {
+          "min": 2.7,
+          "max": 4.38,
+          "mean": 3.03,
+          "median": 2.98,
+          "suggested": 2.79,
+          "quantity": 77,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P250 | Inferno (Field-Tested)",
+        "price": {
+          "min": 1.14,
+          "max": 31.12,
+          "mean": 2.14,
+          "median": 1.49,
+          "suggested": 1.48,
+          "quantity": 50,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ P250 | Inferno (Well-Worn)",
+        "price": {
+          "min": 1.95,
+          "max": 2.86,
+          "mean": 2.54,
+          "median": 2.72,
+          "suggested": 2.2,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ P250 | Inferno (Battle-Scarred)",
+        "price": {
+          "min": 1.13,
+          "max": 3.22,
+          "mean": 1.58,
+          "median": 1.46,
+          "suggested": 1.42,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P250 | Inferno (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P250 | Inferno (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P250 | Inferno (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P250 | Inferno (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P250 | Inferno (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:45.242Z"
+}

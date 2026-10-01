@@ -1,0 +1,310 @@
+{
+  "id": "skin-806137e84f73",
+  "name": "UMP-45 | Motorized",
+  "paint_index": "1175",
+  "weapon": {
+    "id": "weapon_ump45",
+    "weapon_id": 24,
+    "name": "UMP-45",
+    "slug": "ump45"
+  },
+  "pattern": {
+    "id": "ump45_assembled_engine",
+    "name": "Motorized"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.801418,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic. This custom paint job resembles a combustion engine, repurposed to be used as a weapon.\\n\\n<i>\\\"With routine maintenance this'll last at least 500,000 bullets!\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.58,
+      "max": 35.01,
+      "mean": 1.65,
+      "median": 0.77,
+      "suggested": 0.68,
+      "quantity": 75,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.14,
+      "max": 6.65,
+      "mean": 0.25,
+      "median": 0.21,
+      "suggested": 0.2,
+      "quantity": 400,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.07,
+      "max": 3.58,
+      "mean": 0.12,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 1512,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.07,
+      "max": 1.03,
+      "mean": 0.12,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 100,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.07,
+      "max": 0.64,
+      "mean": 0.11,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 469,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "UMP-45 | Motorized (Factory New)",
+      "price": {
+        "min": 0.58,
+        "max": 35.01,
+        "mean": 1.65,
+        "median": 0.77,
+        "suggested": 0.68,
+        "quantity": 75,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "UMP-45 | Motorized (Minimal Wear)",
+      "price": {
+        "min": 0.14,
+        "max": 6.65,
+        "mean": 0.25,
+        "median": 0.21,
+        "suggested": 0.2,
+        "quantity": 400,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "UMP-45 | Motorized (Field-Tested)",
+      "price": {
+        "min": 0.07,
+        "max": 3.58,
+        "mean": 0.12,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 1512,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "UMP-45 | Motorized (Well-Worn)",
+      "price": {
+        "min": 0.07,
+        "max": 1.03,
+        "mean": 0.12,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 100,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "UMP-45 | Motorized (Battle-Scarred)",
+      "price": {
+        "min": 0.07,
+        "max": 0.64,
+        "mean": 0.11,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 469,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "UMP-45 | Motorized (Factory New)",
+        "price": {
+          "min": 0.58,
+          "max": 35.01,
+          "mean": 1.65,
+          "median": 0.77,
+          "suggested": 0.68,
+          "quantity": 75,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "UMP-45 | Motorized (Minimal Wear)",
+        "price": {
+          "min": 0.14,
+          "max": 6.65,
+          "mean": 0.25,
+          "median": 0.21,
+          "suggested": 0.2,
+          "quantity": 400,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "UMP-45 | Motorized (Field-Tested)",
+        "price": {
+          "min": 0.07,
+          "max": 3.58,
+          "mean": 0.12,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 1512,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "UMP-45 | Motorized (Well-Worn)",
+        "price": {
+          "min": 0.07,
+          "max": 1.03,
+          "mean": 0.12,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 100,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "UMP-45 | Motorized (Battle-Scarred)",
+        "price": {
+          "min": 0.07,
+          "max": 0.64,
+          "mean": 0.11,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 469,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ UMP-45 | Motorized (Factory New)",
+        "price": {
+          "min": 0.63,
+          "max": 17.39,
+          "mean": 3.14,
+          "median": 1.68,
+          "suggested": 0.78,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ UMP-45 | Motorized (Minimal Wear)",
+        "price": {
+          "min": 0.21,
+          "max": 2.1,
+          "mean": 0.35,
+          "median": 0.28,
+          "suggested": 0.32,
+          "quantity": 160,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ UMP-45 | Motorized (Field-Tested)",
+        "price": {
+          "min": 0.08,
+          "max": 10.49,
+          "mean": 0.25,
+          "median": 0.13,
+          "suggested": 0.12,
+          "quantity": 233,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ UMP-45 | Motorized (Well-Worn)",
+        "price": {
+          "min": 0.11,
+          "max": 0.62,
+          "mean": 0.32,
+          "median": 0.3,
+          "suggested": 0.14,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ UMP-45 | Motorized (Battle-Scarred)",
+        "price": {
+          "min": 0.08,
+          "max": 1.3,
+          "mean": 0.13,
+          "median": 0.11,
+          "suggested": 0.1,
+          "quantity": 78,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir UMP-45 | Motorized (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir UMP-45 | Motorized (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir UMP-45 | Motorized (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir UMP-45 | Motorized (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir UMP-45 | Motorized (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:50.249Z"
+}

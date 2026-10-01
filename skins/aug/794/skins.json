@@ -1,0 +1,289 @@
+{
+  "id": "skin-5430f34eb2d8",
+  "name": "AUG | Sweeper",
+  "paint_index": "794",
+  "weapon": {
+    "id": "weapon_aug",
+    "weapon_id": 8,
+    "name": "AUG",
+    "slug": "aug"
+  },
+  "pattern": {
+    "id": "sp_mesh_safetyblack",
+    "name": "Sweeper"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire. It has been spray painted with a brown, grey, and red mesh pattern.\\n\\n<i>Clear a path</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.08,
+      "max": 30.33,
+      "mean": 2.91,
+      "median": 0.61,
+      "suggested": 0.1,
+      "quantity": 484,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.04,
+      "max": 36.6,
+      "mean": 1.83,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 1391,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.02,
+      "max": 17.5,
+      "mean": 0.05,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 8363,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.02,
+      "max": 4.1,
+      "mean": 0.05,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 546,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.02,
+      "max": 4.1,
+      "mean": 0.06,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 1081,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AUG | Sweeper (Factory New)",
+      "price": {
+        "min": 0.08,
+        "max": 30.33,
+        "mean": 2.91,
+        "median": 0.61,
+        "suggested": 0.1,
+        "quantity": 484,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AUG | Sweeper (Minimal Wear)",
+      "price": {
+        "min": 0.04,
+        "max": 36.6,
+        "mean": 1.83,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 1391,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AUG | Sweeper (Field-Tested)",
+      "price": {
+        "min": 0.02,
+        "max": 17.5,
+        "mean": 0.05,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 8363,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AUG | Sweeper (Well-Worn)",
+      "price": {
+        "min": 0.02,
+        "max": 4.1,
+        "mean": 0.05,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 546,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AUG | Sweeper (Battle-Scarred)",
+      "price": {
+        "min": 0.02,
+        "max": 4.1,
+        "mean": 0.06,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 1081,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AUG | Sweeper (Factory New)",
+        "price": {
+          "min": 0.08,
+          "max": 30.33,
+          "mean": 2.91,
+          "median": 0.61,
+          "suggested": 0.1,
+          "quantity": 484,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AUG | Sweeper (Minimal Wear)",
+        "price": {
+          "min": 0.04,
+          "max": 36.6,
+          "mean": 1.83,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 1391,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AUG | Sweeper (Field-Tested)",
+        "price": {
+          "min": 0.02,
+          "max": 17.5,
+          "mean": 0.05,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 8363,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AUG | Sweeper (Well-Worn)",
+        "price": {
+          "min": 0.02,
+          "max": 4.1,
+          "mean": 0.05,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 546,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AUG | Sweeper (Battle-Scarred)",
+        "price": {
+          "min": 0.02,
+          "max": 4.1,
+          "mean": 0.06,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 1081,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AUG | Sweeper (Factory New)",
+        "price": {
+          "min": 0.27,
+          "max": 76.43,
+          "mean": 5.12,
+          "median": 2.79,
+          "suggested": 0.21,
+          "quantity": 84,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AUG | Sweeper (Minimal Wear)",
+        "price": {
+          "min": 0.08,
+          "max": 52.51,
+          "mean": 3.61,
+          "median": 1.11,
+          "suggested": 0.08,
+          "quantity": 59,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AUG | Sweeper (Field-Tested)",
+        "price": {
+          "min": 0.05,
+          "max": 23.34,
+          "mean": 2.15,
+          "median": 0.57,
+          "suggested": 0.07,
+          "quantity": 78,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AUG | Sweeper (Well-Worn)",
+        "price": {
+          "min": 0.63,
+          "max": 13.71,
+          "mean": 3.85,
+          "median": 1.55,
+          "suggested": 0.09,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AUG | Sweeper (Battle-Scarred)",
+        "price": {
+          "min": 0.39,
+          "max": 11.67,
+          "mean": 3.03,
+          "median": 1.41,
+          "suggested": 0.07,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.715Z"
+}

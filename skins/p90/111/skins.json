@@ -1,0 +1,249 @@
+{
+  "id": "skin-2ee351c33f47",
+  "name": "P90 | Glacier Mesh",
+  "paint_index": "111",
+  "weapon": {
+    "id": "weapon_p90",
+    "weapon_id": 19,
+    "name": "P90",
+    "slug": "p90"
+  },
+  "pattern": {
+    "id": "sp_mesh_glacier",
+    "name": "Glacier Mesh"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been spray-painted using mesh fencing and cardboard cutouts as stencils.\\n\\n<i>A predator is a predator, no matter the environment</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 114.88,
+      "max": 114.88,
+      "mean": 114.88,
+      "median": 114.88,
+      "suggested": 57.52,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 6.86,
+      "max": 39.94,
+      "mean": 28.92,
+      "median": 39.94,
+      "suggested": 7.83,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 18.06,
+      "max": 18.06,
+      "mean": 18.06,
+      "median": 18.06,
+      "suggested": 5.96,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 5.41,
+      "max": 12.09,
+      "mean": 8.75,
+      "median": 8.75,
+      "suggested": 7.38,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P90 | Glacier Mesh (Factory New)",
+      "price": {
+        "min": 114.88,
+        "max": 114.88,
+        "mean": 114.88,
+        "median": 114.88,
+        "suggested": 57.52,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P90 | Glacier Mesh (Minimal Wear)",
+      "price": {
+        "min": 6.86,
+        "max": 39.94,
+        "mean": 28.92,
+        "median": 39.94,
+        "suggested": 7.83,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P90 | Glacier Mesh (Field-Tested)",
+      "price": {
+        "min": 18.06,
+        "max": 18.06,
+        "mean": 18.06,
+        "median": 18.06,
+        "suggested": 5.96,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P90 | Glacier Mesh (Well-Worn)",
+      "price": {
+        "min": 5.41,
+        "max": 12.09,
+        "mean": 8.75,
+        "median": 8.75,
+        "suggested": 7.38,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P90 | Glacier Mesh (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P90 | Glacier Mesh (Factory New)",
+        "price": {
+          "min": 114.88,
+          "max": 114.88,
+          "mean": 114.88,
+          "median": 114.88,
+          "suggested": 57.52,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P90 | Glacier Mesh (Minimal Wear)",
+        "price": {
+          "min": 6.86,
+          "max": 39.94,
+          "mean": 28.92,
+          "median": 39.94,
+          "suggested": 7.83,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P90 | Glacier Mesh (Field-Tested)",
+        "price": {
+          "min": 18.06,
+          "max": 18.06,
+          "mean": 18.06,
+          "median": 18.06,
+          "suggested": 5.96,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P90 | Glacier Mesh (Well-Worn)",
+        "price": {
+          "min": 5.41,
+          "max": 12.09,
+          "mean": 8.75,
+          "median": 8.75,
+          "suggested": 7.38,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P90 | Glacier Mesh (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P90 | Glacier Mesh (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P90 | Glacier Mesh (Minimal Wear)",
+        "price": {
+          "min": 8.4,
+          "max": 79.9,
+          "mean": 44.16,
+          "median": 44.16,
+          "suggested": 6.95,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P90 | Glacier Mesh (Field-Tested)",
+        "price": {
+          "min": 15.98,
+          "max": 79.9,
+          "mean": 37.95,
+          "median": 27.96,
+          "suggested": 3.02,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P90 | Glacier Mesh (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P90 | Glacier Mesh (Battle-Scarred)",
+        "price": {
+          "min": 79.9,
+          "max": 79.9,
+          "mean": 79.9,
+          "median": 79.9,
+          "suggested": 2.83,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:46.418Z"
+}

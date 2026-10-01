@@ -1,0 +1,310 @@
+{
+  "id": "skin-51560c383375",
+  "name": "P90 | Traction",
+  "paint_index": "717",
+  "weapon": {
+    "id": "weapon_p90",
+    "weapon_id": 19,
+    "name": "P90",
+    "slug": "p90"
+  },
+  "pattern": {
+    "id": "gs_p90_tread",
+    "name": "Traction"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been custom painted with sectioned blue hexagons designed to fit the P90's unique shape.\\n\\n<i>Half the battle is keeping a hold of the weapon; the other half is hitting the target</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.75,
+      "max": 124.58,
+      "mean": 10.6,
+      "median": 4.66,
+      "suggested": 3.91,
+      "quantity": 45,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.75,
+      "max": 10.86,
+      "mean": 1.44,
+      "median": 0.95,
+      "suggested": 1.01,
+      "quantity": 84,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.46,
+      "max": 9.01,
+      "mean": 1.04,
+      "median": 0.6,
+      "suggested": 0.77,
+      "quantity": 133,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.29,
+      "max": 5.46,
+      "mean": 0.54,
+      "median": 0.39,
+      "suggested": 0.48,
+      "quantity": 162,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.29,
+      "max": 11.67,
+      "mean": 0.67,
+      "median": 0.37,
+      "suggested": 0.43,
+      "quantity": 122,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P90 | Traction (Factory New)",
+      "price": {
+        "min": 2.75,
+        "max": 124.58,
+        "mean": 10.6,
+        "median": 4.66,
+        "suggested": 3.91,
+        "quantity": 45,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P90 | Traction (Minimal Wear)",
+      "price": {
+        "min": 0.75,
+        "max": 10.86,
+        "mean": 1.44,
+        "median": 0.95,
+        "suggested": 1.01,
+        "quantity": 84,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P90 | Traction (Field-Tested)",
+      "price": {
+        "min": 0.46,
+        "max": 9.01,
+        "mean": 1.04,
+        "median": 0.6,
+        "suggested": 0.77,
+        "quantity": 133,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P90 | Traction (Well-Worn)",
+      "price": {
+        "min": 0.29,
+        "max": 5.46,
+        "mean": 0.54,
+        "median": 0.39,
+        "suggested": 0.48,
+        "quantity": 162,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P90 | Traction (Battle-Scarred)",
+      "price": {
+        "min": 0.29,
+        "max": 11.67,
+        "mean": 0.67,
+        "median": 0.37,
+        "suggested": 0.43,
+        "quantity": 122,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P90 | Traction (Factory New)",
+        "price": {
+          "min": 2.75,
+          "max": 124.58,
+          "mean": 10.6,
+          "median": 4.66,
+          "suggested": 3.91,
+          "quantity": 45,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P90 | Traction (Minimal Wear)",
+        "price": {
+          "min": 0.75,
+          "max": 10.86,
+          "mean": 1.44,
+          "median": 0.95,
+          "suggested": 1.01,
+          "quantity": 84,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P90 | Traction (Field-Tested)",
+        "price": {
+          "min": 0.46,
+          "max": 9.01,
+          "mean": 1.04,
+          "median": 0.6,
+          "suggested": 0.77,
+          "quantity": 133,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P90 | Traction (Well-Worn)",
+        "price": {
+          "min": 0.29,
+          "max": 5.46,
+          "mean": 0.54,
+          "median": 0.39,
+          "suggested": 0.48,
+          "quantity": 162,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P90 | Traction (Battle-Scarred)",
+        "price": {
+          "min": 0.29,
+          "max": 11.67,
+          "mean": 0.67,
+          "median": 0.37,
+          "suggested": 0.43,
+          "quantity": 122,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P90 | Traction (Factory New)",
+        "price": {
+          "min": 3.98,
+          "max": 35.63,
+          "mean": 9.11,
+          "median": 7.14,
+          "suggested": 5.21,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P90 | Traction (Minimal Wear)",
+        "price": {
+          "min": 1.06,
+          "max": 6.28,
+          "mean": 1.33,
+          "median": 1.13,
+          "suggested": 1.26,
+          "quantity": 39,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P90 | Traction (Field-Tested)",
+        "price": {
+          "min": 0.53,
+          "max": 3.98,
+          "mean": 0.85,
+          "median": 0.61,
+          "suggested": 0.73,
+          "quantity": 56,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ P90 | Traction (Well-Worn)",
+        "price": {
+          "min": 0.32,
+          "max": 11.49,
+          "mean": 0.62,
+          "median": 0.42,
+          "suggested": 0.46,
+          "quantity": 55,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ P90 | Traction (Battle-Scarred)",
+        "price": {
+          "min": 0.34,
+          "max": 10.25,
+          "mean": 0.97,
+          "median": 0.41,
+          "suggested": 0.44,
+          "quantity": 47,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P90 | Traction (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P90 | Traction (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P90 | Traction (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P90 | Traction (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P90 | Traction (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:46.137Z"
+}

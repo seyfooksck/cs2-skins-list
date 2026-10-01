@@ -1,0 +1,310 @@
+{
+  "id": "skin-a5809e8daa76",
+  "name": "UMP-45 | Riot",
+  "paint_index": "488",
+  "weapon": {
+    "id": "weapon_ump45",
+    "weapon_id": 24,
+    "name": "UMP-45",
+    "slug": "ump45"
+  },
+  "pattern": {
+    "id": "cu_ump45_uproar",
+    "name": "Riot"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic. It has been painted using a combination of hydrographics and heat-transfer decals.\\n\\n<i>If you didn't want collateral damage, perhaps you should have been more specific... - Javier Alviso, Fist of the Phoenix</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.56,
+      "max": 25.56,
+      "mean": 5.03,
+      "median": 3.54,
+      "suggested": 2.06,
+      "quantity": 39,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.7,
+      "max": 9.34,
+      "mean": 1.23,
+      "median": 0.88,
+      "suggested": 0.85,
+      "quantity": 56,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.64,
+      "max": 30.73,
+      "mean": 1.25,
+      "median": 0.91,
+      "suggested": 0.97,
+      "quantity": 149,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.61,
+      "max": 0.93,
+      "mean": 0.77,
+      "median": 0.78,
+      "suggested": 0.71,
+      "quantity": 13,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.48,
+      "max": 13.05,
+      "mean": 1.3,
+      "median": 0.74,
+      "suggested": 0.62,
+      "quantity": 28,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "UMP-45 | Riot (Factory New)",
+      "price": {
+        "min": 1.56,
+        "max": 25.56,
+        "mean": 5.03,
+        "median": 3.54,
+        "suggested": 2.06,
+        "quantity": 39,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "UMP-45 | Riot (Minimal Wear)",
+      "price": {
+        "min": 0.7,
+        "max": 9.34,
+        "mean": 1.23,
+        "median": 0.88,
+        "suggested": 0.85,
+        "quantity": 56,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "UMP-45 | Riot (Field-Tested)",
+      "price": {
+        "min": 0.64,
+        "max": 30.73,
+        "mean": 1.25,
+        "median": 0.91,
+        "suggested": 0.97,
+        "quantity": 149,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "UMP-45 | Riot (Well-Worn)",
+      "price": {
+        "min": 0.61,
+        "max": 0.93,
+        "mean": 0.77,
+        "median": 0.78,
+        "suggested": 0.71,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "UMP-45 | Riot (Battle-Scarred)",
+      "price": {
+        "min": 0.48,
+        "max": 13.05,
+        "mean": 1.3,
+        "median": 0.74,
+        "suggested": 0.62,
+        "quantity": 28,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "UMP-45 | Riot (Factory New)",
+        "price": {
+          "min": 1.56,
+          "max": 25.56,
+          "mean": 5.03,
+          "median": 3.54,
+          "suggested": 2.06,
+          "quantity": 39,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "UMP-45 | Riot (Minimal Wear)",
+        "price": {
+          "min": 0.7,
+          "max": 9.34,
+          "mean": 1.23,
+          "median": 0.88,
+          "suggested": 0.85,
+          "quantity": 56,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "UMP-45 | Riot (Field-Tested)",
+        "price": {
+          "min": 0.64,
+          "max": 30.73,
+          "mean": 1.25,
+          "median": 0.91,
+          "suggested": 0.97,
+          "quantity": 149,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "UMP-45 | Riot (Well-Worn)",
+        "price": {
+          "min": 0.61,
+          "max": 0.93,
+          "mean": 0.77,
+          "median": 0.78,
+          "suggested": 0.71,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "UMP-45 | Riot (Battle-Scarred)",
+        "price": {
+          "min": 0.48,
+          "max": 13.05,
+          "mean": 1.3,
+          "median": 0.74,
+          "suggested": 0.62,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ UMP-45 | Riot (Factory New)",
+        "price": {
+          "min": 1.07,
+          "max": 134.08,
+          "mean": 11.38,
+          "median": 1.59,
+          "suggested": 1.34,
+          "quantity": 46,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ UMP-45 | Riot (Minimal Wear)",
+        "price": {
+          "min": 0.72,
+          "max": 128.36,
+          "mean": 8.25,
+          "median": 0.99,
+          "suggested": 0.9,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ UMP-45 | Riot (Field-Tested)",
+        "price": {
+          "min": 0.35,
+          "max": 19.25,
+          "mean": 1.53,
+          "median": 0.64,
+          "suggested": 0.51,
+          "quantity": 93,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ UMP-45 | Riot (Well-Worn)",
+        "price": {
+          "min": 0.44,
+          "max": 2.37,
+          "mean": 1.48,
+          "median": 1.73,
+          "suggested": 0.5,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ UMP-45 | Riot (Battle-Scarred)",
+        "price": {
+          "min": 0.36,
+          "max": 260.67,
+          "mean": 15.91,
+          "median": 0.57,
+          "suggested": 0.46,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir UMP-45 | Riot (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir UMP-45 | Riot (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir UMP-45 | Riot (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir UMP-45 | Riot (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir UMP-45 | Riot (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.835Z"
+}

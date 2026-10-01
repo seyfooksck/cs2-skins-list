@@ -1,0 +1,310 @@
+{
+  "id": "skin-ad06f39c3d8b",
+  "name": "UMP-45 | Corporal",
+  "paint_index": "281",
+  "weapon": {
+    "id": "weapon_ump45",
+    "weapon_id": 24,
+    "name": "UMP-45",
+    "slug": "ump45"
+  },
+  "pattern": {
+    "id": "cu_ump_corporal",
+    "name": "Corporal"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0.05,
+  "max_float": 0.75,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic. It has been custom painted in a military motif.\\n\\n<i>Respect can never be taken, only earned</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.87,
+      "max": 24.91,
+      "mean": 6.87,
+      "median": 4.64,
+      "suggested": 3.36,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.67,
+      "max": 3.73,
+      "mean": 1,
+      "median": 0.97,
+      "suggested": 0.96,
+      "quantity": 88,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.7,
+      "max": 3.5,
+      "mean": 1.1,
+      "median": 1.05,
+      "suggested": 0.99,
+      "quantity": 179,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.71,
+      "max": 1.97,
+      "mean": 0.93,
+      "median": 0.74,
+      "suggested": 0.84,
+      "quantity": 26,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.46,
+      "max": 4.77,
+      "mean": 0.88,
+      "median": 0.65,
+      "suggested": 0.73,
+      "quantity": 32,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "UMP-45 | Corporal (Factory New)",
+      "price": {
+        "min": 2.87,
+        "max": 24.91,
+        "mean": 6.87,
+        "median": 4.64,
+        "suggested": 3.36,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "UMP-45 | Corporal (Minimal Wear)",
+      "price": {
+        "min": 0.67,
+        "max": 3.73,
+        "mean": 1,
+        "median": 0.97,
+        "suggested": 0.96,
+        "quantity": 88,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "UMP-45 | Corporal (Field-Tested)",
+      "price": {
+        "min": 0.7,
+        "max": 3.5,
+        "mean": 1.1,
+        "median": 1.05,
+        "suggested": 0.99,
+        "quantity": 179,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "UMP-45 | Corporal (Well-Worn)",
+      "price": {
+        "min": 0.71,
+        "max": 1.97,
+        "mean": 0.93,
+        "median": 0.74,
+        "suggested": 0.84,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "UMP-45 | Corporal (Battle-Scarred)",
+      "price": {
+        "min": 0.46,
+        "max": 4.77,
+        "mean": 0.88,
+        "median": 0.65,
+        "suggested": 0.73,
+        "quantity": 32,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "UMP-45 | Corporal (Factory New)",
+        "price": {
+          "min": 2.87,
+          "max": 24.91,
+          "mean": 6.87,
+          "median": 4.64,
+          "suggested": 3.36,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "UMP-45 | Corporal (Minimal Wear)",
+        "price": {
+          "min": 0.67,
+          "max": 3.73,
+          "mean": 1,
+          "median": 0.97,
+          "suggested": 0.96,
+          "quantity": 88,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "UMP-45 | Corporal (Field-Tested)",
+        "price": {
+          "min": 0.7,
+          "max": 3.5,
+          "mean": 1.1,
+          "median": 1.05,
+          "suggested": 0.99,
+          "quantity": 179,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "UMP-45 | Corporal (Well-Worn)",
+        "price": {
+          "min": 0.71,
+          "max": 1.97,
+          "mean": 0.93,
+          "median": 0.74,
+          "suggested": 0.84,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "UMP-45 | Corporal (Battle-Scarred)",
+        "price": {
+          "min": 0.46,
+          "max": 4.77,
+          "mean": 0.88,
+          "median": 0.65,
+          "suggested": 0.73,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ UMP-45 | Corporal (Factory New)",
+        "price": {
+          "min": 2.89,
+          "max": 13.35,
+          "mean": 4.7,
+          "median": 3.41,
+          "suggested": 3.54,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ UMP-45 | Corporal (Minimal Wear)",
+        "price": {
+          "min": 0.83,
+          "max": 38.21,
+          "mean": 2.42,
+          "median": 1.13,
+          "suggested": 1.05,
+          "quantity": 50,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ UMP-45 | Corporal (Field-Tested)",
+        "price": {
+          "min": 0.46,
+          "max": 34.95,
+          "mean": 1.31,
+          "median": 0.78,
+          "suggested": 0.57,
+          "quantity": 130,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ UMP-45 | Corporal (Well-Worn)",
+        "price": {
+          "min": 0.43,
+          "max": 1.67,
+          "mean": 0.85,
+          "median": 0.75,
+          "suggested": 0.48,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ UMP-45 | Corporal (Battle-Scarred)",
+        "price": {
+          "min": 0.43,
+          "max": 1.67,
+          "mean": 0.63,
+          "median": 0.61,
+          "suggested": 0.55,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir UMP-45 | Corporal (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir UMP-45 | Corporal (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir UMP-45 | Corporal (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir UMP-45 | Corporal (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir UMP-45 | Corporal (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.927Z"
+}

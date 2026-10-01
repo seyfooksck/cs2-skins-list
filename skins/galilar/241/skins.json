@@ -1,0 +1,265 @@
+{
+  "id": "skin-d2bf9bb223d5",
+  "name": "Galil AR | Hunting Blind",
+  "paint_index": "241",
+  "weapon": {
+    "id": "weapon_galilar",
+    "weapon_id": 13,
+    "name": "Galil AR",
+    "slug": "galilar"
+  },
+  "pattern": {
+    "id": "sp_mesh_slashes",
+    "name": "Hunting Blind"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat. It has been spray-painted freehand using mesh fabric as a stencil.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 7,
+      "max": 11.31,
+      "mean": 9.46,
+      "median": 9.32,
+      "suggested": 10,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 3.27,
+      "max": 10.83,
+      "mean": 7.05,
+      "median": 7.05,
+      "suggested": 3.06,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.18,
+      "max": 3.56,
+      "mean": 2.72,
+      "median": 2.75,
+      "suggested": 1.73,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 2.19,
+      "max": 3.49,
+      "mean": 2.85,
+      "median": 2.85,
+      "suggested": 2.48,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Galil AR | Hunting Blind (Factory New)",
+      "price": {
+        "min": 7,
+        "max": 11.31,
+        "mean": 9.46,
+        "median": 9.32,
+        "suggested": 10,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Galil AR | Hunting Blind (Minimal Wear)",
+      "price": {
+        "min": 3.27,
+        "max": 10.83,
+        "mean": 7.05,
+        "median": 7.05,
+        "suggested": 3.06,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Galil AR | Hunting Blind (Field-Tested)",
+      "price": {
+        "min": 2.18,
+        "max": 3.56,
+        "mean": 2.72,
+        "median": 2.75,
+        "suggested": 1.73,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Galil AR | Hunting Blind (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Galil AR | Hunting Blind (Battle-Scarred)",
+      "price": {
+        "min": 2.19,
+        "max": 3.49,
+        "mean": 2.85,
+        "median": 2.85,
+        "suggested": 2.48,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Galil AR | Hunting Blind (Factory New)",
+        "price": {
+          "min": 7,
+          "max": 11.31,
+          "mean": 9.46,
+          "median": 9.32,
+          "suggested": 10,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Galil AR | Hunting Blind (Minimal Wear)",
+        "price": {
+          "min": 3.27,
+          "max": 10.83,
+          "mean": 7.05,
+          "median": 7.05,
+          "suggested": 3.06,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Galil AR | Hunting Blind (Field-Tested)",
+        "price": {
+          "min": 2.18,
+          "max": 3.56,
+          "mean": 2.72,
+          "median": 2.75,
+          "suggested": 1.73,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Galil AR | Hunting Blind (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Galil AR | Hunting Blind (Battle-Scarred)",
+        "price": {
+          "min": 2.19,
+          "max": 3.49,
+          "mean": 2.85,
+          "median": 2.85,
+          "suggested": 2.48,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Galil AR | Hunting Blind (Factory New)",
+        "price": {
+          "min": 8.05,
+          "max": 583.47,
+          "mean": 70.53,
+          "median": 24.47,
+          "suggested": 5.65,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Galil AR | Hunting Blind (Minimal Wear)",
+        "price": {
+          "min": 3.29,
+          "max": 142.37,
+          "mean": 22.23,
+          "median": 7.74,
+          "suggested": 2.66,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Galil AR | Hunting Blind (Field-Tested)",
+        "price": {
+          "min": 2.26,
+          "max": 291.73,
+          "mean": 24.55,
+          "median": 7.21,
+          "suggested": 1.84,
+          "quantity": 47,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Galil AR | Hunting Blind (Well-Worn)",
+        "price": {
+          "min": 1.82,
+          "max": 39.94,
+          "mean": 20.89,
+          "median": 20.89,
+          "suggested": 1.81,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Galil AR | Hunting Blind (Battle-Scarred)",
+        "price": {
+          "min": 2.31,
+          "max": 116.69,
+          "mean": 14.35,
+          "median": 6.87,
+          "suggested": 1.88,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:31.386Z"
+}

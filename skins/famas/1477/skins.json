@@ -1,0 +1,249 @@
+{
+  "id": "skin-3e29c2ccb9d9",
+  "name": "FAMAS | Corp Defense",
+  "paint_index": "1477",
+  "weapon": {
+    "id": "weapon_famas",
+    "weapon_id": 10,
+    "name": "FAMAS",
+    "slug": "famas"
+  },
+  "pattern": {
+    "id": "famas_corp_defense",
+    "name": "Corp Defense"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. It has been custom painted in black and red.\\n\\n<i>Suit and sunglasses sold separately</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.24,
+      "max": 5.83,
+      "mean": 4.04,
+      "median": 4.04,
+      "suggested": 2.56,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.16,
+      "max": 0.92,
+      "mean": 0.71,
+      "median": 0.91,
+      "suggested": 0.2,
+      "quantity": 18,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.11,
+      "max": 0.11,
+      "mean": 0.11,
+      "median": 0.11,
+      "suggested": 0.13,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.04,
+      "max": 0.05,
+      "mean": 0.05,
+      "median": 0.05,
+      "suggested": 0.05,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.04,
+      "max": 0.05,
+      "mean": 0.05,
+      "median": 0.05,
+      "suggested": 0.03,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "FAMAS | Corp Defense (Factory New)",
+      "price": {
+        "min": 2.24,
+        "max": 5.83,
+        "mean": 4.04,
+        "median": 4.04,
+        "suggested": 2.56,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "FAMAS | Corp Defense (Minimal Wear)",
+      "price": {
+        "min": 0.16,
+        "max": 0.92,
+        "mean": 0.71,
+        "median": 0.91,
+        "suggested": 0.2,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "FAMAS | Corp Defense (Field-Tested)",
+      "price": {
+        "min": 0.11,
+        "max": 0.11,
+        "mean": 0.11,
+        "median": 0.11,
+        "suggested": 0.13,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "FAMAS | Corp Defense (Well-Worn)",
+      "price": {
+        "min": 0.04,
+        "max": 0.05,
+        "mean": 0.05,
+        "median": 0.05,
+        "suggested": 0.05,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "FAMAS | Corp Defense (Battle-Scarred)",
+      "price": {
+        "min": 0.04,
+        "max": 0.05,
+        "mean": 0.05,
+        "median": 0.05,
+        "suggested": 0.03,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "FAMAS | Corp Defense (Factory New)",
+        "price": {
+          "min": 2.24,
+          "max": 5.83,
+          "mean": 4.04,
+          "median": 4.04,
+          "suggested": 2.56,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "FAMAS | Corp Defense (Minimal Wear)",
+        "price": {
+          "min": 0.16,
+          "max": 0.92,
+          "mean": 0.71,
+          "median": 0.91,
+          "suggested": 0.2,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "FAMAS | Corp Defense (Field-Tested)",
+        "price": {
+          "min": 0.11,
+          "max": 0.11,
+          "mean": 0.11,
+          "median": 0.11,
+          "suggested": 0.13,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "FAMAS | Corp Defense (Well-Worn)",
+        "price": {
+          "min": 0.04,
+          "max": 0.05,
+          "mean": 0.05,
+          "median": 0.05,
+          "suggested": 0.05,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "FAMAS | Corp Defense (Battle-Scarred)",
+        "price": {
+          "min": 0.04,
+          "max": 0.05,
+          "mean": 0.05,
+          "median": 0.05,
+          "suggested": 0.03,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir FAMAS | Corp Defense (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir FAMAS | Corp Defense (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir FAMAS | Corp Defense (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir FAMAS | Corp Defense (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir FAMAS | Corp Defense (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:29.519Z"
+}

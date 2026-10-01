@@ -1,0 +1,201 @@
+{
+  "id": "skin-c097b349041f",
+  "name": "Tec-9 | Terrace",
+  "paint_index": "463",
+  "weapon": {
+    "id": "weapon_tec9",
+    "weapon_id": 30,
+    "name": "Tec-9",
+    "slug": "tec9"
+  },
+  "pattern": {
+    "id": "hy_geometric_steps_yellow",
+    "name": "Terrace"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity. It has been painted with a hydrographic in a geometric motif.\\n\\n<i>You're too trusting Valeria... it will get you killed - Franz Kriegeld, Phoenix Tactician</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 215.67,
+      "max": 3072.43,
+      "mean": 733.63,
+      "median": 272.06,
+      "suggested": 212.5,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 114.77,
+      "max": 140.03,
+      "mean": 129.48,
+      "median": 131.57,
+      "suggested": 148.44,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 109.65,
+      "max": 396.76,
+      "mean": 191.4,
+      "median": 151.19,
+      "suggested": 118.91,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Tec-9 | Terrace (Factory New)",
+      "price": {
+        "min": 215.67,
+        "max": 3072.43,
+        "mean": 733.63,
+        "median": 272.06,
+        "suggested": 212.5,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Tec-9 | Terrace (Minimal Wear)",
+      "price": {
+        "min": 114.77,
+        "max": 140.03,
+        "mean": 129.48,
+        "median": 131.57,
+        "suggested": 148.44,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Tec-9 | Terrace (Field-Tested)",
+      "price": {
+        "min": 109.65,
+        "max": 396.76,
+        "mean": 191.4,
+        "median": 151.19,
+        "suggested": 118.91,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Tec-9 | Terrace (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Tec-9 | Terrace (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Tec-9 | Terrace (Factory New)",
+        "price": {
+          "min": 215.67,
+          "max": 3072.43,
+          "mean": 733.63,
+          "median": 272.06,
+          "suggested": 212.5,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Tec-9 | Terrace (Minimal Wear)",
+        "price": {
+          "min": 114.77,
+          "max": 140.03,
+          "mean": 129.48,
+          "median": 131.57,
+          "suggested": 148.44,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Tec-9 | Terrace (Field-Tested)",
+        "price": {
+          "min": 109.65,
+          "max": 396.76,
+          "mean": 191.4,
+          "median": 151.19,
+          "suggested": 118.91,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Tec-9 | Terrace (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Tec-9 | Terrace (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Tec-9 | Terrace (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Tec-9 | Terrace (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Tec-9 | Terrace (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Tec-9 | Terrace (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Tec-9 | Terrace (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.386Z"
+}

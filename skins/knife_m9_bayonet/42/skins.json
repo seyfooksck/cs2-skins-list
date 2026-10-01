@@ -1,0 +1,241 @@
+{
+  "id": "skin-50f7716ec9b0",
+  "name": "★ M9 Bayonet | Blue Steel",
+  "paint_index": "42",
+  "weapon": {
+    "id": "weapon_knife_m9_bayonet",
+    "weapon_id": 508,
+    "name": "M9 Bayonet",
+    "slug": "knife_m9_bayonet"
+  },
+  "pattern": {
+    "id": "aq_blued",
+    "name": "Blue Steel"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This is the M-9 bayonet.  Originally intended to be mounted on a rifle, it is also well suited to close-quarters combat. It has been cold blued.\\n\\n<i>This is the malbec of weapon design - Booth, Arms Dealer</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 838.53,
+      "max": 1228.97,
+      "mean": 1033.75,
+      "median": 1033.75,
+      "suggested": 963.43,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 695.63,
+      "max": 933.55,
+      "mean": 761.96,
+      "median": 708.53,
+      "suggested": 665.7,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 565.96,
+      "max": 947.93,
+      "mean": 756.95,
+      "median": 756.95,
+      "suggested": 640.77,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 631.69,
+      "max": 631.69,
+      "mean": 631.69,
+      "median": 631.69,
+      "suggested": 598.06,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ M9 Bayonet | Blue Steel (Factory New)",
+      "price": {
+        "min": 838.53,
+        "max": 1228.97,
+        "mean": 1033.75,
+        "median": 1033.75,
+        "suggested": 963.43,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ M9 Bayonet | Blue Steel (Minimal Wear)",
+      "price": {
+        "min": 695.63,
+        "max": 933.55,
+        "mean": 761.96,
+        "median": 708.53,
+        "suggested": 665.7,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ M9 Bayonet | Blue Steel (Field-Tested)",
+      "price": {
+        "min": 565.96,
+        "max": 947.93,
+        "mean": 756.95,
+        "median": 756.95,
+        "suggested": 640.77,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ M9 Bayonet | Blue Steel (Well-Worn)",
+      "price": {
+        "min": 631.69,
+        "max": 631.69,
+        "mean": 631.69,
+        "median": 631.69,
+        "suggested": 598.06,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ M9 Bayonet | Blue Steel (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ M9 Bayonet | Blue Steel (Factory New)",
+        "price": {
+          "min": 838.53,
+          "max": 1228.97,
+          "mean": 1033.75,
+          "median": 1033.75,
+          "suggested": 963.43,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ M9 Bayonet | Blue Steel (Minimal Wear)",
+        "price": {
+          "min": 695.63,
+          "max": 933.55,
+          "mean": 761.96,
+          "median": 708.53,
+          "suggested": 665.7,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ M9 Bayonet | Blue Steel (Field-Tested)",
+        "price": {
+          "min": 565.96,
+          "max": 947.93,
+          "mean": 756.95,
+          "median": 756.95,
+          "suggested": 640.77,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ M9 Bayonet | Blue Steel (Well-Worn)",
+        "price": {
+          "min": 631.69,
+          "max": 631.69,
+          "mean": 631.69,
+          "median": 631.69,
+          "suggested": 598.06,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ M9 Bayonet | Blue Steel (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Blue Steel (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Blue Steel (Minimal Wear)",
+        "price": {
+          "min": 688.49,
+          "max": 688.49,
+          "mean": 688.49,
+          "median": 688.49,
+          "suggested": 651.48,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Blue Steel (Field-Tested)",
+        "price": {
+          "min": 583.47,
+          "max": 583.47,
+          "mean": 583.47,
+          "median": 583.47,
+          "suggested": 645.21,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Blue Steel (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Blue Steel (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:36.593Z"
+}

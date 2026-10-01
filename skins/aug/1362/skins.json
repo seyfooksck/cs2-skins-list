@@ -1,0 +1,249 @@
+{
+  "id": "skin-784a6c99447c",
+  "name": "AUG | Creep",
+  "paint_index": "1362",
+  "weapon": {
+    "id": "weapon_aug",
+    "weapon_id": 8,
+    "name": "AUG",
+    "slug": "aug"
+  },
+  "pattern": {
+    "id": "soe_aug_creep",
+    "name": "Creep"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.8,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire. It has been painted with gnarled branches and birds over a silver base.\\n\\n<i>\\\"They're circling...\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.07,
+      "max": 21.64,
+      "mean": 7.84,
+      "median": 4.75,
+      "suggested": 1.65,
+      "quantity": 25,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.09,
+      "max": 2.87,
+      "mean": 2.61,
+      "median": 2.87,
+      "suggested": 0.58,
+      "quantity": 21,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.21,
+      "max": 0.9,
+      "mean": 0.47,
+      "median": 0.25,
+      "suggested": 0.27,
+      "quantity": 30,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.21,
+      "max": 0.41,
+      "mean": 0.3,
+      "median": 0.3,
+      "suggested": 0.21,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.14,
+      "max": 0.34,
+      "mean": 0.26,
+      "median": 0.27,
+      "suggested": 0.21,
+      "quantity": 15,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AUG | Creep (Factory New)",
+      "price": {
+        "min": 2.07,
+        "max": 21.64,
+        "mean": 7.84,
+        "median": 4.75,
+        "suggested": 1.65,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AUG | Creep (Minimal Wear)",
+      "price": {
+        "min": 2.09,
+        "max": 2.87,
+        "mean": 2.61,
+        "median": 2.87,
+        "suggested": 0.58,
+        "quantity": 21,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AUG | Creep (Field-Tested)",
+      "price": {
+        "min": 0.21,
+        "max": 0.9,
+        "mean": 0.47,
+        "median": 0.25,
+        "suggested": 0.27,
+        "quantity": 30,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AUG | Creep (Well-Worn)",
+      "price": {
+        "min": 0.21,
+        "max": 0.41,
+        "mean": 0.3,
+        "median": 0.3,
+        "suggested": 0.21,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AUG | Creep (Battle-Scarred)",
+      "price": {
+        "min": 0.14,
+        "max": 0.34,
+        "mean": 0.26,
+        "median": 0.27,
+        "suggested": 0.21,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AUG | Creep (Factory New)",
+        "price": {
+          "min": 2.07,
+          "max": 21.64,
+          "mean": 7.84,
+          "median": 4.75,
+          "suggested": 1.65,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AUG | Creep (Minimal Wear)",
+        "price": {
+          "min": 2.09,
+          "max": 2.87,
+          "mean": 2.61,
+          "median": 2.87,
+          "suggested": 0.58,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AUG | Creep (Field-Tested)",
+        "price": {
+          "min": 0.21,
+          "max": 0.9,
+          "mean": 0.47,
+          "median": 0.25,
+          "suggested": 0.27,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AUG | Creep (Well-Worn)",
+        "price": {
+          "min": 0.21,
+          "max": 0.41,
+          "mean": 0.3,
+          "median": 0.3,
+          "suggested": 0.21,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AUG | Creep (Battle-Scarred)",
+        "price": {
+          "min": 0.14,
+          "max": 0.34,
+          "mean": 0.26,
+          "median": 0.27,
+          "suggested": 0.21,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AUG | Creep (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AUG | Creep (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AUG | Creep (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AUG | Creep (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AUG | Creep (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.677Z"
+}

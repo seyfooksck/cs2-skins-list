@@ -1,0 +1,289 @@
+{
+  "id": "skin-a169fd0b8b16",
+  "name": "AUG | Snake Pit",
+  "paint_index": "1249",
+  "weapon": {
+    "id": "weapon_aug",
+    "weapon_id": 8,
+    "name": "AUG",
+    "slug": "aug"
+  },
+  "pattern": {
+    "id": "hy_dune_trap",
+    "name": "Snake Pit"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 0.55,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire. A custom pattern of snakes and amphibians has been applied.\\n\\n<i>Acting on ill intentions</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.34,
+      "max": 16.38,
+      "mean": 1.75,
+      "median": 1.42,
+      "suggested": 0.46,
+      "quantity": 362,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.12,
+      "max": 4.66,
+      "mean": 0.44,
+      "median": 0.22,
+      "suggested": 0.18,
+      "quantity": 316,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.05,
+      "max": 3.59,
+      "mean": 0.3,
+      "median": 0.09,
+      "suggested": 0.08,
+      "quantity": 620,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.05,
+      "max": 5.81,
+      "mean": 0.41,
+      "median": 0.08,
+      "suggested": 0.08,
+      "quantity": 56,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.07,
+      "max": 1.35,
+      "mean": 0.16,
+      "median": 0.09,
+      "suggested": 0.08,
+      "quantity": 73,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AUG | Snake Pit (Factory New)",
+      "price": {
+        "min": 0.34,
+        "max": 16.38,
+        "mean": 1.75,
+        "median": 1.42,
+        "suggested": 0.46,
+        "quantity": 362,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AUG | Snake Pit (Minimal Wear)",
+      "price": {
+        "min": 0.12,
+        "max": 4.66,
+        "mean": 0.44,
+        "median": 0.22,
+        "suggested": 0.18,
+        "quantity": 316,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AUG | Snake Pit (Field-Tested)",
+      "price": {
+        "min": 0.05,
+        "max": 3.59,
+        "mean": 0.3,
+        "median": 0.09,
+        "suggested": 0.08,
+        "quantity": 620,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AUG | Snake Pit (Well-Worn)",
+      "price": {
+        "min": 0.05,
+        "max": 5.81,
+        "mean": 0.41,
+        "median": 0.08,
+        "suggested": 0.08,
+        "quantity": 56,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AUG | Snake Pit (Battle-Scarred)",
+      "price": {
+        "min": 0.07,
+        "max": 1.35,
+        "mean": 0.16,
+        "median": 0.09,
+        "suggested": 0.08,
+        "quantity": 73,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AUG | Snake Pit (Factory New)",
+        "price": {
+          "min": 0.34,
+          "max": 16.38,
+          "mean": 1.75,
+          "median": 1.42,
+          "suggested": 0.46,
+          "quantity": 362,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AUG | Snake Pit (Minimal Wear)",
+        "price": {
+          "min": 0.12,
+          "max": 4.66,
+          "mean": 0.44,
+          "median": 0.22,
+          "suggested": 0.18,
+          "quantity": 316,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AUG | Snake Pit (Field-Tested)",
+        "price": {
+          "min": 0.05,
+          "max": 3.59,
+          "mean": 0.3,
+          "median": 0.09,
+          "suggested": 0.08,
+          "quantity": 620,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AUG | Snake Pit (Well-Worn)",
+        "price": {
+          "min": 0.05,
+          "max": 5.81,
+          "mean": 0.41,
+          "median": 0.08,
+          "suggested": 0.08,
+          "quantity": 56,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AUG | Snake Pit (Battle-Scarred)",
+        "price": {
+          "min": 0.07,
+          "max": 1.35,
+          "mean": 0.16,
+          "median": 0.09,
+          "suggested": 0.08,
+          "quantity": 73,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AUG | Snake Pit (Factory New)",
+        "price": {
+          "min": 0.39,
+          "max": 151.7,
+          "mean": 6.43,
+          "median": 2.99,
+          "suggested": 0.45,
+          "quantity": 89,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AUG | Snake Pit (Minimal Wear)",
+        "price": {
+          "min": 0.13,
+          "max": 13.42,
+          "mean": 4.26,
+          "median": 3.73,
+          "suggested": 0.17,
+          "quantity": 61,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AUG | Snake Pit (Field-Tested)",
+        "price": {
+          "min": 0.05,
+          "max": 11.03,
+          "mean": 2.36,
+          "median": 0.71,
+          "suggested": 0.08,
+          "quantity": 132,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AUG | Snake Pit (Well-Worn)",
+        "price": {
+          "min": 0.07,
+          "max": 3.42,
+          "mean": 1.2,
+          "median": 1.03,
+          "suggested": 0.08,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AUG | Snake Pit (Battle-Scarred)",
+        "price": {
+          "min": 0.08,
+          "max": 6.15,
+          "mean": 1.18,
+          "median": 0.16,
+          "suggested": 0.09,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.575Z"
+}

@@ -1,0 +1,318 @@
+{
+  "id": "skin-b14c9f234bc5",
+  "name": "AK-47 | Vulcan",
+  "paint_index": "302",
+  "weapon": {
+    "id": "weapon_ak47",
+    "weapon_id": 7,
+    "name": "AK-47",
+    "slug": "ak47"
+  },
+  "pattern": {
+    "id": "cu_ak47_rubber",
+    "name": "Vulcan"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.9,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. It has been custom painted in a sports inspired design.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 696.42,
+      "max": 2333.87,
+      "mean": 1077.97,
+      "median": 1067.16,
+      "suggested": 720.7,
+      "quantity": 24,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 400.36,
+      "max": 116693.71,
+      "mean": 2971.94,
+      "median": 513.45,
+      "suggested": 439.73,
+      "quantity": 49,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 185.31,
+      "max": 12412.63,
+      "mean": 435.35,
+      "median": 268.4,
+      "suggested": 257.29,
+      "quantity": 97,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 142.26,
+      "max": 254.39,
+      "mean": 162.94,
+      "median": 153.17,
+      "suggested": 187.94,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 116.68,
+      "max": 187.88,
+      "mean": 147.4,
+      "median": 142.63,
+      "suggested": 144.68,
+      "quantity": 14,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AK-47 | Vulcan (Factory New)",
+      "price": {
+        "min": 696.42,
+        "max": 2333.87,
+        "mean": 1077.97,
+        "median": 1067.16,
+        "suggested": 720.7,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AK-47 | Vulcan (Minimal Wear)",
+      "price": {
+        "min": 400.36,
+        "max": 116693.71,
+        "mean": 2971.94,
+        "median": 513.45,
+        "suggested": 439.73,
+        "quantity": 49,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AK-47 | Vulcan (Field-Tested)",
+      "price": {
+        "min": 185.31,
+        "max": 12412.63,
+        "mean": 435.35,
+        "median": 268.4,
+        "suggested": 257.29,
+        "quantity": 97,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AK-47 | Vulcan (Well-Worn)",
+      "price": {
+        "min": 142.26,
+        "max": 254.39,
+        "mean": 162.94,
+        "median": 153.17,
+        "suggested": 187.94,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AK-47 | Vulcan (Battle-Scarred)",
+      "price": {
+        "min": 116.68,
+        "max": 187.88,
+        "mean": 147.4,
+        "median": 142.63,
+        "suggested": 144.68,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AK-47 | Vulcan (Factory New)",
+        "price": {
+          "min": 696.42,
+          "max": 2333.87,
+          "mean": 1077.97,
+          "median": 1067.16,
+          "suggested": 720.7,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AK-47 | Vulcan (Minimal Wear)",
+        "price": {
+          "min": 400.36,
+          "max": 116693.71,
+          "mean": 2971.94,
+          "median": 513.45,
+          "suggested": 439.73,
+          "quantity": 49,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AK-47 | Vulcan (Field-Tested)",
+        "price": {
+          "min": 185.31,
+          "max": 12412.63,
+          "mean": 435.35,
+          "median": 268.4,
+          "suggested": 257.29,
+          "quantity": 97,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AK-47 | Vulcan (Well-Worn)",
+        "price": {
+          "min": 142.26,
+          "max": 254.39,
+          "mean": 162.94,
+          "median": 153.17,
+          "suggested": 187.94,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AK-47 | Vulcan (Battle-Scarred)",
+        "price": {
+          "min": 116.68,
+          "max": 187.88,
+          "mean": 147.4,
+          "median": 142.63,
+          "suggested": 144.68,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AK-47 | Vulcan (Factory New)",
+        "price": {
+          "min": 1511.37,
+          "max": 2917.34,
+          "mean": 1957.65,
+          "median": 1837.34,
+          "suggested": 1713.86,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AK-47 | Vulcan (Minimal Wear)",
+        "price": {
+          "min": 837.5,
+          "max": 2333.87,
+          "mean": 1234.12,
+          "median": 1082.91,
+          "suggested": 1021.06,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AK-47 | Vulcan (Field-Tested)",
+        "price": {
+          "min": 361.74,
+          "max": 918.8,
+          "mean": 492.67,
+          "median": 443.42,
+          "suggested": 475.99,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AK-47 | Vulcan (Well-Worn)",
+        "price": {
+          "min": 288.74,
+          "max": 351.11,
+          "mean": 305.46,
+          "median": 291,
+          "suggested": 333.35,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ AK-47 | Vulcan (Battle-Scarred)",
+        "price": {
+          "min": 203.41,
+          "max": 577.63,
+          "mean": 293.16,
+          "median": 225.31,
+          "suggested": 229.69,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AK-47 | Vulcan (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AK-47 | Vulcan (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AK-47 | Vulcan (Field-Tested)",
+        "price": {
+          "min": 453.17,
+          "max": 453.17,
+          "mean": 453.17,
+          "median": 453.17,
+          "suggested": 549.15,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AK-47 | Vulcan (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AK-47 | Vulcan (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:20:20.584Z"
+}

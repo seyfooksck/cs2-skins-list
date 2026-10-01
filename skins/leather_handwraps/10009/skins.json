@@ -1,0 +1,180 @@
+{
+  "id": "skin-fb30d56f4210",
+  "name": "★ Hand Wraps | Leather",
+  "paint_index": "10009",
+  "weapon": {
+    "id": "leather_handwraps",
+    "weapon_id": 5032,
+    "name": "Hand Wraps",
+    "slug": "leather_handwraps"
+  },
+  "pattern": {
+    "id": "handwrap_leathery",
+    "name": "Leather"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_gloves",
+    "name": "Gloves"
+  },
+  "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Preferred by hand-to-hand fighters, these wraps protect the knuckles and stabilize the wrist when punching. They are made of leather, gauze, and wicked intent.\\n\\n<i>Become notorious</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": null,
+    "ft": {
+      "min": 1001.87,
+      "max": 1562.53,
+      "mean": 1179.13,
+      "median": 1139.42,
+      "suggested": 778.05,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 323.11,
+      "max": 438.45,
+      "mean": 402.71,
+      "median": 424.64,
+      "suggested": 343.07,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 216.4,
+      "max": 390.92,
+      "mean": 280.3,
+      "median": 233.57,
+      "suggested": 274.76,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Hand Wraps | Leather (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Hand Wraps | Leather (Minimal Wear)",
+      "price": null,
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Hand Wraps | Leather (Field-Tested)",
+      "price": {
+        "min": 1001.87,
+        "max": 1562.53,
+        "mean": 1179.13,
+        "median": 1139.42,
+        "suggested": 778.05,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Hand Wraps | Leather (Well-Worn)",
+      "price": {
+        "min": 323.11,
+        "max": 438.45,
+        "mean": 402.71,
+        "median": 424.64,
+        "suggested": 343.07,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Hand Wraps | Leather (Battle-Scarred)",
+      "price": {
+        "min": 216.4,
+        "max": 390.92,
+        "mean": 280.3,
+        "median": 233.57,
+        "suggested": 274.76,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Hand Wraps | Leather (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Hand Wraps | Leather (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ Hand Wraps | Leather (Field-Tested)",
+        "price": {
+          "min": 1001.87,
+          "max": 1562.53,
+          "mean": 1179.13,
+          "median": 1139.42,
+          "suggested": 778.05,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Hand Wraps | Leather (Well-Worn)",
+        "price": {
+          "min": 323.11,
+          "max": 438.45,
+          "mean": 402.71,
+          "median": 424.64,
+          "suggested": 343.07,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Hand Wraps | Leather (Battle-Scarred)",
+        "price": {
+          "min": 216.4,
+          "max": 390.92,
+          "mean": 280.3,
+          "median": 233.57,
+          "suggested": 274.76,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:23.118Z"
+}

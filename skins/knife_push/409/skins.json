@@ -1,0 +1,113 @@
+{
+  "id": "skin-ea86d4fa2fe4",
+  "name": "★ Shadow Daggers | Tiger Tooth",
+  "paint_index": "409",
+  "weapon": {
+    "id": "weapon_knife_push",
+    "weapon_id": 516,
+    "name": "Shadow Daggers",
+    "slug": "knife_push"
+  },
+  "pattern": {
+    "id": "an_tiger_orange",
+    "name": "Tiger Tooth"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Designed for efficient brutality, using a push dagger is as simple as throwing a punch or two. It has been anodized orange and hand-etched in a tiger stripe pattern.\\n\\n<i>Like the tiger it is rare... like the tiger it is deadly...</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 86.07,
+      "max": 290.57,
+      "mean": 117.31,
+      "median": 96.87,
+      "suggested": 101.3,
+      "quantity": 30,
+      "currency": "USD"
+    },
+    "mw": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Shadow Daggers | Tiger Tooth (Factory New)",
+      "price": {
+        "min": 86.07,
+        "max": 290.57,
+        "mean": 117.31,
+        "median": 96.87,
+        "suggested": 101.3,
+        "quantity": 30,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Shadow Daggers | Tiger Tooth (Minimal Wear)",
+      "price": null,
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Shadow Daggers | Tiger Tooth (Factory New)",
+        "price": {
+          "min": 86.07,
+          "max": 290.57,
+          "mean": 117.31,
+          "median": 96.87,
+          "suggested": 101.3,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Shadow Daggers | Tiger Tooth (Minimal Wear)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Shadow Daggers | Tiger Tooth (Factory New)",
+        "price": {
+          "min": 94.34,
+          "max": 315.06,
+          "mean": 164.2,
+          "median": 132.91,
+          "suggested": 117.14,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Shadow Daggers | Tiger Tooth (Minimal Wear)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:37.341Z"
+}

@@ -1,0 +1,129 @@
+{
+  "id": "skin-0eafc66d4417",
+  "name": "Negev | Anodized Navy",
+  "paint_index": "28",
+  "weapon": {
+    "id": "weapon_negev",
+    "weapon_id": 28,
+    "name": "Negev",
+    "slug": "negev"
+  },
+  "pattern": {
+    "id": "an_navy",
+    "name": "Anodized Navy"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been painted with a chrome base coat and candied in transparent navy blue anodized effect paint.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 341.43,
+      "max": 1225.28,
+      "mean": 783.36,
+      "median": 783.36,
+      "suggested": 378.93,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 641.62,
+      "max": 641.62,
+      "mean": 641.62,
+      "median": 641.62,
+      "suggested": 446.28,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Negev | Anodized Navy (Factory New)",
+      "price": {
+        "min": 341.43,
+        "max": 1225.28,
+        "mean": 783.36,
+        "median": 783.36,
+        "suggested": 378.93,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Negev | Anodized Navy (Minimal Wear)",
+      "price": {
+        "min": 641.62,
+        "max": 641.62,
+        "mean": 641.62,
+        "median": 641.62,
+        "suggested": 446.28,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Negev | Anodized Navy (Factory New)",
+        "price": {
+          "min": 341.43,
+          "max": 1225.28,
+          "mean": 783.36,
+          "median": 783.36,
+          "suggested": 378.93,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Negev | Anodized Navy (Minimal Wear)",
+        "price": {
+          "min": 641.62,
+          "max": 641.62,
+          "mean": 641.62,
+          "median": 641.62,
+          "suggested": 446.28,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Negev | Anodized Navy (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Negev | Anodized Navy (Minimal Wear)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.060Z"
+}

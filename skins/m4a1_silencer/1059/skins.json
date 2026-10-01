@@ -1,0 +1,249 @@
+{
+  "id": "skin-d89f3dc16ecd",
+  "name": "M4A1-S | Fizzy POP",
+  "paint_index": "1059",
+  "weapon": {
+    "id": "weapon_m4a1_silencer",
+    "weapon_id": 60,
+    "name": "M4A1-S",
+    "slug": "m4a1_silencer"
+  },
+  "pattern": {
+    "id": "sp_technowar_red",
+    "name": "Fizzy POP"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.57,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. A tan and red retro techno-inspired pattern has been applied.\\n\\n<i>Wars are won with information</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 22.18,
+      "max": 120.22,
+      "mean": 56.09,
+      "median": 40.9,
+      "suggested": 31.48,
+      "quantity": 50,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 3.3,
+      "max": 53.25,
+      "mean": 9.52,
+      "median": 9.15,
+      "suggested": 3.94,
+      "quantity": 46,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.91,
+      "max": 60.94,
+      "mean": 7.45,
+      "median": 5.78,
+      "suggested": 2.43,
+      "quantity": 190,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.93,
+      "max": 5.82,
+      "mean": 4.11,
+      "median": 5.23,
+      "suggested": 2.36,
+      "quantity": 27,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.74,
+      "max": 54.1,
+      "mean": 7.85,
+      "median": 2.96,
+      "suggested": 2.18,
+      "quantity": 21,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A1-S | Fizzy POP (Factory New)",
+      "price": {
+        "min": 22.18,
+        "max": 120.22,
+        "mean": 56.09,
+        "median": 40.9,
+        "suggested": 31.48,
+        "quantity": 50,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A1-S | Fizzy POP (Minimal Wear)",
+      "price": {
+        "min": 3.3,
+        "max": 53.25,
+        "mean": 9.52,
+        "median": 9.15,
+        "suggested": 3.94,
+        "quantity": 46,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A1-S | Fizzy POP (Field-Tested)",
+      "price": {
+        "min": 1.91,
+        "max": 60.94,
+        "mean": 7.45,
+        "median": 5.78,
+        "suggested": 2.43,
+        "quantity": 190,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M4A1-S | Fizzy POP (Well-Worn)",
+      "price": {
+        "min": 1.93,
+        "max": 5.82,
+        "mean": 4.11,
+        "median": 5.23,
+        "suggested": 2.36,
+        "quantity": 27,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M4A1-S | Fizzy POP (Battle-Scarred)",
+      "price": {
+        "min": 1.74,
+        "max": 54.1,
+        "mean": 7.85,
+        "median": 2.96,
+        "suggested": 2.18,
+        "quantity": 21,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A1-S | Fizzy POP (Factory New)",
+        "price": {
+          "min": 22.18,
+          "max": 120.22,
+          "mean": 56.09,
+          "median": 40.9,
+          "suggested": 31.48,
+          "quantity": 50,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A1-S | Fizzy POP (Minimal Wear)",
+        "price": {
+          "min": 3.3,
+          "max": 53.25,
+          "mean": 9.52,
+          "median": 9.15,
+          "suggested": 3.94,
+          "quantity": 46,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A1-S | Fizzy POP (Field-Tested)",
+        "price": {
+          "min": 1.91,
+          "max": 60.94,
+          "mean": 7.45,
+          "median": 5.78,
+          "suggested": 2.43,
+          "quantity": 190,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M4A1-S | Fizzy POP (Well-Worn)",
+        "price": {
+          "min": 1.93,
+          "max": 5.82,
+          "mean": 4.11,
+          "median": 5.23,
+          "suggested": 2.36,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M4A1-S | Fizzy POP (Battle-Scarred)",
+        "price": {
+          "min": 1.74,
+          "max": 54.1,
+          "mean": 7.85,
+          "median": 2.96,
+          "suggested": 2.18,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A1-S | Fizzy POP (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A1-S | Fizzy POP (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A1-S | Fizzy POP (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M4A1-S | Fizzy POP (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M4A1-S | Fizzy POP (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.281Z"
+}

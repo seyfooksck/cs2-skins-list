@@ -1,0 +1,310 @@
+{
+  "id": "skin-69c57b0e17a5",
+  "name": "Negev | Power Loader",
+  "paint_index": "514",
+  "weapon": {
+    "id": "weapon_negev",
+    "weapon_id": 28,
+    "name": "Negev",
+    "slug": "negev"
+  },
+  "pattern": {
+    "id": "cu_negev_impact",
+    "name": "Power Loader"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with a hydrographic reminiscent of heavy machinery.\\n\\n<i>Feared by Queens.  Beloved by Bishops.</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 12.35,
+      "max": 70.02,
+      "mean": 26.96,
+      "median": 22.02,
+      "suggested": 13.83,
+      "quantity": 17,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 4.46,
+      "max": 16.34,
+      "mean": 6.45,
+      "median": 5.82,
+      "suggested": 5.25,
+      "quantity": 25,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.54,
+      "max": 3.5,
+      "mean": 1.79,
+      "median": 1.72,
+      "suggested": 1.95,
+      "quantity": 18,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.16,
+      "max": 24.52,
+      "mean": 2.94,
+      "median": 1.38,
+      "suggested": 1.55,
+      "quantity": 32,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.13,
+      "max": 22.66,
+      "mean": 4.1,
+      "median": 1.42,
+      "suggested": 1.48,
+      "quantity": 16,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Negev | Power Loader (Factory New)",
+      "price": {
+        "min": 12.35,
+        "max": 70.02,
+        "mean": 26.96,
+        "median": 22.02,
+        "suggested": 13.83,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Negev | Power Loader (Minimal Wear)",
+      "price": {
+        "min": 4.46,
+        "max": 16.34,
+        "mean": 6.45,
+        "median": 5.82,
+        "suggested": 5.25,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Negev | Power Loader (Field-Tested)",
+      "price": {
+        "min": 1.54,
+        "max": 3.5,
+        "mean": 1.79,
+        "median": 1.72,
+        "suggested": 1.95,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Negev | Power Loader (Well-Worn)",
+      "price": {
+        "min": 1.16,
+        "max": 24.52,
+        "mean": 2.94,
+        "median": 1.38,
+        "suggested": 1.55,
+        "quantity": 32,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Negev | Power Loader (Battle-Scarred)",
+      "price": {
+        "min": 1.13,
+        "max": 22.66,
+        "mean": 4.1,
+        "median": 1.42,
+        "suggested": 1.48,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Negev | Power Loader (Factory New)",
+        "price": {
+          "min": 12.35,
+          "max": 70.02,
+          "mean": 26.96,
+          "median": 22.02,
+          "suggested": 13.83,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Negev | Power Loader (Minimal Wear)",
+        "price": {
+          "min": 4.46,
+          "max": 16.34,
+          "mean": 6.45,
+          "median": 5.82,
+          "suggested": 5.25,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Negev | Power Loader (Field-Tested)",
+        "price": {
+          "min": 1.54,
+          "max": 3.5,
+          "mean": 1.79,
+          "median": 1.72,
+          "suggested": 1.95,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Negev | Power Loader (Well-Worn)",
+        "price": {
+          "min": 1.16,
+          "max": 24.52,
+          "mean": 2.94,
+          "median": 1.38,
+          "suggested": 1.55,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Negev | Power Loader (Battle-Scarred)",
+        "price": {
+          "min": 1.13,
+          "max": 22.66,
+          "mean": 4.1,
+          "median": 1.42,
+          "suggested": 1.48,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Negev | Power Loader (Factory New)",
+        "price": {
+          "min": 41.47,
+          "max": 81.88,
+          "mean": 54.95,
+          "median": 41.51,
+          "suggested": 48.21,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Negev | Power Loader (Minimal Wear)",
+        "price": {
+          "min": 20.62,
+          "max": 29.9,
+          "mean": 22.72,
+          "median": 20.62,
+          "suggested": 16.97,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Negev | Power Loader (Field-Tested)",
+        "price": {
+          "min": 5.03,
+          "max": 26.9,
+          "mean": 8.3,
+          "median": 6.02,
+          "suggested": 6.25,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Negev | Power Loader (Well-Worn)",
+        "price": {
+          "min": 3.08,
+          "max": 79.57,
+          "mean": 8.58,
+          "median": 3.34,
+          "suggested": 3.67,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Negev | Power Loader (Battle-Scarred)",
+        "price": {
+          "min": 2.16,
+          "max": 3.23,
+          "mean": 2.66,
+          "median": 2.72,
+          "suggested": 2.83,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Negev | Power Loader (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Negev | Power Loader (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Negev | Power Loader (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Negev | Power Loader (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Negev | Power Loader (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.120Z"
+}

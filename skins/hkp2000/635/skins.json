@@ -1,0 +1,310 @@
+{
+  "id": "skin-d044427dd6f6",
+  "name": "P2000 | Turf",
+  "paint_index": "635",
+  "weapon": {
+    "id": "weapon_hkp2000",
+    "weapon_id": 32,
+    "name": "P2000",
+    "slug": "hkp2000"
+  },
+  "pattern": {
+    "id": "gs_p2000-sport",
+    "name": "Turf"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Accurate and controllable, the German-made P2000 is a serviceable first-round pistol that works best against unarmored opponents. The grip and slide have been painted metallic green.\\n\\n<i>The grass is always redder on the opposing side</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 18.29,
+      "max": 42.8,
+      "mean": 31.08,
+      "median": 29.17,
+      "suggested": 30.17,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 5.09,
+      "max": 43.81,
+      "mean": 8.65,
+      "median": 6.15,
+      "suggested": 6.37,
+      "quantity": 30,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.56,
+      "max": 34.21,
+      "mean": 4.96,
+      "median": 3.5,
+      "suggested": 2.01,
+      "quantity": 31,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.82,
+      "max": 137.99,
+      "mean": 4.17,
+      "median": 1.07,
+      "suggested": 0.95,
+      "quantity": 52,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.63,
+      "max": 8.25,
+      "mean": 1.83,
+      "median": 1.16,
+      "suggested": 1.03,
+      "quantity": 37,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P2000 | Turf (Factory New)",
+      "price": {
+        "min": 18.29,
+        "max": 42.8,
+        "mean": 31.08,
+        "median": 29.17,
+        "suggested": 30.17,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P2000 | Turf (Minimal Wear)",
+      "price": {
+        "min": 5.09,
+        "max": 43.81,
+        "mean": 8.65,
+        "median": 6.15,
+        "suggested": 6.37,
+        "quantity": 30,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P2000 | Turf (Field-Tested)",
+      "price": {
+        "min": 1.56,
+        "max": 34.21,
+        "mean": 4.96,
+        "median": 3.5,
+        "suggested": 2.01,
+        "quantity": 31,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P2000 | Turf (Well-Worn)",
+      "price": {
+        "min": 0.82,
+        "max": 137.99,
+        "mean": 4.17,
+        "median": 1.07,
+        "suggested": 0.95,
+        "quantity": 52,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P2000 | Turf (Battle-Scarred)",
+      "price": {
+        "min": 0.63,
+        "max": 8.25,
+        "mean": 1.83,
+        "median": 1.16,
+        "suggested": 1.03,
+        "quantity": 37,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P2000 | Turf (Factory New)",
+        "price": {
+          "min": 18.29,
+          "max": 42.8,
+          "mean": 31.08,
+          "median": 29.17,
+          "suggested": 30.17,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P2000 | Turf (Minimal Wear)",
+        "price": {
+          "min": 5.09,
+          "max": 43.81,
+          "mean": 8.65,
+          "median": 6.15,
+          "suggested": 6.37,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P2000 | Turf (Field-Tested)",
+        "price": {
+          "min": 1.56,
+          "max": 34.21,
+          "mean": 4.96,
+          "median": 3.5,
+          "suggested": 2.01,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P2000 | Turf (Well-Worn)",
+        "price": {
+          "min": 0.82,
+          "max": 137.99,
+          "mean": 4.17,
+          "median": 1.07,
+          "suggested": 0.95,
+          "quantity": 52,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P2000 | Turf (Battle-Scarred)",
+        "price": {
+          "min": 0.63,
+          "max": 8.25,
+          "mean": 1.83,
+          "median": 1.16,
+          "suggested": 1.03,
+          "quantity": 37,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P2000 | Turf (Factory New)",
+        "price": {
+          "min": 5.83,
+          "max": 68.53,
+          "mean": 15.68,
+          "median": 7.68,
+          "suggested": 7.66,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P2000 | Turf (Minimal Wear)",
+        "price": {
+          "min": 1.42,
+          "max": 136.52,
+          "mean": 8.47,
+          "median": 2.57,
+          "suggested": 1.81,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P2000 | Turf (Field-Tested)",
+        "price": {
+          "min": 0.64,
+          "max": 11.49,
+          "mean": 1.45,
+          "median": 0.84,
+          "suggested": 0.8,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ P2000 | Turf (Well-Worn)",
+        "price": {
+          "min": 0.44,
+          "max": 49.01,
+          "mean": 2.11,
+          "median": 0.57,
+          "suggested": 0.59,
+          "quantity": 44,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ P2000 | Turf (Battle-Scarred)",
+        "price": {
+          "min": 0.47,
+          "max": 6.88,
+          "mean": 1.09,
+          "median": 0.58,
+          "suggested": 0.57,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P2000 | Turf (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P2000 | Turf (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P2000 | Turf (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P2000 | Turf (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P2000 | Turf (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:32.603Z"
+}

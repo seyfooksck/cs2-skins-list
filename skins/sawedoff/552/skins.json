@@ -1,0 +1,154 @@
+{
+  "id": "skin-a7997cc94140",
+  "name": "Sawed-Off | Fubar",
+  "paint_index": "552",
+  "weapon": {
+    "id": "weapon_sawedoff",
+    "weapon_id": 29,
+    "name": "Sawed-Off",
+    "slug": "sawedoff"
+  },
+  "pattern": {
+    "id": "gs_sawedoff_fubar",
+    "name": "Fubar"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0.4,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit. This well-traveled shotgun has tick marks carved into the barrel.\\n\\n<i>It starts with a bang... it ends with silence</i>",
+  "images": {
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "ww": {
+      "min": 1.38,
+      "max": 4.18,
+      "mean": 2.26,
+      "median": 2.31,
+      "suggested": 1.73,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.23,
+      "max": 3.5,
+      "mean": 0.4,
+      "median": 0.35,
+      "suggested": 0.35,
+      "quantity": 140,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Sawed-Off | Fubar (Well-Worn)",
+      "price": {
+        "min": 1.38,
+        "max": 4.18,
+        "mean": 2.26,
+        "median": 2.31,
+        "suggested": 1.73,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Sawed-Off | Fubar (Battle-Scarred)",
+      "price": {
+        "min": 0.23,
+        "max": 3.5,
+        "mean": 0.4,
+        "median": 0.35,
+        "suggested": 0.35,
+        "quantity": 140,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "ww": {
+        "market_hash_name": "Sawed-Off | Fubar (Well-Worn)",
+        "price": {
+          "min": 1.38,
+          "max": 4.18,
+          "mean": 2.26,
+          "median": 2.31,
+          "suggested": 1.73,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Sawed-Off | Fubar (Battle-Scarred)",
+        "price": {
+          "min": 0.23,
+          "max": 3.5,
+          "mean": 0.4,
+          "median": 0.35,
+          "suggested": 0.35,
+          "quantity": 140,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "ww": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Fubar (Well-Worn)",
+        "price": {
+          "min": 1.74,
+          "max": 65.56,
+          "mean": 37.9,
+          "median": 50.15,
+          "suggested": 2.31,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Fubar (Battle-Scarred)",
+        "price": {
+          "min": 0.16,
+          "max": 2.19,
+          "mean": 0.35,
+          "median": 0.26,
+          "suggested": 0.25,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "ww": {
+        "market_hash_name": "Souvenir Sawed-Off | Fubar (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Sawed-Off | Fubar (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:47.142Z"
+}

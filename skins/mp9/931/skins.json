@@ -1,0 +1,289 @@
+{
+  "id": "skin-348f142a19ac",
+  "name": "MP9 | Old Roots",
+  "paint_index": "931",
+  "weapon": {
+    "id": "weapon_mp9",
+    "weapon_id": 34,
+    "name": "MP9",
+    "slug": "mp9"
+  },
+  "pattern": {
+    "id": "sp_moro_carving_yellow",
+    "name": "Old Roots"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been spray-painted with a vine and flower pattern in various shades of green.\\n\\n<i>Established, seasoned, weathered—you can just say \\\"old\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 3.02,
+      "max": 80.52,
+      "mean": 12.22,
+      "median": 5.13,
+      "suggested": 3.72,
+      "quantity": 36,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.17,
+      "max": 191.38,
+      "mean": 15.15,
+      "median": 5.83,
+      "suggested": 1.01,
+      "quantity": 28,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.5,
+      "max": 10.49,
+      "mean": 4.47,
+      "median": 4.19,
+      "suggested": 0.58,
+      "quantity": 42,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.17,
+      "max": 5.48,
+      "mean": 2.77,
+      "median": 2.53,
+      "suggested": 1.15,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 3.57,
+      "max": 7,
+      "mean": 4.9,
+      "median": 4.53,
+      "suggested": 1.57,
+      "quantity": 4,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP9 | Old Roots (Factory New)",
+      "price": {
+        "min": 3.02,
+        "max": 80.52,
+        "mean": 12.22,
+        "median": 5.13,
+        "suggested": 3.72,
+        "quantity": 36,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP9 | Old Roots (Minimal Wear)",
+      "price": {
+        "min": 1.17,
+        "max": 191.38,
+        "mean": 15.15,
+        "median": 5.83,
+        "suggested": 1.01,
+        "quantity": 28,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP9 | Old Roots (Field-Tested)",
+      "price": {
+        "min": 0.5,
+        "max": 10.49,
+        "mean": 4.47,
+        "median": 4.19,
+        "suggested": 0.58,
+        "quantity": 42,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP9 | Old Roots (Well-Worn)",
+      "price": {
+        "min": 1.17,
+        "max": 5.48,
+        "mean": 2.77,
+        "median": 2.53,
+        "suggested": 1.15,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP9 | Old Roots (Battle-Scarred)",
+      "price": {
+        "min": 3.57,
+        "max": 7,
+        "mean": 4.9,
+        "median": 4.53,
+        "suggested": 1.57,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP9 | Old Roots (Factory New)",
+        "price": {
+          "min": 3.02,
+          "max": 80.52,
+          "mean": 12.22,
+          "median": 5.13,
+          "suggested": 3.72,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP9 | Old Roots (Minimal Wear)",
+        "price": {
+          "min": 1.17,
+          "max": 191.38,
+          "mean": 15.15,
+          "median": 5.83,
+          "suggested": 1.01,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP9 | Old Roots (Field-Tested)",
+        "price": {
+          "min": 0.5,
+          "max": 10.49,
+          "mean": 4.47,
+          "median": 4.19,
+          "suggested": 0.58,
+          "quantity": 42,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP9 | Old Roots (Well-Worn)",
+        "price": {
+          "min": 1.17,
+          "max": 5.48,
+          "mean": 2.77,
+          "median": 2.53,
+          "suggested": 1.15,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP9 | Old Roots (Battle-Scarred)",
+        "price": {
+          "min": 3.57,
+          "max": 7,
+          "mean": 4.9,
+          "median": 4.53,
+          "suggested": 1.57,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP9 | Old Roots (Factory New)",
+        "price": {
+          "min": 1.31,
+          "max": 39.94,
+          "mean": 5.88,
+          "median": 4.26,
+          "suggested": 1.25,
+          "quantity": 58,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP9 | Old Roots (Minimal Wear)",
+        "price": {
+          "min": 1.05,
+          "max": 348.21,
+          "mean": 44.23,
+          "median": 3.97,
+          "suggested": 0.82,
+          "quantity": 38,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP9 | Old Roots (Field-Tested)",
+        "price": {
+          "min": 0.42,
+          "max": 39.94,
+          "mean": 8.03,
+          "median": 7.99,
+          "suggested": 0.5,
+          "quantity": 94,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP9 | Old Roots (Well-Worn)",
+        "price": {
+          "min": 0.41,
+          "max": 39.94,
+          "mean": 7.07,
+          "median": 7.99,
+          "suggested": 0.42,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP9 | Old Roots (Battle-Scarred)",
+        "price": {
+          "min": 0.39,
+          "max": 7.99,
+          "mean": 2.32,
+          "median": 0.58,
+          "suggested": 0.44,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:43.985Z"
+}

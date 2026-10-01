@@ -1,0 +1,206 @@
+{
+  "id": "skin-353d0fe2cbd6",
+  "name": "Nova | Tempest",
+  "paint_index": "191",
+  "weapon": {
+    "id": "weapon_nova",
+    "weapon_id": 35,
+    "name": "Nova",
+    "slug": "nova"
+  },
+  "pattern": {
+    "id": "hy_seaside_bravo",
+    "name": "Tempest"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0.06,
+  "max_float": 0.22,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Nova's rock-bottom price tag makes it a great ambush weapon for a cash-strapped team. This memento from Seaside has been painted with a wave and cloud motif hydrographic.\\n\\n<i>A storm is coming</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 64.54,
+      "max": 126.24,
+      "mean": 96.05,
+      "median": 97.38,
+      "suggested": 23.57,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 5.38,
+      "max": 39.94,
+      "mean": 10.2,
+      "median": 9.83,
+      "suggested": 6.28,
+      "quantity": 25,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 5.39,
+      "max": 8.37,
+      "mean": 6.98,
+      "median": 7.05,
+      "suggested": 6.4,
+      "quantity": 6,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Nova | Tempest (Factory New)",
+      "price": {
+        "min": 64.54,
+        "max": 126.24,
+        "mean": 96.05,
+        "median": 97.38,
+        "suggested": 23.57,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Nova | Tempest (Minimal Wear)",
+      "price": {
+        "min": 5.38,
+        "max": 39.94,
+        "mean": 10.2,
+        "median": 9.83,
+        "suggested": 6.28,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Nova | Tempest (Field-Tested)",
+      "price": {
+        "min": 5.39,
+        "max": 8.37,
+        "mean": 6.98,
+        "median": 7.05,
+        "suggested": 6.4,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Nova | Tempest (Factory New)",
+        "price": {
+          "min": 64.54,
+          "max": 126.24,
+          "mean": 96.05,
+          "median": 97.38,
+          "suggested": 23.57,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Nova | Tempest (Minimal Wear)",
+        "price": {
+          "min": 5.38,
+          "max": 39.94,
+          "mean": 10.2,
+          "median": 9.83,
+          "suggested": 6.28,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Nova | Tempest (Field-Tested)",
+        "price": {
+          "min": 5.39,
+          "max": 8.37,
+          "mean": 6.98,
+          "median": 7.05,
+          "suggested": 6.4,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Nova | Tempest (Factory New)",
+        "price": {
+          "min": 36.06,
+          "max": 36.06,
+          "mean": 36.06,
+          "median": 36.06,
+          "suggested": 43.4,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Nova | Tempest (Minimal Wear)",
+        "price": {
+          "min": 7.27,
+          "max": 551,
+          "mean": 95.13,
+          "median": 18.67,
+          "suggested": 7.31,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Nova | Tempest (Field-Tested)",
+        "price": {
+          "min": 6.02,
+          "max": 8.1,
+          "mean": 6.76,
+          "median": 6.15,
+          "suggested": 7.01,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Nova | Tempest (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Nova | Tempest (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Nova | Tempest (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.665Z"
+}

@@ -1,0 +1,249 @@
+{
+  "id": "skin-cec820187789",
+  "name": "Sawed-Off | Jungle Thicket",
+  "paint_index": "870",
+  "weapon": {
+    "id": "weapon_sawedoff",
+    "weapon_id": 29,
+    "name": "Sawed-Off",
+    "slug": "sawedoff"
+  },
+  "pattern": {
+    "id": "sp_palm_green",
+    "name": "Jungle Thicket"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit. It has been spray-painted with dark green palm fronds over a jungle colored camo.\\n\\n<i>From Aztec with love</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 6.71,
+      "max": 68.53,
+      "mean": 18.23,
+      "median": 10.02,
+      "suggested": 7.43,
+      "quantity": 38,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 4.66,
+      "max": 21.34,
+      "mean": 9.67,
+      "median": 8.09,
+      "suggested": 5.75,
+      "quantity": 26,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 4.12,
+      "max": 64.18,
+      "mean": 12.02,
+      "median": 7.14,
+      "suggested": 5.13,
+      "quantity": 39,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 4.1,
+      "max": 17.96,
+      "mean": 7.81,
+      "median": 4.59,
+      "suggested": 4.66,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 5.31,
+      "max": 6.57,
+      "mean": 5.74,
+      "median": 5.36,
+      "suggested": 5.92,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Sawed-Off | Jungle Thicket (Factory New)",
+      "price": {
+        "min": 6.71,
+        "max": 68.53,
+        "mean": 18.23,
+        "median": 10.02,
+        "suggested": 7.43,
+        "quantity": 38,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Sawed-Off | Jungle Thicket (Minimal Wear)",
+      "price": {
+        "min": 4.66,
+        "max": 21.34,
+        "mean": 9.67,
+        "median": 8.09,
+        "suggested": 5.75,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Sawed-Off | Jungle Thicket (Field-Tested)",
+      "price": {
+        "min": 4.12,
+        "max": 64.18,
+        "mean": 12.02,
+        "median": 7.14,
+        "suggested": 5.13,
+        "quantity": 39,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Sawed-Off | Jungle Thicket (Well-Worn)",
+      "price": {
+        "min": 4.1,
+        "max": 17.96,
+        "mean": 7.81,
+        "median": 4.59,
+        "suggested": 4.66,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Sawed-Off | Jungle Thicket (Battle-Scarred)",
+      "price": {
+        "min": 5.31,
+        "max": 6.57,
+        "mean": 5.74,
+        "median": 5.36,
+        "suggested": 5.92,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Sawed-Off | Jungle Thicket (Factory New)",
+        "price": {
+          "min": 6.71,
+          "max": 68.53,
+          "mean": 18.23,
+          "median": 10.02,
+          "suggested": 7.43,
+          "quantity": 38,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Sawed-Off | Jungle Thicket (Minimal Wear)",
+        "price": {
+          "min": 4.66,
+          "max": 21.34,
+          "mean": 9.67,
+          "median": 8.09,
+          "suggested": 5.75,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Sawed-Off | Jungle Thicket (Field-Tested)",
+        "price": {
+          "min": 4.12,
+          "max": 64.18,
+          "mean": 12.02,
+          "median": 7.14,
+          "suggested": 5.13,
+          "quantity": 39,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Sawed-Off | Jungle Thicket (Well-Worn)",
+        "price": {
+          "min": 4.1,
+          "max": 17.96,
+          "mean": 7.81,
+          "median": 4.59,
+          "suggested": 4.66,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Sawed-Off | Jungle Thicket (Battle-Scarred)",
+        "price": {
+          "min": 5.31,
+          "max": 6.57,
+          "mean": 5.74,
+          "median": 5.36,
+          "suggested": 5.92,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Sawed-Off | Jungle Thicket (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Sawed-Off | Jungle Thicket (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Sawed-Off | Jungle Thicket (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Sawed-Off | Jungle Thicket (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Sawed-Off | Jungle Thicket (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:47.335Z"
+}

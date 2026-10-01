@@ -1,0 +1,193 @@
+{
+  "id": "skin-4dc9191ed25b",
+  "name": "★ Gut Knife | Night",
+  "paint_index": "40",
+  "weapon": {
+    "id": "weapon_knife_gut",
+    "weapon_id": 506,
+    "name": "Gut Knife",
+    "slug": "knife_gut"
+  },
+  "pattern": {
+    "id": "so_night",
+    "name": "Night"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The most notable feature of a gut knife is the gut hook on the spine of the blade.  Originally popularized as an aid for field dressing game, the gut hook is also effective at  cutting through fibrous materials like rope, webbing, or safety belts with ease. It has individual parts spray-painted solid colors in a night ops color scheme.\\n\\n<i>It's the whisper of the wind... it's the bite at your neck</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 63.75,
+      "max": 86.01,
+      "mean": 76.63,
+      "median": 80.12,
+      "suggested": 79.18,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 57.75,
+      "max": 74.66,
+      "mean": 64.23,
+      "median": 62.24,
+      "suggested": 63.56,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Gut Knife | Night (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Gut Knife | Night (Minimal Wear)",
+      "price": {
+        "min": 63.75,
+        "max": 86.01,
+        "mean": 76.63,
+        "median": 80.12,
+        "suggested": 79.18,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Gut Knife | Night (Field-Tested)",
+      "price": {
+        "min": 57.75,
+        "max": 74.66,
+        "mean": 64.23,
+        "median": 62.24,
+        "suggested": 63.56,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Gut Knife | Night (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Gut Knife | Night (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Gut Knife | Night (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Gut Knife | Night (Minimal Wear)",
+        "price": {
+          "min": 63.75,
+          "max": 86.01,
+          "mean": 76.63,
+          "median": 80.12,
+          "suggested": 79.18,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Gut Knife | Night (Field-Tested)",
+        "price": {
+          "min": 57.75,
+          "max": 74.66,
+          "mean": 64.23,
+          "median": 62.24,
+          "suggested": 63.56,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Gut Knife | Night (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ Gut Knife | Night (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Gut Knife | Night (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Gut Knife | Night (Minimal Wear)",
+        "price": {
+          "min": 105.79,
+          "max": 105.79,
+          "mean": 105.79,
+          "median": 105.79,
+          "suggested": 126.99,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Gut Knife | Night (Field-Tested)",
+        "price": {
+          "min": 76.99,
+          "max": 76.99,
+          "mean": 76.99,
+          "median": 76.99,
+          "suggested": 75.89,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Gut Knife | Night (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Gut Knife | Night (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:35.271Z"
+}

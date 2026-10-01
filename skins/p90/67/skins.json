@@ -1,0 +1,130 @@
+{
+  "id": "skin-236347a195bd",
+  "name": "P90 | Cold Blooded",
+  "paint_index": "67",
+  "weapon": {
+    "id": "weapon_p90",
+    "weapon_id": 19,
+    "name": "P90",
+    "slug": "p90"
+  },
+  "pattern": {
+    "id": "am_slither_p90",
+    "name": "Cold Blooded"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been painted with a chrome base coat and candied in transparent red anodized effect paint.  It has then been laser-etched with a slithering snake motif.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 67.68,
+      "max": 344.36,
+      "mean": 137.03,
+      "median": 112.61,
+      "suggested": 86.07,
+      "quantity": 16,
+      "currency": "USD"
+    },
+    "mw": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P90 | Cold Blooded (Factory New)",
+      "price": {
+        "min": 67.68,
+        "max": 344.36,
+        "mean": 137.03,
+        "median": 112.61,
+        "suggested": 86.07,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P90 | Cold Blooded (Minimal Wear)",
+      "price": null,
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P90 | Cold Blooded (Factory New)",
+        "price": {
+          "min": 67.68,
+          "max": 344.36,
+          "mean": 137.03,
+          "median": 112.61,
+          "suggested": 86.07,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P90 | Cold Blooded (Minimal Wear)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P90 | Cold Blooded (Factory New)",
+        "price": {
+          "min": 98.05,
+          "max": 471.49,
+          "mean": 128.7,
+          "median": 110.86,
+          "suggested": 112.89,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P90 | Cold Blooded (Minimal Wear)",
+        "price": {
+          "min": 89.35,
+          "max": 89.35,
+          "mean": 89.35,
+          "median": 89.35,
+          "suggested": 96.01,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P90 | Cold Blooded (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P90 | Cold Blooded (Minimal Wear)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:45.803Z"
+}

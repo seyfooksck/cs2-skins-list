@@ -1,0 +1,310 @@
+{
+  "id": "skin-62ecfa87b86d",
+  "name": "M4A1-S | Electrum",
+  "paint_index": "1433",
+  "weapon": {
+    "id": "weapon_m4a1_silencer",
+    "weapon_id": 60,
+    "name": "M4A1-S",
+    "slug": "m4a1_silencer"
+  },
+  "pattern": {
+    "id": "m4a1s_electrum",
+    "name": "Electrum"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. It has been custom painted with a marbled green base and finished with gold and red accents.\\n\\n<i>They don't pay you enough to carry that, but I will - Valeria Jenner, Revolutionary</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 8.05,
+      "max": 78.44,
+      "mean": 13.33,
+      "median": 10.27,
+      "suggested": 9.81,
+      "quantity": 109,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.86,
+      "max": 15.53,
+      "mean": 4.18,
+      "median": 3.49,
+      "suggested": 3.25,
+      "quantity": 119,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.27,
+      "max": 7.61,
+      "mean": 2,
+      "median": 1.63,
+      "suggested": 1.58,
+      "quantity": 170,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.89,
+      "max": 7.16,
+      "mean": 2.37,
+      "median": 1.95,
+      "suggested": 1.1,
+      "quantity": 53,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.92,
+      "max": 30.31,
+      "mean": 3.66,
+      "median": 3.15,
+      "suggested": 1.05,
+      "quantity": 67,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A1-S | Electrum (Factory New)",
+      "price": {
+        "min": 8.05,
+        "max": 78.44,
+        "mean": 13.33,
+        "median": 10.27,
+        "suggested": 9.81,
+        "quantity": 109,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A1-S | Electrum (Minimal Wear)",
+      "price": {
+        "min": 2.86,
+        "max": 15.53,
+        "mean": 4.18,
+        "median": 3.49,
+        "suggested": 3.25,
+        "quantity": 119,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A1-S | Electrum (Field-Tested)",
+      "price": {
+        "min": 1.27,
+        "max": 7.61,
+        "mean": 2,
+        "median": 1.63,
+        "suggested": 1.58,
+        "quantity": 170,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M4A1-S | Electrum (Well-Worn)",
+      "price": {
+        "min": 0.89,
+        "max": 7.16,
+        "mean": 2.37,
+        "median": 1.95,
+        "suggested": 1.1,
+        "quantity": 53,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M4A1-S | Electrum (Battle-Scarred)",
+      "price": {
+        "min": 0.92,
+        "max": 30.31,
+        "mean": 3.66,
+        "median": 3.15,
+        "suggested": 1.05,
+        "quantity": 67,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A1-S | Electrum (Factory New)",
+        "price": {
+          "min": 8.05,
+          "max": 78.44,
+          "mean": 13.33,
+          "median": 10.27,
+          "suggested": 9.81,
+          "quantity": 109,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A1-S | Electrum (Minimal Wear)",
+        "price": {
+          "min": 2.86,
+          "max": 15.53,
+          "mean": 4.18,
+          "median": 3.49,
+          "suggested": 3.25,
+          "quantity": 119,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A1-S | Electrum (Field-Tested)",
+        "price": {
+          "min": 1.27,
+          "max": 7.61,
+          "mean": 2,
+          "median": 1.63,
+          "suggested": 1.58,
+          "quantity": 170,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M4A1-S | Electrum (Well-Worn)",
+        "price": {
+          "min": 0.89,
+          "max": 7.16,
+          "mean": 2.37,
+          "median": 1.95,
+          "suggested": 1.1,
+          "quantity": 53,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M4A1-S | Electrum (Battle-Scarred)",
+        "price": {
+          "min": 0.92,
+          "max": 30.31,
+          "mean": 3.66,
+          "median": 3.15,
+          "suggested": 1.05,
+          "quantity": 67,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ M4A1-S | Electrum (Factory New)",
+        "price": {
+          "min": 22.81,
+          "max": 110.21,
+          "mean": 41.61,
+          "median": 31.31,
+          "suggested": 29.76,
+          "quantity": 41,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ M4A1-S | Electrum (Minimal Wear)",
+        "price": {
+          "min": 9.17,
+          "max": 16.26,
+          "mean": 10.37,
+          "median": 9.37,
+          "suggested": 10.7,
+          "quantity": 42,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ M4A1-S | Electrum (Field-Tested)",
+        "price": {
+          "min": 4.12,
+          "max": 18.9,
+          "mean": 9.3,
+          "median": 6.77,
+          "suggested": 5.27,
+          "quantity": 49,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ M4A1-S | Electrum (Well-Worn)",
+        "price": {
+          "min": 3.23,
+          "max": 8.75,
+          "mean": 5.79,
+          "median": 4.94,
+          "suggested": 3.98,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ M4A1-S | Electrum (Battle-Scarred)",
+        "price": {
+          "min": 3.06,
+          "max": 68.62,
+          "mean": 9.42,
+          "median": 4.66,
+          "suggested": 3.53,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A1-S | Electrum (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A1-S | Electrum (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A1-S | Electrum (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M4A1-S | Electrum (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M4A1-S | Electrum (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.214Z"
+}

@@ -1,0 +1,209 @@
+{
+  "id": "skin-9309cf0662b7",
+  "name": "★ Bowie Knife | Crimson Web",
+  "paint_index": "12",
+  "weapon": {
+    "id": "weapon_knife_survival_bowie",
+    "weapon_id": 514,
+    "name": "Bowie Knife",
+    "slug": "knife_survival_bowie"
+  },
+  "pattern": {
+    "id": "hy_webs",
+    "name": "Crimson Web"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This full-tang sawback Bowie knife is designed for heavy use in brutal survival situations. It has been painted using a spider web-patterned hydrographic over a red base coat and finished with a semi-gloss topcoat.\\n\\n<i>Be careful where you walk, you never know where the web is spread</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 241.32,
+      "max": 641.57,
+      "mean": 402.99,
+      "median": 413.26,
+      "suggested": 239.41,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 120.86,
+      "max": 291.73,
+      "mean": 185.6,
+      "median": 140.57,
+      "suggested": 151.54,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 245.06,
+      "max": 245.06,
+      "mean": 245.06,
+      "median": 245.06,
+      "suggested": 280.95,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Bowie Knife | Crimson Web (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Bowie Knife | Crimson Web (Minimal Wear)",
+      "price": {
+        "min": 241.32,
+        "max": 641.57,
+        "mean": 402.99,
+        "median": 413.26,
+        "suggested": 239.41,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Bowie Knife | Crimson Web (Field-Tested)",
+      "price": {
+        "min": 120.86,
+        "max": 291.73,
+        "mean": 185.6,
+        "median": 140.57,
+        "suggested": 151.54,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Bowie Knife | Crimson Web (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Bowie Knife | Crimson Web (Battle-Scarred)",
+      "price": {
+        "min": 245.06,
+        "max": 245.06,
+        "mean": 245.06,
+        "median": 245.06,
+        "suggested": 280.95,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Bowie Knife | Crimson Web (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Bowie Knife | Crimson Web (Minimal Wear)",
+        "price": {
+          "min": 241.32,
+          "max": 641.57,
+          "mean": 402.99,
+          "median": 413.26,
+          "suggested": 239.41,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Bowie Knife | Crimson Web (Field-Tested)",
+        "price": {
+          "min": 120.86,
+          "max": 291.73,
+          "mean": 185.6,
+          "median": 140.57,
+          "suggested": 151.54,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Bowie Knife | Crimson Web (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ Bowie Knife | Crimson Web (Battle-Scarred)",
+        "price": {
+          "min": 245.06,
+          "max": 245.06,
+          "mean": 245.06,
+          "median": 245.06,
+          "suggested": 280.95,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Bowie Knife | Crimson Web (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Bowie Knife | Crimson Web (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Bowie Knife | Crimson Web (Field-Tested)",
+        "price": {
+          "min": 410.76,
+          "max": 410.76,
+          "mean": 410.76,
+          "median": 410.76,
+          "suggested": 200.32,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Bowie Knife | Crimson Web (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Bowie Knife | Crimson Web (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:38.523Z"
+}

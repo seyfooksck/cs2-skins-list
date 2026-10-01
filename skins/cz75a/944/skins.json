@@ -1,0 +1,310 @@
+{
+  "id": "skin-9a5ab653ba62",
+  "name": "CZ75-Auto | Distressed",
+  "paint_index": "944",
+  "weapon": {
+    "id": "weapon_cz75a",
+    "weapon_id": 63,
+    "name": "CZ75-Auto",
+    "slug": "cz75a"
+  },
+  "pattern": {
+    "id": "cu_cz75_cerakote",
+    "name": "Distressed"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fully automatic variant of the CZ75, the CZ75-Auto is the ideal short-term choice for turning the tables and gaining your opponents weapon. But with very little ammo in the magazine, strong trigger discipline is required. The copper colored ceramic finish is wearing away with use.\\n\\n<i>Better with age</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.33,
+      "max": 19.25,
+      "mean": 7.63,
+      "median": 5.65,
+      "suggested": 2.7,
+      "quantity": 24,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.21,
+      "max": 11.66,
+      "mean": 0.44,
+      "median": 0.32,
+      "suggested": 0.32,
+      "quantity": 148,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.23,
+      "max": 3.58,
+      "mean": 0.36,
+      "median": 0.3,
+      "suggested": 0.31,
+      "quantity": 226,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.13,
+      "max": 0.83,
+      "mean": 0.25,
+      "median": 0.22,
+      "suggested": 0.2,
+      "quantity": 103,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.13,
+      "max": 6.28,
+      "mean": 0.42,
+      "median": 0.23,
+      "suggested": 0.22,
+      "quantity": 89,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "CZ75-Auto | Distressed (Factory New)",
+      "price": {
+        "min": 2.33,
+        "max": 19.25,
+        "mean": 7.63,
+        "median": 5.65,
+        "suggested": 2.7,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "CZ75-Auto | Distressed (Minimal Wear)",
+      "price": {
+        "min": 0.21,
+        "max": 11.66,
+        "mean": 0.44,
+        "median": 0.32,
+        "suggested": 0.32,
+        "quantity": 148,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "CZ75-Auto | Distressed (Field-Tested)",
+      "price": {
+        "min": 0.23,
+        "max": 3.58,
+        "mean": 0.36,
+        "median": 0.3,
+        "suggested": 0.31,
+        "quantity": 226,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "CZ75-Auto | Distressed (Well-Worn)",
+      "price": {
+        "min": 0.13,
+        "max": 0.83,
+        "mean": 0.25,
+        "median": 0.22,
+        "suggested": 0.2,
+        "quantity": 103,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "CZ75-Auto | Distressed (Battle-Scarred)",
+      "price": {
+        "min": 0.13,
+        "max": 6.28,
+        "mean": 0.42,
+        "median": 0.23,
+        "suggested": 0.22,
+        "quantity": 89,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "CZ75-Auto | Distressed (Factory New)",
+        "price": {
+          "min": 2.33,
+          "max": 19.25,
+          "mean": 7.63,
+          "median": 5.65,
+          "suggested": 2.7,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "CZ75-Auto | Distressed (Minimal Wear)",
+        "price": {
+          "min": 0.21,
+          "max": 11.66,
+          "mean": 0.44,
+          "median": 0.32,
+          "suggested": 0.32,
+          "quantity": 148,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "CZ75-Auto | Distressed (Field-Tested)",
+        "price": {
+          "min": 0.23,
+          "max": 3.58,
+          "mean": 0.36,
+          "median": 0.3,
+          "suggested": 0.31,
+          "quantity": 226,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "CZ75-Auto | Distressed (Well-Worn)",
+        "price": {
+          "min": 0.13,
+          "max": 0.83,
+          "mean": 0.25,
+          "median": 0.22,
+          "suggested": 0.2,
+          "quantity": 103,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "CZ75-Auto | Distressed (Battle-Scarred)",
+        "price": {
+          "min": 0.13,
+          "max": 6.28,
+          "mean": 0.42,
+          "median": 0.23,
+          "suggested": 0.22,
+          "quantity": 89,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Distressed (Factory New)",
+        "price": {
+          "min": 1.63,
+          "max": 30.2,
+          "mean": 5.62,
+          "median": 2.86,
+          "suggested": 1.9,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Distressed (Minimal Wear)",
+        "price": {
+          "min": 0.28,
+          "max": 0.69,
+          "mean": 0.4,
+          "median": 0.4,
+          "suggested": 0.38,
+          "quantity": 44,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Distressed (Field-Tested)",
+        "price": {
+          "min": 0.19,
+          "max": 1.39,
+          "mean": 0.29,
+          "median": 0.22,
+          "suggested": 0.23,
+          "quantity": 101,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Distressed (Well-Worn)",
+        "price": {
+          "min": 0.16,
+          "max": 1,
+          "mean": 0.28,
+          "median": 0.2,
+          "suggested": 0.21,
+          "quantity": 63,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Distressed (Battle-Scarred)",
+        "price": {
+          "min": 0.14,
+          "max": 0.42,
+          "mean": 0.21,
+          "median": 0.2,
+          "suggested": 0.22,
+          "quantity": 38,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir CZ75-Auto | Distressed (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir CZ75-Auto | Distressed (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir CZ75-Auto | Distressed (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir CZ75-Auto | Distressed (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir CZ75-Auto | Distressed (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:27.600Z"
+}

@@ -1,0 +1,201 @@
+{
+  "id": "skin-6dc36be1c90e",
+  "name": "Galil AR | Aqua Terrace",
+  "paint_index": "460",
+  "weapon": {
+    "id": "weapon_galilar",
+    "weapon_id": 13,
+    "name": "Galil AR",
+    "slug": "galilar"
+  },
+  "pattern": {
+    "id": "am_geometric_steps",
+    "name": "Aqua Terrace"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat. It has been painted with a geometric motif in metallic paints.\\n\\n<i>Serenity now...</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 193.82,
+      "max": 614.47,
+      "mean": 316.85,
+      "median": 285.7,
+      "suggested": 257.65,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 125.29,
+      "max": 222.89,
+      "mean": 182.18,
+      "median": 198.38,
+      "suggested": 144.3,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 100.87,
+      "max": 350.08,
+      "mean": 225.48,
+      "median": 225.48,
+      "suggested": 115.19,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Galil AR | Aqua Terrace (Factory New)",
+      "price": {
+        "min": 193.82,
+        "max": 614.47,
+        "mean": 316.85,
+        "median": 285.7,
+        "suggested": 257.65,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Galil AR | Aqua Terrace (Minimal Wear)",
+      "price": {
+        "min": 125.29,
+        "max": 222.89,
+        "mean": 182.18,
+        "median": 198.38,
+        "suggested": 144.3,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Galil AR | Aqua Terrace (Field-Tested)",
+      "price": {
+        "min": 100.87,
+        "max": 350.08,
+        "mean": 225.48,
+        "median": 225.48,
+        "suggested": 115.19,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Galil AR | Aqua Terrace (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Galil AR | Aqua Terrace (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Galil AR | Aqua Terrace (Factory New)",
+        "price": {
+          "min": 193.82,
+          "max": 614.47,
+          "mean": 316.85,
+          "median": 285.7,
+          "suggested": 257.65,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Galil AR | Aqua Terrace (Minimal Wear)",
+        "price": {
+          "min": 125.29,
+          "max": 222.89,
+          "mean": 182.18,
+          "median": 198.38,
+          "suggested": 144.3,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Galil AR | Aqua Terrace (Field-Tested)",
+        "price": {
+          "min": 100.87,
+          "max": 350.08,
+          "mean": 225.48,
+          "median": 225.48,
+          "suggested": 115.19,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Galil AR | Aqua Terrace (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Galil AR | Aqua Terrace (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Galil AR | Aqua Terrace (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Galil AR | Aqua Terrace (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Galil AR | Aqua Terrace (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Galil AR | Aqua Terrace (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Galil AR | Aqua Terrace (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:30.846Z"
+}

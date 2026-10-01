@@ -1,0 +1,204 @@
+{
+  "id": "skin-b6c2f9e4afaa",
+  "name": "★ Specialist Gloves | Buckshot",
+  "paint_index": "10062",
+  "weapon": {
+    "id": "specialist_gloves",
+    "weapon_id": 5034,
+    "name": "Specialist Gloves",
+    "slug": "specialist_gloves"
+  },
+  "pattern": {
+    "id": "specialist_forest_brown",
+    "name": "Buckshot"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_gloves",
+    "name": "Gloves"
+  },
+  "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Durable, breathable, and stylish; these gloves are designed to take (and give) a beating. These practical gloves would be at home in a hunting blind.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 88.4,
+      "max": 429.51,
+      "mean": 141.62,
+      "median": 101.58,
+      "suggested": 115.88,
+      "quantity": 23,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 53.68,
+      "max": 164.58,
+      "mean": 63.87,
+      "median": 56.05,
+      "suggested": 68.64,
+      "quantity": 95,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 55.1,
+      "max": 59.15,
+      "mean": 57.44,
+      "median": 58.21,
+      "suggested": 64.19,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 50.17,
+      "max": 78.52,
+      "mean": 62.34,
+      "median": 65.43,
+      "suggested": 62.11,
+      "quantity": 14,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Specialist Gloves | Buckshot (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Specialist Gloves | Buckshot (Minimal Wear)",
+      "price": {
+        "min": 88.4,
+        "max": 429.51,
+        "mean": 141.62,
+        "median": 101.58,
+        "suggested": 115.88,
+        "quantity": 23,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Specialist Gloves | Buckshot (Field-Tested)",
+      "price": {
+        "min": 53.68,
+        "max": 164.58,
+        "mean": 63.87,
+        "median": 56.05,
+        "suggested": 68.64,
+        "quantity": 95,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Specialist Gloves | Buckshot (Well-Worn)",
+      "price": {
+        "min": 55.1,
+        "max": 59.15,
+        "mean": 57.44,
+        "median": 58.21,
+        "suggested": 64.19,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Specialist Gloves | Buckshot (Battle-Scarred)",
+      "price": {
+        "min": 50.17,
+        "max": 78.52,
+        "mean": 62.34,
+        "median": 65.43,
+        "suggested": 62.11,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Specialist Gloves | Buckshot (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Specialist Gloves | Buckshot (Minimal Wear)",
+        "price": {
+          "min": 88.4,
+          "max": 429.51,
+          "mean": 141.62,
+          "median": 101.58,
+          "suggested": 115.88,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Specialist Gloves | Buckshot (Field-Tested)",
+        "price": {
+          "min": 53.68,
+          "max": 164.58,
+          "mean": 63.87,
+          "median": 56.05,
+          "suggested": 68.64,
+          "quantity": 95,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Specialist Gloves | Buckshot (Well-Worn)",
+        "price": {
+          "min": 55.1,
+          "max": 59.15,
+          "mean": 57.44,
+          "median": 58.21,
+          "suggested": 64.19,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Specialist Gloves | Buckshot (Battle-Scarred)",
+        "price": {
+          "min": 50.17,
+          "max": 78.52,
+          "mean": 62.34,
+          "median": 65.43,
+          "suggested": 62.11,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:23.745Z"
+}

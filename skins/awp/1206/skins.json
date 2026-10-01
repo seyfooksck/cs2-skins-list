@@ -1,0 +1,318 @@
+{
+  "id": "skin-5a39103af835",
+  "name": "AWP | Printstream",
+  "paint_index": "1206",
+  "weapon": {
+    "id": "weapon_awp",
+    "weapon_id": 9,
+    "name": "AWP",
+    "slug": "awp"
+  },
+  "pattern": {
+    "id": "awp_printstream",
+    "name": "Printstream"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted with a stark black and white design and finished with pearlescent highlights.\\n\\n<i>WHITE_1; BLACK_1; PEARLESCENT_1; BOLTACTION_1;</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 220.39,
+      "max": 1166.94,
+      "mean": 434.77,
+      "median": 352.08,
+      "suggested": 282.33,
+      "quantity": 49,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 71,
+      "max": 583.47,
+      "mean": 116.25,
+      "median": 88.82,
+      "suggested": 97.44,
+      "quantity": 206,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 51.78,
+      "max": 30632.1,
+      "mean": 169.99,
+      "median": 57.48,
+      "suggested": 65.84,
+      "quantity": 297,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 44.51,
+      "max": 109.97,
+      "mean": 52.56,
+      "median": 49.91,
+      "suggested": 58.24,
+      "quantity": 146,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 45.41,
+      "max": 518.12,
+      "mean": 58.88,
+      "median": 48.7,
+      "suggested": 55.89,
+      "quantity": 80,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AWP | Printstream (Factory New)",
+      "price": {
+        "min": 220.39,
+        "max": 1166.94,
+        "mean": 434.77,
+        "median": 352.08,
+        "suggested": 282.33,
+        "quantity": 49,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AWP | Printstream (Minimal Wear)",
+      "price": {
+        "min": 71,
+        "max": 583.47,
+        "mean": 116.25,
+        "median": 88.82,
+        "suggested": 97.44,
+        "quantity": 206,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AWP | Printstream (Field-Tested)",
+      "price": {
+        "min": 51.78,
+        "max": 30632.1,
+        "mean": 169.99,
+        "median": 57.48,
+        "suggested": 65.84,
+        "quantity": 297,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AWP | Printstream (Well-Worn)",
+      "price": {
+        "min": 44.51,
+        "max": 109.97,
+        "mean": 52.56,
+        "median": 49.91,
+        "suggested": 58.24,
+        "quantity": 146,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AWP | Printstream (Battle-Scarred)",
+      "price": {
+        "min": 45.41,
+        "max": 518.12,
+        "mean": 58.88,
+        "median": 48.7,
+        "suggested": 55.89,
+        "quantity": 80,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AWP | Printstream (Factory New)",
+        "price": {
+          "min": 220.39,
+          "max": 1166.94,
+          "mean": 434.77,
+          "median": 352.08,
+          "suggested": 282.33,
+          "quantity": 49,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AWP | Printstream (Minimal Wear)",
+        "price": {
+          "min": 71,
+          "max": 583.47,
+          "mean": 116.25,
+          "median": 88.82,
+          "suggested": 97.44,
+          "quantity": 206,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AWP | Printstream (Field-Tested)",
+        "price": {
+          "min": 51.78,
+          "max": 30632.1,
+          "mean": 169.99,
+          "median": 57.48,
+          "suggested": 65.84,
+          "quantity": 297,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AWP | Printstream (Well-Worn)",
+        "price": {
+          "min": 44.51,
+          "max": 109.97,
+          "mean": 52.56,
+          "median": 49.91,
+          "suggested": 58.24,
+          "quantity": 146,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AWP | Printstream (Battle-Scarred)",
+        "price": {
+          "min": 45.41,
+          "max": 518.12,
+          "mean": 58.88,
+          "median": 48.7,
+          "suggested": 55.89,
+          "quantity": 80,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AWP | Printstream (Factory New)",
+        "price": {
+          "min": 420.48,
+          "max": 1166.94,
+          "mean": 690.21,
+          "median": 618.23,
+          "suggested": 433.45,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AWP | Printstream (Minimal Wear)",
+        "price": {
+          "min": 161.82,
+          "max": 583.46,
+          "mean": 220.94,
+          "median": 196.37,
+          "suggested": 195.42,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AWP | Printstream (Field-Tested)",
+        "price": {
+          "min": 83.55,
+          "max": 273.06,
+          "mean": 107.5,
+          "median": 96.18,
+          "suggested": 109.49,
+          "quantity": 51,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AWP | Printstream (Well-Worn)",
+        "price": {
+          "min": 60.19,
+          "max": 145.48,
+          "mean": 86.66,
+          "median": 76.38,
+          "suggested": 75.41,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ AWP | Printstream (Battle-Scarred)",
+        "price": {
+          "min": 54.4,
+          "max": 211.37,
+          "mean": 97.38,
+          "median": 73.04,
+          "suggested": 69.77,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AWP | Printstream (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AWP | Printstream (Minimal Wear)",
+        "price": {
+          "min": 291.73,
+          "max": 291.73,
+          "mean": 291.73,
+          "median": 291.73,
+          "suggested": 217.17,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AWP | Printstream (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AWP | Printstream (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AWP | Printstream (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.866Z"
+}

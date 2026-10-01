@@ -1,0 +1,193 @@
+{
+  "id": "skin-fe68351b7867",
+  "name": "★ M9 Bayonet | Scorched",
+  "paint_index": "175",
+  "weapon": {
+    "id": "weapon_knife_m9_bayonet",
+    "weapon_id": 508,
+    "name": "M9 Bayonet",
+    "slug": "knife_m9_bayonet"
+  },
+  "pattern": {
+    "id": "sp_dapple",
+    "name": "Scorched"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This is the M-9 bayonet.  Originally intended to be mounted on a rifle, it is also well suited to close-quarters combat. It has been spray-painted in a sun-dappled pattern.\\n\\n<i>The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 455.11,
+      "max": 455.11,
+      "mean": 455.11,
+      "median": 455.11,
+      "suggested": 447.02,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 344.23,
+      "max": 358.45,
+      "mean": 350.19,
+      "median": 350.08,
+      "suggested": 398.3,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ M9 Bayonet | Scorched (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ M9 Bayonet | Scorched (Minimal Wear)",
+      "price": {
+        "min": 455.11,
+        "max": 455.11,
+        "mean": 455.11,
+        "median": 455.11,
+        "suggested": 447.02,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ M9 Bayonet | Scorched (Field-Tested)",
+      "price": {
+        "min": 344.23,
+        "max": 358.45,
+        "mean": 350.19,
+        "median": 350.08,
+        "suggested": 398.3,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ M9 Bayonet | Scorched (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ M9 Bayonet | Scorched (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ M9 Bayonet | Scorched (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ M9 Bayonet | Scorched (Minimal Wear)",
+        "price": {
+          "min": 455.11,
+          "max": 455.11,
+          "mean": 455.11,
+          "median": 455.11,
+          "suggested": 447.02,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ M9 Bayonet | Scorched (Field-Tested)",
+        "price": {
+          "min": 344.23,
+          "max": 358.45,
+          "mean": 350.19,
+          "median": 350.08,
+          "suggested": 398.3,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ M9 Bayonet | Scorched (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ M9 Bayonet | Scorched (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Scorched (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Scorched (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Scorched (Field-Tested)",
+        "price": {
+          "min": 531.73,
+          "max": 531.73,
+          "mean": 531.73,
+          "median": 531.73,
+          "suggested": 230.47,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Scorched (Well-Worn)",
+        "price": {
+          "min": 504.68,
+          "max": 504.68,
+          "mean": 504.68,
+          "median": 504.68,
+          "suggested": 459.61,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Scorched (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:36.772Z"
+}

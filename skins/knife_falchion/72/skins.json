@@ -1,0 +1,177 @@
+{
+  "id": "skin-49c24c94aee8",
+  "name": "★ Falchion Knife | Safari Mesh",
+  "paint_index": "72",
+  "weapon": {
+    "id": "weapon_knife_falchion",
+    "weapon_id": 512,
+    "name": "Falchion Knife",
+    "slug": "knife_falchion"
+  },
+  "pattern": {
+    "id": "sp_mesh_tan",
+    "name": "Safari Mesh"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A modern homage to a falchion sword, this clip point blade has a curved edge. It has been spray-painted using mesh fencing and cardboard cutouts as stencils.\\n\\n<i>A predator is a predator, no matter the environment</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 65.35,
+      "max": 137.76,
+      "mean": 101.56,
+      "median": 101.56,
+      "suggested": 85.29,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 56,
+      "max": 114.16,
+      "mean": 84.01,
+      "median": 79.66,
+      "suggested": 76.04,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Falchion Knife | Safari Mesh (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Falchion Knife | Safari Mesh (Minimal Wear)",
+      "price": {
+        "min": 65.35,
+        "max": 137.76,
+        "mean": 101.56,
+        "median": 101.56,
+        "suggested": 85.29,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Falchion Knife | Safari Mesh (Field-Tested)",
+      "price": {
+        "min": 56,
+        "max": 114.16,
+        "mean": 84.01,
+        "median": 79.66,
+        "suggested": 76.04,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Falchion Knife | Safari Mesh (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Falchion Knife | Safari Mesh (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Falchion Knife | Safari Mesh (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Falchion Knife | Safari Mesh (Minimal Wear)",
+        "price": {
+          "min": 65.35,
+          "max": 137.76,
+          "mean": 101.56,
+          "median": 101.56,
+          "suggested": 85.29,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Falchion Knife | Safari Mesh (Field-Tested)",
+        "price": {
+          "min": 56,
+          "max": 114.16,
+          "mean": 84.01,
+          "median": 79.66,
+          "suggested": 76.04,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Falchion Knife | Safari Mesh (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ Falchion Knife | Safari Mesh (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Falchion Knife | Safari Mesh (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Falchion Knife | Safari Mesh (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Falchion Knife | Safari Mesh (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Falchion Knife | Safari Mesh (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Falchion Knife | Safari Mesh (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:34.432Z"
+}

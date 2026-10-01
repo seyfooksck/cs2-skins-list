@@ -1,0 +1,225 @@
+{
+  "id": "skin-d6a16ab9a8f9",
+  "name": "★ Bayonet | Bright Water",
+  "paint_index": "578",
+  "weapon": {
+    "id": "weapon_bayonet",
+    "weapon_id": 500,
+    "name": "Bayonet",
+    "slug": "bayonet"
+  },
+  "pattern": {
+    "id": "hy_ocean_knife",
+    "name": "Bright Water"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Relatively unchanged in its design since World War II, the bayonet still retains a place in modern military strategy. Bayonet charges have continued to be effective as recently as the second Gulf War and the war in Afghanistan. It has been painted using a blue camo hydrographic.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 211.2,
+      "max": 241.51,
+      "mean": 223.53,
+      "median": 224.64,
+      "suggested": 269.56,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 185.53,
+      "max": 275.71,
+      "mean": 206.61,
+      "median": 195.3,
+      "suggested": 228,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 156.23,
+      "max": 192.85,
+      "mean": 172.82,
+      "median": 171.27,
+      "suggested": 196,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Bayonet | Bright Water (Factory New)",
+      "price": {
+        "min": 211.2,
+        "max": 241.51,
+        "mean": 223.53,
+        "median": 224.64,
+        "suggested": 269.56,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Bayonet | Bright Water (Minimal Wear)",
+      "price": {
+        "min": 185.53,
+        "max": 275.71,
+        "mean": 206.61,
+        "median": 195.3,
+        "suggested": 228,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Bayonet | Bright Water (Field-Tested)",
+      "price": {
+        "min": 156.23,
+        "max": 192.85,
+        "mean": 172.82,
+        "median": 171.27,
+        "suggested": 196,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Bayonet | Bright Water (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Bayonet | Bright Water (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Bayonet | Bright Water (Factory New)",
+        "price": {
+          "min": 211.2,
+          "max": 241.51,
+          "mean": 223.53,
+          "median": 224.64,
+          "suggested": 269.56,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Bayonet | Bright Water (Minimal Wear)",
+        "price": {
+          "min": 185.53,
+          "max": 275.71,
+          "mean": 206.61,
+          "median": 195.3,
+          "suggested": 228,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Bayonet | Bright Water (Field-Tested)",
+        "price": {
+          "min": 156.23,
+          "max": 192.85,
+          "mean": 172.82,
+          "median": 171.27,
+          "suggested": 196,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Bayonet | Bright Water (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ Bayonet | Bright Water (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Bright Water (Factory New)",
+        "price": {
+          "min": 294.59,
+          "max": 415.43,
+          "mean": 355.02,
+          "median": 355.02,
+          "suggested": 297.44,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Bright Water (Minimal Wear)",
+        "price": {
+          "min": 206.51,
+          "max": 229.35,
+          "mean": 217.56,
+          "median": 217.19,
+          "suggested": 254.13,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Bright Water (Field-Tested)",
+        "price": {
+          "min": 194.81,
+          "max": 194.81,
+          "mean": 194.81,
+          "median": 194.81,
+          "suggested": 204.11,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Bright Water (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Bright Water (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:26.786Z"
+}

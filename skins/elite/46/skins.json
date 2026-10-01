@@ -1,0 +1,273 @@
+{
+  "id": "skin-87624ab1abed",
+  "name": "Dual Berettas | Contractor",
+  "paint_index": "46",
+  "weapon": {
+    "id": "weapon_elite",
+    "weapon_id": 2,
+    "name": "Dual Berettas",
+    "slug": "elite"
+  },
+  "pattern": {
+    "id": "so_pmc",
+    "name": "Contractor"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. It has individual parts spray-painted tan, navy and dark green.\\n\\n<i>Rona Sabri still hasn't forgiven Sebastien for not selecting her to go after Turner</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.25,
+      "max": 16.63,
+      "mean": 5.3,
+      "median": 6.07,
+      "suggested": 1.63,
+      "quantity": 29,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.04,
+      "max": 5.1,
+      "mean": 0.23,
+      "median": 0.05,
+      "suggested": 0.06,
+      "quantity": 431,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.02,
+      "max": 5.81,
+      "mean": 0.05,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 9148,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.02,
+      "max": 5.81,
+      "mean": 0.06,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 1287,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.02,
+      "max": 4.1,
+      "mean": 0.05,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 2025,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Dual Berettas | Contractor (Factory New)",
+      "price": {
+        "min": 1.25,
+        "max": 16.63,
+        "mean": 5.3,
+        "median": 6.07,
+        "suggested": 1.63,
+        "quantity": 29,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Dual Berettas | Contractor (Minimal Wear)",
+      "price": {
+        "min": 0.04,
+        "max": 5.1,
+        "mean": 0.23,
+        "median": 0.05,
+        "suggested": 0.06,
+        "quantity": 431,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Dual Berettas | Contractor (Field-Tested)",
+      "price": {
+        "min": 0.02,
+        "max": 5.81,
+        "mean": 0.05,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 9148,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Dual Berettas | Contractor (Well-Worn)",
+      "price": {
+        "min": 0.02,
+        "max": 5.81,
+        "mean": 0.06,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 1287,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Dual Berettas | Contractor (Battle-Scarred)",
+      "price": {
+        "min": 0.02,
+        "max": 4.1,
+        "mean": 0.05,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 2025,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Dual Berettas | Contractor (Factory New)",
+        "price": {
+          "min": 1.25,
+          "max": 16.63,
+          "mean": 5.3,
+          "median": 6.07,
+          "suggested": 1.63,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Dual Berettas | Contractor (Minimal Wear)",
+        "price": {
+          "min": 0.04,
+          "max": 5.1,
+          "mean": 0.23,
+          "median": 0.05,
+          "suggested": 0.06,
+          "quantity": 431,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Dual Berettas | Contractor (Field-Tested)",
+        "price": {
+          "min": 0.02,
+          "max": 5.81,
+          "mean": 0.05,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 9148,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Dual Berettas | Contractor (Well-Worn)",
+        "price": {
+          "min": 0.02,
+          "max": 5.81,
+          "mean": 0.06,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 1287,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Dual Berettas | Contractor (Battle-Scarred)",
+        "price": {
+          "min": 0.02,
+          "max": 4.1,
+          "mean": 0.05,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 2025,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Dual Berettas | Contractor (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Dual Berettas | Contractor (Minimal Wear)",
+        "price": {
+          "min": 25.75,
+          "max": 58.35,
+          "mean": 42.06,
+          "median": 42.06,
+          "suggested": 2.7,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Dual Berettas | Contractor (Field-Tested)",
+        "price": {
+          "min": 18.03,
+          "max": 5297.89,
+          "mean": 1359.44,
+          "median": 60.91,
+          "suggested": 4.7,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Dual Berettas | Contractor (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Dual Berettas | Contractor (Battle-Scarred)",
+        "price": {
+          "min": 15.86,
+          "max": 256.04,
+          "mean": 135.95,
+          "median": 135.95,
+          "suggested": 4.37,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:29.055Z"
+}

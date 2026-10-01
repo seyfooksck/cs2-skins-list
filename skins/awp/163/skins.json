@@ -1,0 +1,249 @@
+{
+  "id": "skin-1c7cbe2db8f1",
+  "name": "AWP | CMYK",
+  "paint_index": "163",
+  "weapon": {
+    "id": "weapon_awp",
+    "weapon_id": 9,
+    "name": "AWP",
+    "slug": "awp"
+  },
+  "pattern": {
+    "id": "gs_independe_awp",
+    "name": "CMYK"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted with a multicolored abstract design over a white base.\\n\\n<i>I knew you'd return; I just didn't expect it to be so soon... – Booth, Arms Dealer</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1036.24,
+      "max": 1282.46,
+      "mean": 1122.98,
+      "median": 1050.24,
+      "suggested": 862.36,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 455.11,
+      "max": 1867.09,
+      "mean": 903.15,
+      "median": 875.2,
+      "suggested": 590.8,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 205.42,
+      "max": 2917.34,
+      "mean": 556.63,
+      "median": 288.68,
+      "suggested": 304.38,
+      "quantity": 21,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 198.38,
+      "max": 198.38,
+      "mean": 198.38,
+      "median": 198.38,
+      "suggested": 232.28,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 120.11,
+      "max": 261.53,
+      "mean": 181.86,
+      "median": 176.9,
+      "suggested": 146.44,
+      "quantity": 6,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AWP | CMYK (Factory New)",
+      "price": {
+        "min": 1036.24,
+        "max": 1282.46,
+        "mean": 1122.98,
+        "median": 1050.24,
+        "suggested": 862.36,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AWP | CMYK (Minimal Wear)",
+      "price": {
+        "min": 455.11,
+        "max": 1867.09,
+        "mean": 903.15,
+        "median": 875.2,
+        "suggested": 590.8,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AWP | CMYK (Field-Tested)",
+      "price": {
+        "min": 205.42,
+        "max": 2917.34,
+        "mean": 556.63,
+        "median": 288.68,
+        "suggested": 304.38,
+        "quantity": 21,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AWP | CMYK (Well-Worn)",
+      "price": {
+        "min": 198.38,
+        "max": 198.38,
+        "mean": 198.38,
+        "median": 198.38,
+        "suggested": 232.28,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AWP | CMYK (Battle-Scarred)",
+      "price": {
+        "min": 120.11,
+        "max": 261.53,
+        "mean": 181.86,
+        "median": 176.9,
+        "suggested": 146.44,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AWP | CMYK (Factory New)",
+        "price": {
+          "min": 1036.24,
+          "max": 1282.46,
+          "mean": 1122.98,
+          "median": 1050.24,
+          "suggested": 862.36,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AWP | CMYK (Minimal Wear)",
+        "price": {
+          "min": 455.11,
+          "max": 1867.09,
+          "mean": 903.15,
+          "median": 875.2,
+          "suggested": 590.8,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AWP | CMYK (Field-Tested)",
+        "price": {
+          "min": 205.42,
+          "max": 2917.34,
+          "mean": 556.63,
+          "median": 288.68,
+          "suggested": 304.38,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AWP | CMYK (Well-Worn)",
+        "price": {
+          "min": 198.38,
+          "max": 198.38,
+          "mean": 198.38,
+          "median": 198.38,
+          "suggested": 232.28,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AWP | CMYK (Battle-Scarred)",
+        "price": {
+          "min": 120.11,
+          "max": 261.53,
+          "mean": 181.86,
+          "median": 176.9,
+          "suggested": 146.44,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AWP | CMYK (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AWP | CMYK (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AWP | CMYK (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AWP | CMYK (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AWP | CMYK (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:26.249Z"
+}

@@ -1,0 +1,146 @@
+{
+  "id": "skin-50f6780f1a24",
+  "name": "Nova | Graphite",
+  "paint_index": "214",
+  "weapon": {
+    "id": "weapon_nova",
+    "weapon_id": 35,
+    "name": "Nova",
+    "slug": "nova"
+  },
+  "pattern": {
+    "id": "am_crumple",
+    "name": "Graphite"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.12,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Nova's rock-bottom price tag makes it a great ambush weapon for a cash-strapped team. It has been painted in a polygon pattern with metallic paints of various reflectivities over a chrome base coat.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 12.08,
+      "max": 460.94,
+      "mean": 43.07,
+      "median": 15.86,
+      "suggested": 14.52,
+      "quantity": 26,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 17.41,
+      "max": 90.17,
+      "mean": 43.64,
+      "median": 23.34,
+      "suggested": 14.87,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Nova | Graphite (Factory New)",
+      "price": {
+        "min": 12.08,
+        "max": 460.94,
+        "mean": 43.07,
+        "median": 15.86,
+        "suggested": 14.52,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Nova | Graphite (Minimal Wear)",
+      "price": {
+        "min": 17.41,
+        "max": 90.17,
+        "mean": 43.64,
+        "median": 23.34,
+        "suggested": 14.87,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Nova | Graphite (Factory New)",
+        "price": {
+          "min": 12.08,
+          "max": 460.94,
+          "mean": 43.07,
+          "median": 15.86,
+          "suggested": 14.52,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Nova | Graphite (Minimal Wear)",
+        "price": {
+          "min": 17.41,
+          "max": 90.17,
+          "mean": 43.64,
+          "median": 23.34,
+          "suggested": 14.87,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Nova | Graphite (Factory New)",
+        "price": {
+          "min": 23.68,
+          "max": 99.19,
+          "mean": 44.95,
+          "median": 43.28,
+          "suggested": 28.56,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Nova | Graphite (Minimal Wear)",
+        "price": null
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Nova | Graphite (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Nova | Graphite (Minimal Wear)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.356Z"
+}

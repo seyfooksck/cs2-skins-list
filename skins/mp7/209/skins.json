@@ -1,0 +1,201 @@
+{
+  "id": "skin-f58eae889a10",
+  "name": "MP7 | Groundwater",
+  "paint_index": "209",
+  "weapon": {
+    "id": "weapon_mp7",
+    "weapon_id": 33,
+    "name": "MP7",
+    "slug": "mp7"
+  },
+  "pattern": {
+    "id": "so_olive_bravo",
+    "name": "Groundwater"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. This memento from Cache has individual parts spray-painted solid colors in an olive drab color scheme.\\n\\n<i>Never take victory for granted</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 11.41,
+      "max": 58.34,
+      "mean": 37.25,
+      "median": 42,
+      "suggested": 12.87,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 4.07,
+      "max": 802.78,
+      "mean": 150.22,
+      "median": 22.16,
+      "suggested": 4.3,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 21.17,
+      "max": 21.17,
+      "mean": 21.17,
+      "median": 21.17,
+      "suggested": 3.71,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP7 | Groundwater (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP7 | Groundwater (Minimal Wear)",
+      "price": {
+        "min": 11.41,
+        "max": 58.34,
+        "mean": 37.25,
+        "median": 42,
+        "suggested": 12.87,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP7 | Groundwater (Field-Tested)",
+      "price": {
+        "min": 4.07,
+        "max": 802.78,
+        "mean": 150.22,
+        "median": 22.16,
+        "suggested": 4.3,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP7 | Groundwater (Well-Worn)",
+      "price": {
+        "min": 21.17,
+        "max": 21.17,
+        "mean": 21.17,
+        "median": 21.17,
+        "suggested": 3.71,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP7 | Groundwater (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP7 | Groundwater (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "MP7 | Groundwater (Minimal Wear)",
+        "price": {
+          "min": 11.41,
+          "max": 58.34,
+          "mean": 37.25,
+          "median": 42,
+          "suggested": 12.87,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP7 | Groundwater (Field-Tested)",
+        "price": {
+          "min": 4.07,
+          "max": 802.78,
+          "mean": 150.22,
+          "median": 22.16,
+          "suggested": 4.3,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP7 | Groundwater (Well-Worn)",
+        "price": {
+          "min": 21.17,
+          "max": 21.17,
+          "mean": 21.17,
+          "median": 21.17,
+          "suggested": 3.71,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP7 | Groundwater (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP7 | Groundwater (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP7 | Groundwater (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP7 | Groundwater (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP7 | Groundwater (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP7 | Groundwater (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:43.326Z"
+}

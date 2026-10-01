@@ -1,0 +1,257 @@
+{
+  "id": "skin-4ffaeff43385",
+  "name": "★ Butterfly Knife | Bright Water",
+  "paint_index": "579",
+  "weapon": {
+    "id": "weapon_knife_butterfly",
+    "weapon_id": 515,
+    "name": "Butterfly Knife",
+    "slug": "knife_butterfly"
+  },
+  "pattern": {
+    "id": "hy_ocean_knife_90",
+    "name": "Bright Water"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This is a custom-designed balisong, commonly known as a butterfly knife. The defining characteristic of this weapon is the fan-like opening of a freely pivoting blade, allowing rapid deployment or concealment. As a result, butterfly knives are outlawed in many countries. It has been painted using a blue camo hydrographic.\\n\\n<i>Ours is a world of intrigue...but sometimes camouflage is meant to be seen - Booth, Arms Dealer</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 677.3,
+      "max": 1049.75,
+      "mean": 783.19,
+      "median": 758.33,
+      "suggested": 758.04,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 606.81,
+      "max": 821.9,
+      "mean": 677.82,
+      "median": 633.64,
+      "suggested": 695.55,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 548.59,
+      "max": 825.13,
+      "mean": 609.58,
+      "median": 584.26,
+      "suggested": 640.06,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 503.87,
+      "max": 783.81,
+      "mean": 643.85,
+      "median": 643.85,
+      "suggested": 621.05,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Butterfly Knife | Bright Water (Factory New)",
+      "price": {
+        "min": 677.3,
+        "max": 1049.75,
+        "mean": 783.19,
+        "median": 758.33,
+        "suggested": 758.04,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Butterfly Knife | Bright Water (Minimal Wear)",
+      "price": {
+        "min": 606.81,
+        "max": 821.9,
+        "mean": 677.82,
+        "median": 633.64,
+        "suggested": 695.55,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Butterfly Knife | Bright Water (Field-Tested)",
+      "price": {
+        "min": 548.59,
+        "max": 825.13,
+        "mean": 609.58,
+        "median": 584.26,
+        "suggested": 640.06,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Butterfly Knife | Bright Water (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Butterfly Knife | Bright Water (Battle-Scarred)",
+      "price": {
+        "min": 503.87,
+        "max": 783.81,
+        "mean": 643.85,
+        "median": 643.85,
+        "suggested": 621.05,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Butterfly Knife | Bright Water (Factory New)",
+        "price": {
+          "min": 677.3,
+          "max": 1049.75,
+          "mean": 783.19,
+          "median": 758.33,
+          "suggested": 758.04,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Butterfly Knife | Bright Water (Minimal Wear)",
+        "price": {
+          "min": 606.81,
+          "max": 821.9,
+          "mean": 677.82,
+          "median": 633.64,
+          "suggested": 695.55,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Butterfly Knife | Bright Water (Field-Tested)",
+        "price": {
+          "min": 548.59,
+          "max": 825.13,
+          "mean": 609.58,
+          "median": 584.26,
+          "suggested": 640.06,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Butterfly Knife | Bright Water (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ Butterfly Knife | Bright Water (Battle-Scarred)",
+        "price": {
+          "min": 503.87,
+          "max": 783.81,
+          "mean": 643.85,
+          "median": 643.85,
+          "suggested": 621.05,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Butterfly Knife | Bright Water (Factory New)",
+        "price": {
+          "min": 700.15,
+          "max": 829.06,
+          "mean": 764.61,
+          "median": 764.61,
+          "suggested": 816.04,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Butterfly Knife | Bright Water (Minimal Wear)",
+        "price": {
+          "min": 716.9,
+          "max": 716.9,
+          "mean": 716.9,
+          "median": 716.9,
+          "suggested": 705.65,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Butterfly Knife | Bright Water (Field-Tested)",
+        "price": {
+          "min": 735.17,
+          "max": 735.17,
+          "mean": 735.17,
+          "median": 735.17,
+          "suggested": 654.49,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Butterfly Knife | Bright Water (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Butterfly Knife | Bright Water (Battle-Scarred)",
+        "price": {
+          "min": 554.83,
+          "max": 554.83,
+          "mean": 554.83,
+          "median": 554.83,
+          "suggested": 672.75,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:33.153Z"
+}

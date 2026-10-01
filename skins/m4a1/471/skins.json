@@ -1,0 +1,201 @@
+{
+  "id": "skin-695797b5acd6",
+  "name": "M4A4 | Daybreak",
+  "paint_index": "471",
+  "weapon": {
+    "id": "weapon_m4a1",
+    "weapon_id": 16,
+    "name": "M4A4",
+    "slug": "m4a1"
+  },
+  "pattern": {
+    "id": "am_kimono_sunrise",
+    "name": "Daybreak"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been painted with a sunrise in metallic paints.\\n\\n<i>The sun rises on the just and unjust alike</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1177.77,
+      "max": 2355.53,
+      "mean": 1586.77,
+      "median": 1527.99,
+      "suggested": 1065.99,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 535.95,
+      "max": 1018.46,
+      "mean": 729.63,
+      "median": 681.85,
+      "suggested": 662.06,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 521.6,
+      "max": 797.48,
+      "mean": 638.83,
+      "median": 602.92,
+      "suggested": 612.91,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A4 | Daybreak (Factory New)",
+      "price": {
+        "min": 1177.77,
+        "max": 2355.53,
+        "mean": 1586.77,
+        "median": 1527.99,
+        "suggested": 1065.99,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A4 | Daybreak (Minimal Wear)",
+      "price": {
+        "min": 535.95,
+        "max": 1018.46,
+        "mean": 729.63,
+        "median": 681.85,
+        "suggested": 662.06,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A4 | Daybreak (Field-Tested)",
+      "price": {
+        "min": 521.6,
+        "max": 797.48,
+        "mean": 638.83,
+        "median": 602.92,
+        "suggested": 612.91,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M4A4 | Daybreak (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M4A4 | Daybreak (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A4 | Daybreak (Factory New)",
+        "price": {
+          "min": 1177.77,
+          "max": 2355.53,
+          "mean": 1586.77,
+          "median": 1527.99,
+          "suggested": 1065.99,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A4 | Daybreak (Minimal Wear)",
+        "price": {
+          "min": 535.95,
+          "max": 1018.46,
+          "mean": 729.63,
+          "median": 681.85,
+          "suggested": 662.06,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A4 | Daybreak (Field-Tested)",
+        "price": {
+          "min": 521.6,
+          "max": 797.48,
+          "mean": 638.83,
+          "median": 602.92,
+          "suggested": 612.91,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M4A4 | Daybreak (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "M4A4 | Daybreak (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A4 | Daybreak (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A4 | Daybreak (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A4 | Daybreak (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M4A4 | Daybreak (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M4A4 | Daybreak (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:40.086Z"
+}

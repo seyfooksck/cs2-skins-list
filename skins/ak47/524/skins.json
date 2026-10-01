@@ -1,0 +1,310 @@
+{
+  "id": "skin-8f7564b8b3eb",
+  "name": "AK-47 | Fuel Injector",
+  "paint_index": "524",
+  "weapon": {
+    "id": "weapon_ak47",
+    "weapon_id": 7,
+    "name": "AK-47",
+    "slug": "ak47"
+  },
+  "pattern": {
+    "id": "gs_ak47_supercharged",
+    "name": "Fuel Injector"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. The body of the rifle has been painted bright yellow and the magazine has been custom painted to look like machinery.\\n\\n<i>Live your life a quarter mag at a time</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 379.25,
+      "max": 1143.6,
+      "mean": 631.46,
+      "median": 619.88,
+      "suggested": 471.19,
+      "quantity": 17,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 210.05,
+      "max": 700.15,
+      "mean": 312.12,
+      "median": 276.82,
+      "suggested": 275.75,
+      "quantity": 51,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 158.41,
+      "max": 420.09,
+      "mean": 212.52,
+      "median": 190.21,
+      "suggested": 213.73,
+      "quantity": 51,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 127.52,
+      "max": 233.69,
+      "mean": 163.22,
+      "median": 151.2,
+      "suggested": 156.01,
+      "quantity": 24,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 105.28,
+      "max": 307.24,
+      "mean": 132.14,
+      "median": 114.8,
+      "suggested": 130.1,
+      "quantity": 21,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AK-47 | Fuel Injector (Factory New)",
+      "price": {
+        "min": 379.25,
+        "max": 1143.6,
+        "mean": 631.46,
+        "median": 619.88,
+        "suggested": 471.19,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AK-47 | Fuel Injector (Minimal Wear)",
+      "price": {
+        "min": 210.05,
+        "max": 700.15,
+        "mean": 312.12,
+        "median": 276.82,
+        "suggested": 275.75,
+        "quantity": 51,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AK-47 | Fuel Injector (Field-Tested)",
+      "price": {
+        "min": 158.41,
+        "max": 420.09,
+        "mean": 212.52,
+        "median": 190.21,
+        "suggested": 213.73,
+        "quantity": 51,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AK-47 | Fuel Injector (Well-Worn)",
+      "price": {
+        "min": 127.52,
+        "max": 233.69,
+        "mean": 163.22,
+        "median": 151.2,
+        "suggested": 156.01,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AK-47 | Fuel Injector (Battle-Scarred)",
+      "price": {
+        "min": 105.28,
+        "max": 307.24,
+        "mean": 132.14,
+        "median": 114.8,
+        "suggested": 130.1,
+        "quantity": 21,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AK-47 | Fuel Injector (Factory New)",
+        "price": {
+          "min": 379.25,
+          "max": 1143.6,
+          "mean": 631.46,
+          "median": 619.88,
+          "suggested": 471.19,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AK-47 | Fuel Injector (Minimal Wear)",
+        "price": {
+          "min": 210.05,
+          "max": 700.15,
+          "mean": 312.12,
+          "median": 276.82,
+          "suggested": 275.75,
+          "quantity": 51,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AK-47 | Fuel Injector (Field-Tested)",
+        "price": {
+          "min": 158.41,
+          "max": 420.09,
+          "mean": 212.52,
+          "median": 190.21,
+          "suggested": 213.73,
+          "quantity": 51,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AK-47 | Fuel Injector (Well-Worn)",
+        "price": {
+          "min": 127.52,
+          "max": 233.69,
+          "mean": 163.22,
+          "median": 151.2,
+          "suggested": 156.01,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AK-47 | Fuel Injector (Battle-Scarred)",
+        "price": {
+          "min": 105.28,
+          "max": 307.24,
+          "mean": 132.14,
+          "median": 114.8,
+          "suggested": 130.1,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AK-47 | Fuel Injector (Factory New)",
+        "price": {
+          "min": 901.7,
+          "max": 1177.77,
+          "mean": 996.51,
+          "median": 968.56,
+          "suggested": 1011.43,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AK-47 | Fuel Injector (Minimal Wear)",
+        "price": {
+          "min": 502.02,
+          "max": 1296.47,
+          "mean": 683.36,
+          "median": 612.64,
+          "suggested": 555.25,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AK-47 | Fuel Injector (Field-Tested)",
+        "price": {
+          "min": 361.93,
+          "max": 590.58,
+          "mean": 428.99,
+          "median": 415.43,
+          "suggested": 420.39,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AK-47 | Fuel Injector (Well-Worn)",
+        "price": {
+          "min": 280.05,
+          "max": 347.2,
+          "mean": 303.59,
+          "median": 297.57,
+          "suggested": 350.85,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ AK-47 | Fuel Injector (Battle-Scarred)",
+        "price": {
+          "min": 192.85,
+          "max": 429.93,
+          "mean": 272.7,
+          "median": 277.26,
+          "suggested": 256.41,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AK-47 | Fuel Injector (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AK-47 | Fuel Injector (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AK-47 | Fuel Injector (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AK-47 | Fuel Injector (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AK-47 | Fuel Injector (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:20:20.888Z"
+}

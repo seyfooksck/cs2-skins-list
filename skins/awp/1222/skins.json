@@ -1,0 +1,318 @@
+{
+  "id": "skin-d42f9ca97ef6",
+  "name": "AWP | Duality",
+  "paint_index": "1222",
+  "weapon": {
+    "id": "weapon_awp",
+    "weapon_id": 9,
+    "name": "AWP",
+    "slug": "awp"
+  },
+  "pattern": {
+    "id": "gs_awp_limbo_snake",
+    "name": "Duality"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted with a snake on either side. One snake is red and the other is gold.\\n\\n<i>There's two sides to every story</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 16.69,
+      "max": 1165.77,
+      "mean": 70.69,
+      "median": 35.01,
+      "suggested": 23.73,
+      "quantity": 141,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 6.13,
+      "max": 133.02,
+      "mean": 11.58,
+      "median": 7.55,
+      "suggested": 7.67,
+      "quantity": 204,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 3.5,
+      "max": 130.69,
+      "mean": 5.64,
+      "median": 3.97,
+      "suggested": 4.51,
+      "quantity": 467,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 3.49,
+      "max": 12.08,
+      "mean": 5.08,
+      "median": 4.2,
+      "suggested": 4.23,
+      "quantity": 25,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 3.09,
+      "max": 291.73,
+      "mean": 19.99,
+      "median": 14.84,
+      "suggested": 3.92,
+      "quantity": 102,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AWP | Duality (Factory New)",
+      "price": {
+        "min": 16.69,
+        "max": 1165.77,
+        "mean": 70.69,
+        "median": 35.01,
+        "suggested": 23.73,
+        "quantity": 141,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AWP | Duality (Minimal Wear)",
+      "price": {
+        "min": 6.13,
+        "max": 133.02,
+        "mean": 11.58,
+        "median": 7.55,
+        "suggested": 7.67,
+        "quantity": 204,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AWP | Duality (Field-Tested)",
+      "price": {
+        "min": 3.5,
+        "max": 130.69,
+        "mean": 5.64,
+        "median": 3.97,
+        "suggested": 4.51,
+        "quantity": 467,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AWP | Duality (Well-Worn)",
+      "price": {
+        "min": 3.49,
+        "max": 12.08,
+        "mean": 5.08,
+        "median": 4.2,
+        "suggested": 4.23,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AWP | Duality (Battle-Scarred)",
+      "price": {
+        "min": 3.09,
+        "max": 291.73,
+        "mean": 19.99,
+        "median": 14.84,
+        "suggested": 3.92,
+        "quantity": 102,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AWP | Duality (Factory New)",
+        "price": {
+          "min": 16.69,
+          "max": 1165.77,
+          "mean": 70.69,
+          "median": 35.01,
+          "suggested": 23.73,
+          "quantity": 141,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AWP | Duality (Minimal Wear)",
+        "price": {
+          "min": 6.13,
+          "max": 133.02,
+          "mean": 11.58,
+          "median": 7.55,
+          "suggested": 7.67,
+          "quantity": 204,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AWP | Duality (Field-Tested)",
+        "price": {
+          "min": 3.5,
+          "max": 130.69,
+          "mean": 5.64,
+          "median": 3.97,
+          "suggested": 4.51,
+          "quantity": 467,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AWP | Duality (Well-Worn)",
+        "price": {
+          "min": 3.49,
+          "max": 12.08,
+          "mean": 5.08,
+          "median": 4.2,
+          "suggested": 4.23,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AWP | Duality (Battle-Scarred)",
+        "price": {
+          "min": 3.09,
+          "max": 291.73,
+          "mean": 19.99,
+          "median": 14.84,
+          "suggested": 3.92,
+          "quantity": 102,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AWP | Duality (Factory New)",
+        "price": {
+          "min": 20.57,
+          "max": 184.34,
+          "mean": 47.73,
+          "median": 39.72,
+          "suggested": 28.47,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AWP | Duality (Minimal Wear)",
+        "price": {
+          "min": 9.66,
+          "max": 233.39,
+          "mean": 40.71,
+          "median": 22.18,
+          "suggested": 11.99,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AWP | Duality (Field-Tested)",
+        "price": {
+          "min": 4.73,
+          "max": 148.77,
+          "mean": 20.04,
+          "median": 8.16,
+          "suggested": 5.95,
+          "quantity": 61,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AWP | Duality (Well-Worn)",
+        "price": {
+          "min": 5.19,
+          "max": 14.22,
+          "mean": 9.95,
+          "median": 9,
+          "suggested": 6.4,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ AWP | Duality (Battle-Scarred)",
+        "price": {
+          "min": 4.87,
+          "max": 233.38,
+          "mean": 45.14,
+          "median": 33.98,
+          "suggested": 5.66,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AWP | Duality (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AWP | Duality (Minimal Wear)",
+        "price": {
+          "min": 198.65,
+          "max": 198.65,
+          "mean": 198.65,
+          "median": 198.65,
+          "suggested": 231.77,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AWP | Duality (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AWP | Duality (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AWP | Duality (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:26.212Z"
+}

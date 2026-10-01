@@ -1,0 +1,145 @@
+{
+  "id": "skin-acdbb8faedd8",
+  "name": "★ Paracord Knife | Tiger Tooth",
+  "paint_index": "409",
+  "weapon": {
+    "id": "weapon_knife_cord",
+    "weapon_id": 517,
+    "name": "Paracord Knife",
+    "slug": "knife_cord"
+  },
+  "pattern": {
+    "id": "an_tiger_orange",
+    "name": "Tiger Tooth"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This fixed-blade survival knife is designed to withstand being used as both a weapon and a tool, such as for setting traps, hunting animals or cutting foliage. The handle is wrapped in a length of multi-purpose paracord. It has been anodized orange and hand-etched in a tiger stripe pattern.\\n\\n<i>Like the tiger it is rare... like the tiger it is deadly...</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 115.47,
+      "max": 259.54,
+      "mean": 139.99,
+      "median": 132.51,
+      "suggested": 146.84,
+      "quantity": 42,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 145.39,
+      "max": 145.39,
+      "mean": 145.39,
+      "median": 145.39,
+      "suggested": 148.89,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Paracord Knife | Tiger Tooth (Factory New)",
+      "price": {
+        "min": 115.47,
+        "max": 259.54,
+        "mean": 139.99,
+        "median": 132.51,
+        "suggested": 146.84,
+        "quantity": 42,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Paracord Knife | Tiger Tooth (Minimal Wear)",
+      "price": {
+        "min": 145.39,
+        "max": 145.39,
+        "mean": 145.39,
+        "median": 145.39,
+        "suggested": 148.89,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Paracord Knife | Tiger Tooth (Factory New)",
+        "price": {
+          "min": 115.47,
+          "max": 259.54,
+          "mean": 139.99,
+          "median": 132.51,
+          "suggested": 146.84,
+          "quantity": 42,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Paracord Knife | Tiger Tooth (Minimal Wear)",
+        "price": {
+          "min": 145.39,
+          "max": 145.39,
+          "mean": 145.39,
+          "median": 145.39,
+          "suggested": 148.89,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Paracord Knife | Tiger Tooth (Factory New)",
+        "price": {
+          "min": 133.66,
+          "max": 219.38,
+          "mean": 162.39,
+          "median": 154.97,
+          "suggested": 155.03,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Paracord Knife | Tiger Tooth (Minimal Wear)",
+        "price": {
+          "min": 178.73,
+          "max": 178.73,
+          "mean": 178.73,
+          "median": 178.73,
+          "suggested": 216.55,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:33.676Z"
+}

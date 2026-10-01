@@ -1,0 +1,289 @@
+{
+  "id": "skin-b7561c6d5220",
+  "name": "UMP-45 | Facility Dark",
+  "paint_index": "778",
+  "weapon": {
+    "id": "weapon_ump45",
+    "weapon_id": 24,
+    "name": "UMP-45",
+    "slug": "ump45"
+  },
+  "pattern": {
+    "id": "hy_blueprint_bluered",
+    "name": "Facility Dark"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic. A blue hydrographic pattern resembling a nuclear power plant has been applied.\\n\\n<i>Cut the lights</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.07,
+      "max": 4.67,
+      "mean": 1.17,
+      "median": 0.16,
+      "suggested": 0.08,
+      "quantity": 809,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.04,
+      "max": 4.39,
+      "mean": 0.14,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 1383,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.02,
+      "max": 8.52,
+      "mean": 0.05,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 6658,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.02,
+      "max": 6.17,
+      "mean": 0.06,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 617,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.02,
+      "max": 4.07,
+      "mean": 0.07,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 277,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "UMP-45 | Facility Dark (Factory New)",
+      "price": {
+        "min": 0.07,
+        "max": 4.67,
+        "mean": 1.17,
+        "median": 0.16,
+        "suggested": 0.08,
+        "quantity": 809,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "UMP-45 | Facility Dark (Minimal Wear)",
+      "price": {
+        "min": 0.04,
+        "max": 4.39,
+        "mean": 0.14,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 1383,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "UMP-45 | Facility Dark (Field-Tested)",
+      "price": {
+        "min": 0.02,
+        "max": 8.52,
+        "mean": 0.05,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 6658,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "UMP-45 | Facility Dark (Well-Worn)",
+      "price": {
+        "min": 0.02,
+        "max": 6.17,
+        "mean": 0.06,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 617,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "UMP-45 | Facility Dark (Battle-Scarred)",
+      "price": {
+        "min": 0.02,
+        "max": 4.07,
+        "mean": 0.07,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 277,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "UMP-45 | Facility Dark (Factory New)",
+        "price": {
+          "min": 0.07,
+          "max": 4.67,
+          "mean": 1.17,
+          "median": 0.16,
+          "suggested": 0.08,
+          "quantity": 809,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "UMP-45 | Facility Dark (Minimal Wear)",
+        "price": {
+          "min": 0.04,
+          "max": 4.39,
+          "mean": 0.14,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 1383,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "UMP-45 | Facility Dark (Field-Tested)",
+        "price": {
+          "min": 0.02,
+          "max": 8.52,
+          "mean": 0.05,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 6658,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "UMP-45 | Facility Dark (Well-Worn)",
+        "price": {
+          "min": 0.02,
+          "max": 6.17,
+          "mean": 0.06,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 617,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "UMP-45 | Facility Dark (Battle-Scarred)",
+        "price": {
+          "min": 0.02,
+          "max": 4.07,
+          "mean": 0.07,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 277,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir UMP-45 | Facility Dark (Factory New)",
+        "price": {
+          "min": 0.26,
+          "max": 23.33,
+          "mean": 4.25,
+          "median": 1.27,
+          "suggested": 0.13,
+          "quantity": 53,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir UMP-45 | Facility Dark (Minimal Wear)",
+        "price": {
+          "min": 0.39,
+          "max": 34.44,
+          "mean": 5.9,
+          "median": 5.2,
+          "suggested": 0.07,
+          "quantity": 43,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir UMP-45 | Facility Dark (Field-Tested)",
+        "price": {
+          "min": 0.05,
+          "max": 17.5,
+          "mean": 3.08,
+          "median": 1.2,
+          "suggested": 0.07,
+          "quantity": 93,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir UMP-45 | Facility Dark (Well-Worn)",
+        "price": {
+          "min": 0.05,
+          "max": 52.51,
+          "mean": 7.83,
+          "median": 0.68,
+          "suggested": 0.07,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir UMP-45 | Facility Dark (Battle-Scarred)",
+        "price": {
+          "min": 0.29,
+          "max": 25.37,
+          "mean": 3.26,
+          "median": 0.39,
+          "suggested": 0.09,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:50.031Z"
+}

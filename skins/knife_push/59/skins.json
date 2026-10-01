@@ -1,0 +1,153 @@
+{
+  "id": "skin-7741632caeaf",
+  "name": "★ Shadow Daggers | Slaughter",
+  "paint_index": "59",
+  "weapon": {
+    "id": "weapon_knife_push",
+    "weapon_id": 516,
+    "name": "Shadow Daggers",
+    "slug": "knife_push"
+  },
+  "pattern": {
+    "id": "am_zebra",
+    "name": "Slaughter"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.01,
+  "max_float": 0.26,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Designed for efficient brutality, using a push dagger is as simple as throwing a punch or two. It has been painted in a zebra-stripe pattern with aluminum and chrome paints with various reflectivities, and has then been covered with a tomato red candy coat.\\n\\n<i>Valeria doesn't pay Javier to ask questions... she pays him to pry out answers</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 103.32,
+      "max": 319.74,
+      "mean": 138.89,
+      "median": 123.02,
+      "suggested": 143.01,
+      "quantity": 19,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 100.34,
+      "max": 288.62,
+      "mean": 174.88,
+      "median": 161.01,
+      "suggested": 128.87,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "ft": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Shadow Daggers | Slaughter (Factory New)",
+      "price": {
+        "min": 103.32,
+        "max": 319.74,
+        "mean": 138.89,
+        "median": 123.02,
+        "suggested": 143.01,
+        "quantity": 19,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Shadow Daggers | Slaughter (Minimal Wear)",
+      "price": {
+        "min": 100.34,
+        "max": 288.62,
+        "mean": 174.88,
+        "median": 161.01,
+        "suggested": 128.87,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Shadow Daggers | Slaughter (Field-Tested)",
+      "price": null,
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Shadow Daggers | Slaughter (Factory New)",
+        "price": {
+          "min": 103.32,
+          "max": 319.74,
+          "mean": 138.89,
+          "median": 123.02,
+          "suggested": 143.01,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Shadow Daggers | Slaughter (Minimal Wear)",
+        "price": {
+          "min": 100.34,
+          "max": 288.62,
+          "mean": 174.88,
+          "median": 161.01,
+          "suggested": 128.87,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Shadow Daggers | Slaughter (Field-Tested)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Shadow Daggers | Slaughter (Factory New)",
+        "price": {
+          "min": 157.48,
+          "max": 157.48,
+          "mean": 157.48,
+          "median": 157.48,
+          "suggested": 187.75,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Shadow Daggers | Slaughter (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Shadow Daggers | Slaughter (Field-Tested)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:37.327Z"
+}

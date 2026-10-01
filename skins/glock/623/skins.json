@@ -1,0 +1,310 @@
+{
+  "id": "skin-19a7e921eb77",
+  "name": "Glock-18 | Ironwork",
+  "paint_index": "623",
+  "weapon": {
+    "id": "weapon_glock",
+    "weapon_id": 4,
+    "name": "Glock-18",
+    "slug": "glock"
+  },
+  "pattern": {
+    "id": "aq_glock_dark-fall",
+    "name": "Ironwork"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. The slide has been laser etched to depict ivy and thorns.\\n\\n<i>Left unchecked, any garden becomes a tangled mass of weeds</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 64.03,
+      "max": 291.73,
+      "mean": 105.3,
+      "median": 85.21,
+      "suggested": 97.44,
+      "quantity": 33,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 5.25,
+      "max": 10.65,
+      "mean": 6.32,
+      "median": 5.95,
+      "suggested": 6.62,
+      "quantity": 27,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.38,
+      "max": 55.39,
+      "mean": 7.9,
+      "median": 3.5,
+      "suggested": 1.71,
+      "quantity": 36,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.68,
+      "max": 11.66,
+      "mean": 2.25,
+      "median": 0.83,
+      "suggested": 0.86,
+      "quantity": 42,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.54,
+      "max": 120.19,
+      "mean": 5.73,
+      "median": 0.82,
+      "suggested": 0.69,
+      "quantity": 44,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Glock-18 | Ironwork (Factory New)",
+      "price": {
+        "min": 64.03,
+        "max": 291.73,
+        "mean": 105.3,
+        "median": 85.21,
+        "suggested": 97.44,
+        "quantity": 33,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Glock-18 | Ironwork (Minimal Wear)",
+      "price": {
+        "min": 5.25,
+        "max": 10.65,
+        "mean": 6.32,
+        "median": 5.95,
+        "suggested": 6.62,
+        "quantity": 27,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Glock-18 | Ironwork (Field-Tested)",
+      "price": {
+        "min": 1.38,
+        "max": 55.39,
+        "mean": 7.9,
+        "median": 3.5,
+        "suggested": 1.71,
+        "quantity": 36,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Glock-18 | Ironwork (Well-Worn)",
+      "price": {
+        "min": 0.68,
+        "max": 11.66,
+        "mean": 2.25,
+        "median": 0.83,
+        "suggested": 0.86,
+        "quantity": 42,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Glock-18 | Ironwork (Battle-Scarred)",
+      "price": {
+        "min": 0.54,
+        "max": 120.19,
+        "mean": 5.73,
+        "median": 0.82,
+        "suggested": 0.69,
+        "quantity": 44,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Glock-18 | Ironwork (Factory New)",
+        "price": {
+          "min": 64.03,
+          "max": 291.73,
+          "mean": 105.3,
+          "median": 85.21,
+          "suggested": 97.44,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Glock-18 | Ironwork (Minimal Wear)",
+        "price": {
+          "min": 5.25,
+          "max": 10.65,
+          "mean": 6.32,
+          "median": 5.95,
+          "suggested": 6.62,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Glock-18 | Ironwork (Field-Tested)",
+        "price": {
+          "min": 1.38,
+          "max": 55.39,
+          "mean": 7.9,
+          "median": 3.5,
+          "suggested": 1.71,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Glock-18 | Ironwork (Well-Worn)",
+        "price": {
+          "min": 0.68,
+          "max": 11.66,
+          "mean": 2.25,
+          "median": 0.83,
+          "suggested": 0.86,
+          "quantity": 42,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Glock-18 | Ironwork (Battle-Scarred)",
+        "price": {
+          "min": 0.54,
+          "max": 120.19,
+          "mean": 5.73,
+          "median": 0.82,
+          "suggested": 0.69,
+          "quantity": 44,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Glock-18 | Ironwork (Factory New)",
+        "price": {
+          "min": 14.61,
+          "max": 116.68,
+          "mean": 27.81,
+          "median": 22.88,
+          "suggested": 17,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Glock-18 | Ironwork (Minimal Wear)",
+        "price": {
+          "min": 3.06,
+          "max": 64.18,
+          "mean": 16.12,
+          "median": 7.01,
+          "suggested": 3.53,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Glock-18 | Ironwork (Field-Tested)",
+        "price": {
+          "min": 1.42,
+          "max": 137.7,
+          "mean": 14.83,
+          "median": 6.88,
+          "suggested": 1.65,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Glock-18 | Ironwork (Well-Worn)",
+        "price": {
+          "min": 0.77,
+          "max": 19.83,
+          "mean": 3.89,
+          "median": 0.89,
+          "suggested": 0.99,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Glock-18 | Ironwork (Battle-Scarred)",
+        "price": {
+          "min": 0.7,
+          "max": 33.72,
+          "mean": 3.26,
+          "median": 1.17,
+          "suggested": 0.92,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Glock-18 | Ironwork (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Glock-18 | Ironwork (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Glock-18 | Ironwork (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Glock-18 | Ironwork (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Glock-18 | Ironwork (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:31.678Z"
+}

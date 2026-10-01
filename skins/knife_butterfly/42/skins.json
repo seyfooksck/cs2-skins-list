@@ -1,0 +1,273 @@
+{
+  "id": "skin-379727014f65",
+  "name": "★ Butterfly Knife | Blue Steel",
+  "paint_index": "42",
+  "weapon": {
+    "id": "weapon_knife_butterfly",
+    "weapon_id": 515,
+    "name": "Butterfly Knife",
+    "slug": "knife_butterfly"
+  },
+  "pattern": {
+    "id": "aq_blued",
+    "name": "Blue Steel"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This is a custom-designed balisong, commonly known as a butterfly knife. The defining characteristic of this weapon is the fan-like opening of a freely pivoting blade, allowing rapid deployment or concealment. As a result, butterfly knives are outlawed in many countries. It has been cold blued.\\n\\n<i>This is the malbec of weapon design - Booth, Arms Dealer</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1515.85,
+      "max": 2066.27,
+      "mean": 1791.06,
+      "median": 1791.06,
+      "suggested": 1497.53,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 964.01,
+      "max": 1515.27,
+      "mean": 1119.52,
+      "median": 1095.14,
+      "suggested": 1050.24,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 835,
+      "max": 1126.56,
+      "mean": 921.37,
+      "median": 855.25,
+      "suggested": 952.9,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 886.87,
+      "max": 2333.87,
+      "mean": 1372.24,
+      "median": 895.97,
+      "suggested": 930.45,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 786.41,
+      "max": 793.72,
+      "mean": 790.06,
+      "median": 790.06,
+      "suggested": 907.02,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Butterfly Knife | Blue Steel (Factory New)",
+      "price": {
+        "min": 1515.85,
+        "max": 2066.27,
+        "mean": 1791.06,
+        "median": 1791.06,
+        "suggested": 1497.53,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Butterfly Knife | Blue Steel (Minimal Wear)",
+      "price": {
+        "min": 964.01,
+        "max": 1515.27,
+        "mean": 1119.52,
+        "median": 1095.14,
+        "suggested": 1050.24,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Butterfly Knife | Blue Steel (Field-Tested)",
+      "price": {
+        "min": 835,
+        "max": 1126.56,
+        "mean": 921.37,
+        "median": 855.25,
+        "suggested": 952.9,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Butterfly Knife | Blue Steel (Well-Worn)",
+      "price": {
+        "min": 886.87,
+        "max": 2333.87,
+        "mean": 1372.24,
+        "median": 895.97,
+        "suggested": 930.45,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Butterfly Knife | Blue Steel (Battle-Scarred)",
+      "price": {
+        "min": 786.41,
+        "max": 793.72,
+        "mean": 790.06,
+        "median": 790.06,
+        "suggested": 907.02,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Butterfly Knife | Blue Steel (Factory New)",
+        "price": {
+          "min": 1515.85,
+          "max": 2066.27,
+          "mean": 1791.06,
+          "median": 1791.06,
+          "suggested": 1497.53,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Butterfly Knife | Blue Steel (Minimal Wear)",
+        "price": {
+          "min": 964.01,
+          "max": 1515.27,
+          "mean": 1119.52,
+          "median": 1095.14,
+          "suggested": 1050.24,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Butterfly Knife | Blue Steel (Field-Tested)",
+        "price": {
+          "min": 835,
+          "max": 1126.56,
+          "mean": 921.37,
+          "median": 855.25,
+          "suggested": 952.9,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Butterfly Knife | Blue Steel (Well-Worn)",
+        "price": {
+          "min": 886.87,
+          "max": 2333.87,
+          "mean": 1372.24,
+          "median": 895.97,
+          "suggested": 930.45,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Butterfly Knife | Blue Steel (Battle-Scarred)",
+        "price": {
+          "min": 786.41,
+          "max": 793.72,
+          "mean": 790.06,
+          "median": 790.06,
+          "suggested": 907.02,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Butterfly Knife | Blue Steel (Factory New)",
+        "price": {
+          "min": 2332.71,
+          "max": 2332.71,
+          "mean": 2332.71,
+          "median": 2332.71,
+          "suggested": 1916.84,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Butterfly Knife | Blue Steel (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Butterfly Knife | Blue Steel (Field-Tested)",
+        "price": {
+          "min": 875.2,
+          "max": 881.6,
+          "mean": 878.4,
+          "median": 878.4,
+          "suggested": 981.97,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Butterfly Knife | Blue Steel (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Butterfly Knife | Blue Steel (Battle-Scarred)",
+        "price": {
+          "min": 921.72,
+          "max": 1374.63,
+          "mean": 1148.17,
+          "median": 1148.17,
+          "suggested": 945.18,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:33.025Z"
+}

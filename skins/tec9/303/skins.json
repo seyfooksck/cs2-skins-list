@@ -1,0 +1,310 @@
+{
+  "id": "skin-bc677a3996cc",
+  "name": "Tec-9 | Isaac",
+  "paint_index": "303",
+  "weapon": {
+    "id": "weapon_tec9",
+    "weapon_id": 30,
+    "name": "Tec-9",
+    "slug": "tec9"
+  },
+  "pattern": {
+    "id": "cu_tec9_asiimov",
+    "name": "Isaac"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity. It has been custom painted with a sci-fi design.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 30.38,
+      "max": 259.06,
+      "mean": 61.31,
+      "median": 41.19,
+      "suggested": 36.7,
+      "quantity": 27,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 5.51,
+      "max": 313.28,
+      "mean": 21.79,
+      "median": 11.67,
+      "suggested": 7.33,
+      "quantity": 34,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 4.39,
+      "max": 130.69,
+      "mean": 20.89,
+      "median": 4.78,
+      "suggested": 5.12,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 2.89,
+      "max": 29.17,
+      "mean": 5.34,
+      "median": 3.14,
+      "suggested": 3.34,
+      "quantity": 25,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 3.12,
+      "max": 5.41,
+      "mean": 3.85,
+      "median": 3.15,
+      "suggested": 3.12,
+      "quantity": 9,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Tec-9 | Isaac (Factory New)",
+      "price": {
+        "min": 30.38,
+        "max": 259.06,
+        "mean": 61.31,
+        "median": 41.19,
+        "suggested": 36.7,
+        "quantity": 27,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Tec-9 | Isaac (Minimal Wear)",
+      "price": {
+        "min": 5.51,
+        "max": 313.28,
+        "mean": 21.79,
+        "median": 11.67,
+        "suggested": 7.33,
+        "quantity": 34,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Tec-9 | Isaac (Field-Tested)",
+      "price": {
+        "min": 4.39,
+        "max": 130.69,
+        "mean": 20.89,
+        "median": 4.78,
+        "suggested": 5.12,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Tec-9 | Isaac (Well-Worn)",
+      "price": {
+        "min": 2.89,
+        "max": 29.17,
+        "mean": 5.34,
+        "median": 3.14,
+        "suggested": 3.34,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Tec-9 | Isaac (Battle-Scarred)",
+      "price": {
+        "min": 3.12,
+        "max": 5.41,
+        "mean": 3.85,
+        "median": 3.15,
+        "suggested": 3.12,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Tec-9 | Isaac (Factory New)",
+        "price": {
+          "min": 30.38,
+          "max": 259.06,
+          "mean": 61.31,
+          "median": 41.19,
+          "suggested": 36.7,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Tec-9 | Isaac (Minimal Wear)",
+        "price": {
+          "min": 5.51,
+          "max": 313.28,
+          "mean": 21.79,
+          "median": 11.67,
+          "suggested": 7.33,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Tec-9 | Isaac (Field-Tested)",
+        "price": {
+          "min": 4.39,
+          "max": 130.69,
+          "mean": 20.89,
+          "median": 4.78,
+          "suggested": 5.12,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Tec-9 | Isaac (Well-Worn)",
+        "price": {
+          "min": 2.89,
+          "max": 29.17,
+          "mean": 5.34,
+          "median": 3.14,
+          "suggested": 3.34,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Tec-9 | Isaac (Battle-Scarred)",
+        "price": {
+          "min": 3.12,
+          "max": 5.41,
+          "mean": 3.85,
+          "median": 3.15,
+          "suggested": 3.12,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Tec-9 | Isaac (Factory New)",
+        "price": {
+          "min": 37.7,
+          "max": 128.35,
+          "mean": 55.37,
+          "median": 49,
+          "suggested": 44.86,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Tec-9 | Isaac (Minimal Wear)",
+        "price": {
+          "min": 12.12,
+          "max": 233.39,
+          "mean": 34.07,
+          "median": 17.5,
+          "suggested": 10.7,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Tec-9 | Isaac (Field-Tested)",
+        "price": {
+          "min": 4.62,
+          "max": 81.13,
+          "mean": 16.24,
+          "median": 10.39,
+          "suggested": 5.75,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Tec-9 | Isaac (Well-Worn)",
+        "price": {
+          "min": 4.35,
+          "max": 87.52,
+          "mean": 17.38,
+          "median": 6.16,
+          "suggested": 3.51,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Tec-9 | Isaac (Battle-Scarred)",
+        "price": {
+          "min": 2.64,
+          "max": 12.84,
+          "mean": 4.84,
+          "median": 3.02,
+          "suggested": 3.16,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Tec-9 | Isaac (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Tec-9 | Isaac (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Tec-9 | Isaac (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Tec-9 | Isaac (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Tec-9 | Isaac (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.102Z"
+}

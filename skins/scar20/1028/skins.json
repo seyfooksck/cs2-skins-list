@@ -1,0 +1,225 @@
+{
+  "id": "skin-433c273a49c2",
+  "name": "SCAR-20 | Magna Carta",
+  "paint_index": "1028",
+  "weapon": {
+    "id": "weapon_scar20",
+    "weapon_id": 38,
+    "name": "SCAR-20",
+    "slug": "scar20"
+  },
+  "pattern": {
+    "id": "hy_authority_purple",
+    "name": "Magna Carta"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The SCAR-20 is a semi-automatic sniper rifle that trades a high rate of fire and powerful long-distance damage for sluggish movement speed and big price tag. A purple-colored pattern of crests, scrawls, and text from the Magna Carta has been applied.\\n\\n<i>Everyone is subject to due process—even you</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 19.69,
+      "max": 261.13,
+      "mean": 39.83,
+      "median": 23.4,
+      "suggested": 24.61,
+      "quantity": 40,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 18.01,
+      "max": 69.49,
+      "mean": 27.96,
+      "median": 21.59,
+      "suggested": 21.04,
+      "quantity": 31,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 17.54,
+      "max": 60.31,
+      "mean": 23.07,
+      "median": 18.81,
+      "suggested": 19.21,
+      "quantity": 17,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 21,
+      "max": 26.72,
+      "mean": 23.86,
+      "median": 23.86,
+      "suggested": 18.02,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SCAR-20 | Magna Carta (Factory New)",
+      "price": {
+        "min": 19.69,
+        "max": 261.13,
+        "mean": 39.83,
+        "median": 23.4,
+        "suggested": 24.61,
+        "quantity": 40,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SCAR-20 | Magna Carta (Minimal Wear)",
+      "price": {
+        "min": 18.01,
+        "max": 69.49,
+        "mean": 27.96,
+        "median": 21.59,
+        "suggested": 21.04,
+        "quantity": 31,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "SCAR-20 | Magna Carta (Field-Tested)",
+      "price": {
+        "min": 17.54,
+        "max": 60.31,
+        "mean": 23.07,
+        "median": 18.81,
+        "suggested": 19.21,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "SCAR-20 | Magna Carta (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "SCAR-20 | Magna Carta (Battle-Scarred)",
+      "price": {
+        "min": 21,
+        "max": 26.72,
+        "mean": 23.86,
+        "median": 23.86,
+        "suggested": 18.02,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SCAR-20 | Magna Carta (Factory New)",
+        "price": {
+          "min": 19.69,
+          "max": 261.13,
+          "mean": 39.83,
+          "median": 23.4,
+          "suggested": 24.61,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "SCAR-20 | Magna Carta (Minimal Wear)",
+        "price": {
+          "min": 18.01,
+          "max": 69.49,
+          "mean": 27.96,
+          "median": 21.59,
+          "suggested": 21.04,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "SCAR-20 | Magna Carta (Field-Tested)",
+        "price": {
+          "min": 17.54,
+          "max": 60.31,
+          "mean": 23.07,
+          "median": 18.81,
+          "suggested": 19.21,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "SCAR-20 | Magna Carta (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "SCAR-20 | Magna Carta (Battle-Scarred)",
+        "price": {
+          "min": 21,
+          "max": 26.72,
+          "mean": 23.86,
+          "median": 23.86,
+          "suggested": 18.02,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SCAR-20 | Magna Carta (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir SCAR-20 | Magna Carta (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir SCAR-20 | Magna Carta (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir SCAR-20 | Magna Carta (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir SCAR-20 | Magna Carta (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:47.566Z"
+}

@@ -1,0 +1,249 @@
+{
+  "id": "skin-cae293d76ade",
+  "name": "Tec-9 | Perimeter",
+  "paint_index": "1447",
+  "weapon": {
+    "id": "weapon_tec9",
+    "weapon_id": 30,
+    "name": "Tec-9",
+    "slug": "tec9"
+  },
+  "pattern": {
+    "id": "tec9_perimeter_urban",
+    "name": "Perimeter"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity. A multicolored design of Xs, squares, and dots has been applied.\\n\\n<i>Drawing up the X's and O's</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.09,
+      "max": 5.82,
+      "mean": 4.48,
+      "median": 5.82,
+      "suggested": 0.73,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.06,
+      "max": 0.47,
+      "mean": 0.42,
+      "median": 0.47,
+      "suggested": 0.09,
+      "quantity": 17,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.05,
+      "max": 2.33,
+      "mean": 0.36,
+      "median": 0.06,
+      "suggested": 0.07,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.04,
+      "max": 1.17,
+      "mean": 0.23,
+      "median": 0.05,
+      "suggested": 0.03,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.05,
+      "max": 0.05,
+      "mean": 0.05,
+      "median": 0.05,
+      "suggested": 0.05,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Tec-9 | Perimeter (Factory New)",
+      "price": {
+        "min": 1.09,
+        "max": 5.82,
+        "mean": 4.48,
+        "median": 5.82,
+        "suggested": 0.73,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Tec-9 | Perimeter (Minimal Wear)",
+      "price": {
+        "min": 0.06,
+        "max": 0.47,
+        "mean": 0.42,
+        "median": 0.47,
+        "suggested": 0.09,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Tec-9 | Perimeter (Field-Tested)",
+      "price": {
+        "min": 0.05,
+        "max": 2.33,
+        "mean": 0.36,
+        "median": 0.06,
+        "suggested": 0.07,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Tec-9 | Perimeter (Well-Worn)",
+      "price": {
+        "min": 0.04,
+        "max": 1.17,
+        "mean": 0.23,
+        "median": 0.05,
+        "suggested": 0.03,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Tec-9 | Perimeter (Battle-Scarred)",
+      "price": {
+        "min": 0.05,
+        "max": 0.05,
+        "mean": 0.05,
+        "median": 0.05,
+        "suggested": 0.05,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Tec-9 | Perimeter (Factory New)",
+        "price": {
+          "min": 1.09,
+          "max": 5.82,
+          "mean": 4.48,
+          "median": 5.82,
+          "suggested": 0.73,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Tec-9 | Perimeter (Minimal Wear)",
+        "price": {
+          "min": 0.06,
+          "max": 0.47,
+          "mean": 0.42,
+          "median": 0.47,
+          "suggested": 0.09,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Tec-9 | Perimeter (Field-Tested)",
+        "price": {
+          "min": 0.05,
+          "max": 2.33,
+          "mean": 0.36,
+          "median": 0.06,
+          "suggested": 0.07,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Tec-9 | Perimeter (Well-Worn)",
+        "price": {
+          "min": 0.04,
+          "max": 1.17,
+          "mean": 0.23,
+          "median": 0.05,
+          "suggested": 0.03,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Tec-9 | Perimeter (Battle-Scarred)",
+        "price": {
+          "min": 0.05,
+          "max": 0.05,
+          "mean": 0.05,
+          "median": 0.05,
+          "suggested": 0.05,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Tec-9 | Perimeter (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Tec-9 | Perimeter (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Tec-9 | Perimeter (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Tec-9 | Perimeter (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Tec-9 | Perimeter (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.659Z"
+}

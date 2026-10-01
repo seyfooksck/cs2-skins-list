@@ -1,0 +1,310 @@
+{
+  "id": "skin-35998e06d00e",
+  "name": "M4A4 | Poly Mag",
+  "paint_index": "1149",
+  "weapon": {
+    "id": "weapon_m4a1",
+    "weapon_id": 16,
+    "name": "M4A4",
+    "slug": "m4a1"
+  },
+  "pattern": {
+    "id": "cu_m4a4_elite_tactical",
+    "name": "Poly Mag"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. This custom paint job features a clear polymer magazine and a tan colored stock, hand guard, and grip.\\n\\n<i>Standard operating procedure</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.04,
+      "max": 104.44,
+      "mean": 9.51,
+      "median": 4.13,
+      "suggested": 2.93,
+      "quantity": 82,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.15,
+      "max": 21,
+      "mean": 0.4,
+      "median": 0.25,
+      "suggested": 0.25,
+      "quantity": 343,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.08,
+      "max": 2.45,
+      "mean": 0.16,
+      "median": 0.11,
+      "suggested": 0.12,
+      "quantity": 615,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.07,
+      "max": 40.84,
+      "mean": 0.2,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 723,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.07,
+      "max": 4.61,
+      "mean": 0.2,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 428,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A4 | Poly Mag (Factory New)",
+      "price": {
+        "min": 2.04,
+        "max": 104.44,
+        "mean": 9.51,
+        "median": 4.13,
+        "suggested": 2.93,
+        "quantity": 82,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A4 | Poly Mag (Minimal Wear)",
+      "price": {
+        "min": 0.15,
+        "max": 21,
+        "mean": 0.4,
+        "median": 0.25,
+        "suggested": 0.25,
+        "quantity": 343,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A4 | Poly Mag (Field-Tested)",
+      "price": {
+        "min": 0.08,
+        "max": 2.45,
+        "mean": 0.16,
+        "median": 0.11,
+        "suggested": 0.12,
+        "quantity": 615,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M4A4 | Poly Mag (Well-Worn)",
+      "price": {
+        "min": 0.07,
+        "max": 40.84,
+        "mean": 0.2,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 723,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M4A4 | Poly Mag (Battle-Scarred)",
+      "price": {
+        "min": 0.07,
+        "max": 4.61,
+        "mean": 0.2,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 428,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A4 | Poly Mag (Factory New)",
+        "price": {
+          "min": 2.04,
+          "max": 104.44,
+          "mean": 9.51,
+          "median": 4.13,
+          "suggested": 2.93,
+          "quantity": 82,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A4 | Poly Mag (Minimal Wear)",
+        "price": {
+          "min": 0.15,
+          "max": 21,
+          "mean": 0.4,
+          "median": 0.25,
+          "suggested": 0.25,
+          "quantity": 343,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A4 | Poly Mag (Field-Tested)",
+        "price": {
+          "min": 0.08,
+          "max": 2.45,
+          "mean": 0.16,
+          "median": 0.11,
+          "suggested": 0.12,
+          "quantity": 615,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M4A4 | Poly Mag (Well-Worn)",
+        "price": {
+          "min": 0.07,
+          "max": 40.84,
+          "mean": 0.2,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 723,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M4A4 | Poly Mag (Battle-Scarred)",
+        "price": {
+          "min": 0.07,
+          "max": 4.61,
+          "mean": 0.2,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 428,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ M4A4 | Poly Mag (Factory New)",
+        "price": {
+          "min": 2.19,
+          "max": 133.45,
+          "mean": 13.77,
+          "median": 8.31,
+          "suggested": 2.97,
+          "quantity": 39,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ M4A4 | Poly Mag (Minimal Wear)",
+        "price": {
+          "min": 0.32,
+          "max": 8.33,
+          "mean": 1.6,
+          "median": 0.43,
+          "suggested": 0.38,
+          "quantity": 212,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ M4A4 | Poly Mag (Field-Tested)",
+        "price": {
+          "min": 0.11,
+          "max": 8.17,
+          "mean": 0.55,
+          "median": 0.18,
+          "suggested": 0.13,
+          "quantity": 365,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ M4A4 | Poly Mag (Well-Worn)",
+        "price": {
+          "min": 0.08,
+          "max": 61.99,
+          "mean": 0.4,
+          "median": 0.14,
+          "suggested": 0.1,
+          "quantity": 310,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ M4A4 | Poly Mag (Battle-Scarred)",
+        "price": {
+          "min": 0.08,
+          "max": 11.67,
+          "mean": 0.26,
+          "median": 0.14,
+          "suggested": 0.12,
+          "quantity": 183,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A4 | Poly Mag (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A4 | Poly Mag (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A4 | Poly Mag (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M4A4 | Poly Mag (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M4A4 | Poly Mag (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:40.196Z"
+}

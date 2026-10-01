@@ -1,0 +1,201 @@
+{
+  "id": "skin-97cabeaedccd",
+  "name": "MAC-10 | Hot Snakes",
+  "paint_index": "1009",
+  "weapon": {
+    "id": "weapon_mac10",
+    "weapon_id": 17,
+    "name": "MAC-10",
+    "slug": "mac10"
+  },
+  "pattern": {
+    "id": "gs_mac10_snake",
+    "name": "Hot Snakes"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been custom painted with a bronze snakeskin pattern and a coiled snake beneath the wire form butt.\\n\\n<i>The hissing is bullets flying past you</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 379.25,
+      "max": 583.47,
+      "mean": 481.36,
+      "median": 481.36,
+      "suggested": 434.58,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "mw": null,
+    "ft": {
+      "min": 318.21,
+      "max": 358.45,
+      "mean": 338.33,
+      "median": 338.33,
+      "suggested": 336.11,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 268.4,
+      "max": 484.76,
+      "mean": 376.58,
+      "median": 376.58,
+      "suggested": 222.14,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAC-10 | Hot Snakes (Factory New)",
+      "price": {
+        "min": 379.25,
+        "max": 583.47,
+        "mean": 481.36,
+        "median": 481.36,
+        "suggested": 434.58,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAC-10 | Hot Snakes (Minimal Wear)",
+      "price": null,
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAC-10 | Hot Snakes (Field-Tested)",
+      "price": {
+        "min": 318.21,
+        "max": 358.45,
+        "mean": 338.33,
+        "median": 338.33,
+        "suggested": 336.11,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAC-10 | Hot Snakes (Well-Worn)",
+      "price": {
+        "min": 268.4,
+        "max": 484.76,
+        "mean": 376.58,
+        "median": 376.58,
+        "suggested": 222.14,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAC-10 | Hot Snakes (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAC-10 | Hot Snakes (Factory New)",
+        "price": {
+          "min": 379.25,
+          "max": 583.47,
+          "mean": 481.36,
+          "median": 481.36,
+          "suggested": 434.58,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAC-10 | Hot Snakes (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "MAC-10 | Hot Snakes (Field-Tested)",
+        "price": {
+          "min": 318.21,
+          "max": 358.45,
+          "mean": 338.33,
+          "median": 338.33,
+          "suggested": 336.11,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAC-10 | Hot Snakes (Well-Worn)",
+        "price": {
+          "min": 268.4,
+          "max": 484.76,
+          "mean": 376.58,
+          "median": 376.58,
+          "suggested": 222.14,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MAC-10 | Hot Snakes (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAC-10 | Hot Snakes (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAC-10 | Hot Snakes (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAC-10 | Hot Snakes (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAC-10 | Hot Snakes (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAC-10 | Hot Snakes (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.840Z"
+}

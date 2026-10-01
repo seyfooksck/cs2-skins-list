@@ -1,0 +1,258 @@
+{
+  "id": "skin-31a620b2b0c6",
+  "name": "MAG-7 | Heaven Guard",
+  "paint_index": "291",
+  "weapon": {
+    "id": "weapon_mag7",
+    "weapon_id": 27,
+    "name": "MAG-7",
+    "slug": "mag7"
+  },
+  "pattern": {
+    "id": "cu_mag7_heaven",
+    "name": "Heaven Guard"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.4,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The CT-exclusive Mag-7 delivers a devastating amount of damage at close range. Its rapid magazine-style reloads make it a great tactical choice. It has been painted using a combination of subtly patterned hydrographics and dry-transfer decals of wings.\\n\\n<i>Sometimes the wings of an angel don't mean salvation</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.82,
+      "max": 18.67,
+      "mean": 2.6,
+      "median": 1.41,
+      "suggested": 1.13,
+      "quantity": 97,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.51,
+      "max": 11.94,
+      "mean": 0.86,
+      "median": 0.69,
+      "suggested": 0.75,
+      "quantity": 137,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.55,
+      "max": 42.59,
+      "mean": 2.52,
+      "median": 0.7,
+      "suggested": 0.91,
+      "quantity": 117,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.07,
+      "max": 23.34,
+      "mean": 5.8,
+      "median": 1.17,
+      "suggested": 0.77,
+      "quantity": 5,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAG-7 | Heaven Guard (Factory New)",
+      "price": {
+        "min": 0.82,
+        "max": 18.67,
+        "mean": 2.6,
+        "median": 1.41,
+        "suggested": 1.13,
+        "quantity": 97,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAG-7 | Heaven Guard (Minimal Wear)",
+      "price": {
+        "min": 0.51,
+        "max": 11.94,
+        "mean": 0.86,
+        "median": 0.69,
+        "suggested": 0.75,
+        "quantity": 137,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAG-7 | Heaven Guard (Field-Tested)",
+      "price": {
+        "min": 0.55,
+        "max": 42.59,
+        "mean": 2.52,
+        "median": 0.7,
+        "suggested": 0.91,
+        "quantity": 117,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAG-7 | Heaven Guard (Well-Worn)",
+      "price": {
+        "min": 1.07,
+        "max": 23.34,
+        "mean": 5.8,
+        "median": 1.17,
+        "suggested": 0.77,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAG-7 | Heaven Guard (Factory New)",
+        "price": {
+          "min": 0.82,
+          "max": 18.67,
+          "mean": 2.6,
+          "median": 1.41,
+          "suggested": 1.13,
+          "quantity": 97,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAG-7 | Heaven Guard (Minimal Wear)",
+        "price": {
+          "min": 0.51,
+          "max": 11.94,
+          "mean": 0.86,
+          "median": 0.69,
+          "suggested": 0.75,
+          "quantity": 137,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAG-7 | Heaven Guard (Field-Tested)",
+        "price": {
+          "min": 0.55,
+          "max": 42.59,
+          "mean": 2.52,
+          "median": 0.7,
+          "suggested": 0.91,
+          "quantity": 117,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAG-7 | Heaven Guard (Well-Worn)",
+        "price": {
+          "min": 1.07,
+          "max": 23.34,
+          "mean": 5.8,
+          "median": 1.17,
+          "suggested": 0.77,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MAG-7 | Heaven Guard (Factory New)",
+        "price": {
+          "min": 1.33,
+          "max": 123.68,
+          "mean": 5.05,
+          "median": 1.55,
+          "suggested": 1.64,
+          "quantity": 45,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MAG-7 | Heaven Guard (Minimal Wear)",
+        "price": {
+          "min": 0.76,
+          "max": 233.39,
+          "mean": 5.74,
+          "median": 0.92,
+          "suggested": 0.96,
+          "quantity": 52,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MAG-7 | Heaven Guard (Field-Tested)",
+        "price": {
+          "min": 0.51,
+          "max": 105.01,
+          "mean": 2.21,
+          "median": 0.63,
+          "suggested": 0.65,
+          "quantity": 80,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MAG-7 | Heaven Guard (Well-Worn)",
+        "price": {
+          "min": 0.97,
+          "max": 17.32,
+          "mean": 5.13,
+          "median": 1.13,
+          "suggested": 1.05,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAG-7 | Heaven Guard (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAG-7 | Heaven Guard (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAG-7 | Heaven Guard (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAG-7 | Heaven Guard (Well-Worn)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.268Z"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "skin-7b1351c2adba",
+  "name": "M4A1-S | Hyper Beast",
+  "paint_index": "430",
+  "weapon": {
+    "id": "weapon_m4a1_silencer",
+    "weapon_id": 60,
+    "name": "M4A1-S",
+    "slug": "m4a1_silencer"
+  },
+  "pattern": {
+    "id": "cu_m4a1_hyper_beast",
+    "name": "Hyper Beast"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. It has been custom painted with a beastly creature in psychedelic colors.\\n\\n<i>You really want to impress me Booth? Make this black light sensitive - Rona Sabri, Rising Star</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 338.41,
+      "max": 1225.27,
+      "mean": 525.82,
+      "median": 471.21,
+      "suggested": 424.63,
+      "quantity": 24,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 120.28,
+      "max": 408.43,
+      "mean": 160.27,
+      "median": 144.7,
+      "suggested": 155.5,
+      "quantity": 130,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 115.41,
+      "max": 280.06,
+      "mean": 132.23,
+      "median": 128.04,
+      "suggested": 145.23,
+      "quantity": 182,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 113.19,
+      "max": 6732.4,
+      "mean": 223.67,
+      "median": 124.63,
+      "suggested": 142.56,
+      "quantity": 71,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 113.19,
+      "max": 150.16,
+      "mean": 124.51,
+      "median": 122.24,
+      "suggested": 140.19,
+      "quantity": 37,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A1-S | Hyper Beast (Factory New)",
+      "price": {
+        "min": 338.41,
+        "max": 1225.27,
+        "mean": 525.82,
+        "median": 471.21,
+        "suggested": 424.63,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A1-S | Hyper Beast (Minimal Wear)",
+      "price": {
+        "min": 120.28,
+        "max": 408.43,
+        "mean": 160.27,
+        "median": 144.7,
+        "suggested": 155.5,
+        "quantity": 130,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A1-S | Hyper Beast (Field-Tested)",
+      "price": {
+        "min": 115.41,
+        "max": 280.06,
+        "mean": 132.23,
+        "median": 128.04,
+        "suggested": 145.23,
+        "quantity": 182,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M4A1-S | Hyper Beast (Well-Worn)",
+      "price": {
+        "min": 113.19,
+        "max": 6732.4,
+        "mean": 223.67,
+        "median": 124.63,
+        "suggested": 142.56,
+        "quantity": 71,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M4A1-S | Hyper Beast (Battle-Scarred)",
+      "price": {
+        "min": 113.19,
+        "max": 150.16,
+        "mean": 124.51,
+        "median": 122.24,
+        "suggested": 140.19,
+        "quantity": 37,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A1-S | Hyper Beast (Factory New)",
+        "price": {
+          "min": 338.41,
+          "max": 1225.27,
+          "mean": 525.82,
+          "median": 471.21,
+          "suggested": 424.63,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A1-S | Hyper Beast (Minimal Wear)",
+        "price": {
+          "min": 120.28,
+          "max": 408.43,
+          "mean": 160.27,
+          "median": 144.7,
+          "suggested": 155.5,
+          "quantity": 130,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A1-S | Hyper Beast (Field-Tested)",
+        "price": {
+          "min": 115.41,
+          "max": 280.06,
+          "mean": 132.23,
+          "median": 128.04,
+          "suggested": 145.23,
+          "quantity": 182,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M4A1-S | Hyper Beast (Well-Worn)",
+        "price": {
+          "min": 113.19,
+          "max": 6732.4,
+          "mean": 223.67,
+          "median": 124.63,
+          "suggested": 142.56,
+          "quantity": 71,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M4A1-S | Hyper Beast (Battle-Scarred)",
+        "price": {
+          "min": 113.19,
+          "max": 150.16,
+          "mean": 124.51,
+          "median": 122.24,
+          "suggested": 140.19,
+          "quantity": 37,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ M4A1-S | Hyper Beast (Factory New)",
+        "price": {
+          "min": 574.19,
+          "max": 641.82,
+          "mean": 608.01,
+          "median": 608.01,
+          "suggested": 507.4,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ M4A1-S | Hyper Beast (Minimal Wear)",
+        "price": {
+          "min": 194.98,
+          "max": 291.72,
+          "mean": 220.73,
+          "median": 211.08,
+          "suggested": 241.76,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ M4A1-S | Hyper Beast (Field-Tested)",
+        "price": {
+          "min": 107.53,
+          "max": 289.27,
+          "mean": 137.64,
+          "median": 128.76,
+          "suggested": 152.26,
+          "quantity": 42,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ M4A1-S | Hyper Beast (Well-Worn)",
+        "price": {
+          "min": 99.85,
+          "max": 164.47,
+          "mean": 121.1,
+          "median": 117.63,
+          "suggested": 145.38,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ M4A1-S | Hyper Beast (Battle-Scarred)",
+        "price": {
+          "min": 108.77,
+          "max": 482.12,
+          "mean": 178.72,
+          "median": 122.79,
+          "suggested": 146.81,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A1-S | Hyper Beast (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A1-S | Hyper Beast (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A1-S | Hyper Beast (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M4A1-S | Hyper Beast (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M4A1-S | Hyper Beast (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:40.829Z"
+}

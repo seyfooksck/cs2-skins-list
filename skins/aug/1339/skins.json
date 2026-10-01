@@ -1,0 +1,310 @@
+{
+  "id": "skin-ab9a15ef8110",
+  "name": "AUG | Trigger Discipline",
+  "paint_index": "1339",
+  "weapon": {
+    "id": "weapon_aug",
+    "weapon_id": 8,
+    "name": "AUG",
+    "slug": "aug"
+  },
+  "pattern": {
+    "id": "aug_trigger_discipline_velco",
+    "name": "Trigger Discipline"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire. A blue isometric pattern has been applied and finished with orange accents.\\n\\n<i>Patience is its own reward</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.1,
+      "max": 68.27,
+      "mean": 5.96,
+      "median": 1.34,
+      "suggested": 1.27,
+      "quantity": 35,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.25,
+      "max": 2.33,
+      "mean": 0.4,
+      "median": 0.3,
+      "suggested": 0.33,
+      "quantity": 35,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.14,
+      "max": 0.81,
+      "mean": 0.2,
+      "median": 0.18,
+      "suggested": 0.21,
+      "quantity": 71,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.09,
+      "max": 1.17,
+      "mean": 0.19,
+      "median": 0.12,
+      "suggested": 0.12,
+      "quantity": 46,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.08,
+      "max": 5.12,
+      "mean": 0.51,
+      "median": 0.11,
+      "suggested": 0.1,
+      "quantity": 30,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AUG | Trigger Discipline (Factory New)",
+      "price": {
+        "min": 1.1,
+        "max": 68.27,
+        "mean": 5.96,
+        "median": 1.34,
+        "suggested": 1.27,
+        "quantity": 35,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AUG | Trigger Discipline (Minimal Wear)",
+      "price": {
+        "min": 0.25,
+        "max": 2.33,
+        "mean": 0.4,
+        "median": 0.3,
+        "suggested": 0.33,
+        "quantity": 35,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AUG | Trigger Discipline (Field-Tested)",
+      "price": {
+        "min": 0.14,
+        "max": 0.81,
+        "mean": 0.2,
+        "median": 0.18,
+        "suggested": 0.21,
+        "quantity": 71,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AUG | Trigger Discipline (Well-Worn)",
+      "price": {
+        "min": 0.09,
+        "max": 1.17,
+        "mean": 0.19,
+        "median": 0.12,
+        "suggested": 0.12,
+        "quantity": 46,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AUG | Trigger Discipline (Battle-Scarred)",
+      "price": {
+        "min": 0.08,
+        "max": 5.12,
+        "mean": 0.51,
+        "median": 0.11,
+        "suggested": 0.1,
+        "quantity": 30,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AUG | Trigger Discipline (Factory New)",
+        "price": {
+          "min": 1.1,
+          "max": 68.27,
+          "mean": 5.96,
+          "median": 1.34,
+          "suggested": 1.27,
+          "quantity": 35,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AUG | Trigger Discipline (Minimal Wear)",
+        "price": {
+          "min": 0.25,
+          "max": 2.33,
+          "mean": 0.4,
+          "median": 0.3,
+          "suggested": 0.33,
+          "quantity": 35,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AUG | Trigger Discipline (Field-Tested)",
+        "price": {
+          "min": 0.14,
+          "max": 0.81,
+          "mean": 0.2,
+          "median": 0.18,
+          "suggested": 0.21,
+          "quantity": 71,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AUG | Trigger Discipline (Well-Worn)",
+        "price": {
+          "min": 0.09,
+          "max": 1.17,
+          "mean": 0.19,
+          "median": 0.12,
+          "suggested": 0.12,
+          "quantity": 46,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AUG | Trigger Discipline (Battle-Scarred)",
+        "price": {
+          "min": 0.08,
+          "max": 5.12,
+          "mean": 0.51,
+          "median": 0.11,
+          "suggested": 0.1,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AUG | Trigger Discipline (Factory New)",
+        "price": {
+          "min": 2,
+          "max": 37.58,
+          "mean": 7.02,
+          "median": 2.18,
+          "suggested": 2.5,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AUG | Trigger Discipline (Minimal Wear)",
+        "price": {
+          "min": 0.56,
+          "max": 0.93,
+          "mean": 0.68,
+          "median": 0.7,
+          "suggested": 0.74,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AUG | Trigger Discipline (Field-Tested)",
+        "price": {
+          "min": 0.26,
+          "max": 0.34,
+          "mean": 0.3,
+          "median": 0.29,
+          "suggested": 0.32,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AUG | Trigger Discipline (Well-Worn)",
+        "price": {
+          "min": 0.23,
+          "max": 0.55,
+          "mean": 0.29,
+          "median": 0.28,
+          "suggested": 0.28,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ AUG | Trigger Discipline (Battle-Scarred)",
+        "price": {
+          "min": 0.19,
+          "max": 0.63,
+          "mean": 0.26,
+          "median": 0.21,
+          "suggested": 0.23,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AUG | Trigger Discipline (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AUG | Trigger Discipline (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AUG | Trigger Discipline (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AUG | Trigger Discipline (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AUG | Trigger Discipline (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.329Z"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "skin-9b16f88ae206",
+  "name": "MAC-10 | Oceanic",
+  "paint_index": "682",
+  "weapon": {
+    "id": "weapon_mac10",
+    "weapon_id": 17,
+    "name": "MAC-10",
+    "slug": "mac10"
+  },
+  "pattern": {
+    "id": "am_mac10_oceani",
+    "name": "Oceanic"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been given a black base coat and accented with blue designs.\\n\\n<i>The shapeless void</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.47,
+      "max": 58.35,
+      "mean": 9.98,
+      "median": 5.82,
+      "suggested": 2.26,
+      "quantity": 49,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.3,
+      "max": 17.5,
+      "mean": 1.03,
+      "median": 0.42,
+      "suggested": 0.4,
+      "quantity": 94,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.29,
+      "max": 12.84,
+      "mean": 0.84,
+      "median": 0.42,
+      "suggested": 0.48,
+      "quantity": 269,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.25,
+      "max": 1.48,
+      "mean": 0.39,
+      "median": 0.29,
+      "suggested": 0.31,
+      "quantity": 29,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.18,
+      "max": 3.91,
+      "mean": 0.55,
+      "median": 0.26,
+      "suggested": 0.25,
+      "quantity": 27,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAC-10 | Oceanic (Factory New)",
+      "price": {
+        "min": 2.47,
+        "max": 58.35,
+        "mean": 9.98,
+        "median": 5.82,
+        "suggested": 2.26,
+        "quantity": 49,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAC-10 | Oceanic (Minimal Wear)",
+      "price": {
+        "min": 0.3,
+        "max": 17.5,
+        "mean": 1.03,
+        "median": 0.42,
+        "suggested": 0.4,
+        "quantity": 94,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAC-10 | Oceanic (Field-Tested)",
+      "price": {
+        "min": 0.29,
+        "max": 12.84,
+        "mean": 0.84,
+        "median": 0.42,
+        "suggested": 0.48,
+        "quantity": 269,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAC-10 | Oceanic (Well-Worn)",
+      "price": {
+        "min": 0.25,
+        "max": 1.48,
+        "mean": 0.39,
+        "median": 0.29,
+        "suggested": 0.31,
+        "quantity": 29,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAC-10 | Oceanic (Battle-Scarred)",
+      "price": {
+        "min": 0.18,
+        "max": 3.91,
+        "mean": 0.55,
+        "median": 0.26,
+        "suggested": 0.25,
+        "quantity": 27,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAC-10 | Oceanic (Factory New)",
+        "price": {
+          "min": 2.47,
+          "max": 58.35,
+          "mean": 9.98,
+          "median": 5.82,
+          "suggested": 2.26,
+          "quantity": 49,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAC-10 | Oceanic (Minimal Wear)",
+        "price": {
+          "min": 0.3,
+          "max": 17.5,
+          "mean": 1.03,
+          "median": 0.42,
+          "suggested": 0.4,
+          "quantity": 94,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAC-10 | Oceanic (Field-Tested)",
+        "price": {
+          "min": 0.29,
+          "max": 12.84,
+          "mean": 0.84,
+          "median": 0.42,
+          "suggested": 0.48,
+          "quantity": 269,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAC-10 | Oceanic (Well-Worn)",
+        "price": {
+          "min": 0.25,
+          "max": 1.48,
+          "mean": 0.39,
+          "median": 0.29,
+          "suggested": 0.31,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MAC-10 | Oceanic (Battle-Scarred)",
+        "price": {
+          "min": 0.18,
+          "max": 3.91,
+          "mean": 0.55,
+          "median": 0.26,
+          "suggested": 0.25,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MAC-10 | Oceanic (Factory New)",
+        "price": {
+          "min": 1.07,
+          "max": 87.4,
+          "mean": 6.17,
+          "median": 2.63,
+          "suggested": 1.23,
+          "quantity": 42,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MAC-10 | Oceanic (Minimal Wear)",
+        "price": {
+          "min": 0.42,
+          "max": 7.24,
+          "mean": 1.53,
+          "median": 0.75,
+          "suggested": 0.51,
+          "quantity": 57,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MAC-10 | Oceanic (Field-Tested)",
+        "price": {
+          "min": 0.21,
+          "max": 3.85,
+          "mean": 0.64,
+          "median": 0.28,
+          "suggested": 0.29,
+          "quantity": 125,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MAC-10 | Oceanic (Well-Worn)",
+        "price": {
+          "min": 0.22,
+          "max": 1.7,
+          "mean": 0.43,
+          "median": 0.36,
+          "suggested": 0.31,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MAC-10 | Oceanic (Battle-Scarred)",
+        "price": {
+          "min": 0.2,
+          "max": 0.39,
+          "mean": 0.23,
+          "median": 0.23,
+          "suggested": 0.27,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAC-10 | Oceanic (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAC-10 | Oceanic (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAC-10 | Oceanic (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAC-10 | Oceanic (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAC-10 | Oceanic (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.481Z"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "skin-a73d69feecaf",
+  "name": "P250 | Red Rock",
+  "paint_index": "668",
+  "weapon": {
+    "id": "weapon_p250",
+    "weapon_id": 36,
+    "name": "P250",
+    "slug": "p250"
+  },
+  "pattern": {
+    "id": "cu_p250_axiom",
+    "name": "Red Rock"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A low-recoil firearm with a high rate of fire, the P250 is a relatively inexpensive choice against armored opponents. A custom DDPAT camouflage with yellows and oranges has been applied.\\n\\n<i>Just over the horizon</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 70,
+      "max": 164.54,
+      "mean": 109.97,
+      "median": 95.39,
+      "suggested": 60.58,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 36.7,
+      "max": 44.34,
+      "mean": 39.78,
+      "median": 38.31,
+      "suggested": 40.73,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 19.25,
+      "max": 48.88,
+      "mean": 30.77,
+      "median": 31.5,
+      "suggested": 28.05,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 19.93,
+      "max": 35.36,
+      "mean": 25.79,
+      "median": 25.57,
+      "suggested": 22.21,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 20.77,
+      "max": 22.29,
+      "mean": 21.53,
+      "median": 21.53,
+      "suggested": 17.62,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P250 | Red Rock (Factory New)",
+      "price": {
+        "min": 70,
+        "max": 164.54,
+        "mean": 109.97,
+        "median": 95.39,
+        "suggested": 60.58,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P250 | Red Rock (Minimal Wear)",
+      "price": {
+        "min": 36.7,
+        "max": 44.34,
+        "mean": 39.78,
+        "median": 38.31,
+        "suggested": 40.73,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P250 | Red Rock (Field-Tested)",
+      "price": {
+        "min": 19.25,
+        "max": 48.88,
+        "mean": 30.77,
+        "median": 31.5,
+        "suggested": 28.05,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P250 | Red Rock (Well-Worn)",
+      "price": {
+        "min": 19.93,
+        "max": 35.36,
+        "mean": 25.79,
+        "median": 25.57,
+        "suggested": 22.21,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P250 | Red Rock (Battle-Scarred)",
+      "price": {
+        "min": 20.77,
+        "max": 22.29,
+        "mean": 21.53,
+        "median": 21.53,
+        "suggested": 17.62,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P250 | Red Rock (Factory New)",
+        "price": {
+          "min": 70,
+          "max": 164.54,
+          "mean": 109.97,
+          "median": 95.39,
+          "suggested": 60.58,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P250 | Red Rock (Minimal Wear)",
+        "price": {
+          "min": 36.7,
+          "max": 44.34,
+          "mean": 39.78,
+          "median": 38.31,
+          "suggested": 40.73,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P250 | Red Rock (Field-Tested)",
+        "price": {
+          "min": 19.25,
+          "max": 48.88,
+          "mean": 30.77,
+          "median": 31.5,
+          "suggested": 28.05,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P250 | Red Rock (Well-Worn)",
+        "price": {
+          "min": 19.93,
+          "max": 35.36,
+          "mean": 25.79,
+          "median": 25.57,
+          "suggested": 22.21,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P250 | Red Rock (Battle-Scarred)",
+        "price": {
+          "min": 20.77,
+          "max": 22.29,
+          "mean": 21.53,
+          "median": 21.53,
+          "suggested": 17.62,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P250 | Red Rock (Factory New)",
+        "price": {
+          "min": 31.86,
+          "max": 56.01,
+          "mean": 42.5,
+          "median": 41.08,
+          "suggested": 45.59,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P250 | Red Rock (Minimal Wear)",
+        "price": {
+          "min": 19.83,
+          "max": 20.23,
+          "mean": 20.04,
+          "median": 20.04,
+          "suggested": 24.08,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P250 | Red Rock (Field-Tested)",
+        "price": {
+          "min": 26.84,
+          "max": 26.84,
+          "mean": 26.84,
+          "median": 26.84,
+          "suggested": 19.51,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ P250 | Red Rock (Well-Worn)",
+        "price": {
+          "min": 12.85,
+          "max": 12.85,
+          "mean": 12.85,
+          "median": 12.85,
+          "suggested": 15.67,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ P250 | Red Rock (Battle-Scarred)",
+        "price": {
+          "min": 14.21,
+          "max": 14.21,
+          "mean": 14.21,
+          "median": 14.21,
+          "suggested": 15.13,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P250 | Red Rock (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P250 | Red Rock (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P250 | Red Rock (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P250 | Red Rock (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P250 | Red Rock (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:45.104Z"
+}

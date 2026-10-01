@@ -1,0 +1,310 @@
+{
+  "id": "skin-74e670c4b279",
+  "name": "AK-47 | Neon Rider",
+  "paint_index": "707",
+  "weapon": {
+    "id": "weapon_ak47",
+    "weapon_id": 7,
+    "name": "AK-47",
+    "slug": "ak47"
+  },
+  "pattern": {
+    "id": "cu_ak_neon_rider",
+    "name": "Neon Rider"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.8,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. A deadly biker can be seen in the foreground of various neon, blended patterns.\\n\\n<i>Two parts Trapper Keeper, three parts synthesizer</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 203.62,
+      "max": 823.52,
+      "mean": 321.77,
+      "median": 278.9,
+      "suggested": 255.63,
+      "quantity": 31,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 76.66,
+      "max": 182,
+      "mean": 95.75,
+      "median": 89.33,
+      "suggested": 99.64,
+      "quantity": 57,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 45.51,
+      "max": 2620.94,
+      "mean": 81.99,
+      "median": 54.94,
+      "suggested": 60.92,
+      "quantity": 150,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 50.97,
+      "max": 116.69,
+      "mean": 66.19,
+      "median": 59.83,
+      "suggested": 65.68,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 45.21,
+      "max": 55.1,
+      "mean": 49.3,
+      "median": 48.56,
+      "suggested": 57.44,
+      "quantity": 13,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AK-47 | Neon Rider (Factory New)",
+      "price": {
+        "min": 203.62,
+        "max": 823.52,
+        "mean": 321.77,
+        "median": 278.9,
+        "suggested": 255.63,
+        "quantity": 31,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AK-47 | Neon Rider (Minimal Wear)",
+      "price": {
+        "min": 76.66,
+        "max": 182,
+        "mean": 95.75,
+        "median": 89.33,
+        "suggested": 99.64,
+        "quantity": 57,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AK-47 | Neon Rider (Field-Tested)",
+      "price": {
+        "min": 45.51,
+        "max": 2620.94,
+        "mean": 81.99,
+        "median": 54.94,
+        "suggested": 60.92,
+        "quantity": 150,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AK-47 | Neon Rider (Well-Worn)",
+      "price": {
+        "min": 50.97,
+        "max": 116.69,
+        "mean": 66.19,
+        "median": 59.83,
+        "suggested": 65.68,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AK-47 | Neon Rider (Battle-Scarred)",
+      "price": {
+        "min": 45.21,
+        "max": 55.1,
+        "mean": 49.3,
+        "median": 48.56,
+        "suggested": 57.44,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AK-47 | Neon Rider (Factory New)",
+        "price": {
+          "min": 203.62,
+          "max": 823.52,
+          "mean": 321.77,
+          "median": 278.9,
+          "suggested": 255.63,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AK-47 | Neon Rider (Minimal Wear)",
+        "price": {
+          "min": 76.66,
+          "max": 182,
+          "mean": 95.75,
+          "median": 89.33,
+          "suggested": 99.64,
+          "quantity": 57,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AK-47 | Neon Rider (Field-Tested)",
+        "price": {
+          "min": 45.51,
+          "max": 2620.94,
+          "mean": 81.99,
+          "median": 54.94,
+          "suggested": 60.92,
+          "quantity": 150,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AK-47 | Neon Rider (Well-Worn)",
+        "price": {
+          "min": 50.97,
+          "max": 116.69,
+          "mean": 66.19,
+          "median": 59.83,
+          "suggested": 65.68,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AK-47 | Neon Rider (Battle-Scarred)",
+        "price": {
+          "min": 45.21,
+          "max": 55.1,
+          "mean": 49.3,
+          "median": 48.56,
+          "suggested": 57.44,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AK-47 | Neon Rider (Factory New)",
+        "price": {
+          "min": 344.37,
+          "max": 641.82,
+          "mean": 425.35,
+          "median": 404.93,
+          "suggested": 523.59,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AK-47 | Neon Rider (Minimal Wear)",
+        "price": {
+          "min": 183.2,
+          "max": 291.72,
+          "mean": 220.32,
+          "median": 217.02,
+          "suggested": 239.93,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AK-47 | Neon Rider (Field-Tested)",
+        "price": {
+          "min": 84.18,
+          "max": 3063.62,
+          "mean": 227.73,
+          "median": 98.33,
+          "suggested": 112.04,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AK-47 | Neon Rider (Well-Worn)",
+        "price": {
+          "min": 84.74,
+          "max": 126.85,
+          "mean": 103.23,
+          "median": 98.09,
+          "suggested": 114.73,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ AK-47 | Neon Rider (Battle-Scarred)",
+        "price": {
+          "min": 81.11,
+          "max": 204.83,
+          "mean": 120.16,
+          "median": 81.98,
+          "suggested": 97.84,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AK-47 | Neon Rider (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AK-47 | Neon Rider (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AK-47 | Neon Rider (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AK-47 | Neon Rider (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AK-47 | Neon Rider (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:20:20.656Z"
+}

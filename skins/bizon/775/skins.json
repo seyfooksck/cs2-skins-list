@@ -1,0 +1,289 @@
+{
+  "id": "skin-64f9b04b2558",
+  "name": "PP-Bizon | Facility Sketch",
+  "paint_index": "775",
+  "weapon": {
+    "id": "weapon_bizon",
+    "weapon_id": 26,
+    "name": "PP-Bizon",
+    "slug": "bizon"
+  },
+  "pattern": {
+    "id": "hy_blueprint_white",
+    "name": "Facility Sketch"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly. A grayscale hydrographic pattern resembling a nuclear power plant has been applied.\\n\\n<i>\\\"Your point of entry is the ventilation system\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.07,
+      "max": 7.99,
+      "mean": 1.09,
+      "median": 0.14,
+      "suggested": 0.09,
+      "quantity": 824,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.04,
+      "max": 6.17,
+      "mean": 0.15,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 1190,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.02,
+      "max": 6.11,
+      "mean": 0.05,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 5892,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.02,
+      "max": 3.44,
+      "mean": 0.05,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 458,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.02,
+      "max": 4.07,
+      "mean": 0.08,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 273,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "PP-Bizon | Facility Sketch (Factory New)",
+      "price": {
+        "min": 0.07,
+        "max": 7.99,
+        "mean": 1.09,
+        "median": 0.14,
+        "suggested": 0.09,
+        "quantity": 824,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "PP-Bizon | Facility Sketch (Minimal Wear)",
+      "price": {
+        "min": 0.04,
+        "max": 6.17,
+        "mean": 0.15,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 1190,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "PP-Bizon | Facility Sketch (Field-Tested)",
+      "price": {
+        "min": 0.02,
+        "max": 6.11,
+        "mean": 0.05,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 5892,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "PP-Bizon | Facility Sketch (Well-Worn)",
+      "price": {
+        "min": 0.02,
+        "max": 3.44,
+        "mean": 0.05,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 458,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "PP-Bizon | Facility Sketch (Battle-Scarred)",
+      "price": {
+        "min": 0.02,
+        "max": 4.07,
+        "mean": 0.08,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 273,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "PP-Bizon | Facility Sketch (Factory New)",
+        "price": {
+          "min": 0.07,
+          "max": 7.99,
+          "mean": 1.09,
+          "median": 0.14,
+          "suggested": 0.09,
+          "quantity": 824,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "PP-Bizon | Facility Sketch (Minimal Wear)",
+        "price": {
+          "min": 0.04,
+          "max": 6.17,
+          "mean": 0.15,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 1190,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "PP-Bizon | Facility Sketch (Field-Tested)",
+        "price": {
+          "min": 0.02,
+          "max": 6.11,
+          "mean": 0.05,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 5892,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "PP-Bizon | Facility Sketch (Well-Worn)",
+        "price": {
+          "min": 0.02,
+          "max": 3.44,
+          "mean": 0.05,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 458,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "PP-Bizon | Facility Sketch (Battle-Scarred)",
+        "price": {
+          "min": 0.02,
+          "max": 4.07,
+          "mean": 0.08,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 273,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir PP-Bizon | Facility Sketch (Factory New)",
+        "price": {
+          "min": 0.53,
+          "max": 291.73,
+          "mean": 8.97,
+          "median": 2.42,
+          "suggested": 0.67,
+          "quantity": 111,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir PP-Bizon | Facility Sketch (Minimal Wear)",
+        "price": {
+          "min": 0.3,
+          "max": 501.64,
+          "mean": 6.35,
+          "median": 1.04,
+          "suggested": 0.25,
+          "quantity": 111,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir PP-Bizon | Facility Sketch (Field-Tested)",
+        "price": {
+          "min": 0.06,
+          "max": 81.66,
+          "mean": 3.82,
+          "median": 0.7,
+          "suggested": 0.07,
+          "quantity": 59,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir PP-Bizon | Facility Sketch (Well-Worn)",
+        "price": {
+          "min": 0.2,
+          "max": 7.9,
+          "mean": 1.41,
+          "median": 0.42,
+          "suggested": 0.13,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir PP-Bizon | Facility Sketch (Battle-Scarred)",
+        "price": {
+          "min": 0.55,
+          "max": 3.38,
+          "mean": 1.17,
+          "median": 0.89,
+          "suggested": 0.12,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:27.155Z"
+}

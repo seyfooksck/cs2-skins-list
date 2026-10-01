@@ -1,0 +1,249 @@
+{
+  "id": "skin-049129e06871",
+  "name": "★ M9 Bayonet | Ultraviolet",
+  "paint_index": "98",
+  "weapon": {
+    "id": "weapon_knife_m9_bayonet",
+    "weapon_id": 508,
+    "name": "M9 Bayonet",
+    "slug": "knife_m9_bayonet"
+  },
+  "pattern": {
+    "id": "so_purple",
+    "name": "Ultraviolet"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This is the M-9 bayonet.  Originally intended to be mounted on a rifle, it is also well suited to close-quarters combat. It has individual parts spray-painted solid colors in a black and purple color scheme.\\n\\n<i>Elegant design paired with brutal intent</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 484.28,
+      "max": 1333.81,
+      "mean": 649.96,
+      "median": 498.99,
+      "suggested": 576.24,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 380.25,
+      "max": 1750.41,
+      "mean": 861.41,
+      "median": 453.57,
+      "suggested": 442.94,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 379.85,
+      "max": 384.39,
+      "mean": 382.13,
+      "median": 382.13,
+      "suggested": 427.71,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 370.64,
+      "max": 535.86,
+      "mean": 436.21,
+      "median": 402.15,
+      "suggested": 470.36,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ M9 Bayonet | Ultraviolet (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ M9 Bayonet | Ultraviolet (Minimal Wear)",
+      "price": {
+        "min": 484.28,
+        "max": 1333.81,
+        "mean": 649.96,
+        "median": 498.99,
+        "suggested": 576.24,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ M9 Bayonet | Ultraviolet (Field-Tested)",
+      "price": {
+        "min": 380.25,
+        "max": 1750.41,
+        "mean": 861.41,
+        "median": 453.57,
+        "suggested": 442.94,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ M9 Bayonet | Ultraviolet (Well-Worn)",
+      "price": {
+        "min": 379.85,
+        "max": 384.39,
+        "mean": 382.13,
+        "median": 382.13,
+        "suggested": 427.71,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ M9 Bayonet | Ultraviolet (Battle-Scarred)",
+      "price": {
+        "min": 370.64,
+        "max": 535.86,
+        "mean": 436.21,
+        "median": 402.15,
+        "suggested": 470.36,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ M9 Bayonet | Ultraviolet (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ M9 Bayonet | Ultraviolet (Minimal Wear)",
+        "price": {
+          "min": 484.28,
+          "max": 1333.81,
+          "mean": 649.96,
+          "median": 498.99,
+          "suggested": 576.24,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ M9 Bayonet | Ultraviolet (Field-Tested)",
+        "price": {
+          "min": 380.25,
+          "max": 1750.41,
+          "mean": 861.41,
+          "median": 453.57,
+          "suggested": 442.94,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ M9 Bayonet | Ultraviolet (Well-Worn)",
+        "price": {
+          "min": 379.85,
+          "max": 384.39,
+          "mean": 382.13,
+          "median": 382.13,
+          "suggested": 427.71,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ M9 Bayonet | Ultraviolet (Battle-Scarred)",
+        "price": {
+          "min": 370.64,
+          "max": 535.86,
+          "mean": 436.21,
+          "median": 402.15,
+          "suggested": 470.36,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Ultraviolet (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Ultraviolet (Minimal Wear)",
+        "price": {
+          "min": 524.49,
+          "max": 826.51,
+          "mean": 625.37,
+          "median": 525.11,
+          "suggested": 589.91,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Ultraviolet (Field-Tested)",
+        "price": {
+          "min": 449.27,
+          "max": 449.27,
+          "mean": 449.27,
+          "median": 449.27,
+          "suggested": 440.81,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Ultraviolet (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Ultraviolet (Battle-Scarred)",
+        "price": {
+          "min": 875.2,
+          "max": 875.2,
+          "mean": 875.2,
+          "median": 875.2,
+          "suggested": 407.7,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:36.759Z"
+}

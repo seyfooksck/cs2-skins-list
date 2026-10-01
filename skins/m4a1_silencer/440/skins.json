@@ -1,0 +1,129 @@
+{
+  "id": "skin-68c8a5bf2c2a",
+  "name": "M4A1-S | Icarus Fell",
+  "paint_index": "440",
+  "weapon": {
+    "id": "weapon_m4a1_silencer",
+    "weapon_id": 60,
+    "name": "M4A1-S",
+    "slug": "m4a1_silencer"
+  },
+  "pattern": {
+    "id": "hy_icarus",
+    "name": "Icarus Fell"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. It has been painted with a hydrographic of feathers and melted wax around a sun motif.\\n\\n<i>Turner's betrayal is my failure... I have to make this right - Sebastien Hennequet, Sniper</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 508.4,
+      "max": 15033.13,
+      "mean": 1165.37,
+      "median": 777.13,
+      "suggested": 601.04,
+      "quantity": 49,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 532.38,
+      "max": 532.38,
+      "mean": 532.38,
+      "median": 532.38,
+      "suggested": 645.21,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A1-S | Icarus Fell (Factory New)",
+      "price": {
+        "min": 508.4,
+        "max": 15033.13,
+        "mean": 1165.37,
+        "median": 777.13,
+        "suggested": 601.04,
+        "quantity": 49,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A1-S | Icarus Fell (Minimal Wear)",
+      "price": {
+        "min": 532.38,
+        "max": 532.38,
+        "mean": 532.38,
+        "median": 532.38,
+        "suggested": 645.21,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A1-S | Icarus Fell (Factory New)",
+        "price": {
+          "min": 508.4,
+          "max": 15033.13,
+          "mean": 1165.37,
+          "median": 777.13,
+          "suggested": 601.04,
+          "quantity": 49,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A1-S | Icarus Fell (Minimal Wear)",
+        "price": {
+          "min": 532.38,
+          "max": 532.38,
+          "mean": 532.38,
+          "median": 532.38,
+          "suggested": 645.21,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A1-S | Icarus Fell (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A1-S | Icarus Fell (Minimal Wear)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.096Z"
+}

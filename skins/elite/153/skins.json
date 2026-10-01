@@ -1,0 +1,177 @@
+{
+  "id": "skin-e019fef33708",
+  "name": "Dual Berettas | Demolition",
+  "paint_index": "153",
+  "weapon": {
+    "id": "weapon_elite",
+    "weapon_id": 2,
+    "name": "Dual Berettas",
+    "slug": "elite"
+  },
+  "pattern": {
+    "id": "so_tangerine",
+    "name": "Demolition"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0.26,
+  "max_float": 0.6,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. It has individual parts spray-painted black and tangerine orange.\\n\\n<i>Rona is as good as she thinks she is... she's just not old enough to realize she shouldn't point it out to everyone - Felix Riley, Commanding Officer</i>",
+  "images": {
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "ft": {
+      "min": 21.6,
+      "max": 55.86,
+      "mean": 37.37,
+      "median": 40.89,
+      "suggested": 25.17,
+      "quantity": 31,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 10.15,
+      "max": 150.55,
+      "mean": 33.57,
+      "median": 10.19,
+      "suggested": 11.88,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 9.84,
+      "max": 11.77,
+      "mean": 10.48,
+      "median": 9.84,
+      "suggested": 11.47,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Dual Berettas | Demolition (Field-Tested)",
+      "price": {
+        "min": 21.6,
+        "max": 55.86,
+        "mean": 37.37,
+        "median": 40.89,
+        "suggested": 25.17,
+        "quantity": 31,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Dual Berettas | Demolition (Well-Worn)",
+      "price": {
+        "min": 10.15,
+        "max": 150.55,
+        "mean": 33.57,
+        "median": 10.19,
+        "suggested": 11.88,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Dual Berettas | Demolition (Battle-Scarred)",
+      "price": {
+        "min": 9.84,
+        "max": 11.77,
+        "mean": 10.48,
+        "median": 9.84,
+        "suggested": 11.47,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "ft": {
+        "market_hash_name": "Dual Berettas | Demolition (Field-Tested)",
+        "price": {
+          "min": 21.6,
+          "max": 55.86,
+          "mean": 37.37,
+          "median": 40.89,
+          "suggested": 25.17,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Dual Berettas | Demolition (Well-Worn)",
+        "price": {
+          "min": 10.15,
+          "max": 150.55,
+          "mean": 33.57,
+          "median": 10.19,
+          "suggested": 11.88,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Dual Berettas | Demolition (Battle-Scarred)",
+        "price": {
+          "min": 9.84,
+          "max": 11.77,
+          "mean": 10.48,
+          "median": 9.84,
+          "suggested": 11.47,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "ft": {
+        "market_hash_name": "Souvenir Dual Berettas | Demolition (Field-Tested)",
+        "price": {
+          "min": 20.25,
+          "max": 20.25,
+          "mean": 20.25,
+          "median": 20.25,
+          "suggested": 23.6,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Dual Berettas | Demolition (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Dual Berettas | Demolition (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:29.083Z"
+}

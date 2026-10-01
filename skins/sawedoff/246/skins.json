@@ -1,0 +1,241 @@
+{
+  "id": "skin-c43661e243fc",
+  "name": "Sawed-Off | Amber Fade",
+  "paint_index": "246",
+  "weapon": {
+    "id": "weapon_sawedoff",
+    "weapon_id": 29,
+    "name": "Sawed-Off",
+    "slug": "sawedoff"
+  },
+  "pattern": {
+    "id": "aa_fade_metallic",
+    "name": "Amber Fade"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.4,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit. It has been painted by airbrushing transparent paints that fade together over a chrome base coat.\\n\\n<i>This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.03,
+      "max": 79.35,
+      "mean": 6.64,
+      "median": 3.01,
+      "suggested": 0.91,
+      "quantity": 170,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.26,
+      "max": 35.72,
+      "mean": 2.31,
+      "median": 0.99,
+      "suggested": 0.38,
+      "quantity": 145,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.18,
+      "max": 3.21,
+      "mean": 0.62,
+      "median": 0.44,
+      "suggested": 0.23,
+      "quantity": 81,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 3.94,
+      "max": 3.94,
+      "mean": 3.94,
+      "median": 3.94,
+      "suggested": 0.5,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Sawed-Off | Amber Fade (Factory New)",
+      "price": {
+        "min": 1.03,
+        "max": 79.35,
+        "mean": 6.64,
+        "median": 3.01,
+        "suggested": 0.91,
+        "quantity": 170,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Sawed-Off | Amber Fade (Minimal Wear)",
+      "price": {
+        "min": 0.26,
+        "max": 35.72,
+        "mean": 2.31,
+        "median": 0.99,
+        "suggested": 0.38,
+        "quantity": 145,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Sawed-Off | Amber Fade (Field-Tested)",
+      "price": {
+        "min": 0.18,
+        "max": 3.21,
+        "mean": 0.62,
+        "median": 0.44,
+        "suggested": 0.23,
+        "quantity": 81,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Sawed-Off | Amber Fade (Well-Worn)",
+      "price": {
+        "min": 3.94,
+        "max": 3.94,
+        "mean": 3.94,
+        "median": 3.94,
+        "suggested": 0.5,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Sawed-Off | Amber Fade (Factory New)",
+        "price": {
+          "min": 1.03,
+          "max": 79.35,
+          "mean": 6.64,
+          "median": 3.01,
+          "suggested": 0.91,
+          "quantity": 170,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Sawed-Off | Amber Fade (Minimal Wear)",
+        "price": {
+          "min": 0.26,
+          "max": 35.72,
+          "mean": 2.31,
+          "median": 0.99,
+          "suggested": 0.38,
+          "quantity": 145,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Sawed-Off | Amber Fade (Field-Tested)",
+        "price": {
+          "min": 0.18,
+          "max": 3.21,
+          "mean": 0.62,
+          "median": 0.44,
+          "suggested": 0.23,
+          "quantity": 81,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Sawed-Off | Amber Fade (Well-Worn)",
+        "price": {
+          "min": 3.94,
+          "max": 3.94,
+          "mean": 3.94,
+          "median": 3.94,
+          "suggested": 0.5,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Sawed-Off | Amber Fade (Factory New)",
+        "price": {
+          "min": 6.39,
+          "max": 137.69,
+          "mean": 61.84,
+          "median": 35.7,
+          "suggested": 4.55,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Sawed-Off | Amber Fade (Minimal Wear)",
+        "price": {
+          "min": 5.85,
+          "max": 30.31,
+          "mean": 16.05,
+          "median": 11.98,
+          "suggested": 3.53,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Sawed-Off | Amber Fade (Field-Tested)",
+        "price": {
+          "min": 4.11,
+          "max": 97.4,
+          "mean": 50.76,
+          "median": 50.76,
+          "suggested": 2.18,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Sawed-Off | Amber Fade (Well-Worn)",
+        "price": {
+          "min": 10.47,
+          "max": 10.47,
+          "mean": 10.47,
+          "median": 10.47,
+          "suggested": 12.13,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:46.883Z"
+}

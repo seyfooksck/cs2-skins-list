@@ -1,0 +1,225 @@
+{
+  "id": "skin-cde9a27f0dd5",
+  "name": "AK-47 | Hydroponic",
+  "paint_index": "456",
+  "weapon": {
+    "id": "weapon_ak47",
+    "weapon_id": 7,
+    "name": "AK-47",
+    "slug": "ak47"
+  },
+  "pattern": {
+    "id": "am_bamboo_jungle",
+    "name": "Hydroponic"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.8,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. It has been painted with a bamboo motif using metallic paints.\\n\\n<i>Notice how Gunsmith Yukako used the wood of the AK-47 to accentuate her verdant theme... make no mistake: Hydroponic is as beautiful and deadly as nature itself - Imogen, Arms Dealer In Training</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 4667.75,
+      "max": 9217.3,
+      "mean": 5708.42,
+      "median": 5251.22,
+      "suggested": 5320.33,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2366.5,
+      "max": 3248.51,
+      "mean": 2642.95,
+      "median": 2465.19,
+      "suggested": 2274.94,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1283.63,
+      "max": 1925.45,
+      "mean": 1563.57,
+      "median": 1515.85,
+      "suggested": 1338.96,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 1239.77,
+      "max": 1239.77,
+      "mean": 1239.77,
+      "median": 1239.77,
+      "suggested": 982.83,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AK-47 | Hydroponic (Factory New)",
+      "price": {
+        "min": 4667.75,
+        "max": 9217.3,
+        "mean": 5708.42,
+        "median": 5251.22,
+        "suggested": 5320.33,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AK-47 | Hydroponic (Minimal Wear)",
+      "price": {
+        "min": 2366.5,
+        "max": 3248.51,
+        "mean": 2642.95,
+        "median": 2465.19,
+        "suggested": 2274.94,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AK-47 | Hydroponic (Field-Tested)",
+      "price": {
+        "min": 1283.63,
+        "max": 1925.45,
+        "mean": 1563.57,
+        "median": 1515.85,
+        "suggested": 1338.96,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AK-47 | Hydroponic (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AK-47 | Hydroponic (Battle-Scarred)",
+      "price": {
+        "min": 1239.77,
+        "max": 1239.77,
+        "mean": 1239.77,
+        "median": 1239.77,
+        "suggested": 982.83,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AK-47 | Hydroponic (Factory New)",
+        "price": {
+          "min": 4667.75,
+          "max": 9217.3,
+          "mean": 5708.42,
+          "median": 5251.22,
+          "suggested": 5320.33,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AK-47 | Hydroponic (Minimal Wear)",
+        "price": {
+          "min": 2366.5,
+          "max": 3248.51,
+          "mean": 2642.95,
+          "median": 2465.19,
+          "suggested": 2274.94,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AK-47 | Hydroponic (Field-Tested)",
+        "price": {
+          "min": 1283.63,
+          "max": 1925.45,
+          "mean": 1563.57,
+          "median": 1515.85,
+          "suggested": 1338.96,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AK-47 | Hydroponic (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "AK-47 | Hydroponic (Battle-Scarred)",
+        "price": {
+          "min": 1239.77,
+          "max": 1239.77,
+          "mean": 1239.77,
+          "median": 1239.77,
+          "suggested": 982.83,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AK-47 | Hydroponic (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AK-47 | Hydroponic (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AK-47 | Hydroponic (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AK-47 | Hydroponic (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AK-47 | Hydroponic (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:20:20.375Z"
+}

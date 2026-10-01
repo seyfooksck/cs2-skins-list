@@ -1,0 +1,310 @@
+{
+  "id": "skin-ad97dc533b07",
+  "name": "P250 | Contaminant",
+  "paint_index": "982",
+  "weapon": {
+    "id": "weapon_p250",
+    "weapon_id": 36,
+    "name": "P250",
+    "slug": "p250"
+  },
+  "pattern": {
+    "id": "cu_p250_infect",
+    "name": "Contaminant"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A low-recoil firearm with a high rate of fire, the P250 is a relatively inexpensive choice against armored opponents. Its maroon topcoat has been eaten away, leaving a decaying weapon with limited remaining uses.\\n\\n<i>It's only as bad as it looks</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 10.43,
+      "max": 50.77,
+      "mean": 22.22,
+      "median": 13.66,
+      "suggested": 13.23,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.24,
+      "max": 7,
+      "mean": 2.53,
+      "median": 1.86,
+      "suggested": 1.55,
+      "quantity": 19,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.05,
+      "max": 12.15,
+      "mean": 2.23,
+      "median": 1.89,
+      "suggested": 1.33,
+      "quantity": 45,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.82,
+      "max": 1.69,
+      "mean": 1.39,
+      "median": 1.46,
+      "suggested": 1,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.72,
+      "max": 1.65,
+      "mean": 0.99,
+      "median": 0.91,
+      "suggested": 0.85,
+      "quantity": 21,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P250 | Contaminant (Factory New)",
+      "price": {
+        "min": 10.43,
+        "max": 50.77,
+        "mean": 22.22,
+        "median": 13.66,
+        "suggested": 13.23,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P250 | Contaminant (Minimal Wear)",
+      "price": {
+        "min": 1.24,
+        "max": 7,
+        "mean": 2.53,
+        "median": 1.86,
+        "suggested": 1.55,
+        "quantity": 19,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P250 | Contaminant (Field-Tested)",
+      "price": {
+        "min": 1.05,
+        "max": 12.15,
+        "mean": 2.23,
+        "median": 1.89,
+        "suggested": 1.33,
+        "quantity": 45,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P250 | Contaminant (Well-Worn)",
+      "price": {
+        "min": 0.82,
+        "max": 1.69,
+        "mean": 1.39,
+        "median": 1.46,
+        "suggested": 1,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P250 | Contaminant (Battle-Scarred)",
+      "price": {
+        "min": 0.72,
+        "max": 1.65,
+        "mean": 0.99,
+        "median": 0.91,
+        "suggested": 0.85,
+        "quantity": 21,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P250 | Contaminant (Factory New)",
+        "price": {
+          "min": 10.43,
+          "max": 50.77,
+          "mean": 22.22,
+          "median": 13.66,
+          "suggested": 13.23,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P250 | Contaminant (Minimal Wear)",
+        "price": {
+          "min": 1.24,
+          "max": 7,
+          "mean": 2.53,
+          "median": 1.86,
+          "suggested": 1.55,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P250 | Contaminant (Field-Tested)",
+        "price": {
+          "min": 1.05,
+          "max": 12.15,
+          "mean": 2.23,
+          "median": 1.89,
+          "suggested": 1.33,
+          "quantity": 45,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P250 | Contaminant (Well-Worn)",
+        "price": {
+          "min": 0.82,
+          "max": 1.69,
+          "mean": 1.39,
+          "median": 1.46,
+          "suggested": 1,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P250 | Contaminant (Battle-Scarred)",
+        "price": {
+          "min": 0.72,
+          "max": 1.65,
+          "mean": 0.99,
+          "median": 0.91,
+          "suggested": 0.85,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P250 | Contaminant (Factory New)",
+        "price": {
+          "min": 3.72,
+          "max": 58.52,
+          "mean": 12.05,
+          "median": 5.24,
+          "suggested": 3.78,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P250 | Contaminant (Minimal Wear)",
+        "price": {
+          "min": 1.56,
+          "max": 5.03,
+          "mean": 2.58,
+          "median": 3.12,
+          "suggested": 1.98,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P250 | Contaminant (Field-Tested)",
+        "price": {
+          "min": 1.42,
+          "max": 39.09,
+          "mean": 7.42,
+          "median": 2.46,
+          "suggested": 1.28,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ P250 | Contaminant (Well-Worn)",
+        "price": {
+          "min": 1.44,
+          "max": 1.45,
+          "mean": 1.45,
+          "median": 1.45,
+          "suggested": 1.35,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ P250 | Contaminant (Battle-Scarred)",
+        "price": {
+          "min": 0.71,
+          "max": 1.25,
+          "mean": 0.98,
+          "median": 0.97,
+          "suggested": 0.85,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P250 | Contaminant (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P250 | Contaminant (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P250 | Contaminant (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P250 | Contaminant (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P250 | Contaminant (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:45.143Z"
+}

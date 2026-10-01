@@ -1,0 +1,310 @@
+{
+  "id": "skin-4d0cb66e0e31",
+  "name": "FAMAS | Neural Net",
+  "paint_index": "477",
+  "weapon": {
+    "id": "weapon_famas",
+    "weapon_id": 10,
+    "name": "FAMAS",
+    "slug": "famas"
+  },
+  "pattern": {
+    "id": "am_famas_dots",
+    "name": "Neural Net"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. It has been painted with a translucent hydrographic over a metallic base coat.\\n\\n<i>I know.  But it was the right thing to do... - A Family Affair Part 2</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 16.66,
+      "max": 1166.94,
+      "mean": 66.74,
+      "median": 24.44,
+      "suggested": 22.74,
+      "quantity": 32,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.16,
+      "max": 38.8,
+      "mean": 6.27,
+      "median": 2.46,
+      "suggested": 2.54,
+      "quantity": 35,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.04,
+      "max": 2.92,
+      "mean": 1.38,
+      "median": 1.3,
+      "suggested": 1.36,
+      "quantity": 63,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.51,
+      "max": 3.01,
+      "mean": 1.81,
+      "median": 1.7,
+      "suggested": 1.63,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.96,
+      "max": 1.58,
+      "mean": 1.33,
+      "median": 1.25,
+      "suggested": 1.43,
+      "quantity": 14,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "FAMAS | Neural Net (Factory New)",
+      "price": {
+        "min": 16.66,
+        "max": 1166.94,
+        "mean": 66.74,
+        "median": 24.44,
+        "suggested": 22.74,
+        "quantity": 32,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "FAMAS | Neural Net (Minimal Wear)",
+      "price": {
+        "min": 2.16,
+        "max": 38.8,
+        "mean": 6.27,
+        "median": 2.46,
+        "suggested": 2.54,
+        "quantity": 35,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "FAMAS | Neural Net (Field-Tested)",
+      "price": {
+        "min": 1.04,
+        "max": 2.92,
+        "mean": 1.38,
+        "median": 1.3,
+        "suggested": 1.36,
+        "quantity": 63,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "FAMAS | Neural Net (Well-Worn)",
+      "price": {
+        "min": 1.51,
+        "max": 3.01,
+        "mean": 1.81,
+        "median": 1.7,
+        "suggested": 1.63,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "FAMAS | Neural Net (Battle-Scarred)",
+      "price": {
+        "min": 0.96,
+        "max": 1.58,
+        "mean": 1.33,
+        "median": 1.25,
+        "suggested": 1.43,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "FAMAS | Neural Net (Factory New)",
+        "price": {
+          "min": 16.66,
+          "max": 1166.94,
+          "mean": 66.74,
+          "median": 24.44,
+          "suggested": 22.74,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "FAMAS | Neural Net (Minimal Wear)",
+        "price": {
+          "min": 2.16,
+          "max": 38.8,
+          "mean": 6.27,
+          "median": 2.46,
+          "suggested": 2.54,
+          "quantity": 35,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "FAMAS | Neural Net (Field-Tested)",
+        "price": {
+          "min": 1.04,
+          "max": 2.92,
+          "mean": 1.38,
+          "median": 1.3,
+          "suggested": 1.36,
+          "quantity": 63,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "FAMAS | Neural Net (Well-Worn)",
+        "price": {
+          "min": 1.51,
+          "max": 3.01,
+          "mean": 1.81,
+          "median": 1.7,
+          "suggested": 1.63,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "FAMAS | Neural Net (Battle-Scarred)",
+        "price": {
+          "min": 0.96,
+          "max": 1.58,
+          "mean": 1.33,
+          "median": 1.25,
+          "suggested": 1.43,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ FAMAS | Neural Net (Factory New)",
+        "price": {
+          "min": 8.26,
+          "max": 20.42,
+          "mean": 15.42,
+          "median": 15.65,
+          "suggested": 9.39,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ FAMAS | Neural Net (Minimal Wear)",
+        "price": {
+          "min": 4.06,
+          "max": 6.76,
+          "mean": 5.34,
+          "median": 4.9,
+          "suggested": 4.74,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ FAMAS | Neural Net (Field-Tested)",
+        "price": {
+          "min": 2.05,
+          "max": 134.2,
+          "mean": 7.74,
+          "median": 2.42,
+          "suggested": 2.61,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ FAMAS | Neural Net (Well-Worn)",
+        "price": {
+          "min": 3.34,
+          "max": 6.3,
+          "mean": 4.07,
+          "median": 3.43,
+          "suggested": 3.04,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ FAMAS | Neural Net (Battle-Scarred)",
+        "price": {
+          "min": 1.98,
+          "max": 11.59,
+          "mean": 3.03,
+          "median": 2.63,
+          "suggested": 2.32,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir FAMAS | Neural Net (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir FAMAS | Neural Net (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir FAMAS | Neural Net (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir FAMAS | Neural Net (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir FAMAS | Neural Net (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:29.302Z"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "skin-955f32e49387",
+  "name": "Glock-18 | Clear Polymer",
+  "paint_index": "1039",
+  "weapon": {
+    "id": "weapon_glock",
+    "weapon_id": 4,
+    "name": "Glock-18",
+    "slug": "glock"
+  },
+  "pattern": {
+    "id": "gs_glock_polymer",
+    "name": "Clear Polymer"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. It has been painted with a tan slide and blue trigger. The frame is made of a clear polymer.\\n\\n<i>What you see is what you get</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 7.64,
+      "max": 19.02,
+      "mean": 10.82,
+      "median": 8.86,
+      "suggested": 9.01,
+      "quantity": 29,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.6,
+      "max": 110.86,
+      "mean": 2.6,
+      "median": 0.76,
+      "suggested": 0.86,
+      "quantity": 92,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.36,
+      "max": 27.55,
+      "mean": 0.76,
+      "median": 0.41,
+      "suggested": 0.6,
+      "quantity": 263,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.25,
+      "max": 7,
+      "mean": 0.41,
+      "median": 0.28,
+      "suggested": 0.4,
+      "quantity": 218,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.22,
+      "max": 11.66,
+      "mean": 0.63,
+      "median": 0.28,
+      "suggested": 0.37,
+      "quantity": 151,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Glock-18 | Clear Polymer (Factory New)",
+      "price": {
+        "min": 7.64,
+        "max": 19.02,
+        "mean": 10.82,
+        "median": 8.86,
+        "suggested": 9.01,
+        "quantity": 29,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Glock-18 | Clear Polymer (Minimal Wear)",
+      "price": {
+        "min": 0.6,
+        "max": 110.86,
+        "mean": 2.6,
+        "median": 0.76,
+        "suggested": 0.86,
+        "quantity": 92,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Glock-18 | Clear Polymer (Field-Tested)",
+      "price": {
+        "min": 0.36,
+        "max": 27.55,
+        "mean": 0.76,
+        "median": 0.41,
+        "suggested": 0.6,
+        "quantity": 263,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Glock-18 | Clear Polymer (Well-Worn)",
+      "price": {
+        "min": 0.25,
+        "max": 7,
+        "mean": 0.41,
+        "median": 0.28,
+        "suggested": 0.4,
+        "quantity": 218,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Glock-18 | Clear Polymer (Battle-Scarred)",
+      "price": {
+        "min": 0.22,
+        "max": 11.66,
+        "mean": 0.63,
+        "median": 0.28,
+        "suggested": 0.37,
+        "quantity": 151,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Glock-18 | Clear Polymer (Factory New)",
+        "price": {
+          "min": 7.64,
+          "max": 19.02,
+          "mean": 10.82,
+          "median": 8.86,
+          "suggested": 9.01,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Glock-18 | Clear Polymer (Minimal Wear)",
+        "price": {
+          "min": 0.6,
+          "max": 110.86,
+          "mean": 2.6,
+          "median": 0.76,
+          "suggested": 0.86,
+          "quantity": 92,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Glock-18 | Clear Polymer (Field-Tested)",
+        "price": {
+          "min": 0.36,
+          "max": 27.55,
+          "mean": 0.76,
+          "median": 0.41,
+          "suggested": 0.6,
+          "quantity": 263,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Glock-18 | Clear Polymer (Well-Worn)",
+        "price": {
+          "min": 0.25,
+          "max": 7,
+          "mean": 0.41,
+          "median": 0.28,
+          "suggested": 0.4,
+          "quantity": 218,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Glock-18 | Clear Polymer (Battle-Scarred)",
+        "price": {
+          "min": 0.22,
+          "max": 11.66,
+          "mean": 0.63,
+          "median": 0.28,
+          "suggested": 0.37,
+          "quantity": 151,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Glock-18 | Clear Polymer (Factory New)",
+        "price": {
+          "min": 6.56,
+          "max": 63.42,
+          "mean": 16.08,
+          "median": 11.56,
+          "suggested": 7.67,
+          "quantity": 38,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Glock-18 | Clear Polymer (Minimal Wear)",
+        "price": {
+          "min": 1.63,
+          "max": 4.32,
+          "mean": 2.02,
+          "median": 1.86,
+          "suggested": 2.1,
+          "quantity": 55,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Glock-18 | Clear Polymer (Field-Tested)",
+        "price": {
+          "min": 0.77,
+          "max": 1.51,
+          "mean": 0.96,
+          "median": 0.91,
+          "suggested": 0.96,
+          "quantity": 100,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Glock-18 | Clear Polymer (Well-Worn)",
+        "price": {
+          "min": 0.48,
+          "max": 29.76,
+          "mean": 0.86,
+          "median": 0.58,
+          "suggested": 0.68,
+          "quantity": 118,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Glock-18 | Clear Polymer (Battle-Scarred)",
+        "price": {
+          "min": 0.48,
+          "max": 17.5,
+          "mean": 0.9,
+          "median": 0.55,
+          "suggested": 0.65,
+          "quantity": 74,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Glock-18 | Clear Polymer (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Glock-18 | Clear Polymer (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Glock-18 | Clear Polymer (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Glock-18 | Clear Polymer (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Glock-18 | Clear Polymer (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:32.067Z"
+}

@@ -1,0 +1,258 @@
+{
+  "id": "skin-d19d99db7c52",
+  "name": "Desert Eagle | Corinthian",
+  "paint_index": "509",
+  "weapon": {
+    "id": "weapon_deagle",
+    "weapon_id": 1,
+    "name": "Desert Eagle",
+    "slug": "deagle"
+  },
+  "pattern": {
+    "id": "aq_deagle_corinthian",
+    "name": "Corinthian"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.44,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. It has been laser-etched and given a custom leather grip.\\n\\n<i>Protect. Hope. Trust. Persevere.</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.51,
+      "max": 151.69,
+      "mean": 10.49,
+      "median": 4.55,
+      "suggested": 3.29,
+      "quantity": 97,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.75,
+      "max": 11.97,
+      "mean": 1.89,
+      "median": 1.06,
+      "suggested": 0.96,
+      "quantity": 188,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.49,
+      "max": 123.7,
+      "mean": 1.3,
+      "median": 0.61,
+      "suggested": 0.65,
+      "quantity": 319,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.6,
+      "max": 17.5,
+      "mean": 1.24,
+      "median": 0.76,
+      "suggested": 0.69,
+      "quantity": 48,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Desert Eagle | Corinthian (Factory New)",
+      "price": {
+        "min": 2.51,
+        "max": 151.69,
+        "mean": 10.49,
+        "median": 4.55,
+        "suggested": 3.29,
+        "quantity": 97,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Desert Eagle | Corinthian (Minimal Wear)",
+      "price": {
+        "min": 0.75,
+        "max": 11.97,
+        "mean": 1.89,
+        "median": 1.06,
+        "suggested": 0.96,
+        "quantity": 188,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Desert Eagle | Corinthian (Field-Tested)",
+      "price": {
+        "min": 0.49,
+        "max": 123.7,
+        "mean": 1.3,
+        "median": 0.61,
+        "suggested": 0.65,
+        "quantity": 319,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Desert Eagle | Corinthian (Well-Worn)",
+      "price": {
+        "min": 0.6,
+        "max": 17.5,
+        "mean": 1.24,
+        "median": 0.76,
+        "suggested": 0.69,
+        "quantity": 48,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Desert Eagle | Corinthian (Factory New)",
+        "price": {
+          "min": 2.51,
+          "max": 151.69,
+          "mean": 10.49,
+          "median": 4.55,
+          "suggested": 3.29,
+          "quantity": 97,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Desert Eagle | Corinthian (Minimal Wear)",
+        "price": {
+          "min": 0.75,
+          "max": 11.97,
+          "mean": 1.89,
+          "median": 1.06,
+          "suggested": 0.96,
+          "quantity": 188,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Desert Eagle | Corinthian (Field-Tested)",
+        "price": {
+          "min": 0.49,
+          "max": 123.7,
+          "mean": 1.3,
+          "median": 0.61,
+          "suggested": 0.65,
+          "quantity": 319,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Desert Eagle | Corinthian (Well-Worn)",
+        "price": {
+          "min": 0.6,
+          "max": 17.5,
+          "mean": 1.24,
+          "median": 0.76,
+          "suggested": 0.69,
+          "quantity": 48,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Corinthian (Factory New)",
+        "price": {
+          "min": 3.97,
+          "max": 46.68,
+          "mean": 10.97,
+          "median": 6.86,
+          "suggested": 4.52,
+          "quantity": 92,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Corinthian (Minimal Wear)",
+        "price": {
+          "min": 1.94,
+          "max": 52.4,
+          "mean": 5.97,
+          "median": 2.67,
+          "suggested": 2.69,
+          "quantity": 53,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Corinthian (Field-Tested)",
+        "price": {
+          "min": 1.47,
+          "max": 58.35,
+          "mean": 6.24,
+          "median": 3.35,
+          "suggested": 1.94,
+          "quantity": 76,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Corinthian (Well-Worn)",
+        "price": {
+          "min": 2.7,
+          "max": 34.89,
+          "mean": 7.83,
+          "median": 3.71,
+          "suggested": 2.7,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Desert Eagle | Corinthian (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Desert Eagle | Corinthian (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Desert Eagle | Corinthian (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Desert Eagle | Corinthian (Well-Worn)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:28.121Z"
+}

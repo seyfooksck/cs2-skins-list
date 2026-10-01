@@ -1,0 +1,249 @@
+{
+  "id": "skin-6e6550613810",
+  "name": "Glock-18 | AXIA",
+  "paint_index": "832",
+  "weapon": {
+    "id": "weapon_glock",
+    "weapon_id": 4,
+    "name": "Glock-18",
+    "slug": "glock"
+  },
+  "pattern": {
+    "id": "gsch_axia_glock",
+    "name": "AXIA"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. It has been custom painted with bright blue metallic flake paint and finished with AXIA branding.\\n\\n<i>\\\"AXIA SPORTS—we compete so you don't have to!\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 70.28,
+      "max": 1649.55,
+      "mean": 329.73,
+      "median": 210.76,
+      "suggested": 105.79,
+      "quantity": 141,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 29.75,
+      "max": 583.47,
+      "mean": 94.39,
+      "median": 72.34,
+      "suggested": 42.76,
+      "quantity": 163,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 24.87,
+      "max": 661.9,
+      "mean": 81.06,
+      "median": 63.01,
+      "suggested": 34.96,
+      "quantity": 242,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 28.93,
+      "max": 125.62,
+      "mean": 57.52,
+      "median": 50.81,
+      "suggested": 39.6,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 27.84,
+      "max": 107.53,
+      "mean": 53.4,
+      "median": 34.06,
+      "suggested": 37.28,
+      "quantity": 17,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Glock-18 | AXIA (Factory New)",
+      "price": {
+        "min": 70.28,
+        "max": 1649.55,
+        "mean": 329.73,
+        "median": 210.76,
+        "suggested": 105.79,
+        "quantity": 141,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Glock-18 | AXIA (Minimal Wear)",
+      "price": {
+        "min": 29.75,
+        "max": 583.47,
+        "mean": 94.39,
+        "median": 72.34,
+        "suggested": 42.76,
+        "quantity": 163,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Glock-18 | AXIA (Field-Tested)",
+      "price": {
+        "min": 24.87,
+        "max": 661.9,
+        "mean": 81.06,
+        "median": 63.01,
+        "suggested": 34.96,
+        "quantity": 242,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Glock-18 | AXIA (Well-Worn)",
+      "price": {
+        "min": 28.93,
+        "max": 125.62,
+        "mean": 57.52,
+        "median": 50.81,
+        "suggested": 39.6,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Glock-18 | AXIA (Battle-Scarred)",
+      "price": {
+        "min": 27.84,
+        "max": 107.53,
+        "mean": 53.4,
+        "median": 34.06,
+        "suggested": 37.28,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Glock-18 | AXIA (Factory New)",
+        "price": {
+          "min": 70.28,
+          "max": 1649.55,
+          "mean": 329.73,
+          "median": 210.76,
+          "suggested": 105.79,
+          "quantity": 141,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Glock-18 | AXIA (Minimal Wear)",
+        "price": {
+          "min": 29.75,
+          "max": 583.47,
+          "mean": 94.39,
+          "median": 72.34,
+          "suggested": 42.76,
+          "quantity": 163,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Glock-18 | AXIA (Field-Tested)",
+        "price": {
+          "min": 24.87,
+          "max": 661.9,
+          "mean": 81.06,
+          "median": 63.01,
+          "suggested": 34.96,
+          "quantity": 242,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Glock-18 | AXIA (Well-Worn)",
+        "price": {
+          "min": 28.93,
+          "max": 125.62,
+          "mean": 57.52,
+          "median": 50.81,
+          "suggested": 39.6,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Glock-18 | AXIA (Battle-Scarred)",
+        "price": {
+          "min": 27.84,
+          "max": 107.53,
+          "mean": 53.4,
+          "median": 34.06,
+          "suggested": 37.28,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Glock-18 | AXIA (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Glock-18 | AXIA (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Glock-18 | AXIA (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Glock-18 | AXIA (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Glock-18 | AXIA (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:32.091Z"
+}

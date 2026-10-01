@@ -1,0 +1,225 @@
+{
+  "id": "skin-1dd39fb89c94",
+  "name": "P90 | Run and Hide",
+  "paint_index": "1000",
+  "weapon": {
+    "id": "weapon_p90",
+    "weapon_id": 19,
+    "name": "P90",
+    "slug": "p90"
+  },
+  "pattern": {
+    "id": "cu_jaguar_p90",
+    "name": "Run and Hide"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been custom painted with a jaguar pattern and finished with pebbled leather.\\n\\n<i>Anyone can buy their way into fashion, but very few possess true style</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 466.07,
+      "max": 768.11,
+      "mean": 617.1,
+      "median": 617.1,
+      "suggested": 421.27,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "mw": null,
+    "ft": {
+      "min": 196.56,
+      "max": 196.56,
+      "mean": 196.56,
+      "median": 196.56,
+      "suggested": 141.46,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 210.59,
+      "max": 210.59,
+      "mean": 210.59,
+      "median": 210.59,
+      "suggested": 85.89,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P90 | Run and Hide (Factory New)",
+      "price": {
+        "min": 466.07,
+        "max": 768.11,
+        "mean": 617.1,
+        "median": 617.1,
+        "suggested": 421.27,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P90 | Run and Hide (Minimal Wear)",
+      "price": null,
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P90 | Run and Hide (Field-Tested)",
+      "price": {
+        "min": 196.56,
+        "max": 196.56,
+        "mean": 196.56,
+        "median": 196.56,
+        "suggested": 141.46,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P90 | Run and Hide (Well-Worn)",
+      "price": {
+        "min": 210.59,
+        "max": 210.59,
+        "mean": 210.59,
+        "median": 210.59,
+        "suggested": 85.89,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P90 | Run and Hide (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P90 | Run and Hide (Factory New)",
+        "price": {
+          "min": 466.07,
+          "max": 768.11,
+          "mean": 617.1,
+          "median": 617.1,
+          "suggested": 421.27,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P90 | Run and Hide (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "P90 | Run and Hide (Field-Tested)",
+        "price": {
+          "min": 196.56,
+          "max": 196.56,
+          "mean": 196.56,
+          "median": 196.56,
+          "suggested": 141.46,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P90 | Run and Hide (Well-Worn)",
+        "price": {
+          "min": 210.59,
+          "max": 210.59,
+          "mean": 210.59,
+          "median": 210.59,
+          "suggested": 85.89,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P90 | Run and Hide (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P90 | Run and Hide (Factory New)",
+        "price": {
+          "min": 284.38,
+          "max": 284.38,
+          "mean": 284.38,
+          "median": 284.38,
+          "suggested": 115.62,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P90 | Run and Hide (Minimal Wear)",
+        "price": {
+          "min": 163.37,
+          "max": 173.87,
+          "mean": 168.62,
+          "median": 168.62,
+          "suggested": 180.67,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P90 | Run and Hide (Field-Tested)",
+        "price": {
+          "min": 103.89,
+          "max": 114.16,
+          "mean": 108.47,
+          "median": 108.83,
+          "suggested": 119.89,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P90 | Run and Hide (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P90 | Run and Hide (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:45.906Z"
+}

@@ -1,0 +1,204 @@
+{
+  "id": "skin-01ecc031f210",
+  "name": "★ Sport Gloves | Red Racer",
+  "paint_index": "1409",
+  "weapon": {
+    "id": "sporty_gloves",
+    "weapon_id": 5030,
+    "name": "Sport Gloves",
+    "slug": "sporty_gloves"
+  },
+  "pattern": {
+    "id": "glove_sport_racer_red",
+    "name": "Red Racer"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_gloves",
+    "name": "Gloves"
+  },
+  "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Synthetic fabrics make these athletic gloves durable and eye-catching.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 408.43,
+      "max": 560.13,
+      "mean": 484.28,
+      "median": 484.28,
+      "suggested": 527.88,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 176.86,
+      "max": 352.5,
+      "mean": 206.68,
+      "median": 202.88,
+      "suggested": 234.03,
+      "quantity": 20,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 164.69,
+      "max": 177.7,
+      "mean": 172.32,
+      "median": 173.8,
+      "suggested": 208.43,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 149.5,
+      "max": 215.22,
+      "mean": 169.88,
+      "median": 161.52,
+      "suggested": 172.97,
+      "quantity": 5,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Sport Gloves | Red Racer (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Sport Gloves | Red Racer (Minimal Wear)",
+      "price": {
+        "min": 408.43,
+        "max": 560.13,
+        "mean": 484.28,
+        "median": 484.28,
+        "suggested": 527.88,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Sport Gloves | Red Racer (Field-Tested)",
+      "price": {
+        "min": 176.86,
+        "max": 352.5,
+        "mean": 206.68,
+        "median": 202.88,
+        "suggested": 234.03,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Sport Gloves | Red Racer (Well-Worn)",
+      "price": {
+        "min": 164.69,
+        "max": 177.7,
+        "mean": 172.32,
+        "median": 173.8,
+        "suggested": 208.43,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Sport Gloves | Red Racer (Battle-Scarred)",
+      "price": {
+        "min": 149.5,
+        "max": 215.22,
+        "mean": 169.88,
+        "median": 161.52,
+        "suggested": 172.97,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Sport Gloves | Red Racer (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Sport Gloves | Red Racer (Minimal Wear)",
+        "price": {
+          "min": 408.43,
+          "max": 560.13,
+          "mean": 484.28,
+          "median": 484.28,
+          "suggested": 527.88,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Sport Gloves | Red Racer (Field-Tested)",
+        "price": {
+          "min": 176.86,
+          "max": 352.5,
+          "mean": 206.68,
+          "median": 202.88,
+          "suggested": 234.03,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Sport Gloves | Red Racer (Well-Worn)",
+        "price": {
+          "min": 164.69,
+          "max": 177.7,
+          "mean": 172.32,
+          "median": 173.8,
+          "suggested": 208.43,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Sport Gloves | Red Racer (Battle-Scarred)",
+        "price": {
+          "min": 149.5,
+          "max": 215.22,
+          "mean": 169.88,
+          "median": 161.52,
+          "suggested": 172.97,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:23.911Z"
+}

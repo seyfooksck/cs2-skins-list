@@ -1,0 +1,310 @@
+{
+  "id": "skin-b54386e7c78c",
+  "name": "AK-47 | Orbit Mk01",
+  "paint_index": "656",
+  "weapon": {
+    "id": "weapon_ak47",
+    "weapon_id": 7,
+    "name": "AK-47",
+    "slug": "ak47"
+  },
+  "pattern": {
+    "id": "gs_ak_colony01_red",
+    "name": "Orbit Mk01"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.55,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. It has been hand painted with a red and black design.\\n\\n<i>Recovered from COLONY01</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 108.99,
+      "max": 490.11,
+      "mean": 197.67,
+      "median": 174.45,
+      "suggested": 149.59,
+      "quantity": 33,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 35.46,
+      "max": 104.49,
+      "mean": 55.3,
+      "median": 49.59,
+      "suggested": 44.71,
+      "quantity": 33,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 29.12,
+      "max": 88.23,
+      "mean": 42.87,
+      "median": 36.07,
+      "suggested": 34.67,
+      "quantity": 17,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 28.77,
+      "max": 47.4,
+      "mean": 36.82,
+      "median": 35.01,
+      "suggested": 33.58,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 27.42,
+      "max": 64.18,
+      "mean": 36.85,
+      "median": 27.9,
+      "suggested": 32.53,
+      "quantity": 4,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AK-47 | Orbit Mk01 (Factory New)",
+      "price": {
+        "min": 108.99,
+        "max": 490.11,
+        "mean": 197.67,
+        "median": 174.45,
+        "suggested": 149.59,
+        "quantity": 33,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AK-47 | Orbit Mk01 (Minimal Wear)",
+      "price": {
+        "min": 35.46,
+        "max": 104.49,
+        "mean": 55.3,
+        "median": 49.59,
+        "suggested": 44.71,
+        "quantity": 33,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AK-47 | Orbit Mk01 (Field-Tested)",
+      "price": {
+        "min": 29.12,
+        "max": 88.23,
+        "mean": 42.87,
+        "median": 36.07,
+        "suggested": 34.67,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AK-47 | Orbit Mk01 (Well-Worn)",
+      "price": {
+        "min": 28.77,
+        "max": 47.4,
+        "mean": 36.82,
+        "median": 35.01,
+        "suggested": 33.58,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AK-47 | Orbit Mk01 (Battle-Scarred)",
+      "price": {
+        "min": 27.42,
+        "max": 64.18,
+        "mean": 36.85,
+        "median": 27.9,
+        "suggested": 32.53,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AK-47 | Orbit Mk01 (Factory New)",
+        "price": {
+          "min": 108.99,
+          "max": 490.11,
+          "mean": 197.67,
+          "median": 174.45,
+          "suggested": 149.59,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AK-47 | Orbit Mk01 (Minimal Wear)",
+        "price": {
+          "min": 35.46,
+          "max": 104.49,
+          "mean": 55.3,
+          "median": 49.59,
+          "suggested": 44.71,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AK-47 | Orbit Mk01 (Field-Tested)",
+        "price": {
+          "min": 29.12,
+          "max": 88.23,
+          "mean": 42.87,
+          "median": 36.07,
+          "suggested": 34.67,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AK-47 | Orbit Mk01 (Well-Worn)",
+        "price": {
+          "min": 28.77,
+          "max": 47.4,
+          "mean": 36.82,
+          "median": 35.01,
+          "suggested": 33.58,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AK-47 | Orbit Mk01 (Battle-Scarred)",
+        "price": {
+          "min": 27.42,
+          "max": 64.18,
+          "mean": 36.85,
+          "median": 27.9,
+          "suggested": 32.53,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AK-47 | Orbit Mk01 (Factory New)",
+        "price": {
+          "min": 101.31,
+          "max": 210.05,
+          "mean": 125.41,
+          "median": 110.14,
+          "suggested": 120.64,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AK-47 | Orbit Mk01 (Minimal Wear)",
+        "price": {
+          "min": 64.18,
+          "max": 132.33,
+          "mean": 84.94,
+          "median": 73.86,
+          "suggested": 73.93,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AK-47 | Orbit Mk01 (Field-Tested)",
+        "price": {
+          "min": 49.01,
+          "max": 198.38,
+          "mean": 65.85,
+          "median": 56.12,
+          "suggested": 66.1,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AK-47 | Orbit Mk01 (Well-Worn)",
+        "price": {
+          "min": 63.35,
+          "max": 70.02,
+          "mean": 66.69,
+          "median": 66.69,
+          "suggested": 73.13,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ AK-47 | Orbit Mk01 (Battle-Scarred)",
+        "price": {
+          "min": 49.01,
+          "max": 116.58,
+          "mean": 72.44,
+          "median": 51.75,
+          "suggested": 68.07,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AK-47 | Orbit Mk01 (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AK-47 | Orbit Mk01 (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AK-47 | Orbit Mk01 (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AK-47 | Orbit Mk01 (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AK-47 | Orbit Mk01 (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:20:20.902Z"
+}

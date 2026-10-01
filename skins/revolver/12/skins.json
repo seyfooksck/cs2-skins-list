@@ -1,0 +1,310 @@
+{
+  "id": "skin-839dad0ad981",
+  "name": "R8 Revolver | Crimson Web",
+  "paint_index": "12",
+  "weapon": {
+    "id": "weapon_revolver",
+    "weapon_id": 64,
+    "name": "R8 Revolver",
+    "slug": "revolver"
+  },
+  "pattern": {
+    "id": "hy_webs",
+    "name": "Crimson Web"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The R8 Revolver delivers a highly accurate and powerful round at the expense of a lengthy trigger-pull. Firing rapidly by fanning the hammer may be the best option when point-blank stopping power is required. It has been painted using a spider web-patterned hydrographic over a red base coat and finished with a semi-gloss topcoat.\\n\\n<i>Be careful where you walk, you never know where the web is spread</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 16.59,
+      "max": 408.43,
+      "mean": 55.85,
+      "median": 40.24,
+      "suggested": 20.72,
+      "quantity": 19,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.06,
+      "max": 5.48,
+      "mean": 1.49,
+      "median": 1.28,
+      "suggested": 1.26,
+      "quantity": 34,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.35,
+      "max": 7.99,
+      "mean": 0.92,
+      "median": 0.48,
+      "suggested": 0.57,
+      "quantity": 55,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.47,
+      "max": 0.58,
+      "mean": 0.55,
+      "median": 0.55,
+      "suggested": 0.59,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.27,
+      "max": 11.67,
+      "mean": 1.13,
+      "median": 0.43,
+      "suggested": 0.37,
+      "quantity": 32,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "R8 Revolver | Crimson Web (Factory New)",
+      "price": {
+        "min": 16.59,
+        "max": 408.43,
+        "mean": 55.85,
+        "median": 40.24,
+        "suggested": 20.72,
+        "quantity": 19,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "R8 Revolver | Crimson Web (Minimal Wear)",
+      "price": {
+        "min": 1.06,
+        "max": 5.48,
+        "mean": 1.49,
+        "median": 1.28,
+        "suggested": 1.26,
+        "quantity": 34,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "R8 Revolver | Crimson Web (Field-Tested)",
+      "price": {
+        "min": 0.35,
+        "max": 7.99,
+        "mean": 0.92,
+        "median": 0.48,
+        "suggested": 0.57,
+        "quantity": 55,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "R8 Revolver | Crimson Web (Well-Worn)",
+      "price": {
+        "min": 0.47,
+        "max": 0.58,
+        "mean": 0.55,
+        "median": 0.55,
+        "suggested": 0.59,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "R8 Revolver | Crimson Web (Battle-Scarred)",
+      "price": {
+        "min": 0.27,
+        "max": 11.67,
+        "mean": 1.13,
+        "median": 0.43,
+        "suggested": 0.37,
+        "quantity": 32,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "R8 Revolver | Crimson Web (Factory New)",
+        "price": {
+          "min": 16.59,
+          "max": 408.43,
+          "mean": 55.85,
+          "median": 40.24,
+          "suggested": 20.72,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "R8 Revolver | Crimson Web (Minimal Wear)",
+        "price": {
+          "min": 1.06,
+          "max": 5.48,
+          "mean": 1.49,
+          "median": 1.28,
+          "suggested": 1.26,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "R8 Revolver | Crimson Web (Field-Tested)",
+        "price": {
+          "min": 0.35,
+          "max": 7.99,
+          "mean": 0.92,
+          "median": 0.48,
+          "suggested": 0.57,
+          "quantity": 55,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "R8 Revolver | Crimson Web (Well-Worn)",
+        "price": {
+          "min": 0.47,
+          "max": 0.58,
+          "mean": 0.55,
+          "median": 0.55,
+          "suggested": 0.59,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "R8 Revolver | Crimson Web (Battle-Scarred)",
+        "price": {
+          "min": 0.27,
+          "max": 11.67,
+          "mean": 1.13,
+          "median": 0.43,
+          "suggested": 0.37,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Crimson Web (Factory New)",
+        "price": {
+          "min": 28.52,
+          "max": 155.1,
+          "mean": 51.5,
+          "median": 32.42,
+          "suggested": 40,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Crimson Web (Minimal Wear)",
+        "price": {
+          "min": 2.92,
+          "max": 38.04,
+          "mean": 6.69,
+          "median": 3.28,
+          "suggested": 3.37,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Crimson Web (Field-Tested)",
+        "price": {
+          "min": 0.47,
+          "max": 3.5,
+          "mean": 0.86,
+          "median": 0.62,
+          "suggested": 0.63,
+          "quantity": 51,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Crimson Web (Well-Worn)",
+        "price": {
+          "min": 0.46,
+          "max": 11.67,
+          "mean": 1.41,
+          "median": 0.68,
+          "suggested": 0.58,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Crimson Web (Battle-Scarred)",
+        "price": {
+          "min": 0.35,
+          "max": 14,
+          "mean": 1.18,
+          "median": 0.43,
+          "suggested": 0.43,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir R8 Revolver | Crimson Web (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir R8 Revolver | Crimson Web (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir R8 Revolver | Crimson Web (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir R8 Revolver | Crimson Web (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir R8 Revolver | Crimson Web (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:46.730Z"
+}

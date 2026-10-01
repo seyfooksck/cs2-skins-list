@@ -1,0 +1,249 @@
+{
+  "id": "skin-1bd56f994f59",
+  "name": "SSG 08 | Threat Detected",
+  "paint_index": "996",
+  "weapon": {
+    "id": "weapon_ssg08",
+    "weapon_id": 40,
+    "name": "SSG 08",
+    "slug": "ssg08"
+  },
+  "pattern": {
+    "id": "am_intelligence_orange",
+    "name": "Threat Detected"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.65,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship. A custom paint job of a map pattern overlayed with a bird's eye HUD has been applied.\\n\\n<i>Target acquired</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 34.46,
+      "max": 210.04,
+      "mean": 63.71,
+      "median": 52.79,
+      "suggested": 42.03,
+      "quantity": 36,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 19.02,
+      "max": 66.52,
+      "mean": 32.5,
+      "median": 24.67,
+      "suggested": 21.34,
+      "quantity": 26,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 17.5,
+      "max": 57.18,
+      "mean": 28.4,
+      "median": 25.33,
+      "suggested": 19.84,
+      "quantity": 13,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 26.63,
+      "max": 26.63,
+      "mean": 26.63,
+      "median": 26.63,
+      "suggested": 22.99,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 17.75,
+      "max": 96.86,
+      "mean": 36.6,
+      "median": 22.3,
+      "suggested": 18.58,
+      "quantity": 8,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SSG 08 | Threat Detected (Factory New)",
+      "price": {
+        "min": 34.46,
+        "max": 210.04,
+        "mean": 63.71,
+        "median": 52.79,
+        "suggested": 42.03,
+        "quantity": 36,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SSG 08 | Threat Detected (Minimal Wear)",
+      "price": {
+        "min": 19.02,
+        "max": 66.52,
+        "mean": 32.5,
+        "median": 24.67,
+        "suggested": 21.34,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "SSG 08 | Threat Detected (Field-Tested)",
+      "price": {
+        "min": 17.5,
+        "max": 57.18,
+        "mean": 28.4,
+        "median": 25.33,
+        "suggested": 19.84,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "SSG 08 | Threat Detected (Well-Worn)",
+      "price": {
+        "min": 26.63,
+        "max": 26.63,
+        "mean": 26.63,
+        "median": 26.63,
+        "suggested": 22.99,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "SSG 08 | Threat Detected (Battle-Scarred)",
+      "price": {
+        "min": 17.75,
+        "max": 96.86,
+        "mean": 36.6,
+        "median": 22.3,
+        "suggested": 18.58,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SSG 08 | Threat Detected (Factory New)",
+        "price": {
+          "min": 34.46,
+          "max": 210.04,
+          "mean": 63.71,
+          "median": 52.79,
+          "suggested": 42.03,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "SSG 08 | Threat Detected (Minimal Wear)",
+        "price": {
+          "min": 19.02,
+          "max": 66.52,
+          "mean": 32.5,
+          "median": 24.67,
+          "suggested": 21.34,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "SSG 08 | Threat Detected (Field-Tested)",
+        "price": {
+          "min": 17.5,
+          "max": 57.18,
+          "mean": 28.4,
+          "median": 25.33,
+          "suggested": 19.84,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "SSG 08 | Threat Detected (Well-Worn)",
+        "price": {
+          "min": 26.63,
+          "max": 26.63,
+          "mean": 26.63,
+          "median": 26.63,
+          "suggested": 22.99,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "SSG 08 | Threat Detected (Battle-Scarred)",
+        "price": {
+          "min": 17.75,
+          "max": 96.86,
+          "mean": 36.6,
+          "median": 22.3,
+          "suggested": 18.58,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SSG 08 | Threat Detected (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir SSG 08 | Threat Detected (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir SSG 08 | Threat Detected (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir SSG 08 | Threat Detected (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir SSG 08 | Threat Detected (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:48.338Z"
+}

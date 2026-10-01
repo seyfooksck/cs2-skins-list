@@ -1,0 +1,289 @@
+{
+  "id": "skin-f9bef4ddaca3",
+  "name": "MP9 | Music Box",
+  "paint_index": "820",
+  "weapon": {
+    "id": "weapon_mp9",
+    "weapon_id": 34,
+    "name": "MP9",
+    "slug": "mp9"
+  },
+  "pattern": {
+    "id": "am_mirage_flowers_metalic",
+    "name": "Music Box"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.55,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. A gold damask pattern has been applied.\\n\\n<i>Fight of fancy</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 17.5,
+      "max": 145.98,
+      "mean": 91.25,
+      "median": 116.69,
+      "suggested": 19.83,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.82,
+      "max": 116.69,
+      "mean": 29.49,
+      "median": 18.45,
+      "suggested": 3.44,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.17,
+      "max": 116.69,
+      "mean": 19.79,
+      "median": 13.14,
+      "suggested": 2.73,
+      "quantity": 31,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.56,
+      "max": 26.84,
+      "mean": 15.37,
+      "median": 16.55,
+      "suggested": 2.31,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 23.34,
+      "max": 26.84,
+      "mean": 24.89,
+      "median": 24.51,
+      "suggested": 2.48,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP9 | Music Box (Factory New)",
+      "price": {
+        "min": 17.5,
+        "max": 145.98,
+        "mean": 91.25,
+        "median": 116.69,
+        "suggested": 19.83,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP9 | Music Box (Minimal Wear)",
+      "price": {
+        "min": 2.82,
+        "max": 116.69,
+        "mean": 29.49,
+        "median": 18.45,
+        "suggested": 3.44,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP9 | Music Box (Field-Tested)",
+      "price": {
+        "min": 2.17,
+        "max": 116.69,
+        "mean": 19.79,
+        "median": 13.14,
+        "suggested": 2.73,
+        "quantity": 31,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP9 | Music Box (Well-Worn)",
+      "price": {
+        "min": 1.56,
+        "max": 26.84,
+        "mean": 15.37,
+        "median": 16.55,
+        "suggested": 2.31,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP9 | Music Box (Battle-Scarred)",
+      "price": {
+        "min": 23.34,
+        "max": 26.84,
+        "mean": 24.89,
+        "median": 24.51,
+        "suggested": 2.48,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP9 | Music Box (Factory New)",
+        "price": {
+          "min": 17.5,
+          "max": 145.98,
+          "mean": 91.25,
+          "median": 116.69,
+          "suggested": 19.83,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP9 | Music Box (Minimal Wear)",
+        "price": {
+          "min": 2.82,
+          "max": 116.69,
+          "mean": 29.49,
+          "median": 18.45,
+          "suggested": 3.44,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP9 | Music Box (Field-Tested)",
+        "price": {
+          "min": 2.17,
+          "max": 116.69,
+          "mean": 19.79,
+          "median": 13.14,
+          "suggested": 2.73,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP9 | Music Box (Well-Worn)",
+        "price": {
+          "min": 1.56,
+          "max": 26.84,
+          "mean": 15.37,
+          "median": 16.55,
+          "suggested": 2.31,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP9 | Music Box (Battle-Scarred)",
+        "price": {
+          "min": 23.34,
+          "max": 26.84,
+          "mean": 24.89,
+          "median": 24.51,
+          "suggested": 2.48,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP9 | Music Box (Factory New)",
+        "price": {
+          "min": 4.49,
+          "max": 578.56,
+          "mean": 64.84,
+          "median": 10.33,
+          "suggested": 5.28,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP9 | Music Box (Minimal Wear)",
+        "price": {
+          "min": 2.71,
+          "max": 40.97,
+          "mean": 9.18,
+          "median": 3.93,
+          "suggested": 3.3,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP9 | Music Box (Field-Tested)",
+        "price": {
+          "min": 2.05,
+          "max": 18.05,
+          "mean": 4.77,
+          "median": 3.1,
+          "suggested": 2.44,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP9 | Music Box (Well-Worn)",
+        "price": {
+          "min": 1.81,
+          "max": 15.98,
+          "mean": 4.78,
+          "median": 2.05,
+          "suggested": 2.42,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP9 | Music Box (Battle-Scarred)",
+        "price": {
+          "min": 1.9,
+          "max": 2.24,
+          "mean": 2.08,
+          "median": 2.1,
+          "suggested": 2.32,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:43.523Z"
+}

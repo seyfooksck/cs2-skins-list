@@ -1,0 +1,249 @@
+{
+  "id": "skin-8948fc158b43",
+  "name": "★ Classic Knife | Crimson Web",
+  "paint_index": "12",
+  "weapon": {
+    "id": "weapon_knife_css",
+    "weapon_id": 503,
+    "name": "Classic Knife",
+    "slug": "knife_css"
+  },
+  "pattern": {
+    "id": "hy_webs",
+    "name": "Crimson Web"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A classic of the Counter-Strike series, the edge of this knife is press-fit Stellite perfectly held in place due to its precise fit with the titanium on the blade's cheek and spine. The handle is fossilized mastodon ivory held in a carbon fibre pocket. It has been painted using a spider web-patterned hydrographic over a red base coat and finished with a semi-gloss topcoat.\\n\\n<i>Be careful where you walk, you never know where the web is spread</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1050.24,
+      "max": 1050.24,
+      "mean": 1050.24,
+      "median": 1050.24,
+      "suggested": 1173.14,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 196.97,
+      "max": 445.5,
+      "mean": 233.95,
+      "median": 210,
+      "suggested": 241.21,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 170.66,
+      "max": 350.07,
+      "mean": 224.36,
+      "median": 184.59,
+      "suggested": 211.36,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 145.86,
+      "max": 290.57,
+      "mean": 202.72,
+      "median": 171.4,
+      "suggested": 192.96,
+      "quantity": 6,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Classic Knife | Crimson Web (Factory New)",
+      "price": {
+        "min": 1050.24,
+        "max": 1050.24,
+        "mean": 1050.24,
+        "median": 1050.24,
+        "suggested": 1173.14,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Classic Knife | Crimson Web (Minimal Wear)",
+      "price": {
+        "min": 196.97,
+        "max": 445.5,
+        "mean": 233.95,
+        "median": 210,
+        "suggested": 241.21,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Classic Knife | Crimson Web (Field-Tested)",
+      "price": {
+        "min": 170.66,
+        "max": 350.07,
+        "mean": 224.36,
+        "median": 184.59,
+        "suggested": 211.36,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Classic Knife | Crimson Web (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Classic Knife | Crimson Web (Battle-Scarred)",
+      "price": {
+        "min": 145.86,
+        "max": 290.57,
+        "mean": 202.72,
+        "median": 171.4,
+        "suggested": 192.96,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Classic Knife | Crimson Web (Factory New)",
+        "price": {
+          "min": 1050.24,
+          "max": 1050.24,
+          "mean": 1050.24,
+          "median": 1050.24,
+          "suggested": 1173.14,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Classic Knife | Crimson Web (Minimal Wear)",
+        "price": {
+          "min": 196.97,
+          "max": 445.5,
+          "mean": 233.95,
+          "median": 210,
+          "suggested": 241.21,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Classic Knife | Crimson Web (Field-Tested)",
+        "price": {
+          "min": 170.66,
+          "max": 350.07,
+          "mean": 224.36,
+          "median": 184.59,
+          "suggested": 211.36,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Classic Knife | Crimson Web (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ Classic Knife | Crimson Web (Battle-Scarred)",
+        "price": {
+          "min": 145.86,
+          "max": 290.57,
+          "mean": 202.72,
+          "median": 171.4,
+          "suggested": 192.96,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Classic Knife | Crimson Web (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Classic Knife | Crimson Web (Minimal Wear)",
+        "price": {
+          "min": 350.08,
+          "max": 380.82,
+          "mean": 365.45,
+          "median": 365.45,
+          "suggested": 258.87,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Classic Knife | Crimson Web (Field-Tested)",
+        "price": {
+          "min": 308.32,
+          "max": 465.61,
+          "mean": 394.53,
+          "median": 409.65,
+          "suggested": 211.84,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Classic Knife | Crimson Web (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Classic Knife | Crimson Web (Battle-Scarred)",
+        "price": {
+          "min": 333.97,
+          "max": 333.97,
+          "mean": 333.97,
+          "median": 333.97,
+          "suggested": 204.71,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:33.938Z"
+}

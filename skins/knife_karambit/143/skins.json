@@ -1,0 +1,177 @@
+{
+  "id": "skin-187b287cedbf",
+  "name": "★ Karambit | Urban Masked",
+  "paint_index": "143",
+  "weapon": {
+    "id": "weapon_knife_karambit",
+    "weapon_id": 507,
+    "name": "Karambit",
+    "slug": "knife_karambit"
+  },
+  "pattern": {
+    "id": "sp_tape_urban",
+    "name": "Urban Masked"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been spray-painted using a tangle of masking tape as a stencil.\\n\\n<i>True power is demonstrated with subtle application</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": null,
+    "ft": {
+      "min": 459.76,
+      "max": 1750.41,
+      "mean": 783,
+      "median": 460.93,
+      "suggested": 528.07,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 468.89,
+      "max": 494.01,
+      "mean": 481.45,
+      "median": 481.45,
+      "suggested": 506.97,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Karambit | Urban Masked (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Karambit | Urban Masked (Minimal Wear)",
+      "price": null,
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Karambit | Urban Masked (Field-Tested)",
+      "price": {
+        "min": 459.76,
+        "max": 1750.41,
+        "mean": 783,
+        "median": 460.93,
+        "suggested": 528.07,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Karambit | Urban Masked (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Karambit | Urban Masked (Battle-Scarred)",
+      "price": {
+        "min": 468.89,
+        "max": 494.01,
+        "mean": 481.45,
+        "median": 481.45,
+        "suggested": 506.97,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Karambit | Urban Masked (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Karambit | Urban Masked (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ Karambit | Urban Masked (Field-Tested)",
+        "price": {
+          "min": 459.76,
+          "max": 1750.41,
+          "mean": 783,
+          "median": 460.93,
+          "suggested": 528.07,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Karambit | Urban Masked (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ Karambit | Urban Masked (Battle-Scarred)",
+        "price": {
+          "min": 468.89,
+          "max": 494.01,
+          "mean": 481.45,
+          "median": 481.45,
+          "suggested": 506.97,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Karambit | Urban Masked (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Karambit | Urban Masked (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Karambit | Urban Masked (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Karambit | Urban Masked (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Karambit | Urban Masked (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:36.098Z"
+}

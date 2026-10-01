@@ -1,0 +1,241 @@
+{
+  "id": "skin-2efdd1c3c3ba",
+  "name": "★ Falchion Knife | Ultraviolet",
+  "paint_index": "621",
+  "weapon": {
+    "id": "weapon_knife_falchion",
+    "weapon_id": 512,
+    "name": "Falchion Knife",
+    "slug": "knife_falchion"
+  },
+  "pattern": {
+    "id": "so_purple_falchion",
+    "name": "Ultraviolet"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A modern homage to a falchion sword, this clip point blade has a curved edge. It has individual parts spray-painted solid colors in a black and purple color scheme.\\n\\n<i>Elegant design paired with brutal intent</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 128.25,
+      "max": 227.88,
+      "mean": 150.95,
+      "median": 143.26,
+      "suggested": 146.96,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 79.34,
+      "max": 408.43,
+      "mean": 157.35,
+      "median": 145.86,
+      "suggested": 106.32,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 97.14,
+      "max": 97.14,
+      "mean": 97.14,
+      "median": 97.14,
+      "suggested": 100.14,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 70.74,
+      "max": 80.01,
+      "mean": 75.37,
+      "median": 75.37,
+      "suggested": 95.38,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Falchion Knife | Ultraviolet (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Falchion Knife | Ultraviolet (Minimal Wear)",
+      "price": {
+        "min": 128.25,
+        "max": 227.88,
+        "mean": 150.95,
+        "median": 143.26,
+        "suggested": 146.96,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Falchion Knife | Ultraviolet (Field-Tested)",
+      "price": {
+        "min": 79.34,
+        "max": 408.43,
+        "mean": 157.35,
+        "median": 145.86,
+        "suggested": 106.32,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Falchion Knife | Ultraviolet (Well-Worn)",
+      "price": {
+        "min": 97.14,
+        "max": 97.14,
+        "mean": 97.14,
+        "median": 97.14,
+        "suggested": 100.14,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Falchion Knife | Ultraviolet (Battle-Scarred)",
+      "price": {
+        "min": 70.74,
+        "max": 80.01,
+        "mean": 75.37,
+        "median": 75.37,
+        "suggested": 95.38,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Falchion Knife | Ultraviolet (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Falchion Knife | Ultraviolet (Minimal Wear)",
+        "price": {
+          "min": 128.25,
+          "max": 227.88,
+          "mean": 150.95,
+          "median": 143.26,
+          "suggested": 146.96,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Falchion Knife | Ultraviolet (Field-Tested)",
+        "price": {
+          "min": 79.34,
+          "max": 408.43,
+          "mean": 157.35,
+          "median": 145.86,
+          "suggested": 106.32,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Falchion Knife | Ultraviolet (Well-Worn)",
+        "price": {
+          "min": 97.14,
+          "max": 97.14,
+          "mean": 97.14,
+          "median": 97.14,
+          "suggested": 100.14,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Falchion Knife | Ultraviolet (Battle-Scarred)",
+        "price": {
+          "min": 70.74,
+          "max": 80.01,
+          "mean": 75.37,
+          "median": 75.37,
+          "suggested": 95.38,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Falchion Knife | Ultraviolet (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Falchion Knife | Ultraviolet (Minimal Wear)",
+        "price": {
+          "min": 151.92,
+          "max": 151.92,
+          "mean": 151.92,
+          "median": 151.92,
+          "suggested": 199.22,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Falchion Knife | Ultraviolet (Field-Tested)",
+        "price": {
+          "min": 91.87,
+          "max": 99.39,
+          "mean": 95.63,
+          "median": 95.63,
+          "suggested": 117.39,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Falchion Knife | Ultraviolet (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Falchion Knife | Ultraviolet (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:34.403Z"
+}

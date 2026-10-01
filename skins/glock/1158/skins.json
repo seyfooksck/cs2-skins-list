@@ -1,0 +1,310 @@
+{
+  "id": "skin-2a4119de0db9",
+  "name": "Glock-18 | Winterized",
+  "paint_index": "1158",
+  "weapon": {
+    "id": "weapon_glock",
+    "weapon_id": 4,
+    "name": "Glock-18",
+    "slug": "glock"
+  },
+  "pattern": {
+    "id": "gs_glock_elite_camo",
+    "name": "Winterized"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. It has been custom painted with a military camouflage in a winter colorway.\\n\\n<i>Freeze!</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.26,
+      "max": 110.86,
+      "mean": 8.31,
+      "median": 4.32,
+      "suggested": 3.57,
+      "quantity": 53,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.18,
+      "max": 5.87,
+      "mean": 0.34,
+      "median": 0.25,
+      "suggested": 0.27,
+      "quantity": 413,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.08,
+      "max": 6.2,
+      "mean": 0.18,
+      "median": 0.13,
+      "suggested": 0.13,
+      "quantity": 738,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.07,
+      "max": 4.83,
+      "mean": 0.14,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 553,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.07,
+      "max": 9.32,
+      "mean": 0.23,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 428,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Glock-18 | Winterized (Factory New)",
+      "price": {
+        "min": 2.26,
+        "max": 110.86,
+        "mean": 8.31,
+        "median": 4.32,
+        "suggested": 3.57,
+        "quantity": 53,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Glock-18 | Winterized (Minimal Wear)",
+      "price": {
+        "min": 0.18,
+        "max": 5.87,
+        "mean": 0.34,
+        "median": 0.25,
+        "suggested": 0.27,
+        "quantity": 413,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Glock-18 | Winterized (Field-Tested)",
+      "price": {
+        "min": 0.08,
+        "max": 6.2,
+        "mean": 0.18,
+        "median": 0.13,
+        "suggested": 0.13,
+        "quantity": 738,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Glock-18 | Winterized (Well-Worn)",
+      "price": {
+        "min": 0.07,
+        "max": 4.83,
+        "mean": 0.14,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 553,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Glock-18 | Winterized (Battle-Scarred)",
+      "price": {
+        "min": 0.07,
+        "max": 9.32,
+        "mean": 0.23,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 428,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Glock-18 | Winterized (Factory New)",
+        "price": {
+          "min": 2.26,
+          "max": 110.86,
+          "mean": 8.31,
+          "median": 4.32,
+          "suggested": 3.57,
+          "quantity": 53,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Glock-18 | Winterized (Minimal Wear)",
+        "price": {
+          "min": 0.18,
+          "max": 5.87,
+          "mean": 0.34,
+          "median": 0.25,
+          "suggested": 0.27,
+          "quantity": 413,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Glock-18 | Winterized (Field-Tested)",
+        "price": {
+          "min": 0.08,
+          "max": 6.2,
+          "mean": 0.18,
+          "median": 0.13,
+          "suggested": 0.13,
+          "quantity": 738,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Glock-18 | Winterized (Well-Worn)",
+        "price": {
+          "min": 0.07,
+          "max": 4.83,
+          "mean": 0.14,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 553,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Glock-18 | Winterized (Battle-Scarred)",
+        "price": {
+          "min": 0.07,
+          "max": 9.32,
+          "mean": 0.23,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 428,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Glock-18 | Winterized (Factory New)",
+        "price": {
+          "min": 1.86,
+          "max": 41.25,
+          "mean": 9.41,
+          "median": 2.85,
+          "suggested": 2.17,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Glock-18 | Winterized (Minimal Wear)",
+        "price": {
+          "min": 0.29,
+          "max": 5.83,
+          "mean": 0.47,
+          "median": 0.4,
+          "suggested": 0.38,
+          "quantity": 179,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Glock-18 | Winterized (Field-Tested)",
+        "price": {
+          "min": 0.13,
+          "max": 10.5,
+          "mean": 0.32,
+          "median": 0.21,
+          "suggested": 0.16,
+          "quantity": 313,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Glock-18 | Winterized (Well-Worn)",
+        "price": {
+          "min": 0.09,
+          "max": 13.08,
+          "mean": 0.32,
+          "median": 0.2,
+          "suggested": 0.12,
+          "quantity": 222,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Glock-18 | Winterized (Battle-Scarred)",
+        "price": {
+          "min": 0.09,
+          "max": 9.73,
+          "mean": 0.37,
+          "median": 0.2,
+          "suggested": 0.13,
+          "quantity": 180,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Glock-18 | Winterized (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Glock-18 | Winterized (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Glock-18 | Winterized (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Glock-18 | Winterized (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Glock-18 | Winterized (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:32.054Z"
+}

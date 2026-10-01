@@ -1,0 +1,310 @@
+{
+  "id": "skin-1e9f98a04b79",
+  "name": "AK-47 | Frontside Misty",
+  "paint_index": "490",
+  "weapon": {
+    "id": "weapon_ak47",
+    "weapon_id": 7,
+    "name": "AK-47",
+    "slug": "ak47"
+  },
+  "pattern": {
+    "id": "cu_ak47_winter_sport",
+    "name": "Frontside Misty"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0.02,
+  "max_float": 0.87,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. It has been painted in vibrant arctic colors.\\n\\n<i>I like to work in the snow... it always leaves a pretty picture - Javier Alviso, Fist of the Phoenix</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 137.76,
+      "max": 1015.24,
+      "mean": 245.77,
+      "median": 180.61,
+      "suggested": 183.61,
+      "quantity": 20,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 30.76,
+      "max": 161.52,
+      "mean": 47.93,
+      "median": 35.73,
+      "suggested": 39.53,
+      "quantity": 97,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 16.76,
+      "max": 1374.63,
+      "mean": 36.27,
+      "median": 19.9,
+      "suggested": 20.65,
+      "quantity": 143,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 15.75,
+      "max": 70,
+      "mean": 25.52,
+      "median": 19.42,
+      "suggested": 19.71,
+      "quantity": 28,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 14.51,
+      "max": 39.69,
+      "mean": 20.3,
+      "median": 18.64,
+      "suggested": 18.01,
+      "quantity": 21,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AK-47 | Frontside Misty (Factory New)",
+      "price": {
+        "min": 137.76,
+        "max": 1015.24,
+        "mean": 245.77,
+        "median": 180.61,
+        "suggested": 183.61,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AK-47 | Frontside Misty (Minimal Wear)",
+      "price": {
+        "min": 30.76,
+        "max": 161.52,
+        "mean": 47.93,
+        "median": 35.73,
+        "suggested": 39.53,
+        "quantity": 97,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AK-47 | Frontside Misty (Field-Tested)",
+      "price": {
+        "min": 16.76,
+        "max": 1374.63,
+        "mean": 36.27,
+        "median": 19.9,
+        "suggested": 20.65,
+        "quantity": 143,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AK-47 | Frontside Misty (Well-Worn)",
+      "price": {
+        "min": 15.75,
+        "max": 70,
+        "mean": 25.52,
+        "median": 19.42,
+        "suggested": 19.71,
+        "quantity": 28,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AK-47 | Frontside Misty (Battle-Scarred)",
+      "price": {
+        "min": 14.51,
+        "max": 39.69,
+        "mean": 20.3,
+        "median": 18.64,
+        "suggested": 18.01,
+        "quantity": 21,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AK-47 | Frontside Misty (Factory New)",
+        "price": {
+          "min": 137.76,
+          "max": 1015.24,
+          "mean": 245.77,
+          "median": 180.61,
+          "suggested": 183.61,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AK-47 | Frontside Misty (Minimal Wear)",
+        "price": {
+          "min": 30.76,
+          "max": 161.52,
+          "mean": 47.93,
+          "median": 35.73,
+          "suggested": 39.53,
+          "quantity": 97,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AK-47 | Frontside Misty (Field-Tested)",
+        "price": {
+          "min": 16.76,
+          "max": 1374.63,
+          "mean": 36.27,
+          "median": 19.9,
+          "suggested": 20.65,
+          "quantity": 143,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AK-47 | Frontside Misty (Well-Worn)",
+        "price": {
+          "min": 15.75,
+          "max": 70,
+          "mean": 25.52,
+          "median": 19.42,
+          "suggested": 19.71,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AK-47 | Frontside Misty (Battle-Scarred)",
+        "price": {
+          "min": 14.51,
+          "max": 39.69,
+          "mean": 20.3,
+          "median": 18.64,
+          "suggested": 18.01,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AK-47 | Frontside Misty (Factory New)",
+        "price": {
+          "min": 182.03,
+          "max": 339.81,
+          "mean": 235.51,
+          "median": 212.24,
+          "suggested": 227.28,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AK-47 | Frontside Misty (Minimal Wear)",
+        "price": {
+          "min": 64.94,
+          "max": 881.49,
+          "mean": 114.13,
+          "median": 86.33,
+          "suggested": 88.83,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AK-47 | Frontside Misty (Field-Tested)",
+        "price": {
+          "min": 33.26,
+          "max": 1166.94,
+          "mean": 125.25,
+          "median": 49.29,
+          "suggested": 41.18,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AK-47 | Frontside Misty (Well-Worn)",
+        "price": {
+          "min": 40.84,
+          "max": 46.22,
+          "mean": 43.15,
+          "median": 41.99,
+          "suggested": 36.28,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ AK-47 | Frontside Misty (Battle-Scarred)",
+        "price": {
+          "min": 33.01,
+          "max": 41.27,
+          "mean": 37.75,
+          "median": 38.35,
+          "suggested": 36.43,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AK-47 | Frontside Misty (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AK-47 | Frontside Misty (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AK-47 | Frontside Misty (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AK-47 | Frontside Misty (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AK-47 | Frontside Misty (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:20:20.599Z"
+}

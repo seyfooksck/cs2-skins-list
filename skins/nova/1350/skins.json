@@ -1,0 +1,310 @@
+{
+  "id": "skin-f58ac1d8b31c",
+  "name": "Nova | Ocular",
+  "paint_index": "1350",
+  "weapon": {
+    "id": "weapon_nova",
+    "weapon_id": 35,
+    "name": "Nova",
+    "slug": "nova"
+  },
+  "pattern": {
+    "id": "nova_ocular",
+    "name": "Ocular"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Nova's rock-bottom price tag makes it a great ambush weapon for a cash-strapped team. This custom paint job features simple geometric shapes and realistic details inspired by abstract surrealism and the works of 20th century artists.\\n\\n<i>Eyes of the beholder</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 3.82,
+      "max": 46.68,
+      "mean": 11.24,
+      "median": 9.66,
+      "suggested": 5.25,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.66,
+      "max": 2.22,
+      "mean": 1.9,
+      "median": 1.87,
+      "suggested": 1.88,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.7,
+      "max": 2.92,
+      "mean": 0.96,
+      "median": 0.79,
+      "suggested": 0.92,
+      "quantity": 46,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.51,
+      "max": 1.69,
+      "mean": 0.7,
+      "median": 0.64,
+      "suggested": 0.73,
+      "quantity": 34,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.44,
+      "max": 25.6,
+      "mean": 1.86,
+      "median": 0.62,
+      "suggested": 0.57,
+      "quantity": 26,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Nova | Ocular (Factory New)",
+      "price": {
+        "min": 3.82,
+        "max": 46.68,
+        "mean": 11.24,
+        "median": 9.66,
+        "suggested": 5.25,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Nova | Ocular (Minimal Wear)",
+      "price": {
+        "min": 1.66,
+        "max": 2.22,
+        "mean": 1.9,
+        "median": 1.87,
+        "suggested": 1.88,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Nova | Ocular (Field-Tested)",
+      "price": {
+        "min": 0.7,
+        "max": 2.92,
+        "mean": 0.96,
+        "median": 0.79,
+        "suggested": 0.92,
+        "quantity": 46,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Nova | Ocular (Well-Worn)",
+      "price": {
+        "min": 0.51,
+        "max": 1.69,
+        "mean": 0.7,
+        "median": 0.64,
+        "suggested": 0.73,
+        "quantity": 34,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Nova | Ocular (Battle-Scarred)",
+      "price": {
+        "min": 0.44,
+        "max": 25.6,
+        "mean": 1.86,
+        "median": 0.62,
+        "suggested": 0.57,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Nova | Ocular (Factory New)",
+        "price": {
+          "min": 3.82,
+          "max": 46.68,
+          "mean": 11.24,
+          "median": 9.66,
+          "suggested": 5.25,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Nova | Ocular (Minimal Wear)",
+        "price": {
+          "min": 1.66,
+          "max": 2.22,
+          "mean": 1.9,
+          "median": 1.87,
+          "suggested": 1.88,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Nova | Ocular (Field-Tested)",
+        "price": {
+          "min": 0.7,
+          "max": 2.92,
+          "mean": 0.96,
+          "median": 0.79,
+          "suggested": 0.92,
+          "quantity": 46,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Nova | Ocular (Well-Worn)",
+        "price": {
+          "min": 0.51,
+          "max": 1.69,
+          "mean": 0.7,
+          "median": 0.64,
+          "suggested": 0.73,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Nova | Ocular (Battle-Scarred)",
+        "price": {
+          "min": 0.44,
+          "max": 25.6,
+          "mean": 1.86,
+          "median": 0.62,
+          "suggested": 0.57,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Nova | Ocular (Factory New)",
+        "price": {
+          "min": 9.23,
+          "max": 9.23,
+          "mean": 9.23,
+          "median": 9.23,
+          "suggested": 10.35,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Nova | Ocular (Minimal Wear)",
+        "price": {
+          "min": 2.6,
+          "max": 14,
+          "mean": 6.79,
+          "median": 6.63,
+          "suggested": 3.69,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Nova | Ocular (Field-Tested)",
+        "price": {
+          "min": 1.48,
+          "max": 3.05,
+          "mean": 2.01,
+          "median": 1.73,
+          "suggested": 1.83,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Nova | Ocular (Well-Worn)",
+        "price": {
+          "min": 1.4,
+          "max": 3.96,
+          "mean": 1.95,
+          "median": 1.67,
+          "suggested": 1.55,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Nova | Ocular (Battle-Scarred)",
+        "price": {
+          "min": 0.96,
+          "max": 2.32,
+          "mean": 1.34,
+          "median": 1.25,
+          "suggested": 1.14,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Nova | Ocular (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Nova | Ocular (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Nova | Ocular (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Nova | Ocular (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Nova | Ocular (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.759Z"
+}

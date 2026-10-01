@@ -1,0 +1,225 @@
+{
+  "id": "skin-62ca63790424",
+  "name": "★ M9 Bayonet | Night",
+  "paint_index": "40",
+  "weapon": {
+    "id": "weapon_knife_m9_bayonet",
+    "weapon_id": 508,
+    "name": "M9 Bayonet",
+    "slug": "knife_m9_bayonet"
+  },
+  "pattern": {
+    "id": "so_night",
+    "name": "Night"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This is the M-9 bayonet.  Originally intended to be mounted on a rifle, it is also well suited to close-quarters combat. It has individual parts spray-painted solid colors in a night ops color scheme.\\n\\n<i>It's the whisper of the wind... it's the bite at your neck</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 458.71,
+      "max": 850.7,
+      "mean": 558.71,
+      "median": 476.11,
+      "suggested": 555.9,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 390.4,
+      "max": 466.77,
+      "mean": 419.46,
+      "median": 410.81,
+      "suggested": 459.06,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 570.78,
+      "max": 584.62,
+      "mean": 577.7,
+      "median": 577.7,
+      "suggested": 444.88,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ M9 Bayonet | Night (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ M9 Bayonet | Night (Minimal Wear)",
+      "price": {
+        "min": 458.71,
+        "max": 850.7,
+        "mean": 558.71,
+        "median": 476.11,
+        "suggested": 555.9,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ M9 Bayonet | Night (Field-Tested)",
+      "price": {
+        "min": 390.4,
+        "max": 466.77,
+        "mean": 419.46,
+        "median": 410.81,
+        "suggested": 459.06,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ M9 Bayonet | Night (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ M9 Bayonet | Night (Battle-Scarred)",
+      "price": {
+        "min": 570.78,
+        "max": 584.62,
+        "mean": 577.7,
+        "median": 577.7,
+        "suggested": 444.88,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ M9 Bayonet | Night (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ M9 Bayonet | Night (Minimal Wear)",
+        "price": {
+          "min": 458.71,
+          "max": 850.7,
+          "mean": 558.71,
+          "median": 476.11,
+          "suggested": 555.9,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ M9 Bayonet | Night (Field-Tested)",
+        "price": {
+          "min": 390.4,
+          "max": 466.77,
+          "mean": 419.46,
+          "median": 410.81,
+          "suggested": 459.06,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ M9 Bayonet | Night (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ M9 Bayonet | Night (Battle-Scarred)",
+        "price": {
+          "min": 570.78,
+          "max": 584.62,
+          "mean": 577.7,
+          "median": 577.7,
+          "suggested": 444.88,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Night (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Night (Minimal Wear)",
+        "price": {
+          "min": 612.64,
+          "max": 612.64,
+          "mean": 612.64,
+          "median": 612.64,
+          "suggested": 649.26,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Night (Field-Tested)",
+        "price": {
+          "min": 426.98,
+          "max": 426.98,
+          "mean": 426.98,
+          "median": 426.98,
+          "suggested": 429.86,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Night (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Night (Battle-Scarred)",
+        "price": {
+          "min": 875.2,
+          "max": 875.2,
+          "mean": 875.2,
+          "median": 875.2,
+          "suggested": 443.48,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:36.745Z"
+}

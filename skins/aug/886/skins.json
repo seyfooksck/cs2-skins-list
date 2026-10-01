@@ -1,0 +1,310 @@
+{
+  "id": "skin-11c6b11248f9",
+  "name": "AUG | Arctic Wolf",
+  "paint_index": "886",
+  "weapon": {
+    "id": "weapon_aug",
+    "weapon_id": 8,
+    "name": "AUG",
+    "slug": "aug"
+  },
+  "pattern": {
+    "id": "cu_aug_whitefang",
+    "name": "Arctic Wolf"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire. A custom paint job has been applied which resembles the white coat of an arctic wolf.\\n\\n<i>Every round is a 1v5</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 23.33,
+      "max": 90.17,
+      "mean": 38.33,
+      "median": 35.92,
+      "suggested": 31.31,
+      "quantity": 23,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 4.26,
+      "max": 12.82,
+      "mean": 5.51,
+      "median": 4.9,
+      "suggested": 5.38,
+      "quantity": 35,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.76,
+      "max": 175.04,
+      "mean": 6.93,
+      "median": 2.14,
+      "suggested": 2.18,
+      "quantity": 45,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.8,
+      "max": 7.47,
+      "mean": 3.68,
+      "median": 3.44,
+      "suggested": 2.53,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.86,
+      "max": 7.56,
+      "mean": 2.37,
+      "median": 1.98,
+      "suggested": 1.96,
+      "quantity": 24,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AUG | Arctic Wolf (Factory New)",
+      "price": {
+        "min": 23.33,
+        "max": 90.17,
+        "mean": 38.33,
+        "median": 35.92,
+        "suggested": 31.31,
+        "quantity": 23,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AUG | Arctic Wolf (Minimal Wear)",
+      "price": {
+        "min": 4.26,
+        "max": 12.82,
+        "mean": 5.51,
+        "median": 4.9,
+        "suggested": 5.38,
+        "quantity": 35,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AUG | Arctic Wolf (Field-Tested)",
+      "price": {
+        "min": 1.76,
+        "max": 175.04,
+        "mean": 6.93,
+        "median": 2.14,
+        "suggested": 2.18,
+        "quantity": 45,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AUG | Arctic Wolf (Well-Worn)",
+      "price": {
+        "min": 1.8,
+        "max": 7.47,
+        "mean": 3.68,
+        "median": 3.44,
+        "suggested": 2.53,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AUG | Arctic Wolf (Battle-Scarred)",
+      "price": {
+        "min": 1.86,
+        "max": 7.56,
+        "mean": 2.37,
+        "median": 1.98,
+        "suggested": 1.96,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AUG | Arctic Wolf (Factory New)",
+        "price": {
+          "min": 23.33,
+          "max": 90.17,
+          "mean": 38.33,
+          "median": 35.92,
+          "suggested": 31.31,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AUG | Arctic Wolf (Minimal Wear)",
+        "price": {
+          "min": 4.26,
+          "max": 12.82,
+          "mean": 5.51,
+          "median": 4.9,
+          "suggested": 5.38,
+          "quantity": 35,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AUG | Arctic Wolf (Field-Tested)",
+        "price": {
+          "min": 1.76,
+          "max": 175.04,
+          "mean": 6.93,
+          "median": 2.14,
+          "suggested": 2.18,
+          "quantity": 45,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AUG | Arctic Wolf (Well-Worn)",
+        "price": {
+          "min": 1.8,
+          "max": 7.47,
+          "mean": 3.68,
+          "median": 3.44,
+          "suggested": 2.53,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AUG | Arctic Wolf (Battle-Scarred)",
+        "price": {
+          "min": 1.86,
+          "max": 7.56,
+          "mean": 2.37,
+          "median": 1.98,
+          "suggested": 1.96,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AUG | Arctic Wolf (Factory New)",
+        "price": {
+          "min": 20.42,
+          "max": 70,
+          "mean": 31.41,
+          "median": 28.62,
+          "suggested": 24.93,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AUG | Arctic Wolf (Minimal Wear)",
+        "price": {
+          "min": 9.03,
+          "max": 23.34,
+          "mean": 14.72,
+          "median": 12.03,
+          "suggested": 12.17,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AUG | Arctic Wolf (Field-Tested)",
+        "price": {
+          "min": 4.07,
+          "max": 14.51,
+          "mean": 7.45,
+          "median": 6.87,
+          "suggested": 5.05,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AUG | Arctic Wolf (Well-Worn)",
+        "price": {
+          "min": 5.36,
+          "max": 8.23,
+          "mean": 6.74,
+          "median": 6.65,
+          "suggested": 6.17,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ AUG | Arctic Wolf (Battle-Scarred)",
+        "price": {
+          "min": 3.96,
+          "max": 12.26,
+          "mean": 5.44,
+          "median": 4.73,
+          "suggested": 4.29,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AUG | Arctic Wolf (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AUG | Arctic Wolf (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AUG | Arctic Wolf (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AUG | Arctic Wolf (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AUG | Arctic Wolf (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.423Z"
+}

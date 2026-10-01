@@ -1,0 +1,145 @@
+{
+  "id": "skin-8d1c8d592ffb",
+  "name": "Glock-18 | High Beam",
+  "paint_index": "799",
+  "weapon": {
+    "id": "weapon_glock",
+    "weapon_id": 4,
+    "name": "Glock-18",
+    "slug": "glock"
+  },
+  "pattern": {
+    "id": "aa_vertigo_blue",
+    "name": "High Beam"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. A blue spiral pattern has been applied to the slide.\\n\\n<i>Hard to miss</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.19,
+      "max": 260.67,
+      "mean": 2.31,
+      "median": 1.03,
+      "suggested": 0.23,
+      "quantity": 1326,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.21,
+      "max": 6.66,
+      "mean": 0.75,
+      "median": 0.64,
+      "suggested": 0.24,
+      "quantity": 190,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Glock-18 | High Beam (Factory New)",
+      "price": {
+        "min": 0.19,
+        "max": 260.67,
+        "mean": 2.31,
+        "median": 1.03,
+        "suggested": 0.23,
+        "quantity": 1326,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Glock-18 | High Beam (Minimal Wear)",
+      "price": {
+        "min": 0.21,
+        "max": 6.66,
+        "mean": 0.75,
+        "median": 0.64,
+        "suggested": 0.24,
+        "quantity": 190,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Glock-18 | High Beam (Factory New)",
+        "price": {
+          "min": 0.19,
+          "max": 260.67,
+          "mean": 2.31,
+          "median": 1.03,
+          "suggested": 0.23,
+          "quantity": 1326,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Glock-18 | High Beam (Minimal Wear)",
+        "price": {
+          "min": 0.21,
+          "max": 6.66,
+          "mean": 0.75,
+          "median": 0.64,
+          "suggested": 0.24,
+          "quantity": 190,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Glock-18 | High Beam (Factory New)",
+        "price": {
+          "min": 1.23,
+          "max": 350.08,
+          "mean": 19.5,
+          "median": 7,
+          "suggested": 1.42,
+          "quantity": 152,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Glock-18 | High Beam (Minimal Wear)",
+        "price": {
+          "min": 2.3,
+          "max": 288.55,
+          "mean": 70.11,
+          "median": 27.31,
+          "suggested": 2.64,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:31.472Z"
+}

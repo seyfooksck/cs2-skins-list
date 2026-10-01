@@ -1,0 +1,249 @@
+{
+  "id": "skin-544a3d0462c1",
+  "name": "Desert Eagle | Starcade",
+  "paint_index": "938",
+  "weapon": {
+    "id": "weapon_deagle",
+    "weapon_id": 1,
+    "name": "Desert Eagle",
+    "slug": "deagle"
+  },
+  "pattern": {
+    "id": "cu_glitter_deagle",
+    "name": "Starcade"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.75,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. It has been custom painted with an abstract design using metallic flake paint.\\n\\n<i>A New High Score!</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 238.64,
+      "max": 1155.26,
+      "mean": 486.66,
+      "median": 498.33,
+      "suggested": 339.31,
+      "quantity": 22,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 91,
+      "max": 350.07,
+      "mean": 180.44,
+      "median": 179.08,
+      "suggested": 116.42,
+      "quantity": 36,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 53.12,
+      "max": 3480.39,
+      "mean": 180.36,
+      "median": 90.44,
+      "suggested": 65.03,
+      "quantity": 54,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 42.46,
+      "max": 66.01,
+      "mean": 51.91,
+      "median": 51.44,
+      "suggested": 54.51,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 36.6,
+      "max": 38.43,
+      "mean": 37.68,
+      "median": 38.02,
+      "suggested": 43.94,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Desert Eagle | Starcade (Factory New)",
+      "price": {
+        "min": 238.64,
+        "max": 1155.26,
+        "mean": 486.66,
+        "median": 498.33,
+        "suggested": 339.31,
+        "quantity": 22,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Desert Eagle | Starcade (Minimal Wear)",
+      "price": {
+        "min": 91,
+        "max": 350.07,
+        "mean": 180.44,
+        "median": 179.08,
+        "suggested": 116.42,
+        "quantity": 36,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Desert Eagle | Starcade (Field-Tested)",
+      "price": {
+        "min": 53.12,
+        "max": 3480.39,
+        "mean": 180.36,
+        "median": 90.44,
+        "suggested": 65.03,
+        "quantity": 54,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Desert Eagle | Starcade (Well-Worn)",
+      "price": {
+        "min": 42.46,
+        "max": 66.01,
+        "mean": 51.91,
+        "median": 51.44,
+        "suggested": 54.51,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Desert Eagle | Starcade (Battle-Scarred)",
+      "price": {
+        "min": 36.6,
+        "max": 38.43,
+        "mean": 37.68,
+        "median": 38.02,
+        "suggested": 43.94,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Desert Eagle | Starcade (Factory New)",
+        "price": {
+          "min": 238.64,
+          "max": 1155.26,
+          "mean": 486.66,
+          "median": 498.33,
+          "suggested": 339.31,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Desert Eagle | Starcade (Minimal Wear)",
+        "price": {
+          "min": 91,
+          "max": 350.07,
+          "mean": 180.44,
+          "median": 179.08,
+          "suggested": 116.42,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Desert Eagle | Starcade (Field-Tested)",
+        "price": {
+          "min": 53.12,
+          "max": 3480.39,
+          "mean": 180.36,
+          "median": 90.44,
+          "suggested": 65.03,
+          "quantity": 54,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Desert Eagle | Starcade (Well-Worn)",
+        "price": {
+          "min": 42.46,
+          "max": 66.01,
+          "mean": 51.91,
+          "median": 51.44,
+          "suggested": 54.51,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Desert Eagle | Starcade (Battle-Scarred)",
+        "price": {
+          "min": 36.6,
+          "max": 38.43,
+          "mean": 37.68,
+          "median": 38.02,
+          "suggested": 43.94,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Desert Eagle | Starcade (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Desert Eagle | Starcade (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Desert Eagle | Starcade (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Desert Eagle | Starcade (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Desert Eagle | Starcade (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:28.293Z"
+}

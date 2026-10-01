@@ -1,0 +1,310 @@
+{
+  "id": "skin-8d6879f0a2bc",
+  "name": "Dual Berettas | Hideout",
+  "paint_index": "1169",
+  "weapon": {
+    "id": "weapon_elite",
+    "weapon_id": 2,
+    "name": "Dual Berettas",
+    "slug": "elite"
+  },
+  "pattern": {
+    "id": "dual_berettas_lethal_grin",
+    "name": "Hideout"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.698529,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. It has been custom painted with a multicolored design.\\n\\n<i>Step right up, don't be shy</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.44,
+      "max": 115.53,
+      "mean": 2.35,
+      "median": 0.7,
+      "suggested": 0.55,
+      "quantity": 153,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.14,
+      "max": 7.99,
+      "mean": 0.29,
+      "median": 0.21,
+      "suggested": 0.2,
+      "quantity": 533,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.07,
+      "max": 6.65,
+      "mean": 0.13,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 1598,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.07,
+      "max": 0.71,
+      "mean": 0.12,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 117,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.07,
+      "max": 1.17,
+      "mean": 0.09,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 352,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Dual Berettas | Hideout (Factory New)",
+      "price": {
+        "min": 0.44,
+        "max": 115.53,
+        "mean": 2.35,
+        "median": 0.7,
+        "suggested": 0.55,
+        "quantity": 153,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Dual Berettas | Hideout (Minimal Wear)",
+      "price": {
+        "min": 0.14,
+        "max": 7.99,
+        "mean": 0.29,
+        "median": 0.21,
+        "suggested": 0.2,
+        "quantity": 533,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Dual Berettas | Hideout (Field-Tested)",
+      "price": {
+        "min": 0.07,
+        "max": 6.65,
+        "mean": 0.13,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 1598,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Dual Berettas | Hideout (Well-Worn)",
+      "price": {
+        "min": 0.07,
+        "max": 0.71,
+        "mean": 0.12,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 117,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Dual Berettas | Hideout (Battle-Scarred)",
+      "price": {
+        "min": 0.07,
+        "max": 1.17,
+        "mean": 0.09,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 352,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Dual Berettas | Hideout (Factory New)",
+        "price": {
+          "min": 0.44,
+          "max": 115.53,
+          "mean": 2.35,
+          "median": 0.7,
+          "suggested": 0.55,
+          "quantity": 153,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Dual Berettas | Hideout (Minimal Wear)",
+        "price": {
+          "min": 0.14,
+          "max": 7.99,
+          "mean": 0.29,
+          "median": 0.21,
+          "suggested": 0.2,
+          "quantity": 533,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Dual Berettas | Hideout (Field-Tested)",
+        "price": {
+          "min": 0.07,
+          "max": 6.65,
+          "mean": 0.13,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 1598,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Dual Berettas | Hideout (Well-Worn)",
+        "price": {
+          "min": 0.07,
+          "max": 0.71,
+          "mean": 0.12,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 117,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Dual Berettas | Hideout (Battle-Scarred)",
+        "price": {
+          "min": 0.07,
+          "max": 1.17,
+          "mean": 0.09,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 352,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Dual Berettas | Hideout (Factory New)",
+        "price": {
+          "min": 0.39,
+          "max": 23.6,
+          "mean": 2.47,
+          "median": 0.74,
+          "suggested": 0.57,
+          "quantity": 62,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Dual Berettas | Hideout (Minimal Wear)",
+        "price": {
+          "min": 0.19,
+          "max": 11.67,
+          "mean": 0.35,
+          "median": 0.26,
+          "suggested": 0.25,
+          "quantity": 211,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Dual Berettas | Hideout (Field-Tested)",
+        "price": {
+          "min": 0.08,
+          "max": 7.01,
+          "mean": 0.18,
+          "median": 0.14,
+          "suggested": 0.12,
+          "quantity": 503,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Dual Berettas | Hideout (Well-Worn)",
+        "price": {
+          "min": 0.11,
+          "max": 0.4,
+          "mean": 0.19,
+          "median": 0.19,
+          "suggested": 0.13,
+          "quantity": 69,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Dual Berettas | Hideout (Battle-Scarred)",
+        "price": {
+          "min": 0.07,
+          "max": 1.17,
+          "mean": 0.15,
+          "median": 0.13,
+          "suggested": 0.12,
+          "quantity": 103,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Dual Berettas | Hideout (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Dual Berettas | Hideout (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Dual Berettas | Hideout (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Dual Berettas | Hideout (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Dual Berettas | Hideout (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:28.809Z"
+}

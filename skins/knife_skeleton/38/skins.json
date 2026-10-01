@@ -1,0 +1,137 @@
+{
+  "id": "skin-cde6adda102c",
+  "name": "★ Skeleton Knife | Fade",
+  "paint_index": "38",
+  "weapon": {
+    "id": "weapon_knife_skeleton",
+    "weapon_id": 525,
+    "name": "Skeleton Knife",
+    "slug": "knife_skeleton"
+  },
+  "pattern": {
+    "id": "aa_fade",
+    "name": "Fade"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This skeletonized-tang knife has been taped at the handle for improved grip. The hole allows a finger to be threaded through for stability and safety. It has been painted by airbrushing transparent paints that fade together over a chrome base coat.\\n\\n<i>This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 554.82,
+      "max": 1875.54,
+      "mean": 800.09,
+      "median": 679.36,
+      "suggested": 657.73,
+      "quantity": 32,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1498.91,
+      "max": 1498.91,
+      "mean": 1498.91,
+      "median": 1498.91,
+      "suggested": 687.8,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Skeleton Knife | Fade (Factory New)",
+      "price": {
+        "min": 554.82,
+        "max": 1875.54,
+        "mean": 800.09,
+        "median": 679.36,
+        "suggested": 657.73,
+        "quantity": 32,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Skeleton Knife | Fade (Minimal Wear)",
+      "price": {
+        "min": 1498.91,
+        "max": 1498.91,
+        "mean": 1498.91,
+        "median": 1498.91,
+        "suggested": 687.8,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Skeleton Knife | Fade (Factory New)",
+        "price": {
+          "min": 554.82,
+          "max": 1875.54,
+          "mean": 800.09,
+          "median": 679.36,
+          "suggested": 657.73,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Skeleton Knife | Fade (Minimal Wear)",
+        "price": {
+          "min": 1498.91,
+          "max": 1498.91,
+          "mean": 1498.91,
+          "median": 1498.91,
+          "suggested": 687.8,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Skeleton Knife | Fade (Factory New)",
+        "price": {
+          "min": 602.75,
+          "max": 3500.8,
+          "mean": 1156.11,
+          "median": 850.84,
+          "suggested": 677.17,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Skeleton Knife | Fade (Minimal Wear)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:37.563Z"
+}

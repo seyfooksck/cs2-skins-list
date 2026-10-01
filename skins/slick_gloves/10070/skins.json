@@ -1,0 +1,204 @@
+{
+  "id": "skin-30ad2640a228",
+  "name": "★ Driver Gloves | Snow Leopard",
+  "paint_index": "10070",
+  "weapon": {
+    "id": "slick_gloves",
+    "weapon_id": 5031,
+    "name": "Driver Gloves",
+    "slug": "slick_gloves"
+  },
+  "pattern": {
+    "id": "slick_jaguar_white",
+    "name": "Snow Leopard"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_gloves",
+    "name": "Gloves"
+  },
+  "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "These driving gloves offer protection from the elements while still maintaining tactile sensation.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 604.24,
+      "max": 1473.94,
+      "mean": 868.56,
+      "median": 769.48,
+      "suggested": 699.36,
+      "quantity": 19,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 307.24,
+      "max": 932.38,
+      "mean": 403.11,
+      "median": 363.27,
+      "suggested": 405.12,
+      "quantity": 95,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 261.38,
+      "max": 560.13,
+      "mean": 310.98,
+      "median": 295.47,
+      "suggested": 341.48,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 229.96,
+      "max": 525.12,
+      "mean": 282.22,
+      "median": 261.73,
+      "suggested": 292.11,
+      "quantity": 34,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Driver Gloves | Snow Leopard (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Driver Gloves | Snow Leopard (Minimal Wear)",
+      "price": {
+        "min": 604.24,
+        "max": 1473.94,
+        "mean": 868.56,
+        "median": 769.48,
+        "suggested": 699.36,
+        "quantity": 19,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Driver Gloves | Snow Leopard (Field-Tested)",
+      "price": {
+        "min": 307.24,
+        "max": 932.38,
+        "mean": 403.11,
+        "median": 363.27,
+        "suggested": 405.12,
+        "quantity": 95,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Driver Gloves | Snow Leopard (Well-Worn)",
+      "price": {
+        "min": 261.38,
+        "max": 560.13,
+        "mean": 310.98,
+        "median": 295.47,
+        "suggested": 341.48,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Driver Gloves | Snow Leopard (Battle-Scarred)",
+      "price": {
+        "min": 229.96,
+        "max": 525.12,
+        "mean": 282.22,
+        "median": 261.73,
+        "suggested": 292.11,
+        "quantity": 34,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Driver Gloves | Snow Leopard (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Driver Gloves | Snow Leopard (Minimal Wear)",
+        "price": {
+          "min": 604.24,
+          "max": 1473.94,
+          "mean": 868.56,
+          "median": 769.48,
+          "suggested": 699.36,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Driver Gloves | Snow Leopard (Field-Tested)",
+        "price": {
+          "min": 307.24,
+          "max": 932.38,
+          "mean": 403.11,
+          "median": 363.27,
+          "suggested": 405.12,
+          "quantity": 95,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Driver Gloves | Snow Leopard (Well-Worn)",
+        "price": {
+          "min": 261.38,
+          "max": 560.13,
+          "mean": 310.98,
+          "median": 295.47,
+          "suggested": 341.48,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Driver Gloves | Snow Leopard (Battle-Scarred)",
+        "price": {
+          "min": 229.96,
+          "max": 525.12,
+          "mean": 282.22,
+          "median": 261.73,
+          "suggested": 292.11,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:23.441Z"
+}

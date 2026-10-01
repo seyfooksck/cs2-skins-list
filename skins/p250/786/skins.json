@@ -1,0 +1,289 @@
+{
+  "id": "skin-4609f8421163",
+  "name": "P250 | Exchanger",
+  "paint_index": "786",
+  "weapon": {
+    "id": "weapon_p250",
+    "weapon_id": 36,
+    "name": "P250",
+    "slug": "p250"
+  },
+  "pattern": {
+    "id": "hy_ducts_blue",
+    "name": "Exchanger"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A low-recoil firearm with a high rate of fire, the P250 is a relatively inexpensive choice against armored opponents. A hydrographic pattern of interweaving pipes has been applied.\\n\\n<i>\\\"My life for yours\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.39,
+      "max": 50.76,
+      "mean": 6,
+      "median": 4.75,
+      "suggested": 4.04,
+      "quantity": 40,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.51,
+      "max": 21,
+      "mean": 2.49,
+      "median": 0.84,
+      "suggested": 0.76,
+      "quantity": 22,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.19,
+      "max": 4.67,
+      "mean": 0.63,
+      "median": 0.3,
+      "suggested": 0.24,
+      "quantity": 90,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.27,
+      "max": 1.23,
+      "mean": 0.51,
+      "median": 0.34,
+      "suggested": 0.24,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.2,
+      "max": 1.27,
+      "mean": 0.56,
+      "median": 0.54,
+      "suggested": 0.24,
+      "quantity": 9,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P250 | Exchanger (Factory New)",
+      "price": {
+        "min": 2.39,
+        "max": 50.76,
+        "mean": 6,
+        "median": 4.75,
+        "suggested": 4.04,
+        "quantity": 40,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P250 | Exchanger (Minimal Wear)",
+      "price": {
+        "min": 0.51,
+        "max": 21,
+        "mean": 2.49,
+        "median": 0.84,
+        "suggested": 0.76,
+        "quantity": 22,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P250 | Exchanger (Field-Tested)",
+      "price": {
+        "min": 0.19,
+        "max": 4.67,
+        "mean": 0.63,
+        "median": 0.3,
+        "suggested": 0.24,
+        "quantity": 90,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P250 | Exchanger (Well-Worn)",
+      "price": {
+        "min": 0.27,
+        "max": 1.23,
+        "mean": 0.51,
+        "median": 0.34,
+        "suggested": 0.24,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P250 | Exchanger (Battle-Scarred)",
+      "price": {
+        "min": 0.2,
+        "max": 1.27,
+        "mean": 0.56,
+        "median": 0.54,
+        "suggested": 0.24,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P250 | Exchanger (Factory New)",
+        "price": {
+          "min": 2.39,
+          "max": 50.76,
+          "mean": 6,
+          "median": 4.75,
+          "suggested": 4.04,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P250 | Exchanger (Minimal Wear)",
+        "price": {
+          "min": 0.51,
+          "max": 21,
+          "mean": 2.49,
+          "median": 0.84,
+          "suggested": 0.76,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P250 | Exchanger (Field-Tested)",
+        "price": {
+          "min": 0.19,
+          "max": 4.67,
+          "mean": 0.63,
+          "median": 0.3,
+          "suggested": 0.24,
+          "quantity": 90,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P250 | Exchanger (Well-Worn)",
+        "price": {
+          "min": 0.27,
+          "max": 1.23,
+          "mean": 0.51,
+          "median": 0.34,
+          "suggested": 0.24,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P250 | Exchanger (Battle-Scarred)",
+        "price": {
+          "min": 0.2,
+          "max": 1.27,
+          "mean": 0.56,
+          "median": 0.54,
+          "suggested": 0.24,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P250 | Exchanger (Factory New)",
+        "price": {
+          "min": 3.3,
+          "max": 37.34,
+          "mean": 10.56,
+          "median": 6.46,
+          "suggested": 3.92,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P250 | Exchanger (Minimal Wear)",
+        "price": {
+          "min": 2.4,
+          "max": 28.08,
+          "mean": 7.27,
+          "median": 2.6,
+          "suggested": 1.95,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P250 | Exchanger (Field-Tested)",
+        "price": {
+          "min": 0.44,
+          "max": 24.51,
+          "mean": 5.76,
+          "median": 3.23,
+          "suggested": 0.57,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P250 | Exchanger (Well-Worn)",
+        "price": {
+          "min": 4.66,
+          "max": 9.63,
+          "mean": 6.51,
+          "median": 5.25,
+          "suggested": 0.8,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P250 | Exchanger (Battle-Scarred)",
+        "price": {
+          "min": 4.77,
+          "max": 29.17,
+          "mean": 16.98,
+          "median": 16.98,
+          "suggested": 2.04,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:45.327Z"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "skin-bce064b53f43",
+  "name": "P250 | Ripple",
+  "paint_index": "650",
+  "weapon": {
+    "id": "weapon_p250",
+    "weapon_id": 36,
+    "name": "P250",
+    "slug": "p250"
+  },
+  "pattern": {
+    "id": "am_p250_sputnik",
+    "name": "Ripple"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A low-recoil firearm with a high rate of fire, the P250 is a relatively inexpensive choice against armored opponents. A blue-grey anodized pattern overlays a black base.\\n\\n<i>Be the pebble</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.96,
+      "max": 40.8,
+      "mean": 4.97,
+      "median": 3.02,
+      "suggested": 3.07,
+      "quantity": 72,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.44,
+      "max": 4.67,
+      "mean": 0.67,
+      "median": 0.55,
+      "suggested": 0.58,
+      "quantity": 55,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.4,
+      "max": 3.5,
+      "mean": 0.67,
+      "median": 0.54,
+      "suggested": 0.63,
+      "quantity": 163,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.42,
+      "max": 0.97,
+      "mean": 0.72,
+      "median": 0.91,
+      "suggested": 0.54,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.43,
+      "max": 3.5,
+      "mean": 0.96,
+      "median": 0.77,
+      "suggested": 0.58,
+      "quantity": 12,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P250 | Ripple (Factory New)",
+      "price": {
+        "min": 1.96,
+        "max": 40.8,
+        "mean": 4.97,
+        "median": 3.02,
+        "suggested": 3.07,
+        "quantity": 72,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P250 | Ripple (Minimal Wear)",
+      "price": {
+        "min": 0.44,
+        "max": 4.67,
+        "mean": 0.67,
+        "median": 0.55,
+        "suggested": 0.58,
+        "quantity": 55,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P250 | Ripple (Field-Tested)",
+      "price": {
+        "min": 0.4,
+        "max": 3.5,
+        "mean": 0.67,
+        "median": 0.54,
+        "suggested": 0.63,
+        "quantity": 163,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P250 | Ripple (Well-Worn)",
+      "price": {
+        "min": 0.42,
+        "max": 0.97,
+        "mean": 0.72,
+        "median": 0.91,
+        "suggested": 0.54,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P250 | Ripple (Battle-Scarred)",
+      "price": {
+        "min": 0.43,
+        "max": 3.5,
+        "mean": 0.96,
+        "median": 0.77,
+        "suggested": 0.58,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P250 | Ripple (Factory New)",
+        "price": {
+          "min": 1.96,
+          "max": 40.8,
+          "mean": 4.97,
+          "median": 3.02,
+          "suggested": 3.07,
+          "quantity": 72,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P250 | Ripple (Minimal Wear)",
+        "price": {
+          "min": 0.44,
+          "max": 4.67,
+          "mean": 0.67,
+          "median": 0.55,
+          "suggested": 0.58,
+          "quantity": 55,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P250 | Ripple (Field-Tested)",
+        "price": {
+          "min": 0.4,
+          "max": 3.5,
+          "mean": 0.67,
+          "median": 0.54,
+          "suggested": 0.63,
+          "quantity": 163,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P250 | Ripple (Well-Worn)",
+        "price": {
+          "min": 0.42,
+          "max": 0.97,
+          "mean": 0.72,
+          "median": 0.91,
+          "suggested": 0.54,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P250 | Ripple (Battle-Scarred)",
+        "price": {
+          "min": 0.43,
+          "max": 3.5,
+          "mean": 0.96,
+          "median": 0.77,
+          "suggested": 0.58,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P250 | Ripple (Factory New)",
+        "price": {
+          "min": 0.97,
+          "max": 224.13,
+          "mean": 23.19,
+          "median": 7.59,
+          "suggested": 1.13,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P250 | Ripple (Minimal Wear)",
+        "price": {
+          "min": 0.56,
+          "max": 5.24,
+          "mean": 1.06,
+          "median": 0.65,
+          "suggested": 0.7,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P250 | Ripple (Field-Tested)",
+        "price": {
+          "min": 0.34,
+          "max": 46.96,
+          "mean": 1.34,
+          "median": 0.46,
+          "suggested": 0.47,
+          "quantity": 96,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ P250 | Ripple (Well-Worn)",
+        "price": {
+          "min": 0.42,
+          "max": 0.97,
+          "mean": 0.57,
+          "median": 0.54,
+          "suggested": 0.52,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ P250 | Ripple (Battle-Scarred)",
+        "price": {
+          "min": 0.37,
+          "max": 7.52,
+          "mean": 1.02,
+          "median": 0.4,
+          "suggested": 0.46,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P250 | Ripple (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P250 | Ripple (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P250 | Ripple (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P250 | Ripple (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P250 | Ripple (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.980Z"
+}

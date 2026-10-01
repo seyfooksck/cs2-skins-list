@@ -1,0 +1,273 @@
+{
+  "id": "skin-37f576426c37",
+  "name": "★ Huntsman Knife | Freehand",
+  "paint_index": "581",
+  "weapon": {
+    "id": "weapon_knife_tactical",
+    "weapon_id": 509,
+    "name": "Huntsman Knife",
+    "slug": "knife_tactical"
+  },
+  "pattern": {
+    "id": "am_marked_up_90",
+    "name": "Freehand"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.48,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A knife designed for modern tactical uses, the blade is well suited for a range of both combat and utilitarian needs.  The unique Tanto point allows for maximum penetration through even the toughest of surfaces. It has been painted black and purple, then decorated with a metallic marker.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 93.88,
+      "max": 242.14,
+      "mean": 145.02,
+      "median": 119.61,
+      "suggested": 116.27,
+      "quantity": 24,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 81.67,
+      "max": 350.07,
+      "mean": 112.38,
+      "median": 95.89,
+      "suggested": 105.02,
+      "quantity": 25,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 70.46,
+      "max": 230.44,
+      "mean": 102.31,
+      "median": 81.29,
+      "suggested": 90.53,
+      "quantity": 23,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 75.99,
+      "max": 90.69,
+      "mean": 84.16,
+      "median": 85.78,
+      "suggested": 84.01,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 77.15,
+      "max": 106.42,
+      "mean": 87.49,
+      "median": 78.88,
+      "suggested": 89.17,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Huntsman Knife | Freehand (Factory New)",
+      "price": {
+        "min": 93.88,
+        "max": 242.14,
+        "mean": 145.02,
+        "median": 119.61,
+        "suggested": 116.27,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Huntsman Knife | Freehand (Minimal Wear)",
+      "price": {
+        "min": 81.67,
+        "max": 350.07,
+        "mean": 112.38,
+        "median": 95.89,
+        "suggested": 105.02,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Huntsman Knife | Freehand (Field-Tested)",
+      "price": {
+        "min": 70.46,
+        "max": 230.44,
+        "mean": 102.31,
+        "median": 81.29,
+        "suggested": 90.53,
+        "quantity": 23,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Huntsman Knife | Freehand (Well-Worn)",
+      "price": {
+        "min": 75.99,
+        "max": 90.69,
+        "mean": 84.16,
+        "median": 85.78,
+        "suggested": 84.01,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Huntsman Knife | Freehand (Battle-Scarred)",
+      "price": {
+        "min": 77.15,
+        "max": 106.42,
+        "mean": 87.49,
+        "median": 78.88,
+        "suggested": 89.17,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Huntsman Knife | Freehand (Factory New)",
+        "price": {
+          "min": 93.88,
+          "max": 242.14,
+          "mean": 145.02,
+          "median": 119.61,
+          "suggested": 116.27,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Huntsman Knife | Freehand (Minimal Wear)",
+        "price": {
+          "min": 81.67,
+          "max": 350.07,
+          "mean": 112.38,
+          "median": 95.89,
+          "suggested": 105.02,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Huntsman Knife | Freehand (Field-Tested)",
+        "price": {
+          "min": 70.46,
+          "max": 230.44,
+          "mean": 102.31,
+          "median": 81.29,
+          "suggested": 90.53,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Huntsman Knife | Freehand (Well-Worn)",
+        "price": {
+          "min": 75.99,
+          "max": 90.69,
+          "mean": 84.16,
+          "median": 85.78,
+          "suggested": 84.01,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Huntsman Knife | Freehand (Battle-Scarred)",
+        "price": {
+          "min": 77.15,
+          "max": 106.42,
+          "mean": 87.49,
+          "median": 78.88,
+          "suggested": 89.17,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Huntsman Knife | Freehand (Factory New)",
+        "price": {
+          "min": 108.4,
+          "max": 149.57,
+          "mean": 125.36,
+          "median": 118.71,
+          "suggested": 131.9,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Huntsman Knife | Freehand (Minimal Wear)",
+        "price": {
+          "min": 87.52,
+          "max": 113.82,
+          "mean": 96.14,
+          "median": 91.6,
+          "suggested": 110.36,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Huntsman Knife | Freehand (Field-Tested)",
+        "price": {
+          "min": 81.69,
+          "max": 151.4,
+          "mean": 97.84,
+          "median": 86.46,
+          "suggested": 98.65,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Huntsman Knife | Freehand (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Huntsman Knife | Freehand (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:38.753Z"
+}

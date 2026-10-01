@@ -1,0 +1,204 @@
+{
+  "id": "skin-03513562b183",
+  "name": "★ Hand Wraps | Duct Tape",
+  "paint_index": "10055",
+  "weapon": {
+    "id": "leather_handwraps",
+    "weapon_id": 5032,
+    "name": "Hand Wraps",
+    "slug": "leather_handwraps"
+  },
+  "pattern": {
+    "id": "handwrap_leathery_ducttape",
+    "name": "Duct Tape"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_gloves",
+    "name": "Gloves"
+  },
+  "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Preferred by hand-to-hand fighters, these wraps protect the knuckles and stabilize the wrist when punching. These scavenged hand-wraps are surprisingly durable but not especially breathable.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 84.7,
+      "max": 262.01,
+      "mean": 133.72,
+      "median": 108,
+      "suggested": 99.72,
+      "quantity": 18,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 56.09,
+      "max": 175.03,
+      "mean": 67.11,
+      "median": 58.44,
+      "suggested": 67.31,
+      "quantity": 102,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 62.68,
+      "max": 73.69,
+      "mean": 66.64,
+      "median": 66.14,
+      "suggested": 65.01,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 67.68,
+      "max": 100.99,
+      "mean": 85.37,
+      "median": 86.67,
+      "suggested": 64.37,
+      "quantity": 6,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Hand Wraps | Duct Tape (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Hand Wraps | Duct Tape (Minimal Wear)",
+      "price": {
+        "min": 84.7,
+        "max": 262.01,
+        "mean": 133.72,
+        "median": 108,
+        "suggested": 99.72,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Hand Wraps | Duct Tape (Field-Tested)",
+      "price": {
+        "min": 56.09,
+        "max": 175.03,
+        "mean": 67.11,
+        "median": 58.44,
+        "suggested": 67.31,
+        "quantity": 102,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Hand Wraps | Duct Tape (Well-Worn)",
+      "price": {
+        "min": 62.68,
+        "max": 73.69,
+        "mean": 66.64,
+        "median": 66.14,
+        "suggested": 65.01,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Hand Wraps | Duct Tape (Battle-Scarred)",
+      "price": {
+        "min": 67.68,
+        "max": 100.99,
+        "mean": 85.37,
+        "median": 86.67,
+        "suggested": 64.37,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Hand Wraps | Duct Tape (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Hand Wraps | Duct Tape (Minimal Wear)",
+        "price": {
+          "min": 84.7,
+          "max": 262.01,
+          "mean": 133.72,
+          "median": 108,
+          "suggested": 99.72,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Hand Wraps | Duct Tape (Field-Tested)",
+        "price": {
+          "min": 56.09,
+          "max": 175.03,
+          "mean": 67.11,
+          "median": 58.44,
+          "suggested": 67.31,
+          "quantity": 102,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Hand Wraps | Duct Tape (Well-Worn)",
+        "price": {
+          "min": 62.68,
+          "max": 73.69,
+          "mean": 66.64,
+          "median": 66.14,
+          "suggested": 65.01,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Hand Wraps | Duct Tape (Battle-Scarred)",
+        "price": {
+          "min": 67.68,
+          "max": 100.99,
+          "mean": 85.37,
+          "median": 86.67,
+          "suggested": 64.37,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:23.052Z"
+}

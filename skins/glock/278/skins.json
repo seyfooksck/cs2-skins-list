@@ -1,0 +1,310 @@
+{
+  "id": "skin-46fa4ce20e23",
+  "name": "Glock-18 | Blue Fissure",
+  "paint_index": "278",
+  "weapon": {
+    "id": "weapon_glock",
+    "weapon_id": 4,
+    "name": "Glock-18",
+    "slug": "glock"
+  },
+  "pattern": {
+    "id": "hy_craquelure",
+    "name": "Blue Fissure"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0.06,
+  "max_float": 0.58,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. It has been painted using a hydrographic in a craquelure pattern.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 44.82,
+      "max": 110.21,
+      "mean": 68.2,
+      "median": 58.88,
+      "suggested": 48.61,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 7.42,
+      "max": 344.36,
+      "mean": 45.01,
+      "median": 10.65,
+      "suggested": 9.2,
+      "quantity": 42,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 3.86,
+      "max": 436.8,
+      "mean": 57.18,
+      "median": 8.89,
+      "suggested": 2.91,
+      "quantity": 40,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 3.29,
+      "max": 291.73,
+      "mean": 68.72,
+      "median": 4.31,
+      "suggested": 2.83,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 2.73,
+      "max": 425.82,
+      "mean": 58.01,
+      "median": 3.71,
+      "suggested": 2.62,
+      "quantity": 8,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Glock-18 | Blue Fissure (Factory New)",
+      "price": {
+        "min": 44.82,
+        "max": 110.21,
+        "mean": 68.2,
+        "median": 58.88,
+        "suggested": 48.61,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Glock-18 | Blue Fissure (Minimal Wear)",
+      "price": {
+        "min": 7.42,
+        "max": 344.36,
+        "mean": 45.01,
+        "median": 10.65,
+        "suggested": 9.2,
+        "quantity": 42,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Glock-18 | Blue Fissure (Field-Tested)",
+      "price": {
+        "min": 3.86,
+        "max": 436.8,
+        "mean": 57.18,
+        "median": 8.89,
+        "suggested": 2.91,
+        "quantity": 40,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Glock-18 | Blue Fissure (Well-Worn)",
+      "price": {
+        "min": 3.29,
+        "max": 291.73,
+        "mean": 68.72,
+        "median": 4.31,
+        "suggested": 2.83,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Glock-18 | Blue Fissure (Battle-Scarred)",
+      "price": {
+        "min": 2.73,
+        "max": 425.82,
+        "mean": 58.01,
+        "median": 3.71,
+        "suggested": 2.62,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Glock-18 | Blue Fissure (Factory New)",
+        "price": {
+          "min": 44.82,
+          "max": 110.21,
+          "mean": 68.2,
+          "median": 58.88,
+          "suggested": 48.61,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Glock-18 | Blue Fissure (Minimal Wear)",
+        "price": {
+          "min": 7.42,
+          "max": 344.36,
+          "mean": 45.01,
+          "median": 10.65,
+          "suggested": 9.2,
+          "quantity": 42,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Glock-18 | Blue Fissure (Field-Tested)",
+        "price": {
+          "min": 3.86,
+          "max": 436.8,
+          "mean": 57.18,
+          "median": 8.89,
+          "suggested": 2.91,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Glock-18 | Blue Fissure (Well-Worn)",
+        "price": {
+          "min": 3.29,
+          "max": 291.73,
+          "mean": 68.72,
+          "median": 4.31,
+          "suggested": 2.83,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Glock-18 | Blue Fissure (Battle-Scarred)",
+        "price": {
+          "min": 2.73,
+          "max": 425.82,
+          "mean": 58.01,
+          "median": 3.71,
+          "suggested": 2.62,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Glock-18 | Blue Fissure (Factory New)",
+        "price": {
+          "min": 110.78,
+          "max": 119.24,
+          "mean": 113.68,
+          "median": 111.02,
+          "suggested": 86.02,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Glock-18 | Blue Fissure (Minimal Wear)",
+        "price": {
+          "min": 11.28,
+          "max": 291.73,
+          "mean": 85.59,
+          "median": 17.5,
+          "suggested": 13.57,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Glock-18 | Blue Fissure (Field-Tested)",
+        "price": {
+          "min": 4.67,
+          "max": 1517.02,
+          "mean": 127.3,
+          "median": 5.72,
+          "suggested": 5.64,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Glock-18 | Blue Fissure (Well-Worn)",
+        "price": {
+          "min": 4.67,
+          "max": 8.61,
+          "mean": 7.48,
+          "median": 8.16,
+          "suggested": 5.8,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Glock-18 | Blue Fissure (Battle-Scarred)",
+        "price": {
+          "min": 4.39,
+          "max": 137.76,
+          "mean": 20.54,
+          "median": 5.03,
+          "suggested": 5.4,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Glock-18 | Blue Fissure (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Glock-18 | Blue Fissure (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Glock-18 | Blue Fissure (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Glock-18 | Blue Fissure (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Glock-18 | Blue Fissure (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:32.118Z"
+}

@@ -1,0 +1,204 @@
+{
+  "id": "skin-a35568f027a4",
+  "name": "★ Moto Gloves | Finish Line",
+  "paint_index": "10077",
+  "weapon": {
+    "id": "motorcycle_gloves",
+    "weapon_id": 5033,
+    "name": "Moto Gloves",
+    "slug": "motorcycle_gloves"
+  },
+  "pattern": {
+    "id": "motorcycle_checker_flag_blue_green",
+    "name": "Finish Line"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_gloves",
+    "name": "Gloves"
+  },
+  "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "These bulky hard knuckled gloves can protect the wearers hands from road rash at 60 mph.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 185.96,
+      "max": 665.91,
+      "mean": 292.96,
+      "median": 234.18,
+      "suggested": 250.86,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 102.98,
+      "max": 350.07,
+      "mean": 143.29,
+      "median": 137.76,
+      "suggested": 126.54,
+      "quantity": 54,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 75.76,
+      "max": 233.39,
+      "mean": 101.85,
+      "median": 94.97,
+      "suggested": 101.4,
+      "quantity": 18,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 59.99,
+      "max": 151.69,
+      "mean": 83.32,
+      "median": 81.69,
+      "suggested": 81.22,
+      "quantity": 15,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Moto Gloves | Finish Line (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Moto Gloves | Finish Line (Minimal Wear)",
+      "price": {
+        "min": 185.96,
+        "max": 665.91,
+        "mean": 292.96,
+        "median": 234.18,
+        "suggested": 250.86,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Moto Gloves | Finish Line (Field-Tested)",
+      "price": {
+        "min": 102.98,
+        "max": 350.07,
+        "mean": 143.29,
+        "median": 137.76,
+        "suggested": 126.54,
+        "quantity": 54,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Moto Gloves | Finish Line (Well-Worn)",
+      "price": {
+        "min": 75.76,
+        "max": 233.39,
+        "mean": 101.85,
+        "median": 94.97,
+        "suggested": 101.4,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Moto Gloves | Finish Line (Battle-Scarred)",
+      "price": {
+        "min": 59.99,
+        "max": 151.69,
+        "mean": 83.32,
+        "median": 81.69,
+        "suggested": 81.22,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Moto Gloves | Finish Line (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Moto Gloves | Finish Line (Minimal Wear)",
+        "price": {
+          "min": 185.96,
+          "max": 665.91,
+          "mean": 292.96,
+          "median": 234.18,
+          "suggested": 250.86,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Moto Gloves | Finish Line (Field-Tested)",
+        "price": {
+          "min": 102.98,
+          "max": 350.07,
+          "mean": 143.29,
+          "median": 137.76,
+          "suggested": 126.54,
+          "quantity": 54,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Moto Gloves | Finish Line (Well-Worn)",
+        "price": {
+          "min": 75.76,
+          "max": 233.39,
+          "mean": 101.85,
+          "median": 94.97,
+          "suggested": 101.4,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Moto Gloves | Finish Line (Battle-Scarred)",
+        "price": {
+          "min": 59.99,
+          "max": 151.69,
+          "mean": 83.32,
+          "median": 81.69,
+          "suggested": 81.22,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:23.195Z"
+}

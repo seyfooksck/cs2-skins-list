@@ -1,0 +1,249 @@
+{
+  "id": "skin-4214342c6e7b",
+  "name": "SSG 08 | Spring Twilly",
+  "paint_index": "1060",
+  "weapon": {
+    "id": "weapon_ssg08",
+    "weapon_id": 40,
+    "name": "SSG 08",
+    "slug": "ssg08"
+  },
+  "pattern": {
+    "id": "hy_trainarchitect_green",
+    "name": "Spring Twilly"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.55,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship. A black and green hydrographic pattern of assorted designs has been applied.\\n\\n<i>Last chance; train's leaving the station</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 9.32,
+      "max": 95.88,
+      "mean": 19.3,
+      "median": 16.34,
+      "suggested": 12.12,
+      "quantity": 56,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 3.07,
+      "max": 17.5,
+      "mean": 5.54,
+      "median": 4.54,
+      "suggested": 3.87,
+      "quantity": 44,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.93,
+      "max": 17.5,
+      "mean": 4.32,
+      "median": 5.18,
+      "suggested": 2.65,
+      "quantity": 144,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.91,
+      "max": 21,
+      "mean": 4.66,
+      "median": 2.56,
+      "suggested": 2.5,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.93,
+      "max": 2.52,
+      "mean": 2.23,
+      "median": 2.19,
+      "suggested": 2.36,
+      "quantity": 14,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SSG 08 | Spring Twilly (Factory New)",
+      "price": {
+        "min": 9.32,
+        "max": 95.88,
+        "mean": 19.3,
+        "median": 16.34,
+        "suggested": 12.12,
+        "quantity": 56,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SSG 08 | Spring Twilly (Minimal Wear)",
+      "price": {
+        "min": 3.07,
+        "max": 17.5,
+        "mean": 5.54,
+        "median": 4.54,
+        "suggested": 3.87,
+        "quantity": 44,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "SSG 08 | Spring Twilly (Field-Tested)",
+      "price": {
+        "min": 1.93,
+        "max": 17.5,
+        "mean": 4.32,
+        "median": 5.18,
+        "suggested": 2.65,
+        "quantity": 144,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "SSG 08 | Spring Twilly (Well-Worn)",
+      "price": {
+        "min": 1.91,
+        "max": 21,
+        "mean": 4.66,
+        "median": 2.56,
+        "suggested": 2.5,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "SSG 08 | Spring Twilly (Battle-Scarred)",
+      "price": {
+        "min": 1.93,
+        "max": 2.52,
+        "mean": 2.23,
+        "median": 2.19,
+        "suggested": 2.36,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SSG 08 | Spring Twilly (Factory New)",
+        "price": {
+          "min": 9.32,
+          "max": 95.88,
+          "mean": 19.3,
+          "median": 16.34,
+          "suggested": 12.12,
+          "quantity": 56,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "SSG 08 | Spring Twilly (Minimal Wear)",
+        "price": {
+          "min": 3.07,
+          "max": 17.5,
+          "mean": 5.54,
+          "median": 4.54,
+          "suggested": 3.87,
+          "quantity": 44,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "SSG 08 | Spring Twilly (Field-Tested)",
+        "price": {
+          "min": 1.93,
+          "max": 17.5,
+          "mean": 4.32,
+          "median": 5.18,
+          "suggested": 2.65,
+          "quantity": 144,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "SSG 08 | Spring Twilly (Well-Worn)",
+        "price": {
+          "min": 1.91,
+          "max": 21,
+          "mean": 4.66,
+          "median": 2.56,
+          "suggested": 2.5,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "SSG 08 | Spring Twilly (Battle-Scarred)",
+        "price": {
+          "min": 1.93,
+          "max": 2.52,
+          "mean": 2.23,
+          "median": 2.19,
+          "suggested": 2.36,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SSG 08 | Spring Twilly (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir SSG 08 | Spring Twilly (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir SSG 08 | Spring Twilly (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir SSG 08 | Spring Twilly (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir SSG 08 | Spring Twilly (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:48.669Z"
+}

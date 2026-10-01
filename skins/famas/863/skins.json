@@ -1,0 +1,249 @@
+{
+  "id": "skin-c89faba1f03b",
+  "name": "FAMAS | Night Borre",
+  "paint_index": "863",
+  "weapon": {
+    "id": "weapon_famas",
+    "weapon_id": 10,
+    "name": "FAMAS",
+    "slug": "famas"
+  },
+  "pattern": {
+    "id": "sp_knots_blue",
+    "name": "Night Borre"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 0.55,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. It has been spray-painted with a Norse inspired pattern of interlocking blue rings.\\n\\n<i>\\\"It is better to fight and fall than to live without hope\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 23.34,
+      "max": 93.35,
+      "mean": 44.85,
+      "median": 32.67,
+      "suggested": 31.65,
+      "quantity": 31,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 8.38,
+      "max": 93.35,
+      "mean": 21.79,
+      "median": 13.43,
+      "suggested": 10.15,
+      "quantity": 40,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 5.83,
+      "max": 116.69,
+      "mean": 13.56,
+      "median": 10.83,
+      "suggested": 8.48,
+      "quantity": 47,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 10.42,
+      "max": 10.42,
+      "mean": 10.42,
+      "median": 10.42,
+      "suggested": 9.84,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 8.54,
+      "max": 8.54,
+      "mean": 8.54,
+      "median": 8.54,
+      "suggested": 9.59,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "FAMAS | Night Borre (Factory New)",
+      "price": {
+        "min": 23.34,
+        "max": 93.35,
+        "mean": 44.85,
+        "median": 32.67,
+        "suggested": 31.65,
+        "quantity": 31,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "FAMAS | Night Borre (Minimal Wear)",
+      "price": {
+        "min": 8.38,
+        "max": 93.35,
+        "mean": 21.79,
+        "median": 13.43,
+        "suggested": 10.15,
+        "quantity": 40,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "FAMAS | Night Borre (Field-Tested)",
+      "price": {
+        "min": 5.83,
+        "max": 116.69,
+        "mean": 13.56,
+        "median": 10.83,
+        "suggested": 8.48,
+        "quantity": 47,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "FAMAS | Night Borre (Well-Worn)",
+      "price": {
+        "min": 10.42,
+        "max": 10.42,
+        "mean": 10.42,
+        "median": 10.42,
+        "suggested": 9.84,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "FAMAS | Night Borre (Battle-Scarred)",
+      "price": {
+        "min": 8.54,
+        "max": 8.54,
+        "mean": 8.54,
+        "median": 8.54,
+        "suggested": 9.59,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "FAMAS | Night Borre (Factory New)",
+        "price": {
+          "min": 23.34,
+          "max": 93.35,
+          "mean": 44.85,
+          "median": 32.67,
+          "suggested": 31.65,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "FAMAS | Night Borre (Minimal Wear)",
+        "price": {
+          "min": 8.38,
+          "max": 93.35,
+          "mean": 21.79,
+          "median": 13.43,
+          "suggested": 10.15,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "FAMAS | Night Borre (Field-Tested)",
+        "price": {
+          "min": 5.83,
+          "max": 116.69,
+          "mean": 13.56,
+          "median": 10.83,
+          "suggested": 8.48,
+          "quantity": 47,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "FAMAS | Night Borre (Well-Worn)",
+        "price": {
+          "min": 10.42,
+          "max": 10.42,
+          "mean": 10.42,
+          "median": 10.42,
+          "suggested": 9.84,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "FAMAS | Night Borre (Battle-Scarred)",
+        "price": {
+          "min": 8.54,
+          "max": 8.54,
+          "mean": 8.54,
+          "median": 8.54,
+          "suggested": 9.59,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir FAMAS | Night Borre (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir FAMAS | Night Borre (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir FAMAS | Night Borre (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir FAMAS | Night Borre (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir FAMAS | Night Borre (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:29.793Z"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "skin-78ea15f33e22",
+  "name": "MAG-7 | Resupply",
+  "paint_index": "1188",
+  "weapon": {
+    "id": "weapon_mag7",
+    "weapon_id": 27,
+    "name": "MAG-7",
+    "slug": "mag7"
+  },
+  "pattern": {
+    "id": "mag7_ammo_box",
+    "name": "Resupply"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The CT-exclusive Mag-7 delivers a devastating amount of damage at close range. Its rapid magazine-style reloads make it a great tactical choice. It has been custom painted to resemble an ammunition box.\\n\\n<i>Keep the receipt</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.86,
+      "max": 49.59,
+      "mean": 2.84,
+      "median": 1.38,
+      "suggested": 1.18,
+      "quantity": 71,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.16,
+      "max": 4.04,
+      "mean": 0.26,
+      "median": 0.22,
+      "suggested": 0.25,
+      "quantity": 283,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.07,
+      "max": 4.8,
+      "mean": 0.18,
+      "median": 0.09,
+      "suggested": 0.12,
+      "quantity": 662,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.07,
+      "max": 4.67,
+      "mean": 0.15,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 594,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.06,
+      "max": 6.18,
+      "mean": 0.13,
+      "median": 0.09,
+      "suggested": 0.09,
+      "quantity": 451,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAG-7 | Resupply (Factory New)",
+      "price": {
+        "min": 0.86,
+        "max": 49.59,
+        "mean": 2.84,
+        "median": 1.38,
+        "suggested": 1.18,
+        "quantity": 71,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAG-7 | Resupply (Minimal Wear)",
+      "price": {
+        "min": 0.16,
+        "max": 4.04,
+        "mean": 0.26,
+        "median": 0.22,
+        "suggested": 0.25,
+        "quantity": 283,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAG-7 | Resupply (Field-Tested)",
+      "price": {
+        "min": 0.07,
+        "max": 4.8,
+        "mean": 0.18,
+        "median": 0.09,
+        "suggested": 0.12,
+        "quantity": 662,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAG-7 | Resupply (Well-Worn)",
+      "price": {
+        "min": 0.07,
+        "max": 4.67,
+        "mean": 0.15,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 594,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAG-7 | Resupply (Battle-Scarred)",
+      "price": {
+        "min": 0.06,
+        "max": 6.18,
+        "mean": 0.13,
+        "median": 0.09,
+        "suggested": 0.09,
+        "quantity": 451,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAG-7 | Resupply (Factory New)",
+        "price": {
+          "min": 0.86,
+          "max": 49.59,
+          "mean": 2.84,
+          "median": 1.38,
+          "suggested": 1.18,
+          "quantity": 71,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAG-7 | Resupply (Minimal Wear)",
+        "price": {
+          "min": 0.16,
+          "max": 4.04,
+          "mean": 0.26,
+          "median": 0.22,
+          "suggested": 0.25,
+          "quantity": 283,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAG-7 | Resupply (Field-Tested)",
+        "price": {
+          "min": 0.07,
+          "max": 4.8,
+          "mean": 0.18,
+          "median": 0.09,
+          "suggested": 0.12,
+          "quantity": 662,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAG-7 | Resupply (Well-Worn)",
+        "price": {
+          "min": 0.07,
+          "max": 4.67,
+          "mean": 0.15,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 594,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MAG-7 | Resupply (Battle-Scarred)",
+        "price": {
+          "min": 0.06,
+          "max": 6.18,
+          "mean": 0.13,
+          "median": 0.09,
+          "suggested": 0.09,
+          "quantity": 451,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MAG-7 | Resupply (Factory New)",
+        "price": {
+          "min": 1.05,
+          "max": 20.64,
+          "mean": 3.07,
+          "median": 2.03,
+          "suggested": 1.19,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MAG-7 | Resupply (Minimal Wear)",
+        "price": {
+          "min": 0.21,
+          "max": 10.78,
+          "mean": 0.41,
+          "median": 0.27,
+          "suggested": 0.28,
+          "quantity": 175,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MAG-7 | Resupply (Field-Tested)",
+        "price": {
+          "min": 0.07,
+          "max": 5.83,
+          "mean": 0.47,
+          "median": 0.13,
+          "suggested": 0.1,
+          "quantity": 226,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MAG-7 | Resupply (Well-Worn)",
+        "price": {
+          "min": 0.07,
+          "max": 4.8,
+          "mean": 0.16,
+          "median": 0.11,
+          "suggested": 0.09,
+          "quantity": 188,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MAG-7 | Resupply (Battle-Scarred)",
+        "price": {
+          "min": 0.07,
+          "max": 0.23,
+          "mean": 0.11,
+          "median": 0.11,
+          "suggested": 0.1,
+          "quantity": 123,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAG-7 | Resupply (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAG-7 | Resupply (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAG-7 | Resupply (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAG-7 | Resupply (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAG-7 | Resupply (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.484Z"
+}

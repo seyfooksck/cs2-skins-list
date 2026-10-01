@@ -1,0 +1,228 @@
+{
+  "id": "skin-fb73d424e4dd",
+  "name": "★ Hydra Gloves | Rattler",
+  "paint_index": "10059",
+  "weapon": {
+    "id": "studded_hydra_gloves",
+    "weapon_id": 5035,
+    "name": "Hydra Gloves",
+    "slug": "studded_hydra_gloves"
+  },
+  "pattern": {
+    "id": "bloodhound_hydra_snakeskin_brass",
+    "name": "Rattler"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_gloves",
+    "name": "Gloves"
+  },
+  "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "These fingerless gloves have been decorated with metal studs and the Operation Hydra logo. It was crafted from a mix of leather, snakeskin, and brass.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 190.39,
+      "max": 198.95,
+      "mean": 194.67,
+      "median": 194.67,
+      "suggested": 227.23,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 43.74,
+      "max": 83.34,
+      "mean": 56.78,
+      "median": 48.94,
+      "suggested": 54.75,
+      "quantity": 13,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 36.55,
+      "max": 99.19,
+      "mean": 46.39,
+      "median": 39.33,
+      "suggested": 42.56,
+      "quantity": 37,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 37.59,
+      "max": 81.63,
+      "mean": 47.46,
+      "median": 38.92,
+      "suggested": 42.64,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 36.5,
+      "max": 44.34,
+      "mean": 39.7,
+      "median": 38.26,
+      "suggested": 42.02,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Hydra Gloves | Rattler (Factory New)",
+      "price": {
+        "min": 190.39,
+        "max": 198.95,
+        "mean": 194.67,
+        "median": 194.67,
+        "suggested": 227.23,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Hydra Gloves | Rattler (Minimal Wear)",
+      "price": {
+        "min": 43.74,
+        "max": 83.34,
+        "mean": 56.78,
+        "median": 48.94,
+        "suggested": 54.75,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Hydra Gloves | Rattler (Field-Tested)",
+      "price": {
+        "min": 36.55,
+        "max": 99.19,
+        "mean": 46.39,
+        "median": 39.33,
+        "suggested": 42.56,
+        "quantity": 37,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Hydra Gloves | Rattler (Well-Worn)",
+      "price": {
+        "min": 37.59,
+        "max": 81.63,
+        "mean": 47.46,
+        "median": 38.92,
+        "suggested": 42.64,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Hydra Gloves | Rattler (Battle-Scarred)",
+      "price": {
+        "min": 36.5,
+        "max": 44.34,
+        "mean": 39.7,
+        "median": 38.26,
+        "suggested": 42.02,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Hydra Gloves | Rattler (Factory New)",
+        "price": {
+          "min": 190.39,
+          "max": 198.95,
+          "mean": 194.67,
+          "median": 194.67,
+          "suggested": 227.23,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Hydra Gloves | Rattler (Minimal Wear)",
+        "price": {
+          "min": 43.74,
+          "max": 83.34,
+          "mean": 56.78,
+          "median": 48.94,
+          "suggested": 54.75,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Hydra Gloves | Rattler (Field-Tested)",
+        "price": {
+          "min": 36.55,
+          "max": 99.19,
+          "mean": 46.39,
+          "median": 39.33,
+          "suggested": 42.56,
+          "quantity": 37,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Hydra Gloves | Rattler (Well-Worn)",
+        "price": {
+          "min": 37.59,
+          "max": 81.63,
+          "mean": 47.46,
+          "median": 38.92,
+          "suggested": 42.64,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Hydra Gloves | Rattler (Battle-Scarred)",
+        "price": {
+          "min": 36.5,
+          "max": 44.34,
+          "mean": 39.7,
+          "median": 38.26,
+          "suggested": 42.02,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:24.302Z"
+}

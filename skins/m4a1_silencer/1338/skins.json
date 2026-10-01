@@ -1,0 +1,249 @@
+{
+  "id": "skin-fc8f37597f72",
+  "name": "M4A1-S | Solitude",
+  "paint_index": "1338",
+  "weapon": {
+    "id": "weapon_m4a1_silencer",
+    "weapon_id": 60,
+    "name": "M4A1-S",
+    "slug": "m4a1_silencer"
+  },
+  "pattern": {
+    "id": "soch_mountains_m4a1s",
+    "name": "Solitude"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. A mountain terrain pattern has been applied.\\n\\n<i>Being alone is a privilege, not a burden</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 20.91,
+      "max": 2785.23,
+      "mean": 194.98,
+      "median": 58.35,
+      "suggested": 29.43,
+      "quantity": 215,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 5.23,
+      "max": 460.87,
+      "mean": 26.5,
+      "median": 10.16,
+      "suggested": 6.7,
+      "quantity": 550,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.84,
+      "max": 1828.1,
+      "mean": 15.43,
+      "median": 4.29,
+      "suggested": 2.34,
+      "quantity": 2291,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.93,
+      "max": 187.88,
+      "mean": 18.3,
+      "median": 3.28,
+      "suggested": 2.1,
+      "quantity": 25,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.38,
+      "max": 154.97,
+      "mean": 6.88,
+      "median": 3.05,
+      "suggested": 1.63,
+      "quantity": 192,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A1-S | Solitude (Factory New)",
+      "price": {
+        "min": 20.91,
+        "max": 2785.23,
+        "mean": 194.98,
+        "median": 58.35,
+        "suggested": 29.43,
+        "quantity": 215,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A1-S | Solitude (Minimal Wear)",
+      "price": {
+        "min": 5.23,
+        "max": 460.87,
+        "mean": 26.5,
+        "median": 10.16,
+        "suggested": 6.7,
+        "quantity": 550,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A1-S | Solitude (Field-Tested)",
+      "price": {
+        "min": 1.84,
+        "max": 1828.1,
+        "mean": 15.43,
+        "median": 4.29,
+        "suggested": 2.34,
+        "quantity": 2291,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M4A1-S | Solitude (Well-Worn)",
+      "price": {
+        "min": 1.93,
+        "max": 187.88,
+        "mean": 18.3,
+        "median": 3.28,
+        "suggested": 2.1,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M4A1-S | Solitude (Battle-Scarred)",
+      "price": {
+        "min": 1.38,
+        "max": 154.97,
+        "mean": 6.88,
+        "median": 3.05,
+        "suggested": 1.63,
+        "quantity": 192,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A1-S | Solitude (Factory New)",
+        "price": {
+          "min": 20.91,
+          "max": 2785.23,
+          "mean": 194.98,
+          "median": 58.35,
+          "suggested": 29.43,
+          "quantity": 215,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A1-S | Solitude (Minimal Wear)",
+        "price": {
+          "min": 5.23,
+          "max": 460.87,
+          "mean": 26.5,
+          "median": 10.16,
+          "suggested": 6.7,
+          "quantity": 550,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A1-S | Solitude (Field-Tested)",
+        "price": {
+          "min": 1.84,
+          "max": 1828.1,
+          "mean": 15.43,
+          "median": 4.29,
+          "suggested": 2.34,
+          "quantity": 2291,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M4A1-S | Solitude (Well-Worn)",
+        "price": {
+          "min": 1.93,
+          "max": 187.88,
+          "mean": 18.3,
+          "median": 3.28,
+          "suggested": 2.1,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M4A1-S | Solitude (Battle-Scarred)",
+        "price": {
+          "min": 1.38,
+          "max": 154.97,
+          "mean": 6.88,
+          "median": 3.05,
+          "suggested": 1.63,
+          "quantity": 192,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A1-S | Solitude (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A1-S | Solitude (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A1-S | Solitude (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M4A1-S | Solitude (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M4A1-S | Solitude (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.267Z"
+}

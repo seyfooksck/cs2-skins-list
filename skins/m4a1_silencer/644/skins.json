@@ -1,0 +1,318 @@
+{
+  "id": "skin-7b3af96bd1e4",
+  "name": "M4A1-S | Decimator",
+  "paint_index": "644",
+  "weapon": {
+    "id": "weapon_m4a1_silencer",
+    "weapon_id": 60,
+    "name": "M4A1-S",
+    "slug": "m4a1_silencer"
+  },
+  "pattern": {
+    "id": "gs_m4a1_decimator",
+    "name": "Decimator"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.85,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. It has been custom painted with totally radical blue and pink highlights.\\n\\n<i>Quiet retrofuturism</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 61.45,
+      "max": 910.34,
+      "mean": 119.19,
+      "median": 92.69,
+      "suggested": 81.09,
+      "quantity": 80,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 18.67,
+      "max": 143.38,
+      "mean": 28.89,
+      "median": 23.62,
+      "suggested": 25.63,
+      "quantity": 120,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 12.56,
+      "max": 63.52,
+      "mean": 17.47,
+      "median": 14.87,
+      "suggested": 16.96,
+      "quantity": 236,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 11.49,
+      "max": 86.24,
+      "mean": 18.52,
+      "median": 15.24,
+      "suggested": 15.72,
+      "quantity": 30,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 11.72,
+      "max": 350.08,
+      "mean": 20.22,
+      "median": 13.09,
+      "suggested": 14.83,
+      "quantity": 74,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A1-S | Decimator (Factory New)",
+      "price": {
+        "min": 61.45,
+        "max": 910.34,
+        "mean": 119.19,
+        "median": 92.69,
+        "suggested": 81.09,
+        "quantity": 80,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A1-S | Decimator (Minimal Wear)",
+      "price": {
+        "min": 18.67,
+        "max": 143.38,
+        "mean": 28.89,
+        "median": 23.62,
+        "suggested": 25.63,
+        "quantity": 120,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A1-S | Decimator (Field-Tested)",
+      "price": {
+        "min": 12.56,
+        "max": 63.52,
+        "mean": 17.47,
+        "median": 14.87,
+        "suggested": 16.96,
+        "quantity": 236,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M4A1-S | Decimator (Well-Worn)",
+      "price": {
+        "min": 11.49,
+        "max": 86.24,
+        "mean": 18.52,
+        "median": 15.24,
+        "suggested": 15.72,
+        "quantity": 30,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M4A1-S | Decimator (Battle-Scarred)",
+      "price": {
+        "min": 11.72,
+        "max": 350.08,
+        "mean": 20.22,
+        "median": 13.09,
+        "suggested": 14.83,
+        "quantity": 74,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A1-S | Decimator (Factory New)",
+        "price": {
+          "min": 61.45,
+          "max": 910.34,
+          "mean": 119.19,
+          "median": 92.69,
+          "suggested": 81.09,
+          "quantity": 80,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A1-S | Decimator (Minimal Wear)",
+        "price": {
+          "min": 18.67,
+          "max": 143.38,
+          "mean": 28.89,
+          "median": 23.62,
+          "suggested": 25.63,
+          "quantity": 120,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A1-S | Decimator (Field-Tested)",
+        "price": {
+          "min": 12.56,
+          "max": 63.52,
+          "mean": 17.47,
+          "median": 14.87,
+          "suggested": 16.96,
+          "quantity": 236,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M4A1-S | Decimator (Well-Worn)",
+        "price": {
+          "min": 11.49,
+          "max": 86.24,
+          "mean": 18.52,
+          "median": 15.24,
+          "suggested": 15.72,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M4A1-S | Decimator (Battle-Scarred)",
+        "price": {
+          "min": 11.72,
+          "max": 350.08,
+          "mean": 20.22,
+          "median": 13.09,
+          "suggested": 14.83,
+          "quantity": 74,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ M4A1-S | Decimator (Factory New)",
+        "price": {
+          "min": 86.34,
+          "max": 291.72,
+          "mean": 124.48,
+          "median": 116.87,
+          "suggested": 113.36,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ M4A1-S | Decimator (Minimal Wear)",
+        "price": {
+          "min": 44.53,
+          "max": 93.38,
+          "mean": 61.14,
+          "median": 57.66,
+          "suggested": 59.03,
+          "quantity": 67,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ M4A1-S | Decimator (Field-Tested)",
+        "price": {
+          "min": 27.46,
+          "max": 81.67,
+          "mean": 36.72,
+          "median": 32.66,
+          "suggested": 34.1,
+          "quantity": 61,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ M4A1-S | Decimator (Well-Worn)",
+        "price": {
+          "min": 34.66,
+          "max": 48.77,
+          "mean": 40.5,
+          "median": 39.4,
+          "suggested": 42.92,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ M4A1-S | Decimator (Battle-Scarred)",
+        "price": {
+          "min": 26.31,
+          "max": 53.73,
+          "mean": 33.04,
+          "median": 30.33,
+          "suggested": 33.65,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A1-S | Decimator (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A1-S | Decimator (Minimal Wear)",
+        "price": {
+          "min": 87.52,
+          "max": 87.52,
+          "mean": 87.52,
+          "median": 87.52,
+          "suggested": 75.89,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A1-S | Decimator (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M4A1-S | Decimator (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M4A1-S | Decimator (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:40.956Z"
+}

@@ -1,0 +1,201 @@
+{
+  "id": "skin-24b4ae2fefde",
+  "name": "AUG | Flame Jörmungandr",
+  "paint_index": "758",
+  "weapon": {
+    "id": "weapon_aug",
+    "weapon_id": 8,
+    "name": "AUG",
+    "slug": "aug"
+  },
+  "pattern": {
+    "id": "am_jorm_orange",
+    "name": "Flame Jörmungandr"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire. An orange pattern depicting Jörmungandr, the World Serpent, has been applied.\\n\\n<i>Wake the gods</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 315.07,
+      "max": 860.93,
+      "mean": 476.92,
+      "median": 428.53,
+      "suggested": 465.03,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 421.73,
+      "max": 644.53,
+      "mean": 526.11,
+      "median": 512.08,
+      "suggested": 571.29,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 380.84,
+      "max": 455.09,
+      "mean": 417.97,
+      "median": 417.97,
+      "suggested": 549.45,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AUG | Flame Jörmungandr (Factory New)",
+      "price": {
+        "min": 315.07,
+        "max": 860.93,
+        "mean": 476.92,
+        "median": 428.53,
+        "suggested": 465.03,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AUG | Flame Jörmungandr (Minimal Wear)",
+      "price": {
+        "min": 421.73,
+        "max": 644.53,
+        "mean": 526.11,
+        "median": 512.08,
+        "suggested": 571.29,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AUG | Flame Jörmungandr (Field-Tested)",
+      "price": {
+        "min": 380.84,
+        "max": 455.09,
+        "mean": 417.97,
+        "median": 417.97,
+        "suggested": 549.45,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AUG | Flame Jörmungandr (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AUG | Flame Jörmungandr (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AUG | Flame Jörmungandr (Factory New)",
+        "price": {
+          "min": 315.07,
+          "max": 860.93,
+          "mean": 476.92,
+          "median": 428.53,
+          "suggested": 465.03,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AUG | Flame Jörmungandr (Minimal Wear)",
+        "price": {
+          "min": 421.73,
+          "max": 644.53,
+          "mean": 526.11,
+          "median": 512.08,
+          "suggested": 571.29,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AUG | Flame Jörmungandr (Field-Tested)",
+        "price": {
+          "min": 380.84,
+          "max": 455.09,
+          "mean": 417.97,
+          "median": 417.97,
+          "suggested": 549.45,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AUG | Flame Jörmungandr (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "AUG | Flame Jörmungandr (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AUG | Flame Jörmungandr (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AUG | Flame Jörmungandr (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AUG | Flame Jörmungandr (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AUG | Flame Jörmungandr (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AUG | Flame Jörmungandr (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.240Z"
+}

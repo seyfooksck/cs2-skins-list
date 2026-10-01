@@ -1,0 +1,310 @@
+{
+  "id": "skin-3a61ea6e759f",
+  "name": "Nova | Wood Fired",
+  "paint_index": "809",
+  "weapon": {
+    "id": "weapon_nova",
+    "weapon_id": 35,
+    "name": "Nova",
+    "slug": "nova"
+  },
+  "pattern": {
+    "id": "gs_nova_hunter_brute",
+    "name": "Wood Fired"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.75,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Nova's rock-bottom price tag makes it a great ambush weapon for a cash-strapped team. Its woodgrain base has been painted green and finished with blue accents and burned-in flames.\\n\\n<i>Gone hunting</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.37,
+      "max": 15.17,
+      "mean": 4.45,
+      "median": 2.98,
+      "suggested": 1.04,
+      "quantity": 27,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.6,
+      "max": 18.09,
+      "mean": 2.88,
+      "median": 0.82,
+      "suggested": 0.68,
+      "quantity": 13,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.25,
+      "max": 3.5,
+      "mean": 1,
+      "median": 0.47,
+      "suggested": 0.31,
+      "quantity": 78,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.14,
+      "max": 3.06,
+      "mean": 2.79,
+      "median": 3.06,
+      "suggested": 0.86,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.25,
+      "max": 14.59,
+      "mean": 0.98,
+      "median": 0.34,
+      "suggested": 0.32,
+      "quantity": 46,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Nova | Wood Fired (Factory New)",
+      "price": {
+        "min": 1.37,
+        "max": 15.17,
+        "mean": 4.45,
+        "median": 2.98,
+        "suggested": 1.04,
+        "quantity": 27,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Nova | Wood Fired (Minimal Wear)",
+      "price": {
+        "min": 0.6,
+        "max": 18.09,
+        "mean": 2.88,
+        "median": 0.82,
+        "suggested": 0.68,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Nova | Wood Fired (Field-Tested)",
+      "price": {
+        "min": 0.25,
+        "max": 3.5,
+        "mean": 1,
+        "median": 0.47,
+        "suggested": 0.31,
+        "quantity": 78,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Nova | Wood Fired (Well-Worn)",
+      "price": {
+        "min": 1.14,
+        "max": 3.06,
+        "mean": 2.79,
+        "median": 3.06,
+        "suggested": 0.86,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Nova | Wood Fired (Battle-Scarred)",
+      "price": {
+        "min": 0.25,
+        "max": 14.59,
+        "mean": 0.98,
+        "median": 0.34,
+        "suggested": 0.32,
+        "quantity": 46,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Nova | Wood Fired (Factory New)",
+        "price": {
+          "min": 1.37,
+          "max": 15.17,
+          "mean": 4.45,
+          "median": 2.98,
+          "suggested": 1.04,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Nova | Wood Fired (Minimal Wear)",
+        "price": {
+          "min": 0.6,
+          "max": 18.09,
+          "mean": 2.88,
+          "median": 0.82,
+          "suggested": 0.68,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Nova | Wood Fired (Field-Tested)",
+        "price": {
+          "min": 0.25,
+          "max": 3.5,
+          "mean": 1,
+          "median": 0.47,
+          "suggested": 0.31,
+          "quantity": 78,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Nova | Wood Fired (Well-Worn)",
+        "price": {
+          "min": 1.14,
+          "max": 3.06,
+          "mean": 2.79,
+          "median": 3.06,
+          "suggested": 0.86,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Nova | Wood Fired (Battle-Scarred)",
+        "price": {
+          "min": 0.25,
+          "max": 14.59,
+          "mean": 0.98,
+          "median": 0.34,
+          "suggested": 0.32,
+          "quantity": 46,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Nova | Wood Fired (Factory New)",
+        "price": {
+          "min": 3.37,
+          "max": 35.65,
+          "mean": 10.6,
+          "median": 5.83,
+          "suggested": 1.04,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Nova | Wood Fired (Minimal Wear)",
+        "price": {
+          "min": 0.56,
+          "max": 2.1,
+          "mean": 0.95,
+          "median": 0.82,
+          "suggested": 0.65,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Nova | Wood Fired (Field-Tested)",
+        "price": {
+          "min": 0.23,
+          "max": 9.34,
+          "mean": 1.16,
+          "median": 0.46,
+          "suggested": 0.35,
+          "quantity": 45,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Nova | Wood Fired (Well-Worn)",
+        "price": {
+          "min": 11.67,
+          "max": 17.14,
+          "mean": 13.62,
+          "median": 13.15,
+          "suggested": 16.97,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Nova | Wood Fired (Battle-Scarred)",
+        "price": {
+          "min": 0.19,
+          "max": 0.86,
+          "mean": 0.36,
+          "median": 0.32,
+          "suggested": 0.29,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Nova | Wood Fired (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Nova | Wood Fired (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Nova | Wood Fired (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Nova | Wood Fired (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Nova | Wood Fired (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.591Z"
+}

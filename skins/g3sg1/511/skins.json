@@ -1,0 +1,250 @@
+{
+  "id": "skin-b0c24d905a01",
+  "name": "G3SG1 | The Executioner",
+  "paint_index": "511",
+  "weapon": {
+    "id": "weapon_g3sg1",
+    "weapon_id": 11,
+    "name": "G3SG1",
+    "slug": "g3sg1"
+  },
+  "pattern": {
+    "id": "cu_g3sg1_executioner",
+    "name": "The Executioner"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0.14,
+  "max_float": 0.85,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The pricy G3SG1 lowers movement speed considerably but compensates with a higher rate of fire than other sniper rifles. It has been hand painted with a gruesome display of bone.\\n\\n<i>I always take a trophy - Javier Alviso, Fist of the Phoenix</i>",
+  "images": {
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "mw": {
+      "min": 59.22,
+      "max": 180.34,
+      "mean": 94.58,
+      "median": 63.06,
+      "suggested": 69.62,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 9.09,
+      "max": 105.02,
+      "mean": 15.54,
+      "median": 10.47,
+      "suggested": 11.84,
+      "quantity": 62,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 8.33,
+      "max": 13.77,
+      "mean": 9.85,
+      "median": 9.39,
+      "suggested": 9.93,
+      "quantity": 18,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 7.67,
+      "max": 62.24,
+      "mean": 11.39,
+      "median": 8.51,
+      "suggested": 9.16,
+      "quantity": 22,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "G3SG1 | The Executioner (Minimal Wear)",
+      "price": {
+        "min": 59.22,
+        "max": 180.34,
+        "mean": 94.58,
+        "median": 63.06,
+        "suggested": 69.62,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "G3SG1 | The Executioner (Field-Tested)",
+      "price": {
+        "min": 9.09,
+        "max": 105.02,
+        "mean": 15.54,
+        "median": 10.47,
+        "suggested": 11.84,
+        "quantity": 62,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "G3SG1 | The Executioner (Well-Worn)",
+      "price": {
+        "min": 8.33,
+        "max": 13.77,
+        "mean": 9.85,
+        "median": 9.39,
+        "suggested": 9.93,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "G3SG1 | The Executioner (Battle-Scarred)",
+      "price": {
+        "min": 7.67,
+        "max": 62.24,
+        "mean": 11.39,
+        "median": 8.51,
+        "suggested": 9.16,
+        "quantity": 22,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "mw": {
+        "market_hash_name": "G3SG1 | The Executioner (Minimal Wear)",
+        "price": {
+          "min": 59.22,
+          "max": 180.34,
+          "mean": 94.58,
+          "median": 63.06,
+          "suggested": 69.62,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "G3SG1 | The Executioner (Field-Tested)",
+        "price": {
+          "min": 9.09,
+          "max": 105.02,
+          "mean": 15.54,
+          "median": 10.47,
+          "suggested": 11.84,
+          "quantity": 62,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "G3SG1 | The Executioner (Well-Worn)",
+        "price": {
+          "min": 8.33,
+          "max": 13.77,
+          "mean": 9.85,
+          "median": 9.39,
+          "suggested": 9.93,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "G3SG1 | The Executioner (Battle-Scarred)",
+        "price": {
+          "min": 7.67,
+          "max": 62.24,
+          "mean": 11.39,
+          "median": 8.51,
+          "suggested": 9.16,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "mw": {
+        "market_hash_name": "StatTrak™ G3SG1 | The Executioner (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ G3SG1 | The Executioner (Field-Tested)",
+        "price": {
+          "min": 8.15,
+          "max": 253.2,
+          "mean": 57.95,
+          "median": 21.59,
+          "suggested": 9.39,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ G3SG1 | The Executioner (Well-Worn)",
+        "price": {
+          "min": 7.62,
+          "max": 7.99,
+          "mean": 7.81,
+          "median": 7.8,
+          "suggested": 9.69,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ G3SG1 | The Executioner (Battle-Scarred)",
+        "price": {
+          "min": 7.63,
+          "max": 12.17,
+          "mean": 9.64,
+          "median": 10.08,
+          "suggested": 9.04,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "mw": {
+        "market_hash_name": "Souvenir G3SG1 | The Executioner (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir G3SG1 | The Executioner (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir G3SG1 | The Executioner (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir G3SG1 | The Executioner (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:30.501Z"
+}

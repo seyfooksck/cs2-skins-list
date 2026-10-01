@@ -1,0 +1,310 @@
+{
+  "id": "skin-7e9cf6e60b9f",
+  "name": "P90 | Freight",
+  "paint_index": "969",
+  "weapon": {
+    "id": "weapon_p90",
+    "weapon_id": 19,
+    "name": "P90",
+    "slug": "p90"
+  },
+  "pattern": {
+    "id": "gs_p90_container",
+    "name": "Freight"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. Its custom paint job resembles a train car covered in graffiti.\\n\\n<i>Art is not vandalism</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.95,
+      "max": 35.01,
+      "mean": 4.7,
+      "median": 1.31,
+      "suggested": 1.19,
+      "quantity": 65,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.15,
+      "max": 10.5,
+      "mean": 0.36,
+      "median": 0.23,
+      "suggested": 0.23,
+      "quantity": 394,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.07,
+      "max": 4.67,
+      "mean": 0.16,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 1006,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.07,
+      "max": 4.68,
+      "mean": 0.13,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 770,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.06,
+      "max": 5.25,
+      "mean": 0.21,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 530,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P90 | Freight (Factory New)",
+      "price": {
+        "min": 0.95,
+        "max": 35.01,
+        "mean": 4.7,
+        "median": 1.31,
+        "suggested": 1.19,
+        "quantity": 65,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P90 | Freight (Minimal Wear)",
+      "price": {
+        "min": 0.15,
+        "max": 10.5,
+        "mean": 0.36,
+        "median": 0.23,
+        "suggested": 0.23,
+        "quantity": 394,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P90 | Freight (Field-Tested)",
+      "price": {
+        "min": 0.07,
+        "max": 4.67,
+        "mean": 0.16,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 1006,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P90 | Freight (Well-Worn)",
+      "price": {
+        "min": 0.07,
+        "max": 4.68,
+        "mean": 0.13,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 770,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P90 | Freight (Battle-Scarred)",
+      "price": {
+        "min": 0.06,
+        "max": 5.25,
+        "mean": 0.21,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 530,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P90 | Freight (Factory New)",
+        "price": {
+          "min": 0.95,
+          "max": 35.01,
+          "mean": 4.7,
+          "median": 1.31,
+          "suggested": 1.19,
+          "quantity": 65,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P90 | Freight (Minimal Wear)",
+        "price": {
+          "min": 0.15,
+          "max": 10.5,
+          "mean": 0.36,
+          "median": 0.23,
+          "suggested": 0.23,
+          "quantity": 394,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P90 | Freight (Field-Tested)",
+        "price": {
+          "min": 0.07,
+          "max": 4.67,
+          "mean": 0.16,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 1006,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P90 | Freight (Well-Worn)",
+        "price": {
+          "min": 0.07,
+          "max": 4.68,
+          "mean": 0.13,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 770,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P90 | Freight (Battle-Scarred)",
+        "price": {
+          "min": 0.06,
+          "max": 5.25,
+          "mean": 0.21,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 530,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P90 | Freight (Factory New)",
+        "price": {
+          "min": 0.95,
+          "max": 18.03,
+          "mean": 3.26,
+          "median": 2.23,
+          "suggested": 1.19,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P90 | Freight (Minimal Wear)",
+        "price": {
+          "min": 0.26,
+          "max": 16.92,
+          "mean": 1.1,
+          "median": 0.39,
+          "suggested": 0.3,
+          "quantity": 35,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P90 | Freight (Field-Tested)",
+        "price": {
+          "min": 0.09,
+          "max": 6.42,
+          "mean": 0.19,
+          "median": 0.13,
+          "suggested": 0.12,
+          "quantity": 358,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ P90 | Freight (Well-Worn)",
+        "price": {
+          "min": 0.08,
+          "max": 3.12,
+          "mean": 0.15,
+          "median": 0.12,
+          "suggested": 0.1,
+          "quantity": 245,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ P90 | Freight (Battle-Scarred)",
+        "price": {
+          "min": 0.08,
+          "max": 7,
+          "mean": 0.36,
+          "median": 0.12,
+          "suggested": 0.1,
+          "quantity": 184,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P90 | Freight (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P90 | Freight (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P90 | Freight (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P90 | Freight (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P90 | Freight (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:46.065Z"
+}

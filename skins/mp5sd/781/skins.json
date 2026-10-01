@@ -1,0 +1,289 @@
+{
+  "id": "skin-1a3115020d99",
+  "name": "MP5-SD | Co-Processor",
+  "paint_index": "781",
+  "weapon": {
+    "id": "weapon_mp5sd",
+    "weapon_id": 23,
+    "name": "MP5-SD",
+    "slug": "mp5sd"
+  },
+  "pattern": {
+    "id": "am_circuitboard_aqua",
+    "name": "Co-Processor"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. A blue circuit board pattern been applied.\\n\\n<i>Silently supplementing</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 3.07,
+      "max": 33.72,
+      "mean": 6.83,
+      "median": 3.79,
+      "suggested": 3.7,
+      "quantity": 53,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.72,
+      "max": 4.94,
+      "mean": 1.46,
+      "median": 0.88,
+      "suggested": 0.73,
+      "quantity": 23,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.18,
+      "max": 5.97,
+      "mean": 0.7,
+      "median": 0.27,
+      "suggested": 0.24,
+      "quantity": 54,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.18,
+      "max": 10.5,
+      "mean": 1.52,
+      "median": 0.25,
+      "suggested": 0.23,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.2,
+      "max": 0.3,
+      "mean": 0.26,
+      "median": 0.27,
+      "suggested": 0.24,
+      "quantity": 4,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP5-SD | Co-Processor (Factory New)",
+      "price": {
+        "min": 3.07,
+        "max": 33.72,
+        "mean": 6.83,
+        "median": 3.79,
+        "suggested": 3.7,
+        "quantity": 53,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP5-SD | Co-Processor (Minimal Wear)",
+      "price": {
+        "min": 0.72,
+        "max": 4.94,
+        "mean": 1.46,
+        "median": 0.88,
+        "suggested": 0.73,
+        "quantity": 23,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP5-SD | Co-Processor (Field-Tested)",
+      "price": {
+        "min": 0.18,
+        "max": 5.97,
+        "mean": 0.7,
+        "median": 0.27,
+        "suggested": 0.24,
+        "quantity": 54,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP5-SD | Co-Processor (Well-Worn)",
+      "price": {
+        "min": 0.18,
+        "max": 10.5,
+        "mean": 1.52,
+        "median": 0.25,
+        "suggested": 0.23,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP5-SD | Co-Processor (Battle-Scarred)",
+      "price": {
+        "min": 0.2,
+        "max": 0.3,
+        "mean": 0.26,
+        "median": 0.27,
+        "suggested": 0.24,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP5-SD | Co-Processor (Factory New)",
+        "price": {
+          "min": 3.07,
+          "max": 33.72,
+          "mean": 6.83,
+          "median": 3.79,
+          "suggested": 3.7,
+          "quantity": 53,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP5-SD | Co-Processor (Minimal Wear)",
+        "price": {
+          "min": 0.72,
+          "max": 4.94,
+          "mean": 1.46,
+          "median": 0.88,
+          "suggested": 0.73,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP5-SD | Co-Processor (Field-Tested)",
+        "price": {
+          "min": 0.18,
+          "max": 5.97,
+          "mean": 0.7,
+          "median": 0.27,
+          "suggested": 0.24,
+          "quantity": 54,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP5-SD | Co-Processor (Well-Worn)",
+        "price": {
+          "min": 0.18,
+          "max": 10.5,
+          "mean": 1.52,
+          "median": 0.25,
+          "suggested": 0.23,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP5-SD | Co-Processor (Battle-Scarred)",
+        "price": {
+          "min": 0.2,
+          "max": 0.3,
+          "mean": 0.26,
+          "median": 0.27,
+          "suggested": 0.24,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP5-SD | Co-Processor (Factory New)",
+        "price": {
+          "min": 3.47,
+          "max": 68.53,
+          "mean": 14.68,
+          "median": 7.76,
+          "suggested": 4.05,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP5-SD | Co-Processor (Minimal Wear)",
+        "price": {
+          "min": 1.81,
+          "max": 17.5,
+          "mean": 6.94,
+          "median": 4.08,
+          "suggested": 1.86,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP5-SD | Co-Processor (Field-Tested)",
+        "price": {
+          "min": 0.71,
+          "max": 1.4,
+          "mean": 0.95,
+          "median": 0.72,
+          "suggested": 0.58,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP5-SD | Co-Processor (Well-Worn)",
+        "price": {
+          "min": 2.8,
+          "max": 2.8,
+          "mean": 2.8,
+          "median": 2.8,
+          "suggested": 3.26,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP5-SD | Co-Processor (Battle-Scarred)",
+        "price": {
+          "min": 5.83,
+          "max": 5.83,
+          "mean": 5.83,
+          "median": 5.83,
+          "suggested": 2.79,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.636Z"
+}

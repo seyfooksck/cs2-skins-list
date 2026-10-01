@@ -1,0 +1,201 @@
+{
+  "id": "skin-ee24d57e2f5d",
+  "name": "Nova | Baroque Orange",
+  "paint_index": "746",
+  "weapon": {
+    "id": "weapon_nova",
+    "weapon_id": 35,
+    "name": "Nova",
+    "slug": "nova"
+  },
+  "pattern": {
+    "id": "am_veneto2",
+    "name": "Baroque Orange"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Nova's rock-bottom price tag makes it a great ambush weapon for a cash-strapped team. An intricate, Italian inspired red and gold pattern has been applied.\\n\\n<i>Last Supper is served</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 143.03,
+      "max": 399.48,
+      "mean": 229.61,
+      "median": 183.33,
+      "suggested": 173.43,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 126.24,
+      "max": 126.24,
+      "mean": 126.24,
+      "median": 126.24,
+      "suggested": 130.44,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 84.12,
+      "max": 134.29,
+      "mean": 100.24,
+      "median": 91.28,
+      "suggested": 114.17,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Nova | Baroque Orange (Factory New)",
+      "price": {
+        "min": 143.03,
+        "max": 399.48,
+        "mean": 229.61,
+        "median": 183.33,
+        "suggested": 173.43,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Nova | Baroque Orange (Minimal Wear)",
+      "price": {
+        "min": 126.24,
+        "max": 126.24,
+        "mean": 126.24,
+        "median": 126.24,
+        "suggested": 130.44,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Nova | Baroque Orange (Field-Tested)",
+      "price": {
+        "min": 84.12,
+        "max": 134.29,
+        "mean": 100.24,
+        "median": 91.28,
+        "suggested": 114.17,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Nova | Baroque Orange (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Nova | Baroque Orange (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Nova | Baroque Orange (Factory New)",
+        "price": {
+          "min": 143.03,
+          "max": 399.48,
+          "mean": 229.61,
+          "median": 183.33,
+          "suggested": 173.43,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Nova | Baroque Orange (Minimal Wear)",
+        "price": {
+          "min": 126.24,
+          "max": 126.24,
+          "mean": 126.24,
+          "median": 126.24,
+          "suggested": 130.44,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Nova | Baroque Orange (Field-Tested)",
+        "price": {
+          "min": 84.12,
+          "max": 134.29,
+          "mean": 100.24,
+          "median": 91.28,
+          "suggested": 114.17,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Nova | Baroque Orange (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Nova | Baroque Orange (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Nova | Baroque Orange (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Nova | Baroque Orange (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Nova | Baroque Orange (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Nova | Baroque Orange (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Nova | Baroque Orange (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.404Z"
+}

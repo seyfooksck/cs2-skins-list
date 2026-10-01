@@ -1,0 +1,145 @@
+{
+  "id": "skin-a301441ae084",
+  "name": "PP-Bizon | Carbon Fiber",
+  "paint_index": "70",
+  "weapon": {
+    "id": "weapon_bizon",
+    "weapon_id": 26,
+    "name": "PP-Bizon",
+    "slug": "bizon"
+  },
+  "pattern": {
+    "id": "am_carbon_fiber",
+    "name": "Carbon Fiber"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.12,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly. It has been painted using a carbon fiber hydrographic over a graphite base coat.\\n\\n<i>Just because I carried my team doesn't mean it wasn't a team effort - Rona Sabri, Rising Star</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 7.22,
+      "max": 63.71,
+      "mean": 27.47,
+      "median": 23.34,
+      "suggested": 6.07,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 6.39,
+      "max": 7.36,
+      "mean": 6.88,
+      "median": 6.9,
+      "suggested": 6.07,
+      "quantity": 4,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "PP-Bizon | Carbon Fiber (Factory New)",
+      "price": {
+        "min": 7.22,
+        "max": 63.71,
+        "mean": 27.47,
+        "median": 23.34,
+        "suggested": 6.07,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "PP-Bizon | Carbon Fiber (Minimal Wear)",
+      "price": {
+        "min": 6.39,
+        "max": 7.36,
+        "mean": 6.88,
+        "median": 6.9,
+        "suggested": 6.07,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "PP-Bizon | Carbon Fiber (Factory New)",
+        "price": {
+          "min": 7.22,
+          "max": 63.71,
+          "mean": 27.47,
+          "median": 23.34,
+          "suggested": 6.07,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "PP-Bizon | Carbon Fiber (Minimal Wear)",
+        "price": {
+          "min": 6.39,
+          "max": 7.36,
+          "mean": 6.88,
+          "median": 6.9,
+          "suggested": 6.07,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir PP-Bizon | Carbon Fiber (Factory New)",
+        "price": {
+          "min": 3.77,
+          "max": 157.83,
+          "mean": 25.96,
+          "median": 11.84,
+          "suggested": 4.52,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir PP-Bizon | Carbon Fiber (Minimal Wear)",
+        "price": {
+          "min": 3.29,
+          "max": 41.78,
+          "mean": 10.22,
+          "median": 3.54,
+          "suggested": 3.42,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:26.894Z"
+}

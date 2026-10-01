@@ -1,0 +1,310 @@
+{
+  "id": "skin-318f343e125d",
+  "name": "SSG 08 | Dragonfire",
+  "paint_index": "624",
+  "weapon": {
+    "id": "weapon_ssg08",
+    "weapon_id": 40,
+    "name": "SSG 08",
+    "slug": "ssg08"
+  },
+  "pattern": {
+    "id": "cu_ssg08_dragonfire_scope",
+    "name": "Dragonfire"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship. It has been given a hydrographic of a monstrous dragon snorting fire.\\n\\n<i>Sit on your horde and wait for any who come to take it</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 362.63,
+      "max": 1750.41,
+      "mean": 550.49,
+      "median": 480.56,
+      "suggested": 509.98,
+      "quantity": 98,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 285.9,
+      "max": 909.99,
+      "mean": 405.03,
+      "median": 373.24,
+      "suggested": 386.8,
+      "quantity": 96,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 252.35,
+      "max": 700.16,
+      "mean": 371.38,
+      "median": 360.6,
+      "suggested": 333.55,
+      "quantity": 60,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 255.7,
+      "max": 344.25,
+      "mean": 293.37,
+      "median": 285.86,
+      "suggested": 292.07,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 245.06,
+      "max": 353.33,
+      "mean": 302.21,
+      "median": 301.56,
+      "suggested": 276.79,
+      "quantity": 8,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SSG 08 | Dragonfire (Factory New)",
+      "price": {
+        "min": 362.63,
+        "max": 1750.41,
+        "mean": 550.49,
+        "median": 480.56,
+        "suggested": 509.98,
+        "quantity": 98,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SSG 08 | Dragonfire (Minimal Wear)",
+      "price": {
+        "min": 285.9,
+        "max": 909.99,
+        "mean": 405.03,
+        "median": 373.24,
+        "suggested": 386.8,
+        "quantity": 96,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "SSG 08 | Dragonfire (Field-Tested)",
+      "price": {
+        "min": 252.35,
+        "max": 700.16,
+        "mean": 371.38,
+        "median": 360.6,
+        "suggested": 333.55,
+        "quantity": 60,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "SSG 08 | Dragonfire (Well-Worn)",
+      "price": {
+        "min": 255.7,
+        "max": 344.25,
+        "mean": 293.37,
+        "median": 285.86,
+        "suggested": 292.07,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "SSG 08 | Dragonfire (Battle-Scarred)",
+      "price": {
+        "min": 245.06,
+        "max": 353.33,
+        "mean": 302.21,
+        "median": 301.56,
+        "suggested": 276.79,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SSG 08 | Dragonfire (Factory New)",
+        "price": {
+          "min": 362.63,
+          "max": 1750.41,
+          "mean": 550.49,
+          "median": 480.56,
+          "suggested": 509.98,
+          "quantity": 98,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "SSG 08 | Dragonfire (Minimal Wear)",
+        "price": {
+          "min": 285.9,
+          "max": 909.99,
+          "mean": 405.03,
+          "median": 373.24,
+          "suggested": 386.8,
+          "quantity": 96,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "SSG 08 | Dragonfire (Field-Tested)",
+        "price": {
+          "min": 252.35,
+          "max": 700.16,
+          "mean": 371.38,
+          "median": 360.6,
+          "suggested": 333.55,
+          "quantity": 60,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "SSG 08 | Dragonfire (Well-Worn)",
+        "price": {
+          "min": 255.7,
+          "max": 344.25,
+          "mean": 293.37,
+          "median": 285.86,
+          "suggested": 292.07,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "SSG 08 | Dragonfire (Battle-Scarred)",
+        "price": {
+          "min": 245.06,
+          "max": 353.33,
+          "mean": 302.21,
+          "median": 301.56,
+          "suggested": 276.79,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ SSG 08 | Dragonfire (Factory New)",
+        "price": {
+          "min": 190.48,
+          "max": 407.67,
+          "mean": 248.92,
+          "median": 223.25,
+          "suggested": 255.34,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ SSG 08 | Dragonfire (Minimal Wear)",
+        "price": {
+          "min": 140.66,
+          "max": 59362.1,
+          "mean": 3145.39,
+          "median": 161.13,
+          "suggested": 183.1,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ SSG 08 | Dragonfire (Field-Tested)",
+        "price": {
+          "min": 105.02,
+          "max": 232.22,
+          "mean": 136.66,
+          "median": 126.88,
+          "suggested": 144.52,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ SSG 08 | Dragonfire (Well-Worn)",
+        "price": {
+          "min": 99.18,
+          "max": 99.18,
+          "mean": 99.18,
+          "median": 99.18,
+          "suggested": 124.09,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ SSG 08 | Dragonfire (Battle-Scarred)",
+        "price": {
+          "min": 133.87,
+          "max": 134.02,
+          "mean": 133.95,
+          "median": 133.95,
+          "suggested": 114.66,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SSG 08 | Dragonfire (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir SSG 08 | Dragonfire (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir SSG 08 | Dragonfire (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir SSG 08 | Dragonfire (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir SSG 08 | Dragonfire (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:48.416Z"
+}

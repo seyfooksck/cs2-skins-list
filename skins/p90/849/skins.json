@@ -1,0 +1,310 @@
+{
+  "id": "skin-b37ee36feb54",
+  "name": "P90 | Off World",
+  "paint_index": "849",
+  "weapon": {
+    "id": "weapon_p90",
+    "weapon_id": 19,
+    "name": "P90",
+    "slug": "p90"
+  },
+  "pattern": {
+    "id": "cu_p90_offworld",
+    "name": "Off World"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.75,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been hand painted with multiple coats of blue paint; even more than last time.\\n\\n<i>This topcoat may never dry…</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.03,
+      "max": 30.29,
+      "mean": 6.25,
+      "median": 3.34,
+      "suggested": 2.78,
+      "quantity": 44,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.41,
+      "max": 14,
+      "mean": 1.46,
+      "median": 0.63,
+      "suggested": 0.54,
+      "quantity": 73,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.23,
+      "max": 15.17,
+      "mean": 0.47,
+      "median": 0.33,
+      "suggested": 0.36,
+      "quantity": 360,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.25,
+      "max": 2.11,
+      "mean": 0.41,
+      "median": 0.29,
+      "suggested": 0.33,
+      "quantity": 24,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.21,
+      "max": 2.33,
+      "mean": 0.3,
+      "median": 0.27,
+      "suggested": 0.29,
+      "quantity": 68,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P90 | Off World (Factory New)",
+      "price": {
+        "min": 2.03,
+        "max": 30.29,
+        "mean": 6.25,
+        "median": 3.34,
+        "suggested": 2.78,
+        "quantity": 44,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P90 | Off World (Minimal Wear)",
+      "price": {
+        "min": 0.41,
+        "max": 14,
+        "mean": 1.46,
+        "median": 0.63,
+        "suggested": 0.54,
+        "quantity": 73,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P90 | Off World (Field-Tested)",
+      "price": {
+        "min": 0.23,
+        "max": 15.17,
+        "mean": 0.47,
+        "median": 0.33,
+        "suggested": 0.36,
+        "quantity": 360,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P90 | Off World (Well-Worn)",
+      "price": {
+        "min": 0.25,
+        "max": 2.11,
+        "mean": 0.41,
+        "median": 0.29,
+        "suggested": 0.33,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P90 | Off World (Battle-Scarred)",
+      "price": {
+        "min": 0.21,
+        "max": 2.33,
+        "mean": 0.3,
+        "median": 0.27,
+        "suggested": 0.29,
+        "quantity": 68,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P90 | Off World (Factory New)",
+        "price": {
+          "min": 2.03,
+          "max": 30.29,
+          "mean": 6.25,
+          "median": 3.34,
+          "suggested": 2.78,
+          "quantity": 44,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P90 | Off World (Minimal Wear)",
+        "price": {
+          "min": 0.41,
+          "max": 14,
+          "mean": 1.46,
+          "median": 0.63,
+          "suggested": 0.54,
+          "quantity": 73,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P90 | Off World (Field-Tested)",
+        "price": {
+          "min": 0.23,
+          "max": 15.17,
+          "mean": 0.47,
+          "median": 0.33,
+          "suggested": 0.36,
+          "quantity": 360,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P90 | Off World (Well-Worn)",
+        "price": {
+          "min": 0.25,
+          "max": 2.11,
+          "mean": 0.41,
+          "median": 0.29,
+          "suggested": 0.33,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P90 | Off World (Battle-Scarred)",
+        "price": {
+          "min": 0.21,
+          "max": 2.33,
+          "mean": 0.3,
+          "median": 0.27,
+          "suggested": 0.29,
+          "quantity": 68,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P90 | Off World (Factory New)",
+        "price": {
+          "min": 1.72,
+          "max": 57.34,
+          "mean": 6.99,
+          "median": 3.89,
+          "suggested": 1.97,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P90 | Off World (Minimal Wear)",
+        "price": {
+          "min": 0.56,
+          "max": 2.61,
+          "mean": 0.86,
+          "median": 0.79,
+          "suggested": 0.86,
+          "quantity": 50,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P90 | Off World (Field-Tested)",
+        "price": {
+          "min": 0.29,
+          "max": 20.48,
+          "mean": 0.89,
+          "median": 0.42,
+          "suggested": 0.39,
+          "quantity": 120,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ P90 | Off World (Well-Worn)",
+        "price": {
+          "min": 0.34,
+          "max": 11.66,
+          "mean": 1.07,
+          "median": 0.42,
+          "suggested": 0.4,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ P90 | Off World (Battle-Scarred)",
+        "price": {
+          "min": 0.26,
+          "max": 4.32,
+          "mean": 0.44,
+          "median": 0.33,
+          "suggested": 0.33,
+          "quantity": 39,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P90 | Off World (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P90 | Off World (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P90 | Off World (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P90 | Off World (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P90 | Off World (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:45.981Z"
+}

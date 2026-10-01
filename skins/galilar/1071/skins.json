@@ -1,0 +1,225 @@
+{
+  "id": "skin-807c0ef26d8e",
+  "name": "Galil AR | CAUTION!",
+  "paint_index": "1071",
+  "weapon": {
+    "id": "weapon_galilar",
+    "weapon_id": 13,
+    "name": "Galil AR",
+    "slug": "galilar"
+  },
+  "pattern": {
+    "id": "sp_galil_caution",
+    "name": "CAUTION!"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.55,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat. It has been spray painted with high contrast black and yellow chevrons.\\n\\n<i>Take comfort in feeling uncomfortable</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 91.85,
+      "max": 581.13,
+      "mean": 187.8,
+      "median": 146.24,
+      "suggested": 102.75,
+      "quantity": 13,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 58.65,
+      "max": 94.52,
+      "mean": 74.44,
+      "median": 66.64,
+      "suggested": 76.97,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 50.76,
+      "max": 63.71,
+      "mean": 54.65,
+      "median": 53.69,
+      "suggested": 56.84,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Galil AR | CAUTION! (Factory New)",
+      "price": {
+        "min": 91.85,
+        "max": 581.13,
+        "mean": 187.8,
+        "median": 146.24,
+        "suggested": 102.75,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Galil AR | CAUTION! (Minimal Wear)",
+      "price": {
+        "min": 58.65,
+        "max": 94.52,
+        "mean": 74.44,
+        "median": 66.64,
+        "suggested": 76.97,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Galil AR | CAUTION! (Field-Tested)",
+      "price": {
+        "min": 50.76,
+        "max": 63.71,
+        "mean": 54.65,
+        "median": 53.69,
+        "suggested": 56.84,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Galil AR | CAUTION! (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Galil AR | CAUTION! (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Galil AR | CAUTION! (Factory New)",
+        "price": {
+          "min": 91.85,
+          "max": 581.13,
+          "mean": 187.8,
+          "median": 146.24,
+          "suggested": 102.75,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Galil AR | CAUTION! (Minimal Wear)",
+        "price": {
+          "min": 58.65,
+          "max": 94.52,
+          "mean": 74.44,
+          "median": 66.64,
+          "suggested": 76.97,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Galil AR | CAUTION! (Field-Tested)",
+        "price": {
+          "min": 50.76,
+          "max": 63.71,
+          "mean": 54.65,
+          "median": 53.69,
+          "suggested": 56.84,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Galil AR | CAUTION! (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Galil AR | CAUTION! (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Galil AR | CAUTION! (Factory New)",
+        "price": {
+          "min": 91.25,
+          "max": 145.87,
+          "mean": 112.88,
+          "median": 110.28,
+          "suggested": 83.18,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Galil AR | CAUTION! (Minimal Wear)",
+        "price": {
+          "min": 46.74,
+          "max": 110.51,
+          "mean": 60.7,
+          "median": 48.78,
+          "suggested": 57.55,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Galil AR | CAUTION! (Field-Tested)",
+        "price": {
+          "min": 32.34,
+          "max": 378.83,
+          "mean": 98.22,
+          "median": 49.34,
+          "suggested": 32.23,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Galil AR | CAUTION! (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Galil AR | CAUTION! (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:31.359Z"
+}

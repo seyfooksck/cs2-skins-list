@@ -1,0 +1,204 @@
+{
+  "id": "skin-e728cedb22fe",
+  "name": "★ Hand Wraps | CAUTION!",
+  "paint_index": "10084",
+  "weapon": {
+    "id": "leather_handwraps",
+    "weapon_id": 5032,
+    "name": "Hand Wraps",
+    "slug": "leather_handwraps"
+  },
+  "pattern": {
+    "id": "handwrap_leathery_caution",
+    "name": "CAUTION!"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_gloves",
+    "name": "Gloves"
+  },
+  "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Preferred by hand-to-hand fighters, these wraps protect the knuckles and stabilize the wrist when punching.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 248.94,
+      "max": 420.09,
+      "mean": 330.04,
+      "median": 341.18,
+      "suggested": 303.09,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 138.75,
+      "max": 361.74,
+      "mean": 196.47,
+      "median": 171.41,
+      "suggested": 177.93,
+      "quantity": 45,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 128.25,
+      "max": 156.32,
+      "mean": 136.36,
+      "median": 134.05,
+      "suggested": 157.11,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 119.61,
+      "max": 247.95,
+      "mean": 161.24,
+      "median": 136.92,
+      "suggested": 146.49,
+      "quantity": 12,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Hand Wraps | CAUTION! (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Hand Wraps | CAUTION! (Minimal Wear)",
+      "price": {
+        "min": 248.94,
+        "max": 420.09,
+        "mean": 330.04,
+        "median": 341.18,
+        "suggested": 303.09,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Hand Wraps | CAUTION! (Field-Tested)",
+      "price": {
+        "min": 138.75,
+        "max": 361.74,
+        "mean": 196.47,
+        "median": 171.41,
+        "suggested": 177.93,
+        "quantity": 45,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Hand Wraps | CAUTION! (Well-Worn)",
+      "price": {
+        "min": 128.25,
+        "max": 156.32,
+        "mean": 136.36,
+        "median": 134.05,
+        "suggested": 157.11,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Hand Wraps | CAUTION! (Battle-Scarred)",
+      "price": {
+        "min": 119.61,
+        "max": 247.95,
+        "mean": 161.24,
+        "median": 136.92,
+        "suggested": 146.49,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Hand Wraps | CAUTION! (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Hand Wraps | CAUTION! (Minimal Wear)",
+        "price": {
+          "min": 248.94,
+          "max": 420.09,
+          "mean": 330.04,
+          "median": 341.18,
+          "suggested": 303.09,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Hand Wraps | CAUTION! (Field-Tested)",
+        "price": {
+          "min": 138.75,
+          "max": 361.74,
+          "mean": 196.47,
+          "median": 171.41,
+          "suggested": 177.93,
+          "quantity": 45,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Hand Wraps | CAUTION! (Well-Worn)",
+        "price": {
+          "min": 128.25,
+          "max": 156.32,
+          "mean": 136.36,
+          "median": 134.05,
+          "suggested": 157.11,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Hand Wraps | CAUTION! (Battle-Scarred)",
+        "price": {
+          "min": 119.61,
+          "max": 247.95,
+          "mean": 161.24,
+          "median": 136.92,
+          "suggested": 146.49,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:23.039Z"
+}

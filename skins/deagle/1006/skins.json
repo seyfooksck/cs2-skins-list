@@ -1,0 +1,249 @@
+{
+  "id": "skin-e63e9d7401f5",
+  "name": "Desert Eagle | Night Heist",
+  "paint_index": "1006",
+  "weapon": {
+    "id": "weapon_deagle",
+    "weapon_id": 1,
+    "name": "Desert Eagle",
+    "slug": "deagle"
+  },
+  "pattern": {
+    "id": "am_heist_plans_purple",
+    "name": "Night Heist"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.65,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. Its base has been painted with a purple anodized map pattern. It looks like someone has drawn on top of the map since it was first applied.\\n\\n<i>Planning is one thing, executing is another</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 140.03,
+      "max": 1166.94,
+      "mean": 217.16,
+      "median": 208.59,
+      "suggested": 170.75,
+      "quantity": 57,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 30.6,
+      "max": 1665.8,
+      "mean": 196.34,
+      "median": 51.11,
+      "suggested": 34.18,
+      "quantity": 13,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 21.93,
+      "max": 32.03,
+      "mean": 25.74,
+      "median": 24.07,
+      "suggested": 25.6,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 61.3,
+      "max": 61.3,
+      "mean": 61.3,
+      "median": 61.3,
+      "suggested": 29.28,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 23.34,
+      "max": 36.18,
+      "mean": 28.01,
+      "median": 24.49,
+      "suggested": 24.26,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Desert Eagle | Night Heist (Factory New)",
+      "price": {
+        "min": 140.03,
+        "max": 1166.94,
+        "mean": 217.16,
+        "median": 208.59,
+        "suggested": 170.75,
+        "quantity": 57,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Desert Eagle | Night Heist (Minimal Wear)",
+      "price": {
+        "min": 30.6,
+        "max": 1665.8,
+        "mean": 196.34,
+        "median": 51.11,
+        "suggested": 34.18,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Desert Eagle | Night Heist (Field-Tested)",
+      "price": {
+        "min": 21.93,
+        "max": 32.03,
+        "mean": 25.74,
+        "median": 24.07,
+        "suggested": 25.6,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Desert Eagle | Night Heist (Well-Worn)",
+      "price": {
+        "min": 61.3,
+        "max": 61.3,
+        "mean": 61.3,
+        "median": 61.3,
+        "suggested": 29.28,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Desert Eagle | Night Heist (Battle-Scarred)",
+      "price": {
+        "min": 23.34,
+        "max": 36.18,
+        "mean": 28.01,
+        "median": 24.49,
+        "suggested": 24.26,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Desert Eagle | Night Heist (Factory New)",
+        "price": {
+          "min": 140.03,
+          "max": 1166.94,
+          "mean": 217.16,
+          "median": 208.59,
+          "suggested": 170.75,
+          "quantity": 57,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Desert Eagle | Night Heist (Minimal Wear)",
+        "price": {
+          "min": 30.6,
+          "max": 1665.8,
+          "mean": 196.34,
+          "median": 51.11,
+          "suggested": 34.18,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Desert Eagle | Night Heist (Field-Tested)",
+        "price": {
+          "min": 21.93,
+          "max": 32.03,
+          "mean": 25.74,
+          "median": 24.07,
+          "suggested": 25.6,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Desert Eagle | Night Heist (Well-Worn)",
+        "price": {
+          "min": 61.3,
+          "max": 61.3,
+          "mean": 61.3,
+          "median": 61.3,
+          "suggested": 29.28,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Desert Eagle | Night Heist (Battle-Scarred)",
+        "price": {
+          "min": 23.34,
+          "max": 36.18,
+          "mean": 28.01,
+          "median": 24.49,
+          "suggested": 24.26,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Desert Eagle | Night Heist (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Desert Eagle | Night Heist (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Desert Eagle | Night Heist (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Desert Eagle | Night Heist (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Desert Eagle | Night Heist (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:28.013Z"
+}

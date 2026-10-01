@@ -1,0 +1,310 @@
+{
+  "id": "skin-03f6e200c8b6",
+  "name": "SCAR-20 | Trail Blazer",
+  "paint_index": "117",
+  "weapon": {
+    "id": "weapon_scar20",
+    "weapon_id": 38,
+    "name": "SCAR-20",
+    "slug": "scar20"
+  },
+  "pattern": {
+    "id": "scar20_fury_topo",
+    "name": "Trail Blazer"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.702614,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The SCAR-20 is a semi-automatic sniper rifle that trades a high rate of fire and powerful long-distance damage for sluggish movement speed and big price tag. It has been custom painted with a monochrome black design and silver inlays.\\n\\n<i>FOR USE BY AUTHORIZED CT AGENTS ONLY</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.03,
+      "max": 58.88,
+      "mean": 3.69,
+      "median": 1.74,
+      "suggested": 1.42,
+      "quantity": 53,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.33,
+      "max": 1.26,
+      "mean": 0.51,
+      "median": 0.43,
+      "suggested": 0.5,
+      "quantity": 107,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.33,
+      "max": 16.92,
+      "mean": 0.69,
+      "median": 0.4,
+      "suggested": 0.53,
+      "quantity": 102,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.19,
+      "max": 0.25,
+      "mean": 0.22,
+      "median": 0.23,
+      "suggested": 0.25,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.14,
+      "max": 17.85,
+      "mean": 0.48,
+      "median": 0.16,
+      "suggested": 0.21,
+      "quantity": 61,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SCAR-20 | Trail Blazer (Factory New)",
+      "price": {
+        "min": 1.03,
+        "max": 58.88,
+        "mean": 3.69,
+        "median": 1.74,
+        "suggested": 1.42,
+        "quantity": 53,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SCAR-20 | Trail Blazer (Minimal Wear)",
+      "price": {
+        "min": 0.33,
+        "max": 1.26,
+        "mean": 0.51,
+        "median": 0.43,
+        "suggested": 0.5,
+        "quantity": 107,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "SCAR-20 | Trail Blazer (Field-Tested)",
+      "price": {
+        "min": 0.33,
+        "max": 16.92,
+        "mean": 0.69,
+        "median": 0.4,
+        "suggested": 0.53,
+        "quantity": 102,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "SCAR-20 | Trail Blazer (Well-Worn)",
+      "price": {
+        "min": 0.19,
+        "max": 0.25,
+        "mean": 0.22,
+        "median": 0.23,
+        "suggested": 0.25,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "SCAR-20 | Trail Blazer (Battle-Scarred)",
+      "price": {
+        "min": 0.14,
+        "max": 17.85,
+        "mean": 0.48,
+        "median": 0.16,
+        "suggested": 0.21,
+        "quantity": 61,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SCAR-20 | Trail Blazer (Factory New)",
+        "price": {
+          "min": 1.03,
+          "max": 58.88,
+          "mean": 3.69,
+          "median": 1.74,
+          "suggested": 1.42,
+          "quantity": 53,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "SCAR-20 | Trail Blazer (Minimal Wear)",
+        "price": {
+          "min": 0.33,
+          "max": 1.26,
+          "mean": 0.51,
+          "median": 0.43,
+          "suggested": 0.5,
+          "quantity": 107,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "SCAR-20 | Trail Blazer (Field-Tested)",
+        "price": {
+          "min": 0.33,
+          "max": 16.92,
+          "mean": 0.69,
+          "median": 0.4,
+          "suggested": 0.53,
+          "quantity": 102,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "SCAR-20 | Trail Blazer (Well-Worn)",
+        "price": {
+          "min": 0.19,
+          "max": 0.25,
+          "mean": 0.22,
+          "median": 0.23,
+          "suggested": 0.25,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "SCAR-20 | Trail Blazer (Battle-Scarred)",
+        "price": {
+          "min": 0.14,
+          "max": 17.85,
+          "mean": 0.48,
+          "median": 0.16,
+          "suggested": 0.21,
+          "quantity": 61,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ SCAR-20 | Trail Blazer (Factory New)",
+        "price": {
+          "min": 1.39,
+          "max": 13.52,
+          "mean": 3.48,
+          "median": 2.31,
+          "suggested": 1.99,
+          "quantity": 35,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ SCAR-20 | Trail Blazer (Minimal Wear)",
+        "price": {
+          "min": 0.65,
+          "max": 10.95,
+          "mean": 1.33,
+          "median": 0.79,
+          "suggested": 0.91,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ SCAR-20 | Trail Blazer (Field-Tested)",
+        "price": {
+          "min": 0.27,
+          "max": 0.47,
+          "mean": 0.34,
+          "median": 0.32,
+          "suggested": 0.4,
+          "quantity": 79,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ SCAR-20 | Trail Blazer (Well-Worn)",
+        "price": {
+          "min": 0.39,
+          "max": 0.39,
+          "mean": 0.39,
+          "median": 0.39,
+          "suggested": 0.33,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ SCAR-20 | Trail Blazer (Battle-Scarred)",
+        "price": {
+          "min": 0.22,
+          "max": 0.29,
+          "mean": 0.26,
+          "median": 0.27,
+          "suggested": 0.29,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SCAR-20 | Trail Blazer (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir SCAR-20 | Trail Blazer (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir SCAR-20 | Trail Blazer (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir SCAR-20 | Trail Blazer (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir SCAR-20 | Trail Blazer (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:47.657Z"
+}

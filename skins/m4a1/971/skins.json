@@ -1,0 +1,310 @@
+{
+  "id": "skin-1e9229953491",
+  "name": "M4A4 | Tooth Fairy",
+  "paint_index": "971",
+  "weapon": {
+    "id": "weapon_m4a1",
+    "weapon_id": 16,
+    "name": "M4A4",
+    "slug": "m4a1"
+  },
+  "pattern": {
+    "id": "cu_m4a4_queenfairy",
+    "name": "Tooth Fairy"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.73,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. A custom paint job depicting incisors, molars, and a chilling take on the Tooth Fairy has been applied.\\n\\n<i>No one said the teeth have to be yours…</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 19.56,
+      "max": 1165.77,
+      "mean": 105.77,
+      "median": 37.21,
+      "suggested": 23.1,
+      "quantity": 63,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 5.71,
+      "max": 29.17,
+      "mean": 7.91,
+      "median": 7,
+      "suggested": 7.75,
+      "quantity": 186,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 3.72,
+      "max": 256.14,
+      "mean": 5.89,
+      "median": 4.6,
+      "suggested": 4.98,
+      "quantity": 790,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 4.12,
+      "max": 10.5,
+      "mean": 5.11,
+      "median": 5.04,
+      "suggested": 4.91,
+      "quantity": 35,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 3.62,
+      "max": 82.96,
+      "mean": 5.1,
+      "median": 4,
+      "suggested": 4.58,
+      "quantity": 95,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A4 | Tooth Fairy (Factory New)",
+      "price": {
+        "min": 19.56,
+        "max": 1165.77,
+        "mean": 105.77,
+        "median": 37.21,
+        "suggested": 23.1,
+        "quantity": 63,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A4 | Tooth Fairy (Minimal Wear)",
+      "price": {
+        "min": 5.71,
+        "max": 29.17,
+        "mean": 7.91,
+        "median": 7,
+        "suggested": 7.75,
+        "quantity": 186,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A4 | Tooth Fairy (Field-Tested)",
+      "price": {
+        "min": 3.72,
+        "max": 256.14,
+        "mean": 5.89,
+        "median": 4.6,
+        "suggested": 4.98,
+        "quantity": 790,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M4A4 | Tooth Fairy (Well-Worn)",
+      "price": {
+        "min": 4.12,
+        "max": 10.5,
+        "mean": 5.11,
+        "median": 5.04,
+        "suggested": 4.91,
+        "quantity": 35,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M4A4 | Tooth Fairy (Battle-Scarred)",
+      "price": {
+        "min": 3.62,
+        "max": 82.96,
+        "mean": 5.1,
+        "median": 4,
+        "suggested": 4.58,
+        "quantity": 95,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A4 | Tooth Fairy (Factory New)",
+        "price": {
+          "min": 19.56,
+          "max": 1165.77,
+          "mean": 105.77,
+          "median": 37.21,
+          "suggested": 23.1,
+          "quantity": 63,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A4 | Tooth Fairy (Minimal Wear)",
+        "price": {
+          "min": 5.71,
+          "max": 29.17,
+          "mean": 7.91,
+          "median": 7,
+          "suggested": 7.75,
+          "quantity": 186,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A4 | Tooth Fairy (Field-Tested)",
+        "price": {
+          "min": 3.72,
+          "max": 256.14,
+          "mean": 5.89,
+          "median": 4.6,
+          "suggested": 4.98,
+          "quantity": 790,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M4A4 | Tooth Fairy (Well-Worn)",
+        "price": {
+          "min": 4.12,
+          "max": 10.5,
+          "mean": 5.11,
+          "median": 5.04,
+          "suggested": 4.91,
+          "quantity": 35,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M4A4 | Tooth Fairy (Battle-Scarred)",
+        "price": {
+          "min": 3.62,
+          "max": 82.96,
+          "mean": 5.1,
+          "median": 4,
+          "suggested": 4.58,
+          "quantity": 95,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ M4A4 | Tooth Fairy (Factory New)",
+        "price": {
+          "min": 24.51,
+          "max": 186.71,
+          "mean": 55.7,
+          "median": 37.73,
+          "suggested": 29.99,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ M4A4 | Tooth Fairy (Minimal Wear)",
+        "price": {
+          "min": 11.84,
+          "max": 152.9,
+          "mean": 18.34,
+          "median": 15.28,
+          "suggested": 14.97,
+          "quantity": 45,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ M4A4 | Tooth Fairy (Field-Tested)",
+        "price": {
+          "min": 7.07,
+          "max": 146.98,
+          "mean": 45.67,
+          "median": 9.6,
+          "suggested": 8.23,
+          "quantity": 47,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ M4A4 | Tooth Fairy (Well-Worn)",
+        "price": {
+          "min": 6.87,
+          "max": 11.41,
+          "mean": 9.09,
+          "median": 9.85,
+          "suggested": 7.89,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ M4A4 | Tooth Fairy (Battle-Scarred)",
+        "price": {
+          "min": 6.62,
+          "max": 144.27,
+          "mean": 19.53,
+          "median": 9.34,
+          "suggested": 7.48,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A4 | Tooth Fairy (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A4 | Tooth Fairy (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A4 | Tooth Fairy (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M4A4 | Tooth Fairy (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M4A4 | Tooth Fairy (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:40.278Z"
+}

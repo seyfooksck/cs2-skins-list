@@ -1,0 +1,201 @@
+{
+  "id": "skin-76f4d15e1865",
+  "name": "SCAR-20 | Splash Jam",
+  "paint_index": "165",
+  "weapon": {
+    "id": "weapon_scar20",
+    "weapon_id": 38,
+    "name": "SCAR-20",
+    "slug": "scar20"
+  },
+  "pattern": {
+    "id": "hy_hunter_blaze_pink",
+    "name": "Splash Jam"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The SCAR-20 is a semi-automatic sniper rifle that trades a high rate of fire and powerful long-distance damage for sluggish movement speed and big price tag. It has been painted using a photographic hunting camo hydrographic.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 57.88,
+      "max": 116.69,
+      "mean": 74.22,
+      "median": 68.85,
+      "suggested": 65.84,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 18.08,
+      "max": 5589.01,
+      "mean": 959.18,
+      "median": 40.55,
+      "suggested": 18.98,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 42,
+      "max": 42,
+      "mean": 42,
+      "median": 42,
+      "suggested": 19.36,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SCAR-20 | Splash Jam (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SCAR-20 | Splash Jam (Minimal Wear)",
+      "price": {
+        "min": 57.88,
+        "max": 116.69,
+        "mean": 74.22,
+        "median": 68.85,
+        "suggested": 65.84,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "SCAR-20 | Splash Jam (Field-Tested)",
+      "price": {
+        "min": 18.08,
+        "max": 5589.01,
+        "mean": 959.18,
+        "median": 40.55,
+        "suggested": 18.98,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "SCAR-20 | Splash Jam (Well-Worn)",
+      "price": {
+        "min": 42,
+        "max": 42,
+        "mean": 42,
+        "median": 42,
+        "suggested": 19.36,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "SCAR-20 | Splash Jam (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SCAR-20 | Splash Jam (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "SCAR-20 | Splash Jam (Minimal Wear)",
+        "price": {
+          "min": 57.88,
+          "max": 116.69,
+          "mean": 74.22,
+          "median": 68.85,
+          "suggested": 65.84,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "SCAR-20 | Splash Jam (Field-Tested)",
+        "price": {
+          "min": 18.08,
+          "max": 5589.01,
+          "mean": 959.18,
+          "median": 40.55,
+          "suggested": 18.98,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "SCAR-20 | Splash Jam (Well-Worn)",
+        "price": {
+          "min": 42,
+          "max": 42,
+          "mean": 42,
+          "median": 42,
+          "suggested": 19.36,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "SCAR-20 | Splash Jam (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SCAR-20 | Splash Jam (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir SCAR-20 | Splash Jam (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir SCAR-20 | Splash Jam (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir SCAR-20 | Splash Jam (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir SCAR-20 | Splash Jam (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:47.591Z"
+}

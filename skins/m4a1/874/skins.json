@@ -1,0 +1,249 @@
+{
+  "id": "skin-b5bc3553f7e1",
+  "name": "M4A4 | Polysoup",
+  "paint_index": "874",
+  "weapon": {
+    "id": "weapon_m4a1",
+    "weapon_id": 16,
+    "name": "M4A4",
+    "slug": "m4a1"
+  },
+  "pattern": {
+    "id": "soo_polysoup_m4a4",
+    "name": "Polysoup"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.64,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with multicolored crystals and finished with pearlescent accents.\\n\\n<i>Don't stew on it</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 34.25,
+      "max": 4012.88,
+      "mean": 145.79,
+      "median": 58.1,
+      "suggested": 43.41,
+      "quantity": 49,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 18.58,
+      "max": 195.33,
+      "mean": 40.62,
+      "median": 26.79,
+      "suggested": 26.42,
+      "quantity": 49,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 12.16,
+      "max": 185.96,
+      "mean": 38.33,
+      "median": 19.84,
+      "suggested": 15.26,
+      "quantity": 51,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 12.21,
+      "max": 19.7,
+      "mean": 15.95,
+      "median": 15.95,
+      "suggested": 12.78,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 7.56,
+      "max": 18.54,
+      "mean": 15.59,
+      "median": 18.02,
+      "suggested": 8.81,
+      "quantity": 12,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A4 | Polysoup (Factory New)",
+      "price": {
+        "min": 34.25,
+        "max": 4012.88,
+        "mean": 145.79,
+        "median": 58.1,
+        "suggested": 43.41,
+        "quantity": 49,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A4 | Polysoup (Minimal Wear)",
+      "price": {
+        "min": 18.58,
+        "max": 195.33,
+        "mean": 40.62,
+        "median": 26.79,
+        "suggested": 26.42,
+        "quantity": 49,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A4 | Polysoup (Field-Tested)",
+      "price": {
+        "min": 12.16,
+        "max": 185.96,
+        "mean": 38.33,
+        "median": 19.84,
+        "suggested": 15.26,
+        "quantity": 51,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M4A4 | Polysoup (Well-Worn)",
+      "price": {
+        "min": 12.21,
+        "max": 19.7,
+        "mean": 15.95,
+        "median": 15.95,
+        "suggested": 12.78,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M4A4 | Polysoup (Battle-Scarred)",
+      "price": {
+        "min": 7.56,
+        "max": 18.54,
+        "mean": 15.59,
+        "median": 18.02,
+        "suggested": 8.81,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A4 | Polysoup (Factory New)",
+        "price": {
+          "min": 34.25,
+          "max": 4012.88,
+          "mean": 145.79,
+          "median": 58.1,
+          "suggested": 43.41,
+          "quantity": 49,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A4 | Polysoup (Minimal Wear)",
+        "price": {
+          "min": 18.58,
+          "max": 195.33,
+          "mean": 40.62,
+          "median": 26.79,
+          "suggested": 26.42,
+          "quantity": 49,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A4 | Polysoup (Field-Tested)",
+        "price": {
+          "min": 12.16,
+          "max": 185.96,
+          "mean": 38.33,
+          "median": 19.84,
+          "suggested": 15.26,
+          "quantity": 51,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M4A4 | Polysoup (Well-Worn)",
+        "price": {
+          "min": 12.21,
+          "max": 19.7,
+          "mean": 15.95,
+          "median": 15.95,
+          "suggested": 12.78,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M4A4 | Polysoup (Battle-Scarred)",
+        "price": {
+          "min": 7.56,
+          "max": 18.54,
+          "mean": 15.59,
+          "median": 18.02,
+          "suggested": 8.81,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A4 | Polysoup (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A4 | Polysoup (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A4 | Polysoup (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M4A4 | Polysoup (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M4A4 | Polysoup (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.305Z"
+}

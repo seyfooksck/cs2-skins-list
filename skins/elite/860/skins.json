@@ -1,0 +1,249 @@
+{
+  "id": "skin-b7fcc2dc0ddc",
+  "name": "Dual Berettas | Pyre",
+  "paint_index": "860",
+  "weapon": {
+    "id": "weapon_elite",
+    "weapon_id": 2,
+    "name": "Dual Berettas",
+    "slug": "elite"
+  },
+  "pattern": {
+    "id": "hy_gelpen_dark",
+    "name": "Pyre"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0.06,
+  "max_float": 0.55,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. It has been painted using a rust-tinted hydrographic of a gel pen doodle.\\n\\n<i>Honor your dead</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 92.18,
+      "max": 92.18,
+      "mean": 92.18,
+      "median": 92.18,
+      "suggested": 67.62,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 17.1,
+      "max": 71.01,
+      "mean": 29.96,
+      "median": 22.95,
+      "suggested": 19.5,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 14.22,
+      "max": 882.2,
+      "mean": 44.33,
+      "median": 17.31,
+      "suggested": 17.71,
+      "quantity": 36,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 17.1,
+      "max": 20.96,
+      "mean": 18.9,
+      "median": 18.67,
+      "suggested": 19.79,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 14.31,
+      "max": 21.53,
+      "mean": 17.92,
+      "median": 17.92,
+      "suggested": 17.04,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Dual Berettas | Pyre (Factory New)",
+      "price": {
+        "min": 92.18,
+        "max": 92.18,
+        "mean": 92.18,
+        "median": 92.18,
+        "suggested": 67.62,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Dual Berettas | Pyre (Minimal Wear)",
+      "price": {
+        "min": 17.1,
+        "max": 71.01,
+        "mean": 29.96,
+        "median": 22.95,
+        "suggested": 19.5,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Dual Berettas | Pyre (Field-Tested)",
+      "price": {
+        "min": 14.22,
+        "max": 882.2,
+        "mean": 44.33,
+        "median": 17.31,
+        "suggested": 17.71,
+        "quantity": 36,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Dual Berettas | Pyre (Well-Worn)",
+      "price": {
+        "min": 17.1,
+        "max": 20.96,
+        "mean": 18.9,
+        "median": 18.67,
+        "suggested": 19.79,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Dual Berettas | Pyre (Battle-Scarred)",
+      "price": {
+        "min": 14.31,
+        "max": 21.53,
+        "mean": 17.92,
+        "median": 17.92,
+        "suggested": 17.04,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Dual Berettas | Pyre (Factory New)",
+        "price": {
+          "min": 92.18,
+          "max": 92.18,
+          "mean": 92.18,
+          "median": 92.18,
+          "suggested": 67.62,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Dual Berettas | Pyre (Minimal Wear)",
+        "price": {
+          "min": 17.1,
+          "max": 71.01,
+          "mean": 29.96,
+          "median": 22.95,
+          "suggested": 19.5,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Dual Berettas | Pyre (Field-Tested)",
+        "price": {
+          "min": 14.22,
+          "max": 882.2,
+          "mean": 44.33,
+          "median": 17.31,
+          "suggested": 17.71,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Dual Berettas | Pyre (Well-Worn)",
+        "price": {
+          "min": 17.1,
+          "max": 20.96,
+          "mean": 18.9,
+          "median": 18.67,
+          "suggested": 19.79,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Dual Berettas | Pyre (Battle-Scarred)",
+        "price": {
+          "min": 14.31,
+          "max": 21.53,
+          "mean": 17.92,
+          "median": 17.92,
+          "suggested": 17.04,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Dual Berettas | Pyre (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Dual Berettas | Pyre (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Dual Berettas | Pyre (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Dual Berettas | Pyre (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Dual Berettas | Pyre (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:28.967Z"
+}

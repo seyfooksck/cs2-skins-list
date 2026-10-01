@@ -1,0 +1,310 @@
+{
+  "id": "skin-a59908982432",
+  "name": "Glock-18 | Mirror Mosaic",
+  "paint_index": "1348",
+  "weapon": {
+    "id": "weapon_glock",
+    "weapon_id": 4,
+    "name": "Glock-18",
+    "slug": "glock"
+  },
+  "pattern": {
+    "id": "glock_mirror_maze_v2_pearl",
+    "name": "Mirror Mosaic"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. It has been custom painted to resemble a mosaic of mirrors.\\n\\n<i>Trapped in your own thoughts</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 26.31,
+      "max": 665.69,
+      "mean": 113.79,
+      "median": 50.76,
+      "suggested": 36.12,
+      "quantity": 26,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 11.91,
+      "max": 58.35,
+      "mean": 19.49,
+      "median": 15.28,
+      "suggested": 14.76,
+      "quantity": 38,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 6.79,
+      "max": 82.48,
+      "mean": 11.38,
+      "median": 7.16,
+      "suggested": 7.96,
+      "quantity": 32,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 5.2,
+      "max": 11.89,
+      "mean": 6.58,
+      "median": 5.89,
+      "suggested": 6.4,
+      "quantity": 28,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 4.07,
+      "max": 35.01,
+      "mean": 10.5,
+      "median": 5.58,
+      "suggested": 4.8,
+      "quantity": 17,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Glock-18 | Mirror Mosaic (Factory New)",
+      "price": {
+        "min": 26.31,
+        "max": 665.69,
+        "mean": 113.79,
+        "median": 50.76,
+        "suggested": 36.12,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Glock-18 | Mirror Mosaic (Minimal Wear)",
+      "price": {
+        "min": 11.91,
+        "max": 58.35,
+        "mean": 19.49,
+        "median": 15.28,
+        "suggested": 14.76,
+        "quantity": 38,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Glock-18 | Mirror Mosaic (Field-Tested)",
+      "price": {
+        "min": 6.79,
+        "max": 82.48,
+        "mean": 11.38,
+        "median": 7.16,
+        "suggested": 7.96,
+        "quantity": 32,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Glock-18 | Mirror Mosaic (Well-Worn)",
+      "price": {
+        "min": 5.2,
+        "max": 11.89,
+        "mean": 6.58,
+        "median": 5.89,
+        "suggested": 6.4,
+        "quantity": 28,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Glock-18 | Mirror Mosaic (Battle-Scarred)",
+      "price": {
+        "min": 4.07,
+        "max": 35.01,
+        "mean": 10.5,
+        "median": 5.58,
+        "suggested": 4.8,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Glock-18 | Mirror Mosaic (Factory New)",
+        "price": {
+          "min": 26.31,
+          "max": 665.69,
+          "mean": 113.79,
+          "median": 50.76,
+          "suggested": 36.12,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Glock-18 | Mirror Mosaic (Minimal Wear)",
+        "price": {
+          "min": 11.91,
+          "max": 58.35,
+          "mean": 19.49,
+          "median": 15.28,
+          "suggested": 14.76,
+          "quantity": 38,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Glock-18 | Mirror Mosaic (Field-Tested)",
+        "price": {
+          "min": 6.79,
+          "max": 82.48,
+          "mean": 11.38,
+          "median": 7.16,
+          "suggested": 7.96,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Glock-18 | Mirror Mosaic (Well-Worn)",
+        "price": {
+          "min": 5.2,
+          "max": 11.89,
+          "mean": 6.58,
+          "median": 5.89,
+          "suggested": 6.4,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Glock-18 | Mirror Mosaic (Battle-Scarred)",
+        "price": {
+          "min": 4.07,
+          "max": 35.01,
+          "mean": 10.5,
+          "median": 5.58,
+          "suggested": 4.8,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Glock-18 | Mirror Mosaic (Factory New)",
+        "price": {
+          "min": 67.43,
+          "max": 175.04,
+          "mean": 90.41,
+          "median": 78.08,
+          "suggested": 77.52,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Glock-18 | Mirror Mosaic (Minimal Wear)",
+        "price": {
+          "min": 23.39,
+          "max": 134.85,
+          "mean": 51.03,
+          "median": 34.39,
+          "suggested": 32.76,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Glock-18 | Mirror Mosaic (Field-Tested)",
+        "price": {
+          "min": 16.5,
+          "max": 92.18,
+          "mean": 31.82,
+          "median": 25.49,
+          "suggested": 16.51,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Glock-18 | Mirror Mosaic (Well-Worn)",
+        "price": {
+          "min": 10.08,
+          "max": 40.84,
+          "mean": 17.71,
+          "median": 11.45,
+          "suggested": 11.88,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Glock-18 | Mirror Mosaic (Battle-Scarred)",
+        "price": {
+          "min": 8.17,
+          "max": 11.67,
+          "mean": 9.38,
+          "median": 8.86,
+          "suggested": 10.49,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Glock-18 | Mirror Mosaic (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Glock-18 | Mirror Mosaic (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Glock-18 | Mirror Mosaic (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Glock-18 | Mirror Mosaic (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Glock-18 | Mirror Mosaic (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:31.977Z"
+}

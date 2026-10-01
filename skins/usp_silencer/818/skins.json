@@ -1,0 +1,289 @@
+{
+  "id": "skin-08730cd85d09",
+  "name": "USP-S | Purple DDPAT",
+  "paint_index": "818",
+  "weapon": {
+    "id": "weapon_usp_silencer",
+    "weapon_id": 61,
+    "name": "USP-S",
+    "slug": "usp_silencer"
+  },
+  "pattern": {
+    "id": "am_ddpat_purple",
+    "name": "Purple DDPAT"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.55,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise. It has been painted using a purple Digital Disruptive Pattern (DDPAT) hydrographic.\\n\\n<i>By the time you're close enough to notice the pixels it's already too late</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 51.63,
+      "max": 350.08,
+      "mean": 179.16,
+      "median": 193.8,
+      "suggested": 46.38,
+      "quantity": 38,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 6.69,
+      "max": 151.69,
+      "mean": 38.93,
+      "median": 24.48,
+      "suggested": 8.01,
+      "quantity": 32,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 5.78,
+      "max": 74.42,
+      "mean": 20.62,
+      "median": 18.67,
+      "suggested": 3.27,
+      "quantity": 23,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 4.42,
+      "max": 21.56,
+      "mean": 13,
+      "median": 13,
+      "suggested": 6.58,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 21.61,
+      "max": 23.04,
+      "mean": 22.32,
+      "median": 22.32,
+      "suggested": 4.87,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "USP-S | Purple DDPAT (Factory New)",
+      "price": {
+        "min": 51.63,
+        "max": 350.08,
+        "mean": 179.16,
+        "median": 193.8,
+        "suggested": 46.38,
+        "quantity": 38,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "USP-S | Purple DDPAT (Minimal Wear)",
+      "price": {
+        "min": 6.69,
+        "max": 151.69,
+        "mean": 38.93,
+        "median": 24.48,
+        "suggested": 8.01,
+        "quantity": 32,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "USP-S | Purple DDPAT (Field-Tested)",
+      "price": {
+        "min": 5.78,
+        "max": 74.42,
+        "mean": 20.62,
+        "median": 18.67,
+        "suggested": 3.27,
+        "quantity": 23,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "USP-S | Purple DDPAT (Well-Worn)",
+      "price": {
+        "min": 4.42,
+        "max": 21.56,
+        "mean": 13,
+        "median": 13,
+        "suggested": 6.58,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "USP-S | Purple DDPAT (Battle-Scarred)",
+      "price": {
+        "min": 21.61,
+        "max": 23.04,
+        "mean": 22.32,
+        "median": 22.32,
+        "suggested": 4.87,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "USP-S | Purple DDPAT (Factory New)",
+        "price": {
+          "min": 51.63,
+          "max": 350.08,
+          "mean": 179.16,
+          "median": 193.8,
+          "suggested": 46.38,
+          "quantity": 38,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "USP-S | Purple DDPAT (Minimal Wear)",
+        "price": {
+          "min": 6.69,
+          "max": 151.69,
+          "mean": 38.93,
+          "median": 24.48,
+          "suggested": 8.01,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "USP-S | Purple DDPAT (Field-Tested)",
+        "price": {
+          "min": 5.78,
+          "max": 74.42,
+          "mean": 20.62,
+          "median": 18.67,
+          "suggested": 3.27,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "USP-S | Purple DDPAT (Well-Worn)",
+        "price": {
+          "min": 4.42,
+          "max": 21.56,
+          "mean": 13,
+          "median": 13,
+          "suggested": 6.58,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "USP-S | Purple DDPAT (Battle-Scarred)",
+        "price": {
+          "min": 21.61,
+          "max": 23.04,
+          "mean": 22.32,
+          "median": 22.32,
+          "suggested": 4.87,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir USP-S | Purple DDPAT (Factory New)",
+        "price": {
+          "min": 12.37,
+          "max": 102.41,
+          "mean": 22.46,
+          "median": 15.11,
+          "suggested": 15.65,
+          "quantity": 65,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir USP-S | Purple DDPAT (Minimal Wear)",
+        "price": {
+          "min": 5.18,
+          "max": 45.39,
+          "mean": 17.43,
+          "median": 17.75,
+          "suggested": 6.03,
+          "quantity": 72,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir USP-S | Purple DDPAT (Field-Tested)",
+        "price": {
+          "min": 2.89,
+          "max": 46.68,
+          "mean": 9.78,
+          "median": 4.61,
+          "suggested": 2.91,
+          "quantity": 78,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir USP-S | Purple DDPAT (Well-Worn)",
+        "price": {
+          "min": 3.5,
+          "max": 30.33,
+          "mean": 10.89,
+          "median": 4.56,
+          "suggested": 2.57,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir USP-S | Purple DDPAT (Battle-Scarred)",
+        "price": {
+          "min": 1.79,
+          "max": 4.84,
+          "mean": 3.28,
+          "median": 2.71,
+          "suggested": 2.57,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:50.343Z"
+}

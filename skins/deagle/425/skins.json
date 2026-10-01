@@ -1,0 +1,310 @@
+{
+  "id": "skin-7698ea25d00a",
+  "name": "Desert Eagle | Bronze Deco",
+  "paint_index": "425",
+  "weapon": {
+    "id": "weapon_deagle",
+    "weapon_id": 1,
+    "name": "Desert Eagle",
+    "slug": "deagle"
+  },
+  "pattern": {
+    "id": "am_bronze_sparkle",
+    "name": "Bronze Deco"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.46,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. It has been painted in an art deco pattern using metallic automotive paints.\\n\\n<i>Everyone's searching for silver and gold</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.56,
+      "max": 120.18,
+      "mean": 6.73,
+      "median": 3.96,
+      "suggested": 2.14,
+      "quantity": 152,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.35,
+      "max": 17.5,
+      "mean": 1.32,
+      "median": 0.47,
+      "suggested": 0.48,
+      "quantity": 187,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.25,
+      "max": 11.67,
+      "mean": 0.55,
+      "median": 0.36,
+      "suggested": 0.38,
+      "quantity": 365,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.27,
+      "max": 0.61,
+      "mean": 0.41,
+      "median": 0.4,
+      "suggested": 0.4,
+      "quantity": 54,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.82,
+      "max": 6.94,
+      "mean": 1.4,
+      "median": 0.9,
+      "suggested": 0.66,
+      "quantity": 15,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Desert Eagle | Bronze Deco (Factory New)",
+      "price": {
+        "min": 1.56,
+        "max": 120.18,
+        "mean": 6.73,
+        "median": 3.96,
+        "suggested": 2.14,
+        "quantity": 152,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Desert Eagle | Bronze Deco (Minimal Wear)",
+      "price": {
+        "min": 0.35,
+        "max": 17.5,
+        "mean": 1.32,
+        "median": 0.47,
+        "suggested": 0.48,
+        "quantity": 187,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Desert Eagle | Bronze Deco (Field-Tested)",
+      "price": {
+        "min": 0.25,
+        "max": 11.67,
+        "mean": 0.55,
+        "median": 0.36,
+        "suggested": 0.38,
+        "quantity": 365,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Desert Eagle | Bronze Deco (Well-Worn)",
+      "price": {
+        "min": 0.27,
+        "max": 0.61,
+        "mean": 0.41,
+        "median": 0.4,
+        "suggested": 0.4,
+        "quantity": 54,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Desert Eagle | Bronze Deco (Battle-Scarred)",
+      "price": {
+        "min": 0.82,
+        "max": 6.94,
+        "mean": 1.4,
+        "median": 0.9,
+        "suggested": 0.66,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Desert Eagle | Bronze Deco (Factory New)",
+        "price": {
+          "min": 1.56,
+          "max": 120.18,
+          "mean": 6.73,
+          "median": 3.96,
+          "suggested": 2.14,
+          "quantity": 152,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Desert Eagle | Bronze Deco (Minimal Wear)",
+        "price": {
+          "min": 0.35,
+          "max": 17.5,
+          "mean": 1.32,
+          "median": 0.47,
+          "suggested": 0.48,
+          "quantity": 187,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Desert Eagle | Bronze Deco (Field-Tested)",
+        "price": {
+          "min": 0.25,
+          "max": 11.67,
+          "mean": 0.55,
+          "median": 0.36,
+          "suggested": 0.38,
+          "quantity": 365,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Desert Eagle | Bronze Deco (Well-Worn)",
+        "price": {
+          "min": 0.27,
+          "max": 0.61,
+          "mean": 0.41,
+          "median": 0.4,
+          "suggested": 0.4,
+          "quantity": 54,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Desert Eagle | Bronze Deco (Battle-Scarred)",
+        "price": {
+          "min": 0.82,
+          "max": 6.94,
+          "mean": 1.4,
+          "median": 0.9,
+          "suggested": 0.66,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Bronze Deco (Factory New)",
+        "price": {
+          "min": 1.79,
+          "max": 127.18,
+          "mean": 14.69,
+          "median": 3.24,
+          "suggested": 2.27,
+          "quantity": 54,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Bronze Deco (Minimal Wear)",
+        "price": {
+          "min": 0.92,
+          "max": 123.68,
+          "mean": 4.84,
+          "median": 1.31,
+          "suggested": 1.11,
+          "quantity": 70,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Bronze Deco (Field-Tested)",
+        "price": {
+          "min": 0.53,
+          "max": 35,
+          "mean": 2.59,
+          "median": 1.52,
+          "suggested": 0.62,
+          "quantity": 101,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Bronze Deco (Well-Worn)",
+        "price": {
+          "min": 0.58,
+          "max": 12.82,
+          "mean": 2.11,
+          "median": 1.17,
+          "suggested": 0.73,
+          "quantity": 39,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Bronze Deco (Battle-Scarred)",
+        "price": {
+          "min": 2.19,
+          "max": 61.31,
+          "mean": 9.25,
+          "median": 5.43,
+          "suggested": 2.09,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Desert Eagle | Bronze Deco (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Desert Eagle | Bronze Deco (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Desert Eagle | Bronze Deco (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Desert Eagle | Bronze Deco (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Desert Eagle | Bronze Deco (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:27.974Z"
+}

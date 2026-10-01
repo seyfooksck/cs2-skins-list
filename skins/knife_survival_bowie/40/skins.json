@@ -1,0 +1,233 @@
+{
+  "id": "skin-9197f4cece59",
+  "name": "★ Bowie Knife | Night",
+  "paint_index": "40",
+  "weapon": {
+    "id": "weapon_knife_survival_bowie",
+    "weapon_id": 514,
+    "name": "Bowie Knife",
+    "slug": "knife_survival_bowie"
+  },
+  "pattern": {
+    "id": "so_night",
+    "name": "Night"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This full-tang sawback Bowie knife is designed for heavy use in brutal survival situations. It has individual parts spray-painted solid colors in a night ops color scheme.\\n\\n<i>It's the whisper of the wind... it's the bite at your neck</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 97.66,
+      "max": 195.46,
+      "mean": 137.52,
+      "median": 128.49,
+      "suggested": 115.31,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 64.17,
+      "max": 347.79,
+      "mean": 133.42,
+      "median": 84.05,
+      "suggested": 82.62,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 88.5,
+      "max": 88.5,
+      "mean": 88.5,
+      "median": 88.5,
+      "suggested": 78.93,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 82.48,
+      "max": 114.36,
+      "mean": 98.42,
+      "median": 98.42,
+      "suggested": 84.71,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Bowie Knife | Night (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Bowie Knife | Night (Minimal Wear)",
+      "price": {
+        "min": 97.66,
+        "max": 195.46,
+        "mean": 137.52,
+        "median": 128.49,
+        "suggested": 115.31,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Bowie Knife | Night (Field-Tested)",
+      "price": {
+        "min": 64.17,
+        "max": 347.79,
+        "mean": 133.42,
+        "median": 84.05,
+        "suggested": 82.62,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Bowie Knife | Night (Well-Worn)",
+      "price": {
+        "min": 88.5,
+        "max": 88.5,
+        "mean": 88.5,
+        "median": 88.5,
+        "suggested": 78.93,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Bowie Knife | Night (Battle-Scarred)",
+      "price": {
+        "min": 82.48,
+        "max": 114.36,
+        "mean": 98.42,
+        "median": 98.42,
+        "suggested": 84.71,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Bowie Knife | Night (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Bowie Knife | Night (Minimal Wear)",
+        "price": {
+          "min": 97.66,
+          "max": 195.46,
+          "mean": 137.52,
+          "median": 128.49,
+          "suggested": 115.31,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Bowie Knife | Night (Field-Tested)",
+        "price": {
+          "min": 64.17,
+          "max": 347.79,
+          "mean": 133.42,
+          "median": 84.05,
+          "suggested": 82.62,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Bowie Knife | Night (Well-Worn)",
+        "price": {
+          "min": 88.5,
+          "max": 88.5,
+          "mean": 88.5,
+          "median": 88.5,
+          "suggested": 78.93,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Bowie Knife | Night (Battle-Scarred)",
+        "price": {
+          "min": 82.48,
+          "max": 114.36,
+          "mean": 98.42,
+          "median": 98.42,
+          "suggested": 84.71,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Bowie Knife | Night (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Bowie Knife | Night (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Bowie Knife | Night (Field-Tested)",
+        "price": {
+          "min": 130.86,
+          "max": 130.86,
+          "mean": 130.86,
+          "median": 130.86,
+          "suggested": 125.7,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Bowie Knife | Night (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Bowie Knife | Night (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:38.537Z"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "skin-e4cd5a266934",
+  "name": "M4A1-S | Emphorosaur-S",
+  "paint_index": "1223",
+  "weapon": {
+    "id": "weapon_m4a1_silencer",
+    "weapon_id": 60,
+    "name": "M4A1-S",
+    "slug": "m4a1_silencer"
+  },
+  "pattern": {
+    "id": "cu_m4a1s_feeding_frenzy",
+    "name": "Emphorosaur-S"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.8,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. It has been custom painted to look like a dinosaur is clawing through the side of the weapon.\\n\\n<i>Feeding frenzy</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 3.13,
+      "max": 1165.77,
+      "mean": 26.37,
+      "median": 5.32,
+      "suggested": 4.09,
+      "quantity": 162,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.93,
+      "max": 108.2,
+      "mean": 3.38,
+      "median": 1.31,
+      "suggested": 1.25,
+      "quantity": 354,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.43,
+      "max": 43.18,
+      "mean": 0.96,
+      "median": 0.81,
+      "suggested": 0.59,
+      "quantity": 1366,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.51,
+      "max": 7.7,
+      "mean": 1.04,
+      "median": 0.91,
+      "suggested": 0.62,
+      "quantity": 87,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.41,
+      "max": 14.42,
+      "mean": 0.76,
+      "median": 0.57,
+      "suggested": 0.59,
+      "quantity": 171,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A1-S | Emphorosaur-S (Factory New)",
+      "price": {
+        "min": 3.13,
+        "max": 1165.77,
+        "mean": 26.37,
+        "median": 5.32,
+        "suggested": 4.09,
+        "quantity": 162,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A1-S | Emphorosaur-S (Minimal Wear)",
+      "price": {
+        "min": 0.93,
+        "max": 108.2,
+        "mean": 3.38,
+        "median": 1.31,
+        "suggested": 1.25,
+        "quantity": 354,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A1-S | Emphorosaur-S (Field-Tested)",
+      "price": {
+        "min": 0.43,
+        "max": 43.18,
+        "mean": 0.96,
+        "median": 0.81,
+        "suggested": 0.59,
+        "quantity": 1366,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M4A1-S | Emphorosaur-S (Well-Worn)",
+      "price": {
+        "min": 0.51,
+        "max": 7.7,
+        "mean": 1.04,
+        "median": 0.91,
+        "suggested": 0.62,
+        "quantity": 87,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M4A1-S | Emphorosaur-S (Battle-Scarred)",
+      "price": {
+        "min": 0.41,
+        "max": 14.42,
+        "mean": 0.76,
+        "median": 0.57,
+        "suggested": 0.59,
+        "quantity": 171,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A1-S | Emphorosaur-S (Factory New)",
+        "price": {
+          "min": 3.13,
+          "max": 1165.77,
+          "mean": 26.37,
+          "median": 5.32,
+          "suggested": 4.09,
+          "quantity": 162,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A1-S | Emphorosaur-S (Minimal Wear)",
+        "price": {
+          "min": 0.93,
+          "max": 108.2,
+          "mean": 3.38,
+          "median": 1.31,
+          "suggested": 1.25,
+          "quantity": 354,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A1-S | Emphorosaur-S (Field-Tested)",
+        "price": {
+          "min": 0.43,
+          "max": 43.18,
+          "mean": 0.96,
+          "median": 0.81,
+          "suggested": 0.59,
+          "quantity": 1366,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M4A1-S | Emphorosaur-S (Well-Worn)",
+        "price": {
+          "min": 0.51,
+          "max": 7.7,
+          "mean": 1.04,
+          "median": 0.91,
+          "suggested": 0.62,
+          "quantity": 87,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M4A1-S | Emphorosaur-S (Battle-Scarred)",
+        "price": {
+          "min": 0.41,
+          "max": 14.42,
+          "mean": 0.76,
+          "median": 0.57,
+          "suggested": 0.59,
+          "quantity": 171,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ M4A1-S | Emphorosaur-S (Factory New)",
+        "price": {
+          "min": 6.86,
+          "max": 472.61,
+          "mean": 24.49,
+          "median": 11.66,
+          "suggested": 7.84,
+          "quantity": 93,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ M4A1-S | Emphorosaur-S (Minimal Wear)",
+        "price": {
+          "min": 2.05,
+          "max": 45.78,
+          "mean": 5.95,
+          "median": 4.06,
+          "suggested": 2.72,
+          "quantity": 212,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ M4A1-S | Emphorosaur-S (Field-Tested)",
+        "price": {
+          "min": 0.88,
+          "max": 23.34,
+          "mean": 1.69,
+          "median": 1.34,
+          "suggested": 1.25,
+          "quantity": 275,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ M4A1-S | Emphorosaur-S (Well-Worn)",
+        "price": {
+          "min": 1.21,
+          "max": 4.18,
+          "mean": 2.35,
+          "median": 2.42,
+          "suggested": 1.56,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ M4A1-S | Emphorosaur-S (Battle-Scarred)",
+        "price": {
+          "min": 0.89,
+          "max": 42.36,
+          "mean": 2.35,
+          "median": 1.49,
+          "suggested": 1.21,
+          "quantity": 63,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A1-S | Emphorosaur-S (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A1-S | Emphorosaur-S (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A1-S | Emphorosaur-S (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M4A1-S | Emphorosaur-S (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M4A1-S | Emphorosaur-S (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:40.879Z"
+}

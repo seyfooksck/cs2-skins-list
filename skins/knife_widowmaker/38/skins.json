@@ -1,0 +1,121 @@
+{
+  "id": "skin-b578d971da2a",
+  "name": "★ Talon Knife | Fade",
+  "paint_index": "38",
+  "weapon": {
+    "id": "weapon_knife_widowmaker",
+    "weapon_id": 523,
+    "name": "Talon Knife",
+    "slug": "knife_widowmaker"
+  },
+  "pattern": {
+    "id": "aa_fade",
+    "name": "Fade"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This ivory-handled karambit features brass rivets and saw-tooth ridges, so it cuts on the way in, and tears on the way out. It has been painted by airbrushing transparent paints that fade together over a chrome base coat.\\n\\n<i>This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 908.24,
+      "max": 1945.87,
+      "mean": 1169.95,
+      "median": 1129.79,
+      "suggested": 978.01,
+      "quantity": 20,
+      "currency": "USD"
+    },
+    "mw": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Talon Knife | Fade (Factory New)",
+      "price": {
+        "min": 908.24,
+        "max": 1945.87,
+        "mean": 1169.95,
+        "median": 1129.79,
+        "suggested": 978.01,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Talon Knife | Fade (Minimal Wear)",
+      "price": null,
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Talon Knife | Fade (Factory New)",
+        "price": {
+          "min": 908.24,
+          "max": 1945.87,
+          "mean": 1169.95,
+          "median": 1129.79,
+          "suggested": 978.01,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Talon Knife | Fade (Minimal Wear)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Talon Knife | Fade (Factory New)",
+        "price": {
+          "min": 935.35,
+          "max": 935.35,
+          "mean": 935.35,
+          "median": 935.35,
+          "suggested": 1108.18,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Talon Knife | Fade (Minimal Wear)",
+        "price": {
+          "min": 1078.25,
+          "max": 1078.25,
+          "mean": 1078.25,
+          "median": 1078.25,
+          "suggested": 1752.7,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:39.355Z"
+}

@@ -1,0 +1,201 @@
+{
+  "id": "skin-0b8c896de2ea",
+  "name": "★ Karambit | Forest DDPAT",
+  "paint_index": "5",
+  "weapon": {
+    "id": "weapon_knife_karambit",
+    "weapon_id": 507,
+    "name": "Karambit",
+    "slug": "knife_karambit"
+  },
+  "pattern": {
+    "id": "hy_ddpat",
+    "name": "Forest DDPAT"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.\\n\\n<i>By the time you're close enough to notice the pixels it's already too late</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 473.96,
+      "max": 527.43,
+      "mean": 505.79,
+      "median": 508.61,
+      "suggested": 544.99,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 584.3,
+      "max": 584.3,
+      "mean": 584.3,
+      "median": 584.3,
+      "suggested": 491.81,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 466.77,
+      "max": 466.77,
+      "mean": 466.77,
+      "median": 466.77,
+      "suggested": 472.71,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Karambit | Forest DDPAT (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Karambit | Forest DDPAT (Minimal Wear)",
+      "price": {
+        "min": 473.96,
+        "max": 527.43,
+        "mean": 505.79,
+        "median": 508.61,
+        "suggested": 544.99,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Karambit | Forest DDPAT (Field-Tested)",
+      "price": {
+        "min": 584.3,
+        "max": 584.3,
+        "mean": 584.3,
+        "median": 584.3,
+        "suggested": 491.81,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Karambit | Forest DDPAT (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Karambit | Forest DDPAT (Battle-Scarred)",
+      "price": {
+        "min": 466.77,
+        "max": 466.77,
+        "mean": 466.77,
+        "median": 466.77,
+        "suggested": 472.71,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Karambit | Forest DDPAT (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Karambit | Forest DDPAT (Minimal Wear)",
+        "price": {
+          "min": 473.96,
+          "max": 527.43,
+          "mean": 505.79,
+          "median": 508.61,
+          "suggested": 544.99,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Karambit | Forest DDPAT (Field-Tested)",
+        "price": {
+          "min": 584.3,
+          "max": 584.3,
+          "mean": 584.3,
+          "median": 584.3,
+          "suggested": 491.81,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Karambit | Forest DDPAT (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ Karambit | Forest DDPAT (Battle-Scarred)",
+        "price": {
+          "min": 466.77,
+          "max": 466.77,
+          "mean": 466.77,
+          "median": 466.77,
+          "suggested": 472.71,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Karambit | Forest DDPAT (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Karambit | Forest DDPAT (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Karambit | Forest DDPAT (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Karambit | Forest DDPAT (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Karambit | Forest DDPAT (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:35.998Z"
+}

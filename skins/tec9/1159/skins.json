@@ -1,0 +1,310 @@
+{
+  "id": "skin-80f2ee4e940f",
+  "name": "Tec-9 | Slag",
+  "paint_index": "1159",
+  "weapon": {
+    "id": "weapon_tec9",
+    "weapon_id": 30,
+    "name": "Tec-9",
+    "slug": "tec9"
+  },
+  "pattern": {
+    "id": "tec9_junkyard_engineering",
+    "name": "Slag"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.9,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity. It has been custom painted to appear handmade, from the grip to the welding on the receiver.\\n\\n<i>You have insurance, right?</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.9,
+      "max": 11.66,
+      "mean": 2.45,
+      "median": 1.74,
+      "suggested": 1.28,
+      "quantity": 77,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.16,
+      "max": 6.65,
+      "mean": 0.26,
+      "median": 0.21,
+      "suggested": 0.23,
+      "quantity": 426,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.07,
+      "max": 4.67,
+      "mean": 0.12,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 1197,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.07,
+      "max": 4.67,
+      "mean": 0.13,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 388,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.07,
+      "max": 4.67,
+      "mean": 0.12,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 470,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Tec-9 | Slag (Factory New)",
+      "price": {
+        "min": 0.9,
+        "max": 11.66,
+        "mean": 2.45,
+        "median": 1.74,
+        "suggested": 1.28,
+        "quantity": 77,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Tec-9 | Slag (Minimal Wear)",
+      "price": {
+        "min": 0.16,
+        "max": 6.65,
+        "mean": 0.26,
+        "median": 0.21,
+        "suggested": 0.23,
+        "quantity": 426,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Tec-9 | Slag (Field-Tested)",
+      "price": {
+        "min": 0.07,
+        "max": 4.67,
+        "mean": 0.12,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 1197,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Tec-9 | Slag (Well-Worn)",
+      "price": {
+        "min": 0.07,
+        "max": 4.67,
+        "mean": 0.13,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 388,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Tec-9 | Slag (Battle-Scarred)",
+      "price": {
+        "min": 0.07,
+        "max": 4.67,
+        "mean": 0.12,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 470,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Tec-9 | Slag (Factory New)",
+        "price": {
+          "min": 0.9,
+          "max": 11.66,
+          "mean": 2.45,
+          "median": 1.74,
+          "suggested": 1.28,
+          "quantity": 77,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Tec-9 | Slag (Minimal Wear)",
+        "price": {
+          "min": 0.16,
+          "max": 6.65,
+          "mean": 0.26,
+          "median": 0.21,
+          "suggested": 0.23,
+          "quantity": 426,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Tec-9 | Slag (Field-Tested)",
+        "price": {
+          "min": 0.07,
+          "max": 4.67,
+          "mean": 0.12,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 1197,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Tec-9 | Slag (Well-Worn)",
+        "price": {
+          "min": 0.07,
+          "max": 4.67,
+          "mean": 0.13,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 388,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Tec-9 | Slag (Battle-Scarred)",
+        "price": {
+          "min": 0.07,
+          "max": 4.67,
+          "mean": 0.12,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 470,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Tec-9 | Slag (Factory New)",
+        "price": {
+          "min": 1.17,
+          "max": 15.7,
+          "mean": 3.59,
+          "median": 1.35,
+          "suggested": 1.36,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Tec-9 | Slag (Minimal Wear)",
+        "price": {
+          "min": 0.2,
+          "max": 17.41,
+          "mean": 0.43,
+          "median": 0.29,
+          "suggested": 0.27,
+          "quantity": 284,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Tec-9 | Slag (Field-Tested)",
+        "price": {
+          "min": 0.08,
+          "max": 7.68,
+          "mean": 0.19,
+          "median": 0.14,
+          "suggested": 0.12,
+          "quantity": 423,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Tec-9 | Slag (Well-Worn)",
+        "price": {
+          "min": 0.09,
+          "max": 0.28,
+          "mean": 0.14,
+          "median": 0.13,
+          "suggested": 0.1,
+          "quantity": 102,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Tec-9 | Slag (Battle-Scarred)",
+        "price": {
+          "min": 0.07,
+          "max": 0.79,
+          "mean": 0.13,
+          "median": 0.13,
+          "suggested": 0.1,
+          "quantity": 132,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Tec-9 | Slag (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Tec-9 | Slag (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Tec-9 | Slag (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Tec-9 | Slag (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Tec-9 | Slag (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.647Z"
+}

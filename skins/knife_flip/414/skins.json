@@ -1,0 +1,105 @@
+{
+  "id": "skin-57b42777d395",
+  "name": "★ Flip Knife | Rust Coat",
+  "paint_index": "414",
+  "weapon": {
+    "id": "weapon_knife_flip",
+    "weapon_id": 505,
+    "name": "Flip Knife",
+    "slug": "knife_flip"
+  },
+  "pattern": {
+    "id": "aq_steel_knife",
+    "name": "Rust Coat"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.4,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Flip knives sport a Persian-style back-swept blade with an acute point.  While the point itself may be fragile, the overall design of the flip knife's design is surprisingly durable. This memento from Siege is still perfectly operational although the exterior surfaces have rusted.\\n\\n<i>Scars build character</i>",
+  "images": {
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "ww": null,
+    "bs": {
+      "min": 129.52,
+      "max": 204.21,
+      "mean": 150.86,
+      "median": 131.78,
+      "suggested": 143.53,
+      "quantity": 7,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Flip Knife | Rust Coat (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Flip Knife | Rust Coat (Battle-Scarred)",
+      "price": {
+        "min": 129.52,
+        "max": 204.21,
+        "mean": 150.86,
+        "median": 131.78,
+        "suggested": 143.53,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "ww": {
+        "market_hash_name": "★ Flip Knife | Rust Coat (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ Flip Knife | Rust Coat (Battle-Scarred)",
+        "price": {
+          "min": 129.52,
+          "max": 204.21,
+          "mean": 150.86,
+          "median": 131.78,
+          "suggested": 143.53,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Rust Coat (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Rust Coat (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:34.731Z"
+}

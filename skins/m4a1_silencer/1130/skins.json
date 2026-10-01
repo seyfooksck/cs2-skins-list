@@ -1,0 +1,310 @@
+{
+  "id": "skin-ec2dd0814c74",
+  "name": "M4A1-S | Night Terror",
+  "paint_index": "1130",
+  "weapon": {
+    "id": "weapon_m4a1_silencer",
+    "weapon_id": 60,
+    "name": "M4A1-S",
+    "slug": "m4a1_silencer"
+  },
+  "pattern": {
+    "id": "gs_m4a1s_insomnia",
+    "name": "Night Terror"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. Scattered thoughts from the mind of an insomniac have been scrawled across this custom-painted A1-S.\\n\\n<i>In the bosom of the gentle night, is when I search for the light</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.7,
+      "max": 1853.7,
+      "mean": 32.94,
+      "median": 3.8,
+      "suggested": 3.44,
+      "quantity": 135,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.97,
+      "max": 334.33,
+      "mean": 2.87,
+      "median": 1.19,
+      "suggested": 1.23,
+      "quantity": 382,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.61,
+      "max": 289.4,
+      "mean": 1.46,
+      "median": 0.77,
+      "suggested": 0.86,
+      "quantity": 1437,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.72,
+      "max": 11.55,
+      "mean": 1.26,
+      "median": 0.84,
+      "suggested": 0.95,
+      "quantity": 73,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.72,
+      "max": 83.98,
+      "mean": 4.06,
+      "median": 2.39,
+      "suggested": 0.96,
+      "quantity": 365,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A1-S | Night Terror (Factory New)",
+      "price": {
+        "min": 2.7,
+        "max": 1853.7,
+        "mean": 32.94,
+        "median": 3.8,
+        "suggested": 3.44,
+        "quantity": 135,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A1-S | Night Terror (Minimal Wear)",
+      "price": {
+        "min": 0.97,
+        "max": 334.33,
+        "mean": 2.87,
+        "median": 1.19,
+        "suggested": 1.23,
+        "quantity": 382,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A1-S | Night Terror (Field-Tested)",
+      "price": {
+        "min": 0.61,
+        "max": 289.4,
+        "mean": 1.46,
+        "median": 0.77,
+        "suggested": 0.86,
+        "quantity": 1437,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M4A1-S | Night Terror (Well-Worn)",
+      "price": {
+        "min": 0.72,
+        "max": 11.55,
+        "mean": 1.26,
+        "median": 0.84,
+        "suggested": 0.95,
+        "quantity": 73,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M4A1-S | Night Terror (Battle-Scarred)",
+      "price": {
+        "min": 0.72,
+        "max": 83.98,
+        "mean": 4.06,
+        "median": 2.39,
+        "suggested": 0.96,
+        "quantity": 365,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A1-S | Night Terror (Factory New)",
+        "price": {
+          "min": 2.7,
+          "max": 1853.7,
+          "mean": 32.94,
+          "median": 3.8,
+          "suggested": 3.44,
+          "quantity": 135,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A1-S | Night Terror (Minimal Wear)",
+        "price": {
+          "min": 0.97,
+          "max": 334.33,
+          "mean": 2.87,
+          "median": 1.19,
+          "suggested": 1.23,
+          "quantity": 382,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A1-S | Night Terror (Field-Tested)",
+        "price": {
+          "min": 0.61,
+          "max": 289.4,
+          "mean": 1.46,
+          "median": 0.77,
+          "suggested": 0.86,
+          "quantity": 1437,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M4A1-S | Night Terror (Well-Worn)",
+        "price": {
+          "min": 0.72,
+          "max": 11.55,
+          "mean": 1.26,
+          "median": 0.84,
+          "suggested": 0.95,
+          "quantity": 73,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M4A1-S | Night Terror (Battle-Scarred)",
+        "price": {
+          "min": 0.72,
+          "max": 83.98,
+          "mean": 4.06,
+          "median": 2.39,
+          "suggested": 0.96,
+          "quantity": 365,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ M4A1-S | Night Terror (Factory New)",
+        "price": {
+          "min": 4.91,
+          "max": 395.59,
+          "mean": 28.8,
+          "median": 11.67,
+          "suggested": 5.66,
+          "quantity": 144,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ M4A1-S | Night Terror (Minimal Wear)",
+        "price": {
+          "min": 2.15,
+          "max": 54.29,
+          "mean": 4.95,
+          "median": 3.16,
+          "suggested": 2.58,
+          "quantity": 134,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ M4A1-S | Night Terror (Field-Tested)",
+        "price": {
+          "min": 1.16,
+          "max": 30.34,
+          "mean": 1.95,
+          "median": 1.62,
+          "suggested": 1.57,
+          "quantity": 303,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ M4A1-S | Night Terror (Well-Worn)",
+        "price": {
+          "min": 1.82,
+          "max": 42.01,
+          "mean": 8.8,
+          "median": 3.64,
+          "suggested": 2.11,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ M4A1-S | Night Terror (Battle-Scarred)",
+        "price": {
+          "min": 2.37,
+          "max": 144.27,
+          "mean": 14.25,
+          "median": 3.99,
+          "suggested": 2.77,
+          "quantity": 66,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A1-S | Night Terror (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A1-S | Night Terror (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A1-S | Night Terror (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M4A1-S | Night Terror (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M4A1-S | Night Terror (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.007Z"
+}

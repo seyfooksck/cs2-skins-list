@@ -1,0 +1,310 @@
+{
+  "id": "skin-8ec9dd302f30",
+  "name": "P250 | Bullfrog",
+  "paint_index": "1345",
+  "weapon": {
+    "id": "weapon_p250",
+    "weapon_id": 36,
+    "name": "P250",
+    "slug": "p250"
+  },
+  "pattern": {
+    "id": "p250_bullfrog",
+    "name": "Bullfrog"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A low-recoil firearm with a high rate of fire, the P250 is a relatively inexpensive choice against armored opponents. It has been custom painted with racing liveries in bronze and black.\\n\\n<i>Look at you go!</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.1,
+      "max": 55.81,
+      "mean": 7.9,
+      "median": 1.96,
+      "suggested": 1.41,
+      "quantity": 30,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.26,
+      "max": 0.58,
+      "mean": 0.36,
+      "median": 0.32,
+      "suggested": 0.3,
+      "quantity": 23,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.11,
+      "max": 0.61,
+      "mean": 0.18,
+      "median": 0.14,
+      "suggested": 0.14,
+      "quantity": 67,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.08,
+      "max": 0.58,
+      "mean": 0.14,
+      "median": 0.11,
+      "suggested": 0.1,
+      "quantity": 47,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.08,
+      "max": 3.87,
+      "mean": 0.58,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 15,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P250 | Bullfrog (Factory New)",
+      "price": {
+        "min": 1.1,
+        "max": 55.81,
+        "mean": 7.9,
+        "median": 1.96,
+        "suggested": 1.41,
+        "quantity": 30,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P250 | Bullfrog (Minimal Wear)",
+      "price": {
+        "min": 0.26,
+        "max": 0.58,
+        "mean": 0.36,
+        "median": 0.32,
+        "suggested": 0.3,
+        "quantity": 23,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P250 | Bullfrog (Field-Tested)",
+      "price": {
+        "min": 0.11,
+        "max": 0.61,
+        "mean": 0.18,
+        "median": 0.14,
+        "suggested": 0.14,
+        "quantity": 67,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P250 | Bullfrog (Well-Worn)",
+      "price": {
+        "min": 0.08,
+        "max": 0.58,
+        "mean": 0.14,
+        "median": 0.11,
+        "suggested": 0.1,
+        "quantity": 47,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P250 | Bullfrog (Battle-Scarred)",
+      "price": {
+        "min": 0.08,
+        "max": 3.87,
+        "mean": 0.58,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P250 | Bullfrog (Factory New)",
+        "price": {
+          "min": 1.1,
+          "max": 55.81,
+          "mean": 7.9,
+          "median": 1.96,
+          "suggested": 1.41,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P250 | Bullfrog (Minimal Wear)",
+        "price": {
+          "min": 0.26,
+          "max": 0.58,
+          "mean": 0.36,
+          "median": 0.32,
+          "suggested": 0.3,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P250 | Bullfrog (Field-Tested)",
+        "price": {
+          "min": 0.11,
+          "max": 0.61,
+          "mean": 0.18,
+          "median": 0.14,
+          "suggested": 0.14,
+          "quantity": 67,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P250 | Bullfrog (Well-Worn)",
+        "price": {
+          "min": 0.08,
+          "max": 0.58,
+          "mean": 0.14,
+          "median": 0.11,
+          "suggested": 0.1,
+          "quantity": 47,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P250 | Bullfrog (Battle-Scarred)",
+        "price": {
+          "min": 0.08,
+          "max": 3.87,
+          "mean": 0.58,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P250 | Bullfrog (Factory New)",
+        "price": {
+          "min": 20.25,
+          "max": 25.56,
+          "mean": 22.91,
+          "median": 22.91,
+          "suggested": 1.83,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P250 | Bullfrog (Minimal Wear)",
+        "price": {
+          "min": 0.48,
+          "max": 1.17,
+          "mean": 0.67,
+          "median": 0.56,
+          "suggested": 0.71,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P250 | Bullfrog (Field-Tested)",
+        "price": {
+          "min": 0.25,
+          "max": 1.17,
+          "mean": 0.35,
+          "median": 0.3,
+          "suggested": 0.27,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ P250 | Bullfrog (Well-Worn)",
+        "price": {
+          "min": 0.22,
+          "max": 0.78,
+          "mean": 0.29,
+          "median": 0.28,
+          "suggested": 0.27,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ P250 | Bullfrog (Battle-Scarred)",
+        "price": {
+          "min": 0.23,
+          "max": 10.5,
+          "mean": 2.19,
+          "median": 0.5,
+          "suggested": 0.17,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P250 | Bullfrog (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P250 | Bullfrog (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P250 | Bullfrog (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P250 | Bullfrog (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P250 | Bullfrog (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:45.502Z"
+}

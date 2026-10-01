@@ -1,0 +1,129 @@
+{
+  "id": "skin-8fbcba8495ae",
+  "name": "AWP | Fade",
+  "paint_index": "1026",
+  "weapon": {
+    "id": "weapon_awp",
+    "weapon_id": 9,
+    "name": "AWP",
+    "slug": "awp"
+  },
+  "pattern": {
+    "id": "aa_awp_fade",
+    "name": "Fade"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been painted by airbrushing transparent paints that fade together over a chrome base coat.\\n\\n<i>This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 772.65,
+      "max": 1983.79,
+      "mean": 1117.83,
+      "median": 1084.69,
+      "suggested": 920.82,
+      "quantity": 31,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1296.6,
+      "max": 1377.51,
+      "mean": 1337.05,
+      "median": 1337.05,
+      "suggested": 1054.06,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AWP | Fade (Factory New)",
+      "price": {
+        "min": 772.65,
+        "max": 1983.79,
+        "mean": 1117.83,
+        "median": 1084.69,
+        "suggested": 920.82,
+        "quantity": 31,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AWP | Fade (Minimal Wear)",
+      "price": {
+        "min": 1296.6,
+        "max": 1377.51,
+        "mean": 1337.05,
+        "median": 1337.05,
+        "suggested": 1054.06,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AWP | Fade (Factory New)",
+        "price": {
+          "min": 772.65,
+          "max": 1983.79,
+          "mean": 1117.83,
+          "median": 1084.69,
+          "suggested": 920.82,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AWP | Fade (Minimal Wear)",
+        "price": {
+          "min": 1296.6,
+          "max": 1377.51,
+          "mean": 1337.05,
+          "median": 1337.05,
+          "suggested": 1054.06,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AWP | Fade (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AWP | Fade (Minimal Wear)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.740Z"
+}

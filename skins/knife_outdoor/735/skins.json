@@ -1,0 +1,233 @@
+{
+  "id": "skin-268f89c9e501",
+  "name": "★ Nomad Knife | Night Stripe",
+  "paint_index": "735",
+  "weapon": {
+    "id": "weapon_knife_outdoor",
+    "weapon_id": 521,
+    "name": "Nomad Knife",
+    "slug": "knife_outdoor"
+  },
+  "pattern": {
+    "id": "sp_nightstripe",
+    "name": "Night Stripe"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This ergonomic tactical hunting lock-blade knife features composite handle inserts and a broad, sturdy blade, useful for cutting and prying apart material. It has been spray-painted with a tape mask pattern in a night ops color scheme.\\n\\n<i>Spray... Pray... Paint... Stab.</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 214.72,
+      "max": 214.72,
+      "mean": 214.72,
+      "median": 214.72,
+      "suggested": 211.42,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 122.31,
+      "max": 256.73,
+      "mean": 180.85,
+      "median": 163.52,
+      "suggested": 142.3,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 105.57,
+      "max": 112.96,
+      "mean": 110.05,
+      "median": 110.82,
+      "suggested": 126.67,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 96.81,
+      "max": 154.53,
+      "mean": 116.59,
+      "median": 98.42,
+      "suggested": 115.33,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Nomad Knife | Night Stripe (Factory New)",
+      "price": {
+        "min": 214.72,
+        "max": 214.72,
+        "mean": 214.72,
+        "median": 214.72,
+        "suggested": 211.42,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Nomad Knife | Night Stripe (Minimal Wear)",
+      "price": {
+        "min": 122.31,
+        "max": 256.73,
+        "mean": 180.85,
+        "median": 163.52,
+        "suggested": 142.3,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Nomad Knife | Night Stripe (Field-Tested)",
+      "price": {
+        "min": 105.57,
+        "max": 112.96,
+        "mean": 110.05,
+        "median": 110.82,
+        "suggested": 126.67,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Nomad Knife | Night Stripe (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Nomad Knife | Night Stripe (Battle-Scarred)",
+      "price": {
+        "min": 96.81,
+        "max": 154.53,
+        "mean": 116.59,
+        "median": 98.42,
+        "suggested": 115.33,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Nomad Knife | Night Stripe (Factory New)",
+        "price": {
+          "min": 214.72,
+          "max": 214.72,
+          "mean": 214.72,
+          "median": 214.72,
+          "suggested": 211.42,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Nomad Knife | Night Stripe (Minimal Wear)",
+        "price": {
+          "min": 122.31,
+          "max": 256.73,
+          "mean": 180.85,
+          "median": 163.52,
+          "suggested": 142.3,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Nomad Knife | Night Stripe (Field-Tested)",
+        "price": {
+          "min": 105.57,
+          "max": 112.96,
+          "mean": 110.05,
+          "median": 110.82,
+          "suggested": 126.67,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Nomad Knife | Night Stripe (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ Nomad Knife | Night Stripe (Battle-Scarred)",
+        "price": {
+          "min": 96.81,
+          "max": 154.53,
+          "mean": 116.59,
+          "median": 98.42,
+          "suggested": 115.33,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Nomad Knife | Night Stripe (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Nomad Knife | Night Stripe (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Nomad Knife | Night Stripe (Field-Tested)",
+        "price": {
+          "min": 111.21,
+          "max": 111.21,
+          "mean": 111.21,
+          "median": 111.21,
+          "suggested": 123.31,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Nomad Knife | Night Stripe (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Nomad Knife | Night Stripe (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:37.109Z"
+}

@@ -1,0 +1,113 @@
+{
+  "id": "skin-782e6bfea0c1",
+  "name": "★ Stiletto Knife | Doppler",
+  "paint_index": "420",
+  "weapon": {
+    "id": "weapon_knife_stiletto",
+    "weapon_id": 522,
+    "name": "Stiletto Knife",
+    "slug": "knife_stiletto"
+  },
+  "pattern": {
+    "id": "am_doppler_phase3",
+    "name": "Doppler"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Historically a focal point of contention and even regulation, this Italian-style stiletto switchblade knife features a spring-loaded blade that can be deployed almost instantly with the push of a release catch. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1910.73,
+      "max": 2195.34,
+      "mean": 2053.04,
+      "median": 2053.04,
+      "suggested": 1925.58,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "mw": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Stiletto Knife | Doppler (Factory New)",
+      "price": {
+        "min": 1910.73,
+        "max": 2195.34,
+        "mean": 2053.04,
+        "median": 2053.04,
+        "suggested": 1925.58,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Stiletto Knife | Doppler (Minimal Wear)",
+      "price": null,
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Stiletto Knife | Doppler (Factory New)",
+        "price": {
+          "min": 1910.73,
+          "max": 2195.34,
+          "mean": 2053.04,
+          "median": 2053.04,
+          "suggested": 1925.58,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Stiletto Knife | Doppler (Minimal Wear)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Stiletto Knife | Doppler (Factory New)",
+        "price": {
+          "min": 2201.91,
+          "max": 2201.91,
+          "mean": 2201.91,
+          "median": 2201.91,
+          "suggested": 2351.42,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Stiletto Knife | Doppler (Minimal Wear)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:37.908Z"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "skin-3c454adf5bdd",
+  "name": "Tec-9 | Snek-9",
+  "paint_index": "722",
+  "weapon": {
+    "id": "weapon_tec9",
+    "weapon_id": 30,
+    "name": "Tec-9",
+    "slug": "tec9"
+  },
+  "pattern": {
+    "id": "cu_tec9_snake",
+    "name": "Snek-9"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity. A custom paint job inspired by coral snakes has been applied.\\n\\n<i>\\\"If red meets yellow, you're a dead fellow\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 10.34,
+      "max": 121.48,
+      "mean": 28.25,
+      "median": 16.35,
+      "suggested": 15.06,
+      "quantity": 27,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.75,
+      "max": 13.77,
+      "mean": 1.82,
+      "median": 0.93,
+      "suggested": 0.97,
+      "quantity": 59,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.46,
+      "max": 10.56,
+      "mean": 1.14,
+      "median": 0.57,
+      "suggested": 0.71,
+      "quantity": 105,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.28,
+      "max": 8.09,
+      "mean": 0.78,
+      "median": 0.36,
+      "suggested": 0.43,
+      "quantity": 72,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.23,
+      "max": 4.1,
+      "mean": 0.46,
+      "median": 0.33,
+      "suggested": 0.35,
+      "quantity": 72,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Tec-9 | Snek-9 (Factory New)",
+      "price": {
+        "min": 10.34,
+        "max": 121.48,
+        "mean": 28.25,
+        "median": 16.35,
+        "suggested": 15.06,
+        "quantity": 27,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Tec-9 | Snek-9 (Minimal Wear)",
+      "price": {
+        "min": 0.75,
+        "max": 13.77,
+        "mean": 1.82,
+        "median": 0.93,
+        "suggested": 0.97,
+        "quantity": 59,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Tec-9 | Snek-9 (Field-Tested)",
+      "price": {
+        "min": 0.46,
+        "max": 10.56,
+        "mean": 1.14,
+        "median": 0.57,
+        "suggested": 0.71,
+        "quantity": 105,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Tec-9 | Snek-9 (Well-Worn)",
+      "price": {
+        "min": 0.28,
+        "max": 8.09,
+        "mean": 0.78,
+        "median": 0.36,
+        "suggested": 0.43,
+        "quantity": 72,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Tec-9 | Snek-9 (Battle-Scarred)",
+      "price": {
+        "min": 0.23,
+        "max": 4.1,
+        "mean": 0.46,
+        "median": 0.33,
+        "suggested": 0.35,
+        "quantity": 72,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Tec-9 | Snek-9 (Factory New)",
+        "price": {
+          "min": 10.34,
+          "max": 121.48,
+          "mean": 28.25,
+          "median": 16.35,
+          "suggested": 15.06,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Tec-9 | Snek-9 (Minimal Wear)",
+        "price": {
+          "min": 0.75,
+          "max": 13.77,
+          "mean": 1.82,
+          "median": 0.93,
+          "suggested": 0.97,
+          "quantity": 59,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Tec-9 | Snek-9 (Field-Tested)",
+        "price": {
+          "min": 0.46,
+          "max": 10.56,
+          "mean": 1.14,
+          "median": 0.57,
+          "suggested": 0.71,
+          "quantity": 105,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Tec-9 | Snek-9 (Well-Worn)",
+        "price": {
+          "min": 0.28,
+          "max": 8.09,
+          "mean": 0.78,
+          "median": 0.36,
+          "suggested": 0.43,
+          "quantity": 72,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Tec-9 | Snek-9 (Battle-Scarred)",
+        "price": {
+          "min": 0.23,
+          "max": 4.1,
+          "mean": 0.46,
+          "median": 0.33,
+          "suggested": 0.35,
+          "quantity": 72,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Tec-9 | Snek-9 (Factory New)",
+        "price": {
+          "min": 5.92,
+          "max": 55.55,
+          "mean": 17.96,
+          "median": 7.21,
+          "suggested": 6.92,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Tec-9 | Snek-9 (Minimal Wear)",
+        "price": {
+          "min": 1.19,
+          "max": 2.04,
+          "mean": 1.48,
+          "median": 1.48,
+          "suggested": 1.52,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Tec-9 | Snek-9 (Field-Tested)",
+        "price": {
+          "min": 0.55,
+          "max": 5.83,
+          "mean": 0.72,
+          "median": 0.62,
+          "suggested": 0.73,
+          "quantity": 67,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Tec-9 | Snek-9 (Well-Worn)",
+        "price": {
+          "min": 0.28,
+          "max": 3.68,
+          "mean": 0.55,
+          "median": 0.43,
+          "suggested": 0.43,
+          "quantity": 42,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Tec-9 | Snek-9 (Battle-Scarred)",
+        "price": {
+          "min": 0.25,
+          "max": 3.07,
+          "mean": 0.49,
+          "median": 0.37,
+          "suggested": 0.36,
+          "quantity": 54,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Tec-9 | Snek-9 (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Tec-9 | Snek-9 (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Tec-9 | Snek-9 (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Tec-9 | Snek-9 (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Tec-9 | Snek-9 (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.237Z"
+}

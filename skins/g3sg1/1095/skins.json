@@ -1,0 +1,302 @@
+{
+  "id": "skin-4b59a9ff63bf",
+  "name": "G3SG1 | Keeping Tabs",
+  "paint_index": "1095",
+  "weapon": {
+    "id": "weapon_g3sg1",
+    "weapon_id": 11,
+    "name": "G3SG1",
+    "slug": "g3sg1"
+  },
+  "pattern": {
+    "id": "cu_g3sg1_tacticalmap",
+    "name": "Keeping Tabs"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The pricy G3SG1 lowers movement speed considerably but compensates with a higher rate of fire than other sniper rifles. It has been custom painted using Danger Zone's tactical map display as inspiration.\\n\\n<i>You have all the information you need - Franz Kriegeld, Phoenix Tactician</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 3.7,
+      "max": 46.67,
+      "mean": 13.59,
+      "median": 5.58,
+      "suggested": 4.22,
+      "quantity": 17,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.88,
+      "max": 6.06,
+      "mean": 2.85,
+      "median": 2.86,
+      "suggested": 2.32,
+      "quantity": 22,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.89,
+      "max": 32.91,
+      "mean": 2.36,
+      "median": 1.2,
+      "suggested": 1.18,
+      "quantity": 81,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.85,
+      "max": 5.19,
+      "mean": 1.8,
+      "median": 0.97,
+      "suggested": 1.04,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.79,
+      "max": 1.96,
+      "mean": 1.18,
+      "median": 1.1,
+      "suggested": 1.04,
+      "quantity": 20,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "G3SG1 | Keeping Tabs (Factory New)",
+      "price": {
+        "min": 3.7,
+        "max": 46.67,
+        "mean": 13.59,
+        "median": 5.58,
+        "suggested": 4.22,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "G3SG1 | Keeping Tabs (Minimal Wear)",
+      "price": {
+        "min": 1.88,
+        "max": 6.06,
+        "mean": 2.85,
+        "median": 2.86,
+        "suggested": 2.32,
+        "quantity": 22,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "G3SG1 | Keeping Tabs (Field-Tested)",
+      "price": {
+        "min": 0.89,
+        "max": 32.91,
+        "mean": 2.36,
+        "median": 1.2,
+        "suggested": 1.18,
+        "quantity": 81,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "G3SG1 | Keeping Tabs (Well-Worn)",
+      "price": {
+        "min": 0.85,
+        "max": 5.19,
+        "mean": 1.8,
+        "median": 0.97,
+        "suggested": 1.04,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "G3SG1 | Keeping Tabs (Battle-Scarred)",
+      "price": {
+        "min": 0.79,
+        "max": 1.96,
+        "mean": 1.18,
+        "median": 1.1,
+        "suggested": 1.04,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "G3SG1 | Keeping Tabs (Factory New)",
+        "price": {
+          "min": 3.7,
+          "max": 46.67,
+          "mean": 13.59,
+          "median": 5.58,
+          "suggested": 4.22,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "G3SG1 | Keeping Tabs (Minimal Wear)",
+        "price": {
+          "min": 1.88,
+          "max": 6.06,
+          "mean": 2.85,
+          "median": 2.86,
+          "suggested": 2.32,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "G3SG1 | Keeping Tabs (Field-Tested)",
+        "price": {
+          "min": 0.89,
+          "max": 32.91,
+          "mean": 2.36,
+          "median": 1.2,
+          "suggested": 1.18,
+          "quantity": 81,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "G3SG1 | Keeping Tabs (Well-Worn)",
+        "price": {
+          "min": 0.85,
+          "max": 5.19,
+          "mean": 1.8,
+          "median": 0.97,
+          "suggested": 1.04,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "G3SG1 | Keeping Tabs (Battle-Scarred)",
+        "price": {
+          "min": 0.79,
+          "max": 1.96,
+          "mean": 1.18,
+          "median": 1.1,
+          "suggested": 1.04,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ G3SG1 | Keeping Tabs (Factory New)",
+        "price": {
+          "min": 3.68,
+          "max": 17.83,
+          "mean": 10.51,
+          "median": 9.9,
+          "suggested": 4.35,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ G3SG1 | Keeping Tabs (Minimal Wear)",
+        "price": {
+          "min": 2.47,
+          "max": 4.67,
+          "mean": 3.29,
+          "median": 2.98,
+          "suggested": 3.44,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ G3SG1 | Keeping Tabs (Field-Tested)",
+        "price": {
+          "min": 1.27,
+          "max": 3.5,
+          "mean": 2.22,
+          "median": 2.15,
+          "suggested": 1.79,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ G3SG1 | Keeping Tabs (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ G3SG1 | Keeping Tabs (Battle-Scarred)",
+        "price": {
+          "min": 1,
+          "max": 1.14,
+          "mean": 1.1,
+          "median": 1.11,
+          "suggested": 1.3,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir G3SG1 | Keeping Tabs (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir G3SG1 | Keeping Tabs (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir G3SG1 | Keeping Tabs (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir G3SG1 | Keeping Tabs (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir G3SG1 | Keeping Tabs (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:30.527Z"
+}

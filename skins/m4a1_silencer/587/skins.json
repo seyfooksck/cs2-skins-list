@@ -1,0 +1,310 @@
+{
+  "id": "skin-102a47219b11",
+  "name": "M4A1-S | Mecha Industries",
+  "paint_index": "587",
+  "weapon": {
+    "id": "weapon_m4a1_silencer",
+    "weapon_id": 60,
+    "name": "M4A1-S",
+    "slug": "m4a1_silencer"
+  },
+  "pattern": {
+    "id": "gs_m4a1_mecha_industries",
+    "name": "Mecha Industries"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.8,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. It is constructed of hardened ceramic panels.\\n\\n<i>Featuring all new technology</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 223.62,
+      "max": 583.47,
+      "mean": 362.78,
+      "median": 318.75,
+      "suggested": 321.5,
+      "quantity": 28,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 113.06,
+      "max": 411.87,
+      "mean": 155.58,
+      "median": 136.59,
+      "suggested": 147.75,
+      "quantity": 67,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 109.38,
+      "max": 175.83,
+      "mean": 125.13,
+      "median": 120.47,
+      "suggested": 138,
+      "quantity": 121,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 112.96,
+      "max": 119.51,
+      "mean": 115.5,
+      "median": 114.78,
+      "suggested": 138.83,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 110.86,
+      "max": 212.09,
+      "mean": 124.27,
+      "median": 115.07,
+      "suggested": 133.89,
+      "quantity": 15,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A1-S | Mecha Industries (Factory New)",
+      "price": {
+        "min": 223.62,
+        "max": 583.47,
+        "mean": 362.78,
+        "median": 318.75,
+        "suggested": 321.5,
+        "quantity": 28,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A1-S | Mecha Industries (Minimal Wear)",
+      "price": {
+        "min": 113.06,
+        "max": 411.87,
+        "mean": 155.58,
+        "median": 136.59,
+        "suggested": 147.75,
+        "quantity": 67,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A1-S | Mecha Industries (Field-Tested)",
+      "price": {
+        "min": 109.38,
+        "max": 175.83,
+        "mean": 125.13,
+        "median": 120.47,
+        "suggested": 138,
+        "quantity": 121,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M4A1-S | Mecha Industries (Well-Worn)",
+      "price": {
+        "min": 112.96,
+        "max": 119.51,
+        "mean": 115.5,
+        "median": 114.78,
+        "suggested": 138.83,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M4A1-S | Mecha Industries (Battle-Scarred)",
+      "price": {
+        "min": 110.86,
+        "max": 212.09,
+        "mean": 124.27,
+        "median": 115.07,
+        "suggested": 133.89,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A1-S | Mecha Industries (Factory New)",
+        "price": {
+          "min": 223.62,
+          "max": 583.47,
+          "mean": 362.78,
+          "median": 318.75,
+          "suggested": 321.5,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A1-S | Mecha Industries (Minimal Wear)",
+        "price": {
+          "min": 113.06,
+          "max": 411.87,
+          "mean": 155.58,
+          "median": 136.59,
+          "suggested": 147.75,
+          "quantity": 67,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A1-S | Mecha Industries (Field-Tested)",
+        "price": {
+          "min": 109.38,
+          "max": 175.83,
+          "mean": 125.13,
+          "median": 120.47,
+          "suggested": 138,
+          "quantity": 121,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M4A1-S | Mecha Industries (Well-Worn)",
+        "price": {
+          "min": 112.96,
+          "max": 119.51,
+          "mean": 115.5,
+          "median": 114.78,
+          "suggested": 138.83,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M4A1-S | Mecha Industries (Battle-Scarred)",
+        "price": {
+          "min": 110.86,
+          "max": 212.09,
+          "mean": 124.27,
+          "median": 115.07,
+          "suggested": 133.89,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ M4A1-S | Mecha Industries (Factory New)",
+        "price": {
+          "min": 207.01,
+          "max": 21371.43,
+          "mean": 2627.53,
+          "median": 303.4,
+          "suggested": 300.65,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ M4A1-S | Mecha Industries (Minimal Wear)",
+        "price": {
+          "min": 148.5,
+          "max": 220.49,
+          "mean": 172.1,
+          "median": 159.71,
+          "suggested": 169.63,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ M4A1-S | Mecha Industries (Field-Tested)",
+        "price": {
+          "min": 101.65,
+          "max": 213.79,
+          "mean": 123.3,
+          "median": 113.4,
+          "suggested": 132.88,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ M4A1-S | Mecha Industries (Well-Worn)",
+        "price": {
+          "min": 110.24,
+          "max": 110.24,
+          "mean": 110.24,
+          "median": 110.24,
+          "suggested": 133.59,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ M4A1-S | Mecha Industries (Battle-Scarred)",
+        "price": {
+          "min": 100.37,
+          "max": 171.83,
+          "mean": 117.78,
+          "median": 108.56,
+          "suggested": 126.75,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A1-S | Mecha Industries (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A1-S | Mecha Industries (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A1-S | Mecha Industries (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M4A1-S | Mecha Industries (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M4A1-S | Mecha Industries (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:40.969Z"
+}

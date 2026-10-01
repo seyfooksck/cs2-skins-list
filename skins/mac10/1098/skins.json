@@ -1,0 +1,310 @@
+{
+  "id": "skin-87390b8680ce",
+  "name": "MAC-10 | Toybox",
+  "paint_index": "1098",
+  "weapon": {
+    "id": "weapon_mac10",
+    "weapon_id": 17,
+    "name": "MAC-10",
+    "slug": "mac10"
+  },
+  "pattern": {
+    "id": "cu_mac10_toybox",
+    "name": "Toybox"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. This custom paint job features brightly-colored drawings of chickens, aliens, defusers and more.\\n\\n<i>Clean up your mess</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 86.35,
+      "max": 162.32,
+      "mean": 109.16,
+      "median": 104.31,
+      "suggested": 107.57,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 27.83,
+      "max": 181.79,
+      "mean": 47.51,
+      "median": 39.45,
+      "suggested": 37.68,
+      "quantity": 25,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 16.5,
+      "max": 46.67,
+      "mean": 26.76,
+      "median": 24.16,
+      "suggested": 23.14,
+      "quantity": 30,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 17.47,
+      "max": 38.52,
+      "mean": 23.33,
+      "median": 22.16,
+      "suggested": 18.29,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 17.28,
+      "max": 30.33,
+      "mean": 21.58,
+      "median": 20.55,
+      "suggested": 18.2,
+      "quantity": 12,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAC-10 | Toybox (Factory New)",
+      "price": {
+        "min": 86.35,
+        "max": 162.32,
+        "mean": 109.16,
+        "median": 104.31,
+        "suggested": 107.57,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAC-10 | Toybox (Minimal Wear)",
+      "price": {
+        "min": 27.83,
+        "max": 181.79,
+        "mean": 47.51,
+        "median": 39.45,
+        "suggested": 37.68,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAC-10 | Toybox (Field-Tested)",
+      "price": {
+        "min": 16.5,
+        "max": 46.67,
+        "mean": 26.76,
+        "median": 24.16,
+        "suggested": 23.14,
+        "quantity": 30,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAC-10 | Toybox (Well-Worn)",
+      "price": {
+        "min": 17.47,
+        "max": 38.52,
+        "mean": 23.33,
+        "median": 22.16,
+        "suggested": 18.29,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAC-10 | Toybox (Battle-Scarred)",
+      "price": {
+        "min": 17.28,
+        "max": 30.33,
+        "mean": 21.58,
+        "median": 20.55,
+        "suggested": 18.2,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAC-10 | Toybox (Factory New)",
+        "price": {
+          "min": 86.35,
+          "max": 162.32,
+          "mean": 109.16,
+          "median": 104.31,
+          "suggested": 107.57,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAC-10 | Toybox (Minimal Wear)",
+        "price": {
+          "min": 27.83,
+          "max": 181.79,
+          "mean": 47.51,
+          "median": 39.45,
+          "suggested": 37.68,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAC-10 | Toybox (Field-Tested)",
+        "price": {
+          "min": 16.5,
+          "max": 46.67,
+          "mean": 26.76,
+          "median": 24.16,
+          "suggested": 23.14,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAC-10 | Toybox (Well-Worn)",
+        "price": {
+          "min": 17.47,
+          "max": 38.52,
+          "mean": 23.33,
+          "median": 22.16,
+          "suggested": 18.29,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MAC-10 | Toybox (Battle-Scarred)",
+        "price": {
+          "min": 17.28,
+          "max": 30.33,
+          "mean": 21.58,
+          "median": 20.55,
+          "suggested": 18.2,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MAC-10 | Toybox (Factory New)",
+        "price": {
+          "min": 77.08,
+          "max": 190.81,
+          "mean": 125.36,
+          "median": 128.29,
+          "suggested": 95.56,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MAC-10 | Toybox (Minimal Wear)",
+        "price": {
+          "min": 31.29,
+          "max": 150.14,
+          "mean": 64.17,
+          "median": 44.34,
+          "suggested": 36.85,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MAC-10 | Toybox (Field-Tested)",
+        "price": {
+          "min": 19.16,
+          "max": 59.5,
+          "mean": 39.34,
+          "median": 39.34,
+          "suggested": 21.59,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MAC-10 | Toybox (Well-Worn)",
+        "price": {
+          "min": 15.12,
+          "max": 17.96,
+          "mean": 16.55,
+          "median": 16.55,
+          "suggested": 20.27,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MAC-10 | Toybox (Battle-Scarred)",
+        "price": {
+          "min": 18.27,
+          "max": 18.27,
+          "mean": 18.27,
+          "median": 18.27,
+          "suggested": 17.27,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAC-10 | Toybox (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAC-10 | Toybox (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAC-10 | Toybox (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAC-10 | Toybox (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAC-10 | Toybox (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.764Z"
+}

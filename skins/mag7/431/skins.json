@@ -1,0 +1,310 @@
+{
+  "id": "skin-fadb57cf0d51",
+  "name": "MAG-7 | Heat",
+  "paint_index": "431",
+  "weapon": {
+    "id": "weapon_mag7",
+    "weapon_id": 27,
+    "name": "MAG-7",
+    "slug": "mag7"
+  },
+  "pattern": {
+    "id": "cu_mag7_redhot",
+    "name": "Heat"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The CT-exclusive Mag-7 delivers a devastating amount of damage at close range. Its rapid magazine-style reloads make it a great tactical choice. It has been custom painted to look as though it just came out of the forge.\\n\\n<i>Make some outlines of your own</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 10.83,
+      "max": 81.67,
+      "mean": 25.64,
+      "median": 19.76,
+      "suggested": 12.86,
+      "quantity": 36,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.66,
+      "max": 127.18,
+      "mean": 9.81,
+      "median": 5.54,
+      "suggested": 3.15,
+      "quantity": 56,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.33,
+      "max": 17.69,
+      "mean": 2,
+      "median": 1.6,
+      "suggested": 1.67,
+      "quantity": 111,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.16,
+      "max": 66.4,
+      "mean": 2.71,
+      "median": 1.45,
+      "suggested": 1.43,
+      "quantity": 76,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.06,
+      "max": 7.5,
+      "mean": 1.55,
+      "median": 1.33,
+      "suggested": 1.4,
+      "quantity": 63,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAG-7 | Heat (Factory New)",
+      "price": {
+        "min": 10.83,
+        "max": 81.67,
+        "mean": 25.64,
+        "median": 19.76,
+        "suggested": 12.86,
+        "quantity": 36,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAG-7 | Heat (Minimal Wear)",
+      "price": {
+        "min": 2.66,
+        "max": 127.18,
+        "mean": 9.81,
+        "median": 5.54,
+        "suggested": 3.15,
+        "quantity": 56,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAG-7 | Heat (Field-Tested)",
+      "price": {
+        "min": 1.33,
+        "max": 17.69,
+        "mean": 2,
+        "median": 1.6,
+        "suggested": 1.67,
+        "quantity": 111,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAG-7 | Heat (Well-Worn)",
+      "price": {
+        "min": 1.16,
+        "max": 66.4,
+        "mean": 2.71,
+        "median": 1.45,
+        "suggested": 1.43,
+        "quantity": 76,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAG-7 | Heat (Battle-Scarred)",
+      "price": {
+        "min": 1.06,
+        "max": 7.5,
+        "mean": 1.55,
+        "median": 1.33,
+        "suggested": 1.4,
+        "quantity": 63,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAG-7 | Heat (Factory New)",
+        "price": {
+          "min": 10.83,
+          "max": 81.67,
+          "mean": 25.64,
+          "median": 19.76,
+          "suggested": 12.86,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAG-7 | Heat (Minimal Wear)",
+        "price": {
+          "min": 2.66,
+          "max": 127.18,
+          "mean": 9.81,
+          "median": 5.54,
+          "suggested": 3.15,
+          "quantity": 56,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAG-7 | Heat (Field-Tested)",
+        "price": {
+          "min": 1.33,
+          "max": 17.69,
+          "mean": 2,
+          "median": 1.6,
+          "suggested": 1.67,
+          "quantity": 111,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAG-7 | Heat (Well-Worn)",
+        "price": {
+          "min": 1.16,
+          "max": 66.4,
+          "mean": 2.71,
+          "median": 1.45,
+          "suggested": 1.43,
+          "quantity": 76,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MAG-7 | Heat (Battle-Scarred)",
+        "price": {
+          "min": 1.06,
+          "max": 7.5,
+          "mean": 1.55,
+          "median": 1.33,
+          "suggested": 1.4,
+          "quantity": 63,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MAG-7 | Heat (Factory New)",
+        "price": {
+          "min": 16.28,
+          "max": 93.35,
+          "mean": 35.05,
+          "median": 23.72,
+          "suggested": 16.79,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MAG-7 | Heat (Minimal Wear)",
+        "price": {
+          "min": 4.77,
+          "max": 77.01,
+          "mean": 10.65,
+          "median": 5.5,
+          "suggested": 5.63,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MAG-7 | Heat (Field-Tested)",
+        "price": {
+          "min": 1.72,
+          "max": 11.67,
+          "mean": 2.44,
+          "median": 2,
+          "suggested": 2.26,
+          "quantity": 41,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MAG-7 | Heat (Well-Worn)",
+        "price": {
+          "min": 1.44,
+          "max": 53.68,
+          "mean": 6.3,
+          "median": 1.63,
+          "suggested": 1.7,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MAG-7 | Heat (Battle-Scarred)",
+        "price": {
+          "min": 1.39,
+          "max": 32.09,
+          "mean": 3.43,
+          "median": 1.7,
+          "suggested": 1.74,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAG-7 | Heat (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAG-7 | Heat (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAG-7 | Heat (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAG-7 | Heat (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAG-7 | Heat (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.334Z"
+}

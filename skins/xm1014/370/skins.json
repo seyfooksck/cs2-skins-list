@@ -1,0 +1,265 @@
+{
+  "id": "skin-46ba27249a98",
+  "name": "XM1014 | Bone Machine",
+  "paint_index": "370",
+  "weapon": {
+    "id": "weapon_xm1014",
+    "weapon_id": 25,
+    "name": "XM1014",
+    "slug": "xm1014"
+  },
+  "pattern": {
+    "id": "am_nuclear_skulls1_xm1014",
+    "name": "Bone Machine"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The XM1014 is a powerful fully automatic shotgun that justifies its heftier price tag with the ability to paint a room with lead fast. It has been chromed then overlayed with a semi transparent hydrographic pattern of nuclear skulls and bones.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 17.48,
+      "max": 126.6,
+      "mean": 36.14,
+      "median": 26.84,
+      "suggested": 22.36,
+      "quantity": 28,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 14,
+      "max": 33.06,
+      "mean": 20.54,
+      "median": 18.9,
+      "suggested": 17.71,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 10.62,
+      "max": 46.67,
+      "mean": 19.08,
+      "median": 14.89,
+      "suggested": 14.45,
+      "quantity": 20,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 14.2,
+      "max": 15.94,
+      "mean": 15.08,
+      "median": 15.08,
+      "suggested": 11.47,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "XM1014 | Bone Machine (Factory New)",
+      "price": {
+        "min": 17.48,
+        "max": 126.6,
+        "mean": 36.14,
+        "median": 26.84,
+        "suggested": 22.36,
+        "quantity": 28,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "XM1014 | Bone Machine (Minimal Wear)",
+      "price": {
+        "min": 14,
+        "max": 33.06,
+        "mean": 20.54,
+        "median": 18.9,
+        "suggested": 17.71,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "XM1014 | Bone Machine (Field-Tested)",
+      "price": {
+        "min": 10.62,
+        "max": 46.67,
+        "mean": 19.08,
+        "median": 14.89,
+        "suggested": 14.45,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "XM1014 | Bone Machine (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "XM1014 | Bone Machine (Battle-Scarred)",
+      "price": {
+        "min": 14.2,
+        "max": 15.94,
+        "mean": 15.08,
+        "median": 15.08,
+        "suggested": 11.47,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "XM1014 | Bone Machine (Factory New)",
+        "price": {
+          "min": 17.48,
+          "max": 126.6,
+          "mean": 36.14,
+          "median": 26.84,
+          "suggested": 22.36,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "XM1014 | Bone Machine (Minimal Wear)",
+        "price": {
+          "min": 14,
+          "max": 33.06,
+          "mean": 20.54,
+          "median": 18.9,
+          "suggested": 17.71,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "XM1014 | Bone Machine (Field-Tested)",
+        "price": {
+          "min": 10.62,
+          "max": 46.67,
+          "mean": 19.08,
+          "median": 14.89,
+          "suggested": 14.45,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "XM1014 | Bone Machine (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "XM1014 | Bone Machine (Battle-Scarred)",
+        "price": {
+          "min": 14.2,
+          "max": 15.94,
+          "mean": 15.08,
+          "median": 15.08,
+          "suggested": 11.47,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir XM1014 | Bone Machine (Factory New)",
+        "price": {
+          "min": 34.41,
+          "max": 46.67,
+          "mean": 40.73,
+          "median": 39.97,
+          "suggested": 30.26,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir XM1014 | Bone Machine (Minimal Wear)",
+        "price": {
+          "min": 14.84,
+          "max": 62.07,
+          "mean": 36.99,
+          "median": 25.56,
+          "suggested": 17.57,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir XM1014 | Bone Machine (Field-Tested)",
+        "price": {
+          "min": 20.64,
+          "max": 128.97,
+          "mean": 68.93,
+          "median": 57.18,
+          "suggested": 11.39,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir XM1014 | Bone Machine (Well-Worn)",
+        "price": {
+          "min": 11.02,
+          "max": 11.02,
+          "mean": 11.02,
+          "median": 11.02,
+          "suggested": 9.92,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir XM1014 | Bone Machine (Battle-Scarred)",
+        "price": {
+          "min": 105.02,
+          "max": 105.02,
+          "mean": 105.02,
+          "median": 105.02,
+          "suggested": 6.26,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:51.026Z"
+}

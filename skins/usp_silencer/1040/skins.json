@@ -1,0 +1,310 @@
+{
+  "id": "skin-7dc4b0b65850",
+  "name": "USP-S | The Traitor",
+  "paint_index": "1040",
+  "weapon": {
+    "id": "weapon_usp_silencer",
+    "weapon_id": 61,
+    "name": "USP-S",
+    "slug": "usp_silencer"
+  },
+  "pattern": {
+    "id": "gs_usps_hangedman",
+    "name": "The Traitor"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise. It has been custom painted using the Hanged Man tarot card as inspiration.\\n\\n<i>Past failures are the blueprints for future success</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 117.09,
+      "max": 583.47,
+      "mean": 202.79,
+      "median": 171.9,
+      "suggested": 164.88,
+      "quantity": 35,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 59.22,
+      "max": 843.7,
+      "mean": 87.38,
+      "median": 75.85,
+      "suggested": 77.66,
+      "quantity": 122,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 36.01,
+      "max": 92.18,
+      "mean": 44.2,
+      "median": 42.09,
+      "suggested": 47.54,
+      "quantity": 208,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 32.91,
+      "max": 175.04,
+      "mean": 40.32,
+      "median": 37.56,
+      "suggested": 41.33,
+      "quantity": 117,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 31.5,
+      "max": 176.2,
+      "mean": 38.73,
+      "median": 35.08,
+      "suggested": 37.86,
+      "quantity": 49,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "USP-S | The Traitor (Factory New)",
+      "price": {
+        "min": 117.09,
+        "max": 583.47,
+        "mean": 202.79,
+        "median": 171.9,
+        "suggested": 164.88,
+        "quantity": 35,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "USP-S | The Traitor (Minimal Wear)",
+      "price": {
+        "min": 59.22,
+        "max": 843.7,
+        "mean": 87.38,
+        "median": 75.85,
+        "suggested": 77.66,
+        "quantity": 122,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "USP-S | The Traitor (Field-Tested)",
+      "price": {
+        "min": 36.01,
+        "max": 92.18,
+        "mean": 44.2,
+        "median": 42.09,
+        "suggested": 47.54,
+        "quantity": 208,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "USP-S | The Traitor (Well-Worn)",
+      "price": {
+        "min": 32.91,
+        "max": 175.04,
+        "mean": 40.32,
+        "median": 37.56,
+        "suggested": 41.33,
+        "quantity": 117,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "USP-S | The Traitor (Battle-Scarred)",
+      "price": {
+        "min": 31.5,
+        "max": 176.2,
+        "mean": 38.73,
+        "median": 35.08,
+        "suggested": 37.86,
+        "quantity": 49,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "USP-S | The Traitor (Factory New)",
+        "price": {
+          "min": 117.09,
+          "max": 583.47,
+          "mean": 202.79,
+          "median": 171.9,
+          "suggested": 164.88,
+          "quantity": 35,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "USP-S | The Traitor (Minimal Wear)",
+        "price": {
+          "min": 59.22,
+          "max": 843.7,
+          "mean": 87.38,
+          "median": 75.85,
+          "suggested": 77.66,
+          "quantity": 122,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "USP-S | The Traitor (Field-Tested)",
+        "price": {
+          "min": 36.01,
+          "max": 92.18,
+          "mean": 44.2,
+          "median": 42.09,
+          "suggested": 47.54,
+          "quantity": 208,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "USP-S | The Traitor (Well-Worn)",
+        "price": {
+          "min": 32.91,
+          "max": 175.04,
+          "mean": 40.32,
+          "median": 37.56,
+          "suggested": 41.33,
+          "quantity": 117,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "USP-S | The Traitor (Battle-Scarred)",
+        "price": {
+          "min": 31.5,
+          "max": 176.2,
+          "mean": 38.73,
+          "median": 35.08,
+          "suggested": 37.86,
+          "quantity": 49,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ USP-S | The Traitor (Factory New)",
+        "price": {
+          "min": 228.15,
+          "max": 404.02,
+          "mean": 310.45,
+          "median": 320.91,
+          "suggested": 301.31,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ USP-S | The Traitor (Minimal Wear)",
+        "price": {
+          "min": 89.61,
+          "max": 233.39,
+          "mean": 111.83,
+          "median": 102.61,
+          "suggested": 117.77,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ USP-S | The Traitor (Field-Tested)",
+        "price": {
+          "min": 54.29,
+          "max": 80.08,
+          "mean": 62.22,
+          "median": 61.02,
+          "suggested": 69.45,
+          "quantity": 35,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ USP-S | The Traitor (Well-Worn)",
+        "price": {
+          "min": 42.99,
+          "max": 46.6,
+          "mean": 44.08,
+          "median": 43.39,
+          "suggested": 49.89,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ USP-S | The Traitor (Battle-Scarred)",
+        "price": {
+          "min": 39.52,
+          "max": 44.51,
+          "mean": 41.54,
+          "median": 42,
+          "suggested": 45.97,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir USP-S | The Traitor (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir USP-S | The Traitor (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir USP-S | The Traitor (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir USP-S | The Traitor (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir USP-S | The Traitor (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:50.665Z"
+}

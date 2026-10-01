@@ -1,0 +1,310 @@
+{
+  "id": "skin-5f1071439b89",
+  "name": "P250 | Visions",
+  "paint_index": "1153",
+  "weapon": {
+    "id": "weapon_p250",
+    "weapon_id": 36,
+    "name": "P250",
+    "slug": "p250"
+  },
+  "pattern": {
+    "id": "gs_p250_visions",
+    "name": "Visions"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A low-recoil firearm with a high rate of fire, the P250 is a relatively inexpensive choice against armored opponents. It has been custom painted with a vibrantly colored design.\\n\\n<i>One crow short of a murder</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 12.04,
+      "max": 116.68,
+      "mean": 25.01,
+      "median": 19.84,
+      "suggested": 16.84,
+      "quantity": 67,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 5.12,
+      "max": 135.27,
+      "mean": 8.16,
+      "median": 6.36,
+      "suggested": 6.57,
+      "quantity": 200,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 3.58,
+      "max": 185.54,
+      "mean": 4.98,
+      "median": 4.35,
+      "suggested": 4.94,
+      "quantity": 926,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 3.27,
+      "max": 172.71,
+      "mean": 8.39,
+      "median": 4.08,
+      "suggested": 4.4,
+      "quantity": 39,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 3.28,
+      "max": 116.48,
+      "mean": 6.34,
+      "median": 4.06,
+      "suggested": 4.13,
+      "quantity": 98,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P250 | Visions (Factory New)",
+      "price": {
+        "min": 12.04,
+        "max": 116.68,
+        "mean": 25.01,
+        "median": 19.84,
+        "suggested": 16.84,
+        "quantity": 67,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P250 | Visions (Minimal Wear)",
+      "price": {
+        "min": 5.12,
+        "max": 135.27,
+        "mean": 8.16,
+        "median": 6.36,
+        "suggested": 6.57,
+        "quantity": 200,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P250 | Visions (Field-Tested)",
+      "price": {
+        "min": 3.58,
+        "max": 185.54,
+        "mean": 4.98,
+        "median": 4.35,
+        "suggested": 4.94,
+        "quantity": 926,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P250 | Visions (Well-Worn)",
+      "price": {
+        "min": 3.27,
+        "max": 172.71,
+        "mean": 8.39,
+        "median": 4.08,
+        "suggested": 4.4,
+        "quantity": 39,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P250 | Visions (Battle-Scarred)",
+      "price": {
+        "min": 3.28,
+        "max": 116.48,
+        "mean": 6.34,
+        "median": 4.06,
+        "suggested": 4.13,
+        "quantity": 98,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P250 | Visions (Factory New)",
+        "price": {
+          "min": 12.04,
+          "max": 116.68,
+          "mean": 25.01,
+          "median": 19.84,
+          "suggested": 16.84,
+          "quantity": 67,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P250 | Visions (Minimal Wear)",
+        "price": {
+          "min": 5.12,
+          "max": 135.27,
+          "mean": 8.16,
+          "median": 6.36,
+          "suggested": 6.57,
+          "quantity": 200,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P250 | Visions (Field-Tested)",
+        "price": {
+          "min": 3.58,
+          "max": 185.54,
+          "mean": 4.98,
+          "median": 4.35,
+          "suggested": 4.94,
+          "quantity": 926,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P250 | Visions (Well-Worn)",
+        "price": {
+          "min": 3.27,
+          "max": 172.71,
+          "mean": 8.39,
+          "median": 4.08,
+          "suggested": 4.4,
+          "quantity": 39,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P250 | Visions (Battle-Scarred)",
+        "price": {
+          "min": 3.28,
+          "max": 116.48,
+          "mean": 6.34,
+          "median": 4.06,
+          "suggested": 4.13,
+          "quantity": 98,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P250 | Visions (Factory New)",
+        "price": {
+          "min": 14.77,
+          "max": 80.52,
+          "mean": 29.37,
+          "median": 20.6,
+          "suggested": 18.33,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P250 | Visions (Minimal Wear)",
+        "price": {
+          "min": 7.8,
+          "max": 23.34,
+          "mean": 13.76,
+          "median": 13.48,
+          "suggested": 9.37,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P250 | Visions (Field-Tested)",
+        "price": {
+          "min": 4.25,
+          "max": 23.34,
+          "mean": 6.06,
+          "median": 4.98,
+          "suggested": 5.58,
+          "quantity": 76,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ P250 | Visions (Well-Worn)",
+        "price": {
+          "min": 3.94,
+          "max": 5.95,
+          "mean": 4.77,
+          "median": 4.6,
+          "suggested": 5.25,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ P250 | Visions (Battle-Scarred)",
+        "price": {
+          "min": 4.07,
+          "max": 381.5,
+          "mean": 27.31,
+          "median": 4.64,
+          "suggested": 4.81,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P250 | Visions (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P250 | Visions (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P250 | Visions (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P250 | Visions (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P250 | Visions (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:45.277Z"
+}

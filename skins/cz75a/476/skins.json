@@ -1,0 +1,310 @@
+{
+  "id": "skin-e33988dc3569",
+  "name": "CZ75-Auto | Yellow Jacket",
+  "paint_index": "476",
+  "weapon": {
+    "id": "weapon_cz75a",
+    "weapon_id": 63,
+    "name": "CZ75-Auto",
+    "slug": "cz75a"
+  },
+  "pattern": {
+    "id": "cu_cz75a_chastizer",
+    "name": "Yellow Jacket"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fully automatic variant of the CZ75, the CZ75-Auto is the ideal short-term choice for turning the tables and gaining your opponents weapon. But with very little ammo in the magazine, strong trigger discipline is required. It has been custom painted with curved shapes.\\n\\n<i>Float like a butterfly, sting like a relentless hateful insect</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 30.21,
+      "max": 92.19,
+      "mean": 61.15,
+      "median": 73.96,
+      "suggested": 37.05,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 8.06,
+      "max": 19.13,
+      "mean": 12.85,
+      "median": 10.12,
+      "suggested": 10.7,
+      "quantity": 30,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 4.4,
+      "max": 23.34,
+      "mean": 6.72,
+      "median": 5.34,
+      "suggested": 5.96,
+      "quantity": 43,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 4.01,
+      "max": 7.94,
+      "mean": 5.3,
+      "median": 5.11,
+      "suggested": 4.95,
+      "quantity": 32,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 4.28,
+      "max": 9.63,
+      "mean": 5.27,
+      "median": 4.75,
+      "suggested": 4.79,
+      "quantity": 16,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "CZ75-Auto | Yellow Jacket (Factory New)",
+      "price": {
+        "min": 30.21,
+        "max": 92.19,
+        "mean": 61.15,
+        "median": 73.96,
+        "suggested": 37.05,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "CZ75-Auto | Yellow Jacket (Minimal Wear)",
+      "price": {
+        "min": 8.06,
+        "max": 19.13,
+        "mean": 12.85,
+        "median": 10.12,
+        "suggested": 10.7,
+        "quantity": 30,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "CZ75-Auto | Yellow Jacket (Field-Tested)",
+      "price": {
+        "min": 4.4,
+        "max": 23.34,
+        "mean": 6.72,
+        "median": 5.34,
+        "suggested": 5.96,
+        "quantity": 43,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "CZ75-Auto | Yellow Jacket (Well-Worn)",
+      "price": {
+        "min": 4.01,
+        "max": 7.94,
+        "mean": 5.3,
+        "median": 5.11,
+        "suggested": 4.95,
+        "quantity": 32,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "CZ75-Auto | Yellow Jacket (Battle-Scarred)",
+      "price": {
+        "min": 4.28,
+        "max": 9.63,
+        "mean": 5.27,
+        "median": 4.75,
+        "suggested": 4.79,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "CZ75-Auto | Yellow Jacket (Factory New)",
+        "price": {
+          "min": 30.21,
+          "max": 92.19,
+          "mean": 61.15,
+          "median": 73.96,
+          "suggested": 37.05,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "CZ75-Auto | Yellow Jacket (Minimal Wear)",
+        "price": {
+          "min": 8.06,
+          "max": 19.13,
+          "mean": 12.85,
+          "median": 10.12,
+          "suggested": 10.7,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "CZ75-Auto | Yellow Jacket (Field-Tested)",
+        "price": {
+          "min": 4.4,
+          "max": 23.34,
+          "mean": 6.72,
+          "median": 5.34,
+          "suggested": 5.96,
+          "quantity": 43,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "CZ75-Auto | Yellow Jacket (Well-Worn)",
+        "price": {
+          "min": 4.01,
+          "max": 7.94,
+          "mean": 5.3,
+          "median": 5.11,
+          "suggested": 4.95,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "CZ75-Auto | Yellow Jacket (Battle-Scarred)",
+        "price": {
+          "min": 4.28,
+          "max": 9.63,
+          "mean": 5.27,
+          "median": 4.75,
+          "suggested": 4.79,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Yellow Jacket (Factory New)",
+        "price": {
+          "min": 87.73,
+          "max": 87.73,
+          "mean": 87.73,
+          "median": 87.73,
+          "suggested": 59.15,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Yellow Jacket (Minimal Wear)",
+        "price": {
+          "min": 18.13,
+          "max": 40.84,
+          "mean": 26.26,
+          "median": 23.02,
+          "suggested": 20.44,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Yellow Jacket (Field-Tested)",
+        "price": {
+          "min": 9.01,
+          "max": 35.01,
+          "mean": 13.71,
+          "median": 11.63,
+          "suggested": 10.97,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Yellow Jacket (Well-Worn)",
+        "price": {
+          "min": 8.06,
+          "max": 15.14,
+          "mean": 10.48,
+          "median": 8.52,
+          "suggested": 9.7,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Yellow Jacket (Battle-Scarred)",
+        "price": {
+          "min": 7.24,
+          "max": 23.34,
+          "mean": 11.03,
+          "median": 8.57,
+          "suggested": 9.7,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir CZ75-Auto | Yellow Jacket (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir CZ75-Auto | Yellow Jacket (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir CZ75-Auto | Yellow Jacket (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir CZ75-Auto | Yellow Jacket (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir CZ75-Auto | Yellow Jacket (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:27.662Z"
+}

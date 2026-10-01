@@ -1,0 +1,265 @@
+{
+  "id": "skin-844716d091ce",
+  "name": "G3SG1 | New Roots",
+  "paint_index": "930",
+  "weapon": {
+    "id": "weapon_g3sg1",
+    "weapon_id": 11,
+    "name": "G3SG1",
+    "slug": "g3sg1"
+  },
+  "pattern": {
+    "id": "sp_moro_carving_lightblue",
+    "name": "New Roots"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.55,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The pricy G3SG1 lowers movement speed considerably but compensates with a higher rate of fire than other sniper rifles. It has been spray-painted with a vine and flower pattern in various shades of green.\\n\\n<i>Room to grow</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 8.08,
+      "max": 259.98,
+      "mean": 54.67,
+      "median": 29.03,
+      "suggested": 7.71,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 15.01,
+      "max": 64.71,
+      "mean": 29.76,
+      "median": 25.53,
+      "suggested": 6.58,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 12.74,
+      "max": 32.09,
+      "mean": 21.32,
+      "median": 23.34,
+      "suggested": 4.25,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 29.28,
+      "max": 29.28,
+      "mean": 29.28,
+      "median": 29.28,
+      "suggested": 7.76,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "G3SG1 | New Roots (Factory New)",
+      "price": {
+        "min": 8.08,
+        "max": 259.98,
+        "mean": 54.67,
+        "median": 29.03,
+        "suggested": 7.71,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "G3SG1 | New Roots (Minimal Wear)",
+      "price": {
+        "min": 15.01,
+        "max": 64.71,
+        "mean": 29.76,
+        "median": 25.53,
+        "suggested": 6.58,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "G3SG1 | New Roots (Field-Tested)",
+      "price": {
+        "min": 12.74,
+        "max": 32.09,
+        "mean": 21.32,
+        "median": 23.34,
+        "suggested": 4.25,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "G3SG1 | New Roots (Well-Worn)",
+      "price": {
+        "min": 29.28,
+        "max": 29.28,
+        "mean": 29.28,
+        "median": 29.28,
+        "suggested": 7.76,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "G3SG1 | New Roots (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "G3SG1 | New Roots (Factory New)",
+        "price": {
+          "min": 8.08,
+          "max": 259.98,
+          "mean": 54.67,
+          "median": 29.03,
+          "suggested": 7.71,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "G3SG1 | New Roots (Minimal Wear)",
+        "price": {
+          "min": 15.01,
+          "max": 64.71,
+          "mean": 29.76,
+          "median": 25.53,
+          "suggested": 6.58,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "G3SG1 | New Roots (Field-Tested)",
+        "price": {
+          "min": 12.74,
+          "max": 32.09,
+          "mean": 21.32,
+          "median": 23.34,
+          "suggested": 4.25,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "G3SG1 | New Roots (Well-Worn)",
+        "price": {
+          "min": 29.28,
+          "max": 29.28,
+          "mean": 29.28,
+          "median": 29.28,
+          "suggested": 7.76,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "G3SG1 | New Roots (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir G3SG1 | New Roots (Factory New)",
+        "price": {
+          "min": 7.95,
+          "max": 114.55,
+          "mean": 30.47,
+          "median": 19,
+          "suggested": 7.54,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir G3SG1 | New Roots (Minimal Wear)",
+        "price": {
+          "min": 6.67,
+          "max": 20.48,
+          "mean": 9.74,
+          "median": 8.17,
+          "suggested": 6.45,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir G3SG1 | New Roots (Field-Tested)",
+        "price": {
+          "min": 3.83,
+          "max": 22.59,
+          "mean": 6.95,
+          "median": 5.47,
+          "suggested": 4.36,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir G3SG1 | New Roots (Well-Worn)",
+        "price": {
+          "min": 3.34,
+          "max": 3.34,
+          "mean": 3.34,
+          "median": 3.34,
+          "suggested": 3.79,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir G3SG1 | New Roots (Battle-Scarred)",
+        "price": {
+          "min": 2.82,
+          "max": 39.94,
+          "mean": 11.73,
+          "median": 4.07,
+          "suggested": 3.22,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:30.791Z"
+}

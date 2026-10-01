@@ -1,0 +1,241 @@
+{
+  "id": "skin-58267df1cb9f",
+  "name": "AK-47 | Gold Arabesque",
+  "paint_index": "921",
+  "weapon": {
+    "id": "weapon_ak47",
+    "weapon_id": 7,
+    "name": "AK-47",
+    "slug": "ak47"
+  },
+  "pattern": {
+    "id": "gs_ak47_gold_arabesque",
+    "name": "Gold Arabesque"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. An intricate design has been hand painted on the stock and handguard. The metal has been painted gold with filigree accents.\\n\\n<i>\\\"What other tricks does Booth have up his sleeve?\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2866.58,
+      "max": 9335.5,
+      "mean": 4206.4,
+      "median": 3500.81,
+      "suggested": 2631.96,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 3034.04,
+      "max": 3616.34,
+      "mean": 3293.38,
+      "median": 3261.55,
+      "suggested": 1928.86,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1419.91,
+      "max": 2905.67,
+      "mean": 2231.53,
+      "median": 2276.05,
+      "suggested": 1597.34,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1645.82,
+      "max": 2847.33,
+      "mean": 2246.58,
+      "median": 2246.58,
+      "suggested": 1567.01,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AK-47 | Gold Arabesque (Factory New)",
+      "price": {
+        "min": 2866.58,
+        "max": 9335.5,
+        "mean": 4206.4,
+        "median": 3500.81,
+        "suggested": 2631.96,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AK-47 | Gold Arabesque (Minimal Wear)",
+      "price": {
+        "min": 3034.04,
+        "max": 3616.34,
+        "mean": 3293.38,
+        "median": 3261.55,
+        "suggested": 1928.86,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AK-47 | Gold Arabesque (Field-Tested)",
+      "price": {
+        "min": 1419.91,
+        "max": 2905.67,
+        "mean": 2231.53,
+        "median": 2276.05,
+        "suggested": 1597.34,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AK-47 | Gold Arabesque (Well-Worn)",
+      "price": {
+        "min": 1645.82,
+        "max": 2847.33,
+        "mean": 2246.58,
+        "median": 2246.58,
+        "suggested": 1567.01,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AK-47 | Gold Arabesque (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AK-47 | Gold Arabesque (Factory New)",
+        "price": {
+          "min": 2866.58,
+          "max": 9335.5,
+          "mean": 4206.4,
+          "median": 3500.81,
+          "suggested": 2631.96,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AK-47 | Gold Arabesque (Minimal Wear)",
+        "price": {
+          "min": 3034.04,
+          "max": 3616.34,
+          "mean": 3293.38,
+          "median": 3261.55,
+          "suggested": 1928.86,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AK-47 | Gold Arabesque (Field-Tested)",
+        "price": {
+          "min": 1419.91,
+          "max": 2905.67,
+          "mean": 2231.53,
+          "median": 2276.05,
+          "suggested": 1597.34,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AK-47 | Gold Arabesque (Well-Worn)",
+        "price": {
+          "min": 1645.82,
+          "max": 2847.33,
+          "mean": 2246.58,
+          "median": 2246.58,
+          "suggested": 1567.01,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AK-47 | Gold Arabesque (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AK-47 | Gold Arabesque (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AK-47 | Gold Arabesque (Minimal Wear)",
+        "price": {
+          "min": 2077.15,
+          "max": 2528.67,
+          "mean": 2302.92,
+          "median": 2302.92,
+          "suggested": 1941.88,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AK-47 | Gold Arabesque (Field-Tested)",
+        "price": {
+          "min": 1536.21,
+          "max": 1838.45,
+          "mean": 1689.7,
+          "median": 1692.06,
+          "suggested": 1531.96,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AK-47 | Gold Arabesque (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AK-47 | Gold Arabesque (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:20:20.832Z"
+}

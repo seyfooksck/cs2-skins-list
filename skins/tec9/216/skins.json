@@ -1,0 +1,102 @@
+{
+  "id": "skin-e33e3bfd50ec",
+  "name": "Tec-9 | Blue Titanium",
+  "paint_index": "216",
+  "weapon": {
+    "id": "weapon_tec9",
+    "weapon_id": 30,
+    "name": "Tec-9",
+    "slug": "tec9"
+  },
+  "pattern": {
+    "id": "an_titanium30v",
+    "name": "Blue Titanium"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.04,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity. It has a titanium parts whose blue color is characteristic of an oxide layer achieved via controlled anodization at 30 volts.",
+  "images": {
+    "fn": "fn.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 55.58,
+      "max": 175.04,
+      "mean": 97.18,
+      "median": 72.39,
+      "suggested": 66.38,
+      "quantity": 24,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Tec-9 | Blue Titanium (Factory New)",
+      "price": {
+        "min": 55.58,
+        "max": 175.04,
+        "mean": 97.18,
+        "median": 72.39,
+        "suggested": 66.38,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Tec-9 | Blue Titanium (Factory New)",
+        "price": {
+          "min": 55.58,
+          "max": 175.04,
+          "mean": 97.18,
+          "median": 72.39,
+          "suggested": 66.38,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Tec-9 | Blue Titanium (Factory New)",
+        "price": {
+          "min": 10.68,
+          "max": 408.64,
+          "mean": 58.72,
+          "median": 16.42,
+          "suggested": 13.54,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Tec-9 | Blue Titanium (Factory New)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.054Z"
+}

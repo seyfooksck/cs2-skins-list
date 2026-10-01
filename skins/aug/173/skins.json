@@ -1,0 +1,249 @@
+{
+  "id": "skin-150eda31902a",
+  "name": "AUG | Lil' Pig",
+  "paint_index": "173",
+  "weapon": {
+    "id": "weapon_aug",
+    "weapon_id": 8,
+    "name": "AUG",
+    "slug": "aug"
+  },
+  "pattern": {
+    "id": "gs_lilpig_aug",
+    "name": "Lil' Pig"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.8,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire. This custom paint job features a red base and metallic gold accents. A red pig has been added near the butt stock.\\n\\n<i>At home on the range</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 151.77,
+      "max": 466.77,
+      "mean": 303.39,
+      "median": 291.73,
+      "suggested": 174.5,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 91.6,
+      "max": 231.54,
+      "mean": 144.54,
+      "median": 151.69,
+      "suggested": 111.44,
+      "quantity": 23,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 38.51,
+      "max": 131.22,
+      "mean": 68.32,
+      "median": 62.33,
+      "suggested": 54.48,
+      "quantity": 28,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 41.67,
+      "max": 61.68,
+      "mean": 53.81,
+      "median": 58.08,
+      "suggested": 40.5,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 39.47,
+      "max": 74.73,
+      "mean": 51.85,
+      "median": 46.6,
+      "suggested": 42.18,
+      "quantity": 4,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AUG | Lil' Pig (Factory New)",
+      "price": {
+        "min": 151.77,
+        "max": 466.77,
+        "mean": 303.39,
+        "median": 291.73,
+        "suggested": 174.5,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AUG | Lil' Pig (Minimal Wear)",
+      "price": {
+        "min": 91.6,
+        "max": 231.54,
+        "mean": 144.54,
+        "median": 151.69,
+        "suggested": 111.44,
+        "quantity": 23,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AUG | Lil' Pig (Field-Tested)",
+      "price": {
+        "min": 38.51,
+        "max": 131.22,
+        "mean": 68.32,
+        "median": 62.33,
+        "suggested": 54.48,
+        "quantity": 28,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AUG | Lil' Pig (Well-Worn)",
+      "price": {
+        "min": 41.67,
+        "max": 61.68,
+        "mean": 53.81,
+        "median": 58.08,
+        "suggested": 40.5,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AUG | Lil' Pig (Battle-Scarred)",
+      "price": {
+        "min": 39.47,
+        "max": 74.73,
+        "mean": 51.85,
+        "median": 46.6,
+        "suggested": 42.18,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AUG | Lil' Pig (Factory New)",
+        "price": {
+          "min": 151.77,
+          "max": 466.77,
+          "mean": 303.39,
+          "median": 291.73,
+          "suggested": 174.5,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AUG | Lil' Pig (Minimal Wear)",
+        "price": {
+          "min": 91.6,
+          "max": 231.54,
+          "mean": 144.54,
+          "median": 151.69,
+          "suggested": 111.44,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AUG | Lil' Pig (Field-Tested)",
+        "price": {
+          "min": 38.51,
+          "max": 131.22,
+          "mean": 68.32,
+          "median": 62.33,
+          "suggested": 54.48,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AUG | Lil' Pig (Well-Worn)",
+        "price": {
+          "min": 41.67,
+          "max": 61.68,
+          "mean": 53.81,
+          "median": 58.08,
+          "suggested": 40.5,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AUG | Lil' Pig (Battle-Scarred)",
+        "price": {
+          "min": 39.47,
+          "max": 74.73,
+          "mean": 51.85,
+          "median": 46.6,
+          "suggested": 42.18,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AUG | Lil' Pig (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AUG | Lil' Pig (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AUG | Lil' Pig (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AUG | Lil' Pig (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AUG | Lil' Pig (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.526Z"
+}

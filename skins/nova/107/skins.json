@@ -1,0 +1,289 @@
+{
+  "id": "skin-0a5fadd0a210",
+  "name": "Nova | Polar Mesh",
+  "paint_index": "107",
+  "weapon": {
+    "id": "weapon_nova",
+    "weapon_id": 35,
+    "name": "Nova",
+    "slug": "nova"
+  },
+  "pattern": {
+    "id": "sp_mesh_arctic_contrast",
+    "name": "Polar Mesh"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Nova's rock-bottom price tag makes it a great ambush weapon for a cash-strapped team. It has been spray-painted using mesh fencing and cardboard cutouts as stencils.\\n\\n<i>A predator is a predator, no matter the environment</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.68,
+      "max": 15.16,
+      "mean": 8.13,
+      "median": 8.68,
+      "suggested": 1.3,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.05,
+      "max": 4.64,
+      "mean": 1.27,
+      "median": 0.63,
+      "suggested": 0.06,
+      "quantity": 454,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.02,
+      "max": 5.81,
+      "mean": 0.14,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 1370,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.02,
+      "max": 1.75,
+      "mean": 0.09,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 207,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.02,
+      "max": 4.42,
+      "mean": 0.26,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 400,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Nova | Polar Mesh (Factory New)",
+      "price": {
+        "min": 1.68,
+        "max": 15.16,
+        "mean": 8.13,
+        "median": 8.68,
+        "suggested": 1.3,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Nova | Polar Mesh (Minimal Wear)",
+      "price": {
+        "min": 0.05,
+        "max": 4.64,
+        "mean": 1.27,
+        "median": 0.63,
+        "suggested": 0.06,
+        "quantity": 454,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Nova | Polar Mesh (Field-Tested)",
+      "price": {
+        "min": 0.02,
+        "max": 5.81,
+        "mean": 0.14,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 1370,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Nova | Polar Mesh (Well-Worn)",
+      "price": {
+        "min": 0.02,
+        "max": 1.75,
+        "mean": 0.09,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 207,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Nova | Polar Mesh (Battle-Scarred)",
+      "price": {
+        "min": 0.02,
+        "max": 4.42,
+        "mean": 0.26,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 400,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Nova | Polar Mesh (Factory New)",
+        "price": {
+          "min": 1.68,
+          "max": 15.16,
+          "mean": 8.13,
+          "median": 8.68,
+          "suggested": 1.3,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Nova | Polar Mesh (Minimal Wear)",
+        "price": {
+          "min": 0.05,
+          "max": 4.64,
+          "mean": 1.27,
+          "median": 0.63,
+          "suggested": 0.06,
+          "quantity": 454,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Nova | Polar Mesh (Field-Tested)",
+        "price": {
+          "min": 0.02,
+          "max": 5.81,
+          "mean": 0.14,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 1370,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Nova | Polar Mesh (Well-Worn)",
+        "price": {
+          "min": 0.02,
+          "max": 1.75,
+          "mean": 0.09,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 207,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Nova | Polar Mesh (Battle-Scarred)",
+        "price": {
+          "min": 0.02,
+          "max": 4.42,
+          "mean": 0.26,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 400,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Nova | Polar Mesh (Factory New)",
+        "price": {
+          "min": 150.09,
+          "max": 150.09,
+          "mean": 150.09,
+          "median": 150.09,
+          "suggested": 4.4,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Nova | Polar Mesh (Minimal Wear)",
+        "price": {
+          "min": 3.45,
+          "max": 54.85,
+          "mean": 8.4,
+          "median": 3.45,
+          "suggested": 1.07,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Nova | Polar Mesh (Field-Tested)",
+        "price": {
+          "min": 0.92,
+          "max": 105.02,
+          "mean": 10.43,
+          "median": 1.38,
+          "suggested": 0.44,
+          "quantity": 38,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Nova | Polar Mesh (Well-Worn)",
+        "price": {
+          "min": 1.18,
+          "max": 128.36,
+          "mean": 14.13,
+          "median": 3.52,
+          "suggested": 0.63,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Nova | Polar Mesh (Battle-Scarred)",
+        "price": {
+          "min": 0.53,
+          "max": 256.04,
+          "mean": 48.49,
+          "median": 6.94,
+          "suggested": 0.67,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.882Z"
+}

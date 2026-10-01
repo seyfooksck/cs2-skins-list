@@ -1,0 +1,310 @@
+{
+  "id": "skin-b86e591b7a8e",
+  "name": "SG 553 | Atlas",
+  "paint_index": "553",
+  "weapon": {
+    "id": "weapon_sg556",
+    "weapon_id": 39,
+    "name": "SG 553",
+    "slug": "sg556"
+  },
+  "pattern": {
+    "id": "cu_sg553_atlas",
+    "name": "Atlas"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.81,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The terrorist-exclusive SG553 is a premium scoped alternative to the AK47 for effective long-range engagement. It has been given a modern camouflage hydrographic.\\n\\n<i>It was once a design earmarked for the Coalition Taskforce, but Huxley engaged in corporate espionage to make it a Phoenix exclusive</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.52,
+      "max": 15.87,
+      "mean": 6.11,
+      "median": 3.42,
+      "suggested": 2.02,
+      "quantity": 20,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.48,
+      "max": 3.07,
+      "mean": 0.91,
+      "median": 1.03,
+      "suggested": 0.57,
+      "quantity": 43,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.44,
+      "max": 14,
+      "mean": 1.24,
+      "median": 0.61,
+      "suggested": 0.67,
+      "quantity": 172,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.41,
+      "max": 5.87,
+      "mean": 1.17,
+      "median": 0.91,
+      "suggested": 0.51,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.29,
+      "max": 11.66,
+      "mean": 0.84,
+      "median": 0.43,
+      "suggested": 0.35,
+      "quantity": 61,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SG 553 | Atlas (Factory New)",
+      "price": {
+        "min": 1.52,
+        "max": 15.87,
+        "mean": 6.11,
+        "median": 3.42,
+        "suggested": 2.02,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SG 553 | Atlas (Minimal Wear)",
+      "price": {
+        "min": 0.48,
+        "max": 3.07,
+        "mean": 0.91,
+        "median": 1.03,
+        "suggested": 0.57,
+        "quantity": 43,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "SG 553 | Atlas (Field-Tested)",
+      "price": {
+        "min": 0.44,
+        "max": 14,
+        "mean": 1.24,
+        "median": 0.61,
+        "suggested": 0.67,
+        "quantity": 172,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "SG 553 | Atlas (Well-Worn)",
+      "price": {
+        "min": 0.41,
+        "max": 5.87,
+        "mean": 1.17,
+        "median": 0.91,
+        "suggested": 0.51,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "SG 553 | Atlas (Battle-Scarred)",
+      "price": {
+        "min": 0.29,
+        "max": 11.66,
+        "mean": 0.84,
+        "median": 0.43,
+        "suggested": 0.35,
+        "quantity": 61,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SG 553 | Atlas (Factory New)",
+        "price": {
+          "min": 1.52,
+          "max": 15.87,
+          "mean": 6.11,
+          "median": 3.42,
+          "suggested": 2.02,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "SG 553 | Atlas (Minimal Wear)",
+        "price": {
+          "min": 0.48,
+          "max": 3.07,
+          "mean": 0.91,
+          "median": 1.03,
+          "suggested": 0.57,
+          "quantity": 43,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "SG 553 | Atlas (Field-Tested)",
+        "price": {
+          "min": 0.44,
+          "max": 14,
+          "mean": 1.24,
+          "median": 0.61,
+          "suggested": 0.67,
+          "quantity": 172,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "SG 553 | Atlas (Well-Worn)",
+        "price": {
+          "min": 0.41,
+          "max": 5.87,
+          "mean": 1.17,
+          "median": 0.91,
+          "suggested": 0.51,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "SG 553 | Atlas (Battle-Scarred)",
+        "price": {
+          "min": 0.29,
+          "max": 11.66,
+          "mean": 0.84,
+          "median": 0.43,
+          "suggested": 0.35,
+          "quantity": 61,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ SG 553 | Atlas (Factory New)",
+        "price": {
+          "min": 1.23,
+          "max": 31.83,
+          "mean": 4.97,
+          "median": 1.68,
+          "suggested": 1.78,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ SG 553 | Atlas (Minimal Wear)",
+        "price": {
+          "min": 0.44,
+          "max": 7.42,
+          "mean": 0.82,
+          "median": 0.61,
+          "suggested": 0.58,
+          "quantity": 35,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ SG 553 | Atlas (Field-Tested)",
+        "price": {
+          "min": 0.19,
+          "max": 7,
+          "mean": 0.81,
+          "median": 0.32,
+          "suggested": 0.27,
+          "quantity": 57,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ SG 553 | Atlas (Well-Worn)",
+        "price": {
+          "min": 0.35,
+          "max": 0.46,
+          "mean": 0.41,
+          "median": 0.41,
+          "suggested": 0.4,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ SG 553 | Atlas (Battle-Scarred)",
+        "price": {
+          "min": 0.23,
+          "max": 4.67,
+          "mean": 0.65,
+          "median": 0.33,
+          "suggested": 0.27,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SG 553 | Atlas (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir SG 553 | Atlas (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir SG 553 | Atlas (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir SG 553 | Atlas (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir SG 553 | Atlas (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:47.919Z"
+}

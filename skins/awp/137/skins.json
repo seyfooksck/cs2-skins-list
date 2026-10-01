@@ -1,0 +1,281 @@
+{
+  "id": "skin-97b0720f09ea",
+  "name": "AWP | Crakow!",
+  "paint_index": "137",
+  "weapon": {
+    "id": "weapon_awp",
+    "weapon_id": 9,
+    "name": "AWP",
+    "slug": "awp"
+  },
+  "pattern": {
+    "id": "cu_overpass_crakow_awp",
+    "name": "Crakow!"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted using whimsical, playground-style art depicting a little girl and her robot.\\n\\n<i>Playing make believe</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 114.04,
+      "max": 875.21,
+      "mean": 422.52,
+      "median": 304.61,
+      "suggested": 156.37,
+      "quantity": 46,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 51.75,
+      "max": 1050.24,
+      "mean": 118.7,
+      "median": 91.02,
+      "suggested": 66.04,
+      "quantity": 91,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 28.68,
+      "max": 1165.77,
+      "mean": 87.37,
+      "median": 48.11,
+      "suggested": 37.57,
+      "quantity": 111,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 21.33,
+      "max": 140.92,
+      "mean": 30.84,
+      "median": 24.44,
+      "suggested": 28.04,
+      "quantity": 44,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 19.88,
+      "max": 163.37,
+      "mean": 41.26,
+      "median": 25.68,
+      "suggested": 24.53,
+      "quantity": 31,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AWP | Crakow! (Factory New)",
+      "price": {
+        "min": 114.04,
+        "max": 875.21,
+        "mean": 422.52,
+        "median": 304.61,
+        "suggested": 156.37,
+        "quantity": 46,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AWP | Crakow! (Minimal Wear)",
+      "price": {
+        "min": 51.75,
+        "max": 1050.24,
+        "mean": 118.7,
+        "median": 91.02,
+        "suggested": 66.04,
+        "quantity": 91,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AWP | Crakow! (Field-Tested)",
+      "price": {
+        "min": 28.68,
+        "max": 1165.77,
+        "mean": 87.37,
+        "median": 48.11,
+        "suggested": 37.57,
+        "quantity": 111,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AWP | Crakow! (Well-Worn)",
+      "price": {
+        "min": 21.33,
+        "max": 140.92,
+        "mean": 30.84,
+        "median": 24.44,
+        "suggested": 28.04,
+        "quantity": 44,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AWP | Crakow! (Battle-Scarred)",
+      "price": {
+        "min": 19.88,
+        "max": 163.37,
+        "mean": 41.26,
+        "median": 25.68,
+        "suggested": 24.53,
+        "quantity": 31,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AWP | Crakow! (Factory New)",
+        "price": {
+          "min": 114.04,
+          "max": 875.21,
+          "mean": 422.52,
+          "median": 304.61,
+          "suggested": 156.37,
+          "quantity": 46,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AWP | Crakow! (Minimal Wear)",
+        "price": {
+          "min": 51.75,
+          "max": 1050.24,
+          "mean": 118.7,
+          "median": 91.02,
+          "suggested": 66.04,
+          "quantity": 91,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AWP | Crakow! (Field-Tested)",
+        "price": {
+          "min": 28.68,
+          "max": 1165.77,
+          "mean": 87.37,
+          "median": 48.11,
+          "suggested": 37.57,
+          "quantity": 111,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AWP | Crakow! (Well-Worn)",
+        "price": {
+          "min": 21.33,
+          "max": 140.92,
+          "mean": 30.84,
+          "median": 24.44,
+          "suggested": 28.04,
+          "quantity": 44,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AWP | Crakow! (Battle-Scarred)",
+        "price": {
+          "min": 19.88,
+          "max": 163.37,
+          "mean": 41.26,
+          "median": 25.68,
+          "suggested": 24.53,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AWP | Crakow! (Factory New)",
+        "price": {
+          "min": 636.96,
+          "max": 636.96,
+          "mean": 636.96,
+          "median": 636.96,
+          "suggested": 429.13,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AWP | Crakow! (Minimal Wear)",
+        "price": {
+          "min": 73.1,
+          "max": 184.08,
+          "mean": 116.2,
+          "median": 118.58,
+          "suggested": 95.15,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AWP | Crakow! (Field-Tested)",
+        "price": {
+          "min": 46.44,
+          "max": 91.91,
+          "mean": 76.7,
+          "median": 91.76,
+          "suggested": 57.07,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AWP | Crakow! (Well-Worn)",
+        "price": {
+          "min": 38.28,
+          "max": 73.95,
+          "mean": 48.12,
+          "median": 40.13,
+          "suggested": 46.09,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AWP | Crakow! (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:26.119Z"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "skin-28b915dc6c9c",
+  "name": "AK-47 | Point Disarray",
+  "paint_index": "506",
+  "weapon": {
+    "id": "weapon_ak47",
+    "weapon_id": 7,
+    "name": "AK-47",
+    "slug": "ak47"
+  },
+  "pattern": {
+    "id": "cu_ak47_point_disarray",
+    "name": "Point Disarray"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.67,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. It has been custom painted with a geometric hydrographic.\\n\\n<i>Up close it is chaos... from a distance it is beauty - Franz Kriegeld, Phoenix Tactician</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 76.53,
+      "max": 587.56,
+      "mean": 171.07,
+      "median": 113.78,
+      "suggested": 109.81,
+      "quantity": 54,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 23.33,
+      "max": 6727.39,
+      "mean": 196.22,
+      "median": 26.93,
+      "suggested": 28.16,
+      "quantity": 83,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 13.64,
+      "max": 88.23,
+      "mean": 22.13,
+      "median": 16.28,
+      "suggested": 17.6,
+      "quantity": 99,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 15.16,
+      "max": 26.69,
+      "mean": 19.23,
+      "median": 15.6,
+      "suggested": 17.73,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 12.87,
+      "max": 843.7,
+      "mean": 60.39,
+      "median": 15.35,
+      "suggested": 16.82,
+      "quantity": 20,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AK-47 | Point Disarray (Factory New)",
+      "price": {
+        "min": 76.53,
+        "max": 587.56,
+        "mean": 171.07,
+        "median": 113.78,
+        "suggested": 109.81,
+        "quantity": 54,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AK-47 | Point Disarray (Minimal Wear)",
+      "price": {
+        "min": 23.33,
+        "max": 6727.39,
+        "mean": 196.22,
+        "median": 26.93,
+        "suggested": 28.16,
+        "quantity": 83,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AK-47 | Point Disarray (Field-Tested)",
+      "price": {
+        "min": 13.64,
+        "max": 88.23,
+        "mean": 22.13,
+        "median": 16.28,
+        "suggested": 17.6,
+        "quantity": 99,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AK-47 | Point Disarray (Well-Worn)",
+      "price": {
+        "min": 15.16,
+        "max": 26.69,
+        "mean": 19.23,
+        "median": 15.6,
+        "suggested": 17.73,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AK-47 | Point Disarray (Battle-Scarred)",
+      "price": {
+        "min": 12.87,
+        "max": 843.7,
+        "mean": 60.39,
+        "median": 15.35,
+        "suggested": 16.82,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AK-47 | Point Disarray (Factory New)",
+        "price": {
+          "min": 76.53,
+          "max": 587.56,
+          "mean": 171.07,
+          "median": 113.78,
+          "suggested": 109.81,
+          "quantity": 54,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AK-47 | Point Disarray (Minimal Wear)",
+        "price": {
+          "min": 23.33,
+          "max": 6727.39,
+          "mean": 196.22,
+          "median": 26.93,
+          "suggested": 28.16,
+          "quantity": 83,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AK-47 | Point Disarray (Field-Tested)",
+        "price": {
+          "min": 13.64,
+          "max": 88.23,
+          "mean": 22.13,
+          "median": 16.28,
+          "suggested": 17.6,
+          "quantity": 99,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AK-47 | Point Disarray (Well-Worn)",
+        "price": {
+          "min": 15.16,
+          "max": 26.69,
+          "mean": 19.23,
+          "median": 15.6,
+          "suggested": 17.73,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AK-47 | Point Disarray (Battle-Scarred)",
+        "price": {
+          "min": 12.87,
+          "max": 843.7,
+          "mean": 60.39,
+          "median": 15.35,
+          "suggested": 16.82,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AK-47 | Point Disarray (Factory New)",
+        "price": {
+          "min": 92.19,
+          "max": 313.89,
+          "mean": 142.38,
+          "median": 120.33,
+          "suggested": 118.17,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AK-47 | Point Disarray (Minimal Wear)",
+        "price": {
+          "min": 51.84,
+          "max": 518.63,
+          "mean": 86.06,
+          "median": 61.24,
+          "suggested": 68.26,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AK-47 | Point Disarray (Field-Tested)",
+        "price": {
+          "min": 30.25,
+          "max": 843.7,
+          "mean": 92.07,
+          "median": 37.33,
+          "suggested": 36.26,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AK-47 | Point Disarray (Well-Worn)",
+        "price": {
+          "min": 33.54,
+          "max": 41.67,
+          "mean": 38.71,
+          "median": 40.9,
+          "suggested": 36.97,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ AK-47 | Point Disarray (Battle-Scarred)",
+        "price": {
+          "min": 26.7,
+          "max": 48.84,
+          "mean": 37.61,
+          "median": 37.28,
+          "suggested": 36.53,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AK-47 | Point Disarray (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AK-47 | Point Disarray (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AK-47 | Point Disarray (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AK-47 | Point Disarray (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AK-47 | Point Disarray (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:20:20.568Z"
+}

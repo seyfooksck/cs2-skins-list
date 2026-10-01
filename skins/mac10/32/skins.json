@@ -1,0 +1,129 @@
+{
+  "id": "skin-47412dd518bb",
+  "name": "MAC-10 | Silver",
+  "paint_index": "32",
+  "weapon": {
+    "id": "weapon_mac10",
+    "weapon_id": 17,
+    "name": "MAC-10",
+    "slug": "mac10"
+  },
+  "pattern": {
+    "id": "an_silver",
+    "name": "Silver"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been painted with a chrome base coat and candied in transparent silver anodized effect paint.\\n\\n<i>There is beauty in simplicity - Franz Kriegeld, Phoenix Tactician</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.3,
+      "max": 46.68,
+      "mean": 2.17,
+      "median": 1.17,
+      "suggested": 0.4,
+      "quantity": 750,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.35,
+      "max": 2.66,
+      "mean": 0.96,
+      "median": 0.62,
+      "suggested": 0.42,
+      "quantity": 6,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAC-10 | Silver (Factory New)",
+      "price": {
+        "min": 0.3,
+        "max": 46.68,
+        "mean": 2.17,
+        "median": 1.17,
+        "suggested": 0.4,
+        "quantity": 750,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAC-10 | Silver (Minimal Wear)",
+      "price": {
+        "min": 0.35,
+        "max": 2.66,
+        "mean": 0.96,
+        "median": 0.62,
+        "suggested": 0.42,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAC-10 | Silver (Factory New)",
+        "price": {
+          "min": 0.3,
+          "max": 46.68,
+          "mean": 2.17,
+          "median": 1.17,
+          "suggested": 0.4,
+          "quantity": 750,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAC-10 | Silver (Minimal Wear)",
+        "price": {
+          "min": 0.35,
+          "max": 2.66,
+          "mean": 0.96,
+          "median": 0.62,
+          "suggested": 0.42,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAC-10 | Silver (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAC-10 | Silver (Minimal Wear)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.520Z"
+}

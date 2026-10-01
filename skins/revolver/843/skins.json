@@ -1,0 +1,206 @@
+{
+  "id": "skin-1a044032aec8",
+  "name": "R8 Revolver | Skull Crusher",
+  "paint_index": "843",
+  "weapon": {
+    "id": "weapon_revolver",
+    "weapon_id": 64,
+    "name": "R8 Revolver",
+    "slug": "revolver"
+  },
+  "pattern": {
+    "id": "cu_revolver_oppressor",
+    "name": "Skull Crusher"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0.25,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The R8 Revolver delivers a highly accurate and powerful round at the expense of a lengthy trigger-pull. Firing rapidly by fanning the hammer may be the best option when point-blank stopping power is required. It has been hand painted with yellow flames and red and white accents.\\n\\n<i>\\\"Open wiiiiide\\\"</i>",
+  "images": {
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "ft": {
+      "min": 8.13,
+      "max": 18.66,
+      "mean": 13.31,
+      "median": 11.48,
+      "suggested": 10.85,
+      "quantity": 76,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 5.38,
+      "max": 15.17,
+      "mean": 6.41,
+      "median": 5.94,
+      "suggested": 6.86,
+      "quantity": 50,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 5.23,
+      "max": 60.1,
+      "mean": 6.69,
+      "median": 5.53,
+      "suggested": 6.38,
+      "quantity": 51,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "R8 Revolver | Skull Crusher (Field-Tested)",
+      "price": {
+        "min": 8.13,
+        "max": 18.66,
+        "mean": 13.31,
+        "median": 11.48,
+        "suggested": 10.85,
+        "quantity": 76,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "R8 Revolver | Skull Crusher (Well-Worn)",
+      "price": {
+        "min": 5.38,
+        "max": 15.17,
+        "mean": 6.41,
+        "median": 5.94,
+        "suggested": 6.86,
+        "quantity": 50,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "R8 Revolver | Skull Crusher (Battle-Scarred)",
+      "price": {
+        "min": 5.23,
+        "max": 60.1,
+        "mean": 6.69,
+        "median": 5.53,
+        "suggested": 6.38,
+        "quantity": 51,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "ft": {
+        "market_hash_name": "R8 Revolver | Skull Crusher (Field-Tested)",
+        "price": {
+          "min": 8.13,
+          "max": 18.66,
+          "mean": 13.31,
+          "median": 11.48,
+          "suggested": 10.85,
+          "quantity": 76,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "R8 Revolver | Skull Crusher (Well-Worn)",
+        "price": {
+          "min": 5.38,
+          "max": 15.17,
+          "mean": 6.41,
+          "median": 5.94,
+          "suggested": 6.86,
+          "quantity": 50,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "R8 Revolver | Skull Crusher (Battle-Scarred)",
+        "price": {
+          "min": 5.23,
+          "max": 60.1,
+          "mean": 6.69,
+          "median": 5.53,
+          "suggested": 6.38,
+          "quantity": 51,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "ft": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Skull Crusher (Field-Tested)",
+        "price": {
+          "min": 12.82,
+          "max": 18.32,
+          "mean": 15.38,
+          "median": 15.43,
+          "suggested": 14.75,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Skull Crusher (Well-Worn)",
+        "price": {
+          "min": 6.6,
+          "max": 21.62,
+          "mean": 9.93,
+          "median": 9.08,
+          "suggested": 7.39,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Skull Crusher (Battle-Scarred)",
+        "price": {
+          "min": 5.33,
+          "max": 11.66,
+          "mean": 8.1,
+          "median": 7.02,
+          "suggested": 6.93,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "ft": {
+        "market_hash_name": "Souvenir R8 Revolver | Skull Crusher (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir R8 Revolver | Skull Crusher (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir R8 Revolver | Skull Crusher (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:46.600Z"
+}

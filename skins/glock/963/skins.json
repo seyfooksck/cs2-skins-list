@@ -1,0 +1,310 @@
+{
+  "id": "skin-6e390882e9a0",
+  "name": "Glock-18 | Vogue",
+  "paint_index": "963",
+  "weapon": {
+    "id": "weapon_glock",
+    "weapon_id": 4,
+    "name": "Glock-18",
+    "slug": "glock"
+  },
+  "pattern": {
+    "id": "cu_glock_eyecontact",
+    "name": "Vogue"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.75,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. A pair of eyes grace the slide of this custom painted, Pop art inspired Glock.\\n\\n<i>\\\"Look at me while I'm shooting at you!\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 17.99,
+      "max": 1154.1,
+      "mean": 43.96,
+      "median": 25.6,
+      "suggested": 26.91,
+      "quantity": 101,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 6.57,
+      "max": 354.75,
+      "mean": 14.12,
+      "median": 7.32,
+      "suggested": 8.28,
+      "quantity": 135,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 3.82,
+      "max": 118.44,
+      "mean": 5.25,
+      "median": 4.55,
+      "suggested": 4.94,
+      "quantity": 961,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 3.58,
+      "max": 9.32,
+      "mean": 4.56,
+      "median": 4.17,
+      "suggested": 4.85,
+      "quantity": 52,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 3.49,
+      "max": 85.85,
+      "mean": 5.43,
+      "median": 3.98,
+      "suggested": 4.52,
+      "quantity": 107,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Glock-18 | Vogue (Factory New)",
+      "price": {
+        "min": 17.99,
+        "max": 1154.1,
+        "mean": 43.96,
+        "median": 25.6,
+        "suggested": 26.91,
+        "quantity": 101,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Glock-18 | Vogue (Minimal Wear)",
+      "price": {
+        "min": 6.57,
+        "max": 354.75,
+        "mean": 14.12,
+        "median": 7.32,
+        "suggested": 8.28,
+        "quantity": 135,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Glock-18 | Vogue (Field-Tested)",
+      "price": {
+        "min": 3.82,
+        "max": 118.44,
+        "mean": 5.25,
+        "median": 4.55,
+        "suggested": 4.94,
+        "quantity": 961,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Glock-18 | Vogue (Well-Worn)",
+      "price": {
+        "min": 3.58,
+        "max": 9.32,
+        "mean": 4.56,
+        "median": 4.17,
+        "suggested": 4.85,
+        "quantity": 52,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Glock-18 | Vogue (Battle-Scarred)",
+      "price": {
+        "min": 3.49,
+        "max": 85.85,
+        "mean": 5.43,
+        "median": 3.98,
+        "suggested": 4.52,
+        "quantity": 107,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Glock-18 | Vogue (Factory New)",
+        "price": {
+          "min": 17.99,
+          "max": 1154.1,
+          "mean": 43.96,
+          "median": 25.6,
+          "suggested": 26.91,
+          "quantity": 101,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Glock-18 | Vogue (Minimal Wear)",
+        "price": {
+          "min": 6.57,
+          "max": 354.75,
+          "mean": 14.12,
+          "median": 7.32,
+          "suggested": 8.28,
+          "quantity": 135,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Glock-18 | Vogue (Field-Tested)",
+        "price": {
+          "min": 3.82,
+          "max": 118.44,
+          "mean": 5.25,
+          "median": 4.55,
+          "suggested": 4.94,
+          "quantity": 961,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Glock-18 | Vogue (Well-Worn)",
+        "price": {
+          "min": 3.58,
+          "max": 9.32,
+          "mean": 4.56,
+          "median": 4.17,
+          "suggested": 4.85,
+          "quantity": 52,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Glock-18 | Vogue (Battle-Scarred)",
+        "price": {
+          "min": 3.49,
+          "max": 85.85,
+          "mean": 5.43,
+          "median": 3.98,
+          "suggested": 4.52,
+          "quantity": 107,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Glock-18 | Vogue (Factory New)",
+        "price": {
+          "min": 23.93,
+          "max": 79.59,
+          "mean": 31.64,
+          "median": 26.28,
+          "suggested": 30.28,
+          "quantity": 39,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Glock-18 | Vogue (Minimal Wear)",
+        "price": {
+          "min": 11.83,
+          "max": 136.52,
+          "mean": 19.22,
+          "median": 14.45,
+          "suggested": 14.96,
+          "quantity": 39,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Glock-18 | Vogue (Field-Tested)",
+        "price": {
+          "min": 6.62,
+          "max": 134.1,
+          "mean": 10.11,
+          "median": 7.04,
+          "suggested": 7.93,
+          "quantity": 74,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Glock-18 | Vogue (Well-Worn)",
+        "price": {
+          "min": 5.93,
+          "max": 135.35,
+          "mean": 17.08,
+          "median": 6.67,
+          "suggested": 7.93,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Glock-18 | Vogue (Battle-Scarred)",
+        "price": {
+          "min": 5.1,
+          "max": 341.6,
+          "mean": 23.82,
+          "median": 6.49,
+          "suggested": 7.24,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Glock-18 | Vogue (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Glock-18 | Vogue (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Glock-18 | Vogue (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Glock-18 | Vogue (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Glock-18 | Vogue (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:31.785Z"
+}

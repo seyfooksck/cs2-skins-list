@@ -1,0 +1,281 @@
+{
+  "id": "skin-88c0ba610062",
+  "name": "M4A1-S | Control Panel",
+  "paint_index": "792",
+  "weapon": {
+    "id": "weapon_m4a1_silencer",
+    "weapon_id": 60,
+    "name": "M4A1-S",
+    "slug": "m4a1_silencer"
+  },
+  "pattern": {
+    "id": "gs_m4a1s_operator",
+    "name": "Control Panel"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. It has been hand painted with colorful dials and switches atop a blue base.\\n\\n<i>\\\"Is this line secure?\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 174.11,
+      "max": 1166.94,
+      "mean": 370.04,
+      "median": 284.79,
+      "suggested": 231,
+      "quantity": 18,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 40.62,
+      "max": 158.53,
+      "mean": 56.93,
+      "median": 49.96,
+      "suggested": 54.75,
+      "quantity": 32,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 29.17,
+      "max": 175.04,
+      "mean": 41.8,
+      "median": 34.45,
+      "suggested": 40.68,
+      "quantity": 26,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 6.01,
+      "max": 17.49,
+      "mean": 13.28,
+      "median": 17,
+      "suggested": 7.02,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 4.99,
+      "max": 15.4,
+      "mean": 10.58,
+      "median": 10.49,
+      "suggested": 5.81,
+      "quantity": 19,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A1-S | Control Panel (Factory New)",
+      "price": {
+        "min": 174.11,
+        "max": 1166.94,
+        "mean": 370.04,
+        "median": 284.79,
+        "suggested": 231,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A1-S | Control Panel (Minimal Wear)",
+      "price": {
+        "min": 40.62,
+        "max": 158.53,
+        "mean": 56.93,
+        "median": 49.96,
+        "suggested": 54.75,
+        "quantity": 32,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A1-S | Control Panel (Field-Tested)",
+      "price": {
+        "min": 29.17,
+        "max": 175.04,
+        "mean": 41.8,
+        "median": 34.45,
+        "suggested": 40.68,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M4A1-S | Control Panel (Well-Worn)",
+      "price": {
+        "min": 6.01,
+        "max": 17.49,
+        "mean": 13.28,
+        "median": 17,
+        "suggested": 7.02,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M4A1-S | Control Panel (Battle-Scarred)",
+      "price": {
+        "min": 4.99,
+        "max": 15.4,
+        "mean": 10.58,
+        "median": 10.49,
+        "suggested": 5.81,
+        "quantity": 19,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A1-S | Control Panel (Factory New)",
+        "price": {
+          "min": 174.11,
+          "max": 1166.94,
+          "mean": 370.04,
+          "median": 284.79,
+          "suggested": 231,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A1-S | Control Panel (Minimal Wear)",
+        "price": {
+          "min": 40.62,
+          "max": 158.53,
+          "mean": 56.93,
+          "median": 49.96,
+          "suggested": 54.75,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A1-S | Control Panel (Field-Tested)",
+        "price": {
+          "min": 29.17,
+          "max": 175.04,
+          "mean": 41.8,
+          "median": 34.45,
+          "suggested": 40.68,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M4A1-S | Control Panel (Well-Worn)",
+        "price": {
+          "min": 6.01,
+          "max": 17.49,
+          "mean": 13.28,
+          "median": 17,
+          "suggested": 7.02,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M4A1-S | Control Panel (Battle-Scarred)",
+        "price": {
+          "min": 4.99,
+          "max": 15.4,
+          "mean": 10.58,
+          "median": 10.49,
+          "suggested": 5.81,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A1-S | Control Panel (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A1-S | Control Panel (Minimal Wear)",
+        "price": {
+          "min": 101.97,
+          "max": 116.69,
+          "mean": 109.33,
+          "median": 109.33,
+          "suggested": 81.21,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A1-S | Control Panel (Field-Tested)",
+        "price": {
+          "min": 45.73,
+          "max": 45.73,
+          "mean": 45.73,
+          "median": 45.73,
+          "suggested": 37.76,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M4A1-S | Control Panel (Well-Worn)",
+        "price": {
+          "min": 38.26,
+          "max": 38.26,
+          "mean": 38.26,
+          "median": 38.26,
+          "suggested": 35.78,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M4A1-S | Control Panel (Battle-Scarred)",
+        "price": {
+          "min": 68.53,
+          "max": 68.53,
+          "mean": 68.53,
+          "median": 68.53,
+          "suggested": 32.21,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.034Z"
+}

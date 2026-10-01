@@ -1,0 +1,289 @@
+{
+  "id": "skin-f4c898d70fd2",
+  "name": "UMP-45 | Indigo",
+  "paint_index": "333",
+  "weapon": {
+    "id": "weapon_ump45",
+    "weapon_id": 24,
+    "name": "UMP-45",
+    "slug": "ump45"
+  },
+  "pattern": {
+    "id": "so_indigo_and_grey",
+    "name": "Indigo"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic. It has been painted solid colors in indigo, blue and grey.\\n\\n<i>Alex Kincaide, I'm sure you have many questions... please allow me to give you answers - The Phoenix and The Storyteller Part 1</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 20.48,
+      "max": 145.86,
+      "mean": 60.41,
+      "median": 51.86,
+      "suggested": 19.5,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 3.58,
+      "max": 233.39,
+      "mean": 27.73,
+      "median": 15.7,
+      "suggested": 4.17,
+      "quantity": 25,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.71,
+      "max": 126.02,
+      "mean": 12.74,
+      "median": 9.22,
+      "suggested": 2.58,
+      "quantity": 33,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 2.43,
+      "max": 7.99,
+      "mean": 4.96,
+      "median": 4.12,
+      "suggested": 2.73,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 7.99,
+      "max": 7.99,
+      "mean": 7.99,
+      "median": 7.99,
+      "suggested": 2.21,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "UMP-45 | Indigo (Factory New)",
+      "price": {
+        "min": 20.48,
+        "max": 145.86,
+        "mean": 60.41,
+        "median": 51.86,
+        "suggested": 19.5,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "UMP-45 | Indigo (Minimal Wear)",
+      "price": {
+        "min": 3.58,
+        "max": 233.39,
+        "mean": 27.73,
+        "median": 15.7,
+        "suggested": 4.17,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "UMP-45 | Indigo (Field-Tested)",
+      "price": {
+        "min": 2.71,
+        "max": 126.02,
+        "mean": 12.74,
+        "median": 9.22,
+        "suggested": 2.58,
+        "quantity": 33,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "UMP-45 | Indigo (Well-Worn)",
+      "price": {
+        "min": 2.43,
+        "max": 7.99,
+        "mean": 4.96,
+        "median": 4.12,
+        "suggested": 2.73,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "UMP-45 | Indigo (Battle-Scarred)",
+      "price": {
+        "min": 7.99,
+        "max": 7.99,
+        "mean": 7.99,
+        "median": 7.99,
+        "suggested": 2.21,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "UMP-45 | Indigo (Factory New)",
+        "price": {
+          "min": 20.48,
+          "max": 145.86,
+          "mean": 60.41,
+          "median": 51.86,
+          "suggested": 19.5,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "UMP-45 | Indigo (Minimal Wear)",
+        "price": {
+          "min": 3.58,
+          "max": 233.39,
+          "mean": 27.73,
+          "median": 15.7,
+          "suggested": 4.17,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "UMP-45 | Indigo (Field-Tested)",
+        "price": {
+          "min": 2.71,
+          "max": 126.02,
+          "mean": 12.74,
+          "median": 9.22,
+          "suggested": 2.58,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "UMP-45 | Indigo (Well-Worn)",
+        "price": {
+          "min": 2.43,
+          "max": 7.99,
+          "mean": 4.96,
+          "median": 4.12,
+          "suggested": 2.73,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "UMP-45 | Indigo (Battle-Scarred)",
+        "price": {
+          "min": 7.99,
+          "max": 7.99,
+          "mean": 7.99,
+          "median": 7.99,
+          "suggested": 2.21,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir UMP-45 | Indigo (Factory New)",
+        "price": {
+          "min": 49.45,
+          "max": 49.45,
+          "mean": 49.45,
+          "median": 49.45,
+          "suggested": 33.23,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir UMP-45 | Indigo (Minimal Wear)",
+        "price": {
+          "min": 4.41,
+          "max": 134.5,
+          "mean": 23.18,
+          "median": 17.5,
+          "suggested": 4.38,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir UMP-45 | Indigo (Field-Tested)",
+        "price": {
+          "min": 2.45,
+          "max": 126.03,
+          "mean": 22.49,
+          "median": 7.61,
+          "suggested": 2.72,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir UMP-45 | Indigo (Well-Worn)",
+        "price": {
+          "min": 10.25,
+          "max": 10.25,
+          "mean": 10.25,
+          "median": 10.25,
+          "suggested": 2.42,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir UMP-45 | Indigo (Battle-Scarred)",
+        "price": {
+          "min": 3.59,
+          "max": 39.68,
+          "mean": 13.52,
+          "median": 5.41,
+          "suggested": 2.39,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:50.156Z"
+}

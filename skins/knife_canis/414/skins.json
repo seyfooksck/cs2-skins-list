@@ -1,0 +1,137 @@
+{
+  "id": "skin-0e190498bba1",
+  "name": "★ Survival Knife | Rust Coat",
+  "paint_index": "414",
+  "weapon": {
+    "id": "weapon_knife_canis",
+    "weapon_id": 518,
+    "name": "Survival Knife",
+    "slug": "knife_canis"
+  },
+  "pattern": {
+    "id": "aq_steel_knife",
+    "name": "Rust Coat"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.4,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. This memento from Siege is still perfectly operational although the exterior surfaces have rusted.\\n\\n<i>Scars build character</i>",
+  "images": {
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "ww": {
+      "min": 71.63,
+      "max": 71.63,
+      "mean": 71.63,
+      "median": 71.63,
+      "suggested": 61.64,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 65.35,
+      "max": 137.68,
+      "mean": 82.67,
+      "median": 77.38,
+      "suggested": 56.61,
+      "quantity": 10,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Survival Knife | Rust Coat (Well-Worn)",
+      "price": {
+        "min": 71.63,
+        "max": 71.63,
+        "mean": 71.63,
+        "median": 71.63,
+        "suggested": 61.64,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Survival Knife | Rust Coat (Battle-Scarred)",
+      "price": {
+        "min": 65.35,
+        "max": 137.68,
+        "mean": 82.67,
+        "median": 77.38,
+        "suggested": 56.61,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "ww": {
+        "market_hash_name": "★ Survival Knife | Rust Coat (Well-Worn)",
+        "price": {
+          "min": 71.63,
+          "max": 71.63,
+          "mean": 71.63,
+          "median": 71.63,
+          "suggested": 61.64,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Survival Knife | Rust Coat (Battle-Scarred)",
+        "price": {
+          "min": 65.35,
+          "max": 137.68,
+          "mean": 82.67,
+          "median": 77.38,
+          "suggested": 56.61,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Rust Coat (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Rust Coat (Battle-Scarred)",
+        "price": {
+          "min": 91.01,
+          "max": 103.85,
+          "mean": 97.43,
+          "median": 97.43,
+          "suggested": 62.69,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:33.433Z"
+}

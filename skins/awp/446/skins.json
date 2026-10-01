@@ -1,0 +1,225 @@
+{
+  "id": "skin-8af685c49feb",
+  "name": "AWP | Medusa",
+  "paint_index": "446",
+  "weapon": {
+    "id": "weapon_awp",
+    "weapon_id": 9,
+    "name": "AWP",
+    "slug": "awp"
+  },
+  "pattern": {
+    "id": "cu_medusa_awp",
+    "name": "Medusa"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted with the image of a gorgon.\\n\\n<i>If you can see me, you're already dead</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 2907.13,
+      "max": 3150.72,
+      "mean": 3051.41,
+      "median": 3096.4,
+      "suggested": 3277.58,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2302.57,
+      "max": 2704,
+      "mean": 2501.7,
+      "median": 2508.91,
+      "suggested": 2693.28,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1869.85,
+      "max": 2450.57,
+      "mean": 2091.77,
+      "median": 2023.33,
+      "suggested": 2109.25,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 2088.92,
+      "max": 2684.49,
+      "mean": 2330.2,
+      "median": 2217.18,
+      "suggested": 2152.25,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AWP | Medusa (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AWP | Medusa (Minimal Wear)",
+      "price": {
+        "min": 2907.13,
+        "max": 3150.72,
+        "mean": 3051.41,
+        "median": 3096.4,
+        "suggested": 3277.58,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AWP | Medusa (Field-Tested)",
+      "price": {
+        "min": 2302.57,
+        "max": 2704,
+        "mean": 2501.7,
+        "median": 2508.91,
+        "suggested": 2693.28,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AWP | Medusa (Well-Worn)",
+      "price": {
+        "min": 1869.85,
+        "max": 2450.57,
+        "mean": 2091.77,
+        "median": 2023.33,
+        "suggested": 2109.25,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AWP | Medusa (Battle-Scarred)",
+      "price": {
+        "min": 2088.92,
+        "max": 2684.49,
+        "mean": 2330.2,
+        "median": 2217.18,
+        "suggested": 2152.25,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AWP | Medusa (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "AWP | Medusa (Minimal Wear)",
+        "price": {
+          "min": 2907.13,
+          "max": 3150.72,
+          "mean": 3051.41,
+          "median": 3096.4,
+          "suggested": 3277.58,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AWP | Medusa (Field-Tested)",
+        "price": {
+          "min": 2302.57,
+          "max": 2704,
+          "mean": 2501.7,
+          "median": 2508.91,
+          "suggested": 2693.28,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AWP | Medusa (Well-Worn)",
+        "price": {
+          "min": 1869.85,
+          "max": 2450.57,
+          "mean": 2091.77,
+          "median": 2023.33,
+          "suggested": 2109.25,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AWP | Medusa (Battle-Scarred)",
+        "price": {
+          "min": 2088.92,
+          "max": 2684.49,
+          "mean": 2330.2,
+          "median": 2217.18,
+          "suggested": 2152.25,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AWP | Medusa (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AWP | Medusa (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AWP | Medusa (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AWP | Medusa (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AWP | Medusa (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:26.107Z"
+}

@@ -1,0 +1,201 @@
+{
+  "id": "skin-74686c262656",
+  "name": "MAG-7 | Counter Terrace",
+  "paint_index": "462",
+  "weapon": {
+    "id": "weapon_mag7",
+    "weapon_id": 27,
+    "name": "MAG-7",
+    "slug": "mag7"
+  },
+  "pattern": {
+    "id": "hy_geometric_steps_green",
+    "name": "Counter Terrace"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.65,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The CT-exclusive Mag-7 delivers a devastating amount of damage at close range. Its rapid magazine-style reloads make it a great tactical choice. It has been painted with a hydrographic in a geometric motif.\\n\\n<i>Hey Sabri, you should take this one... it's loud like you - Carmen Cocinero, Extraction Expert</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 140.99,
+      "max": 210.19,
+      "mean": 179.45,
+      "median": 183.33,
+      "suggested": 160.41,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 118.49,
+      "max": 140.03,
+      "mean": 132.23,
+      "median": 138.14,
+      "suggested": 143.04,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ft": null,
+    "ww": null,
+    "bs": {
+      "min": 98.93,
+      "max": 98.93,
+      "mean": 98.93,
+      "median": 98.93,
+      "suggested": 102.05,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAG-7 | Counter Terrace (Factory New)",
+      "price": {
+        "min": 140.99,
+        "max": 210.19,
+        "mean": 179.45,
+        "median": 183.33,
+        "suggested": 160.41,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAG-7 | Counter Terrace (Minimal Wear)",
+      "price": {
+        "min": 118.49,
+        "max": 140.03,
+        "mean": 132.23,
+        "median": 138.14,
+        "suggested": 143.04,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAG-7 | Counter Terrace (Field-Tested)",
+      "price": null,
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAG-7 | Counter Terrace (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAG-7 | Counter Terrace (Battle-Scarred)",
+      "price": {
+        "min": 98.93,
+        "max": 98.93,
+        "mean": 98.93,
+        "median": 98.93,
+        "suggested": 102.05,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAG-7 | Counter Terrace (Factory New)",
+        "price": {
+          "min": 140.99,
+          "max": 210.19,
+          "mean": 179.45,
+          "median": 183.33,
+          "suggested": 160.41,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAG-7 | Counter Terrace (Minimal Wear)",
+        "price": {
+          "min": 118.49,
+          "max": 140.03,
+          "mean": 132.23,
+          "median": 138.14,
+          "suggested": 143.04,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAG-7 | Counter Terrace (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "MAG-7 | Counter Terrace (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "MAG-7 | Counter Terrace (Battle-Scarred)",
+        "price": {
+          "min": 98.93,
+          "max": 98.93,
+          "mean": 98.93,
+          "median": 98.93,
+          "suggested": 102.05,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAG-7 | Counter Terrace (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAG-7 | Counter Terrace (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAG-7 | Counter Terrace (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAG-7 | Counter Terrace (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAG-7 | Counter Terrace (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.435Z"
+}

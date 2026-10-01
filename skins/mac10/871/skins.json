@@ -1,0 +1,249 @@
+{
+  "id": "skin-adc9de003296",
+  "name": "MAC-10 | Surfwood",
+  "paint_index": "871",
+  "weapon": {
+    "id": "weapon_mac10",
+    "weapon_id": 17,
+    "name": "MAC-10",
+    "slug": "mac10"
+  },
+  "pattern": {
+    "id": "sp_twigs_beach",
+    "name": "Surfwood"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been spray-painted with a pale green and cream colored design.\\n\\n<i>Mint condition</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 63.19,
+      "max": 63.19,
+      "mean": 63.19,
+      "median": 63.19,
+      "suggested": 23.19,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 4.4,
+      "max": 20.09,
+      "mean": 11.68,
+      "median": 11.67,
+      "suggested": 5.89,
+      "quantity": 43,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 4.41,
+      "max": 200.71,
+      "mean": 12.07,
+      "median": 10.64,
+      "suggested": 5.11,
+      "quantity": 90,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 5.67,
+      "max": 12.44,
+      "mean": 9.18,
+      "median": 9.3,
+      "suggested": 5.37,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 4.85,
+      "max": 12.42,
+      "mean": 7.57,
+      "median": 5.45,
+      "suggested": 4.97,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAC-10 | Surfwood (Factory New)",
+      "price": {
+        "min": 63.19,
+        "max": 63.19,
+        "mean": 63.19,
+        "median": 63.19,
+        "suggested": 23.19,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAC-10 | Surfwood (Minimal Wear)",
+      "price": {
+        "min": 4.4,
+        "max": 20.09,
+        "mean": 11.68,
+        "median": 11.67,
+        "suggested": 5.89,
+        "quantity": 43,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAC-10 | Surfwood (Field-Tested)",
+      "price": {
+        "min": 4.41,
+        "max": 200.71,
+        "mean": 12.07,
+        "median": 10.64,
+        "suggested": 5.11,
+        "quantity": 90,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAC-10 | Surfwood (Well-Worn)",
+      "price": {
+        "min": 5.67,
+        "max": 12.44,
+        "mean": 9.18,
+        "median": 9.3,
+        "suggested": 5.37,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAC-10 | Surfwood (Battle-Scarred)",
+      "price": {
+        "min": 4.85,
+        "max": 12.42,
+        "mean": 7.57,
+        "median": 5.45,
+        "suggested": 4.97,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAC-10 | Surfwood (Factory New)",
+        "price": {
+          "min": 63.19,
+          "max": 63.19,
+          "mean": 63.19,
+          "median": 63.19,
+          "suggested": 23.19,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAC-10 | Surfwood (Minimal Wear)",
+        "price": {
+          "min": 4.4,
+          "max": 20.09,
+          "mean": 11.68,
+          "median": 11.67,
+          "suggested": 5.89,
+          "quantity": 43,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAC-10 | Surfwood (Field-Tested)",
+        "price": {
+          "min": 4.41,
+          "max": 200.71,
+          "mean": 12.07,
+          "median": 10.64,
+          "suggested": 5.11,
+          "quantity": 90,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAC-10 | Surfwood (Well-Worn)",
+        "price": {
+          "min": 5.67,
+          "max": 12.44,
+          "mean": 9.18,
+          "median": 9.3,
+          "suggested": 5.37,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MAC-10 | Surfwood (Battle-Scarred)",
+        "price": {
+          "min": 4.85,
+          "max": 12.42,
+          "mean": 7.57,
+          "median": 5.45,
+          "suggested": 4.97,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAC-10 | Surfwood (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAC-10 | Surfwood (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAC-10 | Surfwood (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAC-10 | Surfwood (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAC-10 | Surfwood (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.112Z"
+}

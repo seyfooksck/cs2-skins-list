@@ -1,0 +1,258 @@
+{
+  "id": "skin-8ba5e5f3632f",
+  "name": "PP-Bizon | Cobalt Halftone",
+  "paint_index": "267",
+  "weapon": {
+    "id": "weapon_bizon",
+    "weapon_id": 26,
+    "name": "PP-Bizon",
+    "slug": "bizon"
+  },
+  "pattern": {
+    "id": "am_turqoise_halftone",
+    "name": "Cobalt Halftone"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0.05,
+  "max_float": 0.45,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly. It has been painted using a hydrographic in an oversized halftone pattern over a base coat of turquoise metallic paint.\\n\\n<i>Felix, you and I both know Valeria's about to wage a war.  The only question is are you prepared? - Booth, Arms Dealer</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 17.14,
+      "max": 17.14,
+      "mean": 17.14,
+      "median": 17.14,
+      "suggested": 16.81,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.32,
+      "max": 4.54,
+      "mean": 2.89,
+      "median": 2.74,
+      "suggested": 2.71,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.42,
+      "max": 81.57,
+      "mean": 13.29,
+      "median": 1.95,
+      "suggested": 1.94,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.63,
+      "max": 1.7,
+      "mean": 1.68,
+      "median": 1.68,
+      "suggested": 1.55,
+      "quantity": 4,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "PP-Bizon | Cobalt Halftone (Factory New)",
+      "price": {
+        "min": 17.14,
+        "max": 17.14,
+        "mean": 17.14,
+        "median": 17.14,
+        "suggested": 16.81,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "PP-Bizon | Cobalt Halftone (Minimal Wear)",
+      "price": {
+        "min": 2.32,
+        "max": 4.54,
+        "mean": 2.89,
+        "median": 2.74,
+        "suggested": 2.71,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "PP-Bizon | Cobalt Halftone (Field-Tested)",
+      "price": {
+        "min": 1.42,
+        "max": 81.57,
+        "mean": 13.29,
+        "median": 1.95,
+        "suggested": 1.94,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "PP-Bizon | Cobalt Halftone (Well-Worn)",
+      "price": {
+        "min": 1.63,
+        "max": 1.7,
+        "mean": 1.68,
+        "median": 1.68,
+        "suggested": 1.55,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "PP-Bizon | Cobalt Halftone (Factory New)",
+        "price": {
+          "min": 17.14,
+          "max": 17.14,
+          "mean": 17.14,
+          "median": 17.14,
+          "suggested": 16.81,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "PP-Bizon | Cobalt Halftone (Minimal Wear)",
+        "price": {
+          "min": 2.32,
+          "max": 4.54,
+          "mean": 2.89,
+          "median": 2.74,
+          "suggested": 2.71,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "PP-Bizon | Cobalt Halftone (Field-Tested)",
+        "price": {
+          "min": 1.42,
+          "max": 81.57,
+          "mean": 13.29,
+          "median": 1.95,
+          "suggested": 1.94,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "PP-Bizon | Cobalt Halftone (Well-Worn)",
+        "price": {
+          "min": 1.63,
+          "max": 1.7,
+          "mean": 1.68,
+          "median": 1.68,
+          "suggested": 1.55,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Cobalt Halftone (Factory New)",
+        "price": {
+          "min": 4.49,
+          "max": 11.28,
+          "mean": 6.93,
+          "median": 5.01,
+          "suggested": 4.89,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Cobalt Halftone (Minimal Wear)",
+        "price": {
+          "min": 1.58,
+          "max": 583.46,
+          "mean": 63.76,
+          "median": 5.33,
+          "suggested": 1.84,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Cobalt Halftone (Field-Tested)",
+        "price": {
+          "min": 1.07,
+          "max": 122.52,
+          "mean": 6.18,
+          "median": 1.7,
+          "suggested": 1.3,
+          "quantity": 43,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Cobalt Halftone (Well-Worn)",
+        "price": {
+          "min": 1.23,
+          "max": 2.03,
+          "mean": 1.65,
+          "median": 1.63,
+          "suggested": 1.34,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir PP-Bizon | Cobalt Halftone (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir PP-Bizon | Cobalt Halftone (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir PP-Bizon | Cobalt Halftone (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir PP-Bizon | Cobalt Halftone (Well-Worn)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:26.907Z"
+}

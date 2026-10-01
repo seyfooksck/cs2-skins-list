@@ -1,0 +1,226 @@
+{
+  "id": "skin-3cc5305a5141",
+  "name": "FAMAS | Afterimage",
+  "paint_index": "154",
+  "weapon": {
+    "id": "weapon_famas",
+    "weapon_id": 10,
+    "name": "FAMAS",
+    "slug": "famas"
+  },
+  "pattern": {
+    "id": "cu_broken_path_famas",
+    "name": "Afterimage"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0.02,
+  "max_float": 0.4,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. It has been custom-painted with broken ribbon trails.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 64.18,
+      "max": 340.92,
+      "mean": 142.39,
+      "median": 90.85,
+      "suggested": 89.65,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 25.08,
+      "max": 320.9,
+      "mean": 70.56,
+      "median": 37.7,
+      "suggested": 28.91,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 29.27,
+      "max": 72.07,
+      "mean": 45.44,
+      "median": 40.21,
+      "suggested": 27.01,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ww": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "FAMAS | Afterimage (Factory New)",
+      "price": {
+        "min": 64.18,
+        "max": 340.92,
+        "mean": 142.39,
+        "median": 90.85,
+        "suggested": 89.65,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "FAMAS | Afterimage (Minimal Wear)",
+      "price": {
+        "min": 25.08,
+        "max": 320.9,
+        "mean": 70.56,
+        "median": 37.7,
+        "suggested": 28.91,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "FAMAS | Afterimage (Field-Tested)",
+      "price": {
+        "min": 29.27,
+        "max": 72.07,
+        "mean": 45.44,
+        "median": 40.21,
+        "suggested": 27.01,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "FAMAS | Afterimage (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "FAMAS | Afterimage (Factory New)",
+        "price": {
+          "min": 64.18,
+          "max": 340.92,
+          "mean": 142.39,
+          "median": 90.85,
+          "suggested": 89.65,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "FAMAS | Afterimage (Minimal Wear)",
+        "price": {
+          "min": 25.08,
+          "max": 320.9,
+          "mean": 70.56,
+          "median": 37.7,
+          "suggested": 28.91,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "FAMAS | Afterimage (Field-Tested)",
+        "price": {
+          "min": 29.27,
+          "max": 72.07,
+          "mean": 45.44,
+          "median": 40.21,
+          "suggested": 27.01,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "FAMAS | Afterimage (Well-Worn)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ FAMAS | Afterimage (Factory New)",
+        "price": {
+          "min": 58.23,
+          "max": 210.05,
+          "mean": 87.63,
+          "median": 64.39,
+          "suggested": 67.76,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ FAMAS | Afterimage (Minimal Wear)",
+        "price": {
+          "min": 34.05,
+          "max": 137.76,
+          "mean": 64.22,
+          "median": 45.02,
+          "suggested": 39.31,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ FAMAS | Afterimage (Field-Tested)",
+        "price": {
+          "min": 40.11,
+          "max": 40.11,
+          "mean": 40.11,
+          "median": 40.11,
+          "suggested": 34.94,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ FAMAS | Afterimage (Well-Worn)",
+        "price": null
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir FAMAS | Afterimage (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir FAMAS | Afterimage (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir FAMAS | Afterimage (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir FAMAS | Afterimage (Well-Worn)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:29.411Z"
+}

@@ -1,0 +1,289 @@
+{
+  "id": "skin-29609fc133b0",
+  "name": "Tec-9 | Mummy's Rot",
+  "paint_index": "1252",
+  "weapon": {
+    "id": "weapon_tec9",
+    "weapon_id": 30,
+    "name": "Tec-9",
+    "slug": "tec9"
+  },
+  "pattern": {
+    "id": "cu_tec9_mummy",
+    "name": "Mummy's Rot"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity. It has been custom painted to resemble a mummy. A cobra with green eyes has been painted beneath the rear sight.\\n\\n<i>Keep this under wraps</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 25.61,
+      "max": 233.39,
+      "mean": 47.7,
+      "median": 37.41,
+      "suggested": 25.58,
+      "quantity": 24,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 3.27,
+      "max": 210.05,
+      "mean": 14.69,
+      "median": 5.73,
+      "suggested": 4.04,
+      "quantity": 23,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.37,
+      "max": 6.64,
+      "mean": 4.71,
+      "median": 5.04,
+      "suggested": 1.58,
+      "quantity": 168,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.98,
+      "max": 6.86,
+      "mean": 2.88,
+      "median": 2.29,
+      "suggested": 1.25,
+      "quantity": 51,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.91,
+      "max": 9.03,
+      "mean": 3.35,
+      "median": 3.37,
+      "suggested": 1.15,
+      "quantity": 39,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Tec-9 | Mummy's Rot (Factory New)",
+      "price": {
+        "min": 25.61,
+        "max": 233.39,
+        "mean": 47.7,
+        "median": 37.41,
+        "suggested": 25.58,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Tec-9 | Mummy's Rot (Minimal Wear)",
+      "price": {
+        "min": 3.27,
+        "max": 210.05,
+        "mean": 14.69,
+        "median": 5.73,
+        "suggested": 4.04,
+        "quantity": 23,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Tec-9 | Mummy's Rot (Field-Tested)",
+      "price": {
+        "min": 1.37,
+        "max": 6.64,
+        "mean": 4.71,
+        "median": 5.04,
+        "suggested": 1.58,
+        "quantity": 168,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Tec-9 | Mummy's Rot (Well-Worn)",
+      "price": {
+        "min": 0.98,
+        "max": 6.86,
+        "mean": 2.88,
+        "median": 2.29,
+        "suggested": 1.25,
+        "quantity": 51,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Tec-9 | Mummy's Rot (Battle-Scarred)",
+      "price": {
+        "min": 0.91,
+        "max": 9.03,
+        "mean": 3.35,
+        "median": 3.37,
+        "suggested": 1.15,
+        "quantity": 39,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Tec-9 | Mummy's Rot (Factory New)",
+        "price": {
+          "min": 25.61,
+          "max": 233.39,
+          "mean": 47.7,
+          "median": 37.41,
+          "suggested": 25.58,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Tec-9 | Mummy's Rot (Minimal Wear)",
+        "price": {
+          "min": 3.27,
+          "max": 210.05,
+          "mean": 14.69,
+          "median": 5.73,
+          "suggested": 4.04,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Tec-9 | Mummy's Rot (Field-Tested)",
+        "price": {
+          "min": 1.37,
+          "max": 6.64,
+          "mean": 4.71,
+          "median": 5.04,
+          "suggested": 1.58,
+          "quantity": 168,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Tec-9 | Mummy's Rot (Well-Worn)",
+        "price": {
+          "min": 0.98,
+          "max": 6.86,
+          "mean": 2.88,
+          "median": 2.29,
+          "suggested": 1.25,
+          "quantity": 51,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Tec-9 | Mummy's Rot (Battle-Scarred)",
+        "price": {
+          "min": 0.91,
+          "max": 9.03,
+          "mean": 3.35,
+          "median": 3.37,
+          "suggested": 1.15,
+          "quantity": 39,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Tec-9 | Mummy's Rot (Factory New)",
+        "price": {
+          "min": 19.25,
+          "max": 38.5,
+          "mean": 25.86,
+          "median": 19.83,
+          "suggested": 19.58,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Tec-9 | Mummy's Rot (Minimal Wear)",
+        "price": {
+          "min": 3.91,
+          "max": 17.49,
+          "mean": 8.6,
+          "median": 8.12,
+          "suggested": 3.82,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Tec-9 | Mummy's Rot (Field-Tested)",
+        "price": {
+          "min": 6.91,
+          "max": 6.91,
+          "mean": 6.91,
+          "median": 6.91,
+          "suggested": 1.67,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Tec-9 | Mummy's Rot (Well-Worn)",
+        "price": {
+          "min": 1.06,
+          "max": 8.3,
+          "mean": 5.29,
+          "median": 6.49,
+          "suggested": 1.23,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Tec-9 | Mummy's Rot (Battle-Scarred)",
+        "price": {
+          "min": 0.85,
+          "max": 1.27,
+          "mean": 1.06,
+          "median": 1.05,
+          "suggested": 1.12,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.204Z"
+}

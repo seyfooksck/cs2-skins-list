@@ -1,0 +1,310 @@
+{
+  "id": "skin-87ee5eacc505",
+  "name": "Desert Eagle | Code Red",
+  "paint_index": "711",
+  "weapon": {
+    "id": "weapon_deagle",
+    "weapon_id": 1,
+    "name": "Desert Eagle",
+    "slug": "deagle"
+  },
+  "pattern": {
+    "id": "gs_deagle_aggressor",
+    "name": "Code Red"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. A custom paint job with a bright red base and white detailing has been applied.\\n\\n<i>Man your stations</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 172.71,
+      "max": 501.78,
+      "mean": 290.86,
+      "median": 265.62,
+      "suggested": 250.5,
+      "quantity": 24,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 58.13,
+      "max": 157.54,
+      "mean": 75.47,
+      "median": 66.27,
+      "suggested": 72.55,
+      "quantity": 46,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 45.64,
+      "max": 82.63,
+      "mean": 52.48,
+      "median": 50.91,
+      "suggested": 58.79,
+      "quantity": 97,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 43.43,
+      "max": 1210.11,
+      "mean": 101.59,
+      "median": 48.26,
+      "suggested": 54.2,
+      "quantity": 24,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 41.24,
+      "max": 81.69,
+      "mean": 53.68,
+      "median": 49.76,
+      "suggested": 50.19,
+      "quantity": 9,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Desert Eagle | Code Red (Factory New)",
+      "price": {
+        "min": 172.71,
+        "max": 501.78,
+        "mean": 290.86,
+        "median": 265.62,
+        "suggested": 250.5,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Desert Eagle | Code Red (Minimal Wear)",
+      "price": {
+        "min": 58.13,
+        "max": 157.54,
+        "mean": 75.47,
+        "median": 66.27,
+        "suggested": 72.55,
+        "quantity": 46,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Desert Eagle | Code Red (Field-Tested)",
+      "price": {
+        "min": 45.64,
+        "max": 82.63,
+        "mean": 52.48,
+        "median": 50.91,
+        "suggested": 58.79,
+        "quantity": 97,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Desert Eagle | Code Red (Well-Worn)",
+      "price": {
+        "min": 43.43,
+        "max": 1210.11,
+        "mean": 101.59,
+        "median": 48.26,
+        "suggested": 54.2,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Desert Eagle | Code Red (Battle-Scarred)",
+      "price": {
+        "min": 41.24,
+        "max": 81.69,
+        "mean": 53.68,
+        "median": 49.76,
+        "suggested": 50.19,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Desert Eagle | Code Red (Factory New)",
+        "price": {
+          "min": 172.71,
+          "max": 501.78,
+          "mean": 290.86,
+          "median": 265.62,
+          "suggested": 250.5,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Desert Eagle | Code Red (Minimal Wear)",
+        "price": {
+          "min": 58.13,
+          "max": 157.54,
+          "mean": 75.47,
+          "median": 66.27,
+          "suggested": 72.55,
+          "quantity": 46,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Desert Eagle | Code Red (Field-Tested)",
+        "price": {
+          "min": 45.64,
+          "max": 82.63,
+          "mean": 52.48,
+          "median": 50.91,
+          "suggested": 58.79,
+          "quantity": 97,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Desert Eagle | Code Red (Well-Worn)",
+        "price": {
+          "min": 43.43,
+          "max": 1210.11,
+          "mean": 101.59,
+          "median": 48.26,
+          "suggested": 54.2,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Desert Eagle | Code Red (Battle-Scarred)",
+        "price": {
+          "min": 41.24,
+          "max": 81.69,
+          "mean": 53.68,
+          "median": 49.76,
+          "suggested": 50.19,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Code Red (Factory New)",
+        "price": {
+          "min": 204.83,
+          "max": 365.09,
+          "mean": 271.65,
+          "median": 234.05,
+          "suggested": 259.04,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Code Red (Minimal Wear)",
+        "price": {
+          "min": 109.1,
+          "max": 232.72,
+          "mean": 157.56,
+          "median": 142.38,
+          "suggested": 149.56,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Code Red (Field-Tested)",
+        "price": {
+          "min": 82.65,
+          "max": 85.7,
+          "mean": 83.67,
+          "median": 82.65,
+          "suggested": 80.67,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Code Red (Well-Worn)",
+        "price": {
+          "min": 70.02,
+          "max": 81.69,
+          "mean": 77.02,
+          "median": 76.6,
+          "suggested": 68.17,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Code Red (Battle-Scarred)",
+        "price": {
+          "min": 60.56,
+          "max": 60.56,
+          "mean": 60.56,
+          "median": 60.56,
+          "suggested": 67.31,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Desert Eagle | Code Red (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Desert Eagle | Code Red (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Desert Eagle | Code Red (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Desert Eagle | Code Red (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Desert Eagle | Code Red (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:28.370Z"
+}

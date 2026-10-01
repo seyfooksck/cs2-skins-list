@@ -1,0 +1,137 @@
+{
+  "id": "skin-81ec9b1d09fd",
+  "name": "★ Skeleton Knife | Marble Fade",
+  "paint_index": "413",
+  "weapon": {
+    "id": "weapon_knife_skeleton",
+    "weapon_id": 525,
+    "name": "Skeleton Knife",
+    "slug": "knife_skeleton"
+  },
+  "pattern": {
+    "id": "am_marble_fade",
+    "name": "Marble Fade"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This skeletonized-tang knife has been taped at the handle for improved grip. The hole allows a finger to be threaded through for stability and safety. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated in three colors.\\n\\n<i>The blade is made of many colors, but soon it all looks red</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 407.94,
+      "max": 1075.68,
+      "mean": 518.32,
+      "median": 437.2,
+      "suggested": 481.03,
+      "quantity": 29,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 401.76,
+      "max": 401.76,
+      "mean": 401.76,
+      "median": 401.76,
+      "suggested": 514.56,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Skeleton Knife | Marble Fade (Factory New)",
+      "price": {
+        "min": 407.94,
+        "max": 1075.68,
+        "mean": 518.32,
+        "median": 437.2,
+        "suggested": 481.03,
+        "quantity": 29,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Skeleton Knife | Marble Fade (Minimal Wear)",
+      "price": {
+        "min": 401.76,
+        "max": 401.76,
+        "mean": 401.76,
+        "median": 401.76,
+        "suggested": 514.56,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Skeleton Knife | Marble Fade (Factory New)",
+        "price": {
+          "min": 407.94,
+          "max": 1075.68,
+          "mean": 518.32,
+          "median": 437.2,
+          "suggested": 481.03,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Skeleton Knife | Marble Fade (Minimal Wear)",
+        "price": {
+          "min": 401.76,
+          "max": 401.76,
+          "mean": 401.76,
+          "median": 401.76,
+          "suggested": 514.56,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Skeleton Knife | Marble Fade (Factory New)",
+        "price": {
+          "min": 466.77,
+          "max": 583.76,
+          "mean": 525.27,
+          "median": 525.27,
+          "suggested": 499.88,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Skeleton Knife | Marble Fade (Minimal Wear)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:37.638Z"
+}

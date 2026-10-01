@@ -1,0 +1,225 @@
+{
+  "id": "skin-3146353a788f",
+  "name": "MAG-7 | Cinquedea",
+  "paint_index": "737",
+  "weapon": {
+    "id": "weapon_mag7",
+    "weapon_id": 27,
+    "name": "MAG-7",
+    "slug": "mag7"
+  },
+  "pattern": {
+    "id": "gs_mag7_glass",
+    "name": "Cinquedea"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The CT-exclusive Mag-7 delivers a devastating amount of damage at close range. Its rapid magazine-style reloads make it a great tactical choice. It has been custom painted with patterned glass panels and a red grip and pump.\\n\\n<i>\\\"Whatever you paid for this, it wasn't enough\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 728.81,
+      "max": 1295.29,
+      "mean": 959.55,
+      "median": 854.56,
+      "suggested": 848.83,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 744.88,
+      "max": 744.88,
+      "mean": 744.88,
+      "median": 744.88,
+      "suggested": 712.86,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 630.15,
+      "max": 693.94,
+      "mean": 667.14,
+      "median": 677.31,
+      "suggested": 762.31,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 583.47,
+      "max": 583.47,
+      "mean": 583.47,
+      "median": 583.47,
+      "suggested": 740.92,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAG-7 | Cinquedea (Factory New)",
+      "price": {
+        "min": 728.81,
+        "max": 1295.29,
+        "mean": 959.55,
+        "median": 854.56,
+        "suggested": 848.83,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAG-7 | Cinquedea (Minimal Wear)",
+      "price": {
+        "min": 744.88,
+        "max": 744.88,
+        "mean": 744.88,
+        "median": 744.88,
+        "suggested": 712.86,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAG-7 | Cinquedea (Field-Tested)",
+      "price": {
+        "min": 630.15,
+        "max": 693.94,
+        "mean": 667.14,
+        "median": 677.31,
+        "suggested": 762.31,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAG-7 | Cinquedea (Well-Worn)",
+      "price": {
+        "min": 583.47,
+        "max": 583.47,
+        "mean": 583.47,
+        "median": 583.47,
+        "suggested": 740.92,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAG-7 | Cinquedea (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAG-7 | Cinquedea (Factory New)",
+        "price": {
+          "min": 728.81,
+          "max": 1295.29,
+          "mean": 959.55,
+          "median": 854.56,
+          "suggested": 848.83,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAG-7 | Cinquedea (Minimal Wear)",
+        "price": {
+          "min": 744.88,
+          "max": 744.88,
+          "mean": 744.88,
+          "median": 744.88,
+          "suggested": 712.86,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAG-7 | Cinquedea (Field-Tested)",
+        "price": {
+          "min": 630.15,
+          "max": 693.94,
+          "mean": 667.14,
+          "median": 677.31,
+          "suggested": 762.31,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAG-7 | Cinquedea (Well-Worn)",
+        "price": {
+          "min": 583.47,
+          "max": 583.47,
+          "mean": 583.47,
+          "median": 583.47,
+          "suggested": 740.92,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MAG-7 | Cinquedea (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAG-7 | Cinquedea (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAG-7 | Cinquedea (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAG-7 | Cinquedea (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAG-7 | Cinquedea (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAG-7 | Cinquedea (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.371Z"
+}

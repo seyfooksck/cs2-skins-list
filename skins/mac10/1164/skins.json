@@ -1,0 +1,310 @@
+{
+  "id": "skin-543d85d8ca60",
+  "name": "MAC-10 | Light Box",
+  "paint_index": "1164",
+  "weapon": {
+    "id": "weapon_mac10",
+    "weapon_id": 17,
+    "name": "MAC-10",
+    "slug": "mac10"
+  },
+  "pattern": {
+    "id": "mac10_illusion",
+    "name": "Light Box"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been custom painted to appear as if you are looking into the back of the MAC-10.\\n\\n<i>Custom built</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.14,
+      "max": 45.51,
+      "mean": 5.69,
+      "median": 3.57,
+      "suggested": 1.33,
+      "quantity": 118,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.21,
+      "max": 6.65,
+      "mean": 0.44,
+      "median": 0.27,
+      "suggested": 0.27,
+      "quantity": 783,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.07,
+      "max": 5.74,
+      "mean": 0.18,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 1030,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.06,
+      "max": 3.07,
+      "mean": 0.13,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 816,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.06,
+      "max": 13.83,
+      "mean": 0.18,
+      "median": 0.09,
+      "suggested": 0.09,
+      "quantity": 500,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAC-10 | Light Box (Factory New)",
+      "price": {
+        "min": 1.14,
+        "max": 45.51,
+        "mean": 5.69,
+        "median": 3.57,
+        "suggested": 1.33,
+        "quantity": 118,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAC-10 | Light Box (Minimal Wear)",
+      "price": {
+        "min": 0.21,
+        "max": 6.65,
+        "mean": 0.44,
+        "median": 0.27,
+        "suggested": 0.27,
+        "quantity": 783,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAC-10 | Light Box (Field-Tested)",
+      "price": {
+        "min": 0.07,
+        "max": 5.74,
+        "mean": 0.18,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 1030,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAC-10 | Light Box (Well-Worn)",
+      "price": {
+        "min": 0.06,
+        "max": 3.07,
+        "mean": 0.13,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 816,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAC-10 | Light Box (Battle-Scarred)",
+      "price": {
+        "min": 0.06,
+        "max": 13.83,
+        "mean": 0.18,
+        "median": 0.09,
+        "suggested": 0.09,
+        "quantity": 500,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAC-10 | Light Box (Factory New)",
+        "price": {
+          "min": 1.14,
+          "max": 45.51,
+          "mean": 5.69,
+          "median": 3.57,
+          "suggested": 1.33,
+          "quantity": 118,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAC-10 | Light Box (Minimal Wear)",
+        "price": {
+          "min": 0.21,
+          "max": 6.65,
+          "mean": 0.44,
+          "median": 0.27,
+          "suggested": 0.27,
+          "quantity": 783,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAC-10 | Light Box (Field-Tested)",
+        "price": {
+          "min": 0.07,
+          "max": 5.74,
+          "mean": 0.18,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 1030,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAC-10 | Light Box (Well-Worn)",
+        "price": {
+          "min": 0.06,
+          "max": 3.07,
+          "mean": 0.13,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 816,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MAC-10 | Light Box (Battle-Scarred)",
+        "price": {
+          "min": 0.06,
+          "max": 13.83,
+          "mean": 0.18,
+          "median": 0.09,
+          "suggested": 0.09,
+          "quantity": 500,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MAC-10 | Light Box (Factory New)",
+        "price": {
+          "min": 2.08,
+          "max": 39.97,
+          "mean": 9.44,
+          "median": 10.02,
+          "suggested": 2.61,
+          "quantity": 46,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MAC-10 | Light Box (Minimal Wear)",
+        "price": {
+          "min": 0.34,
+          "max": 6.32,
+          "mean": 0.9,
+          "median": 0.46,
+          "suggested": 0.46,
+          "quantity": 127,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MAC-10 | Light Box (Field-Tested)",
+        "price": {
+          "min": 0.09,
+          "max": 7.76,
+          "mean": 0.4,
+          "median": 0.19,
+          "suggested": 0.16,
+          "quantity": 426,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MAC-10 | Light Box (Well-Worn)",
+        "price": {
+          "min": 0.08,
+          "max": 4.25,
+          "mean": 0.26,
+          "median": 0.14,
+          "suggested": 0.1,
+          "quantity": 176,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MAC-10 | Light Box (Battle-Scarred)",
+        "price": {
+          "min": 0.08,
+          "max": 7.74,
+          "mean": 0.28,
+          "median": 0.13,
+          "suggested": 0.12,
+          "quantity": 160,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAC-10 | Light Box (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAC-10 | Light Box (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAC-10 | Light Box (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAC-10 | Light Box (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAC-10 | Light Box (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.941Z"
+}

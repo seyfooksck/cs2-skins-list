@@ -1,0 +1,249 @@
+{
+  "id": "skin-fd612b65c748",
+  "name": "MP9 | Dizzy",
+  "paint_index": "1375",
+  "weapon": {
+    "id": "weapon_mp9",
+    "weapon_id": 34,
+    "name": "MP9",
+    "slug": "mp9"
+  },
+  "pattern": {
+    "id": "soe_ddpat_swirl_bw",
+    "name": "Dizzy"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 0.65,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. A grayscale DDPAT has been applied.\\n\\n<i>Round and round we go</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.04,
+      "max": 9.22,
+      "mean": 0.6,
+      "median": 0.19,
+      "suggested": 0.06,
+      "quantity": 67,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.02,
+      "max": 1.75,
+      "mean": 0.07,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 264,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.02,
+      "max": 1.17,
+      "mean": 0.04,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 597,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.02,
+      "max": 0.05,
+      "mean": 0.04,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 26,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.02,
+      "max": 0.05,
+      "mean": 0.04,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 93,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP9 | Dizzy (Factory New)",
+      "price": {
+        "min": 0.04,
+        "max": 9.22,
+        "mean": 0.6,
+        "median": 0.19,
+        "suggested": 0.06,
+        "quantity": 67,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP9 | Dizzy (Minimal Wear)",
+      "price": {
+        "min": 0.02,
+        "max": 1.75,
+        "mean": 0.07,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 264,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP9 | Dizzy (Field-Tested)",
+      "price": {
+        "min": 0.02,
+        "max": 1.17,
+        "mean": 0.04,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 597,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP9 | Dizzy (Well-Worn)",
+      "price": {
+        "min": 0.02,
+        "max": 0.05,
+        "mean": 0.04,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP9 | Dizzy (Battle-Scarred)",
+      "price": {
+        "min": 0.02,
+        "max": 0.05,
+        "mean": 0.04,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 93,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP9 | Dizzy (Factory New)",
+        "price": {
+          "min": 0.04,
+          "max": 9.22,
+          "mean": 0.6,
+          "median": 0.19,
+          "suggested": 0.06,
+          "quantity": 67,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP9 | Dizzy (Minimal Wear)",
+        "price": {
+          "min": 0.02,
+          "max": 1.75,
+          "mean": 0.07,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 264,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP9 | Dizzy (Field-Tested)",
+        "price": {
+          "min": 0.02,
+          "max": 1.17,
+          "mean": 0.04,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 597,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP9 | Dizzy (Well-Worn)",
+        "price": {
+          "min": 0.02,
+          "max": 0.05,
+          "mean": 0.04,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP9 | Dizzy (Battle-Scarred)",
+        "price": {
+          "min": 0.02,
+          "max": 0.05,
+          "mean": 0.04,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 93,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP9 | Dizzy (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP9 | Dizzy (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP9 | Dizzy (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP9 | Dizzy (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP9 | Dizzy (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:43.959Z"
+}

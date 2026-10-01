@@ -1,0 +1,249 @@
+{
+  "id": "skin-a493194726cd",
+  "name": "Tec-9 | Garter-9",
+  "paint_index": "1286",
+  "weapon": {
+    "id": "weapon_tec9",
+    "weapon_id": 30,
+    "name": "Tec-9",
+    "slug": "tec9"
+  },
+  "pattern": {
+    "id": "soe_snakeskin",
+    "name": "Garter-9"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity. A green snakeskin pattern has been applied.\\n\\n<i>Crush and kill</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.3,
+      "max": 25.37,
+      "mean": 2.71,
+      "median": 0.96,
+      "suggested": 0.35,
+      "quantity": 46,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.12,
+      "max": 4.08,
+      "mean": 0.62,
+      "median": 0.14,
+      "suggested": 0.16,
+      "quantity": 57,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.02,
+      "max": 3.26,
+      "mean": 0.12,
+      "median": 0.05,
+      "suggested": 0.03,
+      "quantity": 228,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.04,
+      "max": 0.14,
+      "mean": 0.09,
+      "median": 0.09,
+      "suggested": 0.05,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.02,
+      "max": 0.26,
+      "mean": 0.06,
+      "median": 0.05,
+      "suggested": 0.03,
+      "quantity": 50,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Tec-9 | Garter-9 (Factory New)",
+      "price": {
+        "min": 0.3,
+        "max": 25.37,
+        "mean": 2.71,
+        "median": 0.96,
+        "suggested": 0.35,
+        "quantity": 46,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Tec-9 | Garter-9 (Minimal Wear)",
+      "price": {
+        "min": 0.12,
+        "max": 4.08,
+        "mean": 0.62,
+        "median": 0.14,
+        "suggested": 0.16,
+        "quantity": 57,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Tec-9 | Garter-9 (Field-Tested)",
+      "price": {
+        "min": 0.02,
+        "max": 3.26,
+        "mean": 0.12,
+        "median": 0.05,
+        "suggested": 0.03,
+        "quantity": 228,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Tec-9 | Garter-9 (Well-Worn)",
+      "price": {
+        "min": 0.04,
+        "max": 0.14,
+        "mean": 0.09,
+        "median": 0.09,
+        "suggested": 0.05,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Tec-9 | Garter-9 (Battle-Scarred)",
+      "price": {
+        "min": 0.02,
+        "max": 0.26,
+        "mean": 0.06,
+        "median": 0.05,
+        "suggested": 0.03,
+        "quantity": 50,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Tec-9 | Garter-9 (Factory New)",
+        "price": {
+          "min": 0.3,
+          "max": 25.37,
+          "mean": 2.71,
+          "median": 0.96,
+          "suggested": 0.35,
+          "quantity": 46,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Tec-9 | Garter-9 (Minimal Wear)",
+        "price": {
+          "min": 0.12,
+          "max": 4.08,
+          "mean": 0.62,
+          "median": 0.14,
+          "suggested": 0.16,
+          "quantity": 57,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Tec-9 | Garter-9 (Field-Tested)",
+        "price": {
+          "min": 0.02,
+          "max": 3.26,
+          "mean": 0.12,
+          "median": 0.05,
+          "suggested": 0.03,
+          "quantity": 228,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Tec-9 | Garter-9 (Well-Worn)",
+        "price": {
+          "min": 0.04,
+          "max": 0.14,
+          "mean": 0.09,
+          "median": 0.09,
+          "suggested": 0.05,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Tec-9 | Garter-9 (Battle-Scarred)",
+        "price": {
+          "min": 0.02,
+          "max": 0.26,
+          "mean": 0.06,
+          "median": 0.05,
+          "suggested": 0.03,
+          "quantity": 50,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Tec-9 | Garter-9 (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Tec-9 | Garter-9 (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Tec-9 | Garter-9 (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Tec-9 | Garter-9 (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Tec-9 | Garter-9 (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.580Z"
+}

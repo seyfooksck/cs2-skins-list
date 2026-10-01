@@ -1,0 +1,265 @@
+{
+  "id": "skin-543aa962d655",
+  "name": "MAC-10 | Strats",
+  "paint_index": "1075",
+  "weapon": {
+    "id": "weapon_mac10",
+    "weapon_id": 17,
+    "name": "MAC-10",
+    "slug": "mac10"
+  },
+  "pattern": {
+    "id": "hy_vertigospray_blue",
+    "name": "Strats"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. A hydrographic pattern of the 51st floor's construction, HVAC, and wiring plans has been applied.\\n\\n<i>All according to plan…</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 4.96,
+      "max": 31.45,
+      "mean": 13.98,
+      "median": 13.58,
+      "suggested": 6.09,
+      "quantity": 17,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1,
+      "max": 15.11,
+      "mean": 4.15,
+      "median": 2.46,
+      "suggested": 1.41,
+      "quantity": 13,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.56,
+      "max": 2.72,
+      "mean": 1.52,
+      "median": 1.76,
+      "suggested": 0.65,
+      "quantity": 19,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 1.41,
+      "max": 1.97,
+      "mean": 1.69,
+      "median": 1.69,
+      "suggested": 1.43,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAC-10 | Strats (Factory New)",
+      "price": {
+        "min": 4.96,
+        "max": 31.45,
+        "mean": 13.98,
+        "median": 13.58,
+        "suggested": 6.09,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAC-10 | Strats (Minimal Wear)",
+      "price": {
+        "min": 1,
+        "max": 15.11,
+        "mean": 4.15,
+        "median": 2.46,
+        "suggested": 1.41,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAC-10 | Strats (Field-Tested)",
+      "price": {
+        "min": 0.56,
+        "max": 2.72,
+        "mean": 1.52,
+        "median": 1.76,
+        "suggested": 0.65,
+        "quantity": 19,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAC-10 | Strats (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAC-10 | Strats (Battle-Scarred)",
+      "price": {
+        "min": 1.41,
+        "max": 1.97,
+        "mean": 1.69,
+        "median": 1.69,
+        "suggested": 1.43,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAC-10 | Strats (Factory New)",
+        "price": {
+          "min": 4.96,
+          "max": 31.45,
+          "mean": 13.98,
+          "median": 13.58,
+          "suggested": 6.09,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAC-10 | Strats (Minimal Wear)",
+        "price": {
+          "min": 1,
+          "max": 15.11,
+          "mean": 4.15,
+          "median": 2.46,
+          "suggested": 1.41,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAC-10 | Strats (Field-Tested)",
+        "price": {
+          "min": 0.56,
+          "max": 2.72,
+          "mean": 1.52,
+          "median": 1.76,
+          "suggested": 0.65,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAC-10 | Strats (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "MAC-10 | Strats (Battle-Scarred)",
+        "price": {
+          "min": 1.41,
+          "max": 1.97,
+          "mean": 1.69,
+          "median": 1.69,
+          "suggested": 1.43,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAC-10 | Strats (Factory New)",
+        "price": {
+          "min": 0.83,
+          "max": 39.94,
+          "mean": 10.57,
+          "median": 10.18,
+          "suggested": 0.97,
+          "quantity": 238,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAC-10 | Strats (Minimal Wear)",
+        "price": {
+          "min": 0.58,
+          "max": 52.51,
+          "mean": 2.5,
+          "median": 1.38,
+          "suggested": 0.69,
+          "quantity": 57,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAC-10 | Strats (Field-Tested)",
+        "price": {
+          "min": 0.32,
+          "max": 23.34,
+          "mean": 4.17,
+          "median": 2.08,
+          "suggested": 0.36,
+          "quantity": 95,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAC-10 | Strats (Well-Worn)",
+        "price": {
+          "min": 0.33,
+          "max": 3.57,
+          "mean": 1.31,
+          "median": 0.54,
+          "suggested": 0.38,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAC-10 | Strats (Battle-Scarred)",
+        "price": {
+          "min": 0.3,
+          "max": 5.73,
+          "mean": 1,
+          "median": 0.48,
+          "suggested": 0.35,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.876Z"
+}

@@ -1,0 +1,169 @@
+{
+  "id": "skin-0926fb5dddc9",
+  "name": "Glock-18 | Twilight Galaxy",
+  "paint_index": "437",
+  "weapon": {
+    "id": "weapon_glock",
+    "weapon_id": 4,
+    "name": "Glock-18",
+    "slug": "glock"
+  },
+  "pattern": {
+    "id": "am_aqua_flecks",
+    "name": "Twilight Galaxy"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.2,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. It has been custom painted with an old-fashioned racing motif.\\n\\n<i>Don't forget your helmet</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 596.3,
+      "max": 1575.37,
+      "mean": 1024.26,
+      "median": 952.22,
+      "suggested": 705.71,
+      "quantity": 27,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 279.84,
+      "max": 478.43,
+      "mean": 353.43,
+      "median": 323.37,
+      "suggested": 353.93,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 281.45,
+      "max": 369.38,
+      "mean": 325.42,
+      "median": 325.42,
+      "suggested": 405.44,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Glock-18 | Twilight Galaxy (Factory New)",
+      "price": {
+        "min": 596.3,
+        "max": 1575.37,
+        "mean": 1024.26,
+        "median": 952.22,
+        "suggested": 705.71,
+        "quantity": 27,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Glock-18 | Twilight Galaxy (Minimal Wear)",
+      "price": {
+        "min": 279.84,
+        "max": 478.43,
+        "mean": 353.43,
+        "median": 323.37,
+        "suggested": 353.93,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Glock-18 | Twilight Galaxy (Field-Tested)",
+      "price": {
+        "min": 281.45,
+        "max": 369.38,
+        "mean": 325.42,
+        "median": 325.42,
+        "suggested": 405.44,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Glock-18 | Twilight Galaxy (Factory New)",
+        "price": {
+          "min": 596.3,
+          "max": 1575.37,
+          "mean": 1024.26,
+          "median": 952.22,
+          "suggested": 705.71,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Glock-18 | Twilight Galaxy (Minimal Wear)",
+        "price": {
+          "min": 279.84,
+          "max": 478.43,
+          "mean": 353.43,
+          "median": 323.37,
+          "suggested": 353.93,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Glock-18 | Twilight Galaxy (Field-Tested)",
+        "price": {
+          "min": 281.45,
+          "max": 369.38,
+          "mean": 325.42,
+          "median": 325.42,
+          "suggested": 405.44,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Glock-18 | Twilight Galaxy (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Glock-18 | Twilight Galaxy (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Glock-18 | Twilight Galaxy (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:31.489Z"
+}

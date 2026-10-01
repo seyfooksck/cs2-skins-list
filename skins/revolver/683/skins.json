@@ -1,0 +1,310 @@
+{
+  "id": "skin-4cb968c36e88",
+  "name": "R8 Revolver | Llama Cannon",
+  "paint_index": "683",
+  "weapon": {
+    "id": "weapon_revolver",
+    "weapon_id": 64,
+    "name": "R8 Revolver",
+    "slug": "revolver"
+  },
+  "pattern": {
+    "id": "gs_r8_llamacannon",
+    "name": "Llama Cannon"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0.03,
+  "max_float": 0.7,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The R8 Revolver delivers a highly accurate and powerful round at the expense of a lengthy trigger-pull. Firing rapidly by fanning the hammer may be the best option when point-blank stopping power is required. Its ivory handle is paired with ornate, engraved flourishes on blue metalwork.\\n\\n<i>Pull the lever</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 32.32,
+      "max": 180.34,
+      "mean": 55.48,
+      "median": 42.94,
+      "suggested": 46.09,
+      "quantity": 13,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 11.46,
+      "max": 29.86,
+      "mean": 13.65,
+      "median": 12.57,
+      "suggested": 14.54,
+      "quantity": 20,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 10.2,
+      "max": 23.34,
+      "mean": 11.35,
+      "median": 10.91,
+      "suggested": 12.98,
+      "quantity": 86,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 9.34,
+      "max": 10.79,
+      "mean": 10.23,
+      "median": 10.6,
+      "suggested": 12.42,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 9.25,
+      "max": 85.85,
+      "mean": 17.63,
+      "median": 10.64,
+      "suggested": 12.65,
+      "quantity": 25,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "R8 Revolver | Llama Cannon (Factory New)",
+      "price": {
+        "min": 32.32,
+        "max": 180.34,
+        "mean": 55.48,
+        "median": 42.94,
+        "suggested": 46.09,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "R8 Revolver | Llama Cannon (Minimal Wear)",
+      "price": {
+        "min": 11.46,
+        "max": 29.86,
+        "mean": 13.65,
+        "median": 12.57,
+        "suggested": 14.54,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "R8 Revolver | Llama Cannon (Field-Tested)",
+      "price": {
+        "min": 10.2,
+        "max": 23.34,
+        "mean": 11.35,
+        "median": 10.91,
+        "suggested": 12.98,
+        "quantity": 86,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "R8 Revolver | Llama Cannon (Well-Worn)",
+      "price": {
+        "min": 9.34,
+        "max": 10.79,
+        "mean": 10.23,
+        "median": 10.6,
+        "suggested": 12.42,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "R8 Revolver | Llama Cannon (Battle-Scarred)",
+      "price": {
+        "min": 9.25,
+        "max": 85.85,
+        "mean": 17.63,
+        "median": 10.64,
+        "suggested": 12.65,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "R8 Revolver | Llama Cannon (Factory New)",
+        "price": {
+          "min": 32.32,
+          "max": 180.34,
+          "mean": 55.48,
+          "median": 42.94,
+          "suggested": 46.09,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "R8 Revolver | Llama Cannon (Minimal Wear)",
+        "price": {
+          "min": 11.46,
+          "max": 29.86,
+          "mean": 13.65,
+          "median": 12.57,
+          "suggested": 14.54,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "R8 Revolver | Llama Cannon (Field-Tested)",
+        "price": {
+          "min": 10.2,
+          "max": 23.34,
+          "mean": 11.35,
+          "median": 10.91,
+          "suggested": 12.98,
+          "quantity": 86,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "R8 Revolver | Llama Cannon (Well-Worn)",
+        "price": {
+          "min": 9.34,
+          "max": 10.79,
+          "mean": 10.23,
+          "median": 10.6,
+          "suggested": 12.42,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "R8 Revolver | Llama Cannon (Battle-Scarred)",
+        "price": {
+          "min": 9.25,
+          "max": 85.85,
+          "mean": 17.63,
+          "median": 10.64,
+          "suggested": 12.65,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Llama Cannon (Factory New)",
+        "price": {
+          "min": 81.86,
+          "max": 81.86,
+          "mean": 81.86,
+          "median": 81.86,
+          "suggested": 56.66,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Llama Cannon (Minimal Wear)",
+        "price": {
+          "min": 18.11,
+          "max": 20.89,
+          "mean": 19.81,
+          "median": 20.43,
+          "suggested": 21.11,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Llama Cannon (Field-Tested)",
+        "price": {
+          "min": 10.7,
+          "max": 30.5,
+          "mean": 14.35,
+          "median": 11.46,
+          "suggested": 12.86,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Llama Cannon (Well-Worn)",
+        "price": {
+          "min": 10.44,
+          "max": 10.9,
+          "mean": 10.68,
+          "median": 10.68,
+          "suggested": 12.25,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Llama Cannon (Battle-Scarred)",
+        "price": {
+          "min": 9.44,
+          "max": 129.66,
+          "mean": 30.36,
+          "median": 10.81,
+          "suggested": 11.33,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir R8 Revolver | Llama Cannon (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir R8 Revolver | Llama Cannon (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir R8 Revolver | Llama Cannon (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir R8 Revolver | Llama Cannon (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir R8 Revolver | Llama Cannon (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:46.638Z"
+}

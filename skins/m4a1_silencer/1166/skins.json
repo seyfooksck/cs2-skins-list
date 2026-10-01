@@ -1,0 +1,310 @@
+{
+  "id": "skin-63c1d72b8501",
+  "name": "M4A1-S | Black Lotus",
+  "paint_index": "1166",
+  "weapon": {
+    "id": "weapon_m4a1_silencer",
+    "weapon_id": 60,
+    "name": "M4A1-S",
+    "slug": "m4a1_silencer"
+  },
+  "pattern": {
+    "id": "m4a1s_black_lotus",
+    "name": "Black Lotus"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. It has been custom painted with a black lotus flower over a blue and purple base.\\n\\n<i>Adds 2 kills during rifle round, then is discarded</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 15.99,
+      "max": 490.11,
+      "mean": 46.22,
+      "median": 23.34,
+      "suggested": 20.42,
+      "quantity": 171,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 8.55,
+      "max": 497.7,
+      "mean": 16.23,
+      "median": 10.18,
+      "suggested": 10.02,
+      "quantity": 324,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 4.66,
+      "max": 175.04,
+      "mean": 8.09,
+      "median": 6.36,
+      "suggested": 5.85,
+      "quantity": 1370,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 4.68,
+      "max": 149.25,
+      "mean": 14.38,
+      "median": 6.01,
+      "suggested": 6.13,
+      "quantity": 56,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 4.68,
+      "max": 138,
+      "mean": 8.18,
+      "median": 5.37,
+      "suggested": 5.94,
+      "quantity": 140,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A1-S | Black Lotus (Factory New)",
+      "price": {
+        "min": 15.99,
+        "max": 490.11,
+        "mean": 46.22,
+        "median": 23.34,
+        "suggested": 20.42,
+        "quantity": 171,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A1-S | Black Lotus (Minimal Wear)",
+      "price": {
+        "min": 8.55,
+        "max": 497.7,
+        "mean": 16.23,
+        "median": 10.18,
+        "suggested": 10.02,
+        "quantity": 324,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A1-S | Black Lotus (Field-Tested)",
+      "price": {
+        "min": 4.66,
+        "max": 175.04,
+        "mean": 8.09,
+        "median": 6.36,
+        "suggested": 5.85,
+        "quantity": 1370,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M4A1-S | Black Lotus (Well-Worn)",
+      "price": {
+        "min": 4.68,
+        "max": 149.25,
+        "mean": 14.38,
+        "median": 6.01,
+        "suggested": 6.13,
+        "quantity": 56,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M4A1-S | Black Lotus (Battle-Scarred)",
+      "price": {
+        "min": 4.68,
+        "max": 138,
+        "mean": 8.18,
+        "median": 5.37,
+        "suggested": 5.94,
+        "quantity": 140,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A1-S | Black Lotus (Factory New)",
+        "price": {
+          "min": 15.99,
+          "max": 490.11,
+          "mean": 46.22,
+          "median": 23.34,
+          "suggested": 20.42,
+          "quantity": 171,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A1-S | Black Lotus (Minimal Wear)",
+        "price": {
+          "min": 8.55,
+          "max": 497.7,
+          "mean": 16.23,
+          "median": 10.18,
+          "suggested": 10.02,
+          "quantity": 324,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A1-S | Black Lotus (Field-Tested)",
+        "price": {
+          "min": 4.66,
+          "max": 175.04,
+          "mean": 8.09,
+          "median": 6.36,
+          "suggested": 5.85,
+          "quantity": 1370,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M4A1-S | Black Lotus (Well-Worn)",
+        "price": {
+          "min": 4.68,
+          "max": 149.25,
+          "mean": 14.38,
+          "median": 6.01,
+          "suggested": 6.13,
+          "quantity": 56,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M4A1-S | Black Lotus (Battle-Scarred)",
+        "price": {
+          "min": 4.68,
+          "max": 138,
+          "mean": 8.18,
+          "median": 5.37,
+          "suggested": 5.94,
+          "quantity": 140,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ M4A1-S | Black Lotus (Factory New)",
+        "price": {
+          "min": 38.51,
+          "max": 215.14,
+          "mean": 63.56,
+          "median": 44.36,
+          "suggested": 48.07,
+          "quantity": 46,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ M4A1-S | Black Lotus (Minimal Wear)",
+        "price": {
+          "min": 23.69,
+          "max": 140.03,
+          "mean": 40.85,
+          "median": 29.41,
+          "suggested": 26.94,
+          "quantity": 41,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ M4A1-S | Black Lotus (Field-Tested)",
+        "price": {
+          "min": 12.66,
+          "max": 116.68,
+          "mean": 16.08,
+          "median": 13.41,
+          "suggested": 16.2,
+          "quantity": 229,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ M4A1-S | Black Lotus (Well-Worn)",
+        "price": {
+          "min": 13.31,
+          "max": 37.33,
+          "mean": 22.7,
+          "median": 21,
+          "suggested": 16.5,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ M4A1-S | Black Lotus (Battle-Scarred)",
+        "price": {
+          "min": 13.8,
+          "max": 175.03,
+          "mean": 41.17,
+          "median": 28.93,
+          "suggested": 16.13,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A1-S | Black Lotus (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A1-S | Black Lotus (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A1-S | Black Lotus (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M4A1-S | Black Lotus (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M4A1-S | Black Lotus (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.200Z"
+}

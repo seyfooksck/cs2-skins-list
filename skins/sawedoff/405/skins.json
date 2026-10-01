@@ -1,0 +1,302 @@
+{
+  "id": "skin-43a9e7d8242e",
+  "name": "Sawed-Off | Serenity",
+  "paint_index": "405",
+  "weapon": {
+    "id": "weapon_sawedoff",
+    "weapon_id": 29,
+    "name": "Sawed-Off",
+    "slug": "sawedoff"
+  },
+  "pattern": {
+    "id": "cu_sawedoff_deva",
+    "name": "Serenity"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit. It has been hand painted with the image of a woman with wings.\\n\\n<i>Serenity is a luxury few can afford - Valeria Jenner, Revolutionary</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 4.83,
+      "max": 46.68,
+      "mean": 10.28,
+      "median": 6.76,
+      "suggested": 7.23,
+      "quantity": 34,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.71,
+      "max": 46.49,
+      "mean": 6,
+      "median": 3.29,
+      "suggested": 3.34,
+      "quantity": 24,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.86,
+      "max": 40.96,
+      "mean": 3.65,
+      "median": 2.38,
+      "suggested": 2.53,
+      "quantity": 36,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 2.14,
+      "max": 3.02,
+      "mean": 2.44,
+      "median": 2.3,
+      "suggested": 2.26,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 2.31,
+      "max": 3.29,
+      "mean": 2.75,
+      "median": 2.73,
+      "suggested": 2.83,
+      "quantity": 8,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Sawed-Off | Serenity (Factory New)",
+      "price": {
+        "min": 4.83,
+        "max": 46.68,
+        "mean": 10.28,
+        "median": 6.76,
+        "suggested": 7.23,
+        "quantity": 34,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Sawed-Off | Serenity (Minimal Wear)",
+      "price": {
+        "min": 2.71,
+        "max": 46.49,
+        "mean": 6,
+        "median": 3.29,
+        "suggested": 3.34,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Sawed-Off | Serenity (Field-Tested)",
+      "price": {
+        "min": 1.86,
+        "max": 40.96,
+        "mean": 3.65,
+        "median": 2.38,
+        "suggested": 2.53,
+        "quantity": 36,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Sawed-Off | Serenity (Well-Worn)",
+      "price": {
+        "min": 2.14,
+        "max": 3.02,
+        "mean": 2.44,
+        "median": 2.3,
+        "suggested": 2.26,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Sawed-Off | Serenity (Battle-Scarred)",
+      "price": {
+        "min": 2.31,
+        "max": 3.29,
+        "mean": 2.75,
+        "median": 2.73,
+        "suggested": 2.83,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Sawed-Off | Serenity (Factory New)",
+        "price": {
+          "min": 4.83,
+          "max": 46.68,
+          "mean": 10.28,
+          "median": 6.76,
+          "suggested": 7.23,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Sawed-Off | Serenity (Minimal Wear)",
+        "price": {
+          "min": 2.71,
+          "max": 46.49,
+          "mean": 6,
+          "median": 3.29,
+          "suggested": 3.34,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Sawed-Off | Serenity (Field-Tested)",
+        "price": {
+          "min": 1.86,
+          "max": 40.96,
+          "mean": 3.65,
+          "median": 2.38,
+          "suggested": 2.53,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Sawed-Off | Serenity (Well-Worn)",
+        "price": {
+          "min": 2.14,
+          "max": 3.02,
+          "mean": 2.44,
+          "median": 2.3,
+          "suggested": 2.26,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Sawed-Off | Serenity (Battle-Scarred)",
+        "price": {
+          "min": 2.31,
+          "max": 3.29,
+          "mean": 2.75,
+          "median": 2.73,
+          "suggested": 2.83,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Serenity (Factory New)",
+        "price": {
+          "min": 14.61,
+          "max": 14.62,
+          "mean": 14.62,
+          "median": 14.62,
+          "suggested": 10.07,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Serenity (Minimal Wear)",
+        "price": {
+          "min": 4.33,
+          "max": 5.9,
+          "mean": 5.24,
+          "median": 5.32,
+          "suggested": 5.96,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Serenity (Field-Tested)",
+        "price": {
+          "min": 3.38,
+          "max": 9.17,
+          "mean": 4.49,
+          "median": 4.31,
+          "suggested": 4.84,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Serenity (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Serenity (Battle-Scarred)",
+        "price": {
+          "min": 4.14,
+          "max": 4.14,
+          "mean": 4.14,
+          "median": 4.14,
+          "suggested": 4.66,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Sawed-Off | Serenity (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Sawed-Off | Serenity (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Sawed-Off | Serenity (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Sawed-Off | Serenity (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Sawed-Off | Serenity (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:47.047Z"
+}

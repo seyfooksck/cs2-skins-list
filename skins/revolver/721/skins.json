@@ -1,0 +1,310 @@
+{
+  "id": "skin-82eac137c2ae",
+  "name": "R8 Revolver | Survivalist",
+  "paint_index": "721",
+  "weapon": {
+    "id": "weapon_revolver",
+    "weapon_id": 64,
+    "name": "R8 Revolver",
+    "slug": "revolver"
+  },
+  "pattern": {
+    "id": "cu_r8_survivalist",
+    "name": "Survivalist"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The R8 Revolver delivers a highly accurate and powerful round at the expense of a lengthy trigger-pull. Firing rapidly by fanning the hammer may be the best option when point-blank stopping power is required. Hand painted green stripes allow the owner to blend in and avoid detection in tense situations.\\n\\n<i>\\\"Eight shots and multiple enemies; better make them count\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.85,
+      "max": 15.87,
+      "mean": 4.82,
+      "median": 3.96,
+      "suggested": 4.17,
+      "quantity": 51,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.53,
+      "max": 22.79,
+      "mean": 1.39,
+      "median": 0.61,
+      "suggested": 0.69,
+      "quantity": 34,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.4,
+      "max": 27.42,
+      "mean": 0.95,
+      "median": 0.48,
+      "suggested": 0.61,
+      "quantity": 151,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.33,
+      "max": 0.47,
+      "mean": 0.39,
+      "median": 0.36,
+      "suggested": 0.5,
+      "quantity": 19,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.27,
+      "max": 2.21,
+      "mean": 0.5,
+      "median": 0.35,
+      "suggested": 0.37,
+      "quantity": 38,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "R8 Revolver | Survivalist (Factory New)",
+      "price": {
+        "min": 2.85,
+        "max": 15.87,
+        "mean": 4.82,
+        "median": 3.96,
+        "suggested": 4.17,
+        "quantity": 51,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "R8 Revolver | Survivalist (Minimal Wear)",
+      "price": {
+        "min": 0.53,
+        "max": 22.79,
+        "mean": 1.39,
+        "median": 0.61,
+        "suggested": 0.69,
+        "quantity": 34,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "R8 Revolver | Survivalist (Field-Tested)",
+      "price": {
+        "min": 0.4,
+        "max": 27.42,
+        "mean": 0.95,
+        "median": 0.48,
+        "suggested": 0.61,
+        "quantity": 151,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "R8 Revolver | Survivalist (Well-Worn)",
+      "price": {
+        "min": 0.33,
+        "max": 0.47,
+        "mean": 0.39,
+        "median": 0.36,
+        "suggested": 0.5,
+        "quantity": 19,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "R8 Revolver | Survivalist (Battle-Scarred)",
+      "price": {
+        "min": 0.27,
+        "max": 2.21,
+        "mean": 0.5,
+        "median": 0.35,
+        "suggested": 0.37,
+        "quantity": 38,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "R8 Revolver | Survivalist (Factory New)",
+        "price": {
+          "min": 2.85,
+          "max": 15.87,
+          "mean": 4.82,
+          "median": 3.96,
+          "suggested": 4.17,
+          "quantity": 51,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "R8 Revolver | Survivalist (Minimal Wear)",
+        "price": {
+          "min": 0.53,
+          "max": 22.79,
+          "mean": 1.39,
+          "median": 0.61,
+          "suggested": 0.69,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "R8 Revolver | Survivalist (Field-Tested)",
+        "price": {
+          "min": 0.4,
+          "max": 27.42,
+          "mean": 0.95,
+          "median": 0.48,
+          "suggested": 0.61,
+          "quantity": 151,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "R8 Revolver | Survivalist (Well-Worn)",
+        "price": {
+          "min": 0.33,
+          "max": 0.47,
+          "mean": 0.39,
+          "median": 0.36,
+          "suggested": 0.5,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "R8 Revolver | Survivalist (Battle-Scarred)",
+        "price": {
+          "min": 0.27,
+          "max": 2.21,
+          "mean": 0.5,
+          "median": 0.35,
+          "suggested": 0.37,
+          "quantity": 38,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Survivalist (Factory New)",
+        "price": {
+          "min": 1.59,
+          "max": 6.84,
+          "mean": 3.72,
+          "median": 3.34,
+          "suggested": 1.83,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Survivalist (Minimal Wear)",
+        "price": {
+          "min": 0.68,
+          "max": 2.37,
+          "mean": 1.03,
+          "median": 0.78,
+          "suggested": 0.81,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Survivalist (Field-Tested)",
+        "price": {
+          "min": 0.32,
+          "max": 11.49,
+          "mean": 0.61,
+          "median": 0.37,
+          "suggested": 0.42,
+          "quantity": 50,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Survivalist (Well-Worn)",
+        "price": {
+          "min": 0.67,
+          "max": 0.89,
+          "mean": 0.71,
+          "median": 0.67,
+          "suggested": 0.54,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Survivalist (Battle-Scarred)",
+        "price": {
+          "min": 0.33,
+          "max": 9.34,
+          "mean": 0.98,
+          "median": 0.5,
+          "suggested": 0.37,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir R8 Revolver | Survivalist (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir R8 Revolver | Survivalist (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir R8 Revolver | Survivalist (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir R8 Revolver | Survivalist (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir R8 Revolver | Survivalist (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:46.584Z"
+}

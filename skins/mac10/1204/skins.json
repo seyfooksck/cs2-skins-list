@@ -1,0 +1,289 @@
+{
+  "id": "skin-9fc289ff7b61",
+  "name": "MAC-10 | Derailment",
+  "paint_index": "1204",
+  "weapon": {
+    "id": "weapon_mac10",
+    "weapon_id": 17,
+    "name": "MAC-10",
+    "slug": "mac10"
+  },
+  "pattern": {
+    "id": "mac10_train_crash",
+    "name": "Derailment"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been custom painted with an exploding train car.\\n\\n<i>\\\"Your attention please...\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 16.21,
+      "max": 1678.64,
+      "mean": 69.56,
+      "median": 41.15,
+      "suggested": 21.48,
+      "quantity": 124,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 6.13,
+      "max": 175.04,
+      "mean": 22.58,
+      "median": 17.41,
+      "suggested": 8.39,
+      "quantity": 132,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.46,
+      "max": 176.21,
+      "mean": 9.93,
+      "median": 4.82,
+      "suggested": 3.53,
+      "quantity": 139,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 2.93,
+      "max": 39.68,
+      "mean": 14.58,
+      "median": 4.46,
+      "suggested": 3.39,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.86,
+      "max": 39.94,
+      "mean": 6.13,
+      "median": 2.36,
+      "suggested": 2.76,
+      "quantity": 19,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAC-10 | Derailment (Factory New)",
+      "price": {
+        "min": 16.21,
+        "max": 1678.64,
+        "mean": 69.56,
+        "median": 41.15,
+        "suggested": 21.48,
+        "quantity": 124,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAC-10 | Derailment (Minimal Wear)",
+      "price": {
+        "min": 6.13,
+        "max": 175.04,
+        "mean": 22.58,
+        "median": 17.41,
+        "suggested": 8.39,
+        "quantity": 132,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAC-10 | Derailment (Field-Tested)",
+      "price": {
+        "min": 2.46,
+        "max": 176.21,
+        "mean": 9.93,
+        "median": 4.82,
+        "suggested": 3.53,
+        "quantity": 139,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAC-10 | Derailment (Well-Worn)",
+      "price": {
+        "min": 2.93,
+        "max": 39.68,
+        "mean": 14.58,
+        "median": 4.46,
+        "suggested": 3.39,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAC-10 | Derailment (Battle-Scarred)",
+      "price": {
+        "min": 1.86,
+        "max": 39.94,
+        "mean": 6.13,
+        "median": 2.36,
+        "suggested": 2.76,
+        "quantity": 19,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAC-10 | Derailment (Factory New)",
+        "price": {
+          "min": 16.21,
+          "max": 1678.64,
+          "mean": 69.56,
+          "median": 41.15,
+          "suggested": 21.48,
+          "quantity": 124,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAC-10 | Derailment (Minimal Wear)",
+        "price": {
+          "min": 6.13,
+          "max": 175.04,
+          "mean": 22.58,
+          "median": 17.41,
+          "suggested": 8.39,
+          "quantity": 132,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAC-10 | Derailment (Field-Tested)",
+        "price": {
+          "min": 2.46,
+          "max": 176.21,
+          "mean": 9.93,
+          "median": 4.82,
+          "suggested": 3.53,
+          "quantity": 139,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAC-10 | Derailment (Well-Worn)",
+        "price": {
+          "min": 2.93,
+          "max": 39.68,
+          "mean": 14.58,
+          "median": 4.46,
+          "suggested": 3.39,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MAC-10 | Derailment (Battle-Scarred)",
+        "price": {
+          "min": 1.86,
+          "max": 39.94,
+          "mean": 6.13,
+          "median": 2.36,
+          "suggested": 2.76,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAC-10 | Derailment (Factory New)",
+        "price": {
+          "min": 22.17,
+          "max": 116.69,
+          "mean": 45.34,
+          "median": 26.55,
+          "suggested": 28.57,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAC-10 | Derailment (Minimal Wear)",
+        "price": {
+          "min": 11.61,
+          "max": 11.61,
+          "mean": 11.61,
+          "median": 11.61,
+          "suggested": 13.25,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAC-10 | Derailment (Field-Tested)",
+        "price": {
+          "min": 9.08,
+          "max": 11.66,
+          "mean": 9.73,
+          "median": 9.09,
+          "suggested": 6.64,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAC-10 | Derailment (Well-Worn)",
+        "price": {
+          "min": 10.61,
+          "max": 10.61,
+          "mean": 10.61,
+          "median": 10.61,
+          "suggested": 6.25,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAC-10 | Derailment (Battle-Scarred)",
+        "price": {
+          "min": 4.77,
+          "max": 12.77,
+          "mean": 8.06,
+          "median": 7.8,
+          "suggested": 6.54,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.981Z"
+}

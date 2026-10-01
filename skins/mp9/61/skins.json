@@ -1,0 +1,154 @@
+{
+  "id": "skin-78690c7d603a",
+  "name": "MP9 | Hypnotic",
+  "paint_index": "61",
+  "weapon": {
+    "id": "weapon_mp9",
+    "weapon_id": 34,
+    "name": "MP9",
+    "slug": "mp9"
+  },
+  "pattern": {
+    "id": "aa_vertigo",
+    "name": "Hypnotic"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been painted with a pearl base coat, then spray-painted black through a stencil in a graphic pattern.\\n\\n<i>You're not getting sleepy, you're passing out from blood loss</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 22.81,
+      "max": 518.63,
+      "mean": 65.77,
+      "median": 37.75,
+      "suggested": 33.17,
+      "quantity": 83,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 180.34,
+      "max": 180.34,
+      "mean": 180.34,
+      "median": 180.34,
+      "suggested": 30.83,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP9 | Hypnotic (Factory New)",
+      "price": {
+        "min": 22.81,
+        "max": 518.63,
+        "mean": 65.77,
+        "median": 37.75,
+        "suggested": 33.17,
+        "quantity": 83,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP9 | Hypnotic (Minimal Wear)",
+      "price": {
+        "min": 180.34,
+        "max": 180.34,
+        "mean": 180.34,
+        "median": 180.34,
+        "suggested": 30.83,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP9 | Hypnotic (Factory New)",
+        "price": {
+          "min": 22.81,
+          "max": 518.63,
+          "mean": 65.77,
+          "median": 37.75,
+          "suggested": 33.17,
+          "quantity": 83,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP9 | Hypnotic (Minimal Wear)",
+        "price": {
+          "min": 180.34,
+          "max": 180.34,
+          "mean": 180.34,
+          "median": 180.34,
+          "suggested": 30.83,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MP9 | Hypnotic (Factory New)",
+        "price": {
+          "min": 36.49,
+          "max": 116.69,
+          "mean": 52.24,
+          "median": 48.12,
+          "suggested": 44.83,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MP9 | Hypnotic (Minimal Wear)",
+        "price": {
+          "min": 49.75,
+          "max": 65.03,
+          "mean": 58,
+          "median": 58.62,
+          "suggested": 53.3,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP9 | Hypnotic (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP9 | Hypnotic (Minimal Wear)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:43.486Z"
+}

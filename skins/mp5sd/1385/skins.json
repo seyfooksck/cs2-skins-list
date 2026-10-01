@@ -1,0 +1,249 @@
+{
+  "id": "skin-105633b3f165",
+  "name": "MP5-SD | Picnic",
+  "paint_index": "1385",
+  "weapon": {
+    "id": "weapon_mp5sd",
+    "weapon_id": 23,
+    "name": "MP5-SD",
+    "slug": "mp5sd"
+  },
+  "pattern": {
+    "id": "soe_red",
+    "name": "Picnic"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.75,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. A red pattern of offset X's has been applied.\\n\\n<i>It's a bit much, but isn't that the point? - Imogen, Arms Dealer In Training</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.17,
+      "max": 20.89,
+      "mean": 3.99,
+      "median": 1.33,
+      "suggested": 0.36,
+      "quantity": 26,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.11,
+      "max": 0.58,
+      "mean": 0.44,
+      "median": 0.54,
+      "suggested": 0.12,
+      "quantity": 17,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.02,
+      "max": 0.63,
+      "mean": 0.07,
+      "median": 0.05,
+      "suggested": 0.03,
+      "quantity": 244,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.04,
+      "max": 0.07,
+      "mean": 0.05,
+      "median": 0.05,
+      "suggested": 0.05,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.04,
+      "max": 3.73,
+      "mean": 0.12,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 47,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP5-SD | Picnic (Factory New)",
+      "price": {
+        "min": 1.17,
+        "max": 20.89,
+        "mean": 3.99,
+        "median": 1.33,
+        "suggested": 0.36,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP5-SD | Picnic (Minimal Wear)",
+      "price": {
+        "min": 0.11,
+        "max": 0.58,
+        "mean": 0.44,
+        "median": 0.54,
+        "suggested": 0.12,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP5-SD | Picnic (Field-Tested)",
+      "price": {
+        "min": 0.02,
+        "max": 0.63,
+        "mean": 0.07,
+        "median": 0.05,
+        "suggested": 0.03,
+        "quantity": 244,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP5-SD | Picnic (Well-Worn)",
+      "price": {
+        "min": 0.04,
+        "max": 0.07,
+        "mean": 0.05,
+        "median": 0.05,
+        "suggested": 0.05,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP5-SD | Picnic (Battle-Scarred)",
+      "price": {
+        "min": 0.04,
+        "max": 3.73,
+        "mean": 0.12,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 47,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP5-SD | Picnic (Factory New)",
+        "price": {
+          "min": 1.17,
+          "max": 20.89,
+          "mean": 3.99,
+          "median": 1.33,
+          "suggested": 0.36,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP5-SD | Picnic (Minimal Wear)",
+        "price": {
+          "min": 0.11,
+          "max": 0.58,
+          "mean": 0.44,
+          "median": 0.54,
+          "suggested": 0.12,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP5-SD | Picnic (Field-Tested)",
+        "price": {
+          "min": 0.02,
+          "max": 0.63,
+          "mean": 0.07,
+          "median": 0.05,
+          "suggested": 0.03,
+          "quantity": 244,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP5-SD | Picnic (Well-Worn)",
+        "price": {
+          "min": 0.04,
+          "max": 0.07,
+          "mean": 0.05,
+          "median": 0.05,
+          "suggested": 0.05,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP5-SD | Picnic (Battle-Scarred)",
+        "price": {
+          "min": 0.04,
+          "max": 3.73,
+          "mean": 0.12,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 47,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP5-SD | Picnic (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP5-SD | Picnic (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP5-SD | Picnic (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP5-SD | Picnic (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP5-SD | Picnic (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.883Z"
+}

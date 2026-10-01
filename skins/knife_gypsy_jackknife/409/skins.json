@@ -1,0 +1,113 @@
+{
+  "id": "skin-f69247021864",
+  "name": "★ Navaja Knife | Tiger Tooth",
+  "paint_index": "409",
+  "weapon": {
+    "id": "weapon_knife_gypsy_jackknife",
+    "weapon_id": 520,
+    "name": "Navaja Knife",
+    "slug": "knife_gypsy_jackknife"
+  },
+  "pattern": {
+    "id": "an_tiger_orange",
+    "name": "Tiger Tooth"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This marble-enamel-handled flip knife conceals a small but viciously tapered blade. It has been anodized orange and hand-etched in a tiger stripe pattern.\\n\\n<i>Like the tiger it is rare... like the tiger it is deadly...</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 79.25,
+      "max": 291.73,
+      "mean": 113.51,
+      "median": 91.06,
+      "suggested": 95.79,
+      "quantity": 42,
+      "currency": "USD"
+    },
+    "mw": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Navaja Knife | Tiger Tooth (Factory New)",
+      "price": {
+        "min": 79.25,
+        "max": 291.73,
+        "mean": 113.51,
+        "median": 91.06,
+        "suggested": 95.79,
+        "quantity": 42,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Navaja Knife | Tiger Tooth (Minimal Wear)",
+      "price": null,
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Navaja Knife | Tiger Tooth (Factory New)",
+        "price": {
+          "min": 79.25,
+          "max": 291.73,
+          "mean": 113.51,
+          "median": 91.06,
+          "suggested": 95.79,
+          "quantity": 42,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Navaja Knife | Tiger Tooth (Minimal Wear)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Navaja Knife | Tiger Tooth (Factory New)",
+        "price": {
+          "min": 106.23,
+          "max": 243.89,
+          "mean": 162.24,
+          "median": 133.68,
+          "suggested": 115.1,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Navaja Knife | Tiger Tooth (Minimal Wear)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:35.474Z"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "skin-e0eec3353ea4",
+  "name": "XM1014 | Mockingbird",
+  "paint_index": "1182",
+  "weapon": {
+    "id": "weapon_xm1014",
+    "weapon_id": 25,
+    "name": "XM1014",
+    "slug": "xm1014"
+  },
+  "pattern": {
+    "id": "xm1014_mockingbird",
+    "name": "Mockingbird"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The XM1014 is a powerful fully automatic shotgun that justifies its heftier price tag with the ability to paint a room with lead fast. A silver and gold design depicting birds in flight has been custom painted on the receiver.\\n\\n<i>Time spent with birds is never wasted</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1,
+      "max": 26.96,
+      "mean": 3.55,
+      "median": 2.01,
+      "suggested": 1.25,
+      "quantity": 75,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.16,
+      "max": 10.78,
+      "mean": 0.29,
+      "median": 0.25,
+      "suggested": 0.27,
+      "quantity": 547,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.07,
+      "max": 5.25,
+      "mean": 0.15,
+      "median": 0.09,
+      "suggested": 0.12,
+      "quantity": 740,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.06,
+      "max": 4.67,
+      "mean": 0.14,
+      "median": 0.09,
+      "suggested": 0.09,
+      "quantity": 785,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.06,
+      "max": 4.8,
+      "mean": 0.19,
+      "median": 0.09,
+      "suggested": 0.09,
+      "quantity": 528,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "XM1014 | Mockingbird (Factory New)",
+      "price": {
+        "min": 1,
+        "max": 26.96,
+        "mean": 3.55,
+        "median": 2.01,
+        "suggested": 1.25,
+        "quantity": 75,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "XM1014 | Mockingbird (Minimal Wear)",
+      "price": {
+        "min": 0.16,
+        "max": 10.78,
+        "mean": 0.29,
+        "median": 0.25,
+        "suggested": 0.27,
+        "quantity": 547,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "XM1014 | Mockingbird (Field-Tested)",
+      "price": {
+        "min": 0.07,
+        "max": 5.25,
+        "mean": 0.15,
+        "median": 0.09,
+        "suggested": 0.12,
+        "quantity": 740,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "XM1014 | Mockingbird (Well-Worn)",
+      "price": {
+        "min": 0.06,
+        "max": 4.67,
+        "mean": 0.14,
+        "median": 0.09,
+        "suggested": 0.09,
+        "quantity": 785,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "XM1014 | Mockingbird (Battle-Scarred)",
+      "price": {
+        "min": 0.06,
+        "max": 4.8,
+        "mean": 0.19,
+        "median": 0.09,
+        "suggested": 0.09,
+        "quantity": 528,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "XM1014 | Mockingbird (Factory New)",
+        "price": {
+          "min": 1,
+          "max": 26.96,
+          "mean": 3.55,
+          "median": 2.01,
+          "suggested": 1.25,
+          "quantity": 75,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "XM1014 | Mockingbird (Minimal Wear)",
+        "price": {
+          "min": 0.16,
+          "max": 10.78,
+          "mean": 0.29,
+          "median": 0.25,
+          "suggested": 0.27,
+          "quantity": 547,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "XM1014 | Mockingbird (Field-Tested)",
+        "price": {
+          "min": 0.07,
+          "max": 5.25,
+          "mean": 0.15,
+          "median": 0.09,
+          "suggested": 0.12,
+          "quantity": 740,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "XM1014 | Mockingbird (Well-Worn)",
+        "price": {
+          "min": 0.06,
+          "max": 4.67,
+          "mean": 0.14,
+          "median": 0.09,
+          "suggested": 0.09,
+          "quantity": 785,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "XM1014 | Mockingbird (Battle-Scarred)",
+        "price": {
+          "min": 0.06,
+          "max": 4.8,
+          "mean": 0.19,
+          "median": 0.09,
+          "suggested": 0.09,
+          "quantity": 528,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ XM1014 | Mockingbird (Factory New)",
+        "price": {
+          "min": 1.55,
+          "max": 54.04,
+          "mean": 7.14,
+          "median": 2.28,
+          "suggested": 1.9,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ XM1014 | Mockingbird (Minimal Wear)",
+        "price": {
+          "min": 0.2,
+          "max": 15.75,
+          "mean": 0.5,
+          "median": 0.32,
+          "suggested": 0.3,
+          "quantity": 233,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ XM1014 | Mockingbird (Field-Tested)",
+        "price": {
+          "min": 0.08,
+          "max": 3.5,
+          "mean": 0.16,
+          "median": 0.14,
+          "suggested": 0.12,
+          "quantity": 218,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ XM1014 | Mockingbird (Well-Worn)",
+        "price": {
+          "min": 0.07,
+          "max": 4.8,
+          "mean": 0.15,
+          "median": 0.12,
+          "suggested": 0.1,
+          "quantity": 251,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ XM1014 | Mockingbird (Battle-Scarred)",
+        "price": {
+          "min": 0.07,
+          "max": 4.8,
+          "mean": 0.14,
+          "median": 0.11,
+          "suggested": 0.1,
+          "quantity": 189,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir XM1014 | Mockingbird (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir XM1014 | Mockingbird (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir XM1014 | Mockingbird (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir XM1014 | Mockingbird (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir XM1014 | Mockingbird (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:51.533Z"
+}

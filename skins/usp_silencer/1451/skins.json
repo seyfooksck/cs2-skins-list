@@ -1,0 +1,225 @@
+{
+  "id": "skin-ef8a4654c567",
+  "name": "USP-S | Spiral Glitch",
+  "paint_index": "1451",
+  "weapon": {
+    "id": "weapon_usp_silencer",
+    "weapon_id": 61,
+    "name": "USP-S",
+    "slug": "usp_silencer"
+  },
+  "pattern": {
+    "id": "usps_spiral_glitch_iridescent",
+    "name": "Spiral Glitch"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise. Disruptive designs have been custom painted beneath a topcoat of pearlescent paint.\\n\\n<i>They won't know what hit 'em</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 63.39,
+      "max": 175.04,
+      "mean": 92.01,
+      "median": 82.62,
+      "suggested": 101.31,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 33.84,
+      "max": 105.02,
+      "mean": 47.09,
+      "median": 38.45,
+      "suggested": 47.46,
+      "quantity": 13,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 71.09,
+      "max": 71.09,
+      "mean": 71.09,
+      "median": 71.09,
+      "suggested": 20.7,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 18.79,
+      "max": 36.07,
+      "mean": 24.47,
+      "median": 21.52,
+      "suggested": 29.7,
+      "quantity": 4,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "USP-S | Spiral Glitch (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "USP-S | Spiral Glitch (Minimal Wear)",
+      "price": {
+        "min": 63.39,
+        "max": 175.04,
+        "mean": 92.01,
+        "median": 82.62,
+        "suggested": 101.31,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "USP-S | Spiral Glitch (Field-Tested)",
+      "price": {
+        "min": 33.84,
+        "max": 105.02,
+        "mean": 47.09,
+        "median": 38.45,
+        "suggested": 47.46,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "USP-S | Spiral Glitch (Well-Worn)",
+      "price": {
+        "min": 71.09,
+        "max": 71.09,
+        "mean": 71.09,
+        "median": 71.09,
+        "suggested": 20.7,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "USP-S | Spiral Glitch (Battle-Scarred)",
+      "price": {
+        "min": 18.79,
+        "max": 36.07,
+        "mean": 24.47,
+        "median": 21.52,
+        "suggested": 29.7,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "USP-S | Spiral Glitch (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "USP-S | Spiral Glitch (Minimal Wear)",
+        "price": {
+          "min": 63.39,
+          "max": 175.04,
+          "mean": 92.01,
+          "median": 82.62,
+          "suggested": 101.31,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "USP-S | Spiral Glitch (Field-Tested)",
+        "price": {
+          "min": 33.84,
+          "max": 105.02,
+          "mean": 47.09,
+          "median": 38.45,
+          "suggested": 47.46,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "USP-S | Spiral Glitch (Well-Worn)",
+        "price": {
+          "min": 71.09,
+          "max": 71.09,
+          "mean": 71.09,
+          "median": 71.09,
+          "suggested": 20.7,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "USP-S | Spiral Glitch (Battle-Scarred)",
+        "price": {
+          "min": 18.79,
+          "max": 36.07,
+          "mean": 24.47,
+          "median": 21.52,
+          "suggested": 29.7,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir USP-S | Spiral Glitch (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir USP-S | Spiral Glitch (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir USP-S | Spiral Glitch (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir USP-S | Spiral Glitch (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir USP-S | Spiral Glitch (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:50.958Z"
+}

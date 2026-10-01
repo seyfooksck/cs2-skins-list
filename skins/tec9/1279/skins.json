@@ -1,0 +1,257 @@
+{
+  "id": "skin-6c86170a7e6d",
+  "name": "Tec-9 | Blue Blast",
+  "paint_index": "1279",
+  "weapon": {
+    "id": "weapon_tec9",
+    "weapon_id": 30,
+    "name": "Tec-9",
+    "slug": "tec9"
+  },
+  "pattern": {
+    "id": "so_teal",
+    "name": "Blue Blast"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 0.8,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity. It has been painted using different shades of blue.\\n\\n<i>Move fast, shoot fast, win fast</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.15,
+      "max": 23.34,
+      "mean": 2.6,
+      "median": 1.04,
+      "suggested": 0.18,
+      "quantity": 250,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.02,
+      "max": 5.25,
+      "mean": 0.27,
+      "median": 0.05,
+      "suggested": 0.03,
+      "quantity": 347,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.02,
+      "max": 4.06,
+      "mean": 0.09,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 1420,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.02,
+      "max": 0.05,
+      "mean": 0.04,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 66,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.02,
+      "max": 1.25,
+      "mean": 0.05,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 388,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Tec-9 | Blue Blast (Factory New)",
+      "price": {
+        "min": 0.15,
+        "max": 23.34,
+        "mean": 2.6,
+        "median": 1.04,
+        "suggested": 0.18,
+        "quantity": 250,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Tec-9 | Blue Blast (Minimal Wear)",
+      "price": {
+        "min": 0.02,
+        "max": 5.25,
+        "mean": 0.27,
+        "median": 0.05,
+        "suggested": 0.03,
+        "quantity": 347,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Tec-9 | Blue Blast (Field-Tested)",
+      "price": {
+        "min": 0.02,
+        "max": 4.06,
+        "mean": 0.09,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 1420,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Tec-9 | Blue Blast (Well-Worn)",
+      "price": {
+        "min": 0.02,
+        "max": 0.05,
+        "mean": 0.04,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 66,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Tec-9 | Blue Blast (Battle-Scarred)",
+      "price": {
+        "min": 0.02,
+        "max": 1.25,
+        "mean": 0.05,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 388,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Tec-9 | Blue Blast (Factory New)",
+        "price": {
+          "min": 0.15,
+          "max": 23.34,
+          "mean": 2.6,
+          "median": 1.04,
+          "suggested": 0.18,
+          "quantity": 250,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Tec-9 | Blue Blast (Minimal Wear)",
+        "price": {
+          "min": 0.02,
+          "max": 5.25,
+          "mean": 0.27,
+          "median": 0.05,
+          "suggested": 0.03,
+          "quantity": 347,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Tec-9 | Blue Blast (Field-Tested)",
+        "price": {
+          "min": 0.02,
+          "max": 4.06,
+          "mean": 0.09,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 1420,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Tec-9 | Blue Blast (Well-Worn)",
+        "price": {
+          "min": 0.02,
+          "max": 0.05,
+          "mean": 0.04,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 66,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Tec-9 | Blue Blast (Battle-Scarred)",
+        "price": {
+          "min": 0.02,
+          "max": 1.25,
+          "mean": 0.05,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 388,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Tec-9 | Blue Blast (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Tec-9 | Blue Blast (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Tec-9 | Blue Blast (Field-Tested)",
+        "price": {
+          "min": 5.93,
+          "max": 5.93,
+          "mean": 5.93,
+          "median": 5.93,
+          "suggested": 6.31,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Tec-9 | Blue Blast (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Tec-9 | Blue Blast (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.525Z"
+}

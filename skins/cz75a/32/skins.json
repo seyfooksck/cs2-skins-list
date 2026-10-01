@@ -1,0 +1,145 @@
+{
+  "id": "skin-c34dd8de2279",
+  "name": "CZ75-Auto | Silver",
+  "paint_index": "32",
+  "weapon": {
+    "id": "weapon_cz75a",
+    "weapon_id": 63,
+    "name": "CZ75-Auto",
+    "slug": "cz75a"
+  },
+  "pattern": {
+    "id": "an_silver",
+    "name": "Silver"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fully automatic variant of the CZ75, the CZ75-Auto is the ideal short-term choice for turning the tables and gaining your opponents weapon. But with very little ammo in the magazine, strong trigger discipline is required. It has been painted with a chrome base coat and candied in transparent silver anodized effect paint.\\n\\n<i>There is beauty in simplicity - Franz Kriegeld, Phoenix Tactician</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 3.47,
+      "max": 234.37,
+      "mean": 24.97,
+      "median": 8.85,
+      "suggested": 4.29,
+      "quantity": 69,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 46.89,
+      "max": 46.89,
+      "mean": 46.89,
+      "median": 46.89,
+      "suggested": 32.47,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "CZ75-Auto | Silver (Factory New)",
+      "price": {
+        "min": 3.47,
+        "max": 234.37,
+        "mean": 24.97,
+        "median": 8.85,
+        "suggested": 4.29,
+        "quantity": 69,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "CZ75-Auto | Silver (Minimal Wear)",
+      "price": {
+        "min": 46.89,
+        "max": 46.89,
+        "mean": 46.89,
+        "median": 46.89,
+        "suggested": 32.47,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "CZ75-Auto | Silver (Factory New)",
+        "price": {
+          "min": 3.47,
+          "max": 234.37,
+          "mean": 24.97,
+          "median": 8.85,
+          "suggested": 4.29,
+          "quantity": 69,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "CZ75-Auto | Silver (Minimal Wear)",
+        "price": {
+          "min": 46.89,
+          "max": 46.89,
+          "mean": 46.89,
+          "median": 46.89,
+          "suggested": 32.47,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir CZ75-Auto | Silver (Factory New)",
+        "price": {
+          "min": 1.69,
+          "max": 225.31,
+          "mean": 10.77,
+          "median": 2.6,
+          "suggested": 2.13,
+          "quantity": 112,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir CZ75-Auto | Silver (Minimal Wear)",
+        "price": {
+          "min": 1.88,
+          "max": 32.46,
+          "mean": 18.45,
+          "median": 21,
+          "suggested": 2.1,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:27.536Z"
+}

@@ -1,0 +1,289 @@
+{
+  "id": "skin-5e983b2fc436",
+  "name": "M4A1-S | Master Piece",
+  "paint_index": "321",
+  "weapon": {
+    "id": "weapon_m4a1_silencer",
+    "weapon_id": 60,
+    "name": "M4A1-S",
+    "slug": "m4a1_silencer"
+  },
+  "pattern": {
+    "id": "cu_m4a1-s_silence",
+    "name": "Master Piece"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. It has been custom painted with wildstyle graffiti.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 374.59,
+      "max": 1653.01,
+      "mean": 931.19,
+      "median": 949.74,
+      "suggested": 458.51,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 180.08,
+      "max": 757.34,
+      "mean": 344.04,
+      "median": 361.74,
+      "suggested": 237.58,
+      "quantity": 26,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 123.81,
+      "max": 1154.18,
+      "mean": 235.66,
+      "median": 152.94,
+      "suggested": 156.37,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 95.48,
+      "max": 256.73,
+      "mean": 149.61,
+      "median": 121.65,
+      "suggested": 123.44,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 88.1,
+      "max": 247.94,
+      "mean": 129.51,
+      "median": 104.56,
+      "suggested": 117.94,
+      "quantity": 5,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A1-S | Master Piece (Factory New)",
+      "price": {
+        "min": 374.59,
+        "max": 1653.01,
+        "mean": 931.19,
+        "median": 949.74,
+        "suggested": 458.51,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A1-S | Master Piece (Minimal Wear)",
+      "price": {
+        "min": 180.08,
+        "max": 757.34,
+        "mean": 344.04,
+        "median": 361.74,
+        "suggested": 237.58,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A1-S | Master Piece (Field-Tested)",
+      "price": {
+        "min": 123.81,
+        "max": 1154.18,
+        "mean": 235.66,
+        "median": 152.94,
+        "suggested": 156.37,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M4A1-S | Master Piece (Well-Worn)",
+      "price": {
+        "min": 95.48,
+        "max": 256.73,
+        "mean": 149.61,
+        "median": 121.65,
+        "suggested": 123.44,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M4A1-S | Master Piece (Battle-Scarred)",
+      "price": {
+        "min": 88.1,
+        "max": 247.94,
+        "mean": 129.51,
+        "median": 104.56,
+        "suggested": 117.94,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A1-S | Master Piece (Factory New)",
+        "price": {
+          "min": 374.59,
+          "max": 1653.01,
+          "mean": 931.19,
+          "median": 949.74,
+          "suggested": 458.51,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A1-S | Master Piece (Minimal Wear)",
+        "price": {
+          "min": 180.08,
+          "max": 757.34,
+          "mean": 344.04,
+          "median": 361.74,
+          "suggested": 237.58,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A1-S | Master Piece (Field-Tested)",
+        "price": {
+          "min": 123.81,
+          "max": 1154.18,
+          "mean": 235.66,
+          "median": 152.94,
+          "suggested": 156.37,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M4A1-S | Master Piece (Well-Worn)",
+        "price": {
+          "min": 95.48,
+          "max": 256.73,
+          "mean": 149.61,
+          "median": 121.65,
+          "suggested": 123.44,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M4A1-S | Master Piece (Battle-Scarred)",
+        "price": {
+          "min": 88.1,
+          "max": 247.94,
+          "mean": 129.51,
+          "median": 104.56,
+          "suggested": 117.94,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A1-S | Master Piece (Factory New)",
+        "price": {
+          "min": 728.55,
+          "max": 1296.47,
+          "mean": 1012.52,
+          "median": 1012.52,
+          "suggested": 711.24,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A1-S | Master Piece (Minimal Wear)",
+        "price": {
+          "min": 237.95,
+          "max": 2332.71,
+          "mean": 810.76,
+          "median": 336.19,
+          "suggested": 280.24,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A1-S | Master Piece (Field-Tested)",
+        "price": {
+          "min": 137.7,
+          "max": 229.01,
+          "mean": 192.4,
+          "median": 192.47,
+          "suggested": 142.94,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M4A1-S | Master Piece (Well-Worn)",
+        "price": {
+          "min": 107.25,
+          "max": 583.46,
+          "mean": 249.18,
+          "median": 153,
+          "suggested": 131.58,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M4A1-S | Master Piece (Battle-Scarred)",
+        "price": {
+          "min": 92.14,
+          "max": 291.73,
+          "mean": 163.25,
+          "median": 134.58,
+          "suggested": 10.6,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:40.804Z"
+}

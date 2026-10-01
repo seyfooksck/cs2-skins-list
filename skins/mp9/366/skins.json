@@ -1,0 +1,225 @@
+{
+  "id": "skin-f3da90fedb74",
+  "name": "MP9 | Green Plaid",
+  "paint_index": "366",
+  "weapon": {
+    "id": "weapon_mp9",
+    "weapon_id": 34,
+    "name": "MP9",
+    "slug": "mp9"
+  },
+  "pattern": {
+    "id": "hy_plaid2",
+    "name": "Green Plaid"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 0.58,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been painted with a hydrographic in a taupe and blue-green plaid pattern.\\n\\n<i>It's not a bagpipe, but it plays a song before every funeral</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 36.07,
+      "max": 151.69,
+      "mean": 78.14,
+      "median": 46.67,
+      "suggested": 11.12,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 17.49,
+      "max": 20.99,
+      "mean": 19.27,
+      "median": 19.31,
+      "suggested": 5.34,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.95,
+      "max": 11.66,
+      "mean": 7.31,
+      "median": 7.31,
+      "suggested": 3.37,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 7.95,
+      "max": 7.95,
+      "mean": 7.95,
+      "median": 7.95,
+      "suggested": 9.01,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP9 | Green Plaid (Factory New)",
+      "price": {
+        "min": 36.07,
+        "max": 151.69,
+        "mean": 78.14,
+        "median": 46.67,
+        "suggested": 11.12,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP9 | Green Plaid (Minimal Wear)",
+      "price": {
+        "min": 17.49,
+        "max": 20.99,
+        "mean": 19.27,
+        "median": 19.31,
+        "suggested": 5.34,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP9 | Green Plaid (Field-Tested)",
+      "price": {
+        "min": 2.95,
+        "max": 11.66,
+        "mean": 7.31,
+        "median": 7.31,
+        "suggested": 3.37,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP9 | Green Plaid (Well-Worn)",
+      "price": {
+        "min": 7.95,
+        "max": 7.95,
+        "mean": 7.95,
+        "median": 7.95,
+        "suggested": 9.01,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP9 | Green Plaid (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP9 | Green Plaid (Factory New)",
+        "price": {
+          "min": 36.07,
+          "max": 151.69,
+          "mean": 78.14,
+          "median": 46.67,
+          "suggested": 11.12,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP9 | Green Plaid (Minimal Wear)",
+        "price": {
+          "min": 17.49,
+          "max": 20.99,
+          "mean": 19.27,
+          "median": 19.31,
+          "suggested": 5.34,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP9 | Green Plaid (Field-Tested)",
+        "price": {
+          "min": 2.95,
+          "max": 11.66,
+          "mean": 7.31,
+          "median": 7.31,
+          "suggested": 3.37,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP9 | Green Plaid (Well-Worn)",
+        "price": {
+          "min": 7.95,
+          "max": 7.95,
+          "mean": 7.95,
+          "median": 7.95,
+          "suggested": 9.01,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP9 | Green Plaid (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP9 | Green Plaid (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP9 | Green Plaid (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP9 | Green Plaid (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP9 | Green Plaid (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP9 | Green Plaid (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:43.810Z"
+}

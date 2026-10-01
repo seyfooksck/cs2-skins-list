@@ -1,0 +1,310 @@
+{
+  "id": "skin-f3392bb443bc",
+  "name": "USP-S | Ticket to Hell",
+  "paint_index": "1136",
+  "weapon": {
+    "id": "weapon_usp_silencer",
+    "weapon_id": 61,
+    "name": "USP-S",
+    "slug": "usp_silencer"
+  },
+  "pattern": {
+    "id": "cu_usp_to_hell",
+    "name": "Ticket to Hell"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.76,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise. White technical designs have been custom painted over a black base.\\n\\n<i>Designer death</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 3.52,
+      "max": 76.8,
+      "mean": 13.28,
+      "median": 5.46,
+      "suggested": 4.34,
+      "quantity": 221,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.09,
+      "max": 54.26,
+      "mean": 3.29,
+      "median": 1.72,
+      "suggested": 1.27,
+      "quantity": 320,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.63,
+      "max": 135.67,
+      "mean": 1.02,
+      "median": 0.77,
+      "suggested": 0.82,
+      "quantity": 1144,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.58,
+      "max": 2.92,
+      "mean": 0.81,
+      "median": 0.71,
+      "suggested": 0.81,
+      "quantity": 78,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.56,
+      "max": 20.2,
+      "mean": 0.97,
+      "median": 0.67,
+      "suggested": 0.73,
+      "quantity": 142,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "USP-S | Ticket to Hell (Factory New)",
+      "price": {
+        "min": 3.52,
+        "max": 76.8,
+        "mean": 13.28,
+        "median": 5.46,
+        "suggested": 4.34,
+        "quantity": 221,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "USP-S | Ticket to Hell (Minimal Wear)",
+      "price": {
+        "min": 1.09,
+        "max": 54.26,
+        "mean": 3.29,
+        "median": 1.72,
+        "suggested": 1.27,
+        "quantity": 320,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "USP-S | Ticket to Hell (Field-Tested)",
+      "price": {
+        "min": 0.63,
+        "max": 135.67,
+        "mean": 1.02,
+        "median": 0.77,
+        "suggested": 0.82,
+        "quantity": 1144,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "USP-S | Ticket to Hell (Well-Worn)",
+      "price": {
+        "min": 0.58,
+        "max": 2.92,
+        "mean": 0.81,
+        "median": 0.71,
+        "suggested": 0.81,
+        "quantity": 78,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "USP-S | Ticket to Hell (Battle-Scarred)",
+      "price": {
+        "min": 0.56,
+        "max": 20.2,
+        "mean": 0.97,
+        "median": 0.67,
+        "suggested": 0.73,
+        "quantity": 142,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "USP-S | Ticket to Hell (Factory New)",
+        "price": {
+          "min": 3.52,
+          "max": 76.8,
+          "mean": 13.28,
+          "median": 5.46,
+          "suggested": 4.34,
+          "quantity": 221,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "USP-S | Ticket to Hell (Minimal Wear)",
+        "price": {
+          "min": 1.09,
+          "max": 54.26,
+          "mean": 3.29,
+          "median": 1.72,
+          "suggested": 1.27,
+          "quantity": 320,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "USP-S | Ticket to Hell (Field-Tested)",
+        "price": {
+          "min": 0.63,
+          "max": 135.67,
+          "mean": 1.02,
+          "median": 0.77,
+          "suggested": 0.82,
+          "quantity": 1144,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "USP-S | Ticket to Hell (Well-Worn)",
+        "price": {
+          "min": 0.58,
+          "max": 2.92,
+          "mean": 0.81,
+          "median": 0.71,
+          "suggested": 0.81,
+          "quantity": 78,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "USP-S | Ticket to Hell (Battle-Scarred)",
+        "price": {
+          "min": 0.56,
+          "max": 20.2,
+          "mean": 0.97,
+          "median": 0.67,
+          "suggested": 0.73,
+          "quantity": 142,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ USP-S | Ticket to Hell (Factory New)",
+        "price": {
+          "min": 6.24,
+          "max": 122.12,
+          "mean": 12.51,
+          "median": 10.82,
+          "suggested": 7.28,
+          "quantity": 207,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ USP-S | Ticket to Hell (Minimal Wear)",
+        "price": {
+          "min": 2.16,
+          "max": 116.69,
+          "mean": 7.15,
+          "median": 3.96,
+          "suggested": 2.72,
+          "quantity": 130,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ USP-S | Ticket to Hell (Field-Tested)",
+        "price": {
+          "min": 0.83,
+          "max": 36.32,
+          "mean": 2.31,
+          "median": 1.17,
+          "suggested": 1.04,
+          "quantity": 362,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ USP-S | Ticket to Hell (Well-Worn)",
+        "price": {
+          "min": 1.14,
+          "max": 18.15,
+          "mean": 2.85,
+          "median": 1.51,
+          "suggested": 1.35,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ USP-S | Ticket to Hell (Battle-Scarred)",
+        "price": {
+          "min": 0.69,
+          "max": 93.35,
+          "mean": 3.83,
+          "median": 0.95,
+          "suggested": 0.81,
+          "quantity": 66,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir USP-S | Ticket to Hell (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir USP-S | Ticket to Hell (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir USP-S | Ticket to Hell (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir USP-S | Ticket to Hell (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir USP-S | Ticket to Hell (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:50.601Z"
+}

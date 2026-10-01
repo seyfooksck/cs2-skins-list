@@ -1,0 +1,137 @@
+{
+  "id": "skin-2dae8bd09ad6",
+  "name": "★ Ursus Knife | Doppler",
+  "paint_index": "417",
+  "weapon": {
+    "id": "weapon_knife_ursus",
+    "weapon_id": 519,
+    "name": "Ursus Knife",
+    "slug": "knife_ursus"
+  },
+  "pattern": {
+    "id": "am_blackpearl_marbleized",
+    "name": "Doppler"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This tanto-style survival knife features a faceted blade and full tang, complete with impact pommel. No fuss, no moving parts - just a reliable blade that's ready to work. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 819.32,
+      "max": 834.36,
+      "mean": 826.85,
+      "median": 826.85,
+      "suggested": 932.3,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1075.36,
+      "max": 1075.36,
+      "mean": 1075.36,
+      "median": 1075.36,
+      "suggested": 1035.48,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Ursus Knife | Doppler (Factory New)",
+      "price": {
+        "min": 819.32,
+        "max": 834.36,
+        "mean": 826.85,
+        "median": 826.85,
+        "suggested": 932.3,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Ursus Knife | Doppler (Minimal Wear)",
+      "price": {
+        "min": 1075.36,
+        "max": 1075.36,
+        "mean": 1075.36,
+        "median": 1075.36,
+        "suggested": 1035.48,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Ursus Knife | Doppler (Factory New)",
+        "price": {
+          "min": 819.32,
+          "max": 834.36,
+          "mean": 826.85,
+          "median": 826.85,
+          "suggested": 932.3,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Ursus Knife | Doppler (Minimal Wear)",
+        "price": {
+          "min": 1075.36,
+          "max": 1075.36,
+          "mean": 1075.36,
+          "median": 1075.36,
+          "suggested": 1035.48,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Ursus Knife | Doppler (Factory New)",
+        "price": {
+          "min": 355.16,
+          "max": 390.7,
+          "mean": 372.93,
+          "median": 372.93,
+          "suggested": 441.61,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Ursus Knife | Doppler (Minimal Wear)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:39.038Z"
+}

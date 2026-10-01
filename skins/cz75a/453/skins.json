@@ -1,0 +1,129 @@
+{
+  "id": "skin-5f1ca8e9f44f",
+  "name": "CZ75-Auto | Emerald",
+  "paint_index": "453",
+  "weapon": {
+    "id": "weapon_cz75a",
+    "weapon_id": 63,
+    "name": "CZ75-Auto",
+    "slug": "cz75a"
+  },
+  "pattern": {
+    "id": "an_emerald",
+    "name": "Emerald"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fully automatic variant of the CZ75, the CZ75-Auto is the ideal short-term choice for turning the tables and gaining your opponents weapon. But with very little ammo in the magazine, strong trigger discipline is required. It has been painted with a chrome base coat and candied in transparent emerald anodized effect paint.\\n\\n<i>This is what the great Sebastien Hennequet has been reduced to? A nagging school marm?  What happened to you... - The Teacher and The Iconoclast Part 2</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 37.93,
+      "max": 325.54,
+      "mean": 79.91,
+      "median": 75.14,
+      "suggested": 52.59,
+      "quantity": 100,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 40.84,
+      "max": 53.34,
+      "mean": 47.1,
+      "median": 47.1,
+      "suggested": 57.38,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "CZ75-Auto | Emerald (Factory New)",
+      "price": {
+        "min": 37.93,
+        "max": 325.54,
+        "mean": 79.91,
+        "median": 75.14,
+        "suggested": 52.59,
+        "quantity": 100,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "CZ75-Auto | Emerald (Minimal Wear)",
+      "price": {
+        "min": 40.84,
+        "max": 53.34,
+        "mean": 47.1,
+        "median": 47.1,
+        "suggested": 57.38,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "CZ75-Auto | Emerald (Factory New)",
+        "price": {
+          "min": 37.93,
+          "max": 325.54,
+          "mean": 79.91,
+          "median": 75.14,
+          "suggested": 52.59,
+          "quantity": 100,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "CZ75-Auto | Emerald (Minimal Wear)",
+        "price": {
+          "min": 40.84,
+          "max": 53.34,
+          "mean": 47.1,
+          "median": 47.1,
+          "suggested": 57.38,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir CZ75-Auto | Emerald (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir CZ75-Auto | Emerald (Minimal Wear)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:27.520Z"
+}

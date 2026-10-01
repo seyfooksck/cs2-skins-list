@@ -1,0 +1,289 @@
+{
+  "id": "skin-373e7e49f479",
+  "name": "Galil AR | Cold Fusion",
+  "paint_index": "790",
+  "weapon": {
+    "id": "weapon_galilar",
+    "weapon_id": 13,
+    "name": "Galil AR",
+    "slug": "galilar"
+  },
+  "pattern": {
+    "id": "hy_nuclear_skulls_aqua",
+    "name": "Cold Fusion"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.83,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat. A toxic, pale blue hydrographic pattern has been applied.\\n\\n<i>Hypotheses are never proven</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.98,
+      "max": 17.5,
+      "mean": 3.82,
+      "median": 1.54,
+      "suggested": 1.5,
+      "quantity": 173,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.25,
+      "max": 8.78,
+      "mean": 0.47,
+      "median": 0.35,
+      "suggested": 0.33,
+      "quantity": 141,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.05,
+      "max": 3.07,
+      "mean": 0.11,
+      "median": 0.05,
+      "suggested": 0.07,
+      "quantity": 804,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.04,
+      "max": 1.75,
+      "mean": 0.18,
+      "median": 0.07,
+      "suggested": 0.06,
+      "quantity": 67,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.05,
+      "max": 2.07,
+      "mean": 0.13,
+      "median": 0.05,
+      "suggested": 0.06,
+      "quantity": 169,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Galil AR | Cold Fusion (Factory New)",
+      "price": {
+        "min": 0.98,
+        "max": 17.5,
+        "mean": 3.82,
+        "median": 1.54,
+        "suggested": 1.5,
+        "quantity": 173,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Galil AR | Cold Fusion (Minimal Wear)",
+      "price": {
+        "min": 0.25,
+        "max": 8.78,
+        "mean": 0.47,
+        "median": 0.35,
+        "suggested": 0.33,
+        "quantity": 141,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Galil AR | Cold Fusion (Field-Tested)",
+      "price": {
+        "min": 0.05,
+        "max": 3.07,
+        "mean": 0.11,
+        "median": 0.05,
+        "suggested": 0.07,
+        "quantity": 804,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Galil AR | Cold Fusion (Well-Worn)",
+      "price": {
+        "min": 0.04,
+        "max": 1.75,
+        "mean": 0.18,
+        "median": 0.07,
+        "suggested": 0.06,
+        "quantity": 67,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Galil AR | Cold Fusion (Battle-Scarred)",
+      "price": {
+        "min": 0.05,
+        "max": 2.07,
+        "mean": 0.13,
+        "median": 0.05,
+        "suggested": 0.06,
+        "quantity": 169,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Galil AR | Cold Fusion (Factory New)",
+        "price": {
+          "min": 0.98,
+          "max": 17.5,
+          "mean": 3.82,
+          "median": 1.54,
+          "suggested": 1.5,
+          "quantity": 173,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Galil AR | Cold Fusion (Minimal Wear)",
+        "price": {
+          "min": 0.25,
+          "max": 8.78,
+          "mean": 0.47,
+          "median": 0.35,
+          "suggested": 0.33,
+          "quantity": 141,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Galil AR | Cold Fusion (Field-Tested)",
+        "price": {
+          "min": 0.05,
+          "max": 3.07,
+          "mean": 0.11,
+          "median": 0.05,
+          "suggested": 0.07,
+          "quantity": 804,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Galil AR | Cold Fusion (Well-Worn)",
+        "price": {
+          "min": 0.04,
+          "max": 1.75,
+          "mean": 0.18,
+          "median": 0.07,
+          "suggested": 0.06,
+          "quantity": 67,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Galil AR | Cold Fusion (Battle-Scarred)",
+        "price": {
+          "min": 0.05,
+          "max": 2.07,
+          "mean": 0.13,
+          "median": 0.05,
+          "suggested": 0.06,
+          "quantity": 169,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Galil AR | Cold Fusion (Factory New)",
+        "price": {
+          "min": 4.98,
+          "max": 130.7,
+          "mean": 25.74,
+          "median": 14.03,
+          "suggested": 5.18,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Galil AR | Cold Fusion (Minimal Wear)",
+        "price": {
+          "min": 1.12,
+          "max": 28.1,
+          "mean": 7.77,
+          "median": 6.7,
+          "suggested": 1.27,
+          "quantity": 51,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Galil AR | Cold Fusion (Field-Tested)",
+        "price": {
+          "min": 0.37,
+          "max": 27.99,
+          "mean": 4.38,
+          "median": 4.67,
+          "suggested": 0.48,
+          "quantity": 38,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Galil AR | Cold Fusion (Well-Worn)",
+        "price": {
+          "min": 1.97,
+          "max": 2.09,
+          "mean": 2.03,
+          "median": 2.03,
+          "suggested": 1.04,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Galil AR | Cold Fusion (Battle-Scarred)",
+        "price": {
+          "min": 0.3,
+          "max": 5.68,
+          "mean": 2.93,
+          "median": 3.16,
+          "suggested": 0.36,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:31.184Z"
+}

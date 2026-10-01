@@ -1,0 +1,201 @@
+{
+  "id": "skin-549330dac6c0",
+  "name": "AWP | The Prince",
+  "paint_index": "736",
+  "weapon": {
+    "id": "weapon_awp",
+    "weapon_id": 9,
+    "name": "AWP",
+    "slug": "awp"
+  },
+  "pattern": {
+    "id": "gs_awp_enamel",
+    "name": "The Prince"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted with a red base and gold filigree.\\n\\n<i>Peace be with thee</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 4549.89,
+      "max": 5190.37,
+      "mean": 4870.13,
+      "median": 4870.13,
+      "suggested": 3487.54,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2508.91,
+      "max": 3220.09,
+      "mean": 2864.5,
+      "median": 2864.5,
+      "suggested": 2843.9,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2190.5,
+      "max": 2333.87,
+      "mean": 2250.36,
+      "median": 2234.68,
+      "suggested": 2232.33,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AWP | The Prince (Factory New)",
+      "price": {
+        "min": 4549.89,
+        "max": 5190.37,
+        "mean": 4870.13,
+        "median": 4870.13,
+        "suggested": 3487.54,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AWP | The Prince (Minimal Wear)",
+      "price": {
+        "min": 2508.91,
+        "max": 3220.09,
+        "mean": 2864.5,
+        "median": 2864.5,
+        "suggested": 2843.9,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AWP | The Prince (Field-Tested)",
+      "price": {
+        "min": 2190.5,
+        "max": 2333.87,
+        "mean": 2250.36,
+        "median": 2234.68,
+        "suggested": 2232.33,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AWP | The Prince (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AWP | The Prince (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AWP | The Prince (Factory New)",
+        "price": {
+          "min": 4549.89,
+          "max": 5190.37,
+          "mean": 4870.13,
+          "median": 4870.13,
+          "suggested": 3487.54,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AWP | The Prince (Minimal Wear)",
+        "price": {
+          "min": 2508.91,
+          "max": 3220.09,
+          "mean": 2864.5,
+          "median": 2864.5,
+          "suggested": 2843.9,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AWP | The Prince (Field-Tested)",
+        "price": {
+          "min": 2190.5,
+          "max": 2333.87,
+          "mean": 2250.36,
+          "median": 2234.68,
+          "suggested": 2232.33,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AWP | The Prince (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "AWP | The Prince (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AWP | The Prince (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AWP | The Prince (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AWP | The Prince (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AWP | The Prince (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AWP | The Prince (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:26.160Z"
+}

@@ -1,0 +1,249 @@
+{
+  "id": "skin-883ea18cffea",
+  "name": "CZ75-Auto | Jungle Dashed",
+  "paint_index": "147",
+  "weapon": {
+    "id": "weapon_cz75a",
+    "weapon_id": 63,
+    "name": "CZ75-Auto",
+    "slug": "cz75a"
+  },
+  "pattern": {
+    "id": "sp_tape_short_jungle",
+    "name": "Jungle Dashed"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fully automatic variant of the CZ75, the CZ75-Auto is the ideal short-term choice for turning the tables and gaining your opponents weapon. But with very little ammo in the magazine, strong trigger discipline is required. It has been spray-painted using short pieces of tape as stencils.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 4.54,
+      "max": 20.99,
+      "mean": 8.13,
+      "median": 7.07,
+      "suggested": 5.87,
+      "quantity": 40,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.84,
+      "max": 29.12,
+      "mean": 4.92,
+      "median": 3.69,
+      "suggested": 2.11,
+      "quantity": 20,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.54,
+      "max": 15.11,
+      "mean": 3.65,
+      "median": 2.1,
+      "suggested": 1.9,
+      "quantity": 147,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.54,
+      "max": 7.5,
+      "mean": 3.2,
+      "median": 3.06,
+      "suggested": 1.78,
+      "quantity": 45,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.46,
+      "max": 5.97,
+      "mean": 2.38,
+      "median": 2.23,
+      "suggested": 1.58,
+      "quantity": 12,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "CZ75-Auto | Jungle Dashed (Factory New)",
+      "price": {
+        "min": 4.54,
+        "max": 20.99,
+        "mean": 8.13,
+        "median": 7.07,
+        "suggested": 5.87,
+        "quantity": 40,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "CZ75-Auto | Jungle Dashed (Minimal Wear)",
+      "price": {
+        "min": 1.84,
+        "max": 29.12,
+        "mean": 4.92,
+        "median": 3.69,
+        "suggested": 2.11,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "CZ75-Auto | Jungle Dashed (Field-Tested)",
+      "price": {
+        "min": 1.54,
+        "max": 15.11,
+        "mean": 3.65,
+        "median": 2.1,
+        "suggested": 1.9,
+        "quantity": 147,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "CZ75-Auto | Jungle Dashed (Well-Worn)",
+      "price": {
+        "min": 1.54,
+        "max": 7.5,
+        "mean": 3.2,
+        "median": 3.06,
+        "suggested": 1.78,
+        "quantity": 45,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "CZ75-Auto | Jungle Dashed (Battle-Scarred)",
+      "price": {
+        "min": 1.46,
+        "max": 5.97,
+        "mean": 2.38,
+        "median": 2.23,
+        "suggested": 1.58,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "CZ75-Auto | Jungle Dashed (Factory New)",
+        "price": {
+          "min": 4.54,
+          "max": 20.99,
+          "mean": 8.13,
+          "median": 7.07,
+          "suggested": 5.87,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "CZ75-Auto | Jungle Dashed (Minimal Wear)",
+        "price": {
+          "min": 1.84,
+          "max": 29.12,
+          "mean": 4.92,
+          "median": 3.69,
+          "suggested": 2.11,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "CZ75-Auto | Jungle Dashed (Field-Tested)",
+        "price": {
+          "min": 1.54,
+          "max": 15.11,
+          "mean": 3.65,
+          "median": 2.1,
+          "suggested": 1.9,
+          "quantity": 147,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "CZ75-Auto | Jungle Dashed (Well-Worn)",
+        "price": {
+          "min": 1.54,
+          "max": 7.5,
+          "mean": 3.2,
+          "median": 3.06,
+          "suggested": 1.78,
+          "quantity": 45,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "CZ75-Auto | Jungle Dashed (Battle-Scarred)",
+        "price": {
+          "min": 1.46,
+          "max": 5.97,
+          "mean": 2.38,
+          "median": 2.23,
+          "suggested": 1.58,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir CZ75-Auto | Jungle Dashed (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir CZ75-Auto | Jungle Dashed (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir CZ75-Auto | Jungle Dashed (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir CZ75-Auto | Jungle Dashed (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir CZ75-Auto | Jungle Dashed (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:27.936Z"
+}

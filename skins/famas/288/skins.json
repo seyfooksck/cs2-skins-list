@@ -1,0 +1,258 @@
+{
+  "id": "skin-8737ccb056e6",
+  "name": "FAMAS | Sergeant",
+  "paint_index": "288",
+  "weapon": {
+    "id": "weapon_famas",
+    "weapon_id": 10,
+    "name": "FAMAS",
+    "slug": "famas"
+  },
+  "pattern": {
+    "id": "an_famas_sgt",
+    "name": "Sergeant"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0.1,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. It has been given a patina of varying depth using masking fluid to create a military motif, sealed with a satin finish.\\n\\n<i>Lead by example</i>",
+  "images": {
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "mw": {
+      "min": 27.85,
+      "max": 126.24,
+      "mean": 44.55,
+      "median": 34.52,
+      "suggested": 31.74,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.75,
+      "max": 15.77,
+      "mean": 4.49,
+      "median": 3.72,
+      "suggested": 3.79,
+      "quantity": 113,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.91,
+      "max": 378.54,
+      "mean": 15.63,
+      "median": 2.71,
+      "suggested": 2.72,
+      "quantity": 40,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.84,
+      "max": 41.48,
+      "mean": 3.82,
+      "median": 2.77,
+      "suggested": 2.23,
+      "quantity": 56,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "FAMAS | Sergeant (Minimal Wear)",
+      "price": {
+        "min": 27.85,
+        "max": 126.24,
+        "mean": 44.55,
+        "median": 34.52,
+        "suggested": 31.74,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "FAMAS | Sergeant (Field-Tested)",
+      "price": {
+        "min": 2.75,
+        "max": 15.77,
+        "mean": 4.49,
+        "median": 3.72,
+        "suggested": 3.79,
+        "quantity": 113,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "FAMAS | Sergeant (Well-Worn)",
+      "price": {
+        "min": 1.91,
+        "max": 378.54,
+        "mean": 15.63,
+        "median": 2.71,
+        "suggested": 2.72,
+        "quantity": 40,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "FAMAS | Sergeant (Battle-Scarred)",
+      "price": {
+        "min": 1.84,
+        "max": 41.48,
+        "mean": 3.82,
+        "median": 2.77,
+        "suggested": 2.23,
+        "quantity": 56,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "mw": {
+        "market_hash_name": "FAMAS | Sergeant (Minimal Wear)",
+        "price": {
+          "min": 27.85,
+          "max": 126.24,
+          "mean": 44.55,
+          "median": 34.52,
+          "suggested": 31.74,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "FAMAS | Sergeant (Field-Tested)",
+        "price": {
+          "min": 2.75,
+          "max": 15.77,
+          "mean": 4.49,
+          "median": 3.72,
+          "suggested": 3.79,
+          "quantity": 113,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "FAMAS | Sergeant (Well-Worn)",
+        "price": {
+          "min": 1.91,
+          "max": 378.54,
+          "mean": 15.63,
+          "median": 2.71,
+          "suggested": 2.72,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "FAMAS | Sergeant (Battle-Scarred)",
+        "price": {
+          "min": 1.84,
+          "max": 41.48,
+          "mean": 3.82,
+          "median": 2.77,
+          "suggested": 2.23,
+          "quantity": 56,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "mw": {
+        "market_hash_name": "StatTrak™ FAMAS | Sergeant (Minimal Wear)",
+        "price": {
+          "min": 20.27,
+          "max": 133.45,
+          "mean": 58.22,
+          "median": 20.95,
+          "suggested": 23.65,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ FAMAS | Sergeant (Field-Tested)",
+        "price": {
+          "min": 5.5,
+          "max": 22.37,
+          "mean": 7.41,
+          "median": 6.34,
+          "suggested": 7.01,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ FAMAS | Sergeant (Well-Worn)",
+        "price": {
+          "min": 4.04,
+          "max": 25.24,
+          "mean": 7.36,
+          "median": 5.04,
+          "suggested": 5.21,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ FAMAS | Sergeant (Battle-Scarred)",
+        "price": {
+          "min": 3.49,
+          "max": 69.98,
+          "mean": 6.94,
+          "median": 3.96,
+          "suggested": 4.5,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "mw": {
+        "market_hash_name": "Souvenir FAMAS | Sergeant (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir FAMAS | Sergeant (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir FAMAS | Sergeant (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir FAMAS | Sergeant (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:29.372Z"
+}

@@ -1,0 +1,204 @@
+{
+  "id": "skin-aba169232063",
+  "name": "★ Specialist Gloves | Sunburst",
+  "paint_index": "1416",
+  "weapon": {
+    "id": "specialist_gloves",
+    "weapon_id": 5034,
+    "name": "Specialist Gloves",
+    "slug": "specialist_gloves"
+  },
+  "pattern": {
+    "id": "glove_specialist_sunburst_red",
+    "name": "Sunburst"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_gloves",
+    "name": "Gloves"
+  },
+  "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Durable, breathable, and stylish; these gloves are designed to take (and give) a beating.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 404.99,
+      "max": 471.28,
+      "mean": 430.53,
+      "median": 415.31,
+      "suggested": 569.18,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 227.28,
+      "max": 365.04,
+      "mean": 287.18,
+      "median": 289.27,
+      "suggested": 269.04,
+      "quantity": 24,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 206.63,
+      "max": 210.05,
+      "mean": 208.34,
+      "median": 208.34,
+      "suggested": 244.68,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 150.53,
+      "max": 198.37,
+      "mean": 167.86,
+      "median": 163.98,
+      "suggested": 184.07,
+      "quantity": 8,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Specialist Gloves | Sunburst (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Specialist Gloves | Sunburst (Minimal Wear)",
+      "price": {
+        "min": 404.99,
+        "max": 471.28,
+        "mean": 430.53,
+        "median": 415.31,
+        "suggested": 569.18,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Specialist Gloves | Sunburst (Field-Tested)",
+      "price": {
+        "min": 227.28,
+        "max": 365.04,
+        "mean": 287.18,
+        "median": 289.27,
+        "suggested": 269.04,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Specialist Gloves | Sunburst (Well-Worn)",
+      "price": {
+        "min": 206.63,
+        "max": 210.05,
+        "mean": 208.34,
+        "median": 208.34,
+        "suggested": 244.68,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Specialist Gloves | Sunburst (Battle-Scarred)",
+      "price": {
+        "min": 150.53,
+        "max": 198.37,
+        "mean": 167.86,
+        "median": 163.98,
+        "suggested": 184.07,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Specialist Gloves | Sunburst (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Specialist Gloves | Sunburst (Minimal Wear)",
+        "price": {
+          "min": 404.99,
+          "max": 471.28,
+          "mean": 430.53,
+          "median": 415.31,
+          "suggested": 569.18,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Specialist Gloves | Sunburst (Field-Tested)",
+        "price": {
+          "min": 227.28,
+          "max": 365.04,
+          "mean": 287.18,
+          "median": 289.27,
+          "suggested": 269.04,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Specialist Gloves | Sunburst (Well-Worn)",
+        "price": {
+          "min": 206.63,
+          "max": 210.05,
+          "mean": 208.34,
+          "median": 208.34,
+          "suggested": 244.68,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Specialist Gloves | Sunburst (Battle-Scarred)",
+        "price": {
+          "min": 150.53,
+          "max": 198.37,
+          "mean": 167.86,
+          "median": 163.98,
+          "suggested": 184.07,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:23.659Z"
+}

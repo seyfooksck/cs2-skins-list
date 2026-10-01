@@ -1,0 +1,289 @@
+{
+  "id": "skin-a063f92abc42",
+  "name": "MP7 | Prey",
+  "paint_index": "935",
+  "weapon": {
+    "id": "weapon_mp7",
+    "weapon_id": 33,
+    "name": "MP7",
+    "slug": "mp7"
+  },
+  "pattern": {
+    "id": "sp_zebracam_red",
+    "name": "Prey"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 0.48,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been spray-painted with a rust colored zebra stripe pattern.\\n\\n<i>Eat, sleep, hunt, repeat</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.27,
+      "max": 233.97,
+      "mean": 14.15,
+      "median": 5.25,
+      "suggested": 1.57,
+      "quantity": 66,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.33,
+      "max": 23.28,
+      "mean": 3.96,
+      "median": 0.83,
+      "suggested": 0.31,
+      "quantity": 17,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.18,
+      "max": 22.76,
+      "mean": 2.45,
+      "median": 0.39,
+      "suggested": 0.22,
+      "quantity": 31,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.42,
+      "max": 0.81,
+      "mean": 0.55,
+      "median": 0.48,
+      "suggested": 0.5,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.88,
+      "max": 2.03,
+      "mean": 1.46,
+      "median": 1.46,
+      "suggested": 0.52,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP7 | Prey (Factory New)",
+      "price": {
+        "min": 1.27,
+        "max": 233.97,
+        "mean": 14.15,
+        "median": 5.25,
+        "suggested": 1.57,
+        "quantity": 66,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP7 | Prey (Minimal Wear)",
+      "price": {
+        "min": 0.33,
+        "max": 23.28,
+        "mean": 3.96,
+        "median": 0.83,
+        "suggested": 0.31,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP7 | Prey (Field-Tested)",
+      "price": {
+        "min": 0.18,
+        "max": 22.76,
+        "mean": 2.45,
+        "median": 0.39,
+        "suggested": 0.22,
+        "quantity": 31,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP7 | Prey (Well-Worn)",
+      "price": {
+        "min": 0.42,
+        "max": 0.81,
+        "mean": 0.55,
+        "median": 0.48,
+        "suggested": 0.5,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP7 | Prey (Battle-Scarred)",
+      "price": {
+        "min": 0.88,
+        "max": 2.03,
+        "mean": 1.46,
+        "median": 1.46,
+        "suggested": 0.52,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP7 | Prey (Factory New)",
+        "price": {
+          "min": 1.27,
+          "max": 233.97,
+          "mean": 14.15,
+          "median": 5.25,
+          "suggested": 1.57,
+          "quantity": 66,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP7 | Prey (Minimal Wear)",
+        "price": {
+          "min": 0.33,
+          "max": 23.28,
+          "mean": 3.96,
+          "median": 0.83,
+          "suggested": 0.31,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP7 | Prey (Field-Tested)",
+        "price": {
+          "min": 0.18,
+          "max": 22.76,
+          "mean": 2.45,
+          "median": 0.39,
+          "suggested": 0.22,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP7 | Prey (Well-Worn)",
+        "price": {
+          "min": 0.42,
+          "max": 0.81,
+          "mean": 0.55,
+          "median": 0.48,
+          "suggested": 0.5,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP7 | Prey (Battle-Scarred)",
+        "price": {
+          "min": 0.88,
+          "max": 2.03,
+          "mean": 1.46,
+          "median": 1.46,
+          "suggested": 0.52,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP7 | Prey (Factory New)",
+        "price": {
+          "min": 0.32,
+          "max": 25.32,
+          "mean": 2.47,
+          "median": 0.92,
+          "suggested": 0.35,
+          "quantity": 228,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP7 | Prey (Minimal Wear)",
+        "price": {
+          "min": 0.12,
+          "max": 20.48,
+          "mean": 1.93,
+          "median": 0.39,
+          "suggested": 0.17,
+          "quantity": 282,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP7 | Prey (Field-Tested)",
+        "price": {
+          "min": 0.08,
+          "max": 36.4,
+          "mean": 3.54,
+          "median": 1.17,
+          "suggested": 0.08,
+          "quantity": 761,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP7 | Prey (Well-Worn)",
+        "price": {
+          "min": 0.09,
+          "max": 17.5,
+          "mean": 2.91,
+          "median": 0.26,
+          "suggested": 0.1,
+          "quantity": 75,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP7 | Prey (Battle-Scarred)",
+        "price": {
+          "min": 0.09,
+          "max": 7.99,
+          "mean": 0.72,
+          "median": 0.26,
+          "suggested": 0.14,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:43.434Z"
+}

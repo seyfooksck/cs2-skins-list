@@ -1,0 +1,310 @@
+{
+  "id": "skin-9b785997e60c",
+  "name": "MP9 | Capillary",
+  "paint_index": "715",
+  "weapon": {
+    "id": "weapon_mp9",
+    "weapon_id": 34,
+    "name": "MP9",
+    "slug": "mp9"
+  },
+  "pattern": {
+    "id": "cu_mp9_vein",
+    "name": "Capillary"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. A custom paint job comprised of intricate teal and coral veins has been applied.\\n\\n<i>857 bpm</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.54,
+      "max": 35,
+      "mean": 6.06,
+      "median": 3.8,
+      "suggested": 4.22,
+      "quantity": 54,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.6,
+      "max": 6.01,
+      "mean": 0.96,
+      "median": 0.74,
+      "suggested": 0.86,
+      "quantity": 89,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.41,
+      "max": 16.34,
+      "mean": 0.79,
+      "median": 0.51,
+      "suggested": 0.65,
+      "quantity": 218,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.42,
+      "max": 2.33,
+      "mean": 1.35,
+      "median": 0.76,
+      "suggested": 0.5,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.3,
+      "max": 2.21,
+      "mean": 0.42,
+      "median": 0.34,
+      "suggested": 0.4,
+      "quantity": 52,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP9 | Capillary (Factory New)",
+      "price": {
+        "min": 2.54,
+        "max": 35,
+        "mean": 6.06,
+        "median": 3.8,
+        "suggested": 4.22,
+        "quantity": 54,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP9 | Capillary (Minimal Wear)",
+      "price": {
+        "min": 0.6,
+        "max": 6.01,
+        "mean": 0.96,
+        "median": 0.74,
+        "suggested": 0.86,
+        "quantity": 89,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP9 | Capillary (Field-Tested)",
+      "price": {
+        "min": 0.41,
+        "max": 16.34,
+        "mean": 0.79,
+        "median": 0.51,
+        "suggested": 0.65,
+        "quantity": 218,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP9 | Capillary (Well-Worn)",
+      "price": {
+        "min": 0.42,
+        "max": 2.33,
+        "mean": 1.35,
+        "median": 0.76,
+        "suggested": 0.5,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP9 | Capillary (Battle-Scarred)",
+      "price": {
+        "min": 0.3,
+        "max": 2.21,
+        "mean": 0.42,
+        "median": 0.34,
+        "suggested": 0.4,
+        "quantity": 52,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP9 | Capillary (Factory New)",
+        "price": {
+          "min": 2.54,
+          "max": 35,
+          "mean": 6.06,
+          "median": 3.8,
+          "suggested": 4.22,
+          "quantity": 54,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP9 | Capillary (Minimal Wear)",
+        "price": {
+          "min": 0.6,
+          "max": 6.01,
+          "mean": 0.96,
+          "median": 0.74,
+          "suggested": 0.86,
+          "quantity": 89,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP9 | Capillary (Field-Tested)",
+        "price": {
+          "min": 0.41,
+          "max": 16.34,
+          "mean": 0.79,
+          "median": 0.51,
+          "suggested": 0.65,
+          "quantity": 218,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP9 | Capillary (Well-Worn)",
+        "price": {
+          "min": 0.42,
+          "max": 2.33,
+          "mean": 1.35,
+          "median": 0.76,
+          "suggested": 0.5,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP9 | Capillary (Battle-Scarred)",
+        "price": {
+          "min": 0.3,
+          "max": 2.21,
+          "mean": 0.42,
+          "median": 0.34,
+          "suggested": 0.4,
+          "quantity": 52,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MP9 | Capillary (Factory New)",
+        "price": {
+          "min": 2.05,
+          "max": 28.86,
+          "mean": 5.96,
+          "median": 2.74,
+          "suggested": 2.57,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MP9 | Capillary (Minimal Wear)",
+        "price": {
+          "min": 1.02,
+          "max": 4.67,
+          "mean": 1.42,
+          "median": 1.21,
+          "suggested": 1.27,
+          "quantity": 49,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MP9 | Capillary (Field-Tested)",
+        "price": {
+          "min": 0.44,
+          "max": 22.67,
+          "mean": 0.84,
+          "median": 0.56,
+          "suggested": 0.58,
+          "quantity": 102,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MP9 | Capillary (Well-Worn)",
+        "price": {
+          "min": 0.56,
+          "max": 1.21,
+          "mean": 0.78,
+          "median": 0.78,
+          "suggested": 0.69,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MP9 | Capillary (Battle-Scarred)",
+        "price": {
+          "min": 0.37,
+          "max": 9.38,
+          "mean": 0.83,
+          "median": 0.42,
+          "suggested": 0.46,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP9 | Capillary (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP9 | Capillary (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP9 | Capillary (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP9 | Capillary (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP9 | Capillary (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:43.722Z"
+}

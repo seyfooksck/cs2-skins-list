@@ -1,0 +1,145 @@
+{
+  "id": "skin-b9e7dc445655",
+  "name": "★ Navaja Knife | Fade",
+  "paint_index": "38",
+  "weapon": {
+    "id": "weapon_knife_gypsy_jackknife",
+    "weapon_id": 520,
+    "name": "Navaja Knife",
+    "slug": "knife_gypsy_jackknife"
+  },
+  "pattern": {
+    "id": "aa_fade",
+    "name": "Fade"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This marble-enamel-handled flip knife conceals a small but viciously tapered blade. It has been painted by airbrushing transparent paints that fade together over a chrome base coat.\\n\\n<i>This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 105.02,
+      "max": 437.74,
+      "mean": 176.71,
+      "median": 135.11,
+      "suggested": 136.15,
+      "quantity": 31,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 314.37,
+      "max": 484.06,
+      "mean": 399.22,
+      "median": 399.22,
+      "suggested": 155.58,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Navaja Knife | Fade (Factory New)",
+      "price": {
+        "min": 105.02,
+        "max": 437.74,
+        "mean": 176.71,
+        "median": 135.11,
+        "suggested": 136.15,
+        "quantity": 31,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Navaja Knife | Fade (Minimal Wear)",
+      "price": {
+        "min": 314.37,
+        "max": 484.06,
+        "mean": 399.22,
+        "median": 399.22,
+        "suggested": 155.58,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Navaja Knife | Fade (Factory New)",
+        "price": {
+          "min": 105.02,
+          "max": 437.74,
+          "mean": 176.71,
+          "median": 135.11,
+          "suggested": 136.15,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Navaja Knife | Fade (Minimal Wear)",
+        "price": {
+          "min": 314.37,
+          "max": 484.06,
+          "mean": 399.22,
+          "median": 399.22,
+          "suggested": 155.58,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Navaja Knife | Fade (Factory New)",
+        "price": {
+          "min": 197.8,
+          "max": 268.34,
+          "mean": 227.18,
+          "median": 221.29,
+          "suggested": 155.68,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Navaja Knife | Fade (Minimal Wear)",
+        "price": {
+          "min": 240.1,
+          "max": 240.1,
+          "mean": 240.1,
+          "median": 240.1,
+          "suggested": 250.28,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:35.333Z"
+}

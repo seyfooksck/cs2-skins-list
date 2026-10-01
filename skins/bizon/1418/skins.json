@@ -1,0 +1,310 @@
+{
+  "id": "skin-fb5805d13a5e",
+  "name": "PP-Bizon | RMX",
+  "paint_index": "1418",
+  "weapon": {
+    "id": "weapon_bizon",
+    "weapon_id": 26,
+    "name": "PP-Bizon",
+    "slug": "bizon"
+  },
+  "pattern": {
+    "id": "bizon_rmx",
+    "name": "RMX"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly. It has been custom painted with a purple gradient and a red and white design.\\n\\n<i>Light, fast, and dangerous... in theory</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.23,
+      "max": 28.13,
+      "mean": 4.4,
+      "median": 3.26,
+      "suggested": 1.43,
+      "quantity": 22,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.25,
+      "max": 0.63,
+      "mean": 0.34,
+      "median": 0.33,
+      "suggested": 0.31,
+      "quantity": 79,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.11,
+      "max": 0.57,
+      "mean": 0.19,
+      "median": 0.18,
+      "suggested": 0.16,
+      "quantity": 134,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.08,
+      "max": 0.79,
+      "mean": 0.19,
+      "median": 0.16,
+      "suggested": 0.1,
+      "quantity": 48,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.07,
+      "max": 0.35,
+      "mean": 0.14,
+      "median": 0.13,
+      "suggested": 0.1,
+      "quantity": 61,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "PP-Bizon | RMX (Factory New)",
+      "price": {
+        "min": 1.23,
+        "max": 28.13,
+        "mean": 4.4,
+        "median": 3.26,
+        "suggested": 1.43,
+        "quantity": 22,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "PP-Bizon | RMX (Minimal Wear)",
+      "price": {
+        "min": 0.25,
+        "max": 0.63,
+        "mean": 0.34,
+        "median": 0.33,
+        "suggested": 0.31,
+        "quantity": 79,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "PP-Bizon | RMX (Field-Tested)",
+      "price": {
+        "min": 0.11,
+        "max": 0.57,
+        "mean": 0.19,
+        "median": 0.18,
+        "suggested": 0.16,
+        "quantity": 134,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "PP-Bizon | RMX (Well-Worn)",
+      "price": {
+        "min": 0.08,
+        "max": 0.79,
+        "mean": 0.19,
+        "median": 0.16,
+        "suggested": 0.1,
+        "quantity": 48,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "PP-Bizon | RMX (Battle-Scarred)",
+      "price": {
+        "min": 0.07,
+        "max": 0.35,
+        "mean": 0.14,
+        "median": 0.13,
+        "suggested": 0.1,
+        "quantity": 61,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "PP-Bizon | RMX (Factory New)",
+        "price": {
+          "min": 1.23,
+          "max": 28.13,
+          "mean": 4.4,
+          "median": 3.26,
+          "suggested": 1.43,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "PP-Bizon | RMX (Minimal Wear)",
+        "price": {
+          "min": 0.25,
+          "max": 0.63,
+          "mean": 0.34,
+          "median": 0.33,
+          "suggested": 0.31,
+          "quantity": 79,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "PP-Bizon | RMX (Field-Tested)",
+        "price": {
+          "min": 0.11,
+          "max": 0.57,
+          "mean": 0.19,
+          "median": 0.18,
+          "suggested": 0.16,
+          "quantity": 134,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "PP-Bizon | RMX (Well-Worn)",
+        "price": {
+          "min": 0.08,
+          "max": 0.79,
+          "mean": 0.19,
+          "median": 0.16,
+          "suggested": 0.1,
+          "quantity": 48,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "PP-Bizon | RMX (Battle-Scarred)",
+        "price": {
+          "min": 0.07,
+          "max": 0.35,
+          "mean": 0.14,
+          "median": 0.13,
+          "suggested": 0.1,
+          "quantity": 61,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ PP-Bizon | RMX (Factory New)",
+        "price": {
+          "min": 1.58,
+          "max": 29.17,
+          "mean": 7.59,
+          "median": 2.47,
+          "suggested": 2.34,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ PP-Bizon | RMX (Minimal Wear)",
+        "price": {
+          "min": 0.64,
+          "max": 3.97,
+          "mean": 0.93,
+          "median": 0.74,
+          "suggested": 0.76,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ PP-Bizon | RMX (Field-Tested)",
+        "price": {
+          "min": 0.23,
+          "max": 0.86,
+          "mean": 0.41,
+          "median": 0.35,
+          "suggested": 0.29,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ PP-Bizon | RMX (Well-Worn)",
+        "price": {
+          "min": 0.21,
+          "max": 1.23,
+          "mean": 0.56,
+          "median": 0.41,
+          "suggested": 0.24,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ PP-Bizon | RMX (Battle-Scarred)",
+        "price": {
+          "min": 0.18,
+          "max": 0.41,
+          "mean": 0.26,
+          "median": 0.23,
+          "suggested": 0.21,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir PP-Bizon | RMX (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir PP-Bizon | RMX (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir PP-Bizon | RMX (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir PP-Bizon | RMX (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir PP-Bizon | RMX (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:26.943Z"
+}

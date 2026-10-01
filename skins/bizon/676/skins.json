@@ -1,0 +1,310 @@
+{
+  "id": "skin-a0695188a122",
+  "name": "PP-Bizon | High Roller",
+  "paint_index": "676",
+  "weapon": {
+    "id": "weapon_bizon",
+    "weapon_id": 26,
+    "name": "PP-Bizon",
+    "slug": "bizon"
+  },
+  "pattern": {
+    "id": "cu_bizon_all_in",
+    "name": "High Roller"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly. It has been custom painted with poker chips, dice, and a royal flush over a red base.\\n\\n<i>All in</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 34.66,
+      "max": 238.04,
+      "mean": 66.92,
+      "median": 46.49,
+      "suggested": 40,
+      "quantity": 30,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 11.17,
+      "max": 25.11,
+      "mean": 13.22,
+      "median": 12.63,
+      "suggested": 14.25,
+      "quantity": 61,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 10.27,
+      "max": 107.14,
+      "mean": 12.1,
+      "median": 10.88,
+      "suggested": 13.06,
+      "quantity": 116,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 10.21,
+      "max": 21.86,
+      "mean": 11.88,
+      "median": 10.65,
+      "suggested": 12.2,
+      "quantity": 20,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 9.39,
+      "max": 80.61,
+      "mean": 14.52,
+      "median": 9.95,
+      "suggested": 11.69,
+      "quantity": 21,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "PP-Bizon | High Roller (Factory New)",
+      "price": {
+        "min": 34.66,
+        "max": 238.04,
+        "mean": 66.92,
+        "median": 46.49,
+        "suggested": 40,
+        "quantity": 30,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "PP-Bizon | High Roller (Minimal Wear)",
+      "price": {
+        "min": 11.17,
+        "max": 25.11,
+        "mean": 13.22,
+        "median": 12.63,
+        "suggested": 14.25,
+        "quantity": 61,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "PP-Bizon | High Roller (Field-Tested)",
+      "price": {
+        "min": 10.27,
+        "max": 107.14,
+        "mean": 12.1,
+        "median": 10.88,
+        "suggested": 13.06,
+        "quantity": 116,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "PP-Bizon | High Roller (Well-Worn)",
+      "price": {
+        "min": 10.21,
+        "max": 21.86,
+        "mean": 11.88,
+        "median": 10.65,
+        "suggested": 12.2,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "PP-Bizon | High Roller (Battle-Scarred)",
+      "price": {
+        "min": 9.39,
+        "max": 80.61,
+        "mean": 14.52,
+        "median": 9.95,
+        "suggested": 11.69,
+        "quantity": 21,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "PP-Bizon | High Roller (Factory New)",
+        "price": {
+          "min": 34.66,
+          "max": 238.04,
+          "mean": 66.92,
+          "median": 46.49,
+          "suggested": 40,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "PP-Bizon | High Roller (Minimal Wear)",
+        "price": {
+          "min": 11.17,
+          "max": 25.11,
+          "mean": 13.22,
+          "median": 12.63,
+          "suggested": 14.25,
+          "quantity": 61,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "PP-Bizon | High Roller (Field-Tested)",
+        "price": {
+          "min": 10.27,
+          "max": 107.14,
+          "mean": 12.1,
+          "median": 10.88,
+          "suggested": 13.06,
+          "quantity": 116,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "PP-Bizon | High Roller (Well-Worn)",
+        "price": {
+          "min": 10.21,
+          "max": 21.86,
+          "mean": 11.88,
+          "median": 10.65,
+          "suggested": 12.2,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "PP-Bizon | High Roller (Battle-Scarred)",
+        "price": {
+          "min": 9.39,
+          "max": 80.61,
+          "mean": 14.52,
+          "median": 9.95,
+          "suggested": 11.69,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ PP-Bizon | High Roller (Factory New)",
+        "price": {
+          "min": 51.85,
+          "max": 86,
+          "mean": 64.62,
+          "median": 56.01,
+          "suggested": 53.98,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ PP-Bizon | High Roller (Minimal Wear)",
+        "price": {
+          "min": 16.97,
+          "max": 29.17,
+          "mean": 21.26,
+          "median": 19.03,
+          "suggested": 19.99,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ PP-Bizon | High Roller (Field-Tested)",
+        "price": {
+          "min": 10.5,
+          "max": 29.98,
+          "mean": 13.01,
+          "median": 11.23,
+          "suggested": 12.44,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ PP-Bizon | High Roller (Well-Worn)",
+        "price": {
+          "min": 9.6,
+          "max": 23.34,
+          "mean": 11.69,
+          "median": 9.7,
+          "suggested": 11.23,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ PP-Bizon | High Roller (Battle-Scarred)",
+        "price": {
+          "min": 9.58,
+          "max": 17.5,
+          "mean": 13.55,
+          "median": 13.55,
+          "suggested": 11.52,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir PP-Bizon | High Roller (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir PP-Bizon | High Roller (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir PP-Bizon | High Roller (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir PP-Bizon | High Roller (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir PP-Bizon | High Roller (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:26.987Z"
+}

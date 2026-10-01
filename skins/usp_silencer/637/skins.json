@@ -1,0 +1,310 @@
+{
+  "id": "skin-95653cc7fb0e",
+  "name": "USP-S | Cyrex",
+  "paint_index": "637",
+  "weapon": {
+    "id": "weapon_usp_silencer",
+    "weapon_id": 61,
+    "name": "USP-S",
+    "slug": "usp_silencer"
+  },
+  "pattern": {
+    "id": "cu_usp_cyrex",
+    "name": "Cyrex"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.55,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise. It has been given discreet red highlights to give off a futuristic feel.\\n\\n<i>Imogen was the past Felix, I'm the future - Huxley, The Competition</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 57.18,
+      "max": 133.88,
+      "mean": 79.05,
+      "median": 77.55,
+      "suggested": 92.21,
+      "quantity": 116,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 7.24,
+      "max": 64.24,
+      "mean": 14.46,
+      "median": 9.52,
+      "suggested": 10.6,
+      "quantity": 103,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 3.85,
+      "max": 134.19,
+      "mean": 12.44,
+      "median": 6.03,
+      "suggested": 4.76,
+      "quantity": 145,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 3.78,
+      "max": 6.44,
+      "mean": 4.59,
+      "median": 4.35,
+      "suggested": 4.4,
+      "quantity": 26,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 3.42,
+      "max": 6.21,
+      "mean": 4.55,
+      "median": 4.14,
+      "suggested": 4.49,
+      "quantity": 8,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "USP-S | Cyrex (Factory New)",
+      "price": {
+        "min": 57.18,
+        "max": 133.88,
+        "mean": 79.05,
+        "median": 77.55,
+        "suggested": 92.21,
+        "quantity": 116,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "USP-S | Cyrex (Minimal Wear)",
+      "price": {
+        "min": 7.24,
+        "max": 64.24,
+        "mean": 14.46,
+        "median": 9.52,
+        "suggested": 10.6,
+        "quantity": 103,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "USP-S | Cyrex (Field-Tested)",
+      "price": {
+        "min": 3.85,
+        "max": 134.19,
+        "mean": 12.44,
+        "median": 6.03,
+        "suggested": 4.76,
+        "quantity": 145,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "USP-S | Cyrex (Well-Worn)",
+      "price": {
+        "min": 3.78,
+        "max": 6.44,
+        "mean": 4.59,
+        "median": 4.35,
+        "suggested": 4.4,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "USP-S | Cyrex (Battle-Scarred)",
+      "price": {
+        "min": 3.42,
+        "max": 6.21,
+        "mean": 4.55,
+        "median": 4.14,
+        "suggested": 4.49,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "USP-S | Cyrex (Factory New)",
+        "price": {
+          "min": 57.18,
+          "max": 133.88,
+          "mean": 79.05,
+          "median": 77.55,
+          "suggested": 92.21,
+          "quantity": 116,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "USP-S | Cyrex (Minimal Wear)",
+        "price": {
+          "min": 7.24,
+          "max": 64.24,
+          "mean": 14.46,
+          "median": 9.52,
+          "suggested": 10.6,
+          "quantity": 103,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "USP-S | Cyrex (Field-Tested)",
+        "price": {
+          "min": 3.85,
+          "max": 134.19,
+          "mean": 12.44,
+          "median": 6.03,
+          "suggested": 4.76,
+          "quantity": 145,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "USP-S | Cyrex (Well-Worn)",
+        "price": {
+          "min": 3.78,
+          "max": 6.44,
+          "mean": 4.59,
+          "median": 4.35,
+          "suggested": 4.4,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "USP-S | Cyrex (Battle-Scarred)",
+        "price": {
+          "min": 3.42,
+          "max": 6.21,
+          "mean": 4.55,
+          "median": 4.14,
+          "suggested": 4.49,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ USP-S | Cyrex (Factory New)",
+        "price": {
+          "min": 19.41,
+          "max": 136.94,
+          "mean": 28.05,
+          "median": 22.5,
+          "suggested": 26.05,
+          "quantity": 53,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ USP-S | Cyrex (Minimal Wear)",
+        "price": {
+          "min": 9.73,
+          "max": 233.38,
+          "mean": 35.26,
+          "median": 14.8,
+          "suggested": 11.84,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ USP-S | Cyrex (Field-Tested)",
+        "price": {
+          "min": 4.5,
+          "max": 16.4,
+          "mean": 7.41,
+          "median": 7.16,
+          "suggested": 5.29,
+          "quantity": 53,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ USP-S | Cyrex (Well-Worn)",
+        "price": {
+          "min": 5.23,
+          "max": 11.32,
+          "mean": 6.99,
+          "median": 6.21,
+          "suggested": 6,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ USP-S | Cyrex (Battle-Scarred)",
+        "price": {
+          "min": 4.98,
+          "max": 7.41,
+          "mean": 6.29,
+          "median": 6.13,
+          "suggested": 5.33,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir USP-S | Cyrex (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir USP-S | Cyrex (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir USP-S | Cyrex (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir USP-S | Cyrex (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir USP-S | Cyrex (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:50.473Z"
+}

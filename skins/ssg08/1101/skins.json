@@ -1,0 +1,310 @@
+{
+  "id": "skin-32bcc9d7f929",
+  "name": "SSG 08 | Turbo Peek",
+  "paint_index": "1101",
+  "weapon": {
+    "id": "weapon_ssg08",
+    "weapon_id": 40,
+    "name": "SSG 08",
+    "slug": "ssg08"
+  },
+  "pattern": {
+    "id": "cu_ssg_overtake",
+    "name": "Turbo Peek"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship. Sports cars race down the side of this custom painted, neon-colored sniper rifle.\\n\\n<i>Drifting is a right not a privilege</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 61.63,
+      "max": 233.39,
+      "mean": 97.33,
+      "median": 85.62,
+      "suggested": 75.82,
+      "quantity": 48,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 27.7,
+      "max": 314.84,
+      "mean": 42.53,
+      "median": 35.1,
+      "suggested": 35.68,
+      "quantity": 74,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 18.67,
+      "max": 67.99,
+      "mean": 24.87,
+      "median": 23.33,
+      "suggested": 22.51,
+      "quantity": 94,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 17.45,
+      "max": 32.66,
+      "mean": 21.56,
+      "median": 19.13,
+      "suggested": 21.87,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 15.4,
+      "max": 23.65,
+      "mean": 18.79,
+      "median": 17.85,
+      "suggested": 20.93,
+      "quantity": 6,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SSG 08 | Turbo Peek (Factory New)",
+      "price": {
+        "min": 61.63,
+        "max": 233.39,
+        "mean": 97.33,
+        "median": 85.62,
+        "suggested": 75.82,
+        "quantity": 48,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SSG 08 | Turbo Peek (Minimal Wear)",
+      "price": {
+        "min": 27.7,
+        "max": 314.84,
+        "mean": 42.53,
+        "median": 35.1,
+        "suggested": 35.68,
+        "quantity": 74,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "SSG 08 | Turbo Peek (Field-Tested)",
+      "price": {
+        "min": 18.67,
+        "max": 67.99,
+        "mean": 24.87,
+        "median": 23.33,
+        "suggested": 22.51,
+        "quantity": 94,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "SSG 08 | Turbo Peek (Well-Worn)",
+      "price": {
+        "min": 17.45,
+        "max": 32.66,
+        "mean": 21.56,
+        "median": 19.13,
+        "suggested": 21.87,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "SSG 08 | Turbo Peek (Battle-Scarred)",
+      "price": {
+        "min": 15.4,
+        "max": 23.65,
+        "mean": 18.79,
+        "median": 17.85,
+        "suggested": 20.93,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SSG 08 | Turbo Peek (Factory New)",
+        "price": {
+          "min": 61.63,
+          "max": 233.39,
+          "mean": 97.33,
+          "median": 85.62,
+          "suggested": 75.82,
+          "quantity": 48,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "SSG 08 | Turbo Peek (Minimal Wear)",
+        "price": {
+          "min": 27.7,
+          "max": 314.84,
+          "mean": 42.53,
+          "median": 35.1,
+          "suggested": 35.68,
+          "quantity": 74,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "SSG 08 | Turbo Peek (Field-Tested)",
+        "price": {
+          "min": 18.67,
+          "max": 67.99,
+          "mean": 24.87,
+          "median": 23.33,
+          "suggested": 22.51,
+          "quantity": 94,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "SSG 08 | Turbo Peek (Well-Worn)",
+        "price": {
+          "min": 17.45,
+          "max": 32.66,
+          "mean": 21.56,
+          "median": 19.13,
+          "suggested": 21.87,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "SSG 08 | Turbo Peek (Battle-Scarred)",
+        "price": {
+          "min": 15.4,
+          "max": 23.65,
+          "mean": 18.79,
+          "median": 17.85,
+          "suggested": 20.93,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ SSG 08 | Turbo Peek (Factory New)",
+        "price": {
+          "min": 83.74,
+          "max": 124.86,
+          "mean": 106.81,
+          "median": 105.86,
+          "suggested": 118.25,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ SSG 08 | Turbo Peek (Minimal Wear)",
+        "price": {
+          "min": 54.85,
+          "max": 97.1,
+          "mean": 72.83,
+          "median": 64.18,
+          "suggested": 68.92,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ SSG 08 | Turbo Peek (Field-Tested)",
+        "price": {
+          "min": 28.62,
+          "max": 42.01,
+          "mean": 34.23,
+          "median": 33,
+          "suggested": 35.98,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ SSG 08 | Turbo Peek (Well-Worn)",
+        "price": {
+          "min": 28.25,
+          "max": 28.25,
+          "mean": 28.25,
+          "median": 28.25,
+          "suggested": 30.68,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ SSG 08 | Turbo Peek (Battle-Scarred)",
+        "price": {
+          "min": 32.44,
+          "max": 38.38,
+          "mean": 35.42,
+          "median": 35.42,
+          "suggested": 34.05,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SSG 08 | Turbo Peek (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir SSG 08 | Turbo Peek (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir SSG 08 | Turbo Peek (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir SSG 08 | Turbo Peek (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir SSG 08 | Turbo Peek (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:48.528Z"
+}

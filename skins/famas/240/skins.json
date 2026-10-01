@@ -1,0 +1,289 @@
+{
+  "id": "skin-05b6323df391",
+  "name": "FAMAS | CaliCamo",
+  "paint_index": "240",
+  "weapon": {
+    "id": "weapon_famas",
+    "weapon_id": 10,
+    "name": "FAMAS",
+    "slug": "famas"
+  },
+  "pattern": {
+    "id": "hy_varicamo_desert",
+    "name": "CaliCamo"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. It has been painted using a VariCamo patterned hydrographic.\\n\\n<i>Rebuilding only comes in the wake of destruction</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 5.82,
+      "max": 82.35,
+      "mean": 31.43,
+      "median": 23.34,
+      "suggested": 6.32,
+      "quantity": 36,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.26,
+      "max": 28.39,
+      "mean": 9.07,
+      "median": 8.81,
+      "suggested": 1,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.34,
+      "max": 131.28,
+      "mean": 7.52,
+      "median": 5.82,
+      "suggested": 0.36,
+      "quantity": 48,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.69,
+      "max": 5.34,
+      "mean": 3.86,
+      "median": 4.1,
+      "suggested": 0.46,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 2.05,
+      "max": 21.64,
+      "mean": 6.49,
+      "median": 2.95,
+      "suggested": 0.39,
+      "quantity": 5,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "FAMAS | CaliCamo (Factory New)",
+      "price": {
+        "min": 5.82,
+        "max": 82.35,
+        "mean": 31.43,
+        "median": 23.34,
+        "suggested": 6.32,
+        "quantity": 36,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "FAMAS | CaliCamo (Minimal Wear)",
+      "price": {
+        "min": 1.26,
+        "max": 28.39,
+        "mean": 9.07,
+        "median": 8.81,
+        "suggested": 1,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "FAMAS | CaliCamo (Field-Tested)",
+      "price": {
+        "min": 0.34,
+        "max": 131.28,
+        "mean": 7.52,
+        "median": 5.82,
+        "suggested": 0.36,
+        "quantity": 48,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "FAMAS | CaliCamo (Well-Worn)",
+      "price": {
+        "min": 0.69,
+        "max": 5.34,
+        "mean": 3.86,
+        "median": 4.1,
+        "suggested": 0.46,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "FAMAS | CaliCamo (Battle-Scarred)",
+      "price": {
+        "min": 2.05,
+        "max": 21.64,
+        "mean": 6.49,
+        "median": 2.95,
+        "suggested": 0.39,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "FAMAS | CaliCamo (Factory New)",
+        "price": {
+          "min": 5.82,
+          "max": 82.35,
+          "mean": 31.43,
+          "median": 23.34,
+          "suggested": 6.32,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "FAMAS | CaliCamo (Minimal Wear)",
+        "price": {
+          "min": 1.26,
+          "max": 28.39,
+          "mean": 9.07,
+          "median": 8.81,
+          "suggested": 1,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "FAMAS | CaliCamo (Field-Tested)",
+        "price": {
+          "min": 0.34,
+          "max": 131.28,
+          "mean": 7.52,
+          "median": 5.82,
+          "suggested": 0.36,
+          "quantity": 48,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "FAMAS | CaliCamo (Well-Worn)",
+        "price": {
+          "min": 0.69,
+          "max": 5.34,
+          "mean": 3.86,
+          "median": 4.1,
+          "suggested": 0.46,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "FAMAS | CaliCamo (Battle-Scarred)",
+        "price": {
+          "min": 2.05,
+          "max": 21.64,
+          "mean": 6.49,
+          "median": 2.95,
+          "suggested": 0.39,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir FAMAS | CaliCamo (Factory New)",
+        "price": {
+          "min": 2.21,
+          "max": 133.14,
+          "mean": 12.09,
+          "median": 5.18,
+          "suggested": 2.01,
+          "quantity": 59,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir FAMAS | CaliCamo (Minimal Wear)",
+        "price": {
+          "min": 1.46,
+          "max": 61.99,
+          "mean": 8.06,
+          "median": 5.58,
+          "suggested": 1.16,
+          "quantity": 104,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir FAMAS | CaliCamo (Field-Tested)",
+        "price": {
+          "min": 0.27,
+          "max": 19.29,
+          "mean": 3.43,
+          "median": 1.16,
+          "suggested": 0.31,
+          "quantity": 145,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir FAMAS | CaliCamo (Well-Worn)",
+        "price": {
+          "min": 0.21,
+          "max": 7.99,
+          "mean": 1.33,
+          "median": 0.46,
+          "suggested": 0.27,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir FAMAS | CaliCamo (Battle-Scarred)",
+        "price": {
+          "min": 0.21,
+          "max": 35.01,
+          "mean": 2.57,
+          "median": 0.37,
+          "suggested": 0.25,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:29.691Z"
+}

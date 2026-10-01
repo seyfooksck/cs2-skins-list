@@ -1,0 +1,310 @@
+{
+  "id": "skin-3c54e05cbb62",
+  "name": "R8 Revolver | Bone Forged",
+  "paint_index": "952",
+  "weapon": {
+    "id": "weapon_revolver",
+    "weapon_id": 64,
+    "name": "R8 Revolver",
+    "slug": "revolver"
+  },
+  "pattern": {
+    "id": "gs_r8_leviathan",
+    "name": "Bone Forged"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The R8 Revolver delivers a highly accurate and powerful round at the expense of a lengthy trigger-pull. Firing rapidly by fanning the hammer may be the best option when point-blank stopping power is required. The grip of this revolver has been custom painted with the remains of an ancient sea creature.\\n\\n<i>What lurks below</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.83,
+      "max": 33.84,
+      "mean": 2.75,
+      "median": 1.84,
+      "suggested": 1.31,
+      "quantity": 74,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.23,
+      "max": 3.73,
+      "mean": 0.37,
+      "median": 0.33,
+      "suggested": 0.33,
+      "quantity": 155,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.23,
+      "max": 14,
+      "mean": 0.54,
+      "median": 0.36,
+      "suggested": 0.32,
+      "quantity": 240,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.19,
+      "max": 3.63,
+      "mean": 0.44,
+      "median": 0.25,
+      "suggested": 0.24,
+      "quantity": 19,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.18,
+      "max": 110.86,
+      "mean": 3.45,
+      "median": 0.25,
+      "suggested": 0.22,
+      "quantity": 38,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "R8 Revolver | Bone Forged (Factory New)",
+      "price": {
+        "min": 0.83,
+        "max": 33.84,
+        "mean": 2.75,
+        "median": 1.84,
+        "suggested": 1.31,
+        "quantity": 74,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "R8 Revolver | Bone Forged (Minimal Wear)",
+      "price": {
+        "min": 0.23,
+        "max": 3.73,
+        "mean": 0.37,
+        "median": 0.33,
+        "suggested": 0.33,
+        "quantity": 155,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "R8 Revolver | Bone Forged (Field-Tested)",
+      "price": {
+        "min": 0.23,
+        "max": 14,
+        "mean": 0.54,
+        "median": 0.36,
+        "suggested": 0.32,
+        "quantity": 240,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "R8 Revolver | Bone Forged (Well-Worn)",
+      "price": {
+        "min": 0.19,
+        "max": 3.63,
+        "mean": 0.44,
+        "median": 0.25,
+        "suggested": 0.24,
+        "quantity": 19,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "R8 Revolver | Bone Forged (Battle-Scarred)",
+      "price": {
+        "min": 0.18,
+        "max": 110.86,
+        "mean": 3.45,
+        "median": 0.25,
+        "suggested": 0.22,
+        "quantity": 38,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "R8 Revolver | Bone Forged (Factory New)",
+        "price": {
+          "min": 0.83,
+          "max": 33.84,
+          "mean": 2.75,
+          "median": 1.84,
+          "suggested": 1.31,
+          "quantity": 74,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "R8 Revolver | Bone Forged (Minimal Wear)",
+        "price": {
+          "min": 0.23,
+          "max": 3.73,
+          "mean": 0.37,
+          "median": 0.33,
+          "suggested": 0.33,
+          "quantity": 155,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "R8 Revolver | Bone Forged (Field-Tested)",
+        "price": {
+          "min": 0.23,
+          "max": 14,
+          "mean": 0.54,
+          "median": 0.36,
+          "suggested": 0.32,
+          "quantity": 240,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "R8 Revolver | Bone Forged (Well-Worn)",
+        "price": {
+          "min": 0.19,
+          "max": 3.63,
+          "mean": 0.44,
+          "median": 0.25,
+          "suggested": 0.24,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "R8 Revolver | Bone Forged (Battle-Scarred)",
+        "price": {
+          "min": 0.18,
+          "max": 110.86,
+          "mean": 3.45,
+          "median": 0.25,
+          "suggested": 0.22,
+          "quantity": 38,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Bone Forged (Factory New)",
+        "price": {
+          "min": 0.91,
+          "max": 28.86,
+          "mean": 2.96,
+          "median": 1.42,
+          "suggested": 1.11,
+          "quantity": 43,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Bone Forged (Minimal Wear)",
+        "price": {
+          "min": 0.3,
+          "max": 11.67,
+          "mean": 1,
+          "median": 0.46,
+          "suggested": 0.42,
+          "quantity": 55,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Bone Forged (Field-Tested)",
+        "price": {
+          "min": 0.16,
+          "max": 8.17,
+          "mean": 0.41,
+          "median": 0.22,
+          "suggested": 0.24,
+          "quantity": 108,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Bone Forged (Well-Worn)",
+        "price": {
+          "min": 0.19,
+          "max": 1.1,
+          "mean": 0.37,
+          "median": 0.32,
+          "suggested": 0.23,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Bone Forged (Battle-Scarred)",
+        "price": {
+          "min": 0.2,
+          "max": 4.67,
+          "mean": 0.41,
+          "median": 0.27,
+          "suggested": 0.27,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir R8 Revolver | Bone Forged (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir R8 Revolver | Bone Forged (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir R8 Revolver | Bone Forged (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir R8 Revolver | Bone Forged (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir R8 Revolver | Bone Forged (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:46.626Z"
+}

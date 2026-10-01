@@ -1,0 +1,226 @@
+{
+  "id": "skin-01e00aac253c",
+  "name": "Nova | Ghost Camo",
+  "paint_index": "225",
+  "weapon": {
+    "id": "weapon_nova",
+    "weapon_id": 35,
+    "name": "Nova",
+    "slug": "nova"
+  },
+  "pattern": {
+    "id": "sp_camo_wood_blue",
+    "name": "Ghost Camo"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.4,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Nova's rock-bottom price tag makes it a great ambush weapon for a cash-strapped team. It has been painted using a hydrographic with an oversized camouflage pattern.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 3.89,
+      "max": 72.14,
+      "mean": 17.6,
+      "median": 6.53,
+      "suggested": 4.69,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 4.41,
+      "max": 8.97,
+      "mean": 7.29,
+      "median": 7.63,
+      "suggested": 3.41,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.64,
+      "max": 9.6,
+      "mean": 4.34,
+      "median": 2.85,
+      "suggested": 3.18,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "ww": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Nova | Ghost Camo (Factory New)",
+      "price": {
+        "min": 3.89,
+        "max": 72.14,
+        "mean": 17.6,
+        "median": 6.53,
+        "suggested": 4.69,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Nova | Ghost Camo (Minimal Wear)",
+      "price": {
+        "min": 4.41,
+        "max": 8.97,
+        "mean": 7.29,
+        "median": 7.63,
+        "suggested": 3.41,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Nova | Ghost Camo (Field-Tested)",
+      "price": {
+        "min": 2.64,
+        "max": 9.6,
+        "mean": 4.34,
+        "median": 2.85,
+        "suggested": 3.18,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Nova | Ghost Camo (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Nova | Ghost Camo (Factory New)",
+        "price": {
+          "min": 3.89,
+          "max": 72.14,
+          "mean": 17.6,
+          "median": 6.53,
+          "suggested": 4.69,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Nova | Ghost Camo (Minimal Wear)",
+        "price": {
+          "min": 4.41,
+          "max": 8.97,
+          "mean": 7.29,
+          "median": 7.63,
+          "suggested": 3.41,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Nova | Ghost Camo (Field-Tested)",
+        "price": {
+          "min": 2.64,
+          "max": 9.6,
+          "mean": 4.34,
+          "median": 2.85,
+          "suggested": 3.18,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Nova | Ghost Camo (Well-Worn)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Nova | Ghost Camo (Factory New)",
+        "price": {
+          "min": 4.61,
+          "max": 340.56,
+          "mean": 55.71,
+          "median": 11.59,
+          "suggested": 4.64,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Nova | Ghost Camo (Minimal Wear)",
+        "price": {
+          "min": 2.95,
+          "max": 9.22,
+          "mean": 6.03,
+          "median": 5.95,
+          "suggested": 3.83,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Nova | Ghost Camo (Field-Tested)",
+        "price": {
+          "min": 2.75,
+          "max": 1435.33,
+          "mean": 128.23,
+          "median": 4.63,
+          "suggested": 3.53,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Nova | Ghost Camo (Well-Worn)",
+        "price": null
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Nova | Ghost Camo (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Nova | Ghost Camo (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Nova | Ghost Camo (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Nova | Ghost Camo (Well-Worn)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.858Z"
+}

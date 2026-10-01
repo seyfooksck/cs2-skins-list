@@ -1,0 +1,225 @@
+{
+  "id": "skin-cbc1eac9444c",
+  "name": "UMP-45 | Crime Scene",
+  "paint_index": "1003",
+  "weapon": {
+    "id": "weapon_ump45",
+    "weapon_id": 24,
+    "name": "UMP-45",
+    "slug": "ump45"
+  },
+  "pattern": {
+    "id": "cu_ump_crime_scene",
+    "name": "Crime Scene"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.75,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic. It has been custom painted with yellow caution tape over a red and blue base.\\n\\n<i>Clear the area, we've got work to do…</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 116.69,
+      "max": 350.08,
+      "mean": 169.3,
+      "median": 157.54,
+      "suggested": 159.22,
+      "quantity": 25,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 93.35,
+      "max": 182.99,
+      "mean": 120.26,
+      "median": 109.87,
+      "suggested": 106.95,
+      "quantity": 18,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 85.86,
+      "max": 198.54,
+      "mean": 120.17,
+      "median": 110.86,
+      "suggested": 114.81,
+      "quantity": 19,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 127.63,
+      "max": 127.63,
+      "mean": 127.63,
+      "median": 127.63,
+      "suggested": 129.12,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "UMP-45 | Crime Scene (Factory New)",
+      "price": {
+        "min": 116.69,
+        "max": 350.08,
+        "mean": 169.3,
+        "median": 157.54,
+        "suggested": 159.22,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "UMP-45 | Crime Scene (Minimal Wear)",
+      "price": {
+        "min": 93.35,
+        "max": 182.99,
+        "mean": 120.26,
+        "median": 109.87,
+        "suggested": 106.95,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "UMP-45 | Crime Scene (Field-Tested)",
+      "price": {
+        "min": 85.86,
+        "max": 198.54,
+        "mean": 120.17,
+        "median": 110.86,
+        "suggested": 114.81,
+        "quantity": 19,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "UMP-45 | Crime Scene (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "UMP-45 | Crime Scene (Battle-Scarred)",
+      "price": {
+        "min": 127.63,
+        "max": 127.63,
+        "mean": 127.63,
+        "median": 127.63,
+        "suggested": 129.12,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "UMP-45 | Crime Scene (Factory New)",
+        "price": {
+          "min": 116.69,
+          "max": 350.08,
+          "mean": 169.3,
+          "median": 157.54,
+          "suggested": 159.22,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "UMP-45 | Crime Scene (Minimal Wear)",
+        "price": {
+          "min": 93.35,
+          "max": 182.99,
+          "mean": 120.26,
+          "median": 109.87,
+          "suggested": 106.95,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "UMP-45 | Crime Scene (Field-Tested)",
+        "price": {
+          "min": 85.86,
+          "max": 198.54,
+          "mean": 120.17,
+          "median": 110.86,
+          "suggested": 114.81,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "UMP-45 | Crime Scene (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "UMP-45 | Crime Scene (Battle-Scarred)",
+        "price": {
+          "min": 127.63,
+          "max": 127.63,
+          "mean": 127.63,
+          "median": 127.63,
+          "suggested": 129.12,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir UMP-45 | Crime Scene (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir UMP-45 | Crime Scene (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir UMP-45 | Crime Scene (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir UMP-45 | Crime Scene (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir UMP-45 | Crime Scene (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.940Z"
+}

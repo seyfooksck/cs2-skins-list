@@ -1,0 +1,225 @@
+{
+  "id": "skin-13d1c82e4d8d",
+  "name": "SSG 08 | Orange Filigree",
+  "paint_index": "743",
+  "weapon": {
+    "id": "weapon_ssg08",
+    "weapon_id": 40,
+    "name": "SSG 08",
+    "slug": "ssg08"
+  },
+  "pattern": {
+    "id": "hy_ren_orange",
+    "name": "Orange Filigree"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship. An orange millefleur hydrographic has been applied.\\n\\n<i>Perhaps this is one piece of art better left in the past</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 50.06,
+      "max": 87.89,
+      "mean": 67.2,
+      "median": 63.01,
+      "suggested": 45.28,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 36.16,
+      "max": 1364.15,
+      "mean": 482.75,
+      "median": 47.93,
+      "suggested": 37.45,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 44.96,
+      "max": 45.51,
+      "mean": 45.24,
+      "median": 45.24,
+      "suggested": 36.38,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 47.89,
+      "max": 47.89,
+      "mean": 47.89,
+      "median": 47.89,
+      "suggested": 36.58,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SSG 08 | Orange Filigree (Factory New)",
+      "price": {
+        "min": 50.06,
+        "max": 87.89,
+        "mean": 67.2,
+        "median": 63.01,
+        "suggested": 45.28,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SSG 08 | Orange Filigree (Minimal Wear)",
+      "price": {
+        "min": 36.16,
+        "max": 1364.15,
+        "mean": 482.75,
+        "median": 47.93,
+        "suggested": 37.45,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "SSG 08 | Orange Filigree (Field-Tested)",
+      "price": {
+        "min": 44.96,
+        "max": 45.51,
+        "mean": 45.24,
+        "median": 45.24,
+        "suggested": 36.38,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "SSG 08 | Orange Filigree (Well-Worn)",
+      "price": {
+        "min": 47.89,
+        "max": 47.89,
+        "mean": 47.89,
+        "median": 47.89,
+        "suggested": 36.58,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "SSG 08 | Orange Filigree (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SSG 08 | Orange Filigree (Factory New)",
+        "price": {
+          "min": 50.06,
+          "max": 87.89,
+          "mean": 67.2,
+          "median": 63.01,
+          "suggested": 45.28,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "SSG 08 | Orange Filigree (Minimal Wear)",
+        "price": {
+          "min": 36.16,
+          "max": 1364.15,
+          "mean": 482.75,
+          "median": 47.93,
+          "suggested": 37.45,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "SSG 08 | Orange Filigree (Field-Tested)",
+        "price": {
+          "min": 44.96,
+          "max": 45.51,
+          "mean": 45.24,
+          "median": 45.24,
+          "suggested": 36.38,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "SSG 08 | Orange Filigree (Well-Worn)",
+        "price": {
+          "min": 47.89,
+          "max": 47.89,
+          "mean": 47.89,
+          "median": 47.89,
+          "suggested": 36.58,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "SSG 08 | Orange Filigree (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SSG 08 | Orange Filigree (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir SSG 08 | Orange Filigree (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir SSG 08 | Orange Filigree (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir SSG 08 | Orange Filigree (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir SSG 08 | Orange Filigree (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:48.645Z"
+}

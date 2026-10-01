@@ -1,0 +1,249 @@
+{
+  "id": "skin-25aa38f069d3",
+  "name": "R8 Revolver | Canal Spray",
+  "paint_index": "866",
+  "weapon": {
+    "id": "weapon_revolver",
+    "weapon_id": 64,
+    "name": "R8 Revolver",
+    "slug": "revolver"
+  },
+  "pattern": {
+    "id": "sp_spray_water",
+    "name": "Canal Spray"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0.06,
+  "max_float": 0.6,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The R8 Revolver delivers a highly accurate and powerful round at the expense of a lengthy trigger-pull. Firing rapidly by fanning the hammer may be the best option when point-blank stopping power is required. It has been spray-painted with short, diagonal bursts of blue paint.\\n\\n<i>You're mostly water anyways…</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 17.5,
+      "max": 95.75,
+      "mean": 39.17,
+      "median": 29.17,
+      "suggested": 18.31,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 4.81,
+      "max": 18.2,
+      "mean": 8.65,
+      "median": 7.45,
+      "suggested": 5.19,
+      "quantity": 24,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.21,
+      "max": 58.35,
+      "mean": 8.17,
+      "median": 4.43,
+      "suggested": 2.93,
+      "quantity": 52,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 3.02,
+      "max": 5.83,
+      "mean": 3.97,
+      "median": 3.03,
+      "suggested": 3.26,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.87,
+      "max": 7.41,
+      "mean": 3.57,
+      "median": 2.33,
+      "suggested": 2.29,
+      "quantity": 17,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "R8 Revolver | Canal Spray (Factory New)",
+      "price": {
+        "min": 17.5,
+        "max": 95.75,
+        "mean": 39.17,
+        "median": 29.17,
+        "suggested": 18.31,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "R8 Revolver | Canal Spray (Minimal Wear)",
+      "price": {
+        "min": 4.81,
+        "max": 18.2,
+        "mean": 8.65,
+        "median": 7.45,
+        "suggested": 5.19,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "R8 Revolver | Canal Spray (Field-Tested)",
+      "price": {
+        "min": 2.21,
+        "max": 58.35,
+        "mean": 8.17,
+        "median": 4.43,
+        "suggested": 2.93,
+        "quantity": 52,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "R8 Revolver | Canal Spray (Well-Worn)",
+      "price": {
+        "min": 3.02,
+        "max": 5.83,
+        "mean": 3.97,
+        "median": 3.03,
+        "suggested": 3.26,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "R8 Revolver | Canal Spray (Battle-Scarred)",
+      "price": {
+        "min": 1.87,
+        "max": 7.41,
+        "mean": 3.57,
+        "median": 2.33,
+        "suggested": 2.29,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "R8 Revolver | Canal Spray (Factory New)",
+        "price": {
+          "min": 17.5,
+          "max": 95.75,
+          "mean": 39.17,
+          "median": 29.17,
+          "suggested": 18.31,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "R8 Revolver | Canal Spray (Minimal Wear)",
+        "price": {
+          "min": 4.81,
+          "max": 18.2,
+          "mean": 8.65,
+          "median": 7.45,
+          "suggested": 5.19,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "R8 Revolver | Canal Spray (Field-Tested)",
+        "price": {
+          "min": 2.21,
+          "max": 58.35,
+          "mean": 8.17,
+          "median": 4.43,
+          "suggested": 2.93,
+          "quantity": 52,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "R8 Revolver | Canal Spray (Well-Worn)",
+        "price": {
+          "min": 3.02,
+          "max": 5.83,
+          "mean": 3.97,
+          "median": 3.03,
+          "suggested": 3.26,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "R8 Revolver | Canal Spray (Battle-Scarred)",
+        "price": {
+          "min": 1.87,
+          "max": 7.41,
+          "mean": 3.57,
+          "median": 2.33,
+          "suggested": 2.29,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir R8 Revolver | Canal Spray (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir R8 Revolver | Canal Spray (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir R8 Revolver | Canal Spray (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir R8 Revolver | Canal Spray (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir R8 Revolver | Canal Spray (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:46.850Z"
+}

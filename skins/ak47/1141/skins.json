@@ -1,0 +1,310 @@
+{
+  "id": "skin-405f5570d1f6",
+  "name": "AK-47 | Nightwish",
+  "paint_index": "1141",
+  "weapon": {
+    "id": "weapon_ak47",
+    "weapon_id": 7,
+    "name": "AK-47",
+    "slug": "ak47"
+  },
+  "pattern": {
+    "id": "cu_ak47_nightwish",
+    "name": "Nightwish"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. It has been custom painted with a deer and dreamcatchers in neon colors and finished with a pearlescent effect.\\n\\n<i>I've been saving this for a special occasion... – Booth, Arms Dealer</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 119.7,
+      "max": 649.73,
+      "mean": 182.28,
+      "median": 151.54,
+      "suggested": 157.13,
+      "quantity": 38,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 69.6,
+      "max": 730.7,
+      "mean": 108.71,
+      "median": 88.75,
+      "suggested": 95.2,
+      "quantity": 220,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 63.85,
+      "max": 408.42,
+      "mean": 81.06,
+      "median": 76.1,
+      "suggested": 86.34,
+      "quantity": 381,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 63.33,
+      "max": 136.37,
+      "mean": 76.73,
+      "median": 74.02,
+      "suggested": 82.78,
+      "quantity": 172,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 61.99,
+      "max": 102.41,
+      "mean": 73.05,
+      "median": 71.77,
+      "suggested": 80.84,
+      "quantity": 61,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AK-47 | Nightwish (Factory New)",
+      "price": {
+        "min": 119.7,
+        "max": 649.73,
+        "mean": 182.28,
+        "median": 151.54,
+        "suggested": 157.13,
+        "quantity": 38,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AK-47 | Nightwish (Minimal Wear)",
+      "price": {
+        "min": 69.6,
+        "max": 730.7,
+        "mean": 108.71,
+        "median": 88.75,
+        "suggested": 95.2,
+        "quantity": 220,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AK-47 | Nightwish (Field-Tested)",
+      "price": {
+        "min": 63.85,
+        "max": 408.42,
+        "mean": 81.06,
+        "median": 76.1,
+        "suggested": 86.34,
+        "quantity": 381,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AK-47 | Nightwish (Well-Worn)",
+      "price": {
+        "min": 63.33,
+        "max": 136.37,
+        "mean": 76.73,
+        "median": 74.02,
+        "suggested": 82.78,
+        "quantity": 172,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AK-47 | Nightwish (Battle-Scarred)",
+      "price": {
+        "min": 61.99,
+        "max": 102.41,
+        "mean": 73.05,
+        "median": 71.77,
+        "suggested": 80.84,
+        "quantity": 61,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AK-47 | Nightwish (Factory New)",
+        "price": {
+          "min": 119.7,
+          "max": 649.73,
+          "mean": 182.28,
+          "median": 151.54,
+          "suggested": 157.13,
+          "quantity": 38,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AK-47 | Nightwish (Minimal Wear)",
+        "price": {
+          "min": 69.6,
+          "max": 730.7,
+          "mean": 108.71,
+          "median": 88.75,
+          "suggested": 95.2,
+          "quantity": 220,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AK-47 | Nightwish (Field-Tested)",
+        "price": {
+          "min": 63.85,
+          "max": 408.42,
+          "mean": 81.06,
+          "median": 76.1,
+          "suggested": 86.34,
+          "quantity": 381,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AK-47 | Nightwish (Well-Worn)",
+        "price": {
+          "min": 63.33,
+          "max": 136.37,
+          "mean": 76.73,
+          "median": 74.02,
+          "suggested": 82.78,
+          "quantity": 172,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AK-47 | Nightwish (Battle-Scarred)",
+        "price": {
+          "min": 61.99,
+          "max": 102.41,
+          "mean": 73.05,
+          "median": 71.77,
+          "suggested": 80.84,
+          "quantity": 61,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AK-47 | Nightwish (Factory New)",
+        "price": {
+          "min": 144.41,
+          "max": 933.55,
+          "mean": 271.15,
+          "median": 184.74,
+          "suggested": 162.92,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AK-47 | Nightwish (Minimal Wear)",
+        "price": {
+          "min": 75.56,
+          "max": 700.16,
+          "mean": 146.44,
+          "median": 86.69,
+          "suggested": 99.95,
+          "quantity": 42,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AK-47 | Nightwish (Field-Tested)",
+        "price": {
+          "min": 61.85,
+          "max": 93.34,
+          "mean": 71.86,
+          "median": 71.17,
+          "suggested": 81.94,
+          "quantity": 67,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AK-47 | Nightwish (Well-Worn)",
+        "price": {
+          "min": 56.33,
+          "max": 297.5,
+          "mean": 77.88,
+          "median": 68.91,
+          "suggested": 78.49,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ AK-47 | Nightwish (Battle-Scarred)",
+        "price": {
+          "min": 56.28,
+          "max": 76.39,
+          "mean": 65.26,
+          "median": 65.64,
+          "suggested": 79.02,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AK-47 | Nightwish (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AK-47 | Nightwish (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AK-47 | Nightwish (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AK-47 | Nightwish (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AK-47 | Nightwish (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:20:20.554Z"
+}

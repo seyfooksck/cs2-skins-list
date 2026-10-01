@@ -1,0 +1,302 @@
+{
+  "id": "skin-12d0c696aacd",
+  "name": "M4A4 | Hellfire",
+  "paint_index": "664",
+  "weapon": {
+    "id": "weapon_m4a1",
+    "weapon_id": 16,
+    "name": "M4A4",
+    "slug": "m4a1"
+  },
+  "pattern": {
+    "id": "cu_m4a4_hellfire",
+    "name": "Hellfire"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. A devil-like creature has been hand painted among fire and chains.\\n\\n<i>And brim pebbles</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 375.39,
+      "max": 1536.21,
+      "mean": 758.52,
+      "median": 706.31,
+      "suggested": 589.38,
+      "quantity": 25,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 192.92,
+      "max": 700.16,
+      "mean": 361.83,
+      "median": 266.27,
+      "suggested": 280.85,
+      "quantity": 27,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 156.82,
+      "max": 506.45,
+      "mean": 282.9,
+      "median": 233.5,
+      "suggested": 191.89,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 120.96,
+      "max": 171.95,
+      "mean": 146.46,
+      "median": 146.46,
+      "suggested": 107.99,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 140.03,
+      "max": 140.03,
+      "mean": 140.03,
+      "median": 140.03,
+      "suggested": 104.07,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A4 | Hellfire (Factory New)",
+      "price": {
+        "min": 375.39,
+        "max": 1536.21,
+        "mean": 758.52,
+        "median": 706.31,
+        "suggested": 589.38,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A4 | Hellfire (Minimal Wear)",
+      "price": {
+        "min": 192.92,
+        "max": 700.16,
+        "mean": 361.83,
+        "median": 266.27,
+        "suggested": 280.85,
+        "quantity": 27,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A4 | Hellfire (Field-Tested)",
+      "price": {
+        "min": 156.82,
+        "max": 506.45,
+        "mean": 282.9,
+        "median": 233.5,
+        "suggested": 191.89,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M4A4 | Hellfire (Well-Worn)",
+      "price": {
+        "min": 120.96,
+        "max": 171.95,
+        "mean": 146.46,
+        "median": 146.46,
+        "suggested": 107.99,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M4A4 | Hellfire (Battle-Scarred)",
+      "price": {
+        "min": 140.03,
+        "max": 140.03,
+        "mean": 140.03,
+        "median": 140.03,
+        "suggested": 104.07,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A4 | Hellfire (Factory New)",
+        "price": {
+          "min": 375.39,
+          "max": 1536.21,
+          "mean": 758.52,
+          "median": 706.31,
+          "suggested": 589.38,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A4 | Hellfire (Minimal Wear)",
+        "price": {
+          "min": 192.92,
+          "max": 700.16,
+          "mean": 361.83,
+          "median": 266.27,
+          "suggested": 280.85,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A4 | Hellfire (Field-Tested)",
+        "price": {
+          "min": 156.82,
+          "max": 506.45,
+          "mean": 282.9,
+          "median": 233.5,
+          "suggested": 191.89,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M4A4 | Hellfire (Well-Worn)",
+        "price": {
+          "min": 120.96,
+          "max": 171.95,
+          "mean": 146.46,
+          "median": 146.46,
+          "suggested": 107.99,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M4A4 | Hellfire (Battle-Scarred)",
+        "price": {
+          "min": 140.03,
+          "max": 140.03,
+          "mean": 140.03,
+          "median": 140.03,
+          "suggested": 104.07,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ M4A4 | Hellfire (Factory New)",
+        "price": {
+          "min": 273.95,
+          "max": 636.91,
+          "mean": 419.46,
+          "median": 385.42,
+          "suggested": 319.81,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ M4A4 | Hellfire (Minimal Wear)",
+        "price": {
+          "min": 200.47,
+          "max": 303.39,
+          "mean": 259.47,
+          "median": 268.38,
+          "suggested": 225.73,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ M4A4 | Hellfire (Field-Tested)",
+        "price": {
+          "min": 127.36,
+          "max": 272.19,
+          "mean": 188.83,
+          "median": 185.96,
+          "suggested": 145.43,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ M4A4 | Hellfire (Well-Worn)",
+        "price": {
+          "min": 100.1,
+          "max": 100.1,
+          "mean": 100.1,
+          "median": 100.1,
+          "suggested": 125.23,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ M4A4 | Hellfire (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A4 | Hellfire (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A4 | Hellfire (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A4 | Hellfire (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M4A4 | Hellfire (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M4A4 | Hellfire (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:40.238Z"
+}

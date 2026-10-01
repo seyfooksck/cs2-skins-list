@@ -1,0 +1,185 @@
+{
+  "id": "skin-db0becc8452a",
+  "name": "UMP-45 | Minotaur's Labyrinth",
+  "paint_index": "441",
+  "weapon": {
+    "id": "weapon_ump45",
+    "weapon_id": 24,
+    "name": "UMP-45",
+    "slug": "ump45"
+  },
+  "pattern": {
+    "id": "cu_labyrinth",
+    "name": "Minotaur's Labyrinth"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.39,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic. It has been painted with a hydrographic of an isometric labyrinth.\\n\\n<i>There's no escape from me</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 129.33,
+      "max": 379.8,
+      "mean": 218.23,
+      "median": 188.04,
+      "suggested": 135.22,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 94.51,
+      "max": 196.05,
+      "mean": 126.01,
+      "median": 111.72,
+      "suggested": 107.18,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 122.26,
+      "max": 122.26,
+      "mean": 122.26,
+      "median": 122.26,
+      "suggested": 125.8,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ww": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "UMP-45 | Minotaur's Labyrinth (Factory New)",
+      "price": {
+        "min": 129.33,
+        "max": 379.8,
+        "mean": 218.23,
+        "median": 188.04,
+        "suggested": 135.22,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "UMP-45 | Minotaur's Labyrinth (Minimal Wear)",
+      "price": {
+        "min": 94.51,
+        "max": 196.05,
+        "mean": 126.01,
+        "median": 111.72,
+        "suggested": 107.18,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "UMP-45 | Minotaur's Labyrinth (Field-Tested)",
+      "price": {
+        "min": 122.26,
+        "max": 122.26,
+        "mean": 122.26,
+        "median": 122.26,
+        "suggested": 125.8,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "UMP-45 | Minotaur's Labyrinth (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "UMP-45 | Minotaur's Labyrinth (Factory New)",
+        "price": {
+          "min": 129.33,
+          "max": 379.8,
+          "mean": 218.23,
+          "median": 188.04,
+          "suggested": 135.22,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "UMP-45 | Minotaur's Labyrinth (Minimal Wear)",
+        "price": {
+          "min": 94.51,
+          "max": 196.05,
+          "mean": 126.01,
+          "median": 111.72,
+          "suggested": 107.18,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "UMP-45 | Minotaur's Labyrinth (Field-Tested)",
+        "price": {
+          "min": 122.26,
+          "max": 122.26,
+          "mean": 122.26,
+          "median": 122.26,
+          "suggested": 125.8,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "UMP-45 | Minotaur's Labyrinth (Well-Worn)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir UMP-45 | Minotaur's Labyrinth (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir UMP-45 | Minotaur's Labyrinth (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir UMP-45 | Minotaur's Labyrinth (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir UMP-45 | Minotaur's Labyrinth (Well-Worn)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.791Z"
+}

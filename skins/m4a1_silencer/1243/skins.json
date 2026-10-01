@@ -1,0 +1,289 @@
+{
+  "id": "skin-41f71f1a5f50",
+  "name": "M4A1-S | Mud-Spec",
+  "paint_index": "1243",
+  "weapon": {
+    "id": "weapon_m4a1_silencer",
+    "weapon_id": 60,
+    "name": "M4A1-S",
+    "slug": "m4a1_silencer"
+  },
+  "pattern": {
+    "id": "gs_m4a1s_milspec",
+    "name": "Mud-Spec"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.73,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. A custom black and brown camouflage has been applied.\\n\\n<i>Backup has arrived</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 4.97,
+      "max": 115.53,
+      "mean": 15.65,
+      "median": 12.72,
+      "suggested": 6.18,
+      "quantity": 167,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.48,
+      "max": 302.12,
+      "mean": 4.22,
+      "median": 3.35,
+      "suggested": 1.14,
+      "quantity": 373,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.35,
+      "max": 18.67,
+      "mean": 1.53,
+      "median": 1.55,
+      "suggested": 0.45,
+      "quantity": 1098,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.41,
+      "max": 22.3,
+      "mean": 2.17,
+      "median": 0.64,
+      "suggested": 0.48,
+      "quantity": 74,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.47,
+      "max": 32.21,
+      "mean": 3.59,
+      "median": 2.71,
+      "suggested": 0.65,
+      "quantity": 146,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A1-S | Mud-Spec (Factory New)",
+      "price": {
+        "min": 4.97,
+        "max": 115.53,
+        "mean": 15.65,
+        "median": 12.72,
+        "suggested": 6.18,
+        "quantity": 167,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A1-S | Mud-Spec (Minimal Wear)",
+      "price": {
+        "min": 1.48,
+        "max": 302.12,
+        "mean": 4.22,
+        "median": 3.35,
+        "suggested": 1.14,
+        "quantity": 373,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A1-S | Mud-Spec (Field-Tested)",
+      "price": {
+        "min": 0.35,
+        "max": 18.67,
+        "mean": 1.53,
+        "median": 1.55,
+        "suggested": 0.45,
+        "quantity": 1098,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M4A1-S | Mud-Spec (Well-Worn)",
+      "price": {
+        "min": 0.41,
+        "max": 22.3,
+        "mean": 2.17,
+        "median": 0.64,
+        "suggested": 0.48,
+        "quantity": 74,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M4A1-S | Mud-Spec (Battle-Scarred)",
+      "price": {
+        "min": 0.47,
+        "max": 32.21,
+        "mean": 3.59,
+        "median": 2.71,
+        "suggested": 0.65,
+        "quantity": 146,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A1-S | Mud-Spec (Factory New)",
+        "price": {
+          "min": 4.97,
+          "max": 115.53,
+          "mean": 15.65,
+          "median": 12.72,
+          "suggested": 6.18,
+          "quantity": 167,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A1-S | Mud-Spec (Minimal Wear)",
+        "price": {
+          "min": 1.48,
+          "max": 302.12,
+          "mean": 4.22,
+          "median": 3.35,
+          "suggested": 1.14,
+          "quantity": 373,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A1-S | Mud-Spec (Field-Tested)",
+        "price": {
+          "min": 0.35,
+          "max": 18.67,
+          "mean": 1.53,
+          "median": 1.55,
+          "suggested": 0.45,
+          "quantity": 1098,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M4A1-S | Mud-Spec (Well-Worn)",
+        "price": {
+          "min": 0.41,
+          "max": 22.3,
+          "mean": 2.17,
+          "median": 0.64,
+          "suggested": 0.48,
+          "quantity": 74,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M4A1-S | Mud-Spec (Battle-Scarred)",
+        "price": {
+          "min": 0.47,
+          "max": 32.21,
+          "mean": 3.59,
+          "median": 2.71,
+          "suggested": 0.65,
+          "quantity": 146,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A1-S | Mud-Spec (Factory New)",
+        "price": {
+          "min": 5.16,
+          "max": 80.69,
+          "mean": 22.45,
+          "median": 24.06,
+          "suggested": 6.13,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A1-S | Mud-Spec (Minimal Wear)",
+        "price": {
+          "min": 1.82,
+          "max": 29.33,
+          "mean": 11.68,
+          "median": 10.5,
+          "suggested": 1.88,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A1-S | Mud-Spec (Field-Tested)",
+        "price": {
+          "min": 3.3,
+          "max": 624.73,
+          "mean": 50.26,
+          "median": 8.32,
+          "suggested": 0.84,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M4A1-S | Mud-Spec (Well-Worn)",
+        "price": {
+          "min": 1.59,
+          "max": 5.88,
+          "mean": 3.86,
+          "median": 3.69,
+          "suggested": 1.8,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M4A1-S | Mud-Spec (Battle-Scarred)",
+        "price": {
+          "min": 2.23,
+          "max": 133.02,
+          "mean": 18.16,
+          "median": 5.92,
+          "suggested": 1.5,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.020Z"
+}

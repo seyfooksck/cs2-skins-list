@@ -1,0 +1,310 @@
+{
+  "id": "skin-fbe7862c26f8",
+  "name": "MAG-7 | BI83 Spectrum",
+  "paint_index": "1089",
+  "weapon": {
+    "id": "weapon_mag7",
+    "weapon_id": 27,
+    "name": "MAG-7",
+    "slug": "mag7"
+  },
+  "pattern": {
+    "id": "gs_mag7_bismuth",
+    "name": "BI83 Spectrum"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The CT-exclusive Mag-7 delivers a devastating amount of damage at close range. Its rapid magazine-style reloads make it a great tactical choice. It has been custom painted to resemble iridescent bismuth crystals.\\n\\n<i>Why are the rarest things the most beautiful?</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 9.85,
+      "max": 67.25,
+      "mean": 22.2,
+      "median": 13.36,
+      "suggested": 11.25,
+      "quantity": 19,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 3.1,
+      "max": 46.11,
+      "mean": 6.29,
+      "median": 4.88,
+      "suggested": 3.85,
+      "quantity": 42,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.95,
+      "max": 6.53,
+      "mean": 2.93,
+      "median": 2.67,
+      "suggested": 2.8,
+      "quantity": 74,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 2.26,
+      "max": 3.33,
+      "mean": 2.67,
+      "median": 2.51,
+      "suggested": 2.84,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.94,
+      "max": 19.48,
+      "mean": 3.35,
+      "median": 2.16,
+      "suggested": 2.33,
+      "quantity": 18,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAG-7 | BI83 Spectrum (Factory New)",
+      "price": {
+        "min": 9.85,
+        "max": 67.25,
+        "mean": 22.2,
+        "median": 13.36,
+        "suggested": 11.25,
+        "quantity": 19,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAG-7 | BI83 Spectrum (Minimal Wear)",
+      "price": {
+        "min": 3.1,
+        "max": 46.11,
+        "mean": 6.29,
+        "median": 4.88,
+        "suggested": 3.85,
+        "quantity": 42,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAG-7 | BI83 Spectrum (Field-Tested)",
+      "price": {
+        "min": 1.95,
+        "max": 6.53,
+        "mean": 2.93,
+        "median": 2.67,
+        "suggested": 2.8,
+        "quantity": 74,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAG-7 | BI83 Spectrum (Well-Worn)",
+      "price": {
+        "min": 2.26,
+        "max": 3.33,
+        "mean": 2.67,
+        "median": 2.51,
+        "suggested": 2.84,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAG-7 | BI83 Spectrum (Battle-Scarred)",
+      "price": {
+        "min": 1.94,
+        "max": 19.48,
+        "mean": 3.35,
+        "median": 2.16,
+        "suggested": 2.33,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAG-7 | BI83 Spectrum (Factory New)",
+        "price": {
+          "min": 9.85,
+          "max": 67.25,
+          "mean": 22.2,
+          "median": 13.36,
+          "suggested": 11.25,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAG-7 | BI83 Spectrum (Minimal Wear)",
+        "price": {
+          "min": 3.1,
+          "max": 46.11,
+          "mean": 6.29,
+          "median": 4.88,
+          "suggested": 3.85,
+          "quantity": 42,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAG-7 | BI83 Spectrum (Field-Tested)",
+        "price": {
+          "min": 1.95,
+          "max": 6.53,
+          "mean": 2.93,
+          "median": 2.67,
+          "suggested": 2.8,
+          "quantity": 74,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAG-7 | BI83 Spectrum (Well-Worn)",
+        "price": {
+          "min": 2.26,
+          "max": 3.33,
+          "mean": 2.67,
+          "median": 2.51,
+          "suggested": 2.84,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MAG-7 | BI83 Spectrum (Battle-Scarred)",
+        "price": {
+          "min": 1.94,
+          "max": 19.48,
+          "mean": 3.35,
+          "median": 2.16,
+          "suggested": 2.33,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MAG-7 | BI83 Spectrum (Factory New)",
+        "price": {
+          "min": 11.75,
+          "max": 18.67,
+          "mean": 15.29,
+          "median": 15.4,
+          "suggested": 13.16,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MAG-7 | BI83 Spectrum (Minimal Wear)",
+        "price": {
+          "min": 4.59,
+          "max": 9.45,
+          "mean": 5.65,
+          "median": 5.11,
+          "suggested": 5.73,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MAG-7 | BI83 Spectrum (Field-Tested)",
+        "price": {
+          "min": 2.72,
+          "max": 18.66,
+          "mean": 6.8,
+          "median": 4.18,
+          "suggested": 3.23,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MAG-7 | BI83 Spectrum (Well-Worn)",
+        "price": {
+          "min": 2.84,
+          "max": 5.05,
+          "mean": 3.38,
+          "median": 2.98,
+          "suggested": 3.12,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MAG-7 | BI83 Spectrum (Battle-Scarred)",
+        "price": {
+          "min": 2.36,
+          "max": 6.43,
+          "mean": 3.1,
+          "median": 2.52,
+          "suggested": 3.02,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAG-7 | BI83 Spectrum (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAG-7 | BI83 Spectrum (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAG-7 | BI83 Spectrum (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAG-7 | BI83 Spectrum (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAG-7 | BI83 Spectrum (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.359Z"
+}

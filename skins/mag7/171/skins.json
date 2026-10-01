@@ -1,0 +1,265 @@
+{
+  "id": "skin-7624dea4a3a2",
+  "name": "MAG-7 | Irradiated Alert",
+  "paint_index": "171",
+  "weapon": {
+    "id": "weapon_mag7",
+    "weapon_id": 27,
+    "name": "MAG-7",
+    "slug": "mag7"
+  },
+  "pattern": {
+    "id": "sp_nukestripe_brown",
+    "name": "Irradiated Alert"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The CT-exclusive Mag-7 delivers a devastating amount of damage at close range. Its rapid magazine-style reloads make it a great tactical choice. It has been spray-painted with radiological warning hazard patterns.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 13.77,
+      "max": 13.77,
+      "mean": 13.77,
+      "median": 13.77,
+      "suggested": 5.12,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.59,
+      "max": 19.18,
+      "mean": 4.57,
+      "median": 3.06,
+      "suggested": 2.61,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 2.86,
+      "max": 33.02,
+      "mean": 13.35,
+      "median": 8.75,
+      "suggested": 3.53,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 2.54,
+      "max": 3.5,
+      "mean": 3.27,
+      "median": 3.5,
+      "suggested": 2.47,
+      "quantity": 4,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAG-7 | Irradiated Alert (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAG-7 | Irradiated Alert (Minimal Wear)",
+      "price": {
+        "min": 13.77,
+        "max": 13.77,
+        "mean": 13.77,
+        "median": 13.77,
+        "suggested": 5.12,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAG-7 | Irradiated Alert (Field-Tested)",
+      "price": {
+        "min": 2.59,
+        "max": 19.18,
+        "mean": 4.57,
+        "median": 3.06,
+        "suggested": 2.61,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAG-7 | Irradiated Alert (Well-Worn)",
+      "price": {
+        "min": 2.86,
+        "max": 33.02,
+        "mean": 13.35,
+        "median": 8.75,
+        "suggested": 3.53,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAG-7 | Irradiated Alert (Battle-Scarred)",
+      "price": {
+        "min": 2.54,
+        "max": 3.5,
+        "mean": 3.27,
+        "median": 3.5,
+        "suggested": 2.47,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAG-7 | Irradiated Alert (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "MAG-7 | Irradiated Alert (Minimal Wear)",
+        "price": {
+          "min": 13.77,
+          "max": 13.77,
+          "mean": 13.77,
+          "median": 13.77,
+          "suggested": 5.12,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAG-7 | Irradiated Alert (Field-Tested)",
+        "price": {
+          "min": 2.59,
+          "max": 19.18,
+          "mean": 4.57,
+          "median": 3.06,
+          "suggested": 2.61,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAG-7 | Irradiated Alert (Well-Worn)",
+        "price": {
+          "min": 2.86,
+          "max": 33.02,
+          "mean": 13.35,
+          "median": 8.75,
+          "suggested": 3.53,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MAG-7 | Irradiated Alert (Battle-Scarred)",
+        "price": {
+          "min": 2.54,
+          "max": 3.5,
+          "mean": 3.27,
+          "median": 3.5,
+          "suggested": 2.47,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAG-7 | Irradiated Alert (Factory New)",
+        "price": {
+          "min": 65.35,
+          "max": 65.35,
+          "mean": 65.35,
+          "median": 65.35,
+          "suggested": 23.26,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAG-7 | Irradiated Alert (Minimal Wear)",
+        "price": {
+          "min": 3.77,
+          "max": 116.69,
+          "mean": 66.35,
+          "median": 79.9,
+          "suggested": 4.34,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAG-7 | Irradiated Alert (Field-Tested)",
+        "price": {
+          "min": 2.33,
+          "max": 115.53,
+          "mean": 15.68,
+          "median": 5.03,
+          "suggested": 2.41,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAG-7 | Irradiated Alert (Well-Worn)",
+        "price": {
+          "min": 2.74,
+          "max": 119.03,
+          "mean": 29.49,
+          "median": 15.71,
+          "suggested": 2.04,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAG-7 | Irradiated Alert (Battle-Scarred)",
+        "price": {
+          "min": 4.06,
+          "max": 175.95,
+          "mean": 61.07,
+          "median": 21.76,
+          "suggested": 1.81,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.622Z"
+}

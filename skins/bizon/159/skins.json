@@ -1,0 +1,289 @@
+{
+  "id": "skin-891034135d58",
+  "name": "PP-Bizon | Brass",
+  "paint_index": "159",
+  "weapon": {
+    "id": "weapon_bizon",
+    "weapon_id": 26,
+    "name": "PP-Bizon",
+    "slug": "bizon"
+  },
+  "pattern": {
+    "id": "aq_brass",
+    "name": "Brass"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly. Parts of the weapon have been replaced with brass.\\n\\n<i>Fool's gold</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 4.19,
+      "max": 107.53,
+      "mean": 12.74,
+      "median": 6.45,
+      "suggested": 5.09,
+      "quantity": 59,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.53,
+      "max": 6.88,
+      "mean": 1.69,
+      "median": 0.78,
+      "suggested": 0.63,
+      "quantity": 63,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.18,
+      "max": 11.66,
+      "mean": 1.19,
+      "median": 0.35,
+      "suggested": 0.24,
+      "quantity": 160,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.09,
+      "max": 5.51,
+      "mean": 0.77,
+      "median": 0.22,
+      "suggested": 0.12,
+      "quantity": 80,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.09,
+      "max": 3.5,
+      "mean": 0.47,
+      "median": 0.22,
+      "suggested": 0.12,
+      "quantity": 54,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "PP-Bizon | Brass (Factory New)",
+      "price": {
+        "min": 4.19,
+        "max": 107.53,
+        "mean": 12.74,
+        "median": 6.45,
+        "suggested": 5.09,
+        "quantity": 59,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "PP-Bizon | Brass (Minimal Wear)",
+      "price": {
+        "min": 0.53,
+        "max": 6.88,
+        "mean": 1.69,
+        "median": 0.78,
+        "suggested": 0.63,
+        "quantity": 63,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "PP-Bizon | Brass (Field-Tested)",
+      "price": {
+        "min": 0.18,
+        "max": 11.66,
+        "mean": 1.19,
+        "median": 0.35,
+        "suggested": 0.24,
+        "quantity": 160,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "PP-Bizon | Brass (Well-Worn)",
+      "price": {
+        "min": 0.09,
+        "max": 5.51,
+        "mean": 0.77,
+        "median": 0.22,
+        "suggested": 0.12,
+        "quantity": 80,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "PP-Bizon | Brass (Battle-Scarred)",
+      "price": {
+        "min": 0.09,
+        "max": 3.5,
+        "mean": 0.47,
+        "median": 0.22,
+        "suggested": 0.12,
+        "quantity": 54,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "PP-Bizon | Brass (Factory New)",
+        "price": {
+          "min": 4.19,
+          "max": 107.53,
+          "mean": 12.74,
+          "median": 6.45,
+          "suggested": 5.09,
+          "quantity": 59,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "PP-Bizon | Brass (Minimal Wear)",
+        "price": {
+          "min": 0.53,
+          "max": 6.88,
+          "mean": 1.69,
+          "median": 0.78,
+          "suggested": 0.63,
+          "quantity": 63,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "PP-Bizon | Brass (Field-Tested)",
+        "price": {
+          "min": 0.18,
+          "max": 11.66,
+          "mean": 1.19,
+          "median": 0.35,
+          "suggested": 0.24,
+          "quantity": 160,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "PP-Bizon | Brass (Well-Worn)",
+        "price": {
+          "min": 0.09,
+          "max": 5.51,
+          "mean": 0.77,
+          "median": 0.22,
+          "suggested": 0.12,
+          "quantity": 80,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "PP-Bizon | Brass (Battle-Scarred)",
+        "price": {
+          "min": 0.09,
+          "max": 3.5,
+          "mean": 0.47,
+          "median": 0.22,
+          "suggested": 0.12,
+          "quantity": 54,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir PP-Bizon | Brass (Factory New)",
+        "price": {
+          "min": 97.56,
+          "max": 465.61,
+          "mean": 281.58,
+          "median": 281.58,
+          "suggested": 33.68,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir PP-Bizon | Brass (Minimal Wear)",
+        "price": {
+          "min": 17.41,
+          "max": 39.94,
+          "mean": 28.24,
+          "median": 27.81,
+          "suggested": 12.36,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir PP-Bizon | Brass (Field-Tested)",
+        "price": {
+          "min": 6.13,
+          "max": 17.5,
+          "mean": 11.96,
+          "median": 12.1,
+          "suggested": 6.47,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir PP-Bizon | Brass (Well-Worn)",
+        "price": {
+          "min": 5.22,
+          "max": 140.03,
+          "mean": 67.5,
+          "median": 62.37,
+          "suggested": 5.95,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir PP-Bizon | Brass (Battle-Scarred)",
+        "price": {
+          "min": 5.64,
+          "max": 11.66,
+          "mean": 8.65,
+          "median": 8.65,
+          "suggested": 5.68,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:26.919Z"
+}

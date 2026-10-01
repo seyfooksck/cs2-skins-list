@@ -1,0 +1,249 @@
+{
+  "id": "skin-37ac474a54e4",
+  "name": "UMP-45 | Warm Blooded",
+  "paint_index": "1387",
+  "weapon": {
+    "id": "weapon_ump45",
+    "weapon_id": 24,
+    "name": "UMP-45",
+    "slug": "ump45"
+  },
+  "pattern": {
+    "id": "hye_test_animal_print_45",
+    "name": "Warm Blooded"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic. A tan and red animal print pattern has been applied.\\n\\n<i>You said \\\"a few animals\\\", not \\\"the entire animal kingdom\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.09,
+      "max": 91.66,
+      "mean": 6.55,
+      "median": 4.9,
+      "suggested": 1.37,
+      "quantity": 57,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.51,
+      "max": 2.51,
+      "mean": 0.92,
+      "median": 0.67,
+      "suggested": 0.66,
+      "quantity": 29,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.23,
+      "max": 1.52,
+      "mean": 0.35,
+      "median": 0.29,
+      "suggested": 0.31,
+      "quantity": 52,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.26,
+      "max": 2.1,
+      "mean": 0.5,
+      "median": 0.33,
+      "suggested": 0.31,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.26,
+      "max": 0.65,
+      "mean": 0.37,
+      "median": 0.3,
+      "suggested": 0.27,
+      "quantity": 6,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "UMP-45 | Warm Blooded (Factory New)",
+      "price": {
+        "min": 1.09,
+        "max": 91.66,
+        "mean": 6.55,
+        "median": 4.9,
+        "suggested": 1.37,
+        "quantity": 57,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "UMP-45 | Warm Blooded (Minimal Wear)",
+      "price": {
+        "min": 0.51,
+        "max": 2.51,
+        "mean": 0.92,
+        "median": 0.67,
+        "suggested": 0.66,
+        "quantity": 29,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "UMP-45 | Warm Blooded (Field-Tested)",
+      "price": {
+        "min": 0.23,
+        "max": 1.52,
+        "mean": 0.35,
+        "median": 0.29,
+        "suggested": 0.31,
+        "quantity": 52,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "UMP-45 | Warm Blooded (Well-Worn)",
+      "price": {
+        "min": 0.26,
+        "max": 2.1,
+        "mean": 0.5,
+        "median": 0.33,
+        "suggested": 0.31,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "UMP-45 | Warm Blooded (Battle-Scarred)",
+      "price": {
+        "min": 0.26,
+        "max": 0.65,
+        "mean": 0.37,
+        "median": 0.3,
+        "suggested": 0.27,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "UMP-45 | Warm Blooded (Factory New)",
+        "price": {
+          "min": 1.09,
+          "max": 91.66,
+          "mean": 6.55,
+          "median": 4.9,
+          "suggested": 1.37,
+          "quantity": 57,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "UMP-45 | Warm Blooded (Minimal Wear)",
+        "price": {
+          "min": 0.51,
+          "max": 2.51,
+          "mean": 0.92,
+          "median": 0.67,
+          "suggested": 0.66,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "UMP-45 | Warm Blooded (Field-Tested)",
+        "price": {
+          "min": 0.23,
+          "max": 1.52,
+          "mean": 0.35,
+          "median": 0.29,
+          "suggested": 0.31,
+          "quantity": 52,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "UMP-45 | Warm Blooded (Well-Worn)",
+        "price": {
+          "min": 0.26,
+          "max": 2.1,
+          "mean": 0.5,
+          "median": 0.33,
+          "suggested": 0.31,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "UMP-45 | Warm Blooded (Battle-Scarred)",
+        "price": {
+          "min": 0.26,
+          "max": 0.65,
+          "mean": 0.37,
+          "median": 0.3,
+          "suggested": 0.27,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir UMP-45 | Warm Blooded (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir UMP-45 | Warm Blooded (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir UMP-45 | Warm Blooded (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir UMP-45 | Warm Blooded (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir UMP-45 | Warm Blooded (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:50.130Z"
+}

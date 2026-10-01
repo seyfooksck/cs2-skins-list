@@ -1,0 +1,265 @@
+{
+  "id": "skin-89f5d50a2ec7",
+  "name": "Tec-9 | Nuclear Threat",
+  "paint_index": "179",
+  "weapon": {
+    "id": "weapon_tec9",
+    "weapon_id": 30,
+    "name": "Tec-9",
+    "slug": "tec9"
+  },
+  "pattern": {
+    "id": "sp_nukestripe_green_tec9",
+    "name": "Nuclear Threat"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity. It has been spray-painted with radiological warning hazard patterns.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1265.87,
+      "max": 1265.87,
+      "mean": 1265.87,
+      "median": 1265.87,
+      "suggested": 1252.83,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 132.18,
+      "max": 136.11,
+      "mean": 134.31,
+      "median": 134.66,
+      "suggested": 153.78,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 50.65,
+      "max": 137.58,
+      "mean": 72.5,
+      "median": 70.84,
+      "suggested": 72.45,
+      "quantity": 18,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 388.59,
+      "max": 388.59,
+      "mean": 388.59,
+      "median": 388.59,
+      "suggested": 52.41,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 44.29,
+      "max": 100.37,
+      "mean": 65.24,
+      "median": 58.35,
+      "suggested": 57.18,
+      "quantity": 7,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Tec-9 | Nuclear Threat (Factory New)",
+      "price": {
+        "min": 1265.87,
+        "max": 1265.87,
+        "mean": 1265.87,
+        "median": 1265.87,
+        "suggested": 1252.83,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Tec-9 | Nuclear Threat (Minimal Wear)",
+      "price": {
+        "min": 132.18,
+        "max": 136.11,
+        "mean": 134.31,
+        "median": 134.66,
+        "suggested": 153.78,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Tec-9 | Nuclear Threat (Field-Tested)",
+      "price": {
+        "min": 50.65,
+        "max": 137.58,
+        "mean": 72.5,
+        "median": 70.84,
+        "suggested": 72.45,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Tec-9 | Nuclear Threat (Well-Worn)",
+      "price": {
+        "min": 388.59,
+        "max": 388.59,
+        "mean": 388.59,
+        "median": 388.59,
+        "suggested": 52.41,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Tec-9 | Nuclear Threat (Battle-Scarred)",
+      "price": {
+        "min": 44.29,
+        "max": 100.37,
+        "mean": 65.24,
+        "median": 58.35,
+        "suggested": 57.18,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Tec-9 | Nuclear Threat (Factory New)",
+        "price": {
+          "min": 1265.87,
+          "max": 1265.87,
+          "mean": 1265.87,
+          "median": 1265.87,
+          "suggested": 1252.83,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Tec-9 | Nuclear Threat (Minimal Wear)",
+        "price": {
+          "min": 132.18,
+          "max": 136.11,
+          "mean": 134.31,
+          "median": 134.66,
+          "suggested": 153.78,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Tec-9 | Nuclear Threat (Field-Tested)",
+        "price": {
+          "min": 50.65,
+          "max": 137.58,
+          "mean": 72.5,
+          "median": 70.84,
+          "suggested": 72.45,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Tec-9 | Nuclear Threat (Well-Worn)",
+        "price": {
+          "min": 388.59,
+          "max": 388.59,
+          "mean": 388.59,
+          "median": 388.59,
+          "suggested": 52.41,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Tec-9 | Nuclear Threat (Battle-Scarred)",
+        "price": {
+          "min": 44.29,
+          "max": 100.37,
+          "mean": 65.24,
+          "median": 58.35,
+          "suggested": 57.18,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Tec-9 | Nuclear Threat (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Tec-9 | Nuclear Threat (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Tec-9 | Nuclear Threat (Field-Tested)",
+        "price": {
+          "min": 210.05,
+          "max": 210.05,
+          "mean": 210.05,
+          "median": 210.05,
+          "suggested": 125.33,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Tec-9 | Nuclear Threat (Well-Worn)",
+        "price": {
+          "min": 87.05,
+          "max": 87.05,
+          "mean": 87.05,
+          "median": 87.05,
+          "suggested": 87.6,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Tec-9 | Nuclear Threat (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.633Z"
+}

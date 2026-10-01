@@ -1,0 +1,310 @@
+{
+  "id": "skin-d45805538999",
+  "name": "P2000 | Gnarled",
+  "paint_index": "960",
+  "weapon": {
+    "id": "weapon_hkp2000",
+    "weapon_id": 32,
+    "name": "P2000",
+    "slug": "hkp2000"
+  },
+  "pattern": {
+    "id": "aq_p2000_lost_world",
+    "name": "Gnarled"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Accurate and controllable, the German-made P2000 is a serviceable first-round pistol that works best against unarmored opponents. A twisted, alien being stretches from the grip down the slide of this hand painted P2000.\\n\\n<i>From the dark corners of the infinite void</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.65,
+      "max": 264.89,
+      "mean": 11.23,
+      "median": 3.4,
+      "suggested": 2.27,
+      "quantity": 91,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.16,
+      "max": 5.12,
+      "mean": 0.28,
+      "median": 0.25,
+      "suggested": 0.25,
+      "quantity": 366,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.07,
+      "max": 4.67,
+      "mean": 0.16,
+      "median": 0.12,
+      "suggested": 0.1,
+      "quantity": 811,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.06,
+      "max": 7.74,
+      "mean": 0.15,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 793,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.07,
+      "max": 4.67,
+      "mean": 0.2,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 567,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P2000 | Gnarled (Factory New)",
+      "price": {
+        "min": 1.65,
+        "max": 264.89,
+        "mean": 11.23,
+        "median": 3.4,
+        "suggested": 2.27,
+        "quantity": 91,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P2000 | Gnarled (Minimal Wear)",
+      "price": {
+        "min": 0.16,
+        "max": 5.12,
+        "mean": 0.28,
+        "median": 0.25,
+        "suggested": 0.25,
+        "quantity": 366,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P2000 | Gnarled (Field-Tested)",
+      "price": {
+        "min": 0.07,
+        "max": 4.67,
+        "mean": 0.16,
+        "median": 0.12,
+        "suggested": 0.1,
+        "quantity": 811,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P2000 | Gnarled (Well-Worn)",
+      "price": {
+        "min": 0.06,
+        "max": 7.74,
+        "mean": 0.15,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 793,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P2000 | Gnarled (Battle-Scarred)",
+      "price": {
+        "min": 0.07,
+        "max": 4.67,
+        "mean": 0.2,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 567,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P2000 | Gnarled (Factory New)",
+        "price": {
+          "min": 1.65,
+          "max": 264.89,
+          "mean": 11.23,
+          "median": 3.4,
+          "suggested": 2.27,
+          "quantity": 91,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P2000 | Gnarled (Minimal Wear)",
+        "price": {
+          "min": 0.16,
+          "max": 5.12,
+          "mean": 0.28,
+          "median": 0.25,
+          "suggested": 0.25,
+          "quantity": 366,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P2000 | Gnarled (Field-Tested)",
+        "price": {
+          "min": 0.07,
+          "max": 4.67,
+          "mean": 0.16,
+          "median": 0.12,
+          "suggested": 0.1,
+          "quantity": 811,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P2000 | Gnarled (Well-Worn)",
+        "price": {
+          "min": 0.06,
+          "max": 7.74,
+          "mean": 0.15,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 793,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P2000 | Gnarled (Battle-Scarred)",
+        "price": {
+          "min": 0.07,
+          "max": 4.67,
+          "mean": 0.2,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 567,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P2000 | Gnarled (Factory New)",
+        "price": {
+          "min": 1.25,
+          "max": 64.18,
+          "mean": 6.74,
+          "median": 2.38,
+          "suggested": 1.44,
+          "quantity": 41,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P2000 | Gnarled (Minimal Wear)",
+        "price": {
+          "min": 0.21,
+          "max": 10.49,
+          "mean": 0.61,
+          "median": 0.28,
+          "suggested": 0.27,
+          "quantity": 113,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P2000 | Gnarled (Field-Tested)",
+        "price": {
+          "min": 0.09,
+          "max": 7,
+          "mean": 0.21,
+          "median": 0.14,
+          "suggested": 0.13,
+          "quantity": 188,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ P2000 | Gnarled (Well-Worn)",
+        "price": {
+          "min": 0.07,
+          "max": 0.76,
+          "mean": 0.13,
+          "median": 0.12,
+          "suggested": 0.1,
+          "quantity": 211,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ P2000 | Gnarled (Battle-Scarred)",
+        "price": {
+          "min": 0.08,
+          "max": 6.42,
+          "mean": 0.27,
+          "median": 0.13,
+          "suggested": 0.1,
+          "quantity": 186,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P2000 | Gnarled (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P2000 | Gnarled (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P2000 | Gnarled (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P2000 | Gnarled (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P2000 | Gnarled (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:32.443Z"
+}

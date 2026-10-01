@@ -1,0 +1,310 @@
+{
+  "id": "skin-0827f8a09022",
+  "name": "AK-47 | Jaguar",
+  "paint_index": "316",
+  "weapon": {
+    "id": "weapon_ak47",
+    "weapon_id": 7,
+    "name": "AK-47",
+    "slug": "ak47"
+  },
+  "pattern": {
+    "id": "cu_panther_ak47",
+    "name": "Jaguar"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. It has been custom painted with the image of a panther over a tiger camo background.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 512.29,
+      "max": 955.41,
+      "mean": 746.45,
+      "median": 795.05,
+      "suggested": 597.72,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 140.03,
+      "max": 1166.94,
+      "mean": 251.52,
+      "median": 189.25,
+      "suggested": 213.3,
+      "quantity": 38,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 73.04,
+      "max": 291.73,
+      "mean": 112.75,
+      "median": 96.65,
+      "suggested": 106.19,
+      "quantity": 48,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 78.18,
+      "max": 139.27,
+      "mean": 95.06,
+      "median": 86.95,
+      "suggested": 97.78,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 77.59,
+      "max": 143.38,
+      "mean": 89.99,
+      "median": 79.38,
+      "suggested": 96.5,
+      "quantity": 7,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AK-47 | Jaguar (Factory New)",
+      "price": {
+        "min": 512.29,
+        "max": 955.41,
+        "mean": 746.45,
+        "median": 795.05,
+        "suggested": 597.72,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AK-47 | Jaguar (Minimal Wear)",
+      "price": {
+        "min": 140.03,
+        "max": 1166.94,
+        "mean": 251.52,
+        "median": 189.25,
+        "suggested": 213.3,
+        "quantity": 38,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AK-47 | Jaguar (Field-Tested)",
+      "price": {
+        "min": 73.04,
+        "max": 291.73,
+        "mean": 112.75,
+        "median": 96.65,
+        "suggested": 106.19,
+        "quantity": 48,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AK-47 | Jaguar (Well-Worn)",
+      "price": {
+        "min": 78.18,
+        "max": 139.27,
+        "mean": 95.06,
+        "median": 86.95,
+        "suggested": 97.78,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AK-47 | Jaguar (Battle-Scarred)",
+      "price": {
+        "min": 77.59,
+        "max": 143.38,
+        "mean": 89.99,
+        "median": 79.38,
+        "suggested": 96.5,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AK-47 | Jaguar (Factory New)",
+        "price": {
+          "min": 512.29,
+          "max": 955.41,
+          "mean": 746.45,
+          "median": 795.05,
+          "suggested": 597.72,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AK-47 | Jaguar (Minimal Wear)",
+        "price": {
+          "min": 140.03,
+          "max": 1166.94,
+          "mean": 251.52,
+          "median": 189.25,
+          "suggested": 213.3,
+          "quantity": 38,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AK-47 | Jaguar (Field-Tested)",
+        "price": {
+          "min": 73.04,
+          "max": 291.73,
+          "mean": 112.75,
+          "median": 96.65,
+          "suggested": 106.19,
+          "quantity": 48,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AK-47 | Jaguar (Well-Worn)",
+        "price": {
+          "min": 78.18,
+          "max": 139.27,
+          "mean": 95.06,
+          "median": 86.95,
+          "suggested": 97.78,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AK-47 | Jaguar (Battle-Scarred)",
+        "price": {
+          "min": 77.59,
+          "max": 143.38,
+          "mean": 89.99,
+          "median": 79.38,
+          "suggested": 96.5,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AK-47 | Jaguar (Factory New)",
+        "price": {
+          "min": 972.93,
+          "max": 1296.47,
+          "mean": 1134.71,
+          "median": 1134.71,
+          "suggested": 789.02,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AK-47 | Jaguar (Minimal Wear)",
+        "price": {
+          "min": 318.57,
+          "max": 1155.27,
+          "mean": 571.05,
+          "median": 405.18,
+          "suggested": 373.86,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AK-47 | Jaguar (Field-Tested)",
+        "price": {
+          "min": 179.23,
+          "max": 1727.07,
+          "mean": 792.89,
+          "median": 632.62,
+          "suggested": 238.37,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AK-47 | Jaguar (Well-Worn)",
+        "price": {
+          "min": 143.38,
+          "max": 143.38,
+          "mean": 143.38,
+          "median": 143.38,
+          "suggested": 174.97,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ AK-47 | Jaguar (Battle-Scarred)",
+        "price": {
+          "min": 198.38,
+          "max": 198.38,
+          "mean": 198.38,
+          "median": 198.38,
+          "suggested": 155.89,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AK-47 | Jaguar (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AK-47 | Jaguar (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AK-47 | Jaguar (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AK-47 | Jaguar (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AK-47 | Jaguar (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:20:20.734Z"
+}

@@ -1,0 +1,154 @@
+{
+  "id": "skin-795d725893f2",
+  "name": "M4A1-S | Dark Water",
+  "paint_index": "60",
+  "weapon": {
+    "id": "weapon_m4a1_silencer",
+    "weapon_id": 60,
+    "name": "M4A1-S",
+    "slug": "m4a1_silencer"
+  },
+  "pattern": {
+    "id": "am_zebra_dark",
+    "name": "Dark Water"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0.1,
+  "max_float": 0.26,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. It has been painted in an aquatic-stripe pattern with charcoal metallic paints of various reflectivities over a chrome base coat.\\n\\n<i>Water gives life, but it can also take it...</i>",
+  "images": {
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "mw": {
+      "min": 92.19,
+      "max": 1536.21,
+      "mean": 322.14,
+      "median": 187.55,
+      "suggested": 133.08,
+      "quantity": 50,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 70,
+      "max": 1513.82,
+      "mean": 192.24,
+      "median": 83.63,
+      "suggested": 90.97,
+      "quantity": 24,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A1-S | Dark Water (Minimal Wear)",
+      "price": {
+        "min": 92.19,
+        "max": 1536.21,
+        "mean": 322.14,
+        "median": 187.55,
+        "suggested": 133.08,
+        "quantity": 50,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A1-S | Dark Water (Field-Tested)",
+      "price": {
+        "min": 70,
+        "max": 1513.82,
+        "mean": 192.24,
+        "median": 83.63,
+        "suggested": 90.97,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "mw": {
+        "market_hash_name": "M4A1-S | Dark Water (Minimal Wear)",
+        "price": {
+          "min": 92.19,
+          "max": 1536.21,
+          "mean": 322.14,
+          "median": 187.55,
+          "suggested": 133.08,
+          "quantity": 50,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A1-S | Dark Water (Field-Tested)",
+        "price": {
+          "min": 70,
+          "max": 1513.82,
+          "mean": 192.24,
+          "median": 83.63,
+          "suggested": 90.97,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "mw": {
+        "market_hash_name": "StatTrak™ M4A1-S | Dark Water (Minimal Wear)",
+        "price": {
+          "min": 138.26,
+          "max": 1024.14,
+          "mean": 333.02,
+          "median": 236.98,
+          "suggested": 172.97,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ M4A1-S | Dark Water (Field-Tested)",
+        "price": {
+          "min": 129.66,
+          "max": 1024.14,
+          "mean": 436.56,
+          "median": 291.73,
+          "suggested": 141.08,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "mw": {
+        "market_hash_name": "Souvenir M4A1-S | Dark Water (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A1-S | Dark Water (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:40.750Z"
+}

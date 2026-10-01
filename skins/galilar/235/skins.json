@@ -1,0 +1,257 @@
+{
+  "id": "skin-dcf4de6c10e3",
+  "name": "Galil AR | VariCamo",
+  "paint_index": "235",
+  "weapon": {
+    "id": "weapon_galilar",
+    "weapon_id": 13,
+    "name": "Galil AR",
+    "slug": "galilar"
+  },
+  "pattern": {
+    "id": "hy_varicamo",
+    "name": "VariCamo"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat. It has been painted using a VariCamo patterned hydrographic.\\n\\n<i>Rebuilding only comes in the wake of destruction</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.35,
+      "max": 12.66,
+      "mean": 1.7,
+      "median": 0.93,
+      "suggested": 0.42,
+      "quantity": 107,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.08,
+      "max": 4.8,
+      "mean": 0.29,
+      "median": 0.15,
+      "suggested": 0.1,
+      "quantity": 195,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.04,
+      "max": 5.12,
+      "mean": 0.22,
+      "median": 0.18,
+      "suggested": 0.06,
+      "quantity": 282,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.04,
+      "max": 3.5,
+      "mean": 0.29,
+      "median": 0.26,
+      "suggested": 0.07,
+      "quantity": 159,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.05,
+      "max": 0.19,
+      "mean": 0.12,
+      "median": 0.14,
+      "suggested": 0.06,
+      "quantity": 41,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Galil AR | VariCamo (Factory New)",
+      "price": {
+        "min": 0.35,
+        "max": 12.66,
+        "mean": 1.7,
+        "median": 0.93,
+        "suggested": 0.42,
+        "quantity": 107,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Galil AR | VariCamo (Minimal Wear)",
+      "price": {
+        "min": 0.08,
+        "max": 4.8,
+        "mean": 0.29,
+        "median": 0.15,
+        "suggested": 0.1,
+        "quantity": 195,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Galil AR | VariCamo (Field-Tested)",
+      "price": {
+        "min": 0.04,
+        "max": 5.12,
+        "mean": 0.22,
+        "median": 0.18,
+        "suggested": 0.06,
+        "quantity": 282,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Galil AR | VariCamo (Well-Worn)",
+      "price": {
+        "min": 0.04,
+        "max": 3.5,
+        "mean": 0.29,
+        "median": 0.26,
+        "suggested": 0.07,
+        "quantity": 159,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Galil AR | VariCamo (Battle-Scarred)",
+      "price": {
+        "min": 0.05,
+        "max": 0.19,
+        "mean": 0.12,
+        "median": 0.14,
+        "suggested": 0.06,
+        "quantity": 41,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Galil AR | VariCamo (Factory New)",
+        "price": {
+          "min": 0.35,
+          "max": 12.66,
+          "mean": 1.7,
+          "median": 0.93,
+          "suggested": 0.42,
+          "quantity": 107,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Galil AR | VariCamo (Minimal Wear)",
+        "price": {
+          "min": 0.08,
+          "max": 4.8,
+          "mean": 0.29,
+          "median": 0.15,
+          "suggested": 0.1,
+          "quantity": 195,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Galil AR | VariCamo (Field-Tested)",
+        "price": {
+          "min": 0.04,
+          "max": 5.12,
+          "mean": 0.22,
+          "median": 0.18,
+          "suggested": 0.06,
+          "quantity": 282,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Galil AR | VariCamo (Well-Worn)",
+        "price": {
+          "min": 0.04,
+          "max": 3.5,
+          "mean": 0.29,
+          "median": 0.26,
+          "suggested": 0.07,
+          "quantity": 159,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Galil AR | VariCamo (Battle-Scarred)",
+        "price": {
+          "min": 0.05,
+          "max": 0.19,
+          "mean": 0.12,
+          "median": 0.14,
+          "suggested": 0.06,
+          "quantity": 41,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Galil AR | VariCamo (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Galil AR | VariCamo (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Galil AR | VariCamo (Field-Tested)",
+        "price": {
+          "min": 3.72,
+          "max": 122.89,
+          "mean": 44.27,
+          "median": 25.23,
+          "suggested": 2.48,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Galil AR | VariCamo (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Galil AR | VariCamo (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:31.213Z"
+}

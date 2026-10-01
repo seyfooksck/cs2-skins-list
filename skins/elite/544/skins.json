@@ -1,0 +1,258 @@
+{
+  "id": "skin-3de8a2cd3d43",
+  "name": "Dual Berettas | Ventilators",
+  "paint_index": "544",
+  "weapon": {
+    "id": "weapon_elite",
+    "weapon_id": 2,
+    "name": "Dual Berettas",
+    "slug": "elite"
+  },
+  "pattern": {
+    "id": "gs_dualberettas_ventilators",
+    "name": "Ventilators"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.45,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. These pistols have been elegantly painted in chrome.\\n\\n<i>A weapon for artists, by artists</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.98,
+      "max": 159.44,
+      "mean": 5.71,
+      "median": 1.42,
+      "suggested": 1.19,
+      "quantity": 66,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.28,
+      "max": 21.4,
+      "mean": 0.89,
+      "median": 0.39,
+      "suggested": 0.39,
+      "quantity": 91,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.29,
+      "max": 11.67,
+      "mean": 0.96,
+      "median": 0.48,
+      "suggested": 0.48,
+      "quantity": 157,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.3,
+      "max": 0.97,
+      "mean": 0.58,
+      "median": 0.64,
+      "suggested": 0.4,
+      "quantity": 42,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Dual Berettas | Ventilators (Factory New)",
+      "price": {
+        "min": 0.98,
+        "max": 159.44,
+        "mean": 5.71,
+        "median": 1.42,
+        "suggested": 1.19,
+        "quantity": 66,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Dual Berettas | Ventilators (Minimal Wear)",
+      "price": {
+        "min": 0.28,
+        "max": 21.4,
+        "mean": 0.89,
+        "median": 0.39,
+        "suggested": 0.39,
+        "quantity": 91,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Dual Berettas | Ventilators (Field-Tested)",
+      "price": {
+        "min": 0.29,
+        "max": 11.67,
+        "mean": 0.96,
+        "median": 0.48,
+        "suggested": 0.48,
+        "quantity": 157,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Dual Berettas | Ventilators (Well-Worn)",
+      "price": {
+        "min": 0.3,
+        "max": 0.97,
+        "mean": 0.58,
+        "median": 0.64,
+        "suggested": 0.4,
+        "quantity": 42,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Dual Berettas | Ventilators (Factory New)",
+        "price": {
+          "min": 0.98,
+          "max": 159.44,
+          "mean": 5.71,
+          "median": 1.42,
+          "suggested": 1.19,
+          "quantity": 66,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Dual Berettas | Ventilators (Minimal Wear)",
+        "price": {
+          "min": 0.28,
+          "max": 21.4,
+          "mean": 0.89,
+          "median": 0.39,
+          "suggested": 0.39,
+          "quantity": 91,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Dual Berettas | Ventilators (Field-Tested)",
+        "price": {
+          "min": 0.29,
+          "max": 11.67,
+          "mean": 0.96,
+          "median": 0.48,
+          "suggested": 0.48,
+          "quantity": 157,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Dual Berettas | Ventilators (Well-Worn)",
+        "price": {
+          "min": 0.3,
+          "max": 0.97,
+          "mean": 0.58,
+          "median": 0.64,
+          "suggested": 0.4,
+          "quantity": 42,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Dual Berettas | Ventilators (Factory New)",
+        "price": {
+          "min": 0.96,
+          "max": 20.92,
+          "mean": 3.43,
+          "median": 1.28,
+          "suggested": 1.11,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Dual Berettas | Ventilators (Minimal Wear)",
+        "price": {
+          "min": 0.47,
+          "max": 50.18,
+          "mean": 1.87,
+          "median": 0.56,
+          "suggested": 0.62,
+          "quantity": 54,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Dual Berettas | Ventilators (Field-Tested)",
+        "price": {
+          "min": 0.25,
+          "max": 10.5,
+          "mean": 0.6,
+          "median": 0.32,
+          "suggested": 0.37,
+          "quantity": 66,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Dual Berettas | Ventilators (Well-Worn)",
+        "price": {
+          "min": 0.3,
+          "max": 1.17,
+          "mean": 0.51,
+          "median": 0.47,
+          "suggested": 0.37,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Dual Berettas | Ventilators (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Dual Berettas | Ventilators (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Dual Berettas | Ventilators (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Dual Berettas | Ventilators (Well-Worn)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:28.941Z"
+}

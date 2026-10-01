@@ -1,0 +1,257 @@
+{
+  "id": "skin-279d95d3dd65",
+  "name": "Sawed-Off | Irradiated Alert",
+  "paint_index": "171",
+  "weapon": {
+    "id": "weapon_sawedoff",
+    "weapon_id": 29,
+    "name": "Sawed-Off",
+    "slug": "sawedoff"
+  },
+  "pattern": {
+    "id": "sp_nukestripe_brown",
+    "name": "Irradiated Alert"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit. It has been spray-painted with radiological warning hazard patterns.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 4.28,
+      "max": 5.41,
+      "mean": 4.78,
+      "median": 4.66,
+      "suggested": 5.29,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.45,
+      "max": 38.96,
+      "mean": 7.6,
+      "median": 3.1,
+      "suggested": 2.64,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 11.42,
+      "max": 12.86,
+      "mean": 12.11,
+      "median": 11.44,
+      "suggested": 2.36,
+      "quantity": 19,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 2.04,
+      "max": 7.99,
+      "mean": 6.51,
+      "median": 7.99,
+      "suggested": 2.4,
+      "quantity": 4,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Sawed-Off | Irradiated Alert (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Sawed-Off | Irradiated Alert (Minimal Wear)",
+      "price": {
+        "min": 4.28,
+        "max": 5.41,
+        "mean": 4.78,
+        "median": 4.66,
+        "suggested": 5.29,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Sawed-Off | Irradiated Alert (Field-Tested)",
+      "price": {
+        "min": 2.45,
+        "max": 38.96,
+        "mean": 7.6,
+        "median": 3.1,
+        "suggested": 2.64,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Sawed-Off | Irradiated Alert (Well-Worn)",
+      "price": {
+        "min": 11.42,
+        "max": 12.86,
+        "mean": 12.11,
+        "median": 11.44,
+        "suggested": 2.36,
+        "quantity": 19,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Sawed-Off | Irradiated Alert (Battle-Scarred)",
+      "price": {
+        "min": 2.04,
+        "max": 7.99,
+        "mean": 6.51,
+        "median": 7.99,
+        "suggested": 2.4,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Sawed-Off | Irradiated Alert (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Sawed-Off | Irradiated Alert (Minimal Wear)",
+        "price": {
+          "min": 4.28,
+          "max": 5.41,
+          "mean": 4.78,
+          "median": 4.66,
+          "suggested": 5.29,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Sawed-Off | Irradiated Alert (Field-Tested)",
+        "price": {
+          "min": 2.45,
+          "max": 38.96,
+          "mean": 7.6,
+          "median": 3.1,
+          "suggested": 2.64,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Sawed-Off | Irradiated Alert (Well-Worn)",
+        "price": {
+          "min": 11.42,
+          "max": 12.86,
+          "mean": 12.11,
+          "median": 11.44,
+          "suggested": 2.36,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Sawed-Off | Irradiated Alert (Battle-Scarred)",
+        "price": {
+          "min": 2.04,
+          "max": 7.99,
+          "mean": 6.51,
+          "median": 7.99,
+          "suggested": 2.4,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Sawed-Off | Irradiated Alert (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Sawed-Off | Irradiated Alert (Minimal Wear)",
+        "price": {
+          "min": 5.06,
+          "max": 131,
+          "mean": 67.78,
+          "median": 79.9,
+          "suggested": 3.54,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Sawed-Off | Irradiated Alert (Field-Tested)",
+        "price": {
+          "min": 2.33,
+          "max": 159.87,
+          "mean": 30.64,
+          "median": 8.26,
+          "suggested": 2.73,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Sawed-Off | Irradiated Alert (Well-Worn)",
+        "price": {
+          "min": 1.7,
+          "max": 118.74,
+          "mean": 39.79,
+          "median": 19.37,
+          "suggested": 2.06,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Sawed-Off | Irradiated Alert (Battle-Scarred)",
+        "price": {
+          "min": 1.77,
+          "max": 19.84,
+          "mean": 7.67,
+          "median": 5.72,
+          "suggested": 1.96,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:47.323Z"
+}

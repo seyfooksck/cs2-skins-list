@@ -1,0 +1,289 @@
+{
+  "id": "skin-eed9c3fe4b9d",
+  "name": "M249 | Submerged",
+  "paint_index": "1242",
+  "weapon": {
+    "id": "weapon_m249",
+    "weapon_id": 14,
+    "name": "M249",
+    "slug": "m249"
+  },
+  "pattern": {
+    "id": "cu_m249_scarab",
+    "name": "Submerged"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0.02,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A strong open-area LMG, the M249 is the perfect choice for players willing to trade a slow fire rate for increased accuracy and a high ammo capacity. It has been custom painted using teal-colored desert camouflage and environments as inspiration.\\n\\n<i>\\\"WE'VE BEEN SET UP! THEY'RE EVERYWHERE!\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.83,
+      "max": 21.82,
+      "mean": 2.86,
+      "median": 1.09,
+      "suggested": 0.69,
+      "quantity": 44,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.12,
+      "max": 7.19,
+      "mean": 0.58,
+      "median": 0.54,
+      "suggested": 0.18,
+      "quantity": 471,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.02,
+      "max": 5.81,
+      "mean": 0.29,
+      "median": 0.09,
+      "suggested": 0.05,
+      "quantity": 765,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.05,
+      "max": 2.8,
+      "mean": 0.35,
+      "median": 0.11,
+      "suggested": 0.07,
+      "quantity": 34,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.04,
+      "max": 2.39,
+      "mean": 0.41,
+      "median": 0.07,
+      "suggested": 0.06,
+      "quantity": 107,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M249 | Submerged (Factory New)",
+      "price": {
+        "min": 0.83,
+        "max": 21.82,
+        "mean": 2.86,
+        "median": 1.09,
+        "suggested": 0.69,
+        "quantity": 44,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M249 | Submerged (Minimal Wear)",
+      "price": {
+        "min": 0.12,
+        "max": 7.19,
+        "mean": 0.58,
+        "median": 0.54,
+        "suggested": 0.18,
+        "quantity": 471,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M249 | Submerged (Field-Tested)",
+      "price": {
+        "min": 0.02,
+        "max": 5.81,
+        "mean": 0.29,
+        "median": 0.09,
+        "suggested": 0.05,
+        "quantity": 765,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M249 | Submerged (Well-Worn)",
+      "price": {
+        "min": 0.05,
+        "max": 2.8,
+        "mean": 0.35,
+        "median": 0.11,
+        "suggested": 0.07,
+        "quantity": 34,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M249 | Submerged (Battle-Scarred)",
+      "price": {
+        "min": 0.04,
+        "max": 2.39,
+        "mean": 0.41,
+        "median": 0.07,
+        "suggested": 0.06,
+        "quantity": 107,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M249 | Submerged (Factory New)",
+        "price": {
+          "min": 0.83,
+          "max": 21.82,
+          "mean": 2.86,
+          "median": 1.09,
+          "suggested": 0.69,
+          "quantity": 44,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M249 | Submerged (Minimal Wear)",
+        "price": {
+          "min": 0.12,
+          "max": 7.19,
+          "mean": 0.58,
+          "median": 0.54,
+          "suggested": 0.18,
+          "quantity": 471,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M249 | Submerged (Field-Tested)",
+        "price": {
+          "min": 0.02,
+          "max": 5.81,
+          "mean": 0.29,
+          "median": 0.09,
+          "suggested": 0.05,
+          "quantity": 765,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M249 | Submerged (Well-Worn)",
+        "price": {
+          "min": 0.05,
+          "max": 2.8,
+          "mean": 0.35,
+          "median": 0.11,
+          "suggested": 0.07,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M249 | Submerged (Battle-Scarred)",
+        "price": {
+          "min": 0.04,
+          "max": 2.39,
+          "mean": 0.41,
+          "median": 0.07,
+          "suggested": 0.06,
+          "quantity": 107,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M249 | Submerged (Factory New)",
+        "price": {
+          "min": 2.33,
+          "max": 17.5,
+          "mean": 5.9,
+          "median": 3.82,
+          "suggested": 0.67,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M249 | Submerged (Minimal Wear)",
+        "price": {
+          "min": 0.14,
+          "max": 69.63,
+          "mean": 4.47,
+          "median": 0.34,
+          "suggested": 0.16,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M249 | Submerged (Field-Tested)",
+        "price": {
+          "min": 0.05,
+          "max": 18.99,
+          "mean": 2.19,
+          "median": 0.16,
+          "suggested": 0.08,
+          "quantity": 307,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M249 | Submerged (Well-Worn)",
+        "price": {
+          "min": 0.06,
+          "max": 14,
+          "mean": 2.98,
+          "median": 1.45,
+          "suggested": 0.1,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M249 | Submerged (Battle-Scarred)",
+        "price": {
+          "min": 0.02,
+          "max": 18.99,
+          "mean": 2.66,
+          "median": 1.38,
+          "suggested": 0.06,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:39.755Z"
+}

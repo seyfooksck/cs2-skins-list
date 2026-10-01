@@ -1,0 +1,249 @@
+{
+  "id": "skin-5b5a4da33e83",
+  "name": "M4A1-S | Imminent Danger",
+  "paint_index": "1073",
+  "weapon": {
+    "id": "weapon_m4a1_silencer",
+    "weapon_id": 60,
+    "name": "M4A1-S",
+    "slug": "m4a1_silencer"
+  },
+  "pattern": {
+    "id": "gs_m4a1_vertigo",
+    "name": "Imminent Danger"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.8,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. A custom paint job of multicolored safety signs has been applied.\\n\\n<i>Don't say I didn't warn you… - Booth, Arms Dealer</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1633.71,
+      "max": 3384.12,
+      "mean": 2101.47,
+      "median": 1808.75,
+      "suggested": 1673.32,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1184.91,
+      "max": 1184.91,
+      "mean": 1184.91,
+      "median": 1184.91,
+      "suggested": 1151.35,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 585.24,
+      "max": 957.31,
+      "mean": 747.19,
+      "median": 723.12,
+      "suggested": 754.25,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 778.6,
+      "max": 778.6,
+      "mean": 778.6,
+      "median": 778.6,
+      "suggested": 714.91,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A1-S | Imminent Danger (Factory New)",
+      "price": {
+        "min": 1633.71,
+        "max": 3384.12,
+        "mean": 2101.47,
+        "median": 1808.75,
+        "suggested": 1673.32,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A1-S | Imminent Danger (Minimal Wear)",
+      "price": {
+        "min": 1184.91,
+        "max": 1184.91,
+        "mean": 1184.91,
+        "median": 1184.91,
+        "suggested": 1151.35,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A1-S | Imminent Danger (Field-Tested)",
+      "price": {
+        "min": 585.24,
+        "max": 957.31,
+        "mean": 747.19,
+        "median": 723.12,
+        "suggested": 754.25,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M4A1-S | Imminent Danger (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M4A1-S | Imminent Danger (Battle-Scarred)",
+      "price": {
+        "min": 778.6,
+        "max": 778.6,
+        "mean": 778.6,
+        "median": 778.6,
+        "suggested": 714.91,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A1-S | Imminent Danger (Factory New)",
+        "price": {
+          "min": 1633.71,
+          "max": 3384.12,
+          "mean": 2101.47,
+          "median": 1808.75,
+          "suggested": 1673.32,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A1-S | Imminent Danger (Minimal Wear)",
+        "price": {
+          "min": 1184.91,
+          "max": 1184.91,
+          "mean": 1184.91,
+          "median": 1184.91,
+          "suggested": 1151.35,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A1-S | Imminent Danger (Field-Tested)",
+        "price": {
+          "min": 585.24,
+          "max": 957.31,
+          "mean": 747.19,
+          "median": 723.12,
+          "suggested": 754.25,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M4A1-S | Imminent Danger (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "M4A1-S | Imminent Danger (Battle-Scarred)",
+        "price": {
+          "min": 778.6,
+          "max": 778.6,
+          "mean": 778.6,
+          "median": 778.6,
+          "suggested": 714.91,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A1-S | Imminent Danger (Factory New)",
+        "price": {
+          "min": 1588.95,
+          "max": 1588.95,
+          "mean": 1588.95,
+          "median": 1588.95,
+          "suggested": 1841.26,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A1-S | Imminent Danger (Minimal Wear)",
+        "price": {
+          "min": 2895.51,
+          "max": 2895.51,
+          "mean": 2895.51,
+          "median": 2895.51,
+          "suggested": 1110.87,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A1-S | Imminent Danger (Field-Tested)",
+        "price": {
+          "min": 1108.58,
+          "max": 1108.58,
+          "mean": 1108.58,
+          "median": 1108.58,
+          "suggested": 693.53,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M4A1-S | Imminent Danger (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M4A1-S | Imminent Danger (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:40.994Z"
+}

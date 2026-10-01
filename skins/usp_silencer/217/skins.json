@@ -1,0 +1,206 @@
+{
+  "id": "skin-60bd7f6cf084",
+  "name": "USP-S | Blood Tiger",
+  "paint_index": "217",
+  "weapon": {
+    "id": "weapon_usp_silencer",
+    "weapon_id": 61,
+    "name": "USP-S",
+    "slug": "usp_silencer"
+  },
+  "pattern": {
+    "id": "hy_redtiger",
+    "name": "Blood Tiger"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.3,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise. It has been painted using a jungle tiger hydrographic.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 28.01,
+      "max": 430.45,
+      "mean": 57,
+      "median": 38.78,
+      "suggested": 39.49,
+      "quantity": 37,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 3.65,
+      "max": 129.52,
+      "mean": 18.34,
+      "median": 4.38,
+      "suggested": 4.27,
+      "quantity": 24,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 3.36,
+      "max": 23.33,
+      "mean": 6.23,
+      "median": 4.36,
+      "suggested": 3.94,
+      "quantity": 14,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "USP-S | Blood Tiger (Factory New)",
+      "price": {
+        "min": 28.01,
+        "max": 430.45,
+        "mean": 57,
+        "median": 38.78,
+        "suggested": 39.49,
+        "quantity": 37,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "USP-S | Blood Tiger (Minimal Wear)",
+      "price": {
+        "min": 3.65,
+        "max": 129.52,
+        "mean": 18.34,
+        "median": 4.38,
+        "suggested": 4.27,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "USP-S | Blood Tiger (Field-Tested)",
+      "price": {
+        "min": 3.36,
+        "max": 23.33,
+        "mean": 6.23,
+        "median": 4.36,
+        "suggested": 3.94,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "USP-S | Blood Tiger (Factory New)",
+        "price": {
+          "min": 28.01,
+          "max": 430.45,
+          "mean": 57,
+          "median": 38.78,
+          "suggested": 39.49,
+          "quantity": 37,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "USP-S | Blood Tiger (Minimal Wear)",
+        "price": {
+          "min": 3.65,
+          "max": 129.52,
+          "mean": 18.34,
+          "median": 4.38,
+          "suggested": 4.27,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "USP-S | Blood Tiger (Field-Tested)",
+        "price": {
+          "min": 3.36,
+          "max": 23.33,
+          "mean": 6.23,
+          "median": 4.36,
+          "suggested": 3.94,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ USP-S | Blood Tiger (Factory New)",
+        "price": {
+          "min": 11.25,
+          "max": 87.52,
+          "mean": 25.16,
+          "median": 14.33,
+          "suggested": 13.18,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ USP-S | Blood Tiger (Minimal Wear)",
+        "price": {
+          "min": 4.33,
+          "max": 132.16,
+          "mean": 14.79,
+          "median": 8.71,
+          "suggested": 5.17,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ USP-S | Blood Tiger (Field-Tested)",
+        "price": {
+          "min": 3.73,
+          "max": 90.17,
+          "mean": 13.28,
+          "median": 6.71,
+          "suggested": 4.3,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir USP-S | Blood Tiger (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir USP-S | Blood Tiger (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir USP-S | Blood Tiger (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:50.732Z"
+}

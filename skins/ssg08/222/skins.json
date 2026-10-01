@@ -1,0 +1,206 @@
+{
+  "id": "skin-c1a20624eb22",
+  "name": "SSG 08 | Blood in the Water",
+  "paint_index": "222",
+  "weapon": {
+    "id": "weapon_ssg08",
+    "weapon_id": 40,
+    "name": "SSG 08",
+    "slug": "ssg08"
+  },
+  "pattern": {
+    "id": "cu_shark",
+    "name": "Blood in the Water"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.2,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship. It has been airbrushed with the image of a shark.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 161.12,
+      "max": 525.12,
+      "mean": 251.19,
+      "median": 223.4,
+      "suggested": 240.81,
+      "quantity": 27,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 95.69,
+      "max": 233.39,
+      "mean": 121.98,
+      "median": 111.61,
+      "suggested": 123.58,
+      "quantity": 59,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 92.64,
+      "max": 124.89,
+      "mean": 108.48,
+      "median": 111.7,
+      "suggested": 124.19,
+      "quantity": 6,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SSG 08 | Blood in the Water (Factory New)",
+      "price": {
+        "min": 161.12,
+        "max": 525.12,
+        "mean": 251.19,
+        "median": 223.4,
+        "suggested": 240.81,
+        "quantity": 27,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SSG 08 | Blood in the Water (Minimal Wear)",
+      "price": {
+        "min": 95.69,
+        "max": 233.39,
+        "mean": 121.98,
+        "median": 111.61,
+        "suggested": 123.58,
+        "quantity": 59,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "SSG 08 | Blood in the Water (Field-Tested)",
+      "price": {
+        "min": 92.64,
+        "max": 124.89,
+        "mean": 108.48,
+        "median": 111.7,
+        "suggested": 124.19,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SSG 08 | Blood in the Water (Factory New)",
+        "price": {
+          "min": 161.12,
+          "max": 525.12,
+          "mean": 251.19,
+          "median": 223.4,
+          "suggested": 240.81,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "SSG 08 | Blood in the Water (Minimal Wear)",
+        "price": {
+          "min": 95.69,
+          "max": 233.39,
+          "mean": 121.98,
+          "median": 111.61,
+          "suggested": 123.58,
+          "quantity": 59,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "SSG 08 | Blood in the Water (Field-Tested)",
+        "price": {
+          "min": 92.64,
+          "max": 124.89,
+          "mean": 108.48,
+          "median": 111.7,
+          "suggested": 124.19,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ SSG 08 | Blood in the Water (Factory New)",
+        "price": {
+          "min": 487.13,
+          "max": 700.15,
+          "mean": 574.72,
+          "median": 536.88,
+          "suggested": 636.64,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ SSG 08 | Blood in the Water (Minimal Wear)",
+        "price": {
+          "min": 259.32,
+          "max": 338.4,
+          "mean": 302.95,
+          "median": 298.22,
+          "suggested": 333.63,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ SSG 08 | Blood in the Water (Field-Tested)",
+        "price": {
+          "min": 246.95,
+          "max": 246.95,
+          "mean": 246.95,
+          "median": 246.95,
+          "suggested": 242.38,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SSG 08 | Blood in the Water (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir SSG 08 | Blood in the Water (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir SSG 08 | Blood in the Water (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:48.376Z"
+}

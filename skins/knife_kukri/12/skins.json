@@ -1,0 +1,281 @@
+{
+  "id": "skin-2f3b8c9ded18",
+  "name": "★ Kukri Knife | Crimson Web",
+  "paint_index": "12",
+  "weapon": {
+    "id": "weapon_knife_kukri",
+    "weapon_id": 526,
+    "name": "Kukri Knife",
+    "slug": "knife_kukri"
+  },
+  "pattern": {
+    "id": "hy_webs",
+    "name": "Crimson Web"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Used in traditional rituals, such as weddings or stabbings. It has been painted using a spider web-patterned hydrographic over a red base coat and finished with a semi-gloss topcoat.\\n\\n<i>Be careful where you walk, you never know where the web is spread</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 394.97,
+      "max": 461.01,
+      "mean": 428,
+      "median": 428,
+      "suggested": 486.19,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 140.02,
+      "max": 512.29,
+      "mean": 237.54,
+      "median": 208.24,
+      "suggested": 163.73,
+      "quantity": 19,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 94.52,
+      "max": 1166.94,
+      "mean": 160.55,
+      "median": 111.75,
+      "suggested": 122.18,
+      "quantity": 34,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 109.87,
+      "max": 128.36,
+      "mean": 118.3,
+      "median": 116.69,
+      "suggested": 116.24,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 83.9,
+      "max": 175.04,
+      "mean": 101.83,
+      "median": 94.69,
+      "suggested": 96.71,
+      "quantity": 10,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Kukri Knife | Crimson Web (Factory New)",
+      "price": {
+        "min": 394.97,
+        "max": 461.01,
+        "mean": 428,
+        "median": 428,
+        "suggested": 486.19,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Kukri Knife | Crimson Web (Minimal Wear)",
+      "price": {
+        "min": 140.02,
+        "max": 512.29,
+        "mean": 237.54,
+        "median": 208.24,
+        "suggested": 163.73,
+        "quantity": 19,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Kukri Knife | Crimson Web (Field-Tested)",
+      "price": {
+        "min": 94.52,
+        "max": 1166.94,
+        "mean": 160.55,
+        "median": 111.75,
+        "suggested": 122.18,
+        "quantity": 34,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Kukri Knife | Crimson Web (Well-Worn)",
+      "price": {
+        "min": 109.87,
+        "max": 128.36,
+        "mean": 118.3,
+        "median": 116.69,
+        "suggested": 116.24,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Kukri Knife | Crimson Web (Battle-Scarred)",
+      "price": {
+        "min": 83.9,
+        "max": 175.04,
+        "mean": 101.83,
+        "median": 94.69,
+        "suggested": 96.71,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Kukri Knife | Crimson Web (Factory New)",
+        "price": {
+          "min": 394.97,
+          "max": 461.01,
+          "mean": 428,
+          "median": 428,
+          "suggested": 486.19,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Kukri Knife | Crimson Web (Minimal Wear)",
+        "price": {
+          "min": 140.02,
+          "max": 512.29,
+          "mean": 237.54,
+          "median": 208.24,
+          "suggested": 163.73,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Kukri Knife | Crimson Web (Field-Tested)",
+        "price": {
+          "min": 94.52,
+          "max": 1166.94,
+          "mean": 160.55,
+          "median": 111.75,
+          "suggested": 122.18,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Kukri Knife | Crimson Web (Well-Worn)",
+        "price": {
+          "min": 109.87,
+          "max": 128.36,
+          "mean": 118.3,
+          "median": 116.69,
+          "suggested": 116.24,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Kukri Knife | Crimson Web (Battle-Scarred)",
+        "price": {
+          "min": 83.9,
+          "max": 175.04,
+          "mean": 101.83,
+          "median": 94.69,
+          "suggested": 96.71,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Kukri Knife | Crimson Web (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Kukri Knife | Crimson Web (Minimal Wear)",
+        "price": {
+          "min": 164.89,
+          "max": 179.23,
+          "mean": 170.92,
+          "median": 168.65,
+          "suggested": 176.07,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Kukri Knife | Crimson Web (Field-Tested)",
+        "price": {
+          "min": 92.16,
+          "max": 128.36,
+          "mean": 112.2,
+          "median": 116.06,
+          "suggested": 131.28,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Kukri Knife | Crimson Web (Well-Worn)",
+        "price": {
+          "min": 219,
+          "max": 219,
+          "mean": 219,
+          "median": 219,
+          "suggested": 118.77,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Kukri Knife | Crimson Web (Battle-Scarred)",
+        "price": {
+          "min": 92.49,
+          "max": 92.49,
+          "mean": 92.49,
+          "median": 92.49,
+          "suggested": 106.06,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:36.218Z"
+}

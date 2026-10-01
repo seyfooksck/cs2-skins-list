@@ -1,0 +1,310 @@
+{
+  "id": "skin-15b7d57d04c1",
+  "name": "PP-Bizon | Blue Streak",
+  "paint_index": "13",
+  "weapon": {
+    "id": "weapon_bizon",
+    "weapon_id": 26,
+    "name": "PP-Bizon",
+    "slug": "bizon"
+  },
+  "pattern": {
+    "id": "hy_splatter",
+    "name": "Blue Streak"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly. It has been painted using a semi-transparent hydrographic of a splatter pattern over an aqua blue base coat.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 17.17,
+      "max": 233.38,
+      "mean": 68.17,
+      "median": 33.07,
+      "suggested": 18.81,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 7.15,
+      "max": 122.41,
+      "mean": 29.56,
+      "median": 10.09,
+      "suggested": 6.69,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 3.22,
+      "max": 5.09,
+      "mean": 3.71,
+      "median": 3.47,
+      "suggested": 3.71,
+      "quantity": 13,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 3.54,
+      "max": 3.54,
+      "mean": 3.54,
+      "median": 3.54,
+      "suggested": 3.82,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 3.58,
+      "max": 3.62,
+      "mean": 3.61,
+      "median": 3.61,
+      "suggested": 3.67,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "PP-Bizon | Blue Streak (Factory New)",
+      "price": {
+        "min": 17.17,
+        "max": 233.38,
+        "mean": 68.17,
+        "median": 33.07,
+        "suggested": 18.81,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "PP-Bizon | Blue Streak (Minimal Wear)",
+      "price": {
+        "min": 7.15,
+        "max": 122.41,
+        "mean": 29.56,
+        "median": 10.09,
+        "suggested": 6.69,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "PP-Bizon | Blue Streak (Field-Tested)",
+      "price": {
+        "min": 3.22,
+        "max": 5.09,
+        "mean": 3.71,
+        "median": 3.47,
+        "suggested": 3.71,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "PP-Bizon | Blue Streak (Well-Worn)",
+      "price": {
+        "min": 3.54,
+        "max": 3.54,
+        "mean": 3.54,
+        "median": 3.54,
+        "suggested": 3.82,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "PP-Bizon | Blue Streak (Battle-Scarred)",
+      "price": {
+        "min": 3.58,
+        "max": 3.62,
+        "mean": 3.61,
+        "median": 3.61,
+        "suggested": 3.67,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "PP-Bizon | Blue Streak (Factory New)",
+        "price": {
+          "min": 17.17,
+          "max": 233.38,
+          "mean": 68.17,
+          "median": 33.07,
+          "suggested": 18.81,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "PP-Bizon | Blue Streak (Minimal Wear)",
+        "price": {
+          "min": 7.15,
+          "max": 122.41,
+          "mean": 29.56,
+          "median": 10.09,
+          "suggested": 6.69,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "PP-Bizon | Blue Streak (Field-Tested)",
+        "price": {
+          "min": 3.22,
+          "max": 5.09,
+          "mean": 3.71,
+          "median": 3.47,
+          "suggested": 3.71,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "PP-Bizon | Blue Streak (Well-Worn)",
+        "price": {
+          "min": 3.54,
+          "max": 3.54,
+          "mean": 3.54,
+          "median": 3.54,
+          "suggested": 3.82,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "PP-Bizon | Blue Streak (Battle-Scarred)",
+        "price": {
+          "min": 3.58,
+          "max": 3.62,
+          "mean": 3.61,
+          "median": 3.61,
+          "suggested": 3.67,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Blue Streak (Factory New)",
+        "price": {
+          "min": 43.18,
+          "max": 71.07,
+          "mean": 57.12,
+          "median": 57.12,
+          "suggested": 48.65,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Blue Streak (Minimal Wear)",
+        "price": {
+          "min": 7.53,
+          "max": 29.06,
+          "mean": 14.24,
+          "median": 9.25,
+          "suggested": 8.63,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Blue Streak (Field-Tested)",
+        "price": {
+          "min": 3.82,
+          "max": 5.85,
+          "mean": 4.56,
+          "median": 4.46,
+          "suggested": 4.45,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Blue Streak (Well-Worn)",
+        "price": {
+          "min": 4.29,
+          "max": 4.29,
+          "mean": 4.29,
+          "median": 4.29,
+          "suggested": 5.06,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Blue Streak (Battle-Scarred)",
+        "price": {
+          "min": 3.47,
+          "max": 3.47,
+          "mean": 3.47,
+          "median": 3.47,
+          "suggested": 4.16,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir PP-Bizon | Blue Streak (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir PP-Bizon | Blue Streak (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir PP-Bizon | Blue Streak (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir PP-Bizon | Blue Streak (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir PP-Bizon | Blue Streak (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:27.208Z"
+}

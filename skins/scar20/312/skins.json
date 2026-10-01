@@ -1,0 +1,246 @@
+{
+  "id": "skin-bc6a17b8b04c",
+  "name": "SCAR-20 | Cyrex",
+  "paint_index": "312",
+  "weapon": {
+    "id": "weapon_scar20",
+    "weapon_id": 38,
+    "name": "SCAR-20",
+    "slug": "scar20"
+  },
+  "pattern": {
+    "id": "cu_scar_cyrex",
+    "name": "Cyrex"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The SCAR-20 is a semi-automatic sniper rifle that trades a high rate of fire and powerful long-distance damage for sluggish movement speed and big price tag. It has been custom painted with a high-tech design in black, white, and red.\\n\\n<i>Sebastien is coming for me Valeria... we don't have much time - Chase Turner, Coalition Defector</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 41.32,
+      "max": 91.58,
+      "mean": 58,
+      "median": 53.06,
+      "suggested": 56.1,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 26.58,
+      "max": 70.02,
+      "mean": 40.75,
+      "median": 34.98,
+      "suggested": 36.09,
+      "quantity": 26,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 22.71,
+      "max": 36.16,
+      "mean": 27.69,
+      "median": 27.45,
+      "suggested": 31.53,
+      "quantity": 16,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SCAR-20 | Cyrex (Factory New)",
+      "price": {
+        "min": 41.32,
+        "max": 91.58,
+        "mean": 58,
+        "median": 53.06,
+        "suggested": 56.1,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SCAR-20 | Cyrex (Minimal Wear)",
+      "price": {
+        "min": 26.58,
+        "max": 70.02,
+        "mean": 40.75,
+        "median": 34.98,
+        "suggested": 36.09,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "SCAR-20 | Cyrex (Field-Tested)",
+      "price": {
+        "min": 22.71,
+        "max": 36.16,
+        "mean": 27.69,
+        "median": 27.45,
+        "suggested": 31.53,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "SCAR-20 | Cyrex (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "SCAR-20 | Cyrex (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SCAR-20 | Cyrex (Factory New)",
+        "price": {
+          "min": 41.32,
+          "max": 91.58,
+          "mean": 58,
+          "median": 53.06,
+          "suggested": 56.1,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "SCAR-20 | Cyrex (Minimal Wear)",
+        "price": {
+          "min": 26.58,
+          "max": 70.02,
+          "mean": 40.75,
+          "median": 34.98,
+          "suggested": 36.09,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "SCAR-20 | Cyrex (Field-Tested)",
+        "price": {
+          "min": 22.71,
+          "max": 36.16,
+          "mean": 27.69,
+          "median": 27.45,
+          "suggested": 31.53,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "SCAR-20 | Cyrex (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "SCAR-20 | Cyrex (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ SCAR-20 | Cyrex (Factory New)",
+        "price": {
+          "min": 82.6,
+          "max": 116.69,
+          "mean": 102.28,
+          "median": 107.57,
+          "suggested": 96.48,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ SCAR-20 | Cyrex (Minimal Wear)",
+        "price": {
+          "min": 69.15,
+          "max": 204.21,
+          "mean": 123.78,
+          "median": 110.86,
+          "suggested": 59.11,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ SCAR-20 | Cyrex (Field-Tested)",
+        "price": {
+          "min": 43.47,
+          "max": 80.95,
+          "mean": 62.16,
+          "median": 62.1,
+          "suggested": 49.03,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ SCAR-20 | Cyrex (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ SCAR-20 | Cyrex (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SCAR-20 | Cyrex (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir SCAR-20 | Cyrex (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir SCAR-20 | Cyrex (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir SCAR-20 | Cyrex (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir SCAR-20 | Cyrex (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:47.486Z"
+}

@@ -1,0 +1,257 @@
+{
+  "id": "skin-07d3aad223e4",
+  "name": "M4A4 | Steel Work",
+  "paint_index": "1313",
+  "weapon": {
+    "id": "weapon_m4a1",
+    "weapon_id": 16,
+    "name": "M4A4",
+    "slug": "m4a1"
+  },
+  "pattern": {
+    "id": "ht_metal_edges",
+    "name": "Steel Work"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. Its worn steel base is finished with red ribbons and a matching red grip and magazine.\\n\\n<i>It's on site!</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.41,
+      "max": 25.09,
+      "mean": 3.9,
+      "median": 3.38,
+      "suggested": 0.36,
+      "quantity": 125,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.09,
+      "max": 4.84,
+      "mean": 0.35,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 87,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.02,
+      "max": 6.2,
+      "mean": 0.13,
+      "median": 0.05,
+      "suggested": 0.03,
+      "quantity": 648,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.04,
+      "max": 0.18,
+      "mean": 0.07,
+      "median": 0.06,
+      "suggested": 0.05,
+      "quantity": 36,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.02,
+      "max": 0.35,
+      "mean": 0.08,
+      "median": 0.05,
+      "suggested": 0.05,
+      "quantity": 116,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A4 | Steel Work (Factory New)",
+      "price": {
+        "min": 0.41,
+        "max": 25.09,
+        "mean": 3.9,
+        "median": 3.38,
+        "suggested": 0.36,
+        "quantity": 125,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A4 | Steel Work (Minimal Wear)",
+      "price": {
+        "min": 0.09,
+        "max": 4.84,
+        "mean": 0.35,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 87,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A4 | Steel Work (Field-Tested)",
+      "price": {
+        "min": 0.02,
+        "max": 6.2,
+        "mean": 0.13,
+        "median": 0.05,
+        "suggested": 0.03,
+        "quantity": 648,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M4A4 | Steel Work (Well-Worn)",
+      "price": {
+        "min": 0.04,
+        "max": 0.18,
+        "mean": 0.07,
+        "median": 0.06,
+        "suggested": 0.05,
+        "quantity": 36,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M4A4 | Steel Work (Battle-Scarred)",
+      "price": {
+        "min": 0.02,
+        "max": 0.35,
+        "mean": 0.08,
+        "median": 0.05,
+        "suggested": 0.05,
+        "quantity": 116,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A4 | Steel Work (Factory New)",
+        "price": {
+          "min": 0.41,
+          "max": 25.09,
+          "mean": 3.9,
+          "median": 3.38,
+          "suggested": 0.36,
+          "quantity": 125,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A4 | Steel Work (Minimal Wear)",
+        "price": {
+          "min": 0.09,
+          "max": 4.84,
+          "mean": 0.35,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 87,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A4 | Steel Work (Field-Tested)",
+        "price": {
+          "min": 0.02,
+          "max": 6.2,
+          "mean": 0.13,
+          "median": 0.05,
+          "suggested": 0.03,
+          "quantity": 648,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M4A4 | Steel Work (Well-Worn)",
+        "price": {
+          "min": 0.04,
+          "max": 0.18,
+          "mean": 0.07,
+          "median": 0.06,
+          "suggested": 0.05,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M4A4 | Steel Work (Battle-Scarred)",
+        "price": {
+          "min": 0.02,
+          "max": 0.35,
+          "mean": 0.08,
+          "median": 0.05,
+          "suggested": 0.05,
+          "quantity": 116,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A4 | Steel Work (Factory New)",
+        "price": {
+          "min": 76.81,
+          "max": 76.81,
+          "mean": 76.81,
+          "median": 76.81,
+          "suggested": 12.1,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A4 | Steel Work (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A4 | Steel Work (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M4A4 | Steel Work (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M4A4 | Steel Work (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:40.460Z"
+}

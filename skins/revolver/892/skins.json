@@ -1,0 +1,310 @@
+{
+  "id": "skin-2c0c9abe25f9",
+  "name": "R8 Revolver | Memento",
+  "paint_index": "892",
+  "weapon": {
+    "id": "weapon_revolver",
+    "weapon_id": 64,
+    "name": "R8 Revolver",
+    "slug": "revolver"
+  },
+  "pattern": {
+    "id": "gs_r8_memento",
+    "name": "Memento"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The R8 Revolver delivers a highly accurate and powerful round at the expense of a lengthy trigger-pull. Firing rapidly by fanning the hammer may be the best option when point-blank stopping power is required. The luxury of its ivory grip pairs well with the intricate metalwork on the frame, barrel, and cylinder.\\n\\n<i>Giddy up!</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 7.29,
+      "max": 31.5,
+      "mean": 18.34,
+      "median": 17.31,
+      "suggested": 8.49,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.47,
+      "max": 10.39,
+      "mean": 4,
+      "median": 4.07,
+      "suggested": 3.55,
+      "quantity": 26,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.92,
+      "max": 11.67,
+      "mean": 2.11,
+      "median": 2.03,
+      "suggested": 1.28,
+      "quantity": 69,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.44,
+      "max": 2.63,
+      "mean": 2.03,
+      "median": 1.83,
+      "suggested": 1.3,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.83,
+      "max": 3.07,
+      "mean": 1.32,
+      "median": 1.27,
+      "suggested": 1.18,
+      "quantity": 25,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "R8 Revolver | Memento (Factory New)",
+      "price": {
+        "min": 7.29,
+        "max": 31.5,
+        "mean": 18.34,
+        "median": 17.31,
+        "suggested": 8.49,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "R8 Revolver | Memento (Minimal Wear)",
+      "price": {
+        "min": 2.47,
+        "max": 10.39,
+        "mean": 4,
+        "median": 4.07,
+        "suggested": 3.55,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "R8 Revolver | Memento (Field-Tested)",
+      "price": {
+        "min": 0.92,
+        "max": 11.67,
+        "mean": 2.11,
+        "median": 2.03,
+        "suggested": 1.28,
+        "quantity": 69,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "R8 Revolver | Memento (Well-Worn)",
+      "price": {
+        "min": 1.44,
+        "max": 2.63,
+        "mean": 2.03,
+        "median": 1.83,
+        "suggested": 1.3,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "R8 Revolver | Memento (Battle-Scarred)",
+      "price": {
+        "min": 0.83,
+        "max": 3.07,
+        "mean": 1.32,
+        "median": 1.27,
+        "suggested": 1.18,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "R8 Revolver | Memento (Factory New)",
+        "price": {
+          "min": 7.29,
+          "max": 31.5,
+          "mean": 18.34,
+          "median": 17.31,
+          "suggested": 8.49,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "R8 Revolver | Memento (Minimal Wear)",
+        "price": {
+          "min": 2.47,
+          "max": 10.39,
+          "mean": 4,
+          "median": 4.07,
+          "suggested": 3.55,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "R8 Revolver | Memento (Field-Tested)",
+        "price": {
+          "min": 0.92,
+          "max": 11.67,
+          "mean": 2.11,
+          "median": 2.03,
+          "suggested": 1.28,
+          "quantity": 69,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "R8 Revolver | Memento (Well-Worn)",
+        "price": {
+          "min": 1.44,
+          "max": 2.63,
+          "mean": 2.03,
+          "median": 1.83,
+          "suggested": 1.3,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "R8 Revolver | Memento (Battle-Scarred)",
+        "price": {
+          "min": 0.83,
+          "max": 3.07,
+          "mean": 1.32,
+          "median": 1.27,
+          "suggested": 1.18,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Memento (Factory New)",
+        "price": {
+          "min": 11.26,
+          "max": 65.49,
+          "mean": 30.94,
+          "median": 15.36,
+          "suggested": 11.82,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Memento (Minimal Wear)",
+        "price": {
+          "min": 3.49,
+          "max": 8.89,
+          "mean": 5.11,
+          "median": 4.66,
+          "suggested": 4.07,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Memento (Field-Tested)",
+        "price": {
+          "min": 1.35,
+          "max": 5.83,
+          "mean": 2.11,
+          "median": 1.75,
+          "suggested": 2.02,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Memento (Well-Worn)",
+        "price": {
+          "min": 2.02,
+          "max": 2.88,
+          "mean": 2.4,
+          "median": 2.31,
+          "suggested": 2.4,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Memento (Battle-Scarred)",
+        "price": {
+          "min": 1.42,
+          "max": 1.91,
+          "mean": 1.68,
+          "median": 1.65,
+          "suggested": 1.91,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir R8 Revolver | Memento (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir R8 Revolver | Memento (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir R8 Revolver | Memento (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir R8 Revolver | Memento (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir R8 Revolver | Memento (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:46.652Z"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "skin-503060091440",
+  "name": "R8 Revolver | Junk Yard",
+  "paint_index": "1047",
+  "weapon": {
+    "id": "weapon_revolver",
+    "weapon_id": 64,
+    "name": "R8 Revolver",
+    "slug": "revolver"
+  },
+  "pattern": {
+    "id": "gs_r8_rustking",
+    "name": "Junk Yard"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The R8 Revolver delivers a highly accurate and powerful round at the expense of a lengthy trigger-pull. Firing rapidly by fanning the hammer may be the best option when point-blank stopping power is required. Its blue base has been covered in silver handwriting and drawings. The cylinder and front sight have been painted red.\\n\\n<i>Fit for a king</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 4.36,
+      "max": 253.63,
+      "mean": 24,
+      "median": 9.42,
+      "suggested": 5.4,
+      "quantity": 19,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.29,
+      "max": 8.17,
+      "mean": 0.48,
+      "median": 0.37,
+      "suggested": 0.43,
+      "quantity": 182,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.3,
+      "max": 13.47,
+      "mean": 1.33,
+      "median": 0.41,
+      "suggested": 0.44,
+      "quantity": 46,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.25,
+      "max": 5.25,
+      "mean": 1.45,
+      "median": 1.26,
+      "suggested": 0.29,
+      "quantity": 44,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.19,
+      "max": 42.62,
+      "mean": 0.89,
+      "median": 0.26,
+      "suggested": 0.29,
+      "quantity": 166,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "R8 Revolver | Junk Yard (Factory New)",
+      "price": {
+        "min": 4.36,
+        "max": 253.63,
+        "mean": 24,
+        "median": 9.42,
+        "suggested": 5.4,
+        "quantity": 19,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "R8 Revolver | Junk Yard (Minimal Wear)",
+      "price": {
+        "min": 0.29,
+        "max": 8.17,
+        "mean": 0.48,
+        "median": 0.37,
+        "suggested": 0.43,
+        "quantity": 182,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "R8 Revolver | Junk Yard (Field-Tested)",
+      "price": {
+        "min": 0.3,
+        "max": 13.47,
+        "mean": 1.33,
+        "median": 0.41,
+        "suggested": 0.44,
+        "quantity": 46,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "R8 Revolver | Junk Yard (Well-Worn)",
+      "price": {
+        "min": 0.25,
+        "max": 5.25,
+        "mean": 1.45,
+        "median": 1.26,
+        "suggested": 0.29,
+        "quantity": 44,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "R8 Revolver | Junk Yard (Battle-Scarred)",
+      "price": {
+        "min": 0.19,
+        "max": 42.62,
+        "mean": 0.89,
+        "median": 0.26,
+        "suggested": 0.29,
+        "quantity": 166,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "R8 Revolver | Junk Yard (Factory New)",
+        "price": {
+          "min": 4.36,
+          "max": 253.63,
+          "mean": 24,
+          "median": 9.42,
+          "suggested": 5.4,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "R8 Revolver | Junk Yard (Minimal Wear)",
+        "price": {
+          "min": 0.29,
+          "max": 8.17,
+          "mean": 0.48,
+          "median": 0.37,
+          "suggested": 0.43,
+          "quantity": 182,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "R8 Revolver | Junk Yard (Field-Tested)",
+        "price": {
+          "min": 0.3,
+          "max": 13.47,
+          "mean": 1.33,
+          "median": 0.41,
+          "suggested": 0.44,
+          "quantity": 46,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "R8 Revolver | Junk Yard (Well-Worn)",
+        "price": {
+          "min": 0.25,
+          "max": 5.25,
+          "mean": 1.45,
+          "median": 1.26,
+          "suggested": 0.29,
+          "quantity": 44,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "R8 Revolver | Junk Yard (Battle-Scarred)",
+        "price": {
+          "min": 0.19,
+          "max": 42.62,
+          "mean": 0.89,
+          "median": 0.26,
+          "suggested": 0.29,
+          "quantity": 166,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Junk Yard (Factory New)",
+        "price": {
+          "min": 3.08,
+          "max": 28.86,
+          "mean": 7.97,
+          "median": 4.96,
+          "suggested": 3.11,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Junk Yard (Minimal Wear)",
+        "price": {
+          "min": 0.74,
+          "max": 22.23,
+          "mean": 1.28,
+          "median": 0.85,
+          "suggested": 0.96,
+          "quantity": 58,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Junk Yard (Field-Tested)",
+        "price": {
+          "min": 0.39,
+          "max": 2.07,
+          "mean": 0.53,
+          "median": 0.48,
+          "suggested": 0.54,
+          "quantity": 110,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Junk Yard (Well-Worn)",
+        "price": {
+          "min": 0.3,
+          "max": 2.33,
+          "mean": 0.43,
+          "median": 0.4,
+          "suggested": 0.4,
+          "quantity": 112,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Junk Yard (Battle-Scarred)",
+        "price": {
+          "min": 0.33,
+          "max": 2.03,
+          "mean": 0.49,
+          "median": 0.4,
+          "suggested": 0.38,
+          "quantity": 69,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir R8 Revolver | Junk Yard (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir R8 Revolver | Junk Yard (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir R8 Revolver | Junk Yard (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir R8 Revolver | Junk Yard (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir R8 Revolver | Junk Yard (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:46.666Z"
+}

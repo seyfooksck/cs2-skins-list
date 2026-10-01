@@ -1,0 +1,310 @@
+{
+  "id": "skin-bce9af58ff21",
+  "name": "Negev | dev_texture",
+  "paint_index": "1043",
+  "weapon": {
+    "id": "weapon_negev",
+    "weapon_id": 28,
+    "name": "Negev",
+    "slug": "negev"
+  },
+  "pattern": {
+    "id": "cu_negev_devtexture",
+    "name": "dev_texture"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.65,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with an orange base and grey developer textures.\\n\\n<i>hammer.exe time</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.95,
+      "max": 70.02,
+      "mean": 9.97,
+      "median": 2.98,
+      "suggested": 2.84,
+      "quantity": 61,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.77,
+      "max": 3.5,
+      "mean": 0.99,
+      "median": 0.85,
+      "suggested": 0.96,
+      "quantity": 34,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.43,
+      "max": 6.15,
+      "mean": 0.63,
+      "median": 0.57,
+      "suggested": 0.54,
+      "quantity": 294,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.47,
+      "max": 0.7,
+      "mean": 0.56,
+      "median": 0.55,
+      "suggested": 0.53,
+      "quantity": 21,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.41,
+      "max": 12.99,
+      "mean": 0.82,
+      "median": 0.54,
+      "suggested": 0.5,
+      "quantity": 53,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Negev | dev_texture (Factory New)",
+      "price": {
+        "min": 1.95,
+        "max": 70.02,
+        "mean": 9.97,
+        "median": 2.98,
+        "suggested": 2.84,
+        "quantity": 61,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Negev | dev_texture (Minimal Wear)",
+      "price": {
+        "min": 0.77,
+        "max": 3.5,
+        "mean": 0.99,
+        "median": 0.85,
+        "suggested": 0.96,
+        "quantity": 34,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Negev | dev_texture (Field-Tested)",
+      "price": {
+        "min": 0.43,
+        "max": 6.15,
+        "mean": 0.63,
+        "median": 0.57,
+        "suggested": 0.54,
+        "quantity": 294,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Negev | dev_texture (Well-Worn)",
+      "price": {
+        "min": 0.47,
+        "max": 0.7,
+        "mean": 0.56,
+        "median": 0.55,
+        "suggested": 0.53,
+        "quantity": 21,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Negev | dev_texture (Battle-Scarred)",
+      "price": {
+        "min": 0.41,
+        "max": 12.99,
+        "mean": 0.82,
+        "median": 0.54,
+        "suggested": 0.5,
+        "quantity": 53,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Negev | dev_texture (Factory New)",
+        "price": {
+          "min": 1.95,
+          "max": 70.02,
+          "mean": 9.97,
+          "median": 2.98,
+          "suggested": 2.84,
+          "quantity": 61,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Negev | dev_texture (Minimal Wear)",
+        "price": {
+          "min": 0.77,
+          "max": 3.5,
+          "mean": 0.99,
+          "median": 0.85,
+          "suggested": 0.96,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Negev | dev_texture (Field-Tested)",
+        "price": {
+          "min": 0.43,
+          "max": 6.15,
+          "mean": 0.63,
+          "median": 0.57,
+          "suggested": 0.54,
+          "quantity": 294,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Negev | dev_texture (Well-Worn)",
+        "price": {
+          "min": 0.47,
+          "max": 0.7,
+          "mean": 0.56,
+          "median": 0.55,
+          "suggested": 0.53,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Negev | dev_texture (Battle-Scarred)",
+        "price": {
+          "min": 0.41,
+          "max": 12.99,
+          "mean": 0.82,
+          "median": 0.54,
+          "suggested": 0.5,
+          "quantity": 53,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Negev | dev_texture (Factory New)",
+        "price": {
+          "min": 3.08,
+          "max": 128.36,
+          "mean": 17.1,
+          "median": 3.76,
+          "suggested": 3.93,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Negev | dev_texture (Minimal Wear)",
+        "price": {
+          "min": 1.32,
+          "max": 3.5,
+          "mean": 1.67,
+          "median": 1.53,
+          "suggested": 1.63,
+          "quantity": 64,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Negev | dev_texture (Field-Tested)",
+        "price": {
+          "min": 0.6,
+          "max": 2.56,
+          "mean": 0.79,
+          "median": 0.74,
+          "suggested": 0.91,
+          "quantity": 116,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Negev | dev_texture (Well-Worn)",
+        "price": {
+          "min": 0.57,
+          "max": 11.67,
+          "mean": 1.62,
+          "median": 0.92,
+          "suggested": 0.63,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Negev | dev_texture (Battle-Scarred)",
+        "price": {
+          "min": 0.54,
+          "max": 0.95,
+          "mean": 0.7,
+          "median": 0.69,
+          "suggested": 0.65,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Negev | dev_texture (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Negev | dev_texture (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Negev | dev_texture (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Negev | dev_texture (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Negev | dev_texture (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.108Z"
+}

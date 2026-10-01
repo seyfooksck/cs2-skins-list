@@ -1,0 +1,217 @@
+{
+  "id": "skin-dda379bcb54d",
+  "name": "★ Classic Knife | Boreal Forest",
+  "paint_index": "77",
+  "weapon": {
+    "id": "weapon_knife_css",
+    "weapon_id": 503,
+    "name": "Classic Knife",
+    "slug": "knife_css"
+  },
+  "pattern": {
+    "id": "hy_forest_boreal",
+    "name": "Boreal Forest"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A classic of the Counter-Strike series, the edge of this knife is press-fit Stellite perfectly held in place due to its precise fit with the titanium on the blade's cheek and spine. The handle is fossilized mastodon ivory held in a carbon fibre pocket. It has been painted using a forest camouflage hydrographic.\\n\\n<i>The woods can be a dangerous place... never travel alone</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 128.36,
+      "max": 199.55,
+      "mean": 163.95,
+      "median": 163.95,
+      "suggested": 111.99,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 79.52,
+      "max": 291.73,
+      "mean": 153.14,
+      "median": 94.52,
+      "suggested": 90.21,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 99.27,
+      "max": 216.41,
+      "mean": 157.84,
+      "median": 157.84,
+      "suggested": 100.52,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Classic Knife | Boreal Forest (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Classic Knife | Boreal Forest (Minimal Wear)",
+      "price": {
+        "min": 128.36,
+        "max": 199.55,
+        "mean": 163.95,
+        "median": 163.95,
+        "suggested": 111.99,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Classic Knife | Boreal Forest (Field-Tested)",
+      "price": {
+        "min": 79.52,
+        "max": 291.73,
+        "mean": 153.14,
+        "median": 94.52,
+        "suggested": 90.21,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Classic Knife | Boreal Forest (Well-Worn)",
+      "price": {
+        "min": 99.27,
+        "max": 216.41,
+        "mean": 157.84,
+        "median": 157.84,
+        "suggested": 100.52,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Classic Knife | Boreal Forest (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Classic Knife | Boreal Forest (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Classic Knife | Boreal Forest (Minimal Wear)",
+        "price": {
+          "min": 128.36,
+          "max": 199.55,
+          "mean": 163.95,
+          "median": 163.95,
+          "suggested": 111.99,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Classic Knife | Boreal Forest (Field-Tested)",
+        "price": {
+          "min": 79.52,
+          "max": 291.73,
+          "mean": 153.14,
+          "median": 94.52,
+          "suggested": 90.21,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Classic Knife | Boreal Forest (Well-Worn)",
+        "price": {
+          "min": 99.27,
+          "max": 216.41,
+          "mean": 157.84,
+          "median": 157.84,
+          "suggested": 100.52,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Classic Knife | Boreal Forest (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Classic Knife | Boreal Forest (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Classic Knife | Boreal Forest (Minimal Wear)",
+        "price": {
+          "min": 149.59,
+          "max": 265.79,
+          "mean": 207.69,
+          "median": 207.69,
+          "suggested": 116.01,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Classic Knife | Boreal Forest (Field-Tested)",
+        "price": {
+          "min": 79.25,
+          "max": 79.25,
+          "mean": 79.25,
+          "median": 79.25,
+          "suggested": 102.87,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Classic Knife | Boreal Forest (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Classic Knife | Boreal Forest (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:33.926Z"
+}

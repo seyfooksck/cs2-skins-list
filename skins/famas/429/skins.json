@@ -1,0 +1,310 @@
+{
+  "id": "skin-4fa9c490db80",
+  "name": "FAMAS | Djinn",
+  "paint_index": "429",
+  "weapon": {
+    "id": "weapon_famas",
+    "weapon_id": 10,
+    "name": "FAMAS",
+    "slug": "famas"
+  },
+  "pattern": {
+    "id": "aq_famas_jinn",
+    "name": "Djinn"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. It has been inlaid with gold and nickel and engraved with the image of a jinn.\\n\\n<i>Be careful what you wish for</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 66.57,
+      "max": 235.23,
+      "mean": 100.3,
+      "median": 92.12,
+      "suggested": 89.94,
+      "quantity": 16,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 13.09,
+      "max": 15367.8,
+      "mean": 417.65,
+      "median": 15.17,
+      "suggested": 16.15,
+      "quantity": 39,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 11.94,
+      "max": 63.31,
+      "mean": 14.13,
+      "median": 13.07,
+      "suggested": 14.85,
+      "quantity": 100,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 11.62,
+      "max": 23.91,
+      "mean": 13.08,
+      "median": 12.29,
+      "suggested": 13.84,
+      "quantity": 35,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 10.25,
+      "max": 48.19,
+      "mean": 16.59,
+      "median": 12.49,
+      "suggested": 13.53,
+      "quantity": 24,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "FAMAS | Djinn (Factory New)",
+      "price": {
+        "min": 66.57,
+        "max": 235.23,
+        "mean": 100.3,
+        "median": 92.12,
+        "suggested": 89.94,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "FAMAS | Djinn (Minimal Wear)",
+      "price": {
+        "min": 13.09,
+        "max": 15367.8,
+        "mean": 417.65,
+        "median": 15.17,
+        "suggested": 16.15,
+        "quantity": 39,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "FAMAS | Djinn (Field-Tested)",
+      "price": {
+        "min": 11.94,
+        "max": 63.31,
+        "mean": 14.13,
+        "median": 13.07,
+        "suggested": 14.85,
+        "quantity": 100,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "FAMAS | Djinn (Well-Worn)",
+      "price": {
+        "min": 11.62,
+        "max": 23.91,
+        "mean": 13.08,
+        "median": 12.29,
+        "suggested": 13.84,
+        "quantity": 35,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "FAMAS | Djinn (Battle-Scarred)",
+      "price": {
+        "min": 10.25,
+        "max": 48.19,
+        "mean": 16.59,
+        "median": 12.49,
+        "suggested": 13.53,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "FAMAS | Djinn (Factory New)",
+        "price": {
+          "min": 66.57,
+          "max": 235.23,
+          "mean": 100.3,
+          "median": 92.12,
+          "suggested": 89.94,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "FAMAS | Djinn (Minimal Wear)",
+        "price": {
+          "min": 13.09,
+          "max": 15367.8,
+          "mean": 417.65,
+          "median": 15.17,
+          "suggested": 16.15,
+          "quantity": 39,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "FAMAS | Djinn (Field-Tested)",
+        "price": {
+          "min": 11.94,
+          "max": 63.31,
+          "mean": 14.13,
+          "median": 13.07,
+          "suggested": 14.85,
+          "quantity": 100,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "FAMAS | Djinn (Well-Worn)",
+        "price": {
+          "min": 11.62,
+          "max": 23.91,
+          "mean": 13.08,
+          "median": 12.29,
+          "suggested": 13.84,
+          "quantity": 35,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "FAMAS | Djinn (Battle-Scarred)",
+        "price": {
+          "min": 10.25,
+          "max": 48.19,
+          "mean": 16.59,
+          "median": 12.49,
+          "suggested": 13.53,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ FAMAS | Djinn (Factory New)",
+        "price": {
+          "min": 43.73,
+          "max": 49.15,
+          "mean": 46.44,
+          "median": 46.44,
+          "suggested": 60.34,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ FAMAS | Djinn (Minimal Wear)",
+        "price": {
+          "min": 20.08,
+          "max": 43.82,
+          "mean": 35.21,
+          "median": 36.71,
+          "suggested": 22.79,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ FAMAS | Djinn (Field-Tested)",
+        "price": {
+          "min": 11.2,
+          "max": 19.81,
+          "mean": 16.08,
+          "median": 18.39,
+          "suggested": 15.12,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ FAMAS | Djinn (Well-Worn)",
+        "price": {
+          "min": 10.74,
+          "max": 15.66,
+          "mean": 13.52,
+          "median": 13.42,
+          "suggested": 13.92,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ FAMAS | Djinn (Battle-Scarred)",
+        "price": {
+          "min": 13.97,
+          "max": 13.97,
+          "mean": 13.97,
+          "median": 13.97,
+          "suggested": 14.28,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir FAMAS | Djinn (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir FAMAS | Djinn (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir FAMAS | Djinn (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir FAMAS | Djinn (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir FAMAS | Djinn (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:29.398Z"
+}

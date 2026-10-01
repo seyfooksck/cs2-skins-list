@@ -1,0 +1,249 @@
+{
+  "id": "skin-cf0d243b1b14",
+  "name": "Glock-18 | Brass",
+  "paint_index": "159",
+  "weapon": {
+    "id": "weapon_glock",
+    "weapon_id": 4,
+    "name": "Glock-18",
+    "slug": "glock"
+  },
+  "pattern": {
+    "id": "aq_brass",
+    "name": "Brass"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. Parts of the weapon have been replaced with brass.\\n\\n<i>Fool's gold</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 235.56,
+      "max": 525.12,
+      "mean": 356.57,
+      "median": 336.15,
+      "suggested": 437.49,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 61.44,
+      "max": 198.38,
+      "mean": 104.8,
+      "median": 106.06,
+      "suggested": 76.76,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 29.17,
+      "max": 1325.08,
+      "mean": 131.69,
+      "median": 58.35,
+      "suggested": 38.13,
+      "quantity": 23,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 24.68,
+      "max": 69.63,
+      "mean": 45.15,
+      "median": 51.09,
+      "suggested": 31.04,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 25.37,
+      "max": 71.68,
+      "mean": 51.08,
+      "median": 53.4,
+      "suggested": 29.17,
+      "quantity": 6,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Glock-18 | Brass (Factory New)",
+      "price": {
+        "min": 235.56,
+        "max": 525.12,
+        "mean": 356.57,
+        "median": 336.15,
+        "suggested": 437.49,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Glock-18 | Brass (Minimal Wear)",
+      "price": {
+        "min": 61.44,
+        "max": 198.38,
+        "mean": 104.8,
+        "median": 106.06,
+        "suggested": 76.76,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Glock-18 | Brass (Field-Tested)",
+      "price": {
+        "min": 29.17,
+        "max": 1325.08,
+        "mean": 131.69,
+        "median": 58.35,
+        "suggested": 38.13,
+        "quantity": 23,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Glock-18 | Brass (Well-Worn)",
+      "price": {
+        "min": 24.68,
+        "max": 69.63,
+        "mean": 45.15,
+        "median": 51.09,
+        "suggested": 31.04,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Glock-18 | Brass (Battle-Scarred)",
+      "price": {
+        "min": 25.37,
+        "max": 71.68,
+        "mean": 51.08,
+        "median": 53.4,
+        "suggested": 29.17,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Glock-18 | Brass (Factory New)",
+        "price": {
+          "min": 235.56,
+          "max": 525.12,
+          "mean": 356.57,
+          "median": 336.15,
+          "suggested": 437.49,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Glock-18 | Brass (Minimal Wear)",
+        "price": {
+          "min": 61.44,
+          "max": 198.38,
+          "mean": 104.8,
+          "median": 106.06,
+          "suggested": 76.76,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Glock-18 | Brass (Field-Tested)",
+        "price": {
+          "min": 29.17,
+          "max": 1325.08,
+          "mean": 131.69,
+          "median": 58.35,
+          "suggested": 38.13,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Glock-18 | Brass (Well-Worn)",
+        "price": {
+          "min": 24.68,
+          "max": 69.63,
+          "mean": 45.15,
+          "median": 51.09,
+          "suggested": 31.04,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Glock-18 | Brass (Battle-Scarred)",
+        "price": {
+          "min": 25.37,
+          "max": 71.68,
+          "mean": 51.08,
+          "median": 53.4,
+          "suggested": 29.17,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Glock-18 | Brass (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Glock-18 | Brass (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Glock-18 | Brass (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Glock-18 | Brass (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Glock-18 | Brass (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:31.636Z"
+}

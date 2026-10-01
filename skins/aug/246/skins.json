@@ -1,0 +1,209 @@
+{
+  "id": "skin-dfbb0ed38678",
+  "name": "AUG | Amber Fade",
+  "paint_index": "246",
+  "weapon": {
+    "id": "weapon_aug",
+    "weapon_id": 8,
+    "name": "AUG",
+    "slug": "aug"
+  },
+  "pattern": {
+    "id": "aa_fade_metallic",
+    "name": "Amber Fade"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.4,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire. It has been painted by airbrushing transparent paints that fade together over a chrome base coat.\\n\\n<i>This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 7.16,
+      "max": 63.31,
+      "mean": 14.03,
+      "median": 13.28,
+      "suggested": 8.96,
+      "quantity": 98,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.64,
+      "max": 37.45,
+      "mean": 8.15,
+      "median": 3.76,
+      "suggested": 3.67,
+      "quantity": 24,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.88,
+      "max": 12.44,
+      "mean": 3.75,
+      "median": 2.1,
+      "suggested": 2.32,
+      "quantity": 36,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 4.48,
+      "max": 7.94,
+      "mean": 5.96,
+      "median": 5.48,
+      "suggested": 3.49,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AUG | Amber Fade (Factory New)",
+      "price": {
+        "min": 7.16,
+        "max": 63.31,
+        "mean": 14.03,
+        "median": 13.28,
+        "suggested": 8.96,
+        "quantity": 98,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AUG | Amber Fade (Minimal Wear)",
+      "price": {
+        "min": 2.64,
+        "max": 37.45,
+        "mean": 8.15,
+        "median": 3.76,
+        "suggested": 3.67,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AUG | Amber Fade (Field-Tested)",
+      "price": {
+        "min": 1.88,
+        "max": 12.44,
+        "mean": 3.75,
+        "median": 2.1,
+        "suggested": 2.32,
+        "quantity": 36,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AUG | Amber Fade (Well-Worn)",
+      "price": {
+        "min": 4.48,
+        "max": 7.94,
+        "mean": 5.96,
+        "median": 5.48,
+        "suggested": 3.49,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AUG | Amber Fade (Factory New)",
+        "price": {
+          "min": 7.16,
+          "max": 63.31,
+          "mean": 14.03,
+          "median": 13.28,
+          "suggested": 8.96,
+          "quantity": 98,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AUG | Amber Fade (Minimal Wear)",
+        "price": {
+          "min": 2.64,
+          "max": 37.45,
+          "mean": 8.15,
+          "median": 3.76,
+          "suggested": 3.67,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AUG | Amber Fade (Field-Tested)",
+        "price": {
+          "min": 1.88,
+          "max": 12.44,
+          "mean": 3.75,
+          "median": 2.1,
+          "suggested": 2.32,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AUG | Amber Fade (Well-Worn)",
+        "price": {
+          "min": 4.48,
+          "max": 7.94,
+          "mean": 5.96,
+          "median": 5.48,
+          "suggested": 3.49,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AUG | Amber Fade (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AUG | Amber Fade (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AUG | Amber Fade (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AUG | Amber Fade (Well-Worn)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.142Z"
+}

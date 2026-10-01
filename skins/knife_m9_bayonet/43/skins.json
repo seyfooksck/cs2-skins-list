@@ -1,0 +1,217 @@
+{
+  "id": "skin-bab9cbb31702",
+  "name": "★ M9 Bayonet | Stained",
+  "paint_index": "43",
+  "weapon": {
+    "id": "weapon_knife_m9_bayonet",
+    "weapon_id": 508,
+    "name": "M9 Bayonet",
+    "slug": "knife_m9_bayonet"
+  },
+  "pattern": {
+    "id": "aq_forced",
+    "name": "Stained"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This is the M-9 bayonet.  Originally intended to be mounted on a rifle, it is also well suited to close-quarters combat. It has been given a forced patina using lemon and mustard dripped onto the surface.\\n\\n<i>If you think it's messy now, wait until you see it under a blacklight</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 489.27,
+      "max": 699.59,
+      "mean": 566.98,
+      "median": 512.08,
+      "suggested": 520.81,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 418.92,
+      "max": 460.87,
+      "mean": 433.48,
+      "median": 430.19,
+      "suggested": 490.47,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 450.74,
+      "max": 450.74,
+      "mean": 450.74,
+      "median": 450.74,
+      "suggested": 462.85,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ M9 Bayonet | Stained (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ M9 Bayonet | Stained (Minimal Wear)",
+      "price": {
+        "min": 489.27,
+        "max": 699.59,
+        "mean": 566.98,
+        "median": 512.08,
+        "suggested": 520.81,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ M9 Bayonet | Stained (Field-Tested)",
+      "price": {
+        "min": 418.92,
+        "max": 460.87,
+        "mean": 433.48,
+        "median": 430.19,
+        "suggested": 490.47,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ M9 Bayonet | Stained (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ M9 Bayonet | Stained (Battle-Scarred)",
+      "price": {
+        "min": 450.74,
+        "max": 450.74,
+        "mean": 450.74,
+        "median": 450.74,
+        "suggested": 462.85,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ M9 Bayonet | Stained (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ M9 Bayonet | Stained (Minimal Wear)",
+        "price": {
+          "min": 489.27,
+          "max": 699.59,
+          "mean": 566.98,
+          "median": 512.08,
+          "suggested": 520.81,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ M9 Bayonet | Stained (Field-Tested)",
+        "price": {
+          "min": 418.92,
+          "max": 460.87,
+          "mean": 433.48,
+          "median": 430.19,
+          "suggested": 490.47,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ M9 Bayonet | Stained (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ M9 Bayonet | Stained (Battle-Scarred)",
+        "price": {
+          "min": 450.74,
+          "max": 450.74,
+          "mean": 450.74,
+          "median": 450.74,
+          "suggested": 462.85,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Stained (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Stained (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Stained (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Stained (Well-Worn)",
+        "price": {
+          "min": 466.03,
+          "max": 466.03,
+          "mean": 466.03,
+          "median": 466.03,
+          "suggested": 482.23,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Stained (Battle-Scarred)",
+        "price": {
+          "min": 400.19,
+          "max": 400.19,
+          "mean": 400.19,
+          "median": 400.19,
+          "suggested": 510.13,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:36.617Z"
+}

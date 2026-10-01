@@ -1,0 +1,258 @@
+{
+  "id": "skin-31658eeb1561",
+  "name": "MAG-7 | Praetorian",
+  "paint_index": "535",
+  "weapon": {
+    "id": "weapon_mag7",
+    "weapon_id": 27,
+    "name": "MAG-7",
+    "slug": "mag7"
+  },
+  "pattern": {
+    "id": "gs_mag7_praetorian",
+    "name": "Praetorian"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.45,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The CT-exclusive Mag-7 delivers a devastating amount of damage at close range. Its rapid magazine-style reloads make it a great tactical choice. It has been distinguishly painted with metallics.\\n\\n<i>The spire is forming</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 7.12,
+      "max": 52.51,
+      "mean": 15.29,
+      "median": 12.07,
+      "suggested": 8.96,
+      "quantity": 31,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.23,
+      "max": 79.57,
+      "mean": 5.26,
+      "median": 2.73,
+      "suggested": 3.1,
+      "quantity": 46,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.07,
+      "max": 122.53,
+      "mean": 5.2,
+      "median": 2.39,
+      "suggested": 2.64,
+      "quantity": 60,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 3.15,
+      "max": 57.71,
+      "mean": 21.78,
+      "median": 4.47,
+      "suggested": 3.16,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAG-7 | Praetorian (Factory New)",
+      "price": {
+        "min": 7.12,
+        "max": 52.51,
+        "mean": 15.29,
+        "median": 12.07,
+        "suggested": 8.96,
+        "quantity": 31,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAG-7 | Praetorian (Minimal Wear)",
+      "price": {
+        "min": 2.23,
+        "max": 79.57,
+        "mean": 5.26,
+        "median": 2.73,
+        "suggested": 3.1,
+        "quantity": 46,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAG-7 | Praetorian (Field-Tested)",
+      "price": {
+        "min": 2.07,
+        "max": 122.53,
+        "mean": 5.2,
+        "median": 2.39,
+        "suggested": 2.64,
+        "quantity": 60,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAG-7 | Praetorian (Well-Worn)",
+      "price": {
+        "min": 3.15,
+        "max": 57.71,
+        "mean": 21.78,
+        "median": 4.47,
+        "suggested": 3.16,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAG-7 | Praetorian (Factory New)",
+        "price": {
+          "min": 7.12,
+          "max": 52.51,
+          "mean": 15.29,
+          "median": 12.07,
+          "suggested": 8.96,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAG-7 | Praetorian (Minimal Wear)",
+        "price": {
+          "min": 2.23,
+          "max": 79.57,
+          "mean": 5.26,
+          "median": 2.73,
+          "suggested": 3.1,
+          "quantity": 46,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAG-7 | Praetorian (Field-Tested)",
+        "price": {
+          "min": 2.07,
+          "max": 122.53,
+          "mean": 5.2,
+          "median": 2.39,
+          "suggested": 2.64,
+          "quantity": 60,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAG-7 | Praetorian (Well-Worn)",
+        "price": {
+          "min": 3.15,
+          "max": 57.71,
+          "mean": 21.78,
+          "median": 4.47,
+          "suggested": 3.16,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MAG-7 | Praetorian (Factory New)",
+        "price": {
+          "min": 9.83,
+          "max": 51.65,
+          "mean": 23.72,
+          "median": 20.58,
+          "suggested": 10.77,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MAG-7 | Praetorian (Minimal Wear)",
+        "price": {
+          "min": 4.71,
+          "max": 12.46,
+          "mean": 6.15,
+          "median": 4.97,
+          "suggested": 5.37,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MAG-7 | Praetorian (Field-Tested)",
+        "price": {
+          "min": 3.36,
+          "max": 10.32,
+          "mean": 5.15,
+          "median": 4.87,
+          "suggested": 3.66,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MAG-7 | Praetorian (Well-Worn)",
+        "price": {
+          "min": 72.14,
+          "max": 72.14,
+          "mean": 72.14,
+          "median": 72.14,
+          "suggested": 6.18,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAG-7 | Praetorian (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAG-7 | Praetorian (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAG-7 | Praetorian (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAG-7 | Praetorian (Well-Worn)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.422Z"
+}

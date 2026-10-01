@@ -1,0 +1,310 @@
+{
+  "id": "skin-df294c189613",
+  "name": "Dual Berettas | Cartel",
+  "paint_index": "528",
+  "weapon": {
+    "id": "weapon_elite",
+    "weapon_id": 2,
+    "name": "Dual Berettas",
+    "slug": "elite"
+  },
+  "pattern": {
+    "id": "aq_dualberettas_cartel",
+    "name": "Cartel"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. It has been engraved with skeletons, flowers and serpents.\\n\\n<i>That's why Huxley is doing the heavy lifting, all we have to is nudge her forward... - The Serpent and The Truth Seeker, Part 2</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 9.01,
+      "max": 72.14,
+      "mean": 16.37,
+      "median": 12,
+      "suggested": 8.76,
+      "quantity": 18,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.39,
+      "max": 4.67,
+      "mean": 2.86,
+      "median": 2.53,
+      "suggested": 2.93,
+      "quantity": 17,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.91,
+      "max": 10.5,
+      "mean": 1.34,
+      "median": 1.34,
+      "suggested": 1.22,
+      "quantity": 109,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.49,
+      "max": 2.37,
+      "mean": 0.77,
+      "median": 0.64,
+      "suggested": 0.76,
+      "quantity": 91,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.44,
+      "max": 10.95,
+      "mean": 0.96,
+      "median": 0.6,
+      "suggested": 0.67,
+      "quantity": 54,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Dual Berettas | Cartel (Factory New)",
+      "price": {
+        "min": 9.01,
+        "max": 72.14,
+        "mean": 16.37,
+        "median": 12,
+        "suggested": 8.76,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Dual Berettas | Cartel (Minimal Wear)",
+      "price": {
+        "min": 2.39,
+        "max": 4.67,
+        "mean": 2.86,
+        "median": 2.53,
+        "suggested": 2.93,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Dual Berettas | Cartel (Field-Tested)",
+      "price": {
+        "min": 0.91,
+        "max": 10.5,
+        "mean": 1.34,
+        "median": 1.34,
+        "suggested": 1.22,
+        "quantity": 109,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Dual Berettas | Cartel (Well-Worn)",
+      "price": {
+        "min": 0.49,
+        "max": 2.37,
+        "mean": 0.77,
+        "median": 0.64,
+        "suggested": 0.76,
+        "quantity": 91,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Dual Berettas | Cartel (Battle-Scarred)",
+      "price": {
+        "min": 0.44,
+        "max": 10.95,
+        "mean": 0.96,
+        "median": 0.6,
+        "suggested": 0.67,
+        "quantity": 54,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Dual Berettas | Cartel (Factory New)",
+        "price": {
+          "min": 9.01,
+          "max": 72.14,
+          "mean": 16.37,
+          "median": 12,
+          "suggested": 8.76,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Dual Berettas | Cartel (Minimal Wear)",
+        "price": {
+          "min": 2.39,
+          "max": 4.67,
+          "mean": 2.86,
+          "median": 2.53,
+          "suggested": 2.93,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Dual Berettas | Cartel (Field-Tested)",
+        "price": {
+          "min": 0.91,
+          "max": 10.5,
+          "mean": 1.34,
+          "median": 1.34,
+          "suggested": 1.22,
+          "quantity": 109,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Dual Berettas | Cartel (Well-Worn)",
+        "price": {
+          "min": 0.49,
+          "max": 2.37,
+          "mean": 0.77,
+          "median": 0.64,
+          "suggested": 0.76,
+          "quantity": 91,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Dual Berettas | Cartel (Battle-Scarred)",
+        "price": {
+          "min": 0.44,
+          "max": 10.95,
+          "mean": 0.96,
+          "median": 0.6,
+          "suggested": 0.67,
+          "quantity": 54,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Dual Berettas | Cartel (Factory New)",
+        "price": {
+          "min": 8.08,
+          "max": 64.92,
+          "mean": 29.33,
+          "median": 15.09,
+          "suggested": 8.86,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Dual Berettas | Cartel (Minimal Wear)",
+        "price": {
+          "min": 2.42,
+          "max": 4.17,
+          "mean": 2.95,
+          "median": 2.6,
+          "suggested": 3,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Dual Berettas | Cartel (Field-Tested)",
+        "price": {
+          "min": 1.06,
+          "max": 2.16,
+          "mean": 1.31,
+          "median": 1.16,
+          "suggested": 1.49,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Dual Berettas | Cartel (Well-Worn)",
+        "price": {
+          "min": 0.57,
+          "max": 0.82,
+          "mean": 0.68,
+          "median": 0.64,
+          "suggested": 0.84,
+          "quantity": 35,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Dual Berettas | Cartel (Battle-Scarred)",
+        "price": {
+          "min": 0.6,
+          "max": 28.01,
+          "mean": 2.21,
+          "median": 0.68,
+          "suggested": 0.76,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Dual Berettas | Cartel (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Dual Berettas | Cartel (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Dual Berettas | Cartel (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Dual Berettas | Cartel (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Dual Berettas | Cartel (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:28.659Z"
+}

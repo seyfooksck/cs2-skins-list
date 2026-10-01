@@ -1,0 +1,310 @@
+{
+  "id": "skin-31a18fdabe59",
+  "name": "P90 | Chopper",
+  "paint_index": "593",
+  "weapon": {
+    "id": "weapon_p90",
+    "weapon_id": 19,
+    "name": "P90",
+    "slug": "p90"
+  },
+  "pattern": {
+    "id": "gs_p90_full_throttle",
+    "name": "Chopper"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been painted with a flame motif in orange and blue metallic paints.\\n\\n<i>Clutch not included</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 5.3,
+      "max": 99.94,
+      "mean": 11.21,
+      "median": 6.97,
+      "suggested": 7.89,
+      "quantity": 36,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.74,
+      "max": 175.04,
+      "mean": 7.26,
+      "median": 2,
+      "suggested": 2.12,
+      "quantity": 42,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.28,
+      "max": 120.78,
+      "mean": 2.7,
+      "median": 1.77,
+      "suggested": 1.52,
+      "quantity": 166,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.11,
+      "max": 23.34,
+      "mean": 2.42,
+      "median": 1.48,
+      "suggested": 1.5,
+      "quantity": 25,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.11,
+      "max": 12.26,
+      "mean": 1.88,
+      "median": 1.32,
+      "suggested": 1.48,
+      "quantity": 20,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P90 | Chopper (Factory New)",
+      "price": {
+        "min": 5.3,
+        "max": 99.94,
+        "mean": 11.21,
+        "median": 6.97,
+        "suggested": 7.89,
+        "quantity": 36,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P90 | Chopper (Minimal Wear)",
+      "price": {
+        "min": 1.74,
+        "max": 175.04,
+        "mean": 7.26,
+        "median": 2,
+        "suggested": 2.12,
+        "quantity": 42,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P90 | Chopper (Field-Tested)",
+      "price": {
+        "min": 1.28,
+        "max": 120.78,
+        "mean": 2.7,
+        "median": 1.77,
+        "suggested": 1.52,
+        "quantity": 166,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P90 | Chopper (Well-Worn)",
+      "price": {
+        "min": 1.11,
+        "max": 23.34,
+        "mean": 2.42,
+        "median": 1.48,
+        "suggested": 1.5,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P90 | Chopper (Battle-Scarred)",
+      "price": {
+        "min": 1.11,
+        "max": 12.26,
+        "mean": 1.88,
+        "median": 1.32,
+        "suggested": 1.48,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P90 | Chopper (Factory New)",
+        "price": {
+          "min": 5.3,
+          "max": 99.94,
+          "mean": 11.21,
+          "median": 6.97,
+          "suggested": 7.89,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P90 | Chopper (Minimal Wear)",
+        "price": {
+          "min": 1.74,
+          "max": 175.04,
+          "mean": 7.26,
+          "median": 2,
+          "suggested": 2.12,
+          "quantity": 42,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P90 | Chopper (Field-Tested)",
+        "price": {
+          "min": 1.28,
+          "max": 120.78,
+          "mean": 2.7,
+          "median": 1.77,
+          "suggested": 1.52,
+          "quantity": 166,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P90 | Chopper (Well-Worn)",
+        "price": {
+          "min": 1.11,
+          "max": 23.34,
+          "mean": 2.42,
+          "median": 1.48,
+          "suggested": 1.5,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P90 | Chopper (Battle-Scarred)",
+        "price": {
+          "min": 1.11,
+          "max": 12.26,
+          "mean": 1.88,
+          "median": 1.32,
+          "suggested": 1.48,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P90 | Chopper (Factory New)",
+        "price": {
+          "min": 6.2,
+          "max": 26.14,
+          "mean": 8.72,
+          "median": 7.32,
+          "suggested": 7.23,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P90 | Chopper (Minimal Wear)",
+        "price": {
+          "min": 2.85,
+          "max": 38.84,
+          "mean": 4.88,
+          "median": 3.59,
+          "suggested": 3.64,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P90 | Chopper (Field-Tested)",
+        "price": {
+          "min": 1.55,
+          "max": 4.67,
+          "mean": 1.96,
+          "median": 1.91,
+          "suggested": 1.86,
+          "quantity": 53,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ P90 | Chopper (Well-Worn)",
+        "price": {
+          "min": 1.98,
+          "max": 3.02,
+          "mean": 2.61,
+          "median": 2.82,
+          "suggested": 2.43,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ P90 | Chopper (Battle-Scarred)",
+        "price": {
+          "min": 1.54,
+          "max": 2.75,
+          "mean": 1.84,
+          "median": 1.86,
+          "suggested": 1.68,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P90 | Chopper (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P90 | Chopper (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P90 | Chopper (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P90 | Chopper (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P90 | Chopper (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:46.079Z"
+}

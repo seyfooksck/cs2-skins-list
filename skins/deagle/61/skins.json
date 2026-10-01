@@ -1,0 +1,146 @@
+{
+  "id": "skin-be4448a9c6e2",
+  "name": "Desert Eagle | Hypnotic",
+  "paint_index": "61",
+  "weapon": {
+    "id": "weapon_deagle",
+    "weapon_id": 1,
+    "name": "Desert Eagle",
+    "slug": "deagle"
+  },
+  "pattern": {
+    "id": "aa_vertigo",
+    "name": "Hypnotic"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. It has been painted with a pearl base coat, then spray-painted black through a stencil in a graphic pattern.\\n\\n<i>You're not getting sleepy, you're passing out from blood loss</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 179.23,
+      "max": 2911.95,
+      "mean": 427.57,
+      "median": 315.07,
+      "suggested": 260.84,
+      "quantity": 43,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 204.02,
+      "max": 233.39,
+      "mean": 218.93,
+      "median": 219.4,
+      "suggested": 232.8,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Desert Eagle | Hypnotic (Factory New)",
+      "price": {
+        "min": 179.23,
+        "max": 2911.95,
+        "mean": 427.57,
+        "median": 315.07,
+        "suggested": 260.84,
+        "quantity": 43,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Desert Eagle | Hypnotic (Minimal Wear)",
+      "price": {
+        "min": 204.02,
+        "max": 233.39,
+        "mean": 218.93,
+        "median": 219.4,
+        "suggested": 232.8,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Desert Eagle | Hypnotic (Factory New)",
+        "price": {
+          "min": 179.23,
+          "max": 2911.95,
+          "mean": 427.57,
+          "median": 315.07,
+          "suggested": 260.84,
+          "quantity": 43,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Desert Eagle | Hypnotic (Minimal Wear)",
+        "price": {
+          "min": 204.02,
+          "max": 233.39,
+          "mean": 218.93,
+          "median": 219.4,
+          "suggested": 232.8,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Hypnotic (Factory New)",
+        "price": {
+          "min": 199.71,
+          "max": 647.65,
+          "mean": 309.24,
+          "median": 243.92,
+          "suggested": 258.01,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Hypnotic (Minimal Wear)",
+        "price": null
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Desert Eagle | Hypnotic (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Desert Eagle | Hypnotic (Minimal Wear)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:27.962Z"
+}

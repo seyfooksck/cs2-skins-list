@@ -1,0 +1,257 @@
+{
+  "id": "skin-25af68e7c19c",
+  "name": "Tec-9 | Banana Leaf",
+  "paint_index": "1384",
+  "weapon": {
+    "id": "weapon_tec9",
+    "weapon_id": 30,
+    "name": "Tec-9",
+    "slug": "tec9"
+  },
+  "pattern": {
+    "id": "hye_batik_eyes_tec9",
+    "name": "Banana Leaf"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity. A yellow and black banana leaf pattern has been applied.\\n\\n<i>Rich in potassium</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.25,
+      "max": 29.93,
+      "mean": 1.7,
+      "median": 1.12,
+      "suggested": 0.29,
+      "quantity": 110,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.09,
+      "max": 5.02,
+      "mean": 0.49,
+      "median": 0.37,
+      "suggested": 0.12,
+      "quantity": 41,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.04,
+      "max": 1.75,
+      "mean": 0.07,
+      "median": 0.05,
+      "suggested": 0.03,
+      "quantity": 233,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.04,
+      "max": 0.08,
+      "mean": 0.05,
+      "median": 0.04,
+      "suggested": 0.05,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.04,
+      "max": 0.26,
+      "mean": 0.06,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 37,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Tec-9 | Banana Leaf (Factory New)",
+      "price": {
+        "min": 0.25,
+        "max": 29.93,
+        "mean": 1.7,
+        "median": 1.12,
+        "suggested": 0.29,
+        "quantity": 110,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Tec-9 | Banana Leaf (Minimal Wear)",
+      "price": {
+        "min": 0.09,
+        "max": 5.02,
+        "mean": 0.49,
+        "median": 0.37,
+        "suggested": 0.12,
+        "quantity": 41,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Tec-9 | Banana Leaf (Field-Tested)",
+      "price": {
+        "min": 0.04,
+        "max": 1.75,
+        "mean": 0.07,
+        "median": 0.05,
+        "suggested": 0.03,
+        "quantity": 233,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Tec-9 | Banana Leaf (Well-Worn)",
+      "price": {
+        "min": 0.04,
+        "max": 0.08,
+        "mean": 0.05,
+        "median": 0.04,
+        "suggested": 0.05,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Tec-9 | Banana Leaf (Battle-Scarred)",
+      "price": {
+        "min": 0.04,
+        "max": 0.26,
+        "mean": 0.06,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 37,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Tec-9 | Banana Leaf (Factory New)",
+        "price": {
+          "min": 0.25,
+          "max": 29.93,
+          "mean": 1.7,
+          "median": 1.12,
+          "suggested": 0.29,
+          "quantity": 110,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Tec-9 | Banana Leaf (Minimal Wear)",
+        "price": {
+          "min": 0.09,
+          "max": 5.02,
+          "mean": 0.49,
+          "median": 0.37,
+          "suggested": 0.12,
+          "quantity": 41,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Tec-9 | Banana Leaf (Field-Tested)",
+        "price": {
+          "min": 0.04,
+          "max": 1.75,
+          "mean": 0.07,
+          "median": 0.05,
+          "suggested": 0.03,
+          "quantity": 233,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Tec-9 | Banana Leaf (Well-Worn)",
+        "price": {
+          "min": 0.04,
+          "max": 0.08,
+          "mean": 0.05,
+          "median": 0.04,
+          "suggested": 0.05,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Tec-9 | Banana Leaf (Battle-Scarred)",
+        "price": {
+          "min": 0.04,
+          "max": 0.26,
+          "mean": 0.06,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 37,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Tec-9 | Banana Leaf (Factory New)",
+        "price": {
+          "min": 7.78,
+          "max": 7.78,
+          "mean": 7.78,
+          "median": 7.78,
+          "suggested": 8.72,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Tec-9 | Banana Leaf (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Tec-9 | Banana Leaf (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Tec-9 | Banana Leaf (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Tec-9 | Banana Leaf (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.486Z"
+}

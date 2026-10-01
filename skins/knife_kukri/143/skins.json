@@ -1,0 +1,201 @@
+{
+  "id": "skin-79babeba4169",
+  "name": "★ Kukri Knife | Urban Masked",
+  "paint_index": "143",
+  "weapon": {
+    "id": "weapon_knife_kukri",
+    "weapon_id": 526,
+    "name": "Kukri Knife",
+    "slug": "knife_kukri"
+  },
+  "pattern": {
+    "id": "sp_tape_urban",
+    "name": "Urban Masked"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Used in traditional rituals, such as weddings or stabbings. It has been spray-painted using a tangle of masking tape as a stencil.\\n\\n<i>True power is demonstrated with subtle application</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 61.85,
+      "max": 173.5,
+      "mean": 102.01,
+      "median": 87.51,
+      "suggested": 78.86,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 57.07,
+      "max": 130.81,
+      "mean": 69.51,
+      "median": 58.32,
+      "suggested": 64.62,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Kukri Knife | Urban Masked (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Kukri Knife | Urban Masked (Minimal Wear)",
+      "price": {
+        "min": 61.85,
+        "max": 173.5,
+        "mean": 102.01,
+        "median": 87.51,
+        "suggested": 78.86,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Kukri Knife | Urban Masked (Field-Tested)",
+      "price": {
+        "min": 57.07,
+        "max": 130.81,
+        "mean": 69.51,
+        "median": 58.32,
+        "suggested": 64.62,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Kukri Knife | Urban Masked (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Kukri Knife | Urban Masked (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Kukri Knife | Urban Masked (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Kukri Knife | Urban Masked (Minimal Wear)",
+        "price": {
+          "min": 61.85,
+          "max": 173.5,
+          "mean": 102.01,
+          "median": 87.51,
+          "suggested": 78.86,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Kukri Knife | Urban Masked (Field-Tested)",
+        "price": {
+          "min": 57.07,
+          "max": 130.81,
+          "mean": 69.51,
+          "median": 58.32,
+          "suggested": 64.62,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Kukri Knife | Urban Masked (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ Kukri Knife | Urban Masked (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Kukri Knife | Urban Masked (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Kukri Knife | Urban Masked (Minimal Wear)",
+        "price": {
+          "min": 100.79,
+          "max": 151.7,
+          "mean": 126.25,
+          "median": 126.25,
+          "suggested": 108.63,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Kukri Knife | Urban Masked (Field-Tested)",
+        "price": {
+          "min": 112.4,
+          "max": 274.22,
+          "mean": 173.61,
+          "median": 134.19,
+          "suggested": 70.37,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Kukri Knife | Urban Masked (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Kukri Knife | Urban Masked (Battle-Scarred)",
+        "price": {
+          "min": 212.34,
+          "max": 233.39,
+          "mean": 222.86,
+          "median": 222.86,
+          "suggested": 67.7,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:36.271Z"
+}

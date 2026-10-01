@@ -1,0 +1,201 @@
+{
+  "id": "skin-791ee8bfc7fa",
+  "name": "P90 | Astral Jörmungandr",
+  "paint_index": "759",
+  "weapon": {
+    "id": "weapon_p90",
+    "weapon_id": 19,
+    "name": "P90",
+    "slug": "p90"
+  },
+  "pattern": {
+    "id": "am_jorm_blue",
+    "name": "Astral Jörmungandr"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. A silver and blue pattern depicting Jörmungandr, the World Serpent, has been applied.\\n\\n<i>Wake the gods</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 344.37,
+      "max": 1251.21,
+      "mean": 659.67,
+      "median": 563.28,
+      "suggested": 628.94,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 419.69,
+      "max": 419.69,
+      "mean": 419.69,
+      "median": 419.69,
+      "suggested": 596.89,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 420.1,
+      "max": 420.1,
+      "mean": 420.1,
+      "median": 420.1,
+      "suggested": 445,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P90 | Astral Jörmungandr (Factory New)",
+      "price": {
+        "min": 344.37,
+        "max": 1251.21,
+        "mean": 659.67,
+        "median": 563.28,
+        "suggested": 628.94,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P90 | Astral Jörmungandr (Minimal Wear)",
+      "price": {
+        "min": 419.69,
+        "max": 419.69,
+        "mean": 419.69,
+        "median": 419.69,
+        "suggested": 596.89,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P90 | Astral Jörmungandr (Field-Tested)",
+      "price": {
+        "min": 420.1,
+        "max": 420.1,
+        "mean": 420.1,
+        "median": 420.1,
+        "suggested": 445,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P90 | Astral Jörmungandr (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P90 | Astral Jörmungandr (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P90 | Astral Jörmungandr (Factory New)",
+        "price": {
+          "min": 344.37,
+          "max": 1251.21,
+          "mean": 659.67,
+          "median": 563.28,
+          "suggested": 628.94,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P90 | Astral Jörmungandr (Minimal Wear)",
+        "price": {
+          "min": 419.69,
+          "max": 419.69,
+          "mean": 419.69,
+          "median": 419.69,
+          "suggested": 596.89,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P90 | Astral Jörmungandr (Field-Tested)",
+        "price": {
+          "min": 420.1,
+          "max": 420.1,
+          "mean": 420.1,
+          "median": 420.1,
+          "suggested": 445,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P90 | Astral Jörmungandr (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "P90 | Astral Jörmungandr (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P90 | Astral Jörmungandr (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P90 | Astral Jörmungandr (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P90 | Astral Jörmungandr (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P90 | Astral Jörmungandr (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P90 | Astral Jörmungandr (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:45.789Z"
+}

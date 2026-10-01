@@ -1,0 +1,249 @@
+{
+  "id": "skin-2e785b354884",
+  "name": "AK-47 | Jet Set",
+  "paint_index": "340",
+  "weapon": {
+    "id": "weapon_ak47",
+    "weapon_id": 7,
+    "name": "AK-47",
+    "slug": "ak47"
+  },
+  "pattern": {
+    "id": "cu_well_traveled_ak47",
+    "name": "Jet Set"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. Its stock has been wrapped in brown leather.  This weapon has been to a lot of cities.\\n\\n<i>Anyone paying close attention will connect the dots and see what she did. We don't have much time to find a solution... - A Father's Love Part 1</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1182.89,
+      "max": 1182.89,
+      "mean": 1182.89,
+      "median": 1182.89,
+      "suggested": 1370.68,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 583.46,
+      "max": 764.34,
+      "mean": 663.21,
+      "median": 641.82,
+      "suggested": 538.86,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 385.09,
+      "max": 466.77,
+      "mean": 431.48,
+      "median": 437.02,
+      "suggested": 426.85,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 316.82,
+      "max": 512.08,
+      "mean": 383.65,
+      "median": 335.58,
+      "suggested": 378.3,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 331.27,
+      "max": 466.76,
+      "mean": 399.02,
+      "median": 399.02,
+      "suggested": 377.39,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AK-47 | Jet Set (Factory New)",
+      "price": {
+        "min": 1182.89,
+        "max": 1182.89,
+        "mean": 1182.89,
+        "median": 1182.89,
+        "suggested": 1370.68,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AK-47 | Jet Set (Minimal Wear)",
+      "price": {
+        "min": 583.46,
+        "max": 764.34,
+        "mean": 663.21,
+        "median": 641.82,
+        "suggested": 538.86,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AK-47 | Jet Set (Field-Tested)",
+      "price": {
+        "min": 385.09,
+        "max": 466.77,
+        "mean": 431.48,
+        "median": 437.02,
+        "suggested": 426.85,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AK-47 | Jet Set (Well-Worn)",
+      "price": {
+        "min": 316.82,
+        "max": 512.08,
+        "mean": 383.65,
+        "median": 335.58,
+        "suggested": 378.3,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AK-47 | Jet Set (Battle-Scarred)",
+      "price": {
+        "min": 331.27,
+        "max": 466.76,
+        "mean": 399.02,
+        "median": 399.02,
+        "suggested": 377.39,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AK-47 | Jet Set (Factory New)",
+        "price": {
+          "min": 1182.89,
+          "max": 1182.89,
+          "mean": 1182.89,
+          "median": 1182.89,
+          "suggested": 1370.68,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AK-47 | Jet Set (Minimal Wear)",
+        "price": {
+          "min": 583.46,
+          "max": 764.34,
+          "mean": 663.21,
+          "median": 641.82,
+          "suggested": 538.86,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AK-47 | Jet Set (Field-Tested)",
+        "price": {
+          "min": 385.09,
+          "max": 466.77,
+          "mean": 431.48,
+          "median": 437.02,
+          "suggested": 426.85,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AK-47 | Jet Set (Well-Worn)",
+        "price": {
+          "min": 316.82,
+          "max": 512.08,
+          "mean": 383.65,
+          "median": 335.58,
+          "suggested": 378.3,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AK-47 | Jet Set (Battle-Scarred)",
+        "price": {
+          "min": 331.27,
+          "max": 466.76,
+          "mean": 399.02,
+          "median": 399.02,
+          "suggested": 377.39,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AK-47 | Jet Set (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AK-47 | Jet Set (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AK-47 | Jet Set (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AK-47 | Jet Set (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AK-47 | Jet Set (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:20:20.774Z"
+}

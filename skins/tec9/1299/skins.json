@@ -1,0 +1,249 @@
+{
+  "id": "skin-467b73d88989",
+  "name": "Tec-9 | Raw Ceramic",
+  "paint_index": "1299",
+  "weapon": {
+    "id": "weapon_tec9",
+    "weapon_id": 30,
+    "name": "Tec-9",
+    "slug": "tec9"
+  },
+  "pattern": {
+    "id": "so_ceramic",
+    "name": "Raw Ceramic"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 0.75,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity. It has been painted a solid tan color.\\n\\n<i>Restore by force</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.06,
+      "max": 7.64,
+      "mean": 0.76,
+      "median": 0.36,
+      "suggested": 0.08,
+      "quantity": 76,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.02,
+      "max": 7.99,
+      "mean": 0.11,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 334,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.02,
+      "max": 1.83,
+      "mean": 0.05,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 1059,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.02,
+      "max": 8.17,
+      "mean": 3.71,
+      "median": 4.4,
+      "suggested": 0.03,
+      "quantity": 13,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.02,
+      "max": 0.15,
+      "mean": 0.04,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 216,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Tec-9 | Raw Ceramic (Factory New)",
+      "price": {
+        "min": 0.06,
+        "max": 7.64,
+        "mean": 0.76,
+        "median": 0.36,
+        "suggested": 0.08,
+        "quantity": 76,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Tec-9 | Raw Ceramic (Minimal Wear)",
+      "price": {
+        "min": 0.02,
+        "max": 7.99,
+        "mean": 0.11,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 334,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Tec-9 | Raw Ceramic (Field-Tested)",
+      "price": {
+        "min": 0.02,
+        "max": 1.83,
+        "mean": 0.05,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 1059,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Tec-9 | Raw Ceramic (Well-Worn)",
+      "price": {
+        "min": 0.02,
+        "max": 8.17,
+        "mean": 3.71,
+        "median": 4.4,
+        "suggested": 0.03,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Tec-9 | Raw Ceramic (Battle-Scarred)",
+      "price": {
+        "min": 0.02,
+        "max": 0.15,
+        "mean": 0.04,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 216,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Tec-9 | Raw Ceramic (Factory New)",
+        "price": {
+          "min": 0.06,
+          "max": 7.64,
+          "mean": 0.76,
+          "median": 0.36,
+          "suggested": 0.08,
+          "quantity": 76,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Tec-9 | Raw Ceramic (Minimal Wear)",
+        "price": {
+          "min": 0.02,
+          "max": 7.99,
+          "mean": 0.11,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 334,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Tec-9 | Raw Ceramic (Field-Tested)",
+        "price": {
+          "min": 0.02,
+          "max": 1.83,
+          "mean": 0.05,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 1059,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Tec-9 | Raw Ceramic (Well-Worn)",
+        "price": {
+          "min": 0.02,
+          "max": 8.17,
+          "mean": 3.71,
+          "median": 4.4,
+          "suggested": 0.03,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Tec-9 | Raw Ceramic (Battle-Scarred)",
+        "price": {
+          "min": 0.02,
+          "max": 0.15,
+          "mean": 0.04,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 216,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Tec-9 | Raw Ceramic (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Tec-9 | Raw Ceramic (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Tec-9 | Raw Ceramic (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Tec-9 | Raw Ceramic (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Tec-9 | Raw Ceramic (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.498Z"
+}

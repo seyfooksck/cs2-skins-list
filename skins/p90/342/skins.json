@@ -1,0 +1,249 @@
+{
+  "id": "skin-b63301026060",
+  "name": "P90 | Leather",
+  "paint_index": "342",
+  "weapon": {
+    "id": "weapon_p90",
+    "weapon_id": 19,
+    "name": "P90",
+    "slug": "p90"
+  },
+  "pattern": {
+    "id": "cu_brown_leather_p90",
+    "name": "Leather"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. Its stock has been wrapped in brown leather.\\n\\n<i>Don't worry, the safety is TSA compliant</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 26.37,
+      "max": 107.57,
+      "mean": 64.09,
+      "median": 58.34,
+      "suggested": 30.11,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 10.07,
+      "max": 70,
+      "mean": 20.12,
+      "median": 11.18,
+      "suggested": 12.86,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 6.62,
+      "max": 14,
+      "mean": 8.27,
+      "median": 6.93,
+      "suggested": 7.88,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 16.33,
+      "max": 16.33,
+      "mean": 16.33,
+      "median": 16.33,
+      "suggested": 7.41,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 9.34,
+      "max": 39.94,
+      "mean": 24.65,
+      "median": 24.65,
+      "suggested": 7.53,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P90 | Leather (Factory New)",
+      "price": {
+        "min": 26.37,
+        "max": 107.57,
+        "mean": 64.09,
+        "median": 58.34,
+        "suggested": 30.11,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P90 | Leather (Minimal Wear)",
+      "price": {
+        "min": 10.07,
+        "max": 70,
+        "mean": 20.12,
+        "median": 11.18,
+        "suggested": 12.86,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P90 | Leather (Field-Tested)",
+      "price": {
+        "min": 6.62,
+        "max": 14,
+        "mean": 8.27,
+        "median": 6.93,
+        "suggested": 7.88,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P90 | Leather (Well-Worn)",
+      "price": {
+        "min": 16.33,
+        "max": 16.33,
+        "mean": 16.33,
+        "median": 16.33,
+        "suggested": 7.41,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P90 | Leather (Battle-Scarred)",
+      "price": {
+        "min": 9.34,
+        "max": 39.94,
+        "mean": 24.65,
+        "median": 24.65,
+        "suggested": 7.53,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P90 | Leather (Factory New)",
+        "price": {
+          "min": 26.37,
+          "max": 107.57,
+          "mean": 64.09,
+          "median": 58.34,
+          "suggested": 30.11,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P90 | Leather (Minimal Wear)",
+        "price": {
+          "min": 10.07,
+          "max": 70,
+          "mean": 20.12,
+          "median": 11.18,
+          "suggested": 12.86,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P90 | Leather (Field-Tested)",
+        "price": {
+          "min": 6.62,
+          "max": 14,
+          "mean": 8.27,
+          "median": 6.93,
+          "suggested": 7.88,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P90 | Leather (Well-Worn)",
+        "price": {
+          "min": 16.33,
+          "max": 16.33,
+          "mean": 16.33,
+          "median": 16.33,
+          "suggested": 7.41,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P90 | Leather (Battle-Scarred)",
+        "price": {
+          "min": 9.34,
+          "max": 39.94,
+          "mean": 24.65,
+          "median": 24.65,
+          "suggested": 7.53,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P90 | Leather (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P90 | Leather (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P90 | Leather (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P90 | Leather (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P90 | Leather (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:45.861Z"
+}

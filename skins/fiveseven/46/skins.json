@@ -1,0 +1,289 @@
+{
+  "id": "skin-36008b7f9240",
+  "name": "Five-SeveN | Contractor",
+  "paint_index": "46",
+  "weapon": {
+    "id": "weapon_fiveseven",
+    "weapon_id": 3,
+    "name": "Five-SeveN",
+    "slug": "fiveseven"
+  },
+  "pattern": {
+    "id": "so_pmc",
+    "name": "Contractor"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. It has individual parts spray-painted tan, navy and dark green.\\n\\n<i>Rona Sabri still hasn't forgiven Sebastien for not selecting her to go after Turner</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 32.27,
+      "max": 32.27,
+      "mean": 32.27,
+      "median": 32.27,
+      "suggested": 22.75,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 3.33,
+      "max": 9.97,
+      "mean": 5.87,
+      "median": 5.74,
+      "suggested": 3.07,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.95,
+      "max": 9.51,
+      "mean": 3.43,
+      "median": 3.08,
+      "suggested": 2.25,
+      "quantity": 16,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 2.36,
+      "max": 6.2,
+      "mean": 3.5,
+      "median": 2.72,
+      "suggested": 2.87,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 30.47,
+      "max": 30.47,
+      "mean": 30.47,
+      "median": 30.47,
+      "suggested": 2.48,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Five-SeveN | Contractor (Factory New)",
+      "price": {
+        "min": 32.27,
+        "max": 32.27,
+        "mean": 32.27,
+        "median": 32.27,
+        "suggested": 22.75,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Five-SeveN | Contractor (Minimal Wear)",
+      "price": {
+        "min": 3.33,
+        "max": 9.97,
+        "mean": 5.87,
+        "median": 5.74,
+        "suggested": 3.07,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Five-SeveN | Contractor (Field-Tested)",
+      "price": {
+        "min": 1.95,
+        "max": 9.51,
+        "mean": 3.43,
+        "median": 3.08,
+        "suggested": 2.25,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Five-SeveN | Contractor (Well-Worn)",
+      "price": {
+        "min": 2.36,
+        "max": 6.2,
+        "mean": 3.5,
+        "median": 2.72,
+        "suggested": 2.87,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Five-SeveN | Contractor (Battle-Scarred)",
+      "price": {
+        "min": 30.47,
+        "max": 30.47,
+        "mean": 30.47,
+        "median": 30.47,
+        "suggested": 2.48,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Five-SeveN | Contractor (Factory New)",
+        "price": {
+          "min": 32.27,
+          "max": 32.27,
+          "mean": 32.27,
+          "median": 32.27,
+          "suggested": 22.75,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Five-SeveN | Contractor (Minimal Wear)",
+        "price": {
+          "min": 3.33,
+          "max": 9.97,
+          "mean": 5.87,
+          "median": 5.74,
+          "suggested": 3.07,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Five-SeveN | Contractor (Field-Tested)",
+        "price": {
+          "min": 1.95,
+          "max": 9.51,
+          "mean": 3.43,
+          "median": 3.08,
+          "suggested": 2.25,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Five-SeveN | Contractor (Well-Worn)",
+        "price": {
+          "min": 2.36,
+          "max": 6.2,
+          "mean": 3.5,
+          "median": 2.72,
+          "suggested": 2.87,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Five-SeveN | Contractor (Battle-Scarred)",
+        "price": {
+          "min": 30.47,
+          "max": 30.47,
+          "mean": 30.47,
+          "median": 30.47,
+          "suggested": 2.48,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Five-SeveN | Contractor (Factory New)",
+        "price": {
+          "min": 17.49,
+          "max": 72.14,
+          "mean": 41.58,
+          "median": 38.33,
+          "suggested": 16.25,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Five-SeveN | Contractor (Minimal Wear)",
+        "price": {
+          "min": 2.74,
+          "max": 834.36,
+          "mean": 68.77,
+          "median": 17.5,
+          "suggested": 3.12,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Five-SeveN | Contractor (Field-Tested)",
+        "price": {
+          "min": 1.56,
+          "max": 386.06,
+          "mean": 32.49,
+          "median": 7.87,
+          "suggested": 1.78,
+          "quantity": 46,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Five-SeveN | Contractor (Well-Worn)",
+        "price": {
+          "min": 3.1,
+          "max": 79.9,
+          "mean": 11.09,
+          "median": 5.73,
+          "suggested": 1.86,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Five-SeveN | Contractor (Battle-Scarred)",
+        "price": {
+          "min": 1.87,
+          "max": 79.9,
+          "mean": 21.42,
+          "median": 14,
+          "suggested": 1.78,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:30.346Z"
+}

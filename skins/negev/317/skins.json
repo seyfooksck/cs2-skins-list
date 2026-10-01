@@ -1,0 +1,310 @@
+{
+  "id": "skin-3e77fbc7c6c1",
+  "name": "Negev | Bratatat",
+  "paint_index": "317",
+  "weapon": {
+    "id": "weapon_negev",
+    "weapon_id": 28,
+    "name": "Negev",
+    "slug": "negev"
+  },
+  "pattern": {
+    "id": "cu_bratatat_negev",
+    "name": "Bratatat"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with comic book onomatopoeia and bullet holes.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 11.37,
+      "max": 63.31,
+      "mean": 17.75,
+      "median": 12.75,
+      "suggested": 13.27,
+      "quantity": 18,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 3.68,
+      "max": 15.98,
+      "mean": 9.49,
+      "median": 7,
+      "suggested": 4.32,
+      "quantity": 35,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.57,
+      "max": 5.83,
+      "mean": 3.57,
+      "median": 3.27,
+      "suggested": 3.29,
+      "quantity": 24,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 2.17,
+      "max": 6.57,
+      "mean": 3.64,
+      "median": 3.57,
+      "suggested": 2.94,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 2.33,
+      "max": 7.5,
+      "mean": 3.52,
+      "median": 2.63,
+      "suggested": 2.96,
+      "quantity": 6,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Negev | Bratatat (Factory New)",
+      "price": {
+        "min": 11.37,
+        "max": 63.31,
+        "mean": 17.75,
+        "median": 12.75,
+        "suggested": 13.27,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Negev | Bratatat (Minimal Wear)",
+      "price": {
+        "min": 3.68,
+        "max": 15.98,
+        "mean": 9.49,
+        "median": 7,
+        "suggested": 4.32,
+        "quantity": 35,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Negev | Bratatat (Field-Tested)",
+      "price": {
+        "min": 2.57,
+        "max": 5.83,
+        "mean": 3.57,
+        "median": 3.27,
+        "suggested": 3.29,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Negev | Bratatat (Well-Worn)",
+      "price": {
+        "min": 2.17,
+        "max": 6.57,
+        "mean": 3.64,
+        "median": 3.57,
+        "suggested": 2.94,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Negev | Bratatat (Battle-Scarred)",
+      "price": {
+        "min": 2.33,
+        "max": 7.5,
+        "mean": 3.52,
+        "median": 2.63,
+        "suggested": 2.96,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Negev | Bratatat (Factory New)",
+        "price": {
+          "min": 11.37,
+          "max": 63.31,
+          "mean": 17.75,
+          "median": 12.75,
+          "suggested": 13.27,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Negev | Bratatat (Minimal Wear)",
+        "price": {
+          "min": 3.68,
+          "max": 15.98,
+          "mean": 9.49,
+          "median": 7,
+          "suggested": 4.32,
+          "quantity": 35,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Negev | Bratatat (Field-Tested)",
+        "price": {
+          "min": 2.57,
+          "max": 5.83,
+          "mean": 3.57,
+          "median": 3.27,
+          "suggested": 3.29,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Negev | Bratatat (Well-Worn)",
+        "price": {
+          "min": 2.17,
+          "max": 6.57,
+          "mean": 3.64,
+          "median": 3.57,
+          "suggested": 2.94,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Negev | Bratatat (Battle-Scarred)",
+        "price": {
+          "min": 2.33,
+          "max": 7.5,
+          "mean": 3.52,
+          "median": 2.63,
+          "suggested": 2.96,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Negev | Bratatat (Factory New)",
+        "price": {
+          "min": 25.17,
+          "max": 238.04,
+          "mean": 61.03,
+          "median": 37.23,
+          "suggested": 29,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Negev | Bratatat (Minimal Wear)",
+        "price": {
+          "min": 5.19,
+          "max": 39.94,
+          "mean": 12.02,
+          "median": 8.18,
+          "suggested": 6.37,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Negev | Bratatat (Field-Tested)",
+        "price": {
+          "min": 2.85,
+          "max": 3.73,
+          "mean": 3.12,
+          "median": 3.1,
+          "suggested": 3.53,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Negev | Bratatat (Well-Worn)",
+        "price": {
+          "min": 2.21,
+          "max": 2.94,
+          "mean": 2.64,
+          "median": 2.58,
+          "suggested": 2.79,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Negev | Bratatat (Battle-Scarred)",
+        "price": {
+          "min": 2.36,
+          "max": 4.67,
+          "mean": 3.16,
+          "median": 2.81,
+          "suggested": 3,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Negev | Bratatat (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Negev | Bratatat (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Negev | Bratatat (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Negev | Bratatat (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Negev | Bratatat (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.072Z"
+}

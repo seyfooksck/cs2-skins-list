@@ -1,0 +1,250 @@
+{
+  "id": "skin-2930dffc8ea9",
+  "name": "FAMAS | Pulse",
+  "paint_index": "260",
+  "weapon": {
+    "id": "weapon_famas",
+    "weapon_id": 10,
+    "name": "FAMAS",
+    "slug": "famas"
+  },
+  "pattern": {
+    "id": "cu_famas_pulse",
+    "name": "Pulse"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.4,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. It has been painted with a hydrographic of bold fuchsia fragments.\\n\\n<i>Striking colors for a striking weapon</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 45.51,
+      "max": 221.55,
+      "mean": 77.32,
+      "median": 65.7,
+      "suggested": 68.89,
+      "quantity": 63,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 10.23,
+      "max": 551,
+      "mean": 52.15,
+      "median": 21.52,
+      "suggested": 13.85,
+      "quantity": 29,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 8.75,
+      "max": 50.28,
+      "mean": 19.73,
+      "median": 14.11,
+      "suggested": 10.42,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 10.79,
+      "max": 16.89,
+      "mean": 13.84,
+      "median": 13.84,
+      "suggested": 12.26,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "FAMAS | Pulse (Factory New)",
+      "price": {
+        "min": 45.51,
+        "max": 221.55,
+        "mean": 77.32,
+        "median": 65.7,
+        "suggested": 68.89,
+        "quantity": 63,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "FAMAS | Pulse (Minimal Wear)",
+      "price": {
+        "min": 10.23,
+        "max": 551,
+        "mean": 52.15,
+        "median": 21.52,
+        "suggested": 13.85,
+        "quantity": 29,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "FAMAS | Pulse (Field-Tested)",
+      "price": {
+        "min": 8.75,
+        "max": 50.28,
+        "mean": 19.73,
+        "median": 14.11,
+        "suggested": 10.42,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "FAMAS | Pulse (Well-Worn)",
+      "price": {
+        "min": 10.79,
+        "max": 16.89,
+        "mean": 13.84,
+        "median": 13.84,
+        "suggested": 12.26,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "FAMAS | Pulse (Factory New)",
+        "price": {
+          "min": 45.51,
+          "max": 221.55,
+          "mean": 77.32,
+          "median": 65.7,
+          "suggested": 68.89,
+          "quantity": 63,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "FAMAS | Pulse (Minimal Wear)",
+        "price": {
+          "min": 10.23,
+          "max": 551,
+          "mean": 52.15,
+          "median": 21.52,
+          "suggested": 13.85,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "FAMAS | Pulse (Field-Tested)",
+        "price": {
+          "min": 8.75,
+          "max": 50.28,
+          "mean": 19.73,
+          "median": 14.11,
+          "suggested": 10.42,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "FAMAS | Pulse (Well-Worn)",
+        "price": {
+          "min": 10.79,
+          "max": 16.89,
+          "mean": 13.84,
+          "median": 13.84,
+          "suggested": 12.26,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ FAMAS | Pulse (Factory New)",
+        "price": {
+          "min": 23.57,
+          "max": 13101.55,
+          "mean": 694.32,
+          "median": 41.26,
+          "suggested": 27.43,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ FAMAS | Pulse (Minimal Wear)",
+        "price": {
+          "min": 16.2,
+          "max": 353.22,
+          "mean": 96,
+          "median": 43.42,
+          "suggested": 18.39,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ FAMAS | Pulse (Field-Tested)",
+        "price": {
+          "min": 14.27,
+          "max": 350.08,
+          "mean": 61.45,
+          "median": 23.91,
+          "suggested": 16.49,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ FAMAS | Pulse (Well-Worn)",
+        "price": null
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir FAMAS | Pulse (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir FAMAS | Pulse (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir FAMAS | Pulse (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir FAMAS | Pulse (Well-Worn)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:29.479Z"
+}

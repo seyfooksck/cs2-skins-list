@@ -1,0 +1,265 @@
+{
+  "id": "skin-2b40712cfff1",
+  "name": "★ Kukri Knife | Boreal Forest",
+  "paint_index": "77",
+  "weapon": {
+    "id": "weapon_knife_kukri",
+    "weapon_id": 526,
+    "name": "Kukri Knife",
+    "slug": "knife_kukri"
+  },
+  "pattern": {
+    "id": "hy_forest_boreal",
+    "name": "Boreal Forest"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Used in traditional rituals, such as weddings or stabbings. It has been painted using a forest camouflage hydrographic.\\n\\n<i>The woods can be a dangerous place... never travel alone</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 113.94,
+      "max": 360.68,
+      "mean": 222.74,
+      "median": 208.18,
+      "suggested": 131.06,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 57.34,
+      "max": 181.83,
+      "mean": 119.59,
+      "median": 119.59,
+      "suggested": 67.42,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 47.4,
+      "max": 327.72,
+      "mean": 81.71,
+      "median": 54.58,
+      "suggested": 58.04,
+      "quantity": 18,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 46.11,
+      "max": 54.08,
+      "mean": 50.4,
+      "median": 50.7,
+      "suggested": 57.69,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 48.8,
+      "max": 54.08,
+      "mean": 51.17,
+      "median": 50.65,
+      "suggested": 54.93,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Kukri Knife | Boreal Forest (Factory New)",
+      "price": {
+        "min": 113.94,
+        "max": 360.68,
+        "mean": 222.74,
+        "median": 208.18,
+        "suggested": 131.06,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Kukri Knife | Boreal Forest (Minimal Wear)",
+      "price": {
+        "min": 57.34,
+        "max": 181.83,
+        "mean": 119.59,
+        "median": 119.59,
+        "suggested": 67.42,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Kukri Knife | Boreal Forest (Field-Tested)",
+      "price": {
+        "min": 47.4,
+        "max": 327.72,
+        "mean": 81.71,
+        "median": 54.58,
+        "suggested": 58.04,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Kukri Knife | Boreal Forest (Well-Worn)",
+      "price": {
+        "min": 46.11,
+        "max": 54.08,
+        "mean": 50.4,
+        "median": 50.7,
+        "suggested": 57.69,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Kukri Knife | Boreal Forest (Battle-Scarred)",
+      "price": {
+        "min": 48.8,
+        "max": 54.08,
+        "mean": 51.17,
+        "median": 50.65,
+        "suggested": 54.93,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Kukri Knife | Boreal Forest (Factory New)",
+        "price": {
+          "min": 113.94,
+          "max": 360.68,
+          "mean": 222.74,
+          "median": 208.18,
+          "suggested": 131.06,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Kukri Knife | Boreal Forest (Minimal Wear)",
+        "price": {
+          "min": 57.34,
+          "max": 181.83,
+          "mean": 119.59,
+          "median": 119.59,
+          "suggested": 67.42,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Kukri Knife | Boreal Forest (Field-Tested)",
+        "price": {
+          "min": 47.4,
+          "max": 327.72,
+          "mean": 81.71,
+          "median": 54.58,
+          "suggested": 58.04,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Kukri Knife | Boreal Forest (Well-Worn)",
+        "price": {
+          "min": 46.11,
+          "max": 54.08,
+          "mean": 50.4,
+          "median": 50.7,
+          "suggested": 57.69,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Kukri Knife | Boreal Forest (Battle-Scarred)",
+        "price": {
+          "min": 48.8,
+          "max": 54.08,
+          "mean": 51.17,
+          "median": 50.65,
+          "suggested": 54.93,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Kukri Knife | Boreal Forest (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Kukri Knife | Boreal Forest (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Kukri Knife | Boreal Forest (Field-Tested)",
+        "price": {
+          "min": 52.42,
+          "max": 233.38,
+          "mean": 142.9,
+          "median": 142.9,
+          "suggested": 60.55,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Kukri Knife | Boreal Forest (Well-Worn)",
+        "price": {
+          "min": 63.04,
+          "max": 63.04,
+          "mean": 63.04,
+          "median": 63.04,
+          "suggested": 63.86,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Kukri Knife | Boreal Forest (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:36.203Z"
+}

@@ -1,0 +1,249 @@
+{
+  "id": "skin-66a37bb94450",
+  "name": "PP-Bizon | Bizoom",
+  "paint_index": "1374",
+  "weapon": {
+    "id": "weapon_bizon",
+    "weapon_id": 26,
+    "name": "PP-Bizon",
+    "slug": "bizon"
+  },
+  "pattern": {
+    "id": "hye_car_wrap_bizon",
+    "name": "Bizoom"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 0.58,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly. A grayscale pattern has been applied.\\n\\n<i>Quickly, please!</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.04,
+      "max": 4.04,
+      "mean": 0.18,
+      "median": 0.08,
+      "suggested": 0.05,
+      "quantity": 166,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.02,
+      "max": 1.82,
+      "mean": 0.08,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 250,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.02,
+      "max": 0.22,
+      "mean": 0.04,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 509,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.04,
+      "max": 1.75,
+      "mean": 0.14,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 29,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.02,
+      "max": 0.18,
+      "mean": 0.04,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 64,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "PP-Bizon | Bizoom (Factory New)",
+      "price": {
+        "min": 0.04,
+        "max": 4.04,
+        "mean": 0.18,
+        "median": 0.08,
+        "suggested": 0.05,
+        "quantity": 166,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "PP-Bizon | Bizoom (Minimal Wear)",
+      "price": {
+        "min": 0.02,
+        "max": 1.82,
+        "mean": 0.08,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 250,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "PP-Bizon | Bizoom (Field-Tested)",
+      "price": {
+        "min": 0.02,
+        "max": 0.22,
+        "mean": 0.04,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 509,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "PP-Bizon | Bizoom (Well-Worn)",
+      "price": {
+        "min": 0.04,
+        "max": 1.75,
+        "mean": 0.14,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 29,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "PP-Bizon | Bizoom (Battle-Scarred)",
+      "price": {
+        "min": 0.02,
+        "max": 0.18,
+        "mean": 0.04,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 64,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "PP-Bizon | Bizoom (Factory New)",
+        "price": {
+          "min": 0.04,
+          "max": 4.04,
+          "mean": 0.18,
+          "median": 0.08,
+          "suggested": 0.05,
+          "quantity": 166,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "PP-Bizon | Bizoom (Minimal Wear)",
+        "price": {
+          "min": 0.02,
+          "max": 1.82,
+          "mean": 0.08,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 250,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "PP-Bizon | Bizoom (Field-Tested)",
+        "price": {
+          "min": 0.02,
+          "max": 0.22,
+          "mean": 0.04,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 509,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "PP-Bizon | Bizoom (Well-Worn)",
+        "price": {
+          "min": 0.04,
+          "max": 1.75,
+          "mean": 0.14,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "PP-Bizon | Bizoom (Battle-Scarred)",
+        "price": {
+          "min": 0.02,
+          "max": 0.18,
+          "mean": 0.04,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 64,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir PP-Bizon | Bizoom (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir PP-Bizon | Bizoom (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir PP-Bizon | Bizoom (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir PP-Bizon | Bizoom (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir PP-Bizon | Bizoom (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:27.258Z"
+}

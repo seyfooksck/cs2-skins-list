@@ -1,0 +1,258 @@
+{
+  "id": "skin-4b1f4693e6df",
+  "name": "Tec-9 | Sandstorm",
+  "paint_index": "289",
+  "weapon": {
+    "id": "weapon_tec9",
+    "weapon_id": 30,
+    "name": "Tec-9",
+    "slug": "tec9"
+  },
+  "pattern": {
+    "id": "cu_tec9_sandstorm",
+    "name": "Sandstorm"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0.1,
+  "max_float": 0.7,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity. It has been painted using a hydrographic in a purple and beige graphic design.\\n\\n<i>It'll take more than a tarp to protect you</i>",
+  "images": {
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "mw": {
+      "min": 6.48,
+      "max": 50.49,
+      "mean": 18.01,
+      "median": 16.42,
+      "suggested": 7.61,
+      "quantity": 24,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.84,
+      "max": 15.17,
+      "mean": 2.74,
+      "median": 1.03,
+      "suggested": 1.05,
+      "quantity": 116,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.67,
+      "max": 70.02,
+      "mean": 7.22,
+      "median": 0.84,
+      "suggested": 0.88,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.58,
+      "max": 17.07,
+      "mean": 1.41,
+      "median": 1.07,
+      "suggested": 0.78,
+      "quantity": 72,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Tec-9 | Sandstorm (Minimal Wear)",
+      "price": {
+        "min": 6.48,
+        "max": 50.49,
+        "mean": 18.01,
+        "median": 16.42,
+        "suggested": 7.61,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Tec-9 | Sandstorm (Field-Tested)",
+      "price": {
+        "min": 0.84,
+        "max": 15.17,
+        "mean": 2.74,
+        "median": 1.03,
+        "suggested": 1.05,
+        "quantity": 116,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Tec-9 | Sandstorm (Well-Worn)",
+      "price": {
+        "min": 0.67,
+        "max": 70.02,
+        "mean": 7.22,
+        "median": 0.84,
+        "suggested": 0.88,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Tec-9 | Sandstorm (Battle-Scarred)",
+      "price": {
+        "min": 0.58,
+        "max": 17.07,
+        "mean": 1.41,
+        "median": 1.07,
+        "suggested": 0.78,
+        "quantity": 72,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "mw": {
+        "market_hash_name": "Tec-9 | Sandstorm (Minimal Wear)",
+        "price": {
+          "min": 6.48,
+          "max": 50.49,
+          "mean": 18.01,
+          "median": 16.42,
+          "suggested": 7.61,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Tec-9 | Sandstorm (Field-Tested)",
+        "price": {
+          "min": 0.84,
+          "max": 15.17,
+          "mean": 2.74,
+          "median": 1.03,
+          "suggested": 1.05,
+          "quantity": 116,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Tec-9 | Sandstorm (Well-Worn)",
+        "price": {
+          "min": 0.67,
+          "max": 70.02,
+          "mean": 7.22,
+          "median": 0.84,
+          "suggested": 0.88,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Tec-9 | Sandstorm (Battle-Scarred)",
+        "price": {
+          "min": 0.58,
+          "max": 17.07,
+          "mean": 1.41,
+          "median": 1.07,
+          "suggested": 0.78,
+          "quantity": 72,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "mw": {
+        "market_hash_name": "StatTrak™ Tec-9 | Sandstorm (Minimal Wear)",
+        "price": {
+          "min": 6.16,
+          "max": 57.18,
+          "mean": 23.4,
+          "median": 9.99,
+          "suggested": 7.32,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Tec-9 | Sandstorm (Field-Tested)",
+        "price": {
+          "min": 0.96,
+          "max": 347.75,
+          "mean": 18.68,
+          "median": 2.94,
+          "suggested": 1.18,
+          "quantity": 50,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Tec-9 | Sandstorm (Well-Worn)",
+        "price": {
+          "min": 1.24,
+          "max": 2.19,
+          "mean": 1.51,
+          "median": 1.31,
+          "suggested": 1.41,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Tec-9 | Sandstorm (Battle-Scarred)",
+        "price": {
+          "min": 0.62,
+          "max": 6.87,
+          "mean": 1.24,
+          "median": 0.88,
+          "suggested": 0.82,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "mw": {
+        "market_hash_name": "Souvenir Tec-9 | Sandstorm (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Tec-9 | Sandstorm (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Tec-9 | Sandstorm (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Tec-9 | Sandstorm (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.218Z"
+}

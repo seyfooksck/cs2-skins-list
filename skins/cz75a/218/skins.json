@@ -1,0 +1,226 @@
+{
+  "id": "skin-8022c136c58f",
+  "name": "CZ75-Auto | Hexane",
+  "paint_index": "218",
+  "weapon": {
+    "id": "weapon_cz75a",
+    "weapon_id": 63,
+    "name": "CZ75-Auto",
+    "slug": "cz75a"
+  },
+  "pattern": {
+    "id": "hy_bluehex",
+    "name": "Hexane"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.4,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fully automatic variant of the CZ75, the CZ75-Auto is the ideal short-term choice for turning the tables and gaining your opponents weapon. But with very little ammo in the magazine, strong trigger discipline is required. It has been painted using a hexagon patterned hydrographic.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 5.96,
+      "max": 37.51,
+      "mean": 14.65,
+      "median": 11.82,
+      "suggested": 7.47,
+      "quantity": 24,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 3.07,
+      "max": 103.86,
+      "mean": 11.74,
+      "median": 3.84,
+      "suggested": 4.13,
+      "quantity": 17,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.28,
+      "max": 11.06,
+      "mean": 4.43,
+      "median": 3.71,
+      "suggested": 3.51,
+      "quantity": 19,
+      "currency": "USD"
+    },
+    "ww": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "CZ75-Auto | Hexane (Factory New)",
+      "price": {
+        "min": 5.96,
+        "max": 37.51,
+        "mean": 14.65,
+        "median": 11.82,
+        "suggested": 7.47,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "CZ75-Auto | Hexane (Minimal Wear)",
+      "price": {
+        "min": 3.07,
+        "max": 103.86,
+        "mean": 11.74,
+        "median": 3.84,
+        "suggested": 4.13,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "CZ75-Auto | Hexane (Field-Tested)",
+      "price": {
+        "min": 2.28,
+        "max": 11.06,
+        "mean": 4.43,
+        "median": 3.71,
+        "suggested": 3.51,
+        "quantity": 19,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "CZ75-Auto | Hexane (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "CZ75-Auto | Hexane (Factory New)",
+        "price": {
+          "min": 5.96,
+          "max": 37.51,
+          "mean": 14.65,
+          "median": 11.82,
+          "suggested": 7.47,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "CZ75-Auto | Hexane (Minimal Wear)",
+        "price": {
+          "min": 3.07,
+          "max": 103.86,
+          "mean": 11.74,
+          "median": 3.84,
+          "suggested": 4.13,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "CZ75-Auto | Hexane (Field-Tested)",
+        "price": {
+          "min": 2.28,
+          "max": 11.06,
+          "mean": 4.43,
+          "median": 3.71,
+          "suggested": 3.51,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "CZ75-Auto | Hexane (Well-Worn)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Hexane (Factory New)",
+        "price": {
+          "min": 8.5,
+          "max": 75.85,
+          "mean": 17.74,
+          "median": 10.32,
+          "suggested": 8.83,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Hexane (Minimal Wear)",
+        "price": {
+          "min": 3.58,
+          "max": 357.42,
+          "mean": 69.12,
+          "median": 4.29,
+          "suggested": 3.98,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Hexane (Field-Tested)",
+        "price": {
+          "min": 2.31,
+          "max": 43.18,
+          "mean": 6.7,
+          "median": 3,
+          "suggested": 2.77,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Hexane (Well-Worn)",
+        "price": null
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir CZ75-Auto | Hexane (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir CZ75-Auto | Hexane (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir CZ75-Auto | Hexane (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir CZ75-Auto | Hexane (Well-Worn)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:27.792Z"
+}

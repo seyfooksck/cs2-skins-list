@@ -1,0 +1,310 @@
+{
+  "id": "skin-e5141cf036fa",
+  "name": "Tec-9 | Rebel",
+  "paint_index": "1235",
+  "weapon": {
+    "id": "weapon_tec9",
+    "weapon_id": 30,
+    "name": "Tec-9",
+    "slug": "tec9"
+  },
+  "pattern": {
+    "id": "cu_tec9_freedom",
+    "name": "Rebel"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity. This custom painted TEC-9 is covered in loosely affiliated designs using a muted color palette.\\n\\n<i>One shot, one kill, one round at a time</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.13,
+      "max": 56.01,
+      "mean": 5.81,
+      "median": 1.56,
+      "suggested": 1.45,
+      "quantity": 83,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.14,
+      "max": 4.78,
+      "mean": 0.28,
+      "median": 0.25,
+      "suggested": 0.23,
+      "quantity": 575,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.07,
+      "max": 4.8,
+      "mean": 0.18,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 819,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.06,
+      "max": 3.5,
+      "mean": 0.12,
+      "median": 0.09,
+      "suggested": 0.09,
+      "quantity": 727,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.06,
+      "max": 4.67,
+      "mean": 0.16,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 565,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Tec-9 | Rebel (Factory New)",
+      "price": {
+        "min": 1.13,
+        "max": 56.01,
+        "mean": 5.81,
+        "median": 1.56,
+        "suggested": 1.45,
+        "quantity": 83,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Tec-9 | Rebel (Minimal Wear)",
+      "price": {
+        "min": 0.14,
+        "max": 4.78,
+        "mean": 0.28,
+        "median": 0.25,
+        "suggested": 0.23,
+        "quantity": 575,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Tec-9 | Rebel (Field-Tested)",
+      "price": {
+        "min": 0.07,
+        "max": 4.8,
+        "mean": 0.18,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 819,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Tec-9 | Rebel (Well-Worn)",
+      "price": {
+        "min": 0.06,
+        "max": 3.5,
+        "mean": 0.12,
+        "median": 0.09,
+        "suggested": 0.09,
+        "quantity": 727,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Tec-9 | Rebel (Battle-Scarred)",
+      "price": {
+        "min": 0.06,
+        "max": 4.67,
+        "mean": 0.16,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 565,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Tec-9 | Rebel (Factory New)",
+        "price": {
+          "min": 1.13,
+          "max": 56.01,
+          "mean": 5.81,
+          "median": 1.56,
+          "suggested": 1.45,
+          "quantity": 83,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Tec-9 | Rebel (Minimal Wear)",
+        "price": {
+          "min": 0.14,
+          "max": 4.78,
+          "mean": 0.28,
+          "median": 0.25,
+          "suggested": 0.23,
+          "quantity": 575,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Tec-9 | Rebel (Field-Tested)",
+        "price": {
+          "min": 0.07,
+          "max": 4.8,
+          "mean": 0.18,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 819,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Tec-9 | Rebel (Well-Worn)",
+        "price": {
+          "min": 0.06,
+          "max": 3.5,
+          "mean": 0.12,
+          "median": 0.09,
+          "suggested": 0.09,
+          "quantity": 727,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Tec-9 | Rebel (Battle-Scarred)",
+        "price": {
+          "min": 0.06,
+          "max": 4.67,
+          "mean": 0.16,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 565,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Tec-9 | Rebel (Factory New)",
+        "price": {
+          "min": 1.03,
+          "max": 43.21,
+          "mean": 4.27,
+          "median": 1.35,
+          "suggested": 1.3,
+          "quantity": 49,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Tec-9 | Rebel (Minimal Wear)",
+        "price": {
+          "min": 0.19,
+          "max": 6.55,
+          "mean": 0.36,
+          "median": 0.25,
+          "suggested": 0.23,
+          "quantity": 130,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Tec-9 | Rebel (Field-Tested)",
+        "price": {
+          "min": 0.09,
+          "max": 8.02,
+          "mean": 0.25,
+          "median": 0.13,
+          "suggested": 0.12,
+          "quantity": 177,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Tec-9 | Rebel (Well-Worn)",
+        "price": {
+          "min": 0.07,
+          "max": 6.15,
+          "mean": 0.15,
+          "median": 0.12,
+          "suggested": 0.1,
+          "quantity": 207,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Tec-9 | Rebel (Battle-Scarred)",
+        "price": {
+          "min": 0.07,
+          "max": 7,
+          "mean": 0.29,
+          "median": 0.12,
+          "suggested": 0.1,
+          "quantity": 159,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Tec-9 | Rebel (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Tec-9 | Rebel (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Tec-9 | Rebel (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Tec-9 | Rebel (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Tec-9 | Rebel (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.186Z"
+}

@@ -1,0 +1,154 @@
+{
+  "id": "skin-fd5699e808a0",
+  "name": "Negev | Man-o'-war",
+  "paint_index": "432",
+  "weapon": {
+    "id": "weapon_negev",
+    "weapon_id": 28,
+    "name": "Negev",
+    "slug": "negev"
+  },
+  "pattern": {
+    "id": "am_negev_glory",
+    "name": "Man-o'-war"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0.1,
+  "max_float": 0.2,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been given a base coat of blue metallic paint then hand-painted with metallic gold swirls and accents.\\n\\n<i>Turn some heads before you take them off</i>",
+  "images": {
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "mw": {
+      "min": 0.3,
+      "max": 70.23,
+      "mean": 4.28,
+      "median": 2.52,
+      "suggested": 0.42,
+      "quantity": 361,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.28,
+      "max": 3.68,
+      "mean": 0.54,
+      "median": 0.43,
+      "suggested": 0.38,
+      "quantity": 106,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Negev | Man-o'-war (Minimal Wear)",
+      "price": {
+        "min": 0.3,
+        "max": 70.23,
+        "mean": 4.28,
+        "median": 2.52,
+        "suggested": 0.42,
+        "quantity": 361,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Negev | Man-o'-war (Field-Tested)",
+      "price": {
+        "min": 0.28,
+        "max": 3.68,
+        "mean": 0.54,
+        "median": 0.43,
+        "suggested": 0.38,
+        "quantity": 106,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "mw": {
+        "market_hash_name": "Negev | Man-o'-war (Minimal Wear)",
+        "price": {
+          "min": 0.3,
+          "max": 70.23,
+          "mean": 4.28,
+          "median": 2.52,
+          "suggested": 0.42,
+          "quantity": 361,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Negev | Man-o'-war (Field-Tested)",
+        "price": {
+          "min": 0.28,
+          "max": 3.68,
+          "mean": 0.54,
+          "median": 0.43,
+          "suggested": 0.38,
+          "quantity": 106,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "mw": {
+        "market_hash_name": "StatTrak™ Negev | Man-o'-war (Minimal Wear)",
+        "price": {
+          "min": 0.56,
+          "max": 25.31,
+          "mean": 2.56,
+          "median": 0.86,
+          "suggested": 0.65,
+          "quantity": 142,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Negev | Man-o'-war (Field-Tested)",
+        "price": {
+          "min": 0.35,
+          "max": 2.52,
+          "mean": 0.78,
+          "median": 0.53,
+          "suggested": 0.44,
+          "quantity": 39,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "mw": {
+        "market_hash_name": "Souvenir Negev | Man-o'-war (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Negev | Man-o'-war (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.047Z"
+}

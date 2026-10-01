@@ -1,0 +1,249 @@
+{
+  "id": "skin-8ea40600a277",
+  "name": "MP7 | Scorched",
+  "paint_index": "175",
+  "weapon": {
+    "id": "weapon_mp7",
+    "weapon_id": 33,
+    "name": "MP7",
+    "slug": "mp7"
+  },
+  "pattern": {
+    "id": "sp_dapple",
+    "name": "Scorched"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been spray-painted in a sun-dappled pattern.\\n\\n<i>The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 23.34,
+      "max": 79.9,
+      "mean": 33.53,
+      "median": 25.88,
+      "suggested": 29.22,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 8.89,
+      "max": 39.94,
+      "mean": 19.03,
+      "median": 22.15,
+      "suggested": 10.38,
+      "quantity": 36,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 7.25,
+      "max": 18.75,
+      "mean": 12.68,
+      "median": 11.93,
+      "suggested": 9.17,
+      "quantity": 33,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 8.82,
+      "max": 15.14,
+      "mean": 10.68,
+      "median": 10.25,
+      "suggested": 8.72,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 9.02,
+      "max": 39.94,
+      "mean": 13.89,
+      "median": 10.06,
+      "suggested": 9.22,
+      "quantity": 8,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP7 | Scorched (Factory New)",
+      "price": {
+        "min": 23.34,
+        "max": 79.9,
+        "mean": 33.53,
+        "median": 25.88,
+        "suggested": 29.22,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP7 | Scorched (Minimal Wear)",
+      "price": {
+        "min": 8.89,
+        "max": 39.94,
+        "mean": 19.03,
+        "median": 22.15,
+        "suggested": 10.38,
+        "quantity": 36,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP7 | Scorched (Field-Tested)",
+      "price": {
+        "min": 7.25,
+        "max": 18.75,
+        "mean": 12.68,
+        "median": 11.93,
+        "suggested": 9.17,
+        "quantity": 33,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP7 | Scorched (Well-Worn)",
+      "price": {
+        "min": 8.82,
+        "max": 15.14,
+        "mean": 10.68,
+        "median": 10.25,
+        "suggested": 8.72,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP7 | Scorched (Battle-Scarred)",
+      "price": {
+        "min": 9.02,
+        "max": 39.94,
+        "mean": 13.89,
+        "median": 10.06,
+        "suggested": 9.22,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP7 | Scorched (Factory New)",
+        "price": {
+          "min": 23.34,
+          "max": 79.9,
+          "mean": 33.53,
+          "median": 25.88,
+          "suggested": 29.22,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP7 | Scorched (Minimal Wear)",
+        "price": {
+          "min": 8.89,
+          "max": 39.94,
+          "mean": 19.03,
+          "median": 22.15,
+          "suggested": 10.38,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP7 | Scorched (Field-Tested)",
+        "price": {
+          "min": 7.25,
+          "max": 18.75,
+          "mean": 12.68,
+          "median": 11.93,
+          "suggested": 9.17,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP7 | Scorched (Well-Worn)",
+        "price": {
+          "min": 8.82,
+          "max": 15.14,
+          "mean": 10.68,
+          "median": 10.25,
+          "suggested": 8.72,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP7 | Scorched (Battle-Scarred)",
+        "price": {
+          "min": 9.02,
+          "max": 39.94,
+          "mean": 13.89,
+          "median": 10.06,
+          "suggested": 9.22,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP7 | Scorched (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP7 | Scorched (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP7 | Scorched (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP7 | Scorched (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP7 | Scorched (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:43.361Z"
+}

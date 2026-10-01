@@ -1,0 +1,193 @@
+{
+  "id": "skin-ef6a97d9de03",
+  "name": "Dual Berettas | Briar",
+  "paint_index": "330",
+  "weapon": {
+    "id": "weapon_elite",
+    "weapon_id": 2,
+    "name": "Dual Berettas",
+    "slug": "elite"
+  },
+  "pattern": {
+    "id": "hy_vines",
+    "name": "Briar"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 0.22,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. It has been painted with a hydrographic of curling vines and flowers.\\n\\n<i>True Love's Kiss can't save you from its barbs</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 7.82,
+      "max": 70,
+      "mean": 20.88,
+      "median": 20.34,
+      "suggested": 8.92,
+      "quantity": 71,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.88,
+      "max": 19.46,
+      "mean": 12.92,
+      "median": 18.44,
+      "suggested": 3.36,
+      "quantity": 30,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.98,
+      "max": 12.29,
+      "mean": 5.13,
+      "median": 4.56,
+      "suggested": 3.38,
+      "quantity": 12,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Dual Berettas | Briar (Factory New)",
+      "price": {
+        "min": 7.82,
+        "max": 70,
+        "mean": 20.88,
+        "median": 20.34,
+        "suggested": 8.92,
+        "quantity": 71,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Dual Berettas | Briar (Minimal Wear)",
+      "price": {
+        "min": 2.88,
+        "max": 19.46,
+        "mean": 12.92,
+        "median": 18.44,
+        "suggested": 3.36,
+        "quantity": 30,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Dual Berettas | Briar (Field-Tested)",
+      "price": {
+        "min": 2.98,
+        "max": 12.29,
+        "mean": 5.13,
+        "median": 4.56,
+        "suggested": 3.38,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Dual Berettas | Briar (Factory New)",
+        "price": {
+          "min": 7.82,
+          "max": 70,
+          "mean": 20.88,
+          "median": 20.34,
+          "suggested": 8.92,
+          "quantity": 71,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Dual Berettas | Briar (Minimal Wear)",
+        "price": {
+          "min": 2.88,
+          "max": 19.46,
+          "mean": 12.92,
+          "median": 18.44,
+          "suggested": 3.36,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Dual Berettas | Briar (Field-Tested)",
+        "price": {
+          "min": 2.98,
+          "max": 12.29,
+          "mean": 5.13,
+          "median": 4.56,
+          "suggested": 3.38,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Dual Berettas | Briar (Factory New)",
+        "price": {
+          "min": 4.74,
+          "max": 1061.91,
+          "mean": 102.27,
+          "median": 53.04,
+          "suggested": 5.34,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Dual Berettas | Briar (Minimal Wear)",
+        "price": {
+          "min": 2.72,
+          "max": 122.52,
+          "mean": 26.52,
+          "median": 6.63,
+          "suggested": 3.17,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Dual Berettas | Briar (Field-Tested)",
+        "price": {
+          "min": 2.56,
+          "max": 4.91,
+          "mean": 3.73,
+          "median": 3.73,
+          "suggested": 2.93,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:29.008Z"
+}

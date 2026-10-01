@@ -1,0 +1,310 @@
+{
+  "id": "skin-5bd6cfc7249e",
+  "name": "MAC-10 | Pipe Down",
+  "paint_index": "812",
+  "weapon": {
+    "id": "weapon_mac10",
+    "weapon_id": 17,
+    "name": "MAC-10",
+    "slug": "mac10"
+  },
+  "pattern": {
+    "id": "gs_mac10_exo_pipes",
+    "name": "Pipe Down"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.9,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been custom painted to appear as if it is filled with red tubes.\\n\\n<i>Peek behind the curtain</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 9.64,
+      "max": 58.35,
+      "mean": 18.74,
+      "median": 12.24,
+      "suggested": 11.38,
+      "quantity": 25,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.39,
+      "max": 29.82,
+      "mean": 2.82,
+      "median": 1.61,
+      "suggested": 1.78,
+      "quantity": 51,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.51,
+      "max": 31.55,
+      "mean": 0.9,
+      "median": 0.79,
+      "suggested": 0.74,
+      "quantity": 338,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.44,
+      "max": 3.5,
+      "mean": 0.7,
+      "median": 0.63,
+      "suggested": 0.67,
+      "quantity": 62,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.44,
+      "max": 14.28,
+      "mean": 0.85,
+      "median": 0.61,
+      "suggested": 0.67,
+      "quantity": 64,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAC-10 | Pipe Down (Factory New)",
+      "price": {
+        "min": 9.64,
+        "max": 58.35,
+        "mean": 18.74,
+        "median": 12.24,
+        "suggested": 11.38,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAC-10 | Pipe Down (Minimal Wear)",
+      "price": {
+        "min": 1.39,
+        "max": 29.82,
+        "mean": 2.82,
+        "median": 1.61,
+        "suggested": 1.78,
+        "quantity": 51,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAC-10 | Pipe Down (Field-Tested)",
+      "price": {
+        "min": 0.51,
+        "max": 31.55,
+        "mean": 0.9,
+        "median": 0.79,
+        "suggested": 0.74,
+        "quantity": 338,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAC-10 | Pipe Down (Well-Worn)",
+      "price": {
+        "min": 0.44,
+        "max": 3.5,
+        "mean": 0.7,
+        "median": 0.63,
+        "suggested": 0.67,
+        "quantity": 62,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAC-10 | Pipe Down (Battle-Scarred)",
+      "price": {
+        "min": 0.44,
+        "max": 14.28,
+        "mean": 0.85,
+        "median": 0.61,
+        "suggested": 0.67,
+        "quantity": 64,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAC-10 | Pipe Down (Factory New)",
+        "price": {
+          "min": 9.64,
+          "max": 58.35,
+          "mean": 18.74,
+          "median": 12.24,
+          "suggested": 11.38,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAC-10 | Pipe Down (Minimal Wear)",
+        "price": {
+          "min": 1.39,
+          "max": 29.82,
+          "mean": 2.82,
+          "median": 1.61,
+          "suggested": 1.78,
+          "quantity": 51,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAC-10 | Pipe Down (Field-Tested)",
+        "price": {
+          "min": 0.51,
+          "max": 31.55,
+          "mean": 0.9,
+          "median": 0.79,
+          "suggested": 0.74,
+          "quantity": 338,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAC-10 | Pipe Down (Well-Worn)",
+        "price": {
+          "min": 0.44,
+          "max": 3.5,
+          "mean": 0.7,
+          "median": 0.63,
+          "suggested": 0.67,
+          "quantity": 62,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MAC-10 | Pipe Down (Battle-Scarred)",
+        "price": {
+          "min": 0.44,
+          "max": 14.28,
+          "mean": 0.85,
+          "median": 0.61,
+          "suggested": 0.67,
+          "quantity": 64,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MAC-10 | Pipe Down (Factory New)",
+        "price": {
+          "min": 8.97,
+          "max": 18.81,
+          "mean": 15.49,
+          "median": 15.51,
+          "suggested": 10.33,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MAC-10 | Pipe Down (Minimal Wear)",
+        "price": {
+          "min": 2.18,
+          "max": 3.71,
+          "mean": 2.67,
+          "median": 2.43,
+          "suggested": 2.59,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MAC-10 | Pipe Down (Field-Tested)",
+        "price": {
+          "min": 0.86,
+          "max": 39.73,
+          "mean": 1.8,
+          "median": 1.1,
+          "suggested": 1.15,
+          "quantity": 115,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MAC-10 | Pipe Down (Well-Worn)",
+        "price": {
+          "min": 0.83,
+          "max": 3.61,
+          "mean": 1.25,
+          "median": 1.09,
+          "suggested": 0.96,
+          "quantity": 35,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MAC-10 | Pipe Down (Battle-Scarred)",
+        "price": {
+          "min": 0.89,
+          "max": 5.12,
+          "mean": 1.31,
+          "median": 1.11,
+          "suggested": 0.96,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAC-10 | Pipe Down (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAC-10 | Pipe Down (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAC-10 | Pipe Down (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAC-10 | Pipe Down (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAC-10 | Pipe Down (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.813Z"
+}

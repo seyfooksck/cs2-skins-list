@@ -1,0 +1,265 @@
+{
+  "id": "skin-47cc7c043d3d",
+  "name": "P2000 | Panther Camo",
+  "paint_index": "1019",
+  "weapon": {
+    "id": "weapon_hkp2000",
+    "weapon_id": 32,
+    "name": "P2000",
+    "slug": "hkp2000"
+  },
+  "pattern": {
+    "id": "am_black_panther",
+    "name": "Panther Camo"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Accurate and controllable, the German-made P2000 is a serviceable first-round pistol that works best against unarmored opponents. A black panther spotted finish has been applied.\\n\\n<i>Find your shady spot</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 9.32,
+      "max": 54.83,
+      "mean": 31.02,
+      "median": 35,
+      "suggested": 9.54,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.31,
+      "max": 54.26,
+      "mean": 11.81,
+      "median": 10.99,
+      "suggested": 2.56,
+      "quantity": 42,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.87,
+      "max": 52.51,
+      "mean": 7.73,
+      "median": 6.8,
+      "suggested": 2.11,
+      "quantity": 40,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 2.74,
+      "max": 2.74,
+      "mean": 2.74,
+      "median": 2.74,
+      "suggested": 2.01,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P2000 | Panther Camo (Factory New)",
+      "price": {
+        "min": 9.32,
+        "max": 54.83,
+        "mean": 31.02,
+        "median": 35,
+        "suggested": 9.54,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P2000 | Panther Camo (Minimal Wear)",
+      "price": {
+        "min": 2.31,
+        "max": 54.26,
+        "mean": 11.81,
+        "median": 10.99,
+        "suggested": 2.56,
+        "quantity": 42,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P2000 | Panther Camo (Field-Tested)",
+      "price": {
+        "min": 1.87,
+        "max": 52.51,
+        "mean": 7.73,
+        "median": 6.8,
+        "suggested": 2.11,
+        "quantity": 40,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P2000 | Panther Camo (Well-Worn)",
+      "price": {
+        "min": 2.74,
+        "max": 2.74,
+        "mean": 2.74,
+        "median": 2.74,
+        "suggested": 2.01,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P2000 | Panther Camo (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P2000 | Panther Camo (Factory New)",
+        "price": {
+          "min": 9.32,
+          "max": 54.83,
+          "mean": 31.02,
+          "median": 35,
+          "suggested": 9.54,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P2000 | Panther Camo (Minimal Wear)",
+        "price": {
+          "min": 2.31,
+          "max": 54.26,
+          "mean": 11.81,
+          "median": 10.99,
+          "suggested": 2.56,
+          "quantity": 42,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P2000 | Panther Camo (Field-Tested)",
+        "price": {
+          "min": 1.87,
+          "max": 52.51,
+          "mean": 7.73,
+          "median": 6.8,
+          "suggested": 2.11,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P2000 | Panther Camo (Well-Worn)",
+        "price": {
+          "min": 2.74,
+          "max": 2.74,
+          "mean": 2.74,
+          "median": 2.74,
+          "suggested": 2.01,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P2000 | Panther Camo (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P2000 | Panther Camo (Factory New)",
+        "price": {
+          "min": 3.23,
+          "max": 87.52,
+          "mean": 11,
+          "median": 5.48,
+          "suggested": 3.77,
+          "quantity": 89,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P2000 | Panther Camo (Minimal Wear)",
+        "price": {
+          "min": 2.24,
+          "max": 13.37,
+          "mean": 4.6,
+          "median": 4.1,
+          "suggested": 2.31,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P2000 | Panther Camo (Field-Tested)",
+        "price": {
+          "min": 1.58,
+          "max": 12.82,
+          "mean": 3.2,
+          "median": 1.96,
+          "suggested": 2.04,
+          "quantity": 39,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P2000 | Panther Camo (Well-Worn)",
+        "price": {
+          "min": 1.75,
+          "max": 7.99,
+          "mean": 3.89,
+          "median": 1.9,
+          "suggested": 1.7,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P2000 | Panther Camo (Battle-Scarred)",
+        "price": {
+          "min": 2.33,
+          "max": 4.66,
+          "mean": 3.64,
+          "median": 3.49,
+          "suggested": 1.66,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:32.327Z"
+}

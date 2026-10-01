@@ -1,0 +1,310 @@
+{
+  "id": "skin-cbffebebb7f3",
+  "name": "MP9 | Black Sand",
+  "paint_index": "697",
+  "weapon": {
+    "id": "weapon_mp9",
+    "weapon_id": 34,
+    "name": "MP9",
+    "slug": "mp9"
+  },
+  "pattern": {
+    "id": "cu_mp9_black_sand",
+    "name": "Black Sand"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been custom painted with a tan and black military camo pattern.\\n\\n<i>\\\"End their campaign before it begins\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.07,
+      "max": 23.34,
+      "mean": 8.36,
+      "median": 4.75,
+      "suggested": 2.87,
+      "quantity": 31,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.16,
+      "max": 8.17,
+      "mean": 0.41,
+      "median": 0.26,
+      "suggested": 0.27,
+      "quantity": 136,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.15,
+      "max": 5.12,
+      "mean": 0.3,
+      "median": 0.21,
+      "suggested": 0.23,
+      "quantity": 188,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.08,
+      "max": 0.97,
+      "mean": 0.2,
+      "median": 0.15,
+      "suggested": 0.13,
+      "quantity": 86,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.09,
+      "max": 2.92,
+      "mean": 0.36,
+      "median": 0.2,
+      "suggested": 0.14,
+      "quantity": 93,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP9 | Black Sand (Factory New)",
+      "price": {
+        "min": 2.07,
+        "max": 23.34,
+        "mean": 8.36,
+        "median": 4.75,
+        "suggested": 2.87,
+        "quantity": 31,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP9 | Black Sand (Minimal Wear)",
+      "price": {
+        "min": 0.16,
+        "max": 8.17,
+        "mean": 0.41,
+        "median": 0.26,
+        "suggested": 0.27,
+        "quantity": 136,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP9 | Black Sand (Field-Tested)",
+      "price": {
+        "min": 0.15,
+        "max": 5.12,
+        "mean": 0.3,
+        "median": 0.21,
+        "suggested": 0.23,
+        "quantity": 188,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP9 | Black Sand (Well-Worn)",
+      "price": {
+        "min": 0.08,
+        "max": 0.97,
+        "mean": 0.2,
+        "median": 0.15,
+        "suggested": 0.13,
+        "quantity": 86,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP9 | Black Sand (Battle-Scarred)",
+      "price": {
+        "min": 0.09,
+        "max": 2.92,
+        "mean": 0.36,
+        "median": 0.2,
+        "suggested": 0.14,
+        "quantity": 93,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP9 | Black Sand (Factory New)",
+        "price": {
+          "min": 2.07,
+          "max": 23.34,
+          "mean": 8.36,
+          "median": 4.75,
+          "suggested": 2.87,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP9 | Black Sand (Minimal Wear)",
+        "price": {
+          "min": 0.16,
+          "max": 8.17,
+          "mean": 0.41,
+          "median": 0.26,
+          "suggested": 0.27,
+          "quantity": 136,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP9 | Black Sand (Field-Tested)",
+        "price": {
+          "min": 0.15,
+          "max": 5.12,
+          "mean": 0.3,
+          "median": 0.21,
+          "suggested": 0.23,
+          "quantity": 188,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP9 | Black Sand (Well-Worn)",
+        "price": {
+          "min": 0.08,
+          "max": 0.97,
+          "mean": 0.2,
+          "median": 0.15,
+          "suggested": 0.13,
+          "quantity": 86,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP9 | Black Sand (Battle-Scarred)",
+        "price": {
+          "min": 0.09,
+          "max": 2.92,
+          "mean": 0.36,
+          "median": 0.2,
+          "suggested": 0.14,
+          "quantity": 93,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MP9 | Black Sand (Factory New)",
+        "price": {
+          "min": 1.16,
+          "max": 32.46,
+          "mean": 3.2,
+          "median": 1.45,
+          "suggested": 1.38,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MP9 | Black Sand (Minimal Wear)",
+        "price": {
+          "min": 0.25,
+          "max": 1.95,
+          "mean": 0.3,
+          "median": 0.28,
+          "suggested": 0.31,
+          "quantity": 65,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MP9 | Black Sand (Field-Tested)",
+        "price": {
+          "min": 0.12,
+          "max": 5.05,
+          "mean": 0.23,
+          "median": 0.15,
+          "suggested": 0.14,
+          "quantity": 102,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MP9 | Black Sand (Well-Worn)",
+        "price": {
+          "min": 0.09,
+          "max": 5.83,
+          "mean": 0.27,
+          "median": 0.14,
+          "suggested": 0.12,
+          "quantity": 72,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MP9 | Black Sand (Battle-Scarred)",
+        "price": {
+          "min": 0.09,
+          "max": 3.99,
+          "mean": 0.53,
+          "median": 0.13,
+          "suggested": 0.14,
+          "quantity": 43,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP9 | Black Sand (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP9 | Black Sand (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP9 | Black Sand (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP9 | Black Sand (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP9 | Black Sand (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:43.597Z"
+}

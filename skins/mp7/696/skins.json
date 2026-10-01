@@ -1,0 +1,310 @@
+{
+  "id": "skin-d11a70424dd7",
+  "name": "MP7 | Bloodsport",
+  "paint_index": "696",
+  "weapon": {
+    "id": "weapon_mp7",
+    "weapon_id": 33,
+    "name": "MP7",
+    "slug": "mp7"
+  },
+  "pattern": {
+    "id": "gs_mp7_bloodsport",
+    "name": "Bloodsport"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.65,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been covered in white logo decals over a red and black hydrographic.\\n\\n<i>Space for rent</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 75.78,
+      "max": 1777.16,
+      "mean": 146.68,
+      "median": 109.69,
+      "suggested": 98.87,
+      "quantity": 85,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 43.81,
+      "max": 202.94,
+      "mean": 59.56,
+      "median": 57.34,
+      "suggested": 61.71,
+      "quantity": 214,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 31.71,
+      "max": 82.29,
+      "mean": 41.99,
+      "median": 41.25,
+      "suggested": 45.26,
+      "quantity": 263,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 31.44,
+      "max": 61.25,
+      "mean": 41.71,
+      "median": 40.12,
+      "suggested": 42.43,
+      "quantity": 18,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 29.97,
+      "max": 48.52,
+      "mean": 37.95,
+      "median": 38.05,
+      "suggested": 40.66,
+      "quantity": 38,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP7 | Bloodsport (Factory New)",
+      "price": {
+        "min": 75.78,
+        "max": 1777.16,
+        "mean": 146.68,
+        "median": 109.69,
+        "suggested": 98.87,
+        "quantity": 85,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP7 | Bloodsport (Minimal Wear)",
+      "price": {
+        "min": 43.81,
+        "max": 202.94,
+        "mean": 59.56,
+        "median": 57.34,
+        "suggested": 61.71,
+        "quantity": 214,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP7 | Bloodsport (Field-Tested)",
+      "price": {
+        "min": 31.71,
+        "max": 82.29,
+        "mean": 41.99,
+        "median": 41.25,
+        "suggested": 45.26,
+        "quantity": 263,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP7 | Bloodsport (Well-Worn)",
+      "price": {
+        "min": 31.44,
+        "max": 61.25,
+        "mean": 41.71,
+        "median": 40.12,
+        "suggested": 42.43,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP7 | Bloodsport (Battle-Scarred)",
+      "price": {
+        "min": 29.97,
+        "max": 48.52,
+        "mean": 37.95,
+        "median": 38.05,
+        "suggested": 40.66,
+        "quantity": 38,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP7 | Bloodsport (Factory New)",
+        "price": {
+          "min": 75.78,
+          "max": 1777.16,
+          "mean": 146.68,
+          "median": 109.69,
+          "suggested": 98.87,
+          "quantity": 85,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP7 | Bloodsport (Minimal Wear)",
+        "price": {
+          "min": 43.81,
+          "max": 202.94,
+          "mean": 59.56,
+          "median": 57.34,
+          "suggested": 61.71,
+          "quantity": 214,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP7 | Bloodsport (Field-Tested)",
+        "price": {
+          "min": 31.71,
+          "max": 82.29,
+          "mean": 41.99,
+          "median": 41.25,
+          "suggested": 45.26,
+          "quantity": 263,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP7 | Bloodsport (Well-Worn)",
+        "price": {
+          "min": 31.44,
+          "max": 61.25,
+          "mean": 41.71,
+          "median": 40.12,
+          "suggested": 42.43,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP7 | Bloodsport (Battle-Scarred)",
+        "price": {
+          "min": 29.97,
+          "max": 48.52,
+          "mean": 37.95,
+          "median": 38.05,
+          "suggested": 40.66,
+          "quantity": 38,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MP7 | Bloodsport (Factory New)",
+        "price": {
+          "min": 55.1,
+          "max": 291.73,
+          "mean": 87.38,
+          "median": 66.57,
+          "suggested": 70.43,
+          "quantity": 35,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MP7 | Bloodsport (Minimal Wear)",
+        "price": {
+          "min": 34.81,
+          "max": 93.35,
+          "mean": 43.24,
+          "median": 37.46,
+          "suggested": 43.13,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MP7 | Bloodsport (Field-Tested)",
+        "price": {
+          "min": 22.5,
+          "max": 64.18,
+          "mean": 31.43,
+          "median": 27.45,
+          "suggested": 28.31,
+          "quantity": 58,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MP7 | Bloodsport (Well-Worn)",
+        "price": {
+          "min": 28.61,
+          "max": 28.61,
+          "mean": 28.61,
+          "median": 28.61,
+          "suggested": 31.46,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MP7 | Bloodsport (Battle-Scarred)",
+        "price": {
+          "min": 22.11,
+          "max": 52.47,
+          "mean": 31.34,
+          "median": 27.92,
+          "suggested": 28.32,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP7 | Bloodsport (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP7 | Bloodsport (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP7 | Bloodsport (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP7 | Bloodsport (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP7 | Bloodsport (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:43.120Z"
+}

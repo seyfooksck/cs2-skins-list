@@ -1,0 +1,201 @@
+{
+  "id": "skin-9459e126b14a",
+  "name": "Sawed-Off | Copper",
+  "paint_index": "41",
+  "weapon": {
+    "id": "weapon_sawedoff",
+    "weapon_id": 29,
+    "name": "Sawed-Off",
+    "slug": "sawedoff"
+  },
+  "pattern": {
+    "id": "aq_copper",
+    "name": "Copper"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit. It has been copper plated.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 204.2,
+      "max": 204.2,
+      "mean": 204.2,
+      "median": 204.2,
+      "suggested": 120.72,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "mw": null,
+    "ft": {
+      "min": 144.27,
+      "max": 363.99,
+      "mean": 254.14,
+      "median": 254.14,
+      "suggested": 104.61,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 96.34,
+      "max": 96.34,
+      "mean": 96.34,
+      "median": 96.34,
+      "suggested": 112.68,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Sawed-Off | Copper (Factory New)",
+      "price": {
+        "min": 204.2,
+        "max": 204.2,
+        "mean": 204.2,
+        "median": 204.2,
+        "suggested": 120.72,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Sawed-Off | Copper (Minimal Wear)",
+      "price": null,
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Sawed-Off | Copper (Field-Tested)",
+      "price": {
+        "min": 144.27,
+        "max": 363.99,
+        "mean": 254.14,
+        "median": 254.14,
+        "suggested": 104.61,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Sawed-Off | Copper (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Sawed-Off | Copper (Battle-Scarred)",
+      "price": {
+        "min": 96.34,
+        "max": 96.34,
+        "mean": 96.34,
+        "median": 96.34,
+        "suggested": 112.68,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Sawed-Off | Copper (Factory New)",
+        "price": {
+          "min": 204.2,
+          "max": 204.2,
+          "mean": 204.2,
+          "median": 204.2,
+          "suggested": 120.72,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Sawed-Off | Copper (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Sawed-Off | Copper (Field-Tested)",
+        "price": {
+          "min": 144.27,
+          "max": 363.99,
+          "mean": 254.14,
+          "median": 254.14,
+          "suggested": 104.61,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Sawed-Off | Copper (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Sawed-Off | Copper (Battle-Scarred)",
+        "price": {
+          "min": 96.34,
+          "max": 96.34,
+          "mean": 96.34,
+          "median": 96.34,
+          "suggested": 112.68,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Sawed-Off | Copper (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Sawed-Off | Copper (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Sawed-Off | Copper (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Sawed-Off | Copper (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Sawed-Off | Copper (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:46.915Z"
+}

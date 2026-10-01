@@ -1,0 +1,289 @@
+{
+  "id": "skin-7c46ff3046d0",
+  "name": "MAG-7 | Copper Coated",
+  "paint_index": "1245",
+  "weapon": {
+    "id": "weapon_mag7",
+    "weapon_id": 27,
+    "name": "MAG-7",
+    "slug": "mag7"
+  },
+  "pattern": {
+    "id": "gs_mag7_goold",
+    "name": "Copper Coated"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The CT-exclusive Mag-7 delivers a devastating amount of damage at close range. Its rapid magazine-style reloads make it a great tactical choice. It has been custom painted to look like it was held under a stream of liquid copper.\\n\\n<i>This was an accident, not a mistake...</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 6.97,
+      "max": 51.08,
+      "mean": 21.85,
+      "median": 25.02,
+      "suggested": 8.27,
+      "quantity": 34,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.99,
+      "max": 9.08,
+      "mean": 6.81,
+      "median": 7.54,
+      "suggested": 3.7,
+      "quantity": 51,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.31,
+      "max": 7.2,
+      "mean": 3.68,
+      "median": 2.68,
+      "suggested": 1.6,
+      "quantity": 61,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.86,
+      "max": 7.82,
+      "mean": 3.14,
+      "median": 2.29,
+      "suggested": 1.13,
+      "quantity": 40,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.93,
+      "max": 14.42,
+      "mean": 3.92,
+      "median": 3.68,
+      "suggested": 1.12,
+      "quantity": 56,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAG-7 | Copper Coated (Factory New)",
+      "price": {
+        "min": 6.97,
+        "max": 51.08,
+        "mean": 21.85,
+        "median": 25.02,
+        "suggested": 8.27,
+        "quantity": 34,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAG-7 | Copper Coated (Minimal Wear)",
+      "price": {
+        "min": 2.99,
+        "max": 9.08,
+        "mean": 6.81,
+        "median": 7.54,
+        "suggested": 3.7,
+        "quantity": 51,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAG-7 | Copper Coated (Field-Tested)",
+      "price": {
+        "min": 1.31,
+        "max": 7.2,
+        "mean": 3.68,
+        "median": 2.68,
+        "suggested": 1.6,
+        "quantity": 61,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAG-7 | Copper Coated (Well-Worn)",
+      "price": {
+        "min": 0.86,
+        "max": 7.82,
+        "mean": 3.14,
+        "median": 2.29,
+        "suggested": 1.13,
+        "quantity": 40,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAG-7 | Copper Coated (Battle-Scarred)",
+      "price": {
+        "min": 0.93,
+        "max": 14.42,
+        "mean": 3.92,
+        "median": 3.68,
+        "suggested": 1.12,
+        "quantity": 56,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAG-7 | Copper Coated (Factory New)",
+        "price": {
+          "min": 6.97,
+          "max": 51.08,
+          "mean": 21.85,
+          "median": 25.02,
+          "suggested": 8.27,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAG-7 | Copper Coated (Minimal Wear)",
+        "price": {
+          "min": 2.99,
+          "max": 9.08,
+          "mean": 6.81,
+          "median": 7.54,
+          "suggested": 3.7,
+          "quantity": 51,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAG-7 | Copper Coated (Field-Tested)",
+        "price": {
+          "min": 1.31,
+          "max": 7.2,
+          "mean": 3.68,
+          "median": 2.68,
+          "suggested": 1.6,
+          "quantity": 61,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAG-7 | Copper Coated (Well-Worn)",
+        "price": {
+          "min": 0.86,
+          "max": 7.82,
+          "mean": 3.14,
+          "median": 2.29,
+          "suggested": 1.13,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MAG-7 | Copper Coated (Battle-Scarred)",
+        "price": {
+          "min": 0.93,
+          "max": 14.42,
+          "mean": 3.92,
+          "median": 3.68,
+          "suggested": 1.12,
+          "quantity": 56,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAG-7 | Copper Coated (Factory New)",
+        "price": {
+          "min": 15.03,
+          "max": 23.07,
+          "mean": 17.71,
+          "median": 15.04,
+          "suggested": 9.33,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAG-7 | Copper Coated (Minimal Wear)",
+        "price": {
+          "min": 3.05,
+          "max": 18.99,
+          "mean": 7.14,
+          "median": 3.27,
+          "suggested": 3.49,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAG-7 | Copper Coated (Field-Tested)",
+        "price": {
+          "min": 1.2,
+          "max": 8.24,
+          "mean": 3.08,
+          "median": 1.33,
+          "suggested": 1.52,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAG-7 | Copper Coated (Well-Worn)",
+        "price": {
+          "min": 0.77,
+          "max": 2.81,
+          "mean": 1.18,
+          "median": 0.99,
+          "suggested": 1.16,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAG-7 | Copper Coated (Battle-Scarred)",
+        "price": {
+          "min": 0.58,
+          "max": 11.06,
+          "mean": 6.92,
+          "median": 6.32,
+          "suggested": 0.82,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.384Z"
+}

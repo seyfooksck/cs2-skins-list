@@ -1,0 +1,310 @@
+{
+  "id": "skin-c5f4d564ca7e",
+  "name": "USP-S | Lead Conduit",
+  "paint_index": "540",
+  "weapon": {
+    "id": "weapon_usp_silencer",
+    "weapon_id": 61,
+    "name": "USP-S",
+    "slug": "usp_silencer"
+  },
+  "pattern": {
+    "id": "gs_usp_voltage",
+    "name": "Lead Conduit"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise. It has been given a custom engraved silencer and slide.\\n\\n<i>You got what you wanted, now do you know what that means? – Booth, Arms Dealer</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 26.62,
+      "max": 589.33,
+      "mean": 78.16,
+      "median": 35.81,
+      "suggested": 35.24,
+      "quantity": 23,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.45,
+      "max": 36.97,
+      "mean": 4.89,
+      "median": 2.91,
+      "suggested": 3.19,
+      "quantity": 46,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.19,
+      "max": 126.03,
+      "mean": 3.38,
+      "median": 1.46,
+      "suggested": 1.67,
+      "quantity": 116,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.69,
+      "max": 307.24,
+      "mean": 4.05,
+      "median": 0.88,
+      "suggested": 1.01,
+      "quantity": 106,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.69,
+      "max": 37.63,
+      "mean": 2.04,
+      "median": 0.85,
+      "suggested": 0.95,
+      "quantity": 58,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "USP-S | Lead Conduit (Factory New)",
+      "price": {
+        "min": 26.62,
+        "max": 589.33,
+        "mean": 78.16,
+        "median": 35.81,
+        "suggested": 35.24,
+        "quantity": 23,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "USP-S | Lead Conduit (Minimal Wear)",
+      "price": {
+        "min": 2.45,
+        "max": 36.97,
+        "mean": 4.89,
+        "median": 2.91,
+        "suggested": 3.19,
+        "quantity": 46,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "USP-S | Lead Conduit (Field-Tested)",
+      "price": {
+        "min": 1.19,
+        "max": 126.03,
+        "mean": 3.38,
+        "median": 1.46,
+        "suggested": 1.67,
+        "quantity": 116,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "USP-S | Lead Conduit (Well-Worn)",
+      "price": {
+        "min": 0.69,
+        "max": 307.24,
+        "mean": 4.05,
+        "median": 0.88,
+        "suggested": 1.01,
+        "quantity": 106,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "USP-S | Lead Conduit (Battle-Scarred)",
+      "price": {
+        "min": 0.69,
+        "max": 37.63,
+        "mean": 2.04,
+        "median": 0.85,
+        "suggested": 0.95,
+        "quantity": 58,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "USP-S | Lead Conduit (Factory New)",
+        "price": {
+          "min": 26.62,
+          "max": 589.33,
+          "mean": 78.16,
+          "median": 35.81,
+          "suggested": 35.24,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "USP-S | Lead Conduit (Minimal Wear)",
+        "price": {
+          "min": 2.45,
+          "max": 36.97,
+          "mean": 4.89,
+          "median": 2.91,
+          "suggested": 3.19,
+          "quantity": 46,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "USP-S | Lead Conduit (Field-Tested)",
+        "price": {
+          "min": 1.19,
+          "max": 126.03,
+          "mean": 3.38,
+          "median": 1.46,
+          "suggested": 1.67,
+          "quantity": 116,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "USP-S | Lead Conduit (Well-Worn)",
+        "price": {
+          "min": 0.69,
+          "max": 307.24,
+          "mean": 4.05,
+          "median": 0.88,
+          "suggested": 1.01,
+          "quantity": 106,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "USP-S | Lead Conduit (Battle-Scarred)",
+        "price": {
+          "min": 0.69,
+          "max": 37.63,
+          "mean": 2.04,
+          "median": 0.85,
+          "suggested": 0.95,
+          "quantity": 58,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ USP-S | Lead Conduit (Factory New)",
+        "price": {
+          "min": 23.77,
+          "max": 95.57,
+          "mean": 36.26,
+          "median": 29.21,
+          "suggested": 29.06,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ USP-S | Lead Conduit (Minimal Wear)",
+        "price": {
+          "min": 5.96,
+          "max": 36.33,
+          "mean": 16.3,
+          "median": 15.17,
+          "suggested": 6.83,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ USP-S | Lead Conduit (Field-Tested)",
+        "price": {
+          "min": 2.81,
+          "max": 76.76,
+          "mean": 8.99,
+          "median": 3.47,
+          "suggested": 3.27,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ USP-S | Lead Conduit (Well-Worn)",
+        "price": {
+          "min": 2.72,
+          "max": 9.32,
+          "mean": 5.57,
+          "median": 4.13,
+          "suggested": 2.39,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ USP-S | Lead Conduit (Battle-Scarred)",
+        "price": {
+          "min": 2.31,
+          "max": 7.15,
+          "mean": 3.68,
+          "median": 3.36,
+          "suggested": 2.27,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir USP-S | Lead Conduit (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir USP-S | Lead Conduit (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir USP-S | Lead Conduit (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir USP-S | Lead Conduit (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir USP-S | Lead Conduit (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:50.649Z"
+}

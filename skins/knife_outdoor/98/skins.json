@@ -1,0 +1,249 @@
+{
+  "id": "skin-d35f28de0219",
+  "name": "★ Nomad Knife | Ultraviolet",
+  "paint_index": "98",
+  "weapon": {
+    "id": "weapon_knife_outdoor",
+    "weapon_id": 521,
+    "name": "Nomad Knife",
+    "slug": "knife_outdoor"
+  },
+  "pattern": {
+    "id": "so_purple",
+    "name": "Ultraviolet"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This ergonomic tactical hunting lock-blade knife features composite handle inserts and a broad, sturdy blade, useful for cutting and prying apart material. It has individual parts spray-painted solid colors in a black and purple color scheme.\\n\\n<i>Elegant design paired with brutal intent</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 161.07,
+      "max": 176.94,
+      "mean": 171.01,
+      "median": 175.03,
+      "suggested": 191.16,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 124.54,
+      "max": 316.24,
+      "mean": 166.23,
+      "median": 130.29,
+      "suggested": 152.17,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 120.84,
+      "max": 137.05,
+      "mean": 128.95,
+      "median": 128.95,
+      "suggested": 142.17,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 112.8,
+      "max": 221.71,
+      "mean": 135.56,
+      "median": 122.63,
+      "suggested": 134.14,
+      "quantity": 7,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Nomad Knife | Ultraviolet (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Nomad Knife | Ultraviolet (Minimal Wear)",
+      "price": {
+        "min": 161.07,
+        "max": 176.94,
+        "mean": 171.01,
+        "median": 175.03,
+        "suggested": 191.16,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Nomad Knife | Ultraviolet (Field-Tested)",
+      "price": {
+        "min": 124.54,
+        "max": 316.24,
+        "mean": 166.23,
+        "median": 130.29,
+        "suggested": 152.17,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Nomad Knife | Ultraviolet (Well-Worn)",
+      "price": {
+        "min": 120.84,
+        "max": 137.05,
+        "mean": 128.95,
+        "median": 128.95,
+        "suggested": 142.17,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Nomad Knife | Ultraviolet (Battle-Scarred)",
+      "price": {
+        "min": 112.8,
+        "max": 221.71,
+        "mean": 135.56,
+        "median": 122.63,
+        "suggested": 134.14,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Nomad Knife | Ultraviolet (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Nomad Knife | Ultraviolet (Minimal Wear)",
+        "price": {
+          "min": 161.07,
+          "max": 176.94,
+          "mean": 171.01,
+          "median": 175.03,
+          "suggested": 191.16,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Nomad Knife | Ultraviolet (Field-Tested)",
+        "price": {
+          "min": 124.54,
+          "max": 316.24,
+          "mean": 166.23,
+          "median": 130.29,
+          "suggested": 152.17,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Nomad Knife | Ultraviolet (Well-Worn)",
+        "price": {
+          "min": 120.84,
+          "max": 137.05,
+          "mean": 128.95,
+          "median": 128.95,
+          "suggested": 142.17,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Nomad Knife | Ultraviolet (Battle-Scarred)",
+        "price": {
+          "min": 112.8,
+          "max": 221.71,
+          "mean": 135.56,
+          "median": 122.63,
+          "suggested": 134.14,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Nomad Knife | Ultraviolet (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Nomad Knife | Ultraviolet (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Nomad Knife | Ultraviolet (Field-Tested)",
+        "price": {
+          "min": 154.72,
+          "max": 160.83,
+          "mean": 157.78,
+          "median": 157.78,
+          "suggested": 155.14,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Nomad Knife | Ultraviolet (Well-Worn)",
+        "price": {
+          "min": 117.71,
+          "max": 117.71,
+          "mean": 117.71,
+          "median": 117.71,
+          "suggested": 150.65,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Nomad Knife | Ultraviolet (Battle-Scarred)",
+        "price": {
+          "min": 128.23,
+          "max": 128.23,
+          "mean": 128.23,
+          "median": 128.23,
+          "suggested": 141.76,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:37.073Z"
+}

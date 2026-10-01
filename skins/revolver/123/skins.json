@@ -1,0 +1,310 @@
+{
+  "id": "skin-3604c7754aa6",
+  "name": "R8 Revolver | Tango",
+  "paint_index": "123",
+  "weapon": {
+    "id": "weapon_revolver",
+    "weapon_id": 64,
+    "name": "R8 Revolver",
+    "slug": "revolver"
+  },
+  "pattern": {
+    "id": "r8_roses_and_guns",
+    "name": "Tango"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.851064,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The R8 Revolver delivers a highly accurate and powerful round at the expense of a lengthy trigger-pull. Firing rapidly by fanning the hammer may be the best option when point-blank stopping power is required. It has been custom painted with a wooden grip and roses.\\n\\n<i>Will you accept?</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 4.59,
+      "max": 102.69,
+      "mean": 12.84,
+      "median": 6.51,
+      "suggested": 5.47,
+      "quantity": 21,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.57,
+      "max": 4.31,
+      "mean": 0.89,
+      "median": 0.75,
+      "suggested": 0.85,
+      "quantity": 83,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.23,
+      "max": 4.78,
+      "mean": 0.33,
+      "median": 0.29,
+      "suggested": 0.35,
+      "quantity": 308,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.25,
+      "max": 5.18,
+      "mean": 0.55,
+      "median": 0.29,
+      "suggested": 0.3,
+      "quantity": 20,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.18,
+      "max": 6.24,
+      "mean": 0.28,
+      "median": 0.21,
+      "suggested": 0.28,
+      "quantity": 105,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "R8 Revolver | Tango (Factory New)",
+      "price": {
+        "min": 4.59,
+        "max": 102.69,
+        "mean": 12.84,
+        "median": 6.51,
+        "suggested": 5.47,
+        "quantity": 21,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "R8 Revolver | Tango (Minimal Wear)",
+      "price": {
+        "min": 0.57,
+        "max": 4.31,
+        "mean": 0.89,
+        "median": 0.75,
+        "suggested": 0.85,
+        "quantity": 83,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "R8 Revolver | Tango (Field-Tested)",
+      "price": {
+        "min": 0.23,
+        "max": 4.78,
+        "mean": 0.33,
+        "median": 0.29,
+        "suggested": 0.35,
+        "quantity": 308,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "R8 Revolver | Tango (Well-Worn)",
+      "price": {
+        "min": 0.25,
+        "max": 5.18,
+        "mean": 0.55,
+        "median": 0.29,
+        "suggested": 0.3,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "R8 Revolver | Tango (Battle-Scarred)",
+      "price": {
+        "min": 0.18,
+        "max": 6.24,
+        "mean": 0.28,
+        "median": 0.21,
+        "suggested": 0.28,
+        "quantity": 105,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "R8 Revolver | Tango (Factory New)",
+        "price": {
+          "min": 4.59,
+          "max": 102.69,
+          "mean": 12.84,
+          "median": 6.51,
+          "suggested": 5.47,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "R8 Revolver | Tango (Minimal Wear)",
+        "price": {
+          "min": 0.57,
+          "max": 4.31,
+          "mean": 0.89,
+          "median": 0.75,
+          "suggested": 0.85,
+          "quantity": 83,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "R8 Revolver | Tango (Field-Tested)",
+        "price": {
+          "min": 0.23,
+          "max": 4.78,
+          "mean": 0.33,
+          "median": 0.29,
+          "suggested": 0.35,
+          "quantity": 308,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "R8 Revolver | Tango (Well-Worn)",
+        "price": {
+          "min": 0.25,
+          "max": 5.18,
+          "mean": 0.55,
+          "median": 0.29,
+          "suggested": 0.3,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "R8 Revolver | Tango (Battle-Scarred)",
+        "price": {
+          "min": 0.18,
+          "max": 6.24,
+          "mean": 0.28,
+          "median": 0.21,
+          "suggested": 0.28,
+          "quantity": 105,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Tango (Factory New)",
+        "price": {
+          "min": 5.34,
+          "max": 23.34,
+          "mean": 10.55,
+          "median": 10.04,
+          "suggested": 6.23,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Tango (Minimal Wear)",
+        "price": {
+          "min": 1.18,
+          "max": 2.49,
+          "mean": 1.6,
+          "median": 1.58,
+          "suggested": 1.57,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Tango (Field-Tested)",
+        "price": {
+          "min": 0.37,
+          "max": 2.86,
+          "mean": 0.55,
+          "median": 0.46,
+          "suggested": 0.53,
+          "quantity": 88,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Tango (Well-Worn)",
+        "price": {
+          "min": 0.41,
+          "max": 0.85,
+          "mean": 0.56,
+          "median": 0.55,
+          "suggested": 0.55,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Tango (Battle-Scarred)",
+        "price": {
+          "min": 0.29,
+          "max": 2.15,
+          "mean": 0.43,
+          "median": 0.37,
+          "suggested": 0.39,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir R8 Revolver | Tango (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir R8 Revolver | Tango (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir R8 Revolver | Tango (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir R8 Revolver | Tango (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir R8 Revolver | Tango (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:46.758Z"
+}

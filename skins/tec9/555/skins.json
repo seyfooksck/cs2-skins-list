@@ -1,0 +1,258 @@
+{
+  "id": "skin-0705abcdd5df",
+  "name": "Tec-9 | Re-Entry",
+  "paint_index": "555",
+  "weapon": {
+    "id": "weapon_tec9",
+    "weapon_id": 30,
+    "name": "Tec-9",
+    "slug": "tec9"
+  },
+  "pattern": {
+    "id": "am_tec9_redblast",
+    "name": "Re-Entry"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.43,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity. The barrel has been given a flame decal.\\n\\n<i>I hate being right all the time - Carmen Cocinero, Extraction Expert</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 8.75,
+      "max": 45.45,
+      "mean": 14.12,
+      "median": 12.36,
+      "suggested": 14.19,
+      "quantity": 49,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.87,
+      "max": 27,
+      "mean": 4.7,
+      "median": 2.23,
+      "suggested": 2.18,
+      "quantity": 46,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.19,
+      "max": 26.86,
+      "mean": 2.87,
+      "median": 1.67,
+      "suggested": 1.58,
+      "quantity": 96,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.59,
+      "max": 15.87,
+      "mean": 3.14,
+      "median": 2.23,
+      "suggested": 1.43,
+      "quantity": 12,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Tec-9 | Re-Entry (Factory New)",
+      "price": {
+        "min": 8.75,
+        "max": 45.45,
+        "mean": 14.12,
+        "median": 12.36,
+        "suggested": 14.19,
+        "quantity": 49,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Tec-9 | Re-Entry (Minimal Wear)",
+      "price": {
+        "min": 1.87,
+        "max": 27,
+        "mean": 4.7,
+        "median": 2.23,
+        "suggested": 2.18,
+        "quantity": 46,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Tec-9 | Re-Entry (Field-Tested)",
+      "price": {
+        "min": 1.19,
+        "max": 26.86,
+        "mean": 2.87,
+        "median": 1.67,
+        "suggested": 1.58,
+        "quantity": 96,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Tec-9 | Re-Entry (Well-Worn)",
+      "price": {
+        "min": 1.59,
+        "max": 15.87,
+        "mean": 3.14,
+        "median": 2.23,
+        "suggested": 1.43,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Tec-9 | Re-Entry (Factory New)",
+        "price": {
+          "min": 8.75,
+          "max": 45.45,
+          "mean": 14.12,
+          "median": 12.36,
+          "suggested": 14.19,
+          "quantity": 49,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Tec-9 | Re-Entry (Minimal Wear)",
+        "price": {
+          "min": 1.87,
+          "max": 27,
+          "mean": 4.7,
+          "median": 2.23,
+          "suggested": 2.18,
+          "quantity": 46,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Tec-9 | Re-Entry (Field-Tested)",
+        "price": {
+          "min": 1.19,
+          "max": 26.86,
+          "mean": 2.87,
+          "median": 1.67,
+          "suggested": 1.58,
+          "quantity": 96,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Tec-9 | Re-Entry (Well-Worn)",
+        "price": {
+          "min": 1.59,
+          "max": 15.87,
+          "mean": 3.14,
+          "median": 2.23,
+          "suggested": 1.43,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Tec-9 | Re-Entry (Factory New)",
+        "price": {
+          "min": 7.5,
+          "max": 17.4,
+          "mean": 11.56,
+          "median": 13.29,
+          "suggested": 8.43,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Tec-9 | Re-Entry (Minimal Wear)",
+        "price": {
+          "min": 3.13,
+          "max": 972.93,
+          "mean": 50.05,
+          "median": 4.32,
+          "suggested": 3.78,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Tec-9 | Re-Entry (Field-Tested)",
+        "price": {
+          "min": 2.07,
+          "max": 39.13,
+          "mean": 5.83,
+          "median": 3.38,
+          "suggested": 2.09,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Tec-9 | Re-Entry (Well-Worn)",
+        "price": {
+          "min": 2.19,
+          "max": 3.85,
+          "mean": 2.56,
+          "median": 2.31,
+          "suggested": 2.18,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Tec-9 | Re-Entry (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Tec-9 | Re-Entry (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Tec-9 | Re-Entry (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Tec-9 | Re-Entry (Well-Worn)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.026Z"
+}

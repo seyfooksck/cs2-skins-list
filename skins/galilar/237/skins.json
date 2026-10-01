@@ -1,0 +1,225 @@
+{
+  "id": "skin-ee7b966c7ea7",
+  "name": "Galil AR | Urban Rubble",
+  "paint_index": "237",
+  "weapon": {
+    "id": "weapon_galilar",
+    "weapon_id": 13,
+    "name": "Galil AR",
+    "slug": "galilar"
+  },
+  "pattern": {
+    "id": "hy_varicamo_urban",
+    "name": "Urban Rubble"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat. It has been painted using a VariCamo patterned hydrographic.\\n\\n<i>Rebuilding only comes in the wake of destruction</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 26.16,
+      "max": 129.41,
+      "mean": 65.37,
+      "median": 58.01,
+      "suggested": 29.24,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 8.89,
+      "max": 30.33,
+      "mean": 12.72,
+      "median": 11.13,
+      "suggested": 12.45,
+      "quantity": 17,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 8.5,
+      "max": 39.94,
+      "mean": 14.53,
+      "median": 11.59,
+      "suggested": 9.95,
+      "quantity": 20,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 11.9,
+      "max": 17.15,
+      "mean": 13.69,
+      "median": 12.86,
+      "suggested": 9.41,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Galil AR | Urban Rubble (Factory New)",
+      "price": {
+        "min": 26.16,
+        "max": 129.41,
+        "mean": 65.37,
+        "median": 58.01,
+        "suggested": 29.24,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Galil AR | Urban Rubble (Minimal Wear)",
+      "price": {
+        "min": 8.89,
+        "max": 30.33,
+        "mean": 12.72,
+        "median": 11.13,
+        "suggested": 12.45,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Galil AR | Urban Rubble (Field-Tested)",
+      "price": {
+        "min": 8.5,
+        "max": 39.94,
+        "mean": 14.53,
+        "median": 11.59,
+        "suggested": 9.95,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Galil AR | Urban Rubble (Well-Worn)",
+      "price": {
+        "min": 11.9,
+        "max": 17.15,
+        "mean": 13.69,
+        "median": 12.86,
+        "suggested": 9.41,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Galil AR | Urban Rubble (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Galil AR | Urban Rubble (Factory New)",
+        "price": {
+          "min": 26.16,
+          "max": 129.41,
+          "mean": 65.37,
+          "median": 58.01,
+          "suggested": 29.24,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Galil AR | Urban Rubble (Minimal Wear)",
+        "price": {
+          "min": 8.89,
+          "max": 30.33,
+          "mean": 12.72,
+          "median": 11.13,
+          "suggested": 12.45,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Galil AR | Urban Rubble (Field-Tested)",
+        "price": {
+          "min": 8.5,
+          "max": 39.94,
+          "mean": 14.53,
+          "median": 11.59,
+          "suggested": 9.95,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Galil AR | Urban Rubble (Well-Worn)",
+        "price": {
+          "min": 11.9,
+          "max": 17.15,
+          "mean": 13.69,
+          "median": 12.86,
+          "suggested": 9.41,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Galil AR | Urban Rubble (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Galil AR | Urban Rubble (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Galil AR | Urban Rubble (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Galil AR | Urban Rubble (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Galil AR | Urban Rubble (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Galil AR | Urban Rubble (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:31.226Z"
+}

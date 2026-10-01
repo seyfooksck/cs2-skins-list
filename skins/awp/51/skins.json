@@ -1,0 +1,154 @@
+{
+  "id": "skin-69390026d135",
+  "name": "AWP | Lightning Strike",
+  "paint_index": "51",
+  "weapon": {
+    "id": "weapon_awp",
+    "weapon_id": 9,
+    "name": "AWP",
+    "slug": "awp"
+  },
+  "pattern": {
+    "id": "am_lightning_awp",
+    "name": "Lightning Strike"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been painted with a lightning strike motif using anodizing effect paints over a metallic base coat.\\n\\n<i>Sometimes you don't need to strike the same place twice</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 485.06,
+      "max": 1283.62,
+      "mean": 689.09,
+      "median": 641.82,
+      "suggested": 589,
+      "quantity": 52,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 630.15,
+      "max": 674.98,
+      "mean": 651.68,
+      "median": 650.8,
+      "suggested": 625.78,
+      "quantity": 4,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AWP | Lightning Strike (Factory New)",
+      "price": {
+        "min": 485.06,
+        "max": 1283.62,
+        "mean": 689.09,
+        "median": 641.82,
+        "suggested": 589,
+        "quantity": 52,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AWP | Lightning Strike (Minimal Wear)",
+      "price": {
+        "min": 630.15,
+        "max": 674.98,
+        "mean": 651.68,
+        "median": 650.8,
+        "suggested": 625.78,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AWP | Lightning Strike (Factory New)",
+        "price": {
+          "min": 485.06,
+          "max": 1283.62,
+          "mean": 689.09,
+          "median": 641.82,
+          "suggested": 589,
+          "quantity": 52,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AWP | Lightning Strike (Minimal Wear)",
+        "price": {
+          "min": 630.15,
+          "max": 674.98,
+          "mean": 651.68,
+          "median": 650.8,
+          "suggested": 625.78,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AWP | Lightning Strike (Factory New)",
+        "price": {
+          "min": 957.74,
+          "max": 1283.63,
+          "mean": 1133.15,
+          "median": 1178.61,
+          "suggested": 1096.23,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AWP | Lightning Strike (Minimal Wear)",
+        "price": {
+          "min": 1112.53,
+          "max": 1112.53,
+          "mean": 1112.53,
+          "median": 1112.53,
+          "suggested": 1277.88,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AWP | Lightning Strike (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AWP | Lightning Strike (Minimal Wear)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.790Z"
+}

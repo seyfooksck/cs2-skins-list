@@ -1,0 +1,193 @@
+{
+  "id": "skin-7ee34568efd6",
+  "name": "Five-SeveN | Fall Hazard",
+  "paint_index": "1082",
+  "weapon": {
+    "id": "weapon_fiveseven",
+    "weapon_id": 3,
+    "name": "Five-SeveN",
+    "slug": "fiveseven"
+  },
+  "pattern": {
+    "id": "cu_vertigo_fiveseven",
+    "name": "Fall Hazard"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0.01,
+  "max_float": 0.52,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. A multicolored custom paint job which reads \\\"FALL\\\" and \\\"CONSTRUCTION\\\" has been applied.\\n\\n<i>Mind the gap</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 306.95,
+      "max": 595.13,
+      "mean": 408.74,
+      "median": 350.08,
+      "suggested": 357,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "mw": null,
+    "ft": {
+      "min": 206.2,
+      "max": 206.2,
+      "mean": 206.2,
+      "median": 206.2,
+      "suggested": 146.05,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Five-SeveN | Fall Hazard (Factory New)",
+      "price": {
+        "min": 306.95,
+        "max": 595.13,
+        "mean": 408.74,
+        "median": 350.08,
+        "suggested": 357,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Five-SeveN | Fall Hazard (Minimal Wear)",
+      "price": null,
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Five-SeveN | Fall Hazard (Field-Tested)",
+      "price": {
+        "min": 206.2,
+        "max": 206.2,
+        "mean": 206.2,
+        "median": 206.2,
+        "suggested": 146.05,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Five-SeveN | Fall Hazard (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Five-SeveN | Fall Hazard (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Five-SeveN | Fall Hazard (Factory New)",
+        "price": {
+          "min": 306.95,
+          "max": 595.13,
+          "mean": 408.74,
+          "median": 350.08,
+          "suggested": 357,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Five-SeveN | Fall Hazard (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Five-SeveN | Fall Hazard (Field-Tested)",
+        "price": {
+          "min": 206.2,
+          "max": 206.2,
+          "mean": 206.2,
+          "median": 206.2,
+          "suggested": 146.05,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Five-SeveN | Fall Hazard (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Five-SeveN | Fall Hazard (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Five-SeveN | Fall Hazard (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Five-SeveN | Fall Hazard (Minimal Wear)",
+        "price": {
+          "min": 103.31,
+          "max": 103.31,
+          "mean": 103.31,
+          "median": 103.31,
+          "suggested": 128.97,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Five-SeveN | Fall Hazard (Field-Tested)",
+        "price": {
+          "min": 275.5,
+          "max": 275.5,
+          "mean": 275.5,
+          "median": 275.5,
+          "suggested": 122.04,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Five-SeveN | Fall Hazard (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Five-SeveN | Fall Hazard (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:30.136Z"
+}

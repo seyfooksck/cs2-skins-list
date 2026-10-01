@@ -1,0 +1,249 @@
+{
+  "id": "skin-3bf8105f2ed6",
+  "name": "★ Ursus Knife | Damascus Steel",
+  "paint_index": "857",
+  "weapon": {
+    "id": "weapon_knife_ursus",
+    "weapon_id": 519,
+    "name": "Ursus Knife",
+    "slug": "knife_ursus"
+  },
+  "pattern": {
+    "id": "aq_damascus_prisma",
+    "name": "Damascus Steel"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This tanto-style survival knife features a faceted blade and full tang, complete with impact pommel. No fuss, no moving parts - just a reliable blade that's ready to work. It has some damascus steel parts.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 95.83,
+      "max": 191.41,
+      "mean": 116.27,
+      "median": 107.21,
+      "suggested": 132.68,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 93.34,
+      "max": 121.22,
+      "mean": 106.3,
+      "median": 106.27,
+      "suggested": 111.12,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 89.24,
+      "max": 233.38,
+      "mean": 115.74,
+      "median": 92.51,
+      "suggested": 104.04,
+      "quantity": 20,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 99.18,
+      "max": 99.18,
+      "mean": 99.18,
+      "median": 99.18,
+      "suggested": 98.26,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Ursus Knife | Damascus Steel (Factory New)",
+      "price": {
+        "min": 95.83,
+        "max": 191.41,
+        "mean": 116.27,
+        "median": 107.21,
+        "suggested": 132.68,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Ursus Knife | Damascus Steel (Minimal Wear)",
+      "price": {
+        "min": 93.34,
+        "max": 121.22,
+        "mean": 106.3,
+        "median": 106.27,
+        "suggested": 111.12,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Ursus Knife | Damascus Steel (Field-Tested)",
+      "price": {
+        "min": 89.24,
+        "max": 233.38,
+        "mean": 115.74,
+        "median": 92.51,
+        "suggested": 104.04,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Ursus Knife | Damascus Steel (Well-Worn)",
+      "price": {
+        "min": 99.18,
+        "max": 99.18,
+        "mean": 99.18,
+        "median": 99.18,
+        "suggested": 98.26,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Ursus Knife | Damascus Steel (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Ursus Knife | Damascus Steel (Factory New)",
+        "price": {
+          "min": 95.83,
+          "max": 191.41,
+          "mean": 116.27,
+          "median": 107.21,
+          "suggested": 132.68,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Ursus Knife | Damascus Steel (Minimal Wear)",
+        "price": {
+          "min": 93.34,
+          "max": 121.22,
+          "mean": 106.3,
+          "median": 106.27,
+          "suggested": 111.12,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Ursus Knife | Damascus Steel (Field-Tested)",
+        "price": {
+          "min": 89.24,
+          "max": 233.38,
+          "mean": 115.74,
+          "median": 92.51,
+          "suggested": 104.04,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Ursus Knife | Damascus Steel (Well-Worn)",
+        "price": {
+          "min": 99.18,
+          "max": 99.18,
+          "mean": 99.18,
+          "median": 99.18,
+          "suggested": 98.26,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Ursus Knife | Damascus Steel (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Ursus Knife | Damascus Steel (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Ursus Knife | Damascus Steel (Minimal Wear)",
+        "price": {
+          "min": 111.47,
+          "max": 111.47,
+          "mean": 111.47,
+          "median": 111.47,
+          "suggested": 121.86,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Ursus Knife | Damascus Steel (Field-Tested)",
+        "price": {
+          "min": 108.83,
+          "max": 162.29,
+          "mean": 133.16,
+          "median": 128.35,
+          "suggested": 100.93,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Ursus Knife | Damascus Steel (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Ursus Knife | Damascus Steel (Battle-Scarred)",
+        "price": {
+          "min": 90.75,
+          "max": 90.75,
+          "mean": 90.75,
+          "median": 90.75,
+          "suggested": 109.45,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:39.182Z"
+}

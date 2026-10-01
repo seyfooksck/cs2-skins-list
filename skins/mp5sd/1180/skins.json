@@ -1,0 +1,310 @@
+{
+  "id": "skin-63ed7bb762a0",
+  "name": "MP5-SD | Statics",
+  "paint_index": "1180",
+  "weapon": {
+    "id": "weapon_mp5sd",
+    "weapon_id": 23,
+    "name": "MP5-SD",
+    "slug": "mp5sd"
+  },
+  "pattern": {
+    "id": "mp5_statics_blue",
+    "name": "Statics"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. It has been custom painted with a black and blue design.\\n\\n<i>Black and blue and bloody all over</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.3,
+      "max": 125.17,
+      "mean": 10.26,
+      "median": 3.59,
+      "suggested": 2.79,
+      "quantity": 28,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.41,
+      "max": 6.2,
+      "mean": 0.63,
+      "median": 0.57,
+      "suggested": 0.53,
+      "quantity": 164,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.27,
+      "max": 10.25,
+      "mean": 0.42,
+      "median": 0.29,
+      "suggested": 0.44,
+      "quantity": 125,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.16,
+      "max": 1.16,
+      "mean": 0.23,
+      "median": 0.2,
+      "suggested": 0.27,
+      "quantity": 102,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.15,
+      "max": 7.78,
+      "mean": 0.81,
+      "median": 0.21,
+      "suggested": 0.24,
+      "quantity": 66,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP5-SD | Statics (Factory New)",
+      "price": {
+        "min": 2.3,
+        "max": 125.17,
+        "mean": 10.26,
+        "median": 3.59,
+        "suggested": 2.79,
+        "quantity": 28,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP5-SD | Statics (Minimal Wear)",
+      "price": {
+        "min": 0.41,
+        "max": 6.2,
+        "mean": 0.63,
+        "median": 0.57,
+        "suggested": 0.53,
+        "quantity": 164,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP5-SD | Statics (Field-Tested)",
+      "price": {
+        "min": 0.27,
+        "max": 10.25,
+        "mean": 0.42,
+        "median": 0.29,
+        "suggested": 0.44,
+        "quantity": 125,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP5-SD | Statics (Well-Worn)",
+      "price": {
+        "min": 0.16,
+        "max": 1.16,
+        "mean": 0.23,
+        "median": 0.2,
+        "suggested": 0.27,
+        "quantity": 102,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP5-SD | Statics (Battle-Scarred)",
+      "price": {
+        "min": 0.15,
+        "max": 7.78,
+        "mean": 0.81,
+        "median": 0.21,
+        "suggested": 0.24,
+        "quantity": 66,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP5-SD | Statics (Factory New)",
+        "price": {
+          "min": 2.3,
+          "max": 125.17,
+          "mean": 10.26,
+          "median": 3.59,
+          "suggested": 2.79,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP5-SD | Statics (Minimal Wear)",
+        "price": {
+          "min": 0.41,
+          "max": 6.2,
+          "mean": 0.63,
+          "median": 0.57,
+          "suggested": 0.53,
+          "quantity": 164,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP5-SD | Statics (Field-Tested)",
+        "price": {
+          "min": 0.27,
+          "max": 10.25,
+          "mean": 0.42,
+          "median": 0.29,
+          "suggested": 0.44,
+          "quantity": 125,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP5-SD | Statics (Well-Worn)",
+        "price": {
+          "min": 0.16,
+          "max": 1.16,
+          "mean": 0.23,
+          "median": 0.2,
+          "suggested": 0.27,
+          "quantity": 102,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP5-SD | Statics (Battle-Scarred)",
+        "price": {
+          "min": 0.15,
+          "max": 7.78,
+          "mean": 0.81,
+          "median": 0.21,
+          "suggested": 0.24,
+          "quantity": 66,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MP5-SD | Statics (Factory New)",
+        "price": {
+          "min": 2.67,
+          "max": 32.62,
+          "mean": 6.87,
+          "median": 3.12,
+          "suggested": 3.23,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MP5-SD | Statics (Minimal Wear)",
+        "price": {
+          "min": 0.75,
+          "max": 1.28,
+          "mean": 0.96,
+          "median": 0.83,
+          "suggested": 0.91,
+          "quantity": 38,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MP5-SD | Statics (Field-Tested)",
+        "price": {
+          "min": 0.33,
+          "max": 1.53,
+          "mean": 0.43,
+          "median": 0.37,
+          "suggested": 0.43,
+          "quantity": 62,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MP5-SD | Statics (Well-Worn)",
+        "price": {
+          "min": 0.21,
+          "max": 0.35,
+          "mean": 0.27,
+          "median": 0.26,
+          "suggested": 0.29,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MP5-SD | Statics (Battle-Scarred)",
+        "price": {
+          "min": 0.25,
+          "max": 2.33,
+          "mean": 0.6,
+          "median": 0.62,
+          "suggested": 0.28,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP5-SD | Statics (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP5-SD | Statics (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP5-SD | Statics (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP5-SD | Statics (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP5-SD | Statics (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.848Z"
+}

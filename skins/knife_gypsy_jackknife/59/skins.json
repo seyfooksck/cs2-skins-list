@@ -1,0 +1,177 @@
+{
+  "id": "skin-4facadf19ddb",
+  "name": "★ Navaja Knife | Slaughter",
+  "paint_index": "59",
+  "weapon": {
+    "id": "weapon_knife_gypsy_jackknife",
+    "weapon_id": 520,
+    "name": "Navaja Knife",
+    "slug": "knife_gypsy_jackknife"
+  },
+  "pattern": {
+    "id": "am_zebra",
+    "name": "Slaughter"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.01,
+  "max_float": 0.26,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This marble-enamel-handled flip knife conceals a small but viciously tapered blade. It has been painted in a zebra-stripe pattern with aluminum and chrome paints with various reflectivities, and has then been covered with a tomato red candy coat.\\n\\n<i>Valeria doesn't pay Javier to ask questions... she pays him to pry out answers</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 93.34,
+      "max": 350.07,
+      "mean": 182.85,
+      "median": 192.54,
+      "suggested": 104.84,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 84.02,
+      "max": 184.69,
+      "mean": 106.95,
+      "median": 100.61,
+      "suggested": 115.58,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 87.52,
+      "max": 87.52,
+      "mean": 87.52,
+      "median": 87.52,
+      "suggested": 115.89,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Navaja Knife | Slaughter (Factory New)",
+      "price": {
+        "min": 93.34,
+        "max": 350.07,
+        "mean": 182.85,
+        "median": 192.54,
+        "suggested": 104.84,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Navaja Knife | Slaughter (Minimal Wear)",
+      "price": {
+        "min": 84.02,
+        "max": 184.69,
+        "mean": 106.95,
+        "median": 100.61,
+        "suggested": 115.58,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Navaja Knife | Slaughter (Field-Tested)",
+      "price": {
+        "min": 87.52,
+        "max": 87.52,
+        "mean": 87.52,
+        "median": 87.52,
+        "suggested": 115.89,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Navaja Knife | Slaughter (Factory New)",
+        "price": {
+          "min": 93.34,
+          "max": 350.07,
+          "mean": 182.85,
+          "median": 192.54,
+          "suggested": 104.84,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Navaja Knife | Slaughter (Minimal Wear)",
+        "price": {
+          "min": 84.02,
+          "max": 184.69,
+          "mean": 106.95,
+          "median": 100.61,
+          "suggested": 115.58,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Navaja Knife | Slaughter (Field-Tested)",
+        "price": {
+          "min": 87.52,
+          "max": 87.52,
+          "mean": 87.52,
+          "median": 87.52,
+          "suggested": 115.89,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Navaja Knife | Slaughter (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Navaja Knife | Slaughter (Minimal Wear)",
+        "price": {
+          "min": 142.82,
+          "max": 142.82,
+          "mean": 142.82,
+          "median": 142.82,
+          "suggested": 140.47,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Navaja Knife | Slaughter (Field-Tested)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:35.460Z"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "skin-5293f56bb6b8",
+  "name": "Desert Eagle | Blue Ply",
+  "paint_index": "945",
+  "weapon": {
+    "id": "weapon_deagle",
+    "weapon_id": 1,
+    "name": "Desert Eagle",
+    "slug": "deagle"
+  },
+  "pattern": {
+    "id": "cu_deagle_replica",
+    "name": "Blue Ply"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. It has been laminated and filled with an ash-colored grip and blue slide.\\n\\n<i>WARNING: This is a replica and has not been tested with live ammunition</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 8.3,
+      "max": 774.93,
+      "mean": 41.86,
+      "median": 18.24,
+      "suggested": 11.76,
+      "quantity": 35,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.82,
+      "max": 28.16,
+      "mean": 2.33,
+      "median": 1.17,
+      "suggested": 1,
+      "quantity": 122,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.34,
+      "max": 117.78,
+      "mean": 1.26,
+      "median": 1.16,
+      "suggested": 0.51,
+      "quantity": 644,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.28,
+      "max": 11.66,
+      "mean": 0.6,
+      "median": 0.36,
+      "suggested": 0.43,
+      "quantity": 247,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.28,
+      "max": 7.54,
+      "mean": 0.61,
+      "median": 0.37,
+      "suggested": 0.43,
+      "quantity": 147,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Desert Eagle | Blue Ply (Factory New)",
+      "price": {
+        "min": 8.3,
+        "max": 774.93,
+        "mean": 41.86,
+        "median": 18.24,
+        "suggested": 11.76,
+        "quantity": 35,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Desert Eagle | Blue Ply (Minimal Wear)",
+      "price": {
+        "min": 0.82,
+        "max": 28.16,
+        "mean": 2.33,
+        "median": 1.17,
+        "suggested": 1,
+        "quantity": 122,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Desert Eagle | Blue Ply (Field-Tested)",
+      "price": {
+        "min": 0.34,
+        "max": 117.78,
+        "mean": 1.26,
+        "median": 1.16,
+        "suggested": 0.51,
+        "quantity": 644,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Desert Eagle | Blue Ply (Well-Worn)",
+      "price": {
+        "min": 0.28,
+        "max": 11.66,
+        "mean": 0.6,
+        "median": 0.36,
+        "suggested": 0.43,
+        "quantity": 247,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Desert Eagle | Blue Ply (Battle-Scarred)",
+      "price": {
+        "min": 0.28,
+        "max": 7.54,
+        "mean": 0.61,
+        "median": 0.37,
+        "suggested": 0.43,
+        "quantity": 147,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Desert Eagle | Blue Ply (Factory New)",
+        "price": {
+          "min": 8.3,
+          "max": 774.93,
+          "mean": 41.86,
+          "median": 18.24,
+          "suggested": 11.76,
+          "quantity": 35,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Desert Eagle | Blue Ply (Minimal Wear)",
+        "price": {
+          "min": 0.82,
+          "max": 28.16,
+          "mean": 2.33,
+          "median": 1.17,
+          "suggested": 1,
+          "quantity": 122,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Desert Eagle | Blue Ply (Field-Tested)",
+        "price": {
+          "min": 0.34,
+          "max": 117.78,
+          "mean": 1.26,
+          "median": 1.16,
+          "suggested": 0.51,
+          "quantity": 644,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Desert Eagle | Blue Ply (Well-Worn)",
+        "price": {
+          "min": 0.28,
+          "max": 11.66,
+          "mean": 0.6,
+          "median": 0.36,
+          "suggested": 0.43,
+          "quantity": 247,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Desert Eagle | Blue Ply (Battle-Scarred)",
+        "price": {
+          "min": 0.28,
+          "max": 7.54,
+          "mean": 0.61,
+          "median": 0.37,
+          "suggested": 0.43,
+          "quantity": 147,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Blue Ply (Factory New)",
+        "price": {
+          "min": 8.12,
+          "max": 399.66,
+          "mean": 36.48,
+          "median": 20.19,
+          "suggested": 10.27,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Blue Ply (Minimal Wear)",
+        "price": {
+          "min": 2.09,
+          "max": 14,
+          "mean": 3.48,
+          "median": 2.61,
+          "suggested": 2.43,
+          "quantity": 69,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Blue Ply (Field-Tested)",
+        "price": {
+          "min": 1.02,
+          "max": 127.2,
+          "mean": 3.73,
+          "median": 1.33,
+          "suggested": 1.25,
+          "quantity": 93,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Blue Ply (Well-Worn)",
+        "price": {
+          "min": 0.74,
+          "max": 19.84,
+          "mean": 1.34,
+          "median": 0.97,
+          "suggested": 0.93,
+          "quantity": 88,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Blue Ply (Battle-Scarred)",
+        "price": {
+          "min": 0.63,
+          "max": 10.36,
+          "mean": 1.53,
+          "median": 1.12,
+          "suggested": 0.89,
+          "quantity": 86,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Desert Eagle | Blue Ply (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Desert Eagle | Blue Ply (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Desert Eagle | Blue Ply (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Desert Eagle | Blue Ply (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Desert Eagle | Blue Ply (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:28.268Z"
+}

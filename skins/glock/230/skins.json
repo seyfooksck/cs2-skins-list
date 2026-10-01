@@ -1,0 +1,206 @@
+{
+  "id": "skin-dc7e8554bda0",
+  "name": "Glock-18 | Steel Disruption",
+  "paint_index": "230",
+  "weapon": {
+    "id": "weapon_glock",
+    "weapon_id": 4,
+    "name": "Glock-18",
+    "slug": "glock"
+  },
+  "pattern": {
+    "id": "am_ddpatdense_silver",
+    "name": "Steel Disruption"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.2,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. It has been covered in a metallic foil stamped with a digital disruptive pattern.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 46.67,
+      "max": 339.15,
+      "mean": 85.7,
+      "median": 75.86,
+      "suggested": 71.07,
+      "quantity": 34,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 18.9,
+      "max": 81.69,
+      "mean": 30.27,
+      "median": 24.03,
+      "suggested": 22,
+      "quantity": 25,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 15.15,
+      "max": 133.02,
+      "mean": 41.81,
+      "median": 24.42,
+      "suggested": 16.64,
+      "quantity": 8,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Glock-18 | Steel Disruption (Factory New)",
+      "price": {
+        "min": 46.67,
+        "max": 339.15,
+        "mean": 85.7,
+        "median": 75.86,
+        "suggested": 71.07,
+        "quantity": 34,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Glock-18 | Steel Disruption (Minimal Wear)",
+      "price": {
+        "min": 18.9,
+        "max": 81.69,
+        "mean": 30.27,
+        "median": 24.03,
+        "suggested": 22,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Glock-18 | Steel Disruption (Field-Tested)",
+      "price": {
+        "min": 15.15,
+        "max": 133.02,
+        "mean": 41.81,
+        "median": 24.42,
+        "suggested": 16.64,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Glock-18 | Steel Disruption (Factory New)",
+        "price": {
+          "min": 46.67,
+          "max": 339.15,
+          "mean": 85.7,
+          "median": 75.86,
+          "suggested": 71.07,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Glock-18 | Steel Disruption (Minimal Wear)",
+        "price": {
+          "min": 18.9,
+          "max": 81.69,
+          "mean": 30.27,
+          "median": 24.03,
+          "suggested": 22,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Glock-18 | Steel Disruption (Field-Tested)",
+        "price": {
+          "min": 15.15,
+          "max": 133.02,
+          "mean": 41.81,
+          "median": 24.42,
+          "suggested": 16.64,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Glock-18 | Steel Disruption (Factory New)",
+        "price": {
+          "min": 21.66,
+          "max": 204.83,
+          "mean": 63.85,
+          "median": 31.03,
+          "suggested": 23.94,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Glock-18 | Steel Disruption (Minimal Wear)",
+        "price": {
+          "min": 15.51,
+          "max": 131.27,
+          "mean": 32.46,
+          "median": 25.54,
+          "suggested": 17.64,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Glock-18 | Steel Disruption (Field-Tested)",
+        "price": {
+          "min": 16.51,
+          "max": 29.98,
+          "mean": 23.22,
+          "median": 23.33,
+          "suggested": 17.73,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Glock-18 | Steel Disruption (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Glock-18 | Steel Disruption (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Glock-18 | Steel Disruption (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:31.502Z"
+}

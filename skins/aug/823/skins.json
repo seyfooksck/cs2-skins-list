@@ -1,0 +1,289 @@
+{
+  "id": "skin-a848a7d8862e",
+  "name": "AUG | Sand Storm",
+  "paint_index": "823",
+  "weapon": {
+    "id": "weapon_aug",
+    "weapon_id": 8,
+    "name": "AUG",
+    "slug": "aug"
+  },
+  "pattern": {
+    "id": "gs_aug_sand_storm",
+    "name": "Sand Storm"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire. A custom paint job depicting a passing sand storm underneath the night sky has been applied.\\n\\n<i>There is beauty all around us, you just have to know where to look</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 38.36,
+      "max": 215.88,
+      "mean": 97.67,
+      "median": 101.78,
+      "suggested": 44.86,
+      "quantity": 20,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 28.01,
+      "max": 232.22,
+      "mean": 93.19,
+      "median": 77.03,
+      "suggested": 28.84,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 20.22,
+      "max": 176.64,
+      "mean": 53.36,
+      "median": 30.33,
+      "suggested": 23.28,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 16.79,
+      "max": 18.23,
+      "mean": 17.33,
+      "median": 16.97,
+      "suggested": 21.03,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 62.14,
+      "max": 62.14,
+      "mean": 62.14,
+      "median": 62.14,
+      "suggested": 42.15,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AUG | Sand Storm (Factory New)",
+      "price": {
+        "min": 38.36,
+        "max": 215.88,
+        "mean": 97.67,
+        "median": 101.78,
+        "suggested": 44.86,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AUG | Sand Storm (Minimal Wear)",
+      "price": {
+        "min": 28.01,
+        "max": 232.22,
+        "mean": 93.19,
+        "median": 77.03,
+        "suggested": 28.84,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AUG | Sand Storm (Field-Tested)",
+      "price": {
+        "min": 20.22,
+        "max": 176.64,
+        "mean": 53.36,
+        "median": 30.33,
+        "suggested": 23.28,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AUG | Sand Storm (Well-Worn)",
+      "price": {
+        "min": 16.79,
+        "max": 18.23,
+        "mean": 17.33,
+        "median": 16.97,
+        "suggested": 21.03,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AUG | Sand Storm (Battle-Scarred)",
+      "price": {
+        "min": 62.14,
+        "max": 62.14,
+        "mean": 62.14,
+        "median": 62.14,
+        "suggested": 42.15,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AUG | Sand Storm (Factory New)",
+        "price": {
+          "min": 38.36,
+          "max": 215.88,
+          "mean": 97.67,
+          "median": 101.78,
+          "suggested": 44.86,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AUG | Sand Storm (Minimal Wear)",
+        "price": {
+          "min": 28.01,
+          "max": 232.22,
+          "mean": 93.19,
+          "median": 77.03,
+          "suggested": 28.84,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AUG | Sand Storm (Field-Tested)",
+        "price": {
+          "min": 20.22,
+          "max": 176.64,
+          "mean": 53.36,
+          "median": 30.33,
+          "suggested": 23.28,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AUG | Sand Storm (Well-Worn)",
+        "price": {
+          "min": 16.79,
+          "max": 18.23,
+          "mean": 17.33,
+          "median": 16.97,
+          "suggested": 21.03,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AUG | Sand Storm (Battle-Scarred)",
+        "price": {
+          "min": 62.14,
+          "max": 62.14,
+          "mean": 62.14,
+          "median": 62.14,
+          "suggested": 42.15,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AUG | Sand Storm (Factory New)",
+        "price": {
+          "min": 43.91,
+          "max": 104.04,
+          "mean": 60.77,
+          "median": 45.51,
+          "suggested": 45.96,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AUG | Sand Storm (Minimal Wear)",
+        "price": {
+          "min": 22.01,
+          "max": 62.42,
+          "mean": 29.1,
+          "median": 24.68,
+          "suggested": 28.54,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AUG | Sand Storm (Field-Tested)",
+        "price": {
+          "min": 17.76,
+          "max": 30.33,
+          "mean": 21.1,
+          "median": 19.77,
+          "suggested": 22.99,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AUG | Sand Storm (Well-Worn)",
+        "price": {
+          "min": 16.34,
+          "max": 16.89,
+          "mean": 16.65,
+          "median": 16.72,
+          "suggested": 18.31,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AUG | Sand Storm (Battle-Scarred)",
+        "price": {
+          "min": 23.34,
+          "max": 23.34,
+          "mean": 23.34,
+          "median": 23.34,
+          "suggested": 18.69,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.474Z"
+}

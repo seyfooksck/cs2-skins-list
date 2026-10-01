@@ -1,0 +1,201 @@
+{
+  "id": "skin-05b6726350df",
+  "name": "AUG | Midnight Lily",
+  "paint_index": "727",
+  "weapon": {
+    "id": "weapon_aug",
+    "weapon_id": 8,
+    "name": "AUG",
+    "slug": "aug"
+  },
+  "pattern": {
+    "id": "am_bloom_blue",
+    "name": "Midnight Lily"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire. A pattern of lilies has been applied using pearlescent, color changing paint.\\n\\n<i>While beautiful, lilies are most often associated with death</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 362.63,
+      "max": 2100.49,
+      "mean": 585.8,
+      "median": 467.09,
+      "suggested": 502.46,
+      "quantity": 23,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 337.89,
+      "max": 582.4,
+      "mean": 473.29,
+      "median": 486.43,
+      "suggested": 453.15,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 370.41,
+      "max": 1401.2,
+      "mean": 885.81,
+      "median": 885.81,
+      "suggested": 369.86,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AUG | Midnight Lily (Factory New)",
+      "price": {
+        "min": 362.63,
+        "max": 2100.49,
+        "mean": 585.8,
+        "median": 467.09,
+        "suggested": 502.46,
+        "quantity": 23,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AUG | Midnight Lily (Minimal Wear)",
+      "price": {
+        "min": 337.89,
+        "max": 582.4,
+        "mean": 473.29,
+        "median": 486.43,
+        "suggested": 453.15,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AUG | Midnight Lily (Field-Tested)",
+      "price": {
+        "min": 370.41,
+        "max": 1401.2,
+        "mean": 885.81,
+        "median": 885.81,
+        "suggested": 369.86,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AUG | Midnight Lily (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AUG | Midnight Lily (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AUG | Midnight Lily (Factory New)",
+        "price": {
+          "min": 362.63,
+          "max": 2100.49,
+          "mean": 585.8,
+          "median": 467.09,
+          "suggested": 502.46,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AUG | Midnight Lily (Minimal Wear)",
+        "price": {
+          "min": 337.89,
+          "max": 582.4,
+          "mean": 473.29,
+          "median": 486.43,
+          "suggested": 453.15,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AUG | Midnight Lily (Field-Tested)",
+        "price": {
+          "min": 370.41,
+          "max": 1401.2,
+          "mean": 885.81,
+          "median": 885.81,
+          "suggested": 369.86,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AUG | Midnight Lily (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "AUG | Midnight Lily (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AUG | Midnight Lily (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AUG | Midnight Lily (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AUG | Midnight Lily (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AUG | Midnight Lily (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AUG | Midnight Lily (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.181Z"
+}

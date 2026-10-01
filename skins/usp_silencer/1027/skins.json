@@ -1,0 +1,201 @@
+{
+  "id": "skin-fa4306cae873",
+  "name": "USP-S | Target Acquired",
+  "paint_index": "1027",
+  "weapon": {
+    "id": "weapon_usp_silencer",
+    "weapon_id": 61,
+    "name": "USP-S",
+    "slug": "usp_silencer"
+  },
+  "pattern": {
+    "id": "am_intelligence_magenta",
+    "name": "Target Acquired"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise. A custom paint job of a map pattern overlayed with a bird's eye HUD has been applied.\\n\\n<i>Target acquired</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 440.79,
+      "max": 1050.24,
+      "mean": 630.64,
+      "median": 583.47,
+      "suggested": 491.16,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 276.83,
+      "max": 466.77,
+      "mean": 388.89,
+      "median": 379.25,
+      "suggested": 308.72,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 169.65,
+      "max": 280.06,
+      "mean": 222.91,
+      "median": 220.96,
+      "suggested": 224.53,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "USP-S | Target Acquired (Factory New)",
+      "price": {
+        "min": 440.79,
+        "max": 1050.24,
+        "mean": 630.64,
+        "median": 583.47,
+        "suggested": 491.16,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "USP-S | Target Acquired (Minimal Wear)",
+      "price": {
+        "min": 276.83,
+        "max": 466.77,
+        "mean": 388.89,
+        "median": 379.25,
+        "suggested": 308.72,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "USP-S | Target Acquired (Field-Tested)",
+      "price": {
+        "min": 169.65,
+        "max": 280.06,
+        "mean": 222.91,
+        "median": 220.96,
+        "suggested": 224.53,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "USP-S | Target Acquired (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "USP-S | Target Acquired (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "USP-S | Target Acquired (Factory New)",
+        "price": {
+          "min": 440.79,
+          "max": 1050.24,
+          "mean": 630.64,
+          "median": 583.47,
+          "suggested": 491.16,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "USP-S | Target Acquired (Minimal Wear)",
+        "price": {
+          "min": 276.83,
+          "max": 466.77,
+          "mean": 388.89,
+          "median": 379.25,
+          "suggested": 308.72,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "USP-S | Target Acquired (Field-Tested)",
+        "price": {
+          "min": 169.65,
+          "max": 280.06,
+          "mean": 222.91,
+          "median": 220.96,
+          "suggested": 224.53,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "USP-S | Target Acquired (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "USP-S | Target Acquired (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir USP-S | Target Acquired (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir USP-S | Target Acquired (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir USP-S | Target Acquired (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir USP-S | Target Acquired (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir USP-S | Target Acquired (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:50.368Z"
+}

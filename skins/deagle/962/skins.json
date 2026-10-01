@@ -1,0 +1,318 @@
+{
+  "id": "skin-32a30647e564",
+  "name": "Desert Eagle | Printstream",
+  "paint_index": "962",
+  "weapon": {
+    "id": "weapon_deagle",
+    "weapon_id": 1,
+    "name": "Desert Eagle",
+    "slug": "deagle"
+  },
+  "pattern": {
+    "id": "cu_deag_printstream",
+    "name": "Printstream"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. It has been custom painted with a stark black and white design and finished with pearlescent highlights.\\n\\n<i>WHITE_1; BLACK_1; PEARLESCENT_1;</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 81.39,
+      "max": 5601.04,
+      "mean": 178.45,
+      "median": 95.86,
+      "suggested": 104.29,
+      "quantity": 118,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 47.84,
+      "max": 572.23,
+      "mean": 71.38,
+      "median": 56.63,
+      "suggested": 64.65,
+      "quantity": 213,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 39.51,
+      "max": 196.56,
+      "mean": 51.73,
+      "median": 45.43,
+      "suggested": 49.98,
+      "quantity": 382,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 39.66,
+      "max": 70.02,
+      "mean": 47.38,
+      "median": 41.8,
+      "suggested": 47.78,
+      "quantity": 18,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 36.16,
+      "max": 116.9,
+      "mean": 50.79,
+      "median": 41.03,
+      "suggested": 46.23,
+      "quantity": 55,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Desert Eagle | Printstream (Factory New)",
+      "price": {
+        "min": 81.39,
+        "max": 5601.04,
+        "mean": 178.45,
+        "median": 95.86,
+        "suggested": 104.29,
+        "quantity": 118,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Desert Eagle | Printstream (Minimal Wear)",
+      "price": {
+        "min": 47.84,
+        "max": 572.23,
+        "mean": 71.38,
+        "median": 56.63,
+        "suggested": 64.65,
+        "quantity": 213,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Desert Eagle | Printstream (Field-Tested)",
+      "price": {
+        "min": 39.51,
+        "max": 196.56,
+        "mean": 51.73,
+        "median": 45.43,
+        "suggested": 49.98,
+        "quantity": 382,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Desert Eagle | Printstream (Well-Worn)",
+      "price": {
+        "min": 39.66,
+        "max": 70.02,
+        "mean": 47.38,
+        "median": 41.8,
+        "suggested": 47.78,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Desert Eagle | Printstream (Battle-Scarred)",
+      "price": {
+        "min": 36.16,
+        "max": 116.9,
+        "mean": 50.79,
+        "median": 41.03,
+        "suggested": 46.23,
+        "quantity": 55,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Desert Eagle | Printstream (Factory New)",
+        "price": {
+          "min": 81.39,
+          "max": 5601.04,
+          "mean": 178.45,
+          "median": 95.86,
+          "suggested": 104.29,
+          "quantity": 118,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Desert Eagle | Printstream (Minimal Wear)",
+        "price": {
+          "min": 47.84,
+          "max": 572.23,
+          "mean": 71.38,
+          "median": 56.63,
+          "suggested": 64.65,
+          "quantity": 213,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Desert Eagle | Printstream (Field-Tested)",
+        "price": {
+          "min": 39.51,
+          "max": 196.56,
+          "mean": 51.73,
+          "median": 45.43,
+          "suggested": 49.98,
+          "quantity": 382,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Desert Eagle | Printstream (Well-Worn)",
+        "price": {
+          "min": 39.66,
+          "max": 70.02,
+          "mean": 47.38,
+          "median": 41.8,
+          "suggested": 47.78,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Desert Eagle | Printstream (Battle-Scarred)",
+        "price": {
+          "min": 36.16,
+          "max": 116.9,
+          "mean": 50.79,
+          "median": 41.03,
+          "suggested": 46.23,
+          "quantity": 55,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Printstream (Factory New)",
+        "price": {
+          "min": 183.71,
+          "max": 789.93,
+          "mean": 250.74,
+          "median": 202.24,
+          "suggested": 219.87,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Printstream (Minimal Wear)",
+        "price": {
+          "min": 98.99,
+          "max": 1166.94,
+          "mean": 142.7,
+          "median": 112.74,
+          "suggested": 125.61,
+          "quantity": 54,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Printstream (Field-Tested)",
+        "price": {
+          "min": 67.3,
+          "max": 231.45,
+          "mean": 85.91,
+          "median": 74.22,
+          "suggested": 84.22,
+          "quantity": 80,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Printstream (Well-Worn)",
+        "price": {
+          "min": 59.46,
+          "max": 122.9,
+          "mean": 91.27,
+          "median": 93.35,
+          "suggested": 78.85,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Printstream (Battle-Scarred)",
+        "price": {
+          "min": 59.35,
+          "max": 81.69,
+          "mean": 66.69,
+          "median": 63.21,
+          "suggested": 72.73,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Desert Eagle | Printstream (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Desert Eagle | Printstream (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Desert Eagle | Printstream (Field-Tested)",
+        "price": {
+          "min": 744.65,
+          "max": 744.65,
+          "mean": 744.65,
+          "median": 744.65,
+          "suggested": 144.43,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Desert Eagle | Printstream (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Desert Eagle | Printstream (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:28.218Z"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "skin-2b3bc760fbf0",
+  "name": "P90 | Cocoa Rampage",
+  "paint_index": "977",
+  "weapon": {
+    "id": "weapon_p90",
+    "weapon_id": 19,
+    "name": "P90",
+    "slug": "p90"
+  },
+  "pattern": {
+    "id": "hy_p90_dino_rampage",
+    "name": "Cocoa Rampage"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. An olive and gold-colored hydrographic pattern of cartoon dinosaurs has been applied.\\n\\n<i>Dinosaurs and aliens and comets, oh my!</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 3.52,
+      "max": 107.53,
+      "mean": 23.15,
+      "median": 11.67,
+      "suggested": 4.39,
+      "quantity": 17,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.19,
+      "max": 1.82,
+      "mean": 1.51,
+      "median": 1.51,
+      "suggested": 1.49,
+      "quantity": 19,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.05,
+      "max": 5.83,
+      "mean": 2.16,
+      "median": 2.39,
+      "suggested": 1.37,
+      "quantity": 105,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.68,
+      "max": 2.22,
+      "mean": 1.33,
+      "median": 1.4,
+      "suggested": 0.84,
+      "quantity": 25,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.75,
+      "max": 12.29,
+      "mean": 1.33,
+      "median": 0.85,
+      "suggested": 0.69,
+      "quantity": 24,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P90 | Cocoa Rampage (Factory New)",
+      "price": {
+        "min": 3.52,
+        "max": 107.53,
+        "mean": 23.15,
+        "median": 11.67,
+        "suggested": 4.39,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P90 | Cocoa Rampage (Minimal Wear)",
+      "price": {
+        "min": 1.19,
+        "max": 1.82,
+        "mean": 1.51,
+        "median": 1.51,
+        "suggested": 1.49,
+        "quantity": 19,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P90 | Cocoa Rampage (Field-Tested)",
+      "price": {
+        "min": 1.05,
+        "max": 5.83,
+        "mean": 2.16,
+        "median": 2.39,
+        "suggested": 1.37,
+        "quantity": 105,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P90 | Cocoa Rampage (Well-Worn)",
+      "price": {
+        "min": 0.68,
+        "max": 2.22,
+        "mean": 1.33,
+        "median": 1.4,
+        "suggested": 0.84,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P90 | Cocoa Rampage (Battle-Scarred)",
+      "price": {
+        "min": 0.75,
+        "max": 12.29,
+        "mean": 1.33,
+        "median": 0.85,
+        "suggested": 0.69,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P90 | Cocoa Rampage (Factory New)",
+        "price": {
+          "min": 3.52,
+          "max": 107.53,
+          "mean": 23.15,
+          "median": 11.67,
+          "suggested": 4.39,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P90 | Cocoa Rampage (Minimal Wear)",
+        "price": {
+          "min": 1.19,
+          "max": 1.82,
+          "mean": 1.51,
+          "median": 1.51,
+          "suggested": 1.49,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P90 | Cocoa Rampage (Field-Tested)",
+        "price": {
+          "min": 1.05,
+          "max": 5.83,
+          "mean": 2.16,
+          "median": 2.39,
+          "suggested": 1.37,
+          "quantity": 105,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P90 | Cocoa Rampage (Well-Worn)",
+        "price": {
+          "min": 0.68,
+          "max": 2.22,
+          "mean": 1.33,
+          "median": 1.4,
+          "suggested": 0.84,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P90 | Cocoa Rampage (Battle-Scarred)",
+        "price": {
+          "min": 0.75,
+          "max": 12.29,
+          "mean": 1.33,
+          "median": 0.85,
+          "suggested": 0.69,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P90 | Cocoa Rampage (Factory New)",
+        "price": {
+          "min": 2.28,
+          "max": 32.46,
+          "mean": 8.11,
+          "median": 5.78,
+          "suggested": 3.24,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P90 | Cocoa Rampage (Minimal Wear)",
+        "price": {
+          "min": 1.27,
+          "max": 2.07,
+          "mean": 1.53,
+          "median": 1.51,
+          "suggested": 1.61,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P90 | Cocoa Rampage (Field-Tested)",
+        "price": {
+          "min": 0.79,
+          "max": 0.99,
+          "mean": 0.89,
+          "median": 0.86,
+          "suggested": 0.9,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ P90 | Cocoa Rampage (Well-Worn)",
+        "price": {
+          "min": 0.85,
+          "max": 3.01,
+          "mean": 1.38,
+          "median": 1,
+          "suggested": 0.88,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ P90 | Cocoa Rampage (Battle-Scarred)",
+        "price": {
+          "min": 0.67,
+          "max": 1.13,
+          "mean": 0.88,
+          "median": 0.89,
+          "suggested": 0.88,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P90 | Cocoa Rampage (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P90 | Cocoa Rampage (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P90 | Cocoa Rampage (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P90 | Cocoa Rampage (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P90 | Cocoa Rampage (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:46.224Z"
+}

@@ -1,0 +1,273 @@
+{
+  "id": "skin-51688cf28133",
+  "name": "★ Butterfly Knife | Autotronic",
+  "paint_index": "1115",
+  "weapon": {
+    "id": "weapon_knife_butterfly",
+    "weapon_id": 515,
+    "name": "Butterfly Knife",
+    "slug": "knife_butterfly"
+  },
+  "pattern": {
+    "id": "gs_butterfly_autotronic",
+    "name": "Autotronic"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.85,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This is a custom-designed balisong, commonly known as a butterfly knife. The defining characteristic of this weapon is the fan-like opening of a freely pivoting blade, allowing rapid deployment or concealment. As a result, butterfly knives are outlawed in many countries. It has been anodized red and uses steel mesh to lighten the weight.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1503.44,
+      "max": 1512.22,
+      "mean": 1507.83,
+      "median": 1507.83,
+      "suggested": 1752.7,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1098.13,
+      "max": 1613.63,
+      "mean": 1261.94,
+      "median": 1121.99,
+      "suggested": 1256.97,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 886.87,
+      "max": 1633.71,
+      "mean": 1014.23,
+      "median": 974.12,
+      "suggested": 1037.42,
+      "quantity": 18,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 860.45,
+      "max": 860.45,
+      "mean": 860.45,
+      "median": 860.45,
+      "suggested": 964.78,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 742.5,
+      "max": 1024.14,
+      "mean": 809.71,
+      "median": 751.04,
+      "suggested": 864.06,
+      "quantity": 5,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Butterfly Knife | Autotronic (Factory New)",
+      "price": {
+        "min": 1503.44,
+        "max": 1512.22,
+        "mean": 1507.83,
+        "median": 1507.83,
+        "suggested": 1752.7,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Butterfly Knife | Autotronic (Minimal Wear)",
+      "price": {
+        "min": 1098.13,
+        "max": 1613.63,
+        "mean": 1261.94,
+        "median": 1121.99,
+        "suggested": 1256.97,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Butterfly Knife | Autotronic (Field-Tested)",
+      "price": {
+        "min": 886.87,
+        "max": 1633.71,
+        "mean": 1014.23,
+        "median": 974.12,
+        "suggested": 1037.42,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Butterfly Knife | Autotronic (Well-Worn)",
+      "price": {
+        "min": 860.45,
+        "max": 860.45,
+        "mean": 860.45,
+        "median": 860.45,
+        "suggested": 964.78,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Butterfly Knife | Autotronic (Battle-Scarred)",
+      "price": {
+        "min": 742.5,
+        "max": 1024.14,
+        "mean": 809.71,
+        "median": 751.04,
+        "suggested": 864.06,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Butterfly Knife | Autotronic (Factory New)",
+        "price": {
+          "min": 1503.44,
+          "max": 1512.22,
+          "mean": 1507.83,
+          "median": 1507.83,
+          "suggested": 1752.7,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Butterfly Knife | Autotronic (Minimal Wear)",
+        "price": {
+          "min": 1098.13,
+          "max": 1613.63,
+          "mean": 1261.94,
+          "median": 1121.99,
+          "suggested": 1256.97,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Butterfly Knife | Autotronic (Field-Tested)",
+        "price": {
+          "min": 886.87,
+          "max": 1633.71,
+          "mean": 1014.23,
+          "median": 974.12,
+          "suggested": 1037.42,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Butterfly Knife | Autotronic (Well-Worn)",
+        "price": {
+          "min": 860.45,
+          "max": 860.45,
+          "mean": 860.45,
+          "median": 860.45,
+          "suggested": 964.78,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Butterfly Knife | Autotronic (Battle-Scarred)",
+        "price": {
+          "min": 742.5,
+          "max": 1024.14,
+          "mean": 809.71,
+          "median": 751.04,
+          "suggested": 864.06,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Butterfly Knife | Autotronic (Factory New)",
+        "price": {
+          "min": 1730.38,
+          "max": 1730.38,
+          "mean": 1730.38,
+          "median": 1730.38,
+          "suggested": 1909.31,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Butterfly Knife | Autotronic (Minimal Wear)",
+        "price": {
+          "min": 2325.61,
+          "max": 2325.61,
+          "mean": 2325.61,
+          "median": 2325.61,
+          "suggested": 1265.76,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Butterfly Knife | Autotronic (Field-Tested)",
+        "price": {
+          "min": 898.37,
+          "max": 994.77,
+          "mean": 934.06,
+          "median": 909.04,
+          "suggested": 1031.03,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Butterfly Knife | Autotronic (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Butterfly Knife | Autotronic (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:33.101Z"
+}

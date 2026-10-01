@@ -1,0 +1,169 @@
+{
+  "id": "skin-5eda44447880",
+  "name": "MP9 | Army Sheen",
+  "paint_index": "298",
+  "weapon": {
+    "id": "weapon_mp9",
+    "weapon_id": 34,
+    "name": "MP9",
+    "slug": "mp9"
+  },
+  "pattern": {
+    "id": "am_army_shine",
+    "name": "Army Sheen"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 0.3,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been covered in a metallic foil stamped with a camouflage pattern.\\n\\n<i>Remember your training</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.1,
+      "max": 99.19,
+      "mean": 7.38,
+      "median": 7.77,
+      "suggested": 2.7,
+      "quantity": 361,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.63,
+      "max": 15.42,
+      "mean": 4.18,
+      "median": 2.08,
+      "suggested": 1.86,
+      "quantity": 207,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.75,
+      "max": 13.89,
+      "mean": 5.02,
+      "median": 3.64,
+      "suggested": 1.65,
+      "quantity": 60,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP9 | Army Sheen (Factory New)",
+      "price": {
+        "min": 2.1,
+        "max": 99.19,
+        "mean": 7.38,
+        "median": 7.77,
+        "suggested": 2.7,
+        "quantity": 361,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP9 | Army Sheen (Minimal Wear)",
+      "price": {
+        "min": 1.63,
+        "max": 15.42,
+        "mean": 4.18,
+        "median": 2.08,
+        "suggested": 1.86,
+        "quantity": 207,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP9 | Army Sheen (Field-Tested)",
+      "price": {
+        "min": 1.75,
+        "max": 13.89,
+        "mean": 5.02,
+        "median": 3.64,
+        "suggested": 1.65,
+        "quantity": 60,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP9 | Army Sheen (Factory New)",
+        "price": {
+          "min": 2.1,
+          "max": 99.19,
+          "mean": 7.38,
+          "median": 7.77,
+          "suggested": 2.7,
+          "quantity": 361,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP9 | Army Sheen (Minimal Wear)",
+        "price": {
+          "min": 1.63,
+          "max": 15.42,
+          "mean": 4.18,
+          "median": 2.08,
+          "suggested": 1.86,
+          "quantity": 207,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP9 | Army Sheen (Field-Tested)",
+        "price": {
+          "min": 1.75,
+          "max": 13.89,
+          "mean": 5.02,
+          "median": 3.64,
+          "suggested": 1.65,
+          "quantity": 60,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP9 | Army Sheen (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP9 | Army Sheen (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP9 | Army Sheen (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:43.497Z"
+}

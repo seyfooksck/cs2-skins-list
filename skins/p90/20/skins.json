@@ -1,0 +1,310 @@
+{
+  "id": "skin-7ee5e2765bfa",
+  "name": "P90 | Virus",
+  "paint_index": "20",
+  "weapon": {
+    "id": "weapon_p90",
+    "weapon_id": 19,
+    "name": "P90",
+    "slug": "p90"
+  },
+  "pattern": {
+    "id": "hy_zombie",
+    "name": "Virus"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been painted using a zombie hydrographic over a green base coat.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 23.86,
+      "max": 90.17,
+      "mean": 38.8,
+      "median": 33.26,
+      "suggested": 25.71,
+      "quantity": 13,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 7.28,
+      "max": 91.02,
+      "mean": 49.15,
+      "median": 49.15,
+      "suggested": 7.1,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.57,
+      "max": 40.97,
+      "mean": 6.24,
+      "median": 3.77,
+      "suggested": 3.48,
+      "quantity": 22,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 2.86,
+      "max": 108.25,
+      "mean": 18.39,
+      "median": 3.64,
+      "suggested": 3.18,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 3.34,
+      "max": 5.05,
+      "mean": 3.86,
+      "median": 3.78,
+      "suggested": 3.62,
+      "quantity": 5,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P90 | Virus (Factory New)",
+      "price": {
+        "min": 23.86,
+        "max": 90.17,
+        "mean": 38.8,
+        "median": 33.26,
+        "suggested": 25.71,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P90 | Virus (Minimal Wear)",
+      "price": {
+        "min": 7.28,
+        "max": 91.02,
+        "mean": 49.15,
+        "median": 49.15,
+        "suggested": 7.1,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P90 | Virus (Field-Tested)",
+      "price": {
+        "min": 2.57,
+        "max": 40.97,
+        "mean": 6.24,
+        "median": 3.77,
+        "suggested": 3.48,
+        "quantity": 22,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P90 | Virus (Well-Worn)",
+      "price": {
+        "min": 2.86,
+        "max": 108.25,
+        "mean": 18.39,
+        "median": 3.64,
+        "suggested": 3.18,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P90 | Virus (Battle-Scarred)",
+      "price": {
+        "min": 3.34,
+        "max": 5.05,
+        "mean": 3.86,
+        "median": 3.78,
+        "suggested": 3.62,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P90 | Virus (Factory New)",
+        "price": {
+          "min": 23.86,
+          "max": 90.17,
+          "mean": 38.8,
+          "median": 33.26,
+          "suggested": 25.71,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P90 | Virus (Minimal Wear)",
+        "price": {
+          "min": 7.28,
+          "max": 91.02,
+          "mean": 49.15,
+          "median": 49.15,
+          "suggested": 7.1,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P90 | Virus (Field-Tested)",
+        "price": {
+          "min": 2.57,
+          "max": 40.97,
+          "mean": 6.24,
+          "median": 3.77,
+          "suggested": 3.48,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P90 | Virus (Well-Worn)",
+        "price": {
+          "min": 2.86,
+          "max": 108.25,
+          "mean": 18.39,
+          "median": 3.64,
+          "suggested": 3.18,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P90 | Virus (Battle-Scarred)",
+        "price": {
+          "min": 3.34,
+          "max": 5.05,
+          "mean": 3.86,
+          "median": 3.78,
+          "suggested": 3.62,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P90 | Virus (Factory New)",
+        "price": {
+          "min": 37.34,
+          "max": 38.28,
+          "mean": 37.66,
+          "median": 37.34,
+          "suggested": 45.49,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P90 | Virus (Minimal Wear)",
+        "price": {
+          "min": 7.75,
+          "max": 8.05,
+          "mean": 7.9,
+          "median": 7.9,
+          "suggested": 7.71,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P90 | Virus (Field-Tested)",
+        "price": {
+          "min": 3.5,
+          "max": 29.17,
+          "mean": 8.01,
+          "median": 5.04,
+          "suggested": 4.49,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ P90 | Virus (Well-Worn)",
+        "price": {
+          "min": 4.04,
+          "max": 4.04,
+          "mean": 4.04,
+          "median": 4.04,
+          "suggested": 3.71,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ P90 | Virus (Battle-Scarred)",
+        "price": {
+          "min": 3.65,
+          "max": 12.88,
+          "mean": 5.74,
+          "median": 3.83,
+          "suggested": 3.91,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P90 | Virus (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P90 | Virus (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P90 | Virus (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P90 | Virus (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P90 | Virus (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:46.267Z"
+}

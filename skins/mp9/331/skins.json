@@ -1,0 +1,249 @@
+{
+  "id": "skin-209298d0eb05",
+  "name": "MP9 | Arctic Tri-Tone",
+  "paint_index": "331",
+  "weapon": {
+    "id": "weapon_mp9",
+    "weapon_id": 34,
+    "name": "MP9",
+    "slug": "mp9"
+  },
+  "pattern": {
+    "id": "gs_arctic_mp9",
+    "name": "Arctic Tri-Tone"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. This custom paint job features white and blue color blocking and is finished with a matching camouflage.\\n\\n<i>Frigid finality</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 8.61,
+      "max": 1021.65,
+      "mean": 49.26,
+      "median": 22.04,
+      "suggested": 11.36,
+      "quantity": 405,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 4.42,
+      "max": 422.43,
+      "mean": 25.54,
+      "median": 11.73,
+      "suggested": 6.32,
+      "quantity": 288,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 3.44,
+      "max": 250.02,
+      "mean": 31.39,
+      "median": 5.72,
+      "suggested": 4.14,
+      "quantity": 288,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 3.62,
+      "max": 8.81,
+      "mean": 5.3,
+      "median": 4.77,
+      "suggested": 4.55,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 2.89,
+      "max": 46.68,
+      "mean": 9.51,
+      "median": 8.89,
+      "suggested": 4.15,
+      "quantity": 30,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP9 | Arctic Tri-Tone (Factory New)",
+      "price": {
+        "min": 8.61,
+        "max": 1021.65,
+        "mean": 49.26,
+        "median": 22.04,
+        "suggested": 11.36,
+        "quantity": 405,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP9 | Arctic Tri-Tone (Minimal Wear)",
+      "price": {
+        "min": 4.42,
+        "max": 422.43,
+        "mean": 25.54,
+        "median": 11.73,
+        "suggested": 6.32,
+        "quantity": 288,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP9 | Arctic Tri-Tone (Field-Tested)",
+      "price": {
+        "min": 3.44,
+        "max": 250.02,
+        "mean": 31.39,
+        "median": 5.72,
+        "suggested": 4.14,
+        "quantity": 288,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP9 | Arctic Tri-Tone (Well-Worn)",
+      "price": {
+        "min": 3.62,
+        "max": 8.81,
+        "mean": 5.3,
+        "median": 4.77,
+        "suggested": 4.55,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP9 | Arctic Tri-Tone (Battle-Scarred)",
+      "price": {
+        "min": 2.89,
+        "max": 46.68,
+        "mean": 9.51,
+        "median": 8.89,
+        "suggested": 4.15,
+        "quantity": 30,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP9 | Arctic Tri-Tone (Factory New)",
+        "price": {
+          "min": 8.61,
+          "max": 1021.65,
+          "mean": 49.26,
+          "median": 22.04,
+          "suggested": 11.36,
+          "quantity": 405,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP9 | Arctic Tri-Tone (Minimal Wear)",
+        "price": {
+          "min": 4.42,
+          "max": 422.43,
+          "mean": 25.54,
+          "median": 11.73,
+          "suggested": 6.32,
+          "quantity": 288,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP9 | Arctic Tri-Tone (Field-Tested)",
+        "price": {
+          "min": 3.44,
+          "max": 250.02,
+          "mean": 31.39,
+          "median": 5.72,
+          "suggested": 4.14,
+          "quantity": 288,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP9 | Arctic Tri-Tone (Well-Worn)",
+        "price": {
+          "min": 3.62,
+          "max": 8.81,
+          "mean": 5.3,
+          "median": 4.77,
+          "suggested": 4.55,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP9 | Arctic Tri-Tone (Battle-Scarred)",
+        "price": {
+          "min": 2.89,
+          "max": 46.68,
+          "mean": 9.51,
+          "median": 8.89,
+          "suggested": 4.15,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP9 | Arctic Tri-Tone (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP9 | Arctic Tri-Tone (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP9 | Arctic Tri-Tone (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP9 | Arctic Tri-Tone (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP9 | Arctic Tri-Tone (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:43.736Z"
+}

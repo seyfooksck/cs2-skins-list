@@ -1,0 +1,154 @@
+{
+  "id": "skin-75c8474d12a2",
+  "name": "Glock-18 | Dragon Tattoo",
+  "paint_index": "48",
+  "weapon": {
+    "id": "weapon_glock",
+    "weapon_id": 4,
+    "name": "Glock-18",
+    "slug": "glock"
+  },
+  "pattern": {
+    "id": "am_dragon_glock",
+    "name": "Dragon Tattoo"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. It has been painted using a dragon decal over a metallic base coat.\\n\\n<i>In a fairy tale the knight always slays the dragon... but this is the real world - Valeria Jenner, Revolutionary</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 108.2,
+      "max": 2800.65,
+      "mean": 335.06,
+      "median": 175.04,
+      "suggested": 150.01,
+      "quantity": 92,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 122.9,
+      "max": 122.9,
+      "mean": 122.9,
+      "median": 122.9,
+      "suggested": 155.56,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Glock-18 | Dragon Tattoo (Factory New)",
+      "price": {
+        "min": 108.2,
+        "max": 2800.65,
+        "mean": 335.06,
+        "median": 175.04,
+        "suggested": 150.01,
+        "quantity": 92,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Glock-18 | Dragon Tattoo (Minimal Wear)",
+      "price": {
+        "min": 122.9,
+        "max": 122.9,
+        "mean": 122.9,
+        "median": 122.9,
+        "suggested": 155.56,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Glock-18 | Dragon Tattoo (Factory New)",
+        "price": {
+          "min": 108.2,
+          "max": 2800.65,
+          "mean": 335.06,
+          "median": 175.04,
+          "suggested": 150.01,
+          "quantity": 92,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Glock-18 | Dragon Tattoo (Minimal Wear)",
+        "price": {
+          "min": 122.9,
+          "max": 122.9,
+          "mean": 122.9,
+          "median": 122.9,
+          "suggested": 155.56,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Glock-18 | Dragon Tattoo (Factory New)",
+        "price": {
+          "min": 250.89,
+          "max": 14178.29,
+          "mean": 1014.71,
+          "median": 465.61,
+          "suggested": 328.09,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Glock-18 | Dragon Tattoo (Minimal Wear)",
+        "price": {
+          "min": 322.61,
+          "max": 641.8,
+          "mean": 482.21,
+          "median": 482.21,
+          "suggested": 360.42,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Glock-18 | Dragon Tattoo (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Glock-18 | Dragon Tattoo (Minimal Wear)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:31.516Z"
+}

@@ -1,0 +1,258 @@
+{
+  "id": "skin-bf19fabb24ef",
+  "name": "P250 | Supernova",
+  "paint_index": "358",
+  "weapon": {
+    "id": "weapon_p250",
+    "weapon_id": 36,
+    "name": "P250",
+    "slug": "p250"
+  },
+  "pattern": {
+    "id": "cu_bittersweet",
+    "name": "Supernova"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.4,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A low-recoil firearm with a high rate of fire, the P250 is a relatively inexpensive choice against armored opponents. It has been painted with a hydrographic in a cosmic pattern with concentric circles.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 7.08,
+      "max": 166.87,
+      "mean": 28.86,
+      "median": 10.57,
+      "suggested": 8.78,
+      "quantity": 42,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.24,
+      "max": 144.12,
+      "mean": 6.66,
+      "median": 2.53,
+      "suggested": 2.74,
+      "quantity": 168,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.15,
+      "max": 139.92,
+      "mean": 4.83,
+      "median": 2.66,
+      "suggested": 2.57,
+      "quantity": 141,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 2.5,
+      "max": 10.82,
+      "mean": 3.86,
+      "median": 2.89,
+      "suggested": 2.03,
+      "quantity": 8,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P250 | Supernova (Factory New)",
+      "price": {
+        "min": 7.08,
+        "max": 166.87,
+        "mean": 28.86,
+        "median": 10.57,
+        "suggested": 8.78,
+        "quantity": 42,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P250 | Supernova (Minimal Wear)",
+      "price": {
+        "min": 2.24,
+        "max": 144.12,
+        "mean": 6.66,
+        "median": 2.53,
+        "suggested": 2.74,
+        "quantity": 168,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P250 | Supernova (Field-Tested)",
+      "price": {
+        "min": 2.15,
+        "max": 139.92,
+        "mean": 4.83,
+        "median": 2.66,
+        "suggested": 2.57,
+        "quantity": 141,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P250 | Supernova (Well-Worn)",
+      "price": {
+        "min": 2.5,
+        "max": 10.82,
+        "mean": 3.86,
+        "median": 2.89,
+        "suggested": 2.03,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P250 | Supernova (Factory New)",
+        "price": {
+          "min": 7.08,
+          "max": 166.87,
+          "mean": 28.86,
+          "median": 10.57,
+          "suggested": 8.78,
+          "quantity": 42,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P250 | Supernova (Minimal Wear)",
+        "price": {
+          "min": 2.24,
+          "max": 144.12,
+          "mean": 6.66,
+          "median": 2.53,
+          "suggested": 2.74,
+          "quantity": 168,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P250 | Supernova (Field-Tested)",
+        "price": {
+          "min": 2.15,
+          "max": 139.92,
+          "mean": 4.83,
+          "median": 2.66,
+          "suggested": 2.57,
+          "quantity": 141,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P250 | Supernova (Well-Worn)",
+        "price": {
+          "min": 2.5,
+          "max": 10.82,
+          "mean": 3.86,
+          "median": 2.89,
+          "suggested": 2.03,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P250 | Supernova (Factory New)",
+        "price": {
+          "min": 4.75,
+          "max": 501.26,
+          "mean": 23.88,
+          "median": 11.1,
+          "suggested": 6.01,
+          "quantity": 70,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P250 | Supernova (Minimal Wear)",
+        "price": {
+          "min": 2.58,
+          "max": 145.86,
+          "mean": 12.5,
+          "median": 3.1,
+          "suggested": 3.09,
+          "quantity": 78,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P250 | Supernova (Field-Tested)",
+        "price": {
+          "min": 2,
+          "max": 227.44,
+          "mean": 12.51,
+          "median": 2.49,
+          "suggested": 2.48,
+          "quantity": 82,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ P250 | Supernova (Well-Worn)",
+        "price": {
+          "min": 3.3,
+          "max": 4.89,
+          "mean": 4.1,
+          "median": 4.1,
+          "suggested": 4.49,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P250 | Supernova (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P250 | Supernova (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P250 | Supernova (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P250 | Supernova (Well-Worn)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:45.067Z"
+}

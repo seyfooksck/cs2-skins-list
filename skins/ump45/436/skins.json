@@ -1,0 +1,102 @@
+{
+  "id": "skin-162f16955942",
+  "name": "UMP-45 | Grand Prix",
+  "paint_index": "436",
+  "weapon": {
+    "id": "weapon_ump45",
+    "weapon_id": 24,
+    "name": "UMP-45",
+    "slug": "ump45"
+  },
+  "pattern": {
+    "id": "am_ump_racer",
+    "name": "Grand Prix"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0.25,
+  "max_float": 0.35,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic. It has been custom painted with an old-fashioned racing motif.\\n\\n<i>Don't forget your helmet</i>",
+  "images": {
+    "ft": "ft.png"
+  },
+  "prices": {
+    "ft": {
+      "min": 1.19,
+      "max": 40.83,
+      "mean": 2.75,
+      "median": 1.58,
+      "suggested": 1.51,
+      "quantity": 133,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "UMP-45 | Grand Prix (Field-Tested)",
+      "price": {
+        "min": 1.19,
+        "max": 40.83,
+        "mean": 2.75,
+        "median": 1.58,
+        "suggested": 1.51,
+        "quantity": 133,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "ft": {
+        "market_hash_name": "UMP-45 | Grand Prix (Field-Tested)",
+        "price": {
+          "min": 1.19,
+          "max": 40.83,
+          "mean": 2.75,
+          "median": 1.58,
+          "suggested": 1.51,
+          "quantity": 133,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "ft": {
+        "market_hash_name": "StatTrak™ UMP-45 | Grand Prix (Field-Tested)",
+        "price": {
+          "min": 1.38,
+          "max": 36.07,
+          "mean": 3.5,
+          "median": 1.61,
+          "suggested": 1.83,
+          "quantity": 62,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "ft": {
+        "market_hash_name": "Souvenir UMP-45 | Grand Prix (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.763Z"
+}

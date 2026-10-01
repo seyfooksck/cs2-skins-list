@@ -1,0 +1,310 @@
+{
+  "id": "skin-0ba56fdaa179",
+  "name": "CZ75-Auto | Tacticat",
+  "paint_index": "687",
+  "weapon": {
+    "id": "weapon_cz75a",
+    "weapon_id": 63,
+    "name": "CZ75-Auto",
+    "slug": "cz75a"
+  },
+  "pattern": {
+    "id": "gs_cz75_tacticat",
+    "name": "Tacticat"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fully automatic variant of the CZ75, the CZ75-Auto is the ideal short-term choice for turning the tables and gaining your opponents weapon. But with very little ammo in the magazine, strong trigger discipline is required. It has been hand painted pink and purple and features small, feline decals.\\n\\n<i>24 bullets, 9 lives</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 4.48,
+      "max": 110.37,
+      "mean": 18.34,
+      "median": 9.66,
+      "suggested": 6.98,
+      "quantity": 50,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.62,
+      "max": 54.05,
+      "mean": 6.41,
+      "median": 3.14,
+      "suggested": 1.98,
+      "quantity": 36,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.03,
+      "max": 44.23,
+      "mean": 1.79,
+      "median": 1.37,
+      "suggested": 1.29,
+      "quantity": 231,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.99,
+      "max": 120.07,
+      "mean": 6.04,
+      "median": 1.24,
+      "suggested": 1.21,
+      "quantity": 28,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.97,
+      "max": 122.52,
+      "mean": 6.71,
+      "median": 1.16,
+      "suggested": 1.14,
+      "quantity": 27,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "CZ75-Auto | Tacticat (Factory New)",
+      "price": {
+        "min": 4.48,
+        "max": 110.37,
+        "mean": 18.34,
+        "median": 9.66,
+        "suggested": 6.98,
+        "quantity": 50,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "CZ75-Auto | Tacticat (Minimal Wear)",
+      "price": {
+        "min": 1.62,
+        "max": 54.05,
+        "mean": 6.41,
+        "median": 3.14,
+        "suggested": 1.98,
+        "quantity": 36,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "CZ75-Auto | Tacticat (Field-Tested)",
+      "price": {
+        "min": 1.03,
+        "max": 44.23,
+        "mean": 1.79,
+        "median": 1.37,
+        "suggested": 1.29,
+        "quantity": 231,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "CZ75-Auto | Tacticat (Well-Worn)",
+      "price": {
+        "min": 0.99,
+        "max": 120.07,
+        "mean": 6.04,
+        "median": 1.24,
+        "suggested": 1.21,
+        "quantity": 28,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "CZ75-Auto | Tacticat (Battle-Scarred)",
+      "price": {
+        "min": 0.97,
+        "max": 122.52,
+        "mean": 6.71,
+        "median": 1.16,
+        "suggested": 1.14,
+        "quantity": 27,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "CZ75-Auto | Tacticat (Factory New)",
+        "price": {
+          "min": 4.48,
+          "max": 110.37,
+          "mean": 18.34,
+          "median": 9.66,
+          "suggested": 6.98,
+          "quantity": 50,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "CZ75-Auto | Tacticat (Minimal Wear)",
+        "price": {
+          "min": 1.62,
+          "max": 54.05,
+          "mean": 6.41,
+          "median": 3.14,
+          "suggested": 1.98,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "CZ75-Auto | Tacticat (Field-Tested)",
+        "price": {
+          "min": 1.03,
+          "max": 44.23,
+          "mean": 1.79,
+          "median": 1.37,
+          "suggested": 1.29,
+          "quantity": 231,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "CZ75-Auto | Tacticat (Well-Worn)",
+        "price": {
+          "min": 0.99,
+          "max": 120.07,
+          "mean": 6.04,
+          "median": 1.24,
+          "suggested": 1.21,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "CZ75-Auto | Tacticat (Battle-Scarred)",
+        "price": {
+          "min": 0.97,
+          "max": 122.52,
+          "mean": 6.71,
+          "median": 1.16,
+          "suggested": 1.14,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Tacticat (Factory New)",
+        "price": {
+          "min": 5.57,
+          "max": 291.62,
+          "mean": 29.17,
+          "median": 10.88,
+          "suggested": 6.77,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Tacticat (Minimal Wear)",
+        "price": {
+          "min": 2.94,
+          "max": 35.01,
+          "mean": 9.3,
+          "median": 8.75,
+          "suggested": 3.38,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Tacticat (Field-Tested)",
+        "price": {
+          "min": 1.09,
+          "max": 134.19,
+          "mean": 5.81,
+          "median": 1.44,
+          "suggested": 1.33,
+          "quantity": 54,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Tacticat (Well-Worn)",
+        "price": {
+          "min": 1.44,
+          "max": 3.31,
+          "mean": 1.93,
+          "median": 1.97,
+          "suggested": 1.58,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Tacticat (Battle-Scarred)",
+        "price": {
+          "min": 0.93,
+          "max": 5.51,
+          "mean": 1.56,
+          "median": 1.35,
+          "suggested": 1.23,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir CZ75-Auto | Tacticat (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir CZ75-Auto | Tacticat (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir CZ75-Auto | Tacticat (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir CZ75-Auto | Tacticat (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir CZ75-Auto | Tacticat (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:27.693Z"
+}

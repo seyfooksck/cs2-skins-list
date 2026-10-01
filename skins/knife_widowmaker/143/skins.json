@@ -1,0 +1,217 @@
+{
+  "id": "skin-fdd9b192d93a",
+  "name": "★ Talon Knife | Urban Masked",
+  "paint_index": "143",
+  "weapon": {
+    "id": "weapon_knife_widowmaker",
+    "weapon_id": 523,
+    "name": "Talon Knife",
+    "slug": "knife_widowmaker"
+  },
+  "pattern": {
+    "id": "sp_tape_urban",
+    "name": "Urban Masked"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This ivory-handled karambit features brass rivets and saw-tooth ridges, so it cuts on the way in, and tears on the way out. It has been spray-painted using a tangle of masking tape as a stencil.\\n\\n<i>True power is demonstrated with subtle application</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 288.68,
+      "max": 355.16,
+      "mean": 317.99,
+      "median": 314.07,
+      "suggested": 368.62,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 246.48,
+      "max": 438.76,
+      "mean": 276.45,
+      "median": 257.89,
+      "suggested": 294.61,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 253.69,
+      "max": 256.73,
+      "mean": 255.49,
+      "median": 256.04,
+      "suggested": 284.12,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Talon Knife | Urban Masked (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Talon Knife | Urban Masked (Minimal Wear)",
+      "price": {
+        "min": 288.68,
+        "max": 355.16,
+        "mean": 317.99,
+        "median": 314.07,
+        "suggested": 368.62,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Talon Knife | Urban Masked (Field-Tested)",
+      "price": {
+        "min": 246.48,
+        "max": 438.76,
+        "mean": 276.45,
+        "median": 257.89,
+        "suggested": 294.61,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Talon Knife | Urban Masked (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Talon Knife | Urban Masked (Battle-Scarred)",
+      "price": {
+        "min": 253.69,
+        "max": 256.73,
+        "mean": 255.49,
+        "median": 256.04,
+        "suggested": 284.12,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Talon Knife | Urban Masked (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Talon Knife | Urban Masked (Minimal Wear)",
+        "price": {
+          "min": 288.68,
+          "max": 355.16,
+          "mean": 317.99,
+          "median": 314.07,
+          "suggested": 368.62,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Talon Knife | Urban Masked (Field-Tested)",
+        "price": {
+          "min": 246.48,
+          "max": 438.76,
+          "mean": 276.45,
+          "median": 257.89,
+          "suggested": 294.61,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Talon Knife | Urban Masked (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ Talon Knife | Urban Masked (Battle-Scarred)",
+        "price": {
+          "min": 253.69,
+          "max": 256.73,
+          "mean": 255.49,
+          "median": 256.04,
+          "suggested": 284.12,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Talon Knife | Urban Masked (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Talon Knife | Urban Masked (Minimal Wear)",
+        "price": {
+          "min": 326.28,
+          "max": 326.28,
+          "mean": 326.28,
+          "median": 326.28,
+          "suggested": 379.82,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Talon Knife | Urban Masked (Field-Tested)",
+        "price": {
+          "min": 250.38,
+          "max": 250.38,
+          "mean": 250.38,
+          "median": 250.38,
+          "suggested": 318.68,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Talon Knife | Urban Masked (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Talon Knife | Urban Masked (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:39.681Z"
+}

@@ -1,0 +1,250 @@
+{
+  "id": "skin-4af8cd1ab41d",
+  "name": "Negev | Loudmouth",
+  "paint_index": "483",
+  "weapon": {
+    "id": "weapon_negev",
+    "weapon_id": 28,
+    "name": "Negev",
+    "slug": "negev"
+  },
+  "pattern": {
+    "id": "cu_negev_annihilator",
+    "name": "Loudmouth"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0.14,
+  "max_float": 0.65,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with a monstrous design and then distressed.\\n\\n<i>Get back here, I'm talking to you!</i>",
+  "images": {
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "mw": {
+      "min": 21.52,
+      "max": 86.84,
+      "mean": 37.59,
+      "median": 34.42,
+      "suggested": 25.03,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.06,
+      "max": 65.84,
+      "mean": 2.88,
+      "median": 1.33,
+      "suggested": 1.26,
+      "quantity": 51,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.91,
+      "max": 5.83,
+      "mean": 1.82,
+      "median": 1.84,
+      "suggested": 1.14,
+      "quantity": 30,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.82,
+      "max": 1.45,
+      "mean": 1.1,
+      "median": 1.12,
+      "suggested": 1.11,
+      "quantity": 23,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Negev | Loudmouth (Minimal Wear)",
+      "price": {
+        "min": 21.52,
+        "max": 86.84,
+        "mean": 37.59,
+        "median": 34.42,
+        "suggested": 25.03,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Negev | Loudmouth (Field-Tested)",
+      "price": {
+        "min": 1.06,
+        "max": 65.84,
+        "mean": 2.88,
+        "median": 1.33,
+        "suggested": 1.26,
+        "quantity": 51,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Negev | Loudmouth (Well-Worn)",
+      "price": {
+        "min": 0.91,
+        "max": 5.83,
+        "mean": 1.82,
+        "median": 1.84,
+        "suggested": 1.14,
+        "quantity": 30,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Negev | Loudmouth (Battle-Scarred)",
+      "price": {
+        "min": 0.82,
+        "max": 1.45,
+        "mean": 1.1,
+        "median": 1.12,
+        "suggested": 1.11,
+        "quantity": 23,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "mw": {
+        "market_hash_name": "Negev | Loudmouth (Minimal Wear)",
+        "price": {
+          "min": 21.52,
+          "max": 86.84,
+          "mean": 37.59,
+          "median": 34.42,
+          "suggested": 25.03,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Negev | Loudmouth (Field-Tested)",
+        "price": {
+          "min": 1.06,
+          "max": 65.84,
+          "mean": 2.88,
+          "median": 1.33,
+          "suggested": 1.26,
+          "quantity": 51,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Negev | Loudmouth (Well-Worn)",
+        "price": {
+          "min": 0.91,
+          "max": 5.83,
+          "mean": 1.82,
+          "median": 1.84,
+          "suggested": 1.14,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Negev | Loudmouth (Battle-Scarred)",
+        "price": {
+          "min": 0.82,
+          "max": 1.45,
+          "mean": 1.1,
+          "median": 1.12,
+          "suggested": 1.11,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "mw": {
+        "market_hash_name": "StatTrak™ Negev | Loudmouth (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Negev | Loudmouth (Field-Tested)",
+        "price": {
+          "min": 1.94,
+          "max": 50.17,
+          "mean": 4.52,
+          "median": 2.24,
+          "suggested": 2.56,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Negev | Loudmouth (Well-Worn)",
+        "price": {
+          "min": 2.22,
+          "max": 3.35,
+          "mean": 2.89,
+          "median": 3,
+          "suggested": 2.39,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Negev | Loudmouth (Battle-Scarred)",
+        "price": {
+          "min": 1.56,
+          "max": 36.36,
+          "mean": 3.82,
+          "median": 1.84,
+          "suggested": 1.87,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "mw": {
+        "market_hash_name": "Souvenir Negev | Loudmouth (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Negev | Loudmouth (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Negev | Loudmouth (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Negev | Loudmouth (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.084Z"
+}

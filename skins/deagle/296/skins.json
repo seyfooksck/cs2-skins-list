@@ -1,0 +1,169 @@
+{
+  "id": "skin-3b1a5d288858",
+  "name": "Desert Eagle | Meteorite",
+  "paint_index": "296",
+  "weapon": {
+    "id": "weapon_deagle",
+    "weapon_id": 1,
+    "name": "Desert Eagle",
+    "slug": "deagle"
+  },
+  "pattern": {
+    "id": "am_crystallized_dark",
+    "name": "Meteorite"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.18,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. It has been painted with metallic paint and uses a crystallizing mask to create a pattern.\\n\\n<i>Everyone wants to make an impact</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.8,
+      "max": 89.27,
+      "mean": 11.55,
+      "median": 10.5,
+      "suggested": 2.33,
+      "quantity": 275,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.02,
+      "max": 129.53,
+      "mean": 13.43,
+      "median": 1.48,
+      "suggested": 1.35,
+      "quantity": 51,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.07,
+      "max": 36.01,
+      "mean": 7.92,
+      "median": 1.49,
+      "suggested": 1.25,
+      "quantity": 18,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Desert Eagle | Meteorite (Factory New)",
+      "price": {
+        "min": 1.8,
+        "max": 89.27,
+        "mean": 11.55,
+        "median": 10.5,
+        "suggested": 2.33,
+        "quantity": 275,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Desert Eagle | Meteorite (Minimal Wear)",
+      "price": {
+        "min": 1.02,
+        "max": 129.53,
+        "mean": 13.43,
+        "median": 1.48,
+        "suggested": 1.35,
+        "quantity": 51,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Desert Eagle | Meteorite (Field-Tested)",
+      "price": {
+        "min": 1.07,
+        "max": 36.01,
+        "mean": 7.92,
+        "median": 1.49,
+        "suggested": 1.25,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Desert Eagle | Meteorite (Factory New)",
+        "price": {
+          "min": 1.8,
+          "max": 89.27,
+          "mean": 11.55,
+          "median": 10.5,
+          "suggested": 2.33,
+          "quantity": 275,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Desert Eagle | Meteorite (Minimal Wear)",
+        "price": {
+          "min": 1.02,
+          "max": 129.53,
+          "mean": 13.43,
+          "median": 1.48,
+          "suggested": 1.35,
+          "quantity": 51,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Desert Eagle | Meteorite (Field-Tested)",
+        "price": {
+          "min": 1.07,
+          "max": 36.01,
+          "mean": 7.92,
+          "median": 1.49,
+          "suggested": 1.25,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Desert Eagle | Meteorite (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Desert Eagle | Meteorite (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Desert Eagle | Meteorite (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:27.987Z"
+}

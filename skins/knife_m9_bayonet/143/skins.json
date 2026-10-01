@@ -1,0 +1,225 @@
+{
+  "id": "skin-8e3dc7a7458c",
+  "name": "★ M9 Bayonet | Urban Masked",
+  "paint_index": "143",
+  "weapon": {
+    "id": "weapon_knife_m9_bayonet",
+    "weapon_id": 508,
+    "name": "M9 Bayonet",
+    "slug": "knife_m9_bayonet"
+  },
+  "pattern": {
+    "id": "sp_tape_urban",
+    "name": "Urban Masked"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This is the M-9 bayonet.  Originally intended to be mounted on a rifle, it is also well suited to close-quarters combat. It has been spray-painted using a tangle of masking tape as a stencil.\\n\\n<i>True power is demonstrated with subtle application</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 466.77,
+      "max": 466.77,
+      "mean": 466.77,
+      "median": 466.77,
+      "suggested": 489.69,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 369.88,
+      "max": 372.95,
+      "mean": 371.42,
+      "median": 371.42,
+      "suggested": 418.07,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1166.94,
+      "max": 1166.94,
+      "mean": 1166.94,
+      "median": 1166.94,
+      "suggested": 406.35,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 386.91,
+      "max": 409.17,
+      "mean": 398.04,
+      "median": 398.04,
+      "suggested": 447.79,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ M9 Bayonet | Urban Masked (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ M9 Bayonet | Urban Masked (Minimal Wear)",
+      "price": {
+        "min": 466.77,
+        "max": 466.77,
+        "mean": 466.77,
+        "median": 466.77,
+        "suggested": 489.69,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ M9 Bayonet | Urban Masked (Field-Tested)",
+      "price": {
+        "min": 369.88,
+        "max": 372.95,
+        "mean": 371.42,
+        "median": 371.42,
+        "suggested": 418.07,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ M9 Bayonet | Urban Masked (Well-Worn)",
+      "price": {
+        "min": 1166.94,
+        "max": 1166.94,
+        "mean": 1166.94,
+        "median": 1166.94,
+        "suggested": 406.35,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ M9 Bayonet | Urban Masked (Battle-Scarred)",
+      "price": {
+        "min": 386.91,
+        "max": 409.17,
+        "mean": 398.04,
+        "median": 398.04,
+        "suggested": 447.79,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ M9 Bayonet | Urban Masked (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ M9 Bayonet | Urban Masked (Minimal Wear)",
+        "price": {
+          "min": 466.77,
+          "max": 466.77,
+          "mean": 466.77,
+          "median": 466.77,
+          "suggested": 489.69,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ M9 Bayonet | Urban Masked (Field-Tested)",
+        "price": {
+          "min": 369.88,
+          "max": 372.95,
+          "mean": 371.42,
+          "median": 371.42,
+          "suggested": 418.07,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ M9 Bayonet | Urban Masked (Well-Worn)",
+        "price": {
+          "min": 1166.94,
+          "max": 1166.94,
+          "mean": 1166.94,
+          "median": 1166.94,
+          "suggested": 406.35,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ M9 Bayonet | Urban Masked (Battle-Scarred)",
+        "price": {
+          "min": 386.91,
+          "max": 409.17,
+          "mean": 398.04,
+          "median": 398.04,
+          "suggested": 447.79,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Urban Masked (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Urban Masked (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Urban Masked (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Urban Masked (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Urban Masked (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:36.800Z"
+}

@@ -1,0 +1,249 @@
+{
+  "id": "skin-9abf6c56653a",
+  "name": "Dual Berettas | BorDeux",
+  "paint_index": "1335",
+  "weapon": {
+    "id": "weapon_elite",
+    "weapon_id": 2,
+    "name": "Dual Berettas",
+    "slug": "elite"
+  },
+  "pattern": {
+    "id": "soch_acrylic_grips",
+    "name": "BorDeux"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. These Dual Berettas have been painted gunmetal grey. The grips have been painted a plum-colored purple.\\n\\n<i>Table for two?</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.14,
+      "max": 16.19,
+      "mean": 1.47,
+      "median": 0.63,
+      "suggested": 0.1,
+      "quantity": 60,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.02,
+      "max": 2.33,
+      "mean": 0.13,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 404,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.02,
+      "max": 4.07,
+      "mean": 0.05,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 1206,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.02,
+      "max": 0.23,
+      "mean": 0.05,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 49,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.02,
+      "max": 1.1,
+      "mean": 0.05,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 264,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Dual Berettas | BorDeux (Factory New)",
+      "price": {
+        "min": 0.14,
+        "max": 16.19,
+        "mean": 1.47,
+        "median": 0.63,
+        "suggested": 0.1,
+        "quantity": 60,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Dual Berettas | BorDeux (Minimal Wear)",
+      "price": {
+        "min": 0.02,
+        "max": 2.33,
+        "mean": 0.13,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 404,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Dual Berettas | BorDeux (Field-Tested)",
+      "price": {
+        "min": 0.02,
+        "max": 4.07,
+        "mean": 0.05,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 1206,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Dual Berettas | BorDeux (Well-Worn)",
+      "price": {
+        "min": 0.02,
+        "max": 0.23,
+        "mean": 0.05,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 49,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Dual Berettas | BorDeux (Battle-Scarred)",
+      "price": {
+        "min": 0.02,
+        "max": 1.1,
+        "mean": 0.05,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 264,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Dual Berettas | BorDeux (Factory New)",
+        "price": {
+          "min": 0.14,
+          "max": 16.19,
+          "mean": 1.47,
+          "median": 0.63,
+          "suggested": 0.1,
+          "quantity": 60,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Dual Berettas | BorDeux (Minimal Wear)",
+        "price": {
+          "min": 0.02,
+          "max": 2.33,
+          "mean": 0.13,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 404,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Dual Berettas | BorDeux (Field-Tested)",
+        "price": {
+          "min": 0.02,
+          "max": 4.07,
+          "mean": 0.05,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 1206,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Dual Berettas | BorDeux (Well-Worn)",
+        "price": {
+          "min": 0.02,
+          "max": 0.23,
+          "mean": 0.05,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 49,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Dual Berettas | BorDeux (Battle-Scarred)",
+        "price": {
+          "min": 0.02,
+          "max": 1.1,
+          "mean": 0.05,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 264,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Dual Berettas | BorDeux (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Dual Berettas | BorDeux (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Dual Berettas | BorDeux (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Dual Berettas | BorDeux (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Dual Berettas | BorDeux (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:29.099Z"
+}

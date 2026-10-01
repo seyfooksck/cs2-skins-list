@@ -1,0 +1,310 @@
+{
+  "id": "skin-0fbe55711fa6",
+  "name": "USP-S | PC-GRN",
+  "paint_index": "1186",
+  "weapon": {
+    "id": "weapon_usp_silencer",
+    "weapon_id": 61,
+    "name": "USP-S",
+    "slug": "usp_silencer"
+  },
+  "pattern": {
+    "id": "usps_bruteforce_green",
+    "name": "PC-GRN"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.9,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise. It has been custom painted with a minty green and silver-colored design.\\n\\n<i>The Glass of Fate is half-full</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.52,
+      "max": 41.25,
+      "mean": 5.65,
+      "median": 4.48,
+      "suggested": 2.34,
+      "quantity": 110,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.2,
+      "max": 204.82,
+      "mean": 0.9,
+      "median": 0.33,
+      "suggested": 0.29,
+      "quantity": 668,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.08,
+      "max": 7.59,
+      "mean": 0.27,
+      "median": 0.16,
+      "suggested": 0.14,
+      "quantity": 1427,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.09,
+      "max": 6.15,
+      "mean": 0.3,
+      "median": 0.16,
+      "suggested": 0.14,
+      "quantity": 362,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.09,
+      "max": 75.76,
+      "mean": 0.42,
+      "median": 0.15,
+      "suggested": 0.13,
+      "quantity": 430,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "USP-S | PC-GRN (Factory New)",
+      "price": {
+        "min": 1.52,
+        "max": 41.25,
+        "mean": 5.65,
+        "median": 4.48,
+        "suggested": 2.34,
+        "quantity": 110,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "USP-S | PC-GRN (Minimal Wear)",
+      "price": {
+        "min": 0.2,
+        "max": 204.82,
+        "mean": 0.9,
+        "median": 0.33,
+        "suggested": 0.29,
+        "quantity": 668,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "USP-S | PC-GRN (Field-Tested)",
+      "price": {
+        "min": 0.08,
+        "max": 7.59,
+        "mean": 0.27,
+        "median": 0.16,
+        "suggested": 0.14,
+        "quantity": 1427,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "USP-S | PC-GRN (Well-Worn)",
+      "price": {
+        "min": 0.09,
+        "max": 6.15,
+        "mean": 0.3,
+        "median": 0.16,
+        "suggested": 0.14,
+        "quantity": 362,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "USP-S | PC-GRN (Battle-Scarred)",
+      "price": {
+        "min": 0.09,
+        "max": 75.76,
+        "mean": 0.42,
+        "median": 0.15,
+        "suggested": 0.13,
+        "quantity": 430,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "USP-S | PC-GRN (Factory New)",
+        "price": {
+          "min": 1.52,
+          "max": 41.25,
+          "mean": 5.65,
+          "median": 4.48,
+          "suggested": 2.34,
+          "quantity": 110,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "USP-S | PC-GRN (Minimal Wear)",
+        "price": {
+          "min": 0.2,
+          "max": 204.82,
+          "mean": 0.9,
+          "median": 0.33,
+          "suggested": 0.29,
+          "quantity": 668,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "USP-S | PC-GRN (Field-Tested)",
+        "price": {
+          "min": 0.08,
+          "max": 7.59,
+          "mean": 0.27,
+          "median": 0.16,
+          "suggested": 0.14,
+          "quantity": 1427,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "USP-S | PC-GRN (Well-Worn)",
+        "price": {
+          "min": 0.09,
+          "max": 6.15,
+          "mean": 0.3,
+          "median": 0.16,
+          "suggested": 0.14,
+          "quantity": 362,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "USP-S | PC-GRN (Battle-Scarred)",
+        "price": {
+          "min": 0.09,
+          "max": 75.76,
+          "mean": 0.42,
+          "median": 0.15,
+          "suggested": 0.13,
+          "quantity": 430,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ USP-S | PC-GRN (Factory New)",
+        "price": {
+          "min": 4.03,
+          "max": 35.01,
+          "mean": 11.61,
+          "median": 9.34,
+          "suggested": 4.49,
+          "quantity": 91,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ USP-S | PC-GRN (Minimal Wear)",
+        "price": {
+          "min": 0.7,
+          "max": 71.77,
+          "mean": 1.87,
+          "median": 1.05,
+          "suggested": 0.82,
+          "quantity": 219,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ USP-S | PC-GRN (Field-Tested)",
+        "price": {
+          "min": 0.2,
+          "max": 14.34,
+          "mean": 0.63,
+          "median": 0.46,
+          "suggested": 0.27,
+          "quantity": 404,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ USP-S | PC-GRN (Well-Worn)",
+        "price": {
+          "min": 0.21,
+          "max": 1.58,
+          "mean": 0.47,
+          "median": 0.48,
+          "suggested": 0.24,
+          "quantity": 128,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ USP-S | PC-GRN (Battle-Scarred)",
+        "price": {
+          "min": 0.18,
+          "max": 0.83,
+          "mean": 0.46,
+          "median": 0.46,
+          "suggested": 0.24,
+          "quantity": 170,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir USP-S | PC-GRN (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir USP-S | PC-GRN (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir USP-S | PC-GRN (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir USP-S | PC-GRN (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir USP-S | PC-GRN (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:50.915Z"
+}

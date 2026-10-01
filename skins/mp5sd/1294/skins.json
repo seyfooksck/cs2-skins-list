@@ -1,0 +1,249 @@
+{
+  "id": "skin-279e913dd981",
+  "name": "MP5-SD | Gold Leaf",
+  "paint_index": "1294",
+  "weapon": {
+    "id": "weapon_mp5sd",
+    "weapon_id": 23,
+    "name": "MP5-SD",
+    "slug": "mp5sd"
+  },
+  "pattern": {
+    "id": "hye_gold_camo",
+    "name": "Gold Leaf"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. A green and gold hydrographic camo pattern has been applied.\\n\\n<i>\\\"Can you take that outside?\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.67,
+      "max": 175.62,
+      "mean": 9.57,
+      "median": 2.08,
+      "suggested": 0.83,
+      "quantity": 32,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.28,
+      "max": 2.52,
+      "mean": 1.32,
+      "median": 1.3,
+      "suggested": 0.35,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.11,
+      "max": 3.44,
+      "mean": 0.3,
+      "median": 0.13,
+      "suggested": 0.13,
+      "quantity": 36,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.11,
+      "max": 0.21,
+      "mean": 0.15,
+      "median": 0.14,
+      "suggested": 0.13,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.09,
+      "max": 0.42,
+      "mean": 0.18,
+      "median": 0.14,
+      "suggested": 0.12,
+      "quantity": 7,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP5-SD | Gold Leaf (Factory New)",
+      "price": {
+        "min": 0.67,
+        "max": 175.62,
+        "mean": 9.57,
+        "median": 2.08,
+        "suggested": 0.83,
+        "quantity": 32,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP5-SD | Gold Leaf (Minimal Wear)",
+      "price": {
+        "min": 0.28,
+        "max": 2.52,
+        "mean": 1.32,
+        "median": 1.3,
+        "suggested": 0.35,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP5-SD | Gold Leaf (Field-Tested)",
+      "price": {
+        "min": 0.11,
+        "max": 3.44,
+        "mean": 0.3,
+        "median": 0.13,
+        "suggested": 0.13,
+        "quantity": 36,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP5-SD | Gold Leaf (Well-Worn)",
+      "price": {
+        "min": 0.11,
+        "max": 0.21,
+        "mean": 0.15,
+        "median": 0.14,
+        "suggested": 0.13,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP5-SD | Gold Leaf (Battle-Scarred)",
+      "price": {
+        "min": 0.09,
+        "max": 0.42,
+        "mean": 0.18,
+        "median": 0.14,
+        "suggested": 0.12,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP5-SD | Gold Leaf (Factory New)",
+        "price": {
+          "min": 0.67,
+          "max": 175.62,
+          "mean": 9.57,
+          "median": 2.08,
+          "suggested": 0.83,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP5-SD | Gold Leaf (Minimal Wear)",
+        "price": {
+          "min": 0.28,
+          "max": 2.52,
+          "mean": 1.32,
+          "median": 1.3,
+          "suggested": 0.35,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP5-SD | Gold Leaf (Field-Tested)",
+        "price": {
+          "min": 0.11,
+          "max": 3.44,
+          "mean": 0.3,
+          "median": 0.13,
+          "suggested": 0.13,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP5-SD | Gold Leaf (Well-Worn)",
+        "price": {
+          "min": 0.11,
+          "max": 0.21,
+          "mean": 0.15,
+          "median": 0.14,
+          "suggested": 0.13,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP5-SD | Gold Leaf (Battle-Scarred)",
+        "price": {
+          "min": 0.09,
+          "max": 0.42,
+          "mean": 0.18,
+          "median": 0.14,
+          "suggested": 0.12,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP5-SD | Gold Leaf (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP5-SD | Gold Leaf (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP5-SD | Gold Leaf (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP5-SD | Gold Leaf (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP5-SD | Gold Leaf (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.822Z"
+}

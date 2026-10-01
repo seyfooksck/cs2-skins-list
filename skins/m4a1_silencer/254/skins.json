@@ -1,0 +1,257 @@
+{
+  "id": "skin-42f5954907eb",
+  "name": "M4A1-S | Nitro",
+  "paint_index": "254",
+  "weapon": {
+    "id": "weapon_m4a1_silencer",
+    "weapon_id": 60,
+    "name": "M4A1-S",
+    "slug": "m4a1_silencer"
+  },
+  "pattern": {
+    "id": "so_orange_accents",
+    "name": "Nitro"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. It has individual parts spray-painted black and tangerine orange.\\n\\n<i>Rona is as good as she thinks she is... she's just not old enough to realize she shouldn't point it out to everyone - Felix Riley, Commanding Officer</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 19.36,
+      "max": 1400.32,
+      "mean": 94.34,
+      "median": 33.86,
+      "suggested": 30.85,
+      "quantity": 116,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.55,
+      "max": 250.77,
+      "mean": 9.7,
+      "median": 5.5,
+      "suggested": 1.81,
+      "quantity": 190,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.39,
+      "max": 787.68,
+      "mean": 5.05,
+      "median": 1.06,
+      "suggested": 0.55,
+      "quantity": 615,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.41,
+      "max": 246.88,
+      "mean": 3.83,
+      "median": 0.61,
+      "suggested": 0.54,
+      "quantity": 160,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.35,
+      "max": 122.53,
+      "mean": 1.74,
+      "median": 0.51,
+      "suggested": 0.52,
+      "quantity": 319,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A1-S | Nitro (Factory New)",
+      "price": {
+        "min": 19.36,
+        "max": 1400.32,
+        "mean": 94.34,
+        "median": 33.86,
+        "suggested": 30.85,
+        "quantity": 116,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A1-S | Nitro (Minimal Wear)",
+      "price": {
+        "min": 1.55,
+        "max": 250.77,
+        "mean": 9.7,
+        "median": 5.5,
+        "suggested": 1.81,
+        "quantity": 190,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A1-S | Nitro (Field-Tested)",
+      "price": {
+        "min": 0.39,
+        "max": 787.68,
+        "mean": 5.05,
+        "median": 1.06,
+        "suggested": 0.55,
+        "quantity": 615,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M4A1-S | Nitro (Well-Worn)",
+      "price": {
+        "min": 0.41,
+        "max": 246.88,
+        "mean": 3.83,
+        "median": 0.61,
+        "suggested": 0.54,
+        "quantity": 160,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M4A1-S | Nitro (Battle-Scarred)",
+      "price": {
+        "min": 0.35,
+        "max": 122.53,
+        "mean": 1.74,
+        "median": 0.51,
+        "suggested": 0.52,
+        "quantity": 319,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A1-S | Nitro (Factory New)",
+        "price": {
+          "min": 19.36,
+          "max": 1400.32,
+          "mean": 94.34,
+          "median": 33.86,
+          "suggested": 30.85,
+          "quantity": 116,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A1-S | Nitro (Minimal Wear)",
+        "price": {
+          "min": 1.55,
+          "max": 250.77,
+          "mean": 9.7,
+          "median": 5.5,
+          "suggested": 1.81,
+          "quantity": 190,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A1-S | Nitro (Field-Tested)",
+        "price": {
+          "min": 0.39,
+          "max": 787.68,
+          "mean": 5.05,
+          "median": 1.06,
+          "suggested": 0.55,
+          "quantity": 615,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M4A1-S | Nitro (Well-Worn)",
+        "price": {
+          "min": 0.41,
+          "max": 246.88,
+          "mean": 3.83,
+          "median": 0.61,
+          "suggested": 0.54,
+          "quantity": 160,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M4A1-S | Nitro (Battle-Scarred)",
+        "price": {
+          "min": 0.35,
+          "max": 122.53,
+          "mean": 1.74,
+          "median": 0.51,
+          "suggested": 0.52,
+          "quantity": 319,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A1-S | Nitro (Factory New)",
+        "price": {
+          "min": 92.19,
+          "max": 92.19,
+          "mean": 92.19,
+          "median": 92.19,
+          "suggested": 50.37,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A1-S | Nitro (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A1-S | Nitro (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M4A1-S | Nitro (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M4A1-S | Nitro (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.254Z"
+}

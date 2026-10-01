@@ -1,0 +1,289 @@
+{
+  "id": "skin-16430ed7568b",
+  "name": "AK-47 | B the Monster",
+  "paint_index": "142",
+  "weapon": {
+    "id": "weapon_ak47",
+    "weapon_id": 7,
+    "name": "AK-47",
+    "slug": "ak47"
+  },
+  "pattern": {
+    "id": "cu_overpass_monster_ak47",
+    "name": "B the Monster"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.8,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. It has been custom painted with graffiti from the monster tunnel on Overpass and is finished with metallic silver and gold accents.\\n\\n<i>There's no turning back now…</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 406.09,
+      "max": 1772.43,
+      "mean": 952.4,
+      "median": 880.03,
+      "suggested": 505.67,
+      "quantity": 22,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 184.38,
+      "max": 2332.71,
+      "mean": 445,
+      "median": 291.99,
+      "suggested": 280.35,
+      "quantity": 58,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 110.86,
+      "max": 11027.44,
+      "mean": 369.24,
+      "median": 176.21,
+      "suggested": 153.4,
+      "quantity": 92,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 117.01,
+      "max": 275.11,
+      "mean": 188.46,
+      "median": 156.63,
+      "suggested": 123.99,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 64.18,
+      "max": 634.21,
+      "mean": 116.36,
+      "median": 80.81,
+      "suggested": 88.73,
+      "quantity": 20,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AK-47 | B the Monster (Factory New)",
+      "price": {
+        "min": 406.09,
+        "max": 1772.43,
+        "mean": 952.4,
+        "median": 880.03,
+        "suggested": 505.67,
+        "quantity": 22,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AK-47 | B the Monster (Minimal Wear)",
+      "price": {
+        "min": 184.38,
+        "max": 2332.71,
+        "mean": 445,
+        "median": 291.99,
+        "suggested": 280.35,
+        "quantity": 58,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AK-47 | B the Monster (Field-Tested)",
+      "price": {
+        "min": 110.86,
+        "max": 11027.44,
+        "mean": 369.24,
+        "median": 176.21,
+        "suggested": 153.4,
+        "quantity": 92,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AK-47 | B the Monster (Well-Worn)",
+      "price": {
+        "min": 117.01,
+        "max": 275.11,
+        "mean": 188.46,
+        "median": 156.63,
+        "suggested": 123.99,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AK-47 | B the Monster (Battle-Scarred)",
+      "price": {
+        "min": 64.18,
+        "max": 634.21,
+        "mean": 116.36,
+        "median": 80.81,
+        "suggested": 88.73,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AK-47 | B the Monster (Factory New)",
+        "price": {
+          "min": 406.09,
+          "max": 1772.43,
+          "mean": 952.4,
+          "median": 880.03,
+          "suggested": 505.67,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AK-47 | B the Monster (Minimal Wear)",
+        "price": {
+          "min": 184.38,
+          "max": 2332.71,
+          "mean": 445,
+          "median": 291.99,
+          "suggested": 280.35,
+          "quantity": 58,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AK-47 | B the Monster (Field-Tested)",
+        "price": {
+          "min": 110.86,
+          "max": 11027.44,
+          "mean": 369.24,
+          "median": 176.21,
+          "suggested": 153.4,
+          "quantity": 92,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AK-47 | B the Monster (Well-Worn)",
+        "price": {
+          "min": 117.01,
+          "max": 275.11,
+          "mean": 188.46,
+          "median": 156.63,
+          "suggested": 123.99,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AK-47 | B the Monster (Battle-Scarred)",
+        "price": {
+          "min": 64.18,
+          "max": 634.21,
+          "mean": 116.36,
+          "median": 80.81,
+          "suggested": 88.73,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AK-47 | B the Monster (Factory New)",
+        "price": {
+          "min": 583.47,
+          "max": 583.47,
+          "mean": 583.47,
+          "median": 583.47,
+          "suggested": 727.81,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AK-47 | B the Monster (Minimal Wear)",
+        "price": {
+          "min": 379.25,
+          "max": 614.49,
+          "mean": 458.09,
+          "median": 380.53,
+          "suggested": 393.93,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AK-47 | B the Monster (Field-Tested)",
+        "price": {
+          "min": 361.74,
+          "max": 361.74,
+          "mean": 361.74,
+          "median": 361.74,
+          "suggested": 194.33,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AK-47 | B the Monster (Well-Worn)",
+        "price": {
+          "min": 245.06,
+          "max": 245.06,
+          "mean": 245.06,
+          "median": 245.06,
+          "suggested": 205.92,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AK-47 | B the Monster (Battle-Scarred)",
+        "price": {
+          "min": 268.4,
+          "max": 268.4,
+          "mean": 268.4,
+          "median": 268.4,
+          "suggested": 116,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:20:20.722Z"
+}

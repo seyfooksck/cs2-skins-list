@@ -1,0 +1,169 @@
+{
+  "id": "skin-4e5b581684d4",
+  "name": "Glock-18 | Candy Apple",
+  "paint_index": "3",
+  "weapon": {
+    "id": "weapon_glock",
+    "weapon_id": 4,
+    "name": "Glock-18",
+    "slug": "glock"
+  },
+  "pattern": {
+    "id": "so_red",
+    "name": "Candy Apple"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.3,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. It has individual parts spray-painted solid colors in a red and black color scheme.\\n\\n<i>Great on cars, better on weapons</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.47,
+      "max": 1476.18,
+      "mean": 15.22,
+      "median": 5.79,
+      "suggested": 3.1,
+      "quantity": 884,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.42,
+      "max": 688.76,
+      "mean": 6.42,
+      "median": 2.49,
+      "suggested": 1.74,
+      "quantity": 715,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.19,
+      "max": 21.64,
+      "mean": 2.47,
+      "median": 2.19,
+      "suggested": 1.57,
+      "quantity": 173,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Glock-18 | Candy Apple (Factory New)",
+      "price": {
+        "min": 2.47,
+        "max": 1476.18,
+        "mean": 15.22,
+        "median": 5.79,
+        "suggested": 3.1,
+        "quantity": 884,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Glock-18 | Candy Apple (Minimal Wear)",
+      "price": {
+        "min": 1.42,
+        "max": 688.76,
+        "mean": 6.42,
+        "median": 2.49,
+        "suggested": 1.74,
+        "quantity": 715,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Glock-18 | Candy Apple (Field-Tested)",
+      "price": {
+        "min": 1.19,
+        "max": 21.64,
+        "mean": 2.47,
+        "median": 2.19,
+        "suggested": 1.57,
+        "quantity": 173,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Glock-18 | Candy Apple (Factory New)",
+        "price": {
+          "min": 2.47,
+          "max": 1476.18,
+          "mean": 15.22,
+          "median": 5.79,
+          "suggested": 3.1,
+          "quantity": 884,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Glock-18 | Candy Apple (Minimal Wear)",
+        "price": {
+          "min": 1.42,
+          "max": 688.76,
+          "mean": 6.42,
+          "median": 2.49,
+          "suggested": 1.74,
+          "quantity": 715,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Glock-18 | Candy Apple (Field-Tested)",
+        "price": {
+          "min": 1.19,
+          "max": 21.64,
+          "mean": 2.47,
+          "median": 2.19,
+          "suggested": 1.57,
+          "quantity": 173,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Glock-18 | Candy Apple (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Glock-18 | Candy Apple (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Glock-18 | Candy Apple (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:32.232Z"
+}

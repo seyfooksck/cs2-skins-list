@@ -1,0 +1,201 @@
+{
+  "id": "skin-6e5532fe3b91",
+  "name": "AWP | Sovereign Flame",
+  "paint_index": "1465",
+  "weapon": {
+    "id": "weapon_awp",
+    "weapon_id": 9,
+    "name": "AWP",
+    "slug": "awp"
+  },
+  "pattern": {
+    "id": "awp_sovereign_flame",
+    "name": "Sovereign Flame"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted with a golden scope and flames running the length of the weapon.\\n\\n<i>The exalted won</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 315.07,
+      "max": 583.91,
+      "mean": 426.5,
+      "median": 408.43,
+      "suggested": 268.05,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 197.21,
+      "max": 317.1,
+      "mean": 244.2,
+      "median": 238.13,
+      "suggested": 282.14,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 181.09,
+      "max": 350.68,
+      "mean": 290.25,
+      "median": 339.01,
+      "suggested": 175.11,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AWP | Sovereign Flame (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AWP | Sovereign Flame (Minimal Wear)",
+      "price": {
+        "min": 315.07,
+        "max": 583.91,
+        "mean": 426.5,
+        "median": 408.43,
+        "suggested": 268.05,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AWP | Sovereign Flame (Field-Tested)",
+      "price": {
+        "min": 197.21,
+        "max": 317.1,
+        "mean": 244.2,
+        "median": 238.13,
+        "suggested": 282.14,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AWP | Sovereign Flame (Well-Worn)",
+      "price": {
+        "min": 181.09,
+        "max": 350.68,
+        "mean": 290.25,
+        "median": 339.01,
+        "suggested": 175.11,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AWP | Sovereign Flame (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AWP | Sovereign Flame (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "AWP | Sovereign Flame (Minimal Wear)",
+        "price": {
+          "min": 315.07,
+          "max": 583.91,
+          "mean": 426.5,
+          "median": 408.43,
+          "suggested": 268.05,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AWP | Sovereign Flame (Field-Tested)",
+        "price": {
+          "min": 197.21,
+          "max": 317.1,
+          "mean": 244.2,
+          "median": 238.13,
+          "suggested": 282.14,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AWP | Sovereign Flame (Well-Worn)",
+        "price": {
+          "min": 181.09,
+          "max": 350.68,
+          "mean": 290.25,
+          "median": 339.01,
+          "suggested": 175.11,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AWP | Sovereign Flame (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AWP | Sovereign Flame (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AWP | Sovereign Flame (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AWP | Sovereign Flame (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AWP | Sovereign Flame (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AWP | Sovereign Flame (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.892Z"
+}

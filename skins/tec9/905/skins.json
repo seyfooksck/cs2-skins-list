@@ -1,0 +1,310 @@
+{
+  "id": "skin-e796c9afdfc3",
+  "name": "Tec-9 | Flash Out",
+  "paint_index": "905",
+  "weapon": {
+    "id": "weapon_tec9",
+    "weapon_id": 30,
+    "name": "Tec-9",
+    "slug": "tec9"
+  },
+  "pattern": {
+    "id": "cu_tec9_flash",
+    "name": "Flash Out"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity. It has been custom painted to resemble a flashbang grenade.\\n\\n<i>Re: Dance lessons with Jordan</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 10.22,
+      "max": 35,
+      "mean": 16.16,
+      "median": 12.16,
+      "suggested": 12.66,
+      "quantity": 32,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.44,
+      "max": 11.66,
+      "mean": 0.89,
+      "median": 0.49,
+      "suggested": 0.59,
+      "quantity": 33,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.36,
+      "max": 7.81,
+      "mean": 0.88,
+      "median": 0.5,
+      "suggested": 0.51,
+      "quantity": 140,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.41,
+      "max": 9.92,
+      "mean": 4.88,
+      "median": 7.22,
+      "suggested": 0.45,
+      "quantity": 13,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.23,
+      "max": 8.81,
+      "mean": 0.82,
+      "median": 0.78,
+      "suggested": 0.35,
+      "quantity": 48,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Tec-9 | Flash Out (Factory New)",
+      "price": {
+        "min": 10.22,
+        "max": 35,
+        "mean": 16.16,
+        "median": 12.16,
+        "suggested": 12.66,
+        "quantity": 32,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Tec-9 | Flash Out (Minimal Wear)",
+      "price": {
+        "min": 0.44,
+        "max": 11.66,
+        "mean": 0.89,
+        "median": 0.49,
+        "suggested": 0.59,
+        "quantity": 33,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Tec-9 | Flash Out (Field-Tested)",
+      "price": {
+        "min": 0.36,
+        "max": 7.81,
+        "mean": 0.88,
+        "median": 0.5,
+        "suggested": 0.51,
+        "quantity": 140,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Tec-9 | Flash Out (Well-Worn)",
+      "price": {
+        "min": 0.41,
+        "max": 9.92,
+        "mean": 4.88,
+        "median": 7.22,
+        "suggested": 0.45,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Tec-9 | Flash Out (Battle-Scarred)",
+      "price": {
+        "min": 0.23,
+        "max": 8.81,
+        "mean": 0.82,
+        "median": 0.78,
+        "suggested": 0.35,
+        "quantity": 48,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Tec-9 | Flash Out (Factory New)",
+        "price": {
+          "min": 10.22,
+          "max": 35,
+          "mean": 16.16,
+          "median": 12.16,
+          "suggested": 12.66,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Tec-9 | Flash Out (Minimal Wear)",
+        "price": {
+          "min": 0.44,
+          "max": 11.66,
+          "mean": 0.89,
+          "median": 0.49,
+          "suggested": 0.59,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Tec-9 | Flash Out (Field-Tested)",
+        "price": {
+          "min": 0.36,
+          "max": 7.81,
+          "mean": 0.88,
+          "median": 0.5,
+          "suggested": 0.51,
+          "quantity": 140,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Tec-9 | Flash Out (Well-Worn)",
+        "price": {
+          "min": 0.41,
+          "max": 9.92,
+          "mean": 4.88,
+          "median": 7.22,
+          "suggested": 0.45,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Tec-9 | Flash Out (Battle-Scarred)",
+        "price": {
+          "min": 0.23,
+          "max": 8.81,
+          "mean": 0.82,
+          "median": 0.78,
+          "suggested": 0.35,
+          "quantity": 48,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Tec-9 | Flash Out (Factory New)",
+        "price": {
+          "min": 1.81,
+          "max": 21.64,
+          "mean": 5.71,
+          "median": 2.18,
+          "suggested": 2.39,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Tec-9 | Flash Out (Minimal Wear)",
+        "price": {
+          "min": 0.67,
+          "max": 1.48,
+          "mean": 0.84,
+          "median": 0.92,
+          "suggested": 0.85,
+          "quantity": 63,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Tec-9 | Flash Out (Field-Tested)",
+        "price": {
+          "min": 0.27,
+          "max": 1.56,
+          "mean": 0.5,
+          "median": 0.39,
+          "suggested": 0.35,
+          "quantity": 111,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Tec-9 | Flash Out (Well-Worn)",
+        "price": {
+          "min": 0.4,
+          "max": 1.16,
+          "mean": 0.77,
+          "median": 0.88,
+          "suggested": 0.45,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Tec-9 | Flash Out (Battle-Scarred)",
+        "price": {
+          "min": 0.23,
+          "max": 0.46,
+          "mean": 0.29,
+          "median": 0.28,
+          "suggested": 0.35,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Tec-9 | Flash Out (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Tec-9 | Flash Out (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Tec-9 | Flash Out (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Tec-9 | Flash Out (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Tec-9 | Flash Out (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.170Z"
+}

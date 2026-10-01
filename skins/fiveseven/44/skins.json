@@ -1,0 +1,310 @@
+{
+  "id": "skin-133e4c36778f",
+  "name": "Five-SeveN | Case Hardened",
+  "paint_index": "44",
+  "weapon": {
+    "id": "weapon_fiveseven",
+    "weapon_id": 3,
+    "name": "Five-SeveN",
+    "slug": "fiveseven"
+  },
+  "pattern": {
+    "id": "aq_oiled",
+    "name": "Case Hardened"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. It has been color case-hardened through the application of wood charcoal at high temperatures.\\n\\n<i>A little color never hurt anyone</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 52.51,
+      "max": 3213.75,
+      "mean": 162.75,
+      "median": 79.35,
+      "suggested": 75.27,
+      "quantity": 47,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 17.76,
+      "max": 389.29,
+      "mean": 44.26,
+      "median": 29.17,
+      "suggested": 23.11,
+      "quantity": 53,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 12.81,
+      "max": 769.79,
+      "mean": 47.62,
+      "median": 25.77,
+      "suggested": 17.07,
+      "quantity": 75,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 13.08,
+      "max": 149.37,
+      "mean": 33.26,
+      "median": 24.65,
+      "suggested": 15.38,
+      "quantity": 18,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 12.73,
+      "max": 116.69,
+      "mean": 42,
+      "median": 31.08,
+      "suggested": 13.92,
+      "quantity": 17,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Five-SeveN | Case Hardened (Factory New)",
+      "price": {
+        "min": 52.51,
+        "max": 3213.75,
+        "mean": 162.75,
+        "median": 79.35,
+        "suggested": 75.27,
+        "quantity": 47,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Five-SeveN | Case Hardened (Minimal Wear)",
+      "price": {
+        "min": 17.76,
+        "max": 389.29,
+        "mean": 44.26,
+        "median": 29.17,
+        "suggested": 23.11,
+        "quantity": 53,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Five-SeveN | Case Hardened (Field-Tested)",
+      "price": {
+        "min": 12.81,
+        "max": 769.79,
+        "mean": 47.62,
+        "median": 25.77,
+        "suggested": 17.07,
+        "quantity": 75,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Five-SeveN | Case Hardened (Well-Worn)",
+      "price": {
+        "min": 13.08,
+        "max": 149.37,
+        "mean": 33.26,
+        "median": 24.65,
+        "suggested": 15.38,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Five-SeveN | Case Hardened (Battle-Scarred)",
+      "price": {
+        "min": 12.73,
+        "max": 116.69,
+        "mean": 42,
+        "median": 31.08,
+        "suggested": 13.92,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Five-SeveN | Case Hardened (Factory New)",
+        "price": {
+          "min": 52.51,
+          "max": 3213.75,
+          "mean": 162.75,
+          "median": 79.35,
+          "suggested": 75.27,
+          "quantity": 47,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Five-SeveN | Case Hardened (Minimal Wear)",
+        "price": {
+          "min": 17.76,
+          "max": 389.29,
+          "mean": 44.26,
+          "median": 29.17,
+          "suggested": 23.11,
+          "quantity": 53,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Five-SeveN | Case Hardened (Field-Tested)",
+        "price": {
+          "min": 12.81,
+          "max": 769.79,
+          "mean": 47.62,
+          "median": 25.77,
+          "suggested": 17.07,
+          "quantity": 75,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Five-SeveN | Case Hardened (Well-Worn)",
+        "price": {
+          "min": 13.08,
+          "max": 149.37,
+          "mean": 33.26,
+          "median": 24.65,
+          "suggested": 15.38,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Five-SeveN | Case Hardened (Battle-Scarred)",
+        "price": {
+          "min": 12.73,
+          "max": 116.69,
+          "mean": 42,
+          "median": 31.08,
+          "suggested": 13.92,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Case Hardened (Factory New)",
+        "price": {
+          "min": 77.15,
+          "max": 233.38,
+          "mean": 125.17,
+          "median": 97.3,
+          "suggested": 111.48,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Case Hardened (Minimal Wear)",
+        "price": {
+          "min": 38.07,
+          "max": 174.14,
+          "mean": 79.04,
+          "median": 66.28,
+          "suggested": 46.5,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Case Hardened (Field-Tested)",
+        "price": {
+          "min": 22.31,
+          "max": 2800.65,
+          "mean": 243.76,
+          "median": 49.28,
+          "suggested": 30.03,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Case Hardened (Well-Worn)",
+        "price": {
+          "min": 22.95,
+          "max": 116.69,
+          "mean": 43.19,
+          "median": 26.33,
+          "suggested": 29.42,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Case Hardened (Battle-Scarred)",
+        "price": {
+          "min": 24.09,
+          "max": 140.03,
+          "mean": 53.19,
+          "median": 34.48,
+          "suggested": 29.16,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Five-SeveN | Case Hardened (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Five-SeveN | Case Hardened (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Five-SeveN | Case Hardened (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Five-SeveN | Case Hardened (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Five-SeveN | Case Hardened (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:29.969Z"
+}

@@ -1,0 +1,241 @@
+{
+  "id": "skin-34931416e76d",
+  "name": "★ Survival Knife | Ultraviolet",
+  "paint_index": "98",
+  "weapon": {
+    "id": "weapon_knife_canis",
+    "weapon_id": 518,
+    "name": "Survival Knife",
+    "slug": "knife_canis"
+  },
+  "pattern": {
+    "id": "so_purple",
+    "name": "Ultraviolet"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has individual parts spray-painted solid colors in a black and purple color scheme.\\n\\n<i>Elegant design paired with brutal intent</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 76.64,
+      "max": 111.58,
+      "mean": 101.47,
+      "median": 108.83,
+      "suggested": 100.25,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 69.19,
+      "max": 186.7,
+      "mean": 93.05,
+      "median": 79.25,
+      "suggested": 80.92,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 79.57,
+      "max": 79.57,
+      "mean": 79.57,
+      "median": 79.57,
+      "suggested": 81.32,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 57.74,
+      "max": 65.37,
+      "mean": 61.56,
+      "median": 61.56,
+      "suggested": 77.79,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Survival Knife | Ultraviolet (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Survival Knife | Ultraviolet (Minimal Wear)",
+      "price": {
+        "min": 76.64,
+        "max": 111.58,
+        "mean": 101.47,
+        "median": 108.83,
+        "suggested": 100.25,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Survival Knife | Ultraviolet (Field-Tested)",
+      "price": {
+        "min": 69.19,
+        "max": 186.7,
+        "mean": 93.05,
+        "median": 79.25,
+        "suggested": 80.92,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Survival Knife | Ultraviolet (Well-Worn)",
+      "price": {
+        "min": 79.57,
+        "max": 79.57,
+        "mean": 79.57,
+        "median": 79.57,
+        "suggested": 81.32,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Survival Knife | Ultraviolet (Battle-Scarred)",
+      "price": {
+        "min": 57.74,
+        "max": 65.37,
+        "mean": 61.56,
+        "median": 61.56,
+        "suggested": 77.79,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Survival Knife | Ultraviolet (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Survival Knife | Ultraviolet (Minimal Wear)",
+        "price": {
+          "min": 76.64,
+          "max": 111.58,
+          "mean": 101.47,
+          "median": 108.83,
+          "suggested": 100.25,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Survival Knife | Ultraviolet (Field-Tested)",
+        "price": {
+          "min": 69.19,
+          "max": 186.7,
+          "mean": 93.05,
+          "median": 79.25,
+          "suggested": 80.92,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Survival Knife | Ultraviolet (Well-Worn)",
+        "price": {
+          "min": 79.57,
+          "max": 79.57,
+          "mean": 79.57,
+          "median": 79.57,
+          "suggested": 81.32,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Survival Knife | Ultraviolet (Battle-Scarred)",
+        "price": {
+          "min": 57.74,
+          "max": 65.37,
+          "mean": 61.56,
+          "median": 61.56,
+          "suggested": 77.79,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Ultraviolet (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Ultraviolet (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Ultraviolet (Field-Tested)",
+        "price": {
+          "min": 79,
+          "max": 153.63,
+          "mean": 111.52,
+          "median": 101.93,
+          "suggested": 93.06,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Ultraviolet (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Ultraviolet (Battle-Scarred)",
+        "price": {
+          "min": 79.7,
+          "max": 79.7,
+          "mean": 79.7,
+          "median": 79.7,
+          "suggested": 84.31,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:33.485Z"
+}

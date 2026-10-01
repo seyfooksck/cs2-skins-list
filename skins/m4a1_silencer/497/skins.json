@@ -1,0 +1,310 @@
+{
+  "id": "skin-02db706d8db0",
+  "name": "M4A1-S | Golden Coil",
+  "paint_index": "497",
+  "weapon": {
+    "id": "weapon_m4a1_silencer",
+    "weapon_id": 60,
+    "name": "M4A1-S",
+    "slug": "m4a1_silencer"
+  },
+  "pattern": {
+    "id": "gs_m4a1s_snakebite_gold",
+    "name": "Golden Coil"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. It has been painted with a hydrographic of an attacking snake.\\n\\n<i>The viper can strike from anywhere</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 241.26,
+      "max": 700.15,
+      "mean": 394.47,
+      "median": 364.82,
+      "suggested": 334.64,
+      "quantity": 22,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 99.18,
+      "max": 237.48,
+      "mean": 137.16,
+      "median": 123.77,
+      "suggested": 139.94,
+      "quantity": 86,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 67.38,
+      "max": 1166.94,
+      "mean": 101.84,
+      "median": 77.76,
+      "suggested": 86.42,
+      "quantity": 76,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 56.97,
+      "max": 180.99,
+      "mean": 72.72,
+      "median": 64.18,
+      "suggested": 71.38,
+      "quantity": 31,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 50.74,
+      "max": 97.37,
+      "mean": 65.83,
+      "median": 56.55,
+      "suggested": 64,
+      "quantity": 37,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A1-S | Golden Coil (Factory New)",
+      "price": {
+        "min": 241.26,
+        "max": 700.15,
+        "mean": 394.47,
+        "median": 364.82,
+        "suggested": 334.64,
+        "quantity": 22,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A1-S | Golden Coil (Minimal Wear)",
+      "price": {
+        "min": 99.18,
+        "max": 237.48,
+        "mean": 137.16,
+        "median": 123.77,
+        "suggested": 139.94,
+        "quantity": 86,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A1-S | Golden Coil (Field-Tested)",
+      "price": {
+        "min": 67.38,
+        "max": 1166.94,
+        "mean": 101.84,
+        "median": 77.76,
+        "suggested": 86.42,
+        "quantity": 76,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M4A1-S | Golden Coil (Well-Worn)",
+      "price": {
+        "min": 56.97,
+        "max": 180.99,
+        "mean": 72.72,
+        "median": 64.18,
+        "suggested": 71.38,
+        "quantity": 31,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M4A1-S | Golden Coil (Battle-Scarred)",
+      "price": {
+        "min": 50.74,
+        "max": 97.37,
+        "mean": 65.83,
+        "median": 56.55,
+        "suggested": 64,
+        "quantity": 37,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A1-S | Golden Coil (Factory New)",
+        "price": {
+          "min": 241.26,
+          "max": 700.15,
+          "mean": 394.47,
+          "median": 364.82,
+          "suggested": 334.64,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A1-S | Golden Coil (Minimal Wear)",
+        "price": {
+          "min": 99.18,
+          "max": 237.48,
+          "mean": 137.16,
+          "median": 123.77,
+          "suggested": 139.94,
+          "quantity": 86,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A1-S | Golden Coil (Field-Tested)",
+        "price": {
+          "min": 67.38,
+          "max": 1166.94,
+          "mean": 101.84,
+          "median": 77.76,
+          "suggested": 86.42,
+          "quantity": 76,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M4A1-S | Golden Coil (Well-Worn)",
+        "price": {
+          "min": 56.97,
+          "max": 180.99,
+          "mean": 72.72,
+          "median": 64.18,
+          "suggested": 71.38,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M4A1-S | Golden Coil (Battle-Scarred)",
+        "price": {
+          "min": 50.74,
+          "max": 97.37,
+          "mean": 65.83,
+          "median": 56.55,
+          "suggested": 64,
+          "quantity": 37,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ M4A1-S | Golden Coil (Factory New)",
+        "price": {
+          "min": 383.63,
+          "max": 521.24,
+          "mean": 429.46,
+          "median": 420.67,
+          "suggested": 444.24,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ M4A1-S | Golden Coil (Minimal Wear)",
+        "price": {
+          "min": 221.72,
+          "max": 337.47,
+          "mean": 269.33,
+          "median": 269.55,
+          "suggested": 300.71,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ M4A1-S | Golden Coil (Field-Tested)",
+        "price": {
+          "min": 140.03,
+          "max": 301.38,
+          "mean": 181.7,
+          "median": 165.89,
+          "suggested": 182.93,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ M4A1-S | Golden Coil (Well-Worn)",
+        "price": {
+          "min": 103.31,
+          "max": 163.36,
+          "mean": 133.1,
+          "median": 132.87,
+          "suggested": 134.83,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ M4A1-S | Golden Coil (Battle-Scarred)",
+        "price": {
+          "min": 106.25,
+          "max": 106.25,
+          "mean": 106.25,
+          "median": 106.25,
+          "suggested": 116.09,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A1-S | Golden Coil (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A1-S | Golden Coil (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A1-S | Golden Coil (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M4A1-S | Golden Coil (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M4A1-S | Golden Coil (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.045Z"
+}

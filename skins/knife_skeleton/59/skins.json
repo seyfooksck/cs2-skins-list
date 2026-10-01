@@ -1,0 +1,193 @@
+{
+  "id": "skin-6b5516a41499",
+  "name": "★ Skeleton Knife | Slaughter",
+  "paint_index": "59",
+  "weapon": {
+    "id": "weapon_knife_skeleton",
+    "weapon_id": 525,
+    "name": "Skeleton Knife",
+    "slug": "knife_skeleton"
+  },
+  "pattern": {
+    "id": "am_zebra",
+    "name": "Slaughter"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.01,
+  "max_float": 0.26,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This skeletonized-tang knife has been taped at the handle for improved grip. The hole allows a finger to be threaded through for stability and safety. It has been painted in a zebra-stripe pattern with aluminum and chrome paints with various reflectivities, and has then been covered with a tomato red candy coat.\\n\\n<i>Valeria doesn't pay Javier to ask questions... she pays him to pry out answers</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 435.26,
+      "max": 1442.72,
+      "mean": 592.06,
+      "median": 492.73,
+      "suggested": 513.66,
+      "quantity": 18,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 421.38,
+      "max": 1166.94,
+      "mean": 597.85,
+      "median": 487.2,
+      "suggested": 460.76,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 468.35,
+      "max": 490.11,
+      "mean": 479.24,
+      "median": 479.24,
+      "suggested": 457.27,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Skeleton Knife | Slaughter (Factory New)",
+      "price": {
+        "min": 435.26,
+        "max": 1442.72,
+        "mean": 592.06,
+        "median": 492.73,
+        "suggested": 513.66,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Skeleton Knife | Slaughter (Minimal Wear)",
+      "price": {
+        "min": 421.38,
+        "max": 1166.94,
+        "mean": 597.85,
+        "median": 487.2,
+        "suggested": 460.76,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Skeleton Knife | Slaughter (Field-Tested)",
+      "price": {
+        "min": 468.35,
+        "max": 490.11,
+        "mean": 479.24,
+        "median": 479.24,
+        "suggested": 457.27,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Skeleton Knife | Slaughter (Factory New)",
+        "price": {
+          "min": 435.26,
+          "max": 1442.72,
+          "mean": 592.06,
+          "median": 492.73,
+          "suggested": 513.66,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Skeleton Knife | Slaughter (Minimal Wear)",
+        "price": {
+          "min": 421.38,
+          "max": 1166.94,
+          "mean": 597.85,
+          "median": 487.2,
+          "suggested": 460.76,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Skeleton Knife | Slaughter (Field-Tested)",
+        "price": {
+          "min": 468.35,
+          "max": 490.11,
+          "mean": 479.24,
+          "median": 479.24,
+          "suggested": 457.27,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Skeleton Knife | Slaughter (Factory New)",
+        "price": {
+          "min": 507.1,
+          "max": 1140.1,
+          "mean": 761.88,
+          "median": 700.16,
+          "suggested": 563.98,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Skeleton Knife | Slaughter (Minimal Wear)",
+        "price": {
+          "min": 1166.94,
+          "max": 1166.94,
+          "mean": 1166.94,
+          "median": 1166.94,
+          "suggested": 479.59,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Skeleton Knife | Slaughter (Field-Tested)",
+        "price": {
+          "min": 435.07,
+          "max": 435.07,
+          "mean": 435.07,
+          "median": 435.07,
+          "suggested": 482.16,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:37.673Z"
+}

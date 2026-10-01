@@ -1,0 +1,289 @@
+{
+  "id": "skin-41f176a064d2",
+  "name": "Tec-9 | Blast From the Past",
+  "paint_index": "1024",
+  "weapon": {
+    "id": "weapon_tec9",
+    "weapon_id": 30,
+    "name": "Tec-9",
+    "slug": "tec9"
+  },
+  "pattern": {
+    "id": "hy_ancient_tiles_peach",
+    "name": "Blast From the Past"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.65,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity. A pale green and beige pattern of ancient tiles has been applied.\\n\\n<i>\\\"Hope remains, even for those began their journey down the wrong path\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 16.09,
+      "max": 81.67,
+      "mean": 53.56,
+      "median": 58.25,
+      "suggested": 15.86,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 5.99,
+      "max": 35.01,
+      "mean": 17.81,
+      "median": 12.44,
+      "suggested": 6.9,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 3.38,
+      "max": 17.57,
+      "mean": 6.37,
+      "median": 4.39,
+      "suggested": 4.57,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 12.84,
+      "max": 12.84,
+      "mean": 12.84,
+      "median": 12.84,
+      "suggested": 15.87,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 13.96,
+      "max": 15.15,
+      "mean": 14.36,
+      "median": 14,
+      "suggested": 4.67,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Tec-9 | Blast From the Past (Factory New)",
+      "price": {
+        "min": 16.09,
+        "max": 81.67,
+        "mean": 53.56,
+        "median": 58.25,
+        "suggested": 15.86,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Tec-9 | Blast From the Past (Minimal Wear)",
+      "price": {
+        "min": 5.99,
+        "max": 35.01,
+        "mean": 17.81,
+        "median": 12.44,
+        "suggested": 6.9,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Tec-9 | Blast From the Past (Field-Tested)",
+      "price": {
+        "min": 3.38,
+        "max": 17.57,
+        "mean": 6.37,
+        "median": 4.39,
+        "suggested": 4.57,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Tec-9 | Blast From the Past (Well-Worn)",
+      "price": {
+        "min": 12.84,
+        "max": 12.84,
+        "mean": 12.84,
+        "median": 12.84,
+        "suggested": 15.87,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Tec-9 | Blast From the Past (Battle-Scarred)",
+      "price": {
+        "min": 13.96,
+        "max": 15.15,
+        "mean": 14.36,
+        "median": 14,
+        "suggested": 4.67,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Tec-9 | Blast From the Past (Factory New)",
+        "price": {
+          "min": 16.09,
+          "max": 81.67,
+          "mean": 53.56,
+          "median": 58.25,
+          "suggested": 15.86,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Tec-9 | Blast From the Past (Minimal Wear)",
+        "price": {
+          "min": 5.99,
+          "max": 35.01,
+          "mean": 17.81,
+          "median": 12.44,
+          "suggested": 6.9,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Tec-9 | Blast From the Past (Field-Tested)",
+        "price": {
+          "min": 3.38,
+          "max": 17.57,
+          "mean": 6.37,
+          "median": 4.39,
+          "suggested": 4.57,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Tec-9 | Blast From the Past (Well-Worn)",
+        "price": {
+          "min": 12.84,
+          "max": 12.84,
+          "mean": 12.84,
+          "median": 12.84,
+          "suggested": 15.87,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Tec-9 | Blast From the Past (Battle-Scarred)",
+        "price": {
+          "min": 13.96,
+          "max": 15.15,
+          "mean": 14.36,
+          "median": 14,
+          "suggested": 4.67,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Tec-9 | Blast From the Past (Factory New)",
+        "price": {
+          "min": 8.23,
+          "max": 111.24,
+          "mean": 26.91,
+          "median": 16.17,
+          "suggested": 9.43,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Tec-9 | Blast From the Past (Minimal Wear)",
+        "price": {
+          "min": 5.55,
+          "max": 64.94,
+          "mean": 23.83,
+          "median": 10.79,
+          "suggested": 6.78,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Tec-9 | Blast From the Past (Field-Tested)",
+        "price": {
+          "min": 3.47,
+          "max": 20.48,
+          "mean": 6.8,
+          "median": 4.15,
+          "suggested": 4.4,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Tec-9 | Blast From the Past (Well-Worn)",
+        "price": {
+          "min": 17.5,
+          "max": 128.36,
+          "mean": 84.6,
+          "median": 96.27,
+          "suggested": 3.56,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Tec-9 | Blast From the Past (Battle-Scarred)",
+        "price": {
+          "min": 2.43,
+          "max": 3.07,
+          "mean": 2.78,
+          "median": 2.88,
+          "suggested": 3.17,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.345Z"
+}

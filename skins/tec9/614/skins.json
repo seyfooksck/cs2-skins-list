@@ -1,0 +1,310 @@
+{
+  "id": "skin-23a0601d3273",
+  "name": "Tec-9 | Fuel Injector",
+  "paint_index": "614",
+  "weapon": {
+    "id": "weapon_tec9",
+    "weapon_id": 30,
+    "name": "Tec-9",
+    "slug": "tec9"
+  },
+  "pattern": {
+    "id": "gs_tec9_supercharged",
+    "name": "Fuel Injector"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity. The body has been painted yellow and the magazine has been given a belt engine hydrographic.  A hand-stitched leather grip completes this Seattle classic.\\n\\n<i>Pit crew not included</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 63.04,
+      "max": 348.16,
+      "mean": 85.89,
+      "median": 74.03,
+      "suggested": 76.57,
+      "quantity": 36,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 14.45,
+      "max": 153.92,
+      "mean": 26.98,
+      "median": 20.67,
+      "suggested": 17.52,
+      "quantity": 91,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 11.66,
+      "max": 134.19,
+      "mean": 13.61,
+      "median": 12.59,
+      "suggested": 14.91,
+      "quantity": 218,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 11.46,
+      "max": 35.01,
+      "mean": 12.58,
+      "median": 12.01,
+      "suggested": 13.98,
+      "quantity": 66,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 10.69,
+      "max": 112.39,
+      "mean": 16,
+      "median": 11.59,
+      "suggested": 12.61,
+      "quantity": 34,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Tec-9 | Fuel Injector (Factory New)",
+      "price": {
+        "min": 63.04,
+        "max": 348.16,
+        "mean": 85.89,
+        "median": 74.03,
+        "suggested": 76.57,
+        "quantity": 36,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Tec-9 | Fuel Injector (Minimal Wear)",
+      "price": {
+        "min": 14.45,
+        "max": 153.92,
+        "mean": 26.98,
+        "median": 20.67,
+        "suggested": 17.52,
+        "quantity": 91,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Tec-9 | Fuel Injector (Field-Tested)",
+      "price": {
+        "min": 11.66,
+        "max": 134.19,
+        "mean": 13.61,
+        "median": 12.59,
+        "suggested": 14.91,
+        "quantity": 218,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Tec-9 | Fuel Injector (Well-Worn)",
+      "price": {
+        "min": 11.46,
+        "max": 35.01,
+        "mean": 12.58,
+        "median": 12.01,
+        "suggested": 13.98,
+        "quantity": 66,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Tec-9 | Fuel Injector (Battle-Scarred)",
+      "price": {
+        "min": 10.69,
+        "max": 112.39,
+        "mean": 16,
+        "median": 11.59,
+        "suggested": 12.61,
+        "quantity": 34,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Tec-9 | Fuel Injector (Factory New)",
+        "price": {
+          "min": 63.04,
+          "max": 348.16,
+          "mean": 85.89,
+          "median": 74.03,
+          "suggested": 76.57,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Tec-9 | Fuel Injector (Minimal Wear)",
+        "price": {
+          "min": 14.45,
+          "max": 153.92,
+          "mean": 26.98,
+          "median": 20.67,
+          "suggested": 17.52,
+          "quantity": 91,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Tec-9 | Fuel Injector (Field-Tested)",
+        "price": {
+          "min": 11.66,
+          "max": 134.19,
+          "mean": 13.61,
+          "median": 12.59,
+          "suggested": 14.91,
+          "quantity": 218,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Tec-9 | Fuel Injector (Well-Worn)",
+        "price": {
+          "min": 11.46,
+          "max": 35.01,
+          "mean": 12.58,
+          "median": 12.01,
+          "suggested": 13.98,
+          "quantity": 66,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Tec-9 | Fuel Injector (Battle-Scarred)",
+        "price": {
+          "min": 10.69,
+          "max": 112.39,
+          "mean": 16,
+          "median": 11.59,
+          "suggested": 12.61,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Tec-9 | Fuel Injector (Factory New)",
+        "price": {
+          "min": 61.31,
+          "max": 182.56,
+          "mean": 98.01,
+          "median": 89.41,
+          "suggested": 79.23,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Tec-9 | Fuel Injector (Minimal Wear)",
+        "price": {
+          "min": 25.53,
+          "max": 48.19,
+          "mean": 31.75,
+          "median": 28.96,
+          "suggested": 31.49,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Tec-9 | Fuel Injector (Field-Tested)",
+        "price": {
+          "min": 13.14,
+          "max": 46.68,
+          "mean": 19.66,
+          "median": 16.59,
+          "suggested": 16.86,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Tec-9 | Fuel Injector (Well-Worn)",
+        "price": {
+          "min": 11.25,
+          "max": 15.22,
+          "mean": 12.14,
+          "median": 11.86,
+          "suggested": 13.18,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Tec-9 | Fuel Injector (Battle-Scarred)",
+        "price": {
+          "min": 10.86,
+          "max": 137.7,
+          "mean": 21.27,
+          "median": 11.34,
+          "suggested": 12.51,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Tec-9 | Fuel Injector (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Tec-9 | Fuel Injector (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Tec-9 | Fuel Injector (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Tec-9 | Fuel Injector (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Tec-9 | Fuel Injector (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.331Z"
+}

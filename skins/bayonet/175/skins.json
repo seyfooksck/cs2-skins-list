@@ -1,0 +1,185 @@
+{
+  "id": "skin-2b9173183d7c",
+  "name": "★ Bayonet | Scorched",
+  "paint_index": "175",
+  "weapon": {
+    "id": "weapon_bayonet",
+    "weapon_id": 500,
+    "name": "Bayonet",
+    "slug": "bayonet"
+  },
+  "pattern": {
+    "id": "sp_dapple",
+    "name": "Scorched"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Relatively unchanged in its design since World War II, the bayonet still retains a place in modern military strategy. Bayonet charges have continued to be effective as recently as the second Gulf War and the war in Afghanistan. It has been spray-painted in a sun-dappled pattern.\\n\\n<i>The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 158.32,
+      "max": 158.32,
+      "mean": 158.32,
+      "median": 158.32,
+      "suggested": 204.91,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 132.69,
+      "max": 1165.77,
+      "mean": 290.66,
+      "median": 150.53,
+      "suggested": 169.37,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Bayonet | Scorched (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Bayonet | Scorched (Minimal Wear)",
+      "price": {
+        "min": 158.32,
+        "max": 158.32,
+        "mean": 158.32,
+        "median": 158.32,
+        "suggested": 204.91,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Bayonet | Scorched (Field-Tested)",
+      "price": {
+        "min": 132.69,
+        "max": 1165.77,
+        "mean": 290.66,
+        "median": 150.53,
+        "suggested": 169.37,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Bayonet | Scorched (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Bayonet | Scorched (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Bayonet | Scorched (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Bayonet | Scorched (Minimal Wear)",
+        "price": {
+          "min": 158.32,
+          "max": 158.32,
+          "mean": 158.32,
+          "median": 158.32,
+          "suggested": 204.91,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Bayonet | Scorched (Field-Tested)",
+        "price": {
+          "min": 132.69,
+          "max": 1165.77,
+          "mean": 290.66,
+          "median": 150.53,
+          "suggested": 169.37,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Bayonet | Scorched (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ Bayonet | Scorched (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Scorched (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Scorched (Minimal Wear)",
+        "price": {
+          "min": 294.21,
+          "max": 294.21,
+          "mean": 294.21,
+          "median": 294.21,
+          "suggested": 239.86,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Scorched (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Scorched (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Scorched (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:26.839Z"
+}

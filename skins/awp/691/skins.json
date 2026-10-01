@@ -1,0 +1,310 @@
+{
+  "id": "skin-c41637779316",
+  "name": "AWP | Mortis",
+  "paint_index": "691",
+  "weapon": {
+    "id": "weapon_awp",
+    "weapon_id": 9,
+    "name": "AWP",
+    "slug": "awp"
+  },
+  "pattern": {
+    "id": "gs_awp_death",
+    "name": "Mortis"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.64,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted using the Death tarot card as inspiration.\\n\\n<i>Every end is a new beginning</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 19.37,
+      "max": 232.22,
+      "mean": 39.29,
+      "median": 27.4,
+      "suggested": 29.06,
+      "quantity": 65,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 5.48,
+      "max": 181.46,
+      "mean": 11.25,
+      "median": 6.8,
+      "suggested": 7.48,
+      "quantity": 183,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 3.79,
+      "max": 2808.36,
+      "mean": 15,
+      "median": 4.42,
+      "suggested": 4.72,
+      "quantity": 352,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 3.83,
+      "max": 6.42,
+      "mean": 4.76,
+      "median": 4.54,
+      "suggested": 4.62,
+      "quantity": 38,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 3.7,
+      "max": 35.01,
+      "mean": 5.51,
+      "median": 4.4,
+      "suggested": 4.44,
+      "quantity": 53,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AWP | Mortis (Factory New)",
+      "price": {
+        "min": 19.37,
+        "max": 232.22,
+        "mean": 39.29,
+        "median": 27.4,
+        "suggested": 29.06,
+        "quantity": 65,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AWP | Mortis (Minimal Wear)",
+      "price": {
+        "min": 5.48,
+        "max": 181.46,
+        "mean": 11.25,
+        "median": 6.8,
+        "suggested": 7.48,
+        "quantity": 183,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AWP | Mortis (Field-Tested)",
+      "price": {
+        "min": 3.79,
+        "max": 2808.36,
+        "mean": 15,
+        "median": 4.42,
+        "suggested": 4.72,
+        "quantity": 352,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AWP | Mortis (Well-Worn)",
+      "price": {
+        "min": 3.83,
+        "max": 6.42,
+        "mean": 4.76,
+        "median": 4.54,
+        "suggested": 4.62,
+        "quantity": 38,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AWP | Mortis (Battle-Scarred)",
+      "price": {
+        "min": 3.7,
+        "max": 35.01,
+        "mean": 5.51,
+        "median": 4.4,
+        "suggested": 4.44,
+        "quantity": 53,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AWP | Mortis (Factory New)",
+        "price": {
+          "min": 19.37,
+          "max": 232.22,
+          "mean": 39.29,
+          "median": 27.4,
+          "suggested": 29.06,
+          "quantity": 65,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AWP | Mortis (Minimal Wear)",
+        "price": {
+          "min": 5.48,
+          "max": 181.46,
+          "mean": 11.25,
+          "median": 6.8,
+          "suggested": 7.48,
+          "quantity": 183,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AWP | Mortis (Field-Tested)",
+        "price": {
+          "min": 3.79,
+          "max": 2808.36,
+          "mean": 15,
+          "median": 4.42,
+          "suggested": 4.72,
+          "quantity": 352,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AWP | Mortis (Well-Worn)",
+        "price": {
+          "min": 3.83,
+          "max": 6.42,
+          "mean": 4.76,
+          "median": 4.54,
+          "suggested": 4.62,
+          "quantity": 38,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AWP | Mortis (Battle-Scarred)",
+        "price": {
+          "min": 3.7,
+          "max": 35.01,
+          "mean": 5.51,
+          "median": 4.4,
+          "suggested": 4.44,
+          "quantity": 53,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AWP | Mortis (Factory New)",
+        "price": {
+          "min": 19.11,
+          "max": 68.85,
+          "mean": 28.09,
+          "median": 24.49,
+          "suggested": 25.85,
+          "quantity": 64,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AWP | Mortis (Minimal Wear)",
+        "price": {
+          "min": 10.26,
+          "max": 23.33,
+          "mean": 14.15,
+          "median": 12.94,
+          "suggested": 11.77,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AWP | Mortis (Field-Tested)",
+        "price": {
+          "min": 7.56,
+          "max": 326.74,
+          "mean": 19.57,
+          "median": 8.97,
+          "suggested": 9.85,
+          "quantity": 66,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AWP | Mortis (Well-Worn)",
+        "price": {
+          "min": 8.5,
+          "max": 35,
+          "mean": 13.49,
+          "median": 9.31,
+          "suggested": 10.91,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ AWP | Mortis (Battle-Scarred)",
+        "price": {
+          "min": 7.33,
+          "max": 19.1,
+          "mean": 12.23,
+          "median": 10.77,
+          "suggested": 9.06,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AWP | Mortis (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AWP | Mortis (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AWP | Mortis (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AWP | Mortis (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AWP | Mortis (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:26.148Z"
+}

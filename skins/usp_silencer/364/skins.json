@@ -1,0 +1,225 @@
+{
+  "id": "skin-8667828828a0",
+  "name": "USP-S | Business Class",
+  "paint_index": "364",
+  "weapon": {
+    "id": "weapon_usp_silencer",
+    "weapon_id": 61,
+    "name": "USP-S",
+    "slug": "usp_silencer"
+  },
+  "pattern": {
+    "id": "cu_luggage_usp-s",
+    "name": "Business Class"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise. It has been custom painted with colors and patterns inspired by vintage luggage, and had some parts wrapped in brown leather.\\n\\n<i>Some people don't just want extra leg room... they want peace and quiet</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 78.52,
+      "max": 153.63,
+      "mean": 106.58,
+      "median": 103.4,
+      "suggested": 108.38,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 42.6,
+      "max": 647.09,
+      "mean": 221.1,
+      "median": 97.36,
+      "suggested": 52.94,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 26.76,
+      "max": 116.69,
+      "mean": 50.77,
+      "median": 36.99,
+      "suggested": 34.14,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 30.85,
+      "max": 44.96,
+      "mean": 37.91,
+      "median": 37.91,
+      "suggested": 33.67,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "USP-S | Business Class (Factory New)",
+      "price": {
+        "min": 78.52,
+        "max": 153.63,
+        "mean": 106.58,
+        "median": 103.4,
+        "suggested": 108.38,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "USP-S | Business Class (Minimal Wear)",
+      "price": {
+        "min": 42.6,
+        "max": 647.09,
+        "mean": 221.1,
+        "median": 97.36,
+        "suggested": 52.94,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "USP-S | Business Class (Field-Tested)",
+      "price": {
+        "min": 26.76,
+        "max": 116.69,
+        "mean": 50.77,
+        "median": 36.99,
+        "suggested": 34.14,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "USP-S | Business Class (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "USP-S | Business Class (Battle-Scarred)",
+      "price": {
+        "min": 30.85,
+        "max": 44.96,
+        "mean": 37.91,
+        "median": 37.91,
+        "suggested": 33.67,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "USP-S | Business Class (Factory New)",
+        "price": {
+          "min": 78.52,
+          "max": 153.63,
+          "mean": 106.58,
+          "median": 103.4,
+          "suggested": 108.38,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "USP-S | Business Class (Minimal Wear)",
+        "price": {
+          "min": 42.6,
+          "max": 647.09,
+          "mean": 221.1,
+          "median": 97.36,
+          "suggested": 52.94,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "USP-S | Business Class (Field-Tested)",
+        "price": {
+          "min": 26.76,
+          "max": 116.69,
+          "mean": 50.77,
+          "median": 36.99,
+          "suggested": 34.14,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "USP-S | Business Class (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "USP-S | Business Class (Battle-Scarred)",
+        "price": {
+          "min": 30.85,
+          "max": 44.96,
+          "mean": 37.91,
+          "median": 37.91,
+          "suggested": 33.67,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir USP-S | Business Class (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir USP-S | Business Class (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir USP-S | Business Class (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir USP-S | Business Class (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir USP-S | Business Class (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:50.432Z"
+}

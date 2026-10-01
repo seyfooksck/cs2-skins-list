@@ -1,0 +1,154 @@
+{
+  "id": "skin-3061aea08996",
+  "name": "USP-S | Dark Water",
+  "paint_index": "60",
+  "weapon": {
+    "id": "weapon_usp_silencer",
+    "weapon_id": 61,
+    "name": "USP-S",
+    "slug": "usp_silencer"
+  },
+  "pattern": {
+    "id": "am_zebra_dark",
+    "name": "Dark Water"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0.1,
+  "max_float": 0.26,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise. It has been painted in an aquatic-stripe pattern with charcoal metallic paints of various reflectivities over a chrome base coat.\\n\\n<i>Water gives life, but it can also take it...</i>",
+  "images": {
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "mw": {
+      "min": 95.69,
+      "max": 2048.29,
+      "mean": 255.22,
+      "median": 178.7,
+      "suggested": 143.33,
+      "quantity": 23,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 59.51,
+      "max": 105.02,
+      "mean": 78.38,
+      "median": 76.54,
+      "suggested": 93.19,
+      "quantity": 17,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "USP-S | Dark Water (Minimal Wear)",
+      "price": {
+        "min": 95.69,
+        "max": 2048.29,
+        "mean": 255.22,
+        "median": 178.7,
+        "suggested": 143.33,
+        "quantity": 23,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "USP-S | Dark Water (Field-Tested)",
+      "price": {
+        "min": 59.51,
+        "max": 105.02,
+        "mean": 78.38,
+        "median": 76.54,
+        "suggested": 93.19,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "mw": {
+        "market_hash_name": "USP-S | Dark Water (Minimal Wear)",
+        "price": {
+          "min": 95.69,
+          "max": 2048.29,
+          "mean": 255.22,
+          "median": 178.7,
+          "suggested": 143.33,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "USP-S | Dark Water (Field-Tested)",
+        "price": {
+          "min": 59.51,
+          "max": 105.02,
+          "mean": 78.38,
+          "median": 76.54,
+          "suggested": 93.19,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "mw": {
+        "market_hash_name": "StatTrak™ USP-S | Dark Water (Minimal Wear)",
+        "price": {
+          "min": 139.36,
+          "max": 464.13,
+          "mean": 231.58,
+          "median": 208.88,
+          "suggested": 164.85,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ USP-S | Dark Water (Field-Tested)",
+        "price": {
+          "min": 108.96,
+          "max": 582.3,
+          "mean": 192.95,
+          "median": 114.15,
+          "suggested": 133.28,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "mw": {
+        "market_hash_name": "Souvenir USP-S | Dark Water (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir USP-S | Dark Water (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:50.395Z"
+}

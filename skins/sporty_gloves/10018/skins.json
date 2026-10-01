@@ -1,0 +1,204 @@
+{
+  "id": "skin-562a47f22d9c",
+  "name": "★ Sport Gloves | Superconductor",
+  "paint_index": "10018",
+  "weapon": {
+    "id": "sporty_gloves",
+    "weapon_id": 5030,
+    "name": "Sport Gloves",
+    "slug": "sporty_gloves"
+  },
+  "pattern": {
+    "id": "sporty_light_blue",
+    "name": "Superconductor"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_gloves",
+    "name": "Gloves"
+  },
+  "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Synthetic fabrics make these athletic gloves durable and eye-catching. The blue and black gloves are ideal for those who wish to be phenomenal.\\n\\n<i>They don't want none</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 3150.73,
+      "max": 9075.27,
+      "mean": 6113,
+      "median": 6113,
+      "suggested": 3547.67,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2162.7,
+      "max": 6281.35,
+      "mean": 3196.09,
+      "median": 2333.87,
+      "suggested": 2435.42,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1553.37,
+      "max": 2100.48,
+      "mean": 1733.54,
+      "median": 1676.22,
+      "suggested": 1859.56,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1138.87,
+      "max": 1825.42,
+      "mean": 1418.09,
+      "median": 1366.13,
+      "suggested": 1038.65,
+      "quantity": 5,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Sport Gloves | Superconductor (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Sport Gloves | Superconductor (Minimal Wear)",
+      "price": {
+        "min": 3150.73,
+        "max": 9075.27,
+        "mean": 6113,
+        "median": 6113,
+        "suggested": 3547.67,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Sport Gloves | Superconductor (Field-Tested)",
+      "price": {
+        "min": 2162.7,
+        "max": 6281.35,
+        "mean": 3196.09,
+        "median": 2333.87,
+        "suggested": 2435.42,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Sport Gloves | Superconductor (Well-Worn)",
+      "price": {
+        "min": 1553.37,
+        "max": 2100.48,
+        "mean": 1733.54,
+        "median": 1676.22,
+        "suggested": 1859.56,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Sport Gloves | Superconductor (Battle-Scarred)",
+      "price": {
+        "min": 1138.87,
+        "max": 1825.42,
+        "mean": 1418.09,
+        "median": 1366.13,
+        "suggested": 1038.65,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Sport Gloves | Superconductor (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Sport Gloves | Superconductor (Minimal Wear)",
+        "price": {
+          "min": 3150.73,
+          "max": 9075.27,
+          "mean": 6113,
+          "median": 6113,
+          "suggested": 3547.67,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Sport Gloves | Superconductor (Field-Tested)",
+        "price": {
+          "min": 2162.7,
+          "max": 6281.35,
+          "mean": 3196.09,
+          "median": 2333.87,
+          "suggested": 2435.42,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Sport Gloves | Superconductor (Well-Worn)",
+        "price": {
+          "min": 1553.37,
+          "max": 2100.48,
+          "mean": 1733.54,
+          "median": 1676.22,
+          "suggested": 1859.56,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Sport Gloves | Superconductor (Battle-Scarred)",
+        "price": {
+          "min": 1138.87,
+          "max": 1825.42,
+          "mean": 1418.09,
+          "median": 1366.13,
+          "suggested": 1038.65,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:24.048Z"
+}

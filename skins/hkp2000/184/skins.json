@@ -1,0 +1,206 @@
+{
+  "id": "skin-daaabfa27042",
+  "name": "P2000 | Corticera",
+  "paint_index": "184",
+  "weapon": {
+    "id": "weapon_hkp2000",
+    "weapon_id": 32,
+    "name": "P2000",
+    "slug": "hkp2000"
+  },
+  "pattern": {
+    "id": "cu_favela_p2000",
+    "name": "Corticera"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0.06,
+  "max_float": 0.3,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Accurate and controllable, the German-made P2000 is a serviceable first-round pistol that works best against unarmored opponents. It has has been painted with a corticera tree motif.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 72.83,
+      "max": 105.02,
+      "mean": 83.7,
+      "median": 81.69,
+      "suggested": 90.18,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 32.62,
+      "max": 105.01,
+      "mean": 52.96,
+      "median": 46.29,
+      "suggested": 41.98,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 29.16,
+      "max": 35.52,
+      "mean": 32.35,
+      "median": 32.35,
+      "suggested": 31.51,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P2000 | Corticera (Factory New)",
+      "price": {
+        "min": 72.83,
+        "max": 105.02,
+        "mean": 83.7,
+        "median": 81.69,
+        "suggested": 90.18,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P2000 | Corticera (Minimal Wear)",
+      "price": {
+        "min": 32.62,
+        "max": 105.01,
+        "mean": 52.96,
+        "median": 46.29,
+        "suggested": 41.98,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P2000 | Corticera (Field-Tested)",
+      "price": {
+        "min": 29.16,
+        "max": 35.52,
+        "mean": 32.35,
+        "median": 32.35,
+        "suggested": 31.51,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P2000 | Corticera (Factory New)",
+        "price": {
+          "min": 72.83,
+          "max": 105.02,
+          "mean": 83.7,
+          "median": 81.69,
+          "suggested": 90.18,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P2000 | Corticera (Minimal Wear)",
+        "price": {
+          "min": 32.62,
+          "max": 105.01,
+          "mean": 52.96,
+          "median": 46.29,
+          "suggested": 41.98,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P2000 | Corticera (Field-Tested)",
+        "price": {
+          "min": 29.16,
+          "max": 35.52,
+          "mean": 32.35,
+          "median": 32.35,
+          "suggested": 31.51,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P2000 | Corticera (Factory New)",
+        "price": {
+          "min": 99.19,
+          "max": 99.19,
+          "mean": 99.19,
+          "median": 99.19,
+          "suggested": 100.32,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P2000 | Corticera (Minimal Wear)",
+        "price": {
+          "min": 40.84,
+          "max": 83.2,
+          "mean": 62.02,
+          "median": 62.02,
+          "suggested": 45.02,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P2000 | Corticera (Field-Tested)",
+        "price": {
+          "min": 32.69,
+          "max": 175.03,
+          "mean": 69.77,
+          "median": 44.39,
+          "suggested": 32.44,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P2000 | Corticera (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P2000 | Corticera (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P2000 | Corticera (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:32.454Z"
+}

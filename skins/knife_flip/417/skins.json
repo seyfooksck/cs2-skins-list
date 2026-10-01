@@ -1,0 +1,145 @@
+{
+  "id": "skin-90511e74f417",
+  "name": "★ Flip Knife | Doppler",
+  "paint_index": "417",
+  "weapon": {
+    "id": "weapon_knife_flip",
+    "weapon_id": 505,
+    "name": "Flip Knife",
+    "slug": "knife_flip"
+  },
+  "pattern": {
+    "id": "am_blackpearl_marbleized",
+    "name": "Doppler"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Flip knives sport a Persian-style back-swept blade with an acute point.  While the point itself may be fragile, the overall design of the flip knife's design is surprisingly durable. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1695.2,
+      "max": 1695.2,
+      "mean": 1695.2,
+      "median": 1695.2,
+      "suggested": 1346.01,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 725.96,
+      "max": 725.96,
+      "mean": 725.96,
+      "median": 725.96,
+      "suggested": 398.59,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Flip Knife | Doppler (Factory New)",
+      "price": {
+        "min": 1695.2,
+        "max": 1695.2,
+        "mean": 1695.2,
+        "median": 1695.2,
+        "suggested": 1346.01,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Flip Knife | Doppler (Minimal Wear)",
+      "price": {
+        "min": 725.96,
+        "max": 725.96,
+        "mean": 725.96,
+        "median": 725.96,
+        "suggested": 398.59,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Flip Knife | Doppler (Factory New)",
+        "price": {
+          "min": 1695.2,
+          "max": 1695.2,
+          "mean": 1695.2,
+          "median": 1695.2,
+          "suggested": 1346.01,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Flip Knife | Doppler (Minimal Wear)",
+        "price": {
+          "min": 725.96,
+          "max": 725.96,
+          "mean": 725.96,
+          "median": 725.96,
+          "suggested": 398.59,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Doppler (Factory New)",
+        "price": {
+          "min": 1562.1,
+          "max": 10332.06,
+          "mean": 5947.09,
+          "median": 5947.09,
+          "suggested": 2038.95,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Doppler (Minimal Wear)",
+        "price": {
+          "min": 2042.14,
+          "max": 2042.14,
+          "mean": 2042.14,
+          "median": 2042.14,
+          "suggested": 2731.47,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:34.475Z"
+}

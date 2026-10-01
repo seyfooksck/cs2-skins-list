@@ -1,0 +1,310 @@
+{
+  "id": "skin-1f95db2031e4",
+  "name": "AK-47 | Head Shot",
+  "paint_index": "1221",
+  "weapon": {
+    "id": "weapon_ak47",
+    "weapon_id": 7,
+    "name": "AK-47",
+    "slug": "ak47"
+  },
+  "pattern": {
+    "id": "cu_ak_head_shot_holo",
+    "name": "Head Shot"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. It has been custom painted with a \\\"HEAD SHOT GUN\\\" graffiti and finished with pearlescent coating.\\n\\n<i>Everyone has goals, but are you willing to put in the work to achieve them? - Booth, Arms Dealer</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 99.41,
+      "max": 466.76,
+      "mean": 151.7,
+      "median": 123.98,
+      "suggested": 139.38,
+      "quantity": 39,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 53.64,
+      "max": 151.68,
+      "mean": 80.73,
+      "median": 74.17,
+      "suggested": 62.42,
+      "quantity": 126,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 32.76,
+      "max": 116.69,
+      "mean": 43.82,
+      "median": 42.65,
+      "suggested": 48.43,
+      "quantity": 276,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 30.73,
+      "max": 116.69,
+      "mean": 39.07,
+      "median": 36.28,
+      "suggested": 40.65,
+      "quantity": 93,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 27.75,
+      "max": 42.16,
+      "mean": 32.86,
+      "median": 31.12,
+      "suggested": 35.48,
+      "quantity": 48,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AK-47 | Head Shot (Factory New)",
+      "price": {
+        "min": 99.41,
+        "max": 466.76,
+        "mean": 151.7,
+        "median": 123.98,
+        "suggested": 139.38,
+        "quantity": 39,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AK-47 | Head Shot (Minimal Wear)",
+      "price": {
+        "min": 53.64,
+        "max": 151.68,
+        "mean": 80.73,
+        "median": 74.17,
+        "suggested": 62.42,
+        "quantity": 126,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AK-47 | Head Shot (Field-Tested)",
+      "price": {
+        "min": 32.76,
+        "max": 116.69,
+        "mean": 43.82,
+        "median": 42.65,
+        "suggested": 48.43,
+        "quantity": 276,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AK-47 | Head Shot (Well-Worn)",
+      "price": {
+        "min": 30.73,
+        "max": 116.69,
+        "mean": 39.07,
+        "median": 36.28,
+        "suggested": 40.65,
+        "quantity": 93,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AK-47 | Head Shot (Battle-Scarred)",
+      "price": {
+        "min": 27.75,
+        "max": 42.16,
+        "mean": 32.86,
+        "median": 31.12,
+        "suggested": 35.48,
+        "quantity": 48,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AK-47 | Head Shot (Factory New)",
+        "price": {
+          "min": 99.41,
+          "max": 466.76,
+          "mean": 151.7,
+          "median": 123.98,
+          "suggested": 139.38,
+          "quantity": 39,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AK-47 | Head Shot (Minimal Wear)",
+        "price": {
+          "min": 53.64,
+          "max": 151.68,
+          "mean": 80.73,
+          "median": 74.17,
+          "suggested": 62.42,
+          "quantity": 126,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AK-47 | Head Shot (Field-Tested)",
+        "price": {
+          "min": 32.76,
+          "max": 116.69,
+          "mean": 43.82,
+          "median": 42.65,
+          "suggested": 48.43,
+          "quantity": 276,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AK-47 | Head Shot (Well-Worn)",
+        "price": {
+          "min": 30.73,
+          "max": 116.69,
+          "mean": 39.07,
+          "median": 36.28,
+          "suggested": 40.65,
+          "quantity": 93,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AK-47 | Head Shot (Battle-Scarred)",
+        "price": {
+          "min": 27.75,
+          "max": 42.16,
+          "mean": 32.86,
+          "median": 31.12,
+          "suggested": 35.48,
+          "quantity": 48,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AK-47 | Head Shot (Factory New)",
+        "price": {
+          "min": 102.41,
+          "max": 465.61,
+          "mean": 178.27,
+          "median": 131.13,
+          "suggested": 150.89,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AK-47 | Head Shot (Minimal Wear)",
+        "price": {
+          "min": 52.54,
+          "max": 192.54,
+          "mean": 69.06,
+          "median": 57.97,
+          "suggested": 66.67,
+          "quantity": 43,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AK-47 | Head Shot (Field-Tested)",
+        "price": {
+          "min": 31.15,
+          "max": 175.04,
+          "mean": 47.09,
+          "median": 36.36,
+          "suggested": 42.51,
+          "quantity": 49,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AK-47 | Head Shot (Well-Worn)",
+        "price": {
+          "min": 28.71,
+          "max": 47.1,
+          "mean": 36.6,
+          "median": 34.7,
+          "suggested": 32.51,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ AK-47 | Head Shot (Battle-Scarred)",
+        "price": {
+          "min": 26.12,
+          "max": 70,
+          "mean": 33.09,
+          "median": 29.79,
+          "suggested": 31.59,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AK-47 | Head Shot (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AK-47 | Head Shot (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AK-47 | Head Shot (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AK-47 | Head Shot (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AK-47 | Head Shot (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:20:20.612Z"
+}

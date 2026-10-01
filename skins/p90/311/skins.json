@@ -1,0 +1,302 @@
+{
+  "id": "skin-c98d2c843b36",
+  "name": "P90 | Desert Warfare",
+  "paint_index": "311",
+  "weapon": {
+    "id": "weapon_p90",
+    "weapon_id": 19,
+    "name": "P90",
+    "slug": "p90"
+  },
+  "pattern": {
+    "id": "cu_p90_scorpius",
+    "name": "Desert Warfare"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been custom painted with a graphic design reminiscent of desert.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 5.59,
+      "max": 80.52,
+      "mean": 20.09,
+      "median": 12.72,
+      "suggested": 7.23,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 4.03,
+      "max": 5.25,
+      "mean": 4.64,
+      "median": 4.64,
+      "suggested": 4.17,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.91,
+      "max": 29.17,
+      "mean": 6.34,
+      "median": 3.03,
+      "suggested": 3.45,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 8.68,
+      "max": 8.68,
+      "mean": 8.68,
+      "median": 8.68,
+      "suggested": 5.34,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 6.07,
+      "max": 6.07,
+      "mean": 6.07,
+      "median": 6.07,
+      "suggested": 6.79,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P90 | Desert Warfare (Factory New)",
+      "price": {
+        "min": 5.59,
+        "max": 80.52,
+        "mean": 20.09,
+        "median": 12.72,
+        "suggested": 7.23,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P90 | Desert Warfare (Minimal Wear)",
+      "price": {
+        "min": 4.03,
+        "max": 5.25,
+        "mean": 4.64,
+        "median": 4.64,
+        "suggested": 4.17,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P90 | Desert Warfare (Field-Tested)",
+      "price": {
+        "min": 2.91,
+        "max": 29.17,
+        "mean": 6.34,
+        "median": 3.03,
+        "suggested": 3.45,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P90 | Desert Warfare (Well-Worn)",
+      "price": {
+        "min": 8.68,
+        "max": 8.68,
+        "mean": 8.68,
+        "median": 8.68,
+        "suggested": 5.34,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P90 | Desert Warfare (Battle-Scarred)",
+      "price": {
+        "min": 6.07,
+        "max": 6.07,
+        "mean": 6.07,
+        "median": 6.07,
+        "suggested": 6.79,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P90 | Desert Warfare (Factory New)",
+        "price": {
+          "min": 5.59,
+          "max": 80.52,
+          "mean": 20.09,
+          "median": 12.72,
+          "suggested": 7.23,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P90 | Desert Warfare (Minimal Wear)",
+        "price": {
+          "min": 4.03,
+          "max": 5.25,
+          "mean": 4.64,
+          "median": 4.64,
+          "suggested": 4.17,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P90 | Desert Warfare (Field-Tested)",
+        "price": {
+          "min": 2.91,
+          "max": 29.17,
+          "mean": 6.34,
+          "median": 3.03,
+          "suggested": 3.45,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P90 | Desert Warfare (Well-Worn)",
+        "price": {
+          "min": 8.68,
+          "max": 8.68,
+          "mean": 8.68,
+          "median": 8.68,
+          "suggested": 5.34,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P90 | Desert Warfare (Battle-Scarred)",
+        "price": {
+          "min": 6.07,
+          "max": 6.07,
+          "mean": 6.07,
+          "median": 6.07,
+          "suggested": 6.79,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P90 | Desert Warfare (Factory New)",
+        "price": {
+          "min": 12.01,
+          "max": 68.8,
+          "mean": 24.06,
+          "median": 19.49,
+          "suggested": 15.2,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P90 | Desert Warfare (Minimal Wear)",
+        "price": {
+          "min": 4.19,
+          "max": 4.96,
+          "mean": 4.5,
+          "median": 4.25,
+          "suggested": 4.72,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P90 | Desert Warfare (Field-Tested)",
+        "price": {
+          "min": 2.68,
+          "max": 310.41,
+          "mean": 71.1,
+          "median": 18.66,
+          "suggested": 3.33,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ P90 | Desert Warfare (Well-Worn)",
+        "price": {
+          "min": 6.31,
+          "max": 82.48,
+          "mean": 27.47,
+          "median": 10.55,
+          "suggested": 7.7,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ P90 | Desert Warfare (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P90 | Desert Warfare (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P90 | Desert Warfare (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P90 | Desert Warfare (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P90 | Desert Warfare (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P90 | Desert Warfare (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:46.010Z"
+}

@@ -1,0 +1,257 @@
+{
+  "id": "skin-e010a1443ce8",
+  "name": "P2000 | Royal Baroque",
+  "paint_index": "1259",
+  "weapon": {
+    "id": "weapon_hkp2000",
+    "weapon_id": 32,
+    "name": "P2000",
+    "slug": "hkp2000"
+  },
+  "pattern": {
+    "id": "spe_scarf_print",
+    "name": "Royal Baroque"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Accurate and controllable, the German-made P2000 is a serviceable first-round pistol that works best against unarmored opponents. A blue and gold filigree pattern has been applied.\\n\\n<i>\\\"I'm not kitting around...\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.38,
+      "max": 30.61,
+      "mean": 6.9,
+      "median": 6.93,
+      "suggested": 1.6,
+      "quantity": 158,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.61,
+      "max": 2048.29,
+      "mean": 23.89,
+      "median": 1.94,
+      "suggested": 0.75,
+      "quantity": 100,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.21,
+      "max": 166.87,
+      "mean": 2.39,
+      "median": 0.81,
+      "suggested": 0.28,
+      "quantity": 132,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.21,
+      "max": 0.78,
+      "mean": 0.33,
+      "median": 0.29,
+      "suggested": 0.25,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.21,
+      "max": 1.16,
+      "mean": 0.35,
+      "median": 0.27,
+      "suggested": 0.23,
+      "quantity": 18,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P2000 | Royal Baroque (Factory New)",
+      "price": {
+        "min": 1.38,
+        "max": 30.61,
+        "mean": 6.9,
+        "median": 6.93,
+        "suggested": 1.6,
+        "quantity": 158,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P2000 | Royal Baroque (Minimal Wear)",
+      "price": {
+        "min": 0.61,
+        "max": 2048.29,
+        "mean": 23.89,
+        "median": 1.94,
+        "suggested": 0.75,
+        "quantity": 100,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P2000 | Royal Baroque (Field-Tested)",
+      "price": {
+        "min": 0.21,
+        "max": 166.87,
+        "mean": 2.39,
+        "median": 0.81,
+        "suggested": 0.28,
+        "quantity": 132,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P2000 | Royal Baroque (Well-Worn)",
+      "price": {
+        "min": 0.21,
+        "max": 0.78,
+        "mean": 0.33,
+        "median": 0.29,
+        "suggested": 0.25,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P2000 | Royal Baroque (Battle-Scarred)",
+      "price": {
+        "min": 0.21,
+        "max": 1.16,
+        "mean": 0.35,
+        "median": 0.27,
+        "suggested": 0.23,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P2000 | Royal Baroque (Factory New)",
+        "price": {
+          "min": 1.38,
+          "max": 30.61,
+          "mean": 6.9,
+          "median": 6.93,
+          "suggested": 1.6,
+          "quantity": 158,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P2000 | Royal Baroque (Minimal Wear)",
+        "price": {
+          "min": 0.61,
+          "max": 2048.29,
+          "mean": 23.89,
+          "median": 1.94,
+          "suggested": 0.75,
+          "quantity": 100,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P2000 | Royal Baroque (Field-Tested)",
+        "price": {
+          "min": 0.21,
+          "max": 166.87,
+          "mean": 2.39,
+          "median": 0.81,
+          "suggested": 0.28,
+          "quantity": 132,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P2000 | Royal Baroque (Well-Worn)",
+        "price": {
+          "min": 0.21,
+          "max": 0.78,
+          "mean": 0.33,
+          "median": 0.29,
+          "suggested": 0.25,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P2000 | Royal Baroque (Battle-Scarred)",
+        "price": {
+          "min": 0.21,
+          "max": 1.16,
+          "mean": 0.35,
+          "median": 0.27,
+          "suggested": 0.23,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P2000 | Royal Baroque (Factory New)",
+        "price": {
+          "min": 21.04,
+          "max": 21.04,
+          "mean": 21.04,
+          "median": 21.04,
+          "suggested": 31.36,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P2000 | Royal Baroque (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P2000 | Royal Baroque (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P2000 | Royal Baroque (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P2000 | Royal Baroque (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:32.779Z"
+}

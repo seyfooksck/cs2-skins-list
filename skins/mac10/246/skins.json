@@ -1,0 +1,209 @@
+{
+  "id": "skin-045414110f51",
+  "name": "MAC-10 | Amber Fade",
+  "paint_index": "246",
+  "weapon": {
+    "id": "weapon_mac10",
+    "weapon_id": 17,
+    "name": "MAC-10",
+    "slug": "mac10"
+  },
+  "pattern": {
+    "id": "aa_fade_metallic",
+    "name": "Amber Fade"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.4,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been painted by airbrushing transparent paints that fade together over a chrome base coat.\\n\\n<i>This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 30.73,
+      "max": 189.91,
+      "mean": 73.04,
+      "median": 51.22,
+      "suggested": 39.07,
+      "quantity": 16,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 15.92,
+      "max": 33.63,
+      "mean": 22.71,
+      "median": 21.44,
+      "suggested": 20.12,
+      "quantity": 13,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 16.1,
+      "max": 36.81,
+      "mean": 27.55,
+      "median": 31.08,
+      "suggested": 18.62,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "ww": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAC-10 | Amber Fade (Factory New)",
+      "price": {
+        "min": 30.73,
+        "max": 189.91,
+        "mean": 73.04,
+        "median": 51.22,
+        "suggested": 39.07,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAC-10 | Amber Fade (Minimal Wear)",
+      "price": {
+        "min": 15.92,
+        "max": 33.63,
+        "mean": 22.71,
+        "median": 21.44,
+        "suggested": 20.12,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAC-10 | Amber Fade (Field-Tested)",
+      "price": {
+        "min": 16.1,
+        "max": 36.81,
+        "mean": 27.55,
+        "median": 31.08,
+        "suggested": 18.62,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAC-10 | Amber Fade (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAC-10 | Amber Fade (Factory New)",
+        "price": {
+          "min": 30.73,
+          "max": 189.91,
+          "mean": 73.04,
+          "median": 51.22,
+          "suggested": 39.07,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAC-10 | Amber Fade (Minimal Wear)",
+        "price": {
+          "min": 15.92,
+          "max": 33.63,
+          "mean": 22.71,
+          "median": 21.44,
+          "suggested": 20.12,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAC-10 | Amber Fade (Field-Tested)",
+        "price": {
+          "min": 16.1,
+          "max": 36.81,
+          "mean": 27.55,
+          "median": 31.08,
+          "suggested": 18.62,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAC-10 | Amber Fade (Well-Worn)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAC-10 | Amber Fade (Factory New)",
+        "price": {
+          "min": 31.03,
+          "max": 92.19,
+          "mean": 49.24,
+          "median": 47.18,
+          "suggested": 36.4,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAC-10 | Amber Fade (Minimal Wear)",
+        "price": {
+          "min": 26.26,
+          "max": 102.05,
+          "mean": 45.49,
+          "median": 35,
+          "suggested": 25.63,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAC-10 | Amber Fade (Field-Tested)",
+        "price": {
+          "min": 16.99,
+          "max": 78.07,
+          "mean": 42.08,
+          "median": 41.32,
+          "suggested": 18.83,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAC-10 | Amber Fade (Well-Worn)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.395Z"
+}

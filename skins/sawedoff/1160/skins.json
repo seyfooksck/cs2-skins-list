@@ -1,0 +1,310 @@
+{
+  "id": "skin-d0653c0aaf2f",
+  "name": "Sawed-Off | Analog Input",
+  "paint_index": "1160",
+  "weapon": {
+    "id": "weapon_sawedoff",
+    "weapon_id": 29,
+    "name": "Sawed-Off",
+    "slug": "sawedoff"
+  },
+  "pattern": {
+    "id": "sawedoff_gamer",
+    "name": "Analog Input"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.61886,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit. It has been custom painted with diagonal bands of color and the letters \\\"X\\\", \\\"Y\\\", \\\"B\\\", and \\\"A\\\".\\n\\n<i>19 in 99</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.47,
+      "max": 93.35,
+      "mean": 5.72,
+      "median": 2.58,
+      "suggested": 1.96,
+      "quantity": 192,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.62,
+      "max": 35.01,
+      "mean": 1.13,
+      "median": 0.96,
+      "suggested": 0.85,
+      "quantity": 327,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.36,
+      "max": 23.34,
+      "mean": 0.63,
+      "median": 0.58,
+      "suggested": 0.5,
+      "quantity": 992,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.41,
+      "max": 1.83,
+      "mean": 0.67,
+      "median": 0.6,
+      "suggested": 0.51,
+      "quantity": 66,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.39,
+      "max": 19.25,
+      "mean": 0.91,
+      "median": 0.55,
+      "suggested": 0.51,
+      "quantity": 122,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Sawed-Off | Analog Input (Factory New)",
+      "price": {
+        "min": 1.47,
+        "max": 93.35,
+        "mean": 5.72,
+        "median": 2.58,
+        "suggested": 1.96,
+        "quantity": 192,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Sawed-Off | Analog Input (Minimal Wear)",
+      "price": {
+        "min": 0.62,
+        "max": 35.01,
+        "mean": 1.13,
+        "median": 0.96,
+        "suggested": 0.85,
+        "quantity": 327,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Sawed-Off | Analog Input (Field-Tested)",
+      "price": {
+        "min": 0.36,
+        "max": 23.34,
+        "mean": 0.63,
+        "median": 0.58,
+        "suggested": 0.5,
+        "quantity": 992,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Sawed-Off | Analog Input (Well-Worn)",
+      "price": {
+        "min": 0.41,
+        "max": 1.83,
+        "mean": 0.67,
+        "median": 0.6,
+        "suggested": 0.51,
+        "quantity": 66,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Sawed-Off | Analog Input (Battle-Scarred)",
+      "price": {
+        "min": 0.39,
+        "max": 19.25,
+        "mean": 0.91,
+        "median": 0.55,
+        "suggested": 0.51,
+        "quantity": 122,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Sawed-Off | Analog Input (Factory New)",
+        "price": {
+          "min": 1.47,
+          "max": 93.35,
+          "mean": 5.72,
+          "median": 2.58,
+          "suggested": 1.96,
+          "quantity": 192,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Sawed-Off | Analog Input (Minimal Wear)",
+        "price": {
+          "min": 0.62,
+          "max": 35.01,
+          "mean": 1.13,
+          "median": 0.96,
+          "suggested": 0.85,
+          "quantity": 327,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Sawed-Off | Analog Input (Field-Tested)",
+        "price": {
+          "min": 0.36,
+          "max": 23.34,
+          "mean": 0.63,
+          "median": 0.58,
+          "suggested": 0.5,
+          "quantity": 992,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Sawed-Off | Analog Input (Well-Worn)",
+        "price": {
+          "min": 0.41,
+          "max": 1.83,
+          "mean": 0.67,
+          "median": 0.6,
+          "suggested": 0.51,
+          "quantity": 66,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Sawed-Off | Analog Input (Battle-Scarred)",
+        "price": {
+          "min": 0.39,
+          "max": 19.25,
+          "mean": 0.91,
+          "median": 0.55,
+          "suggested": 0.51,
+          "quantity": 122,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Analog Input (Factory New)",
+        "price": {
+          "min": 2.53,
+          "max": 23.33,
+          "mean": 7.26,
+          "median": 4.88,
+          "suggested": 3.19,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Analog Input (Minimal Wear)",
+        "price": {
+          "min": 1.17,
+          "max": 27.48,
+          "mean": 2.87,
+          "median": 1.97,
+          "suggested": 1.41,
+          "quantity": 58,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Analog Input (Field-Tested)",
+        "price": {
+          "min": 0.75,
+          "max": 27.55,
+          "mean": 1.23,
+          "median": 1.11,
+          "suggested": 1.05,
+          "quantity": 274,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Analog Input (Well-Worn)",
+        "price": {
+          "min": 0.76,
+          "max": 2.81,
+          "mean": 1.52,
+          "median": 1.27,
+          "suggested": 0.91,
+          "quantity": 42,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Analog Input (Battle-Scarred)",
+        "price": {
+          "min": 0.76,
+          "max": 3.08,
+          "mean": 1.12,
+          "median": 1.16,
+          "suggested": 0.96,
+          "quantity": 59,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Sawed-Off | Analog Input (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Sawed-Off | Analog Input (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Sawed-Off | Analog Input (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Sawed-Off | Analog Input (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Sawed-Off | Analog Input (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:47.297Z"
+}

@@ -1,0 +1,249 @@
+{
+  "id": "skin-bc5a36f177b0",
+  "name": "M4A1-S | Party Animal",
+  "paint_index": "1376",
+  "weapon": {
+    "id": "weapon_m4a1_silencer",
+    "weapon_id": 60,
+    "name": "M4A1-S",
+    "slug": "m4a1_silencer"
+  },
+  "pattern": {
+    "id": "hye_animal_print_90s",
+    "name": "Party Animal"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. A bright, neon-colored animal print pattern has been applied.\\n\\n<i>You said \\\"a few colors\\\", not \\\"the entire color spectrum\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 41.9,
+      "max": 233.39,
+      "mean": 80.54,
+      "median": 55.9,
+      "suggested": 53.88,
+      "quantity": 27,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 18.47,
+      "max": 81.92,
+      "mean": 23.71,
+      "median": 20.15,
+      "suggested": 23.21,
+      "quantity": 93,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 9.24,
+      "max": 36.16,
+      "mean": 12.29,
+      "median": 9.83,
+      "suggested": 10.48,
+      "quantity": 31,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 11.2,
+      "max": 15.6,
+      "mean": 12.42,
+      "median": 11.2,
+      "suggested": 10.79,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 8.74,
+      "max": 58.35,
+      "mean": 17.17,
+      "median": 11.2,
+      "suggested": 10.19,
+      "quantity": 7,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A1-S | Party Animal (Factory New)",
+      "price": {
+        "min": 41.9,
+        "max": 233.39,
+        "mean": 80.54,
+        "median": 55.9,
+        "suggested": 53.88,
+        "quantity": 27,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A1-S | Party Animal (Minimal Wear)",
+      "price": {
+        "min": 18.47,
+        "max": 81.92,
+        "mean": 23.71,
+        "median": 20.15,
+        "suggested": 23.21,
+        "quantity": 93,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A1-S | Party Animal (Field-Tested)",
+      "price": {
+        "min": 9.24,
+        "max": 36.16,
+        "mean": 12.29,
+        "median": 9.83,
+        "suggested": 10.48,
+        "quantity": 31,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M4A1-S | Party Animal (Well-Worn)",
+      "price": {
+        "min": 11.2,
+        "max": 15.6,
+        "mean": 12.42,
+        "median": 11.2,
+        "suggested": 10.79,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M4A1-S | Party Animal (Battle-Scarred)",
+      "price": {
+        "min": 8.74,
+        "max": 58.35,
+        "mean": 17.17,
+        "median": 11.2,
+        "suggested": 10.19,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A1-S | Party Animal (Factory New)",
+        "price": {
+          "min": 41.9,
+          "max": 233.39,
+          "mean": 80.54,
+          "median": 55.9,
+          "suggested": 53.88,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A1-S | Party Animal (Minimal Wear)",
+        "price": {
+          "min": 18.47,
+          "max": 81.92,
+          "mean": 23.71,
+          "median": 20.15,
+          "suggested": 23.21,
+          "quantity": 93,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A1-S | Party Animal (Field-Tested)",
+        "price": {
+          "min": 9.24,
+          "max": 36.16,
+          "mean": 12.29,
+          "median": 9.83,
+          "suggested": 10.48,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M4A1-S | Party Animal (Well-Worn)",
+        "price": {
+          "min": 11.2,
+          "max": 15.6,
+          "mean": 12.42,
+          "median": 11.2,
+          "suggested": 10.79,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M4A1-S | Party Animal (Battle-Scarred)",
+        "price": {
+          "min": 8.74,
+          "max": 58.35,
+          "mean": 17.17,
+          "median": 11.2,
+          "suggested": 10.19,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A1-S | Party Animal (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A1-S | Party Animal (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A1-S | Party Animal (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M4A1-S | Party Animal (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M4A1-S | Party Animal (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.169Z"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "skin-d38eab775911",
+  "name": "SCAR-20 | Grotto",
+  "paint_index": "406",
+  "weapon": {
+    "id": "weapon_scar20",
+    "weapon_id": 38,
+    "name": "SCAR-20",
+    "slug": "scar20"
+  },
+  "pattern": {
+    "id": "aq_scar20_leak",
+    "name": "Grotto"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The SCAR-20 is a semi-automatic sniper rifle that trades a high rate of fire and powerful long-distance damage for sluggish movement speed and big price tag. It has been sponged and brush-painted with blue metallic effect paints.\\n\\n<i>The founder of Season Corporation had this piece commissioned after being rescued by renowned Operator Kotaro Izaki</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.11,
+      "max": 70.02,
+      "mean": 4.07,
+      "median": 2.04,
+      "suggested": 1.5,
+      "quantity": 72,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.7,
+      "max": 2.95,
+      "mean": 0.93,
+      "median": 0.83,
+      "suggested": 0.96,
+      "quantity": 27,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.65,
+      "max": 5.12,
+      "mean": 1.2,
+      "median": 0.85,
+      "suggested": 0.97,
+      "quantity": 58,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.61,
+      "max": 0.75,
+      "mean": 0.69,
+      "median": 0.69,
+      "suggested": 0.81,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.62,
+      "max": 17.5,
+      "mean": 2.82,
+      "median": 0.81,
+      "suggested": 0.67,
+      "quantity": 10,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SCAR-20 | Grotto (Factory New)",
+      "price": {
+        "min": 1.11,
+        "max": 70.02,
+        "mean": 4.07,
+        "median": 2.04,
+        "suggested": 1.5,
+        "quantity": 72,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SCAR-20 | Grotto (Minimal Wear)",
+      "price": {
+        "min": 0.7,
+        "max": 2.95,
+        "mean": 0.93,
+        "median": 0.83,
+        "suggested": 0.96,
+        "quantity": 27,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "SCAR-20 | Grotto (Field-Tested)",
+      "price": {
+        "min": 0.65,
+        "max": 5.12,
+        "mean": 1.2,
+        "median": 0.85,
+        "suggested": 0.97,
+        "quantity": 58,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "SCAR-20 | Grotto (Well-Worn)",
+      "price": {
+        "min": 0.61,
+        "max": 0.75,
+        "mean": 0.69,
+        "median": 0.69,
+        "suggested": 0.81,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "SCAR-20 | Grotto (Battle-Scarred)",
+      "price": {
+        "min": 0.62,
+        "max": 17.5,
+        "mean": 2.82,
+        "median": 0.81,
+        "suggested": 0.67,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SCAR-20 | Grotto (Factory New)",
+        "price": {
+          "min": 1.11,
+          "max": 70.02,
+          "mean": 4.07,
+          "median": 2.04,
+          "suggested": 1.5,
+          "quantity": 72,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "SCAR-20 | Grotto (Minimal Wear)",
+        "price": {
+          "min": 0.7,
+          "max": 2.95,
+          "mean": 0.93,
+          "median": 0.83,
+          "suggested": 0.96,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "SCAR-20 | Grotto (Field-Tested)",
+        "price": {
+          "min": 0.65,
+          "max": 5.12,
+          "mean": 1.2,
+          "median": 0.85,
+          "suggested": 0.97,
+          "quantity": 58,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "SCAR-20 | Grotto (Well-Worn)",
+        "price": {
+          "min": 0.61,
+          "max": 0.75,
+          "mean": 0.69,
+          "median": 0.69,
+          "suggested": 0.81,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "SCAR-20 | Grotto (Battle-Scarred)",
+        "price": {
+          "min": 0.62,
+          "max": 17.5,
+          "mean": 2.82,
+          "median": 0.81,
+          "suggested": 0.67,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ SCAR-20 | Grotto (Factory New)",
+        "price": {
+          "min": 1.65,
+          "max": 2.17,
+          "mean": 1.9,
+          "median": 1.97,
+          "suggested": 2.02,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ SCAR-20 | Grotto (Minimal Wear)",
+        "price": {
+          "min": 0.89,
+          "max": 9.2,
+          "mean": 2.37,
+          "median": 1.31,
+          "suggested": 1.25,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ SCAR-20 | Grotto (Field-Tested)",
+        "price": {
+          "min": 0.58,
+          "max": 8.18,
+          "mean": 1.26,
+          "median": 0.68,
+          "suggested": 0.86,
+          "quantity": 39,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ SCAR-20 | Grotto (Well-Worn)",
+        "price": {
+          "min": 0.68,
+          "max": 2.12,
+          "mean": 1.04,
+          "median": 0.84,
+          "suggested": 0.78,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ SCAR-20 | Grotto (Battle-Scarred)",
+        "price": {
+          "min": 0.74,
+          "max": 0.93,
+          "mean": 0.86,
+          "median": 0.92,
+          "suggested": 0.85,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SCAR-20 | Grotto (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir SCAR-20 | Grotto (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir SCAR-20 | Grotto (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir SCAR-20 | Grotto (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir SCAR-20 | Grotto (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:47.422Z"
+}

@@ -1,0 +1,228 @@
+{
+  "id": "skin-cc0d5dff95fc",
+  "name": "★ Specialist Gloves | Chocolate Chesterfield",
+  "paint_index": "1415",
+  "weapon": {
+    "id": "specialist_gloves",
+    "weapon_id": 5034,
+    "name": "Specialist Gloves",
+    "slug": "specialist_gloves"
+  },
+  "pattern": {
+    "id": "glove_specialist_quilted_black",
+    "name": "Chocolate Chesterfield"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_gloves",
+    "name": "Gloves"
+  },
+  "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Durable, breathable, and stylish; these gloves are designed to take (and give) a beating.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1018.89,
+      "max": 1018.89,
+      "mean": 1018.89,
+      "median": 1018.89,
+      "suggested": 1113.03,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 243.82,
+      "max": 315.07,
+      "mean": 268.98,
+      "median": 254.58,
+      "suggested": 308.83,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 103.31,
+      "max": 302.41,
+      "mean": 147.38,
+      "median": 119.84,
+      "suggested": 134.07,
+      "quantity": 28,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 110.21,
+      "max": 137.76,
+      "mean": 117.27,
+      "median": 110.85,
+      "suggested": 115.89,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 96.42,
+      "max": 275.5,
+      "mean": 136.19,
+      "median": 115.25,
+      "suggested": 110.69,
+      "quantity": 8,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Specialist Gloves | Chocolate Chesterfield (Factory New)",
+      "price": {
+        "min": 1018.89,
+        "max": 1018.89,
+        "mean": 1018.89,
+        "median": 1018.89,
+        "suggested": 1113.03,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Specialist Gloves | Chocolate Chesterfield (Minimal Wear)",
+      "price": {
+        "min": 243.82,
+        "max": 315.07,
+        "mean": 268.98,
+        "median": 254.58,
+        "suggested": 308.83,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Specialist Gloves | Chocolate Chesterfield (Field-Tested)",
+      "price": {
+        "min": 103.31,
+        "max": 302.41,
+        "mean": 147.38,
+        "median": 119.84,
+        "suggested": 134.07,
+        "quantity": 28,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Specialist Gloves | Chocolate Chesterfield (Well-Worn)",
+      "price": {
+        "min": 110.21,
+        "max": 137.76,
+        "mean": 117.27,
+        "median": 110.85,
+        "suggested": 115.89,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Specialist Gloves | Chocolate Chesterfield (Battle-Scarred)",
+      "price": {
+        "min": 96.42,
+        "max": 275.5,
+        "mean": 136.19,
+        "median": 115.25,
+        "suggested": 110.69,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Specialist Gloves | Chocolate Chesterfield (Factory New)",
+        "price": {
+          "min": 1018.89,
+          "max": 1018.89,
+          "mean": 1018.89,
+          "median": 1018.89,
+          "suggested": 1113.03,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Specialist Gloves | Chocolate Chesterfield (Minimal Wear)",
+        "price": {
+          "min": 243.82,
+          "max": 315.07,
+          "mean": 268.98,
+          "median": 254.58,
+          "suggested": 308.83,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Specialist Gloves | Chocolate Chesterfield (Field-Tested)",
+        "price": {
+          "min": 103.31,
+          "max": 302.41,
+          "mean": 147.38,
+          "median": 119.84,
+          "suggested": 134.07,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Specialist Gloves | Chocolate Chesterfield (Well-Worn)",
+        "price": {
+          "min": 110.21,
+          "max": 137.76,
+          "mean": 117.27,
+          "median": 110.85,
+          "suggested": 115.89,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Specialist Gloves | Chocolate Chesterfield (Battle-Scarred)",
+        "price": {
+          "min": 96.42,
+          "max": 275.5,
+          "mean": 136.19,
+          "median": 115.25,
+          "suggested": 110.69,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:23.631Z"
+}

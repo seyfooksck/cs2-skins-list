@@ -1,0 +1,310 @@
+{
+  "id": "skin-f10cd3871578",
+  "name": "AK-47 | Ice Coaled",
+  "paint_index": "1143",
+  "weapon": {
+    "id": "weapon_ak47",
+    "weapon_id": 7,
+    "name": "AK-47",
+    "slug": "ak47"
+  },
+  "pattern": {
+    "id": "cu_ak47_cogthings",
+    "name": "Ice Coaled"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.77,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. It has been custom painted with a vibrant green and blue gradient.\\n\\n<i>Cold to the touch</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 17.41,
+      "max": 9720.59,
+      "mean": 100.94,
+      "median": 22.17,
+      "suggested": 21.74,
+      "quantity": 186,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 7.77,
+      "max": 1256.79,
+      "mean": 15.68,
+      "median": 9.15,
+      "suggested": 10.59,
+      "quantity": 466,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 4.34,
+      "max": 249.41,
+      "mean": 8.86,
+      "median": 5.25,
+      "suggested": 5.72,
+      "quantity": 672,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 4.59,
+      "max": 35,
+      "mean": 6.97,
+      "median": 5.25,
+      "suggested": 5.94,
+      "quantity": 55,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 3.86,
+      "max": 36.7,
+      "mean": 6.6,
+      "median": 4.61,
+      "suggested": 5.11,
+      "quantity": 91,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AK-47 | Ice Coaled (Factory New)",
+      "price": {
+        "min": 17.41,
+        "max": 9720.59,
+        "mean": 100.94,
+        "median": 22.17,
+        "suggested": 21.74,
+        "quantity": 186,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AK-47 | Ice Coaled (Minimal Wear)",
+      "price": {
+        "min": 7.77,
+        "max": 1256.79,
+        "mean": 15.68,
+        "median": 9.15,
+        "suggested": 10.59,
+        "quantity": 466,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AK-47 | Ice Coaled (Field-Tested)",
+      "price": {
+        "min": 4.34,
+        "max": 249.41,
+        "mean": 8.86,
+        "median": 5.25,
+        "suggested": 5.72,
+        "quantity": 672,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AK-47 | Ice Coaled (Well-Worn)",
+      "price": {
+        "min": 4.59,
+        "max": 35,
+        "mean": 6.97,
+        "median": 5.25,
+        "suggested": 5.94,
+        "quantity": 55,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AK-47 | Ice Coaled (Battle-Scarred)",
+      "price": {
+        "min": 3.86,
+        "max": 36.7,
+        "mean": 6.6,
+        "median": 4.61,
+        "suggested": 5.11,
+        "quantity": 91,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AK-47 | Ice Coaled (Factory New)",
+        "price": {
+          "min": 17.41,
+          "max": 9720.59,
+          "mean": 100.94,
+          "median": 22.17,
+          "suggested": 21.74,
+          "quantity": 186,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AK-47 | Ice Coaled (Minimal Wear)",
+        "price": {
+          "min": 7.77,
+          "max": 1256.79,
+          "mean": 15.68,
+          "median": 9.15,
+          "suggested": 10.59,
+          "quantity": 466,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AK-47 | Ice Coaled (Field-Tested)",
+        "price": {
+          "min": 4.34,
+          "max": 249.41,
+          "mean": 8.86,
+          "median": 5.25,
+          "suggested": 5.72,
+          "quantity": 672,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AK-47 | Ice Coaled (Well-Worn)",
+        "price": {
+          "min": 4.59,
+          "max": 35,
+          "mean": 6.97,
+          "median": 5.25,
+          "suggested": 5.94,
+          "quantity": 55,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AK-47 | Ice Coaled (Battle-Scarred)",
+        "price": {
+          "min": 3.86,
+          "max": 36.7,
+          "mean": 6.6,
+          "median": 4.61,
+          "suggested": 5.11,
+          "quantity": 91,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AK-47 | Ice Coaled (Factory New)",
+        "price": {
+          "min": 39.66,
+          "max": 152.22,
+          "mean": 69.26,
+          "median": 47.34,
+          "suggested": 47.08,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AK-47 | Ice Coaled (Minimal Wear)",
+        "price": {
+          "min": 19.45,
+          "max": 1263.21,
+          "mean": 51.21,
+          "median": 22.92,
+          "suggested": 24.88,
+          "quantity": 52,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AK-47 | Ice Coaled (Field-Tested)",
+        "price": {
+          "min": 9.55,
+          "max": 103.86,
+          "mean": 15.96,
+          "median": 11.61,
+          "suggested": 11.95,
+          "quantity": 80,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AK-47 | Ice Coaled (Well-Worn)",
+        "price": {
+          "min": 10.35,
+          "max": 42.01,
+          "mean": 15.3,
+          "median": 12.38,
+          "suggested": 12.18,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ AK-47 | Ice Coaled (Battle-Scarred)",
+        "price": {
+          "min": 9.34,
+          "max": 46.67,
+          "mean": 14.83,
+          "median": 11.46,
+          "suggested": 11.25,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AK-47 | Ice Coaled (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AK-47 | Ice Coaled (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AK-47 | Ice Coaled (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AK-47 | Ice Coaled (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AK-47 | Ice Coaled (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:20:20.509Z"
+}

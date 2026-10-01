@@ -1,0 +1,177 @@
+{
+  "id": "skin-c2d700bf69aa",
+  "name": "★ Navaja Knife | Boreal Forest",
+  "paint_index": "77",
+  "weapon": {
+    "id": "weapon_knife_gypsy_jackknife",
+    "weapon_id": 520,
+    "name": "Navaja Knife",
+    "slug": "knife_gypsy_jackknife"
+  },
+  "pattern": {
+    "id": "hy_forest_boreal",
+    "name": "Boreal Forest"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This marble-enamel-handled flip knife conceals a small but viciously tapered blade. It has been painted using a forest camouflage hydrographic.\\n\\n<i>The woods can be a dangerous place... never travel alone</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 47.04,
+      "max": 134.19,
+      "mean": 71.39,
+      "median": 61.38,
+      "suggested": 57.91,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 45.93,
+      "max": 142.05,
+      "mean": 69.68,
+      "median": 53.41,
+      "suggested": 50.7,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Navaja Knife | Boreal Forest (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Navaja Knife | Boreal Forest (Minimal Wear)",
+      "price": {
+        "min": 47.04,
+        "max": 134.19,
+        "mean": 71.39,
+        "median": 61.38,
+        "suggested": 57.91,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Navaja Knife | Boreal Forest (Field-Tested)",
+      "price": {
+        "min": 45.93,
+        "max": 142.05,
+        "mean": 69.68,
+        "median": 53.41,
+        "suggested": 50.7,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Navaja Knife | Boreal Forest (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Navaja Knife | Boreal Forest (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Navaja Knife | Boreal Forest (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Navaja Knife | Boreal Forest (Minimal Wear)",
+        "price": {
+          "min": 47.04,
+          "max": 134.19,
+          "mean": 71.39,
+          "median": 61.38,
+          "suggested": 57.91,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Navaja Knife | Boreal Forest (Field-Tested)",
+        "price": {
+          "min": 45.93,
+          "max": 142.05,
+          "mean": 69.68,
+          "median": 53.41,
+          "suggested": 50.7,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Navaja Knife | Boreal Forest (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ Navaja Knife | Boreal Forest (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Navaja Knife | Boreal Forest (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Navaja Knife | Boreal Forest (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Navaja Knife | Boreal Forest (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Navaja Knife | Boreal Forest (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Navaja Knife | Boreal Forest (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:35.571Z"
+}

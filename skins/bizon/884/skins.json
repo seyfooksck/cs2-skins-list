@@ -1,0 +1,310 @@
+{
+  "id": "skin-de365c1a71ad",
+  "name": "PP-Bizon | Embargo",
+  "paint_index": "884",
+  "weapon": {
+    "id": "weapon_bizon",
+    "weapon_id": 26,
+    "name": "PP-Bizon",
+    "slug": "bizon"
+  },
+  "pattern": {
+    "id": "cu_bizon_road_warrior",
+    "name": "Embargo"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly. Pieced together from found items, it has a teal base and various 1950's Havana advertisements.\\n\\n<i>¡Chao pescao!</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 21.13,
+      "max": 233.38,
+      "mean": 49.62,
+      "median": 25.6,
+      "suggested": 24.45,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 4.39,
+      "max": 9.34,
+      "mean": 6.04,
+      "median": 5.45,
+      "suggested": 5.51,
+      "quantity": 21,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.79,
+      "max": 25.32,
+      "mean": 3.97,
+      "median": 2.42,
+      "suggested": 2.33,
+      "quantity": 25,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.41,
+      "max": 32.3,
+      "mean": 4.2,
+      "median": 2.09,
+      "suggested": 2.03,
+      "quantity": 27,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.69,
+      "max": 5.5,
+      "mean": 2.78,
+      "median": 2.04,
+      "suggested": 1.91,
+      "quantity": 15,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "PP-Bizon | Embargo (Factory New)",
+      "price": {
+        "min": 21.13,
+        "max": 233.38,
+        "mean": 49.62,
+        "median": 25.6,
+        "suggested": 24.45,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "PP-Bizon | Embargo (Minimal Wear)",
+      "price": {
+        "min": 4.39,
+        "max": 9.34,
+        "mean": 6.04,
+        "median": 5.45,
+        "suggested": 5.51,
+        "quantity": 21,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "PP-Bizon | Embargo (Field-Tested)",
+      "price": {
+        "min": 1.79,
+        "max": 25.32,
+        "mean": 3.97,
+        "median": 2.42,
+        "suggested": 2.33,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "PP-Bizon | Embargo (Well-Worn)",
+      "price": {
+        "min": 1.41,
+        "max": 32.3,
+        "mean": 4.2,
+        "median": 2.09,
+        "suggested": 2.03,
+        "quantity": 27,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "PP-Bizon | Embargo (Battle-Scarred)",
+      "price": {
+        "min": 1.69,
+        "max": 5.5,
+        "mean": 2.78,
+        "median": 2.04,
+        "suggested": 1.91,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "PP-Bizon | Embargo (Factory New)",
+        "price": {
+          "min": 21.13,
+          "max": 233.38,
+          "mean": 49.62,
+          "median": 25.6,
+          "suggested": 24.45,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "PP-Bizon | Embargo (Minimal Wear)",
+        "price": {
+          "min": 4.39,
+          "max": 9.34,
+          "mean": 6.04,
+          "median": 5.45,
+          "suggested": 5.51,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "PP-Bizon | Embargo (Field-Tested)",
+        "price": {
+          "min": 1.79,
+          "max": 25.32,
+          "mean": 3.97,
+          "median": 2.42,
+          "suggested": 2.33,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "PP-Bizon | Embargo (Well-Worn)",
+        "price": {
+          "min": 1.41,
+          "max": 32.3,
+          "mean": 4.2,
+          "median": 2.09,
+          "suggested": 2.03,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "PP-Bizon | Embargo (Battle-Scarred)",
+        "price": {
+          "min": 1.69,
+          "max": 5.5,
+          "mean": 2.78,
+          "median": 2.04,
+          "suggested": 1.91,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Embargo (Factory New)",
+        "price": {
+          "min": 26.03,
+          "max": 865.87,
+          "mean": 200.33,
+          "median": 39.98,
+          "suggested": 32.25,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Embargo (Minimal Wear)",
+        "price": {
+          "min": 9.39,
+          "max": 17.5,
+          "mean": 12.3,
+          "median": 10.5,
+          "suggested": 11.58,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Embargo (Field-Tested)",
+        "price": {
+          "min": 4.06,
+          "max": 9.34,
+          "mean": 4.99,
+          "median": 4.47,
+          "suggested": 4.87,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Embargo (Well-Worn)",
+        "price": {
+          "min": 4.87,
+          "max": 5.95,
+          "mean": 5.24,
+          "median": 4.9,
+          "suggested": 3.98,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Embargo (Battle-Scarred)",
+        "price": {
+          "min": 3.82,
+          "max": 4.48,
+          "mean": 4.15,
+          "median": 4.15,
+          "suggested": 4.36,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir PP-Bizon | Embargo (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir PP-Bizon | Embargo (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir PP-Bizon | Embargo (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir PP-Bizon | Embargo (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir PP-Bizon | Embargo (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:27.065Z"
+}

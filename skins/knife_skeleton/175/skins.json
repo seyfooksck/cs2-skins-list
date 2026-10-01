@@ -1,0 +1,233 @@
+{
+  "id": "skin-26e44d96e1a4",
+  "name": "★ Skeleton Knife | Scorched",
+  "paint_index": "175",
+  "weapon": {
+    "id": "weapon_knife_skeleton",
+    "weapon_id": 525,
+    "name": "Skeleton Knife",
+    "slug": "knife_skeleton"
+  },
+  "pattern": {
+    "id": "sp_dapple",
+    "name": "Scorched"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This skeletonized-tang knife has been taped at the handle for improved grip. The hole allows a finger to be threaded through for stability and safety. It has been spray-painted in a sun-dappled pattern.\\n\\n<i>The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 177.58,
+      "max": 286.76,
+      "mean": 211.74,
+      "median": 191.31,
+      "suggested": 181.36,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 143.52,
+      "max": 274.23,
+      "mean": 173.33,
+      "median": 154.27,
+      "suggested": 181.69,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 135.01,
+      "max": 135.01,
+      "mean": 135.01,
+      "median": 135.01,
+      "suggested": 176.62,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 133.92,
+      "max": 135.08,
+      "mean": 134.52,
+      "median": 134.57,
+      "suggested": 163.21,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Skeleton Knife | Scorched (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Skeleton Knife | Scorched (Minimal Wear)",
+      "price": {
+        "min": 177.58,
+        "max": 286.76,
+        "mean": 211.74,
+        "median": 191.31,
+        "suggested": 181.36,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Skeleton Knife | Scorched (Field-Tested)",
+      "price": {
+        "min": 143.52,
+        "max": 274.23,
+        "mean": 173.33,
+        "median": 154.27,
+        "suggested": 181.69,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Skeleton Knife | Scorched (Well-Worn)",
+      "price": {
+        "min": 135.01,
+        "max": 135.01,
+        "mean": 135.01,
+        "median": 135.01,
+        "suggested": 176.62,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Skeleton Knife | Scorched (Battle-Scarred)",
+      "price": {
+        "min": 133.92,
+        "max": 135.08,
+        "mean": 134.52,
+        "median": 134.57,
+        "suggested": 163.21,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Skeleton Knife | Scorched (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Skeleton Knife | Scorched (Minimal Wear)",
+        "price": {
+          "min": 177.58,
+          "max": 286.76,
+          "mean": 211.74,
+          "median": 191.31,
+          "suggested": 181.36,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Skeleton Knife | Scorched (Field-Tested)",
+        "price": {
+          "min": 143.52,
+          "max": 274.23,
+          "mean": 173.33,
+          "median": 154.27,
+          "suggested": 181.69,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Skeleton Knife | Scorched (Well-Worn)",
+        "price": {
+          "min": 135.01,
+          "max": 135.01,
+          "mean": 135.01,
+          "median": 135.01,
+          "suggested": 176.62,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Skeleton Knife | Scorched (Battle-Scarred)",
+        "price": {
+          "min": 133.92,
+          "max": 135.08,
+          "mean": 134.52,
+          "median": 134.57,
+          "suggested": 163.21,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Skeleton Knife | Scorched (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Skeleton Knife | Scorched (Minimal Wear)",
+        "price": {
+          "min": 226.53,
+          "max": 226.53,
+          "mean": 226.53,
+          "median": 226.53,
+          "suggested": 264.37,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Skeleton Knife | Scorched (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Skeleton Knife | Scorched (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Skeleton Knife | Scorched (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:37.808Z"
+}

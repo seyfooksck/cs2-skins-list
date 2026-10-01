@@ -1,0 +1,310 @@
+{
+  "id": "skin-aef077455139",
+  "name": "Nova | Rising Sun",
+  "paint_index": "1192",
+  "weapon": {
+    "id": "weapon_nova",
+    "weapon_id": 35,
+    "name": "Nova",
+    "slug": "nova"
+  },
+  "pattern": {
+    "id": "nova_rising_sun",
+    "name": "Rising Sun"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Nova's rock-bottom price tag makes it a great ambush weapon for a cash-strapped team. It has been custom painted to resemble a stained glass Japanese motif.\\n\\n<i>Wait 'til you see it in the sun - Imogen, Arms Dealer In Training</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 4.98,
+      "max": 64.18,
+      "mean": 14.66,
+      "median": 9.07,
+      "suggested": 6.11,
+      "quantity": 58,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.19,
+      "max": 15.44,
+      "mean": 2.98,
+      "median": 1.69,
+      "suggested": 1.51,
+      "quantity": 248,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.5,
+      "max": 32.67,
+      "mean": 0.78,
+      "median": 0.64,
+      "suggested": 0.73,
+      "quantity": 884,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.44,
+      "max": 28.59,
+      "mean": 0.77,
+      "median": 0.55,
+      "suggested": 0.55,
+      "quantity": 455,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.43,
+      "max": 28.59,
+      "mean": 0.72,
+      "median": 0.55,
+      "suggested": 0.55,
+      "quantity": 291,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Nova | Rising Sun (Factory New)",
+      "price": {
+        "min": 4.98,
+        "max": 64.18,
+        "mean": 14.66,
+        "median": 9.07,
+        "suggested": 6.11,
+        "quantity": 58,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Nova | Rising Sun (Minimal Wear)",
+      "price": {
+        "min": 1.19,
+        "max": 15.44,
+        "mean": 2.98,
+        "median": 1.69,
+        "suggested": 1.51,
+        "quantity": 248,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Nova | Rising Sun (Field-Tested)",
+      "price": {
+        "min": 0.5,
+        "max": 32.67,
+        "mean": 0.78,
+        "median": 0.64,
+        "suggested": 0.73,
+        "quantity": 884,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Nova | Rising Sun (Well-Worn)",
+      "price": {
+        "min": 0.44,
+        "max": 28.59,
+        "mean": 0.77,
+        "median": 0.55,
+        "suggested": 0.55,
+        "quantity": 455,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Nova | Rising Sun (Battle-Scarred)",
+      "price": {
+        "min": 0.43,
+        "max": 28.59,
+        "mean": 0.72,
+        "median": 0.55,
+        "suggested": 0.55,
+        "quantity": 291,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Nova | Rising Sun (Factory New)",
+        "price": {
+          "min": 4.98,
+          "max": 64.18,
+          "mean": 14.66,
+          "median": 9.07,
+          "suggested": 6.11,
+          "quantity": 58,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Nova | Rising Sun (Minimal Wear)",
+        "price": {
+          "min": 1.19,
+          "max": 15.44,
+          "mean": 2.98,
+          "median": 1.69,
+          "suggested": 1.51,
+          "quantity": 248,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Nova | Rising Sun (Field-Tested)",
+        "price": {
+          "min": 0.5,
+          "max": 32.67,
+          "mean": 0.78,
+          "median": 0.64,
+          "suggested": 0.73,
+          "quantity": 884,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Nova | Rising Sun (Well-Worn)",
+        "price": {
+          "min": 0.44,
+          "max": 28.59,
+          "mean": 0.77,
+          "median": 0.55,
+          "suggested": 0.55,
+          "quantity": 455,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Nova | Rising Sun (Battle-Scarred)",
+        "price": {
+          "min": 0.43,
+          "max": 28.59,
+          "mean": 0.72,
+          "median": 0.55,
+          "suggested": 0.55,
+          "quantity": 291,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Nova | Rising Sun (Factory New)",
+        "price": {
+          "min": 7.91,
+          "max": 67.5,
+          "mean": 17.67,
+          "median": 14.26,
+          "suggested": 9.47,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Nova | Rising Sun (Minimal Wear)",
+        "price": {
+          "min": 2,
+          "max": 112.03,
+          "mean": 7.74,
+          "median": 2.43,
+          "suggested": 2.4,
+          "quantity": 84,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Nova | Rising Sun (Field-Tested)",
+        "price": {
+          "min": 0.79,
+          "max": 10.27,
+          "mean": 1.05,
+          "median": 1.02,
+          "suggested": 1.03,
+          "quantity": 268,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Nova | Rising Sun (Well-Worn)",
+        "price": {
+          "min": 0.56,
+          "max": 7.7,
+          "mean": 0.96,
+          "median": 0.86,
+          "suggested": 0.82,
+          "quantity": 108,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Nova | Rising Sun (Battle-Scarred)",
+        "price": {
+          "min": 0.56,
+          "max": 6.88,
+          "mean": 0.88,
+          "median": 0.71,
+          "suggested": 0.73,
+          "quantity": 85,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Nova | Rising Sun (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Nova | Rising Sun (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Nova | Rising Sun (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Nova | Rising Sun (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Nova | Rising Sun (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.772Z"
+}

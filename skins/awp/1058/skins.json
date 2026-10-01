@@ -1,0 +1,209 @@
+{
+  "id": "skin-4775500ef0bb",
+  "name": "AWP | POP AWP",
+  "paint_index": "1058",
+  "weapon": {
+    "id": "weapon_awp",
+    "weapon_id": 9,
+    "name": "AWP",
+    "slug": "awp"
+  },
+  "pattern": {
+    "id": "hy_technowar_rwb",
+    "name": "POP AWP"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.44,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. A white, red, and blue retro techno-inspired pattern has been applied.\\n\\n<i>Wars are won with information</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 54.44,
+      "max": 3162.4,
+      "mean": 149.55,
+      "median": 99.47,
+      "suggested": 83.85,
+      "quantity": 112,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 10.92,
+      "max": 58.35,
+      "mean": 23.39,
+      "median": 19.52,
+      "suggested": 13.76,
+      "quantity": 60,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 9.57,
+      "max": 37.88,
+      "mean": 16.44,
+      "median": 13.96,
+      "suggested": 11.53,
+      "quantity": 34,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 9.34,
+      "max": 27.99,
+      "mean": 16.1,
+      "median": 12.35,
+      "suggested": 12.02,
+      "quantity": 6,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AWP | POP AWP (Factory New)",
+      "price": {
+        "min": 54.44,
+        "max": 3162.4,
+        "mean": 149.55,
+        "median": 99.47,
+        "suggested": 83.85,
+        "quantity": 112,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AWP | POP AWP (Minimal Wear)",
+      "price": {
+        "min": 10.92,
+        "max": 58.35,
+        "mean": 23.39,
+        "median": 19.52,
+        "suggested": 13.76,
+        "quantity": 60,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AWP | POP AWP (Field-Tested)",
+      "price": {
+        "min": 9.57,
+        "max": 37.88,
+        "mean": 16.44,
+        "median": 13.96,
+        "suggested": 11.53,
+        "quantity": 34,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AWP | POP AWP (Well-Worn)",
+      "price": {
+        "min": 9.34,
+        "max": 27.99,
+        "mean": 16.1,
+        "median": 12.35,
+        "suggested": 12.02,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AWP | POP AWP (Factory New)",
+        "price": {
+          "min": 54.44,
+          "max": 3162.4,
+          "mean": 149.55,
+          "median": 99.47,
+          "suggested": 83.85,
+          "quantity": 112,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AWP | POP AWP (Minimal Wear)",
+        "price": {
+          "min": 10.92,
+          "max": 58.35,
+          "mean": 23.39,
+          "median": 19.52,
+          "suggested": 13.76,
+          "quantity": 60,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AWP | POP AWP (Field-Tested)",
+        "price": {
+          "min": 9.57,
+          "max": 37.88,
+          "mean": 16.44,
+          "median": 13.96,
+          "suggested": 11.53,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AWP | POP AWP (Well-Worn)",
+        "price": {
+          "min": 9.34,
+          "max": 27.99,
+          "mean": 16.1,
+          "median": 12.35,
+          "suggested": 12.02,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AWP | POP AWP (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AWP | POP AWP (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AWP | POP AWP (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AWP | POP AWP (Well-Worn)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:26.326Z"
+}

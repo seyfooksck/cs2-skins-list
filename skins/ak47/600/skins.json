@@ -1,0 +1,310 @@
+{
+  "id": "skin-1a5e885d9d28",
+  "name": "AK-47 | Neon Revolution",
+  "paint_index": "600",
+  "weapon": {
+    "id": "weapon_ak47",
+    "weapon_id": 7,
+    "name": "AK-47",
+    "slug": "ak47"
+  },
+  "pattern": {
+    "id": "cu_ak47_anarchy",
+    "name": "Neon Revolution"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.8,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. It has been given an eclectic mix of hydrographic decals then drip painted.\\n\\n<i>No suicide squad would be complete without it</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 240.3,
+      "max": 613.46,
+      "mean": 375.18,
+      "median": 343.51,
+      "suggested": 376.9,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 117.6,
+      "max": 278.52,
+      "mean": 156.19,
+      "median": 138.32,
+      "suggested": 152.04,
+      "quantity": 47,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 112.25,
+      "max": 654.07,
+      "mean": 134.06,
+      "median": 120.82,
+      "suggested": 140.84,
+      "quantity": 119,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 110.58,
+      "max": 138.56,
+      "mean": 119.23,
+      "median": 115.52,
+      "suggested": 138.12,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 105.78,
+      "max": 163.37,
+      "mean": 119.6,
+      "median": 118.16,
+      "suggested": 134.5,
+      "quantity": 21,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AK-47 | Neon Revolution (Factory New)",
+      "price": {
+        "min": 240.3,
+        "max": 613.46,
+        "mean": 375.18,
+        "median": 343.51,
+        "suggested": 376.9,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AK-47 | Neon Revolution (Minimal Wear)",
+      "price": {
+        "min": 117.6,
+        "max": 278.52,
+        "mean": 156.19,
+        "median": 138.32,
+        "suggested": 152.04,
+        "quantity": 47,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AK-47 | Neon Revolution (Field-Tested)",
+      "price": {
+        "min": 112.25,
+        "max": 654.07,
+        "mean": 134.06,
+        "median": 120.82,
+        "suggested": 140.84,
+        "quantity": 119,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AK-47 | Neon Revolution (Well-Worn)",
+      "price": {
+        "min": 110.58,
+        "max": 138.56,
+        "mean": 119.23,
+        "median": 115.52,
+        "suggested": 138.12,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AK-47 | Neon Revolution (Battle-Scarred)",
+      "price": {
+        "min": 105.78,
+        "max": 163.37,
+        "mean": 119.6,
+        "median": 118.16,
+        "suggested": 134.5,
+        "quantity": 21,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AK-47 | Neon Revolution (Factory New)",
+        "price": {
+          "min": 240.3,
+          "max": 613.46,
+          "mean": 375.18,
+          "median": 343.51,
+          "suggested": 376.9,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AK-47 | Neon Revolution (Minimal Wear)",
+        "price": {
+          "min": 117.6,
+          "max": 278.52,
+          "mean": 156.19,
+          "median": 138.32,
+          "suggested": 152.04,
+          "quantity": 47,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AK-47 | Neon Revolution (Field-Tested)",
+        "price": {
+          "min": 112.25,
+          "max": 654.07,
+          "mean": 134.06,
+          "median": 120.82,
+          "suggested": 140.84,
+          "quantity": 119,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AK-47 | Neon Revolution (Well-Worn)",
+        "price": {
+          "min": 110.58,
+          "max": 138.56,
+          "mean": 119.23,
+          "median": 115.52,
+          "suggested": 138.12,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AK-47 | Neon Revolution (Battle-Scarred)",
+        "price": {
+          "min": 105.78,
+          "max": 163.37,
+          "mean": 119.6,
+          "median": 118.16,
+          "suggested": 134.5,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AK-47 | Neon Revolution (Factory New)",
+        "price": {
+          "min": 213.88,
+          "max": 358.45,
+          "mean": 268.82,
+          "median": 259.69,
+          "suggested": 286.44,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AK-47 | Neon Revolution (Minimal Wear)",
+        "price": {
+          "min": 120.65,
+          "max": 6803.49,
+          "mean": 398.23,
+          "median": 140.03,
+          "suggested": 160.57,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AK-47 | Neon Revolution (Field-Tested)",
+        "price": {
+          "min": 96.02,
+          "max": 215.19,
+          "mean": 114.65,
+          "median": 110.24,
+          "suggested": 129.83,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AK-47 | Neon Revolution (Well-Worn)",
+        "price": {
+          "min": 110.86,
+          "max": 233.39,
+          "mean": 152.23,
+          "median": 112.45,
+          "suggested": 119.65,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ AK-47 | Neon Revolution (Battle-Scarred)",
+        "price": {
+          "min": 99.56,
+          "max": 108.76,
+          "mean": 103.17,
+          "median": 102.69,
+          "suggested": 126.18,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AK-47 | Neon Revolution (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AK-47 | Neon Revolution (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AK-47 | Neon Revolution (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AK-47 | Neon Revolution (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AK-47 | Neon Revolution (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:20:20.436Z"
+}

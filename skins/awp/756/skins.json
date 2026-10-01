@@ -1,0 +1,225 @@
+{
+  "id": "skin-2b99573c887b",
+  "name": "AWP | Gungnir",
+  "paint_index": "756",
+  "weapon": {
+    "id": "weapon_awp",
+    "weapon_id": 9,
+    "name": "AWP",
+    "slug": "awp"
+  },
+  "pattern": {
+    "id": "gs_awp_gungnir",
+    "name": "Gungnir"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. Odin's spear travels down this custom painted pearlescent blue and ivory AWP.\\n\\n<i>A weapon for the Allfather</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 11668.21,
+      "max": 15170.18,
+      "mean": 13227.42,
+      "median": 13142.74,
+      "suggested": 14654.99,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 10665.01,
+      "max": 10665.01,
+      "mean": 10665.01,
+      "median": 10665.01,
+      "suggested": 12366.95,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 8089.71,
+      "max": 10269.05,
+      "mean": 9140.99,
+      "median": 8775.37,
+      "suggested": 8801.09,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 5876.3,
+      "max": 6534.85,
+      "mean": 6205.57,
+      "median": 6205.57,
+      "suggested": 7549.97,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AWP | Gungnir (Factory New)",
+      "price": {
+        "min": 11668.21,
+        "max": 15170.18,
+        "mean": 13227.42,
+        "median": 13142.74,
+        "suggested": 14654.99,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AWP | Gungnir (Minimal Wear)",
+      "price": {
+        "min": 10665.01,
+        "max": 10665.01,
+        "mean": 10665.01,
+        "median": 10665.01,
+        "suggested": 12366.95,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AWP | Gungnir (Field-Tested)",
+      "price": {
+        "min": 8089.71,
+        "max": 10269.05,
+        "mean": 9140.99,
+        "median": 8775.37,
+        "suggested": 8801.09,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AWP | Gungnir (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AWP | Gungnir (Battle-Scarred)",
+      "price": {
+        "min": 5876.3,
+        "max": 6534.85,
+        "mean": 6205.57,
+        "median": 6205.57,
+        "suggested": 7549.97,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AWP | Gungnir (Factory New)",
+        "price": {
+          "min": 11668.21,
+          "max": 15170.18,
+          "mean": 13227.42,
+          "median": 13142.74,
+          "suggested": 14654.99,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AWP | Gungnir (Minimal Wear)",
+        "price": {
+          "min": 10665.01,
+          "max": 10665.01,
+          "mean": 10665.01,
+          "median": 10665.01,
+          "suggested": 12366.95,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AWP | Gungnir (Field-Tested)",
+        "price": {
+          "min": 8089.71,
+          "max": 10269.05,
+          "mean": 9140.99,
+          "median": 8775.37,
+          "suggested": 8801.09,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AWP | Gungnir (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "AWP | Gungnir (Battle-Scarred)",
+        "price": {
+          "min": 5876.3,
+          "max": 6534.85,
+          "mean": 6205.57,
+          "median": 6205.57,
+          "suggested": 7549.97,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AWP | Gungnir (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AWP | Gungnir (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AWP | Gungnir (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AWP | Gungnir (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AWP | Gungnir (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:26.188Z"
+}

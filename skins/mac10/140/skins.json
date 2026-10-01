@@ -1,0 +1,289 @@
+{
+  "id": "skin-4d819a5e4be2",
+  "name": "MAC-10 | Pipsqueak",
+  "paint_index": "140",
+  "weapon": {
+    "id": "weapon_mac10",
+    "weapon_id": 17,
+    "name": "MAC-10",
+    "slug": "mac10"
+  },
+  "pattern": {
+    "id": "cu_overpass_squeak_mac10",
+    "name": "Pipsqueak"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.9,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. The rat near the rear sight is surrounded by black and blue graffiti.\\n\\n<i>Game on</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 3.57,
+      "max": 69.76,
+      "mean": 14.65,
+      "median": 11.19,
+      "suggested": 4.96,
+      "quantity": 96,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.03,
+      "max": 34.16,
+      "mean": 2.47,
+      "median": 1.95,
+      "suggested": 1.2,
+      "quantity": 193,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.33,
+      "max": 28.59,
+      "mean": 1.82,
+      "median": 1.38,
+      "suggested": 0.38,
+      "quantity": 362,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.26,
+      "max": 14.91,
+      "mean": 0.9,
+      "median": 0.32,
+      "suggested": 0.35,
+      "quantity": 60,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.22,
+      "max": 19.25,
+      "mean": 1.66,
+      "median": 0.29,
+      "suggested": 0.32,
+      "quantity": 72,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAC-10 | Pipsqueak (Factory New)",
+      "price": {
+        "min": 3.57,
+        "max": 69.76,
+        "mean": 14.65,
+        "median": 11.19,
+        "suggested": 4.96,
+        "quantity": 96,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAC-10 | Pipsqueak (Minimal Wear)",
+      "price": {
+        "min": 1.03,
+        "max": 34.16,
+        "mean": 2.47,
+        "median": 1.95,
+        "suggested": 1.2,
+        "quantity": 193,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAC-10 | Pipsqueak (Field-Tested)",
+      "price": {
+        "min": 0.33,
+        "max": 28.59,
+        "mean": 1.82,
+        "median": 1.38,
+        "suggested": 0.38,
+        "quantity": 362,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAC-10 | Pipsqueak (Well-Worn)",
+      "price": {
+        "min": 0.26,
+        "max": 14.91,
+        "mean": 0.9,
+        "median": 0.32,
+        "suggested": 0.35,
+        "quantity": 60,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAC-10 | Pipsqueak (Battle-Scarred)",
+      "price": {
+        "min": 0.22,
+        "max": 19.25,
+        "mean": 1.66,
+        "median": 0.29,
+        "suggested": 0.32,
+        "quantity": 72,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAC-10 | Pipsqueak (Factory New)",
+        "price": {
+          "min": 3.57,
+          "max": 69.76,
+          "mean": 14.65,
+          "median": 11.19,
+          "suggested": 4.96,
+          "quantity": 96,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAC-10 | Pipsqueak (Minimal Wear)",
+        "price": {
+          "min": 1.03,
+          "max": 34.16,
+          "mean": 2.47,
+          "median": 1.95,
+          "suggested": 1.2,
+          "quantity": 193,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAC-10 | Pipsqueak (Field-Tested)",
+        "price": {
+          "min": 0.33,
+          "max": 28.59,
+          "mean": 1.82,
+          "median": 1.38,
+          "suggested": 0.38,
+          "quantity": 362,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAC-10 | Pipsqueak (Well-Worn)",
+        "price": {
+          "min": 0.26,
+          "max": 14.91,
+          "mean": 0.9,
+          "median": 0.32,
+          "suggested": 0.35,
+          "quantity": 60,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MAC-10 | Pipsqueak (Battle-Scarred)",
+        "price": {
+          "min": 0.22,
+          "max": 19.25,
+          "mean": 1.66,
+          "median": 0.29,
+          "suggested": 0.32,
+          "quantity": 72,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAC-10 | Pipsqueak (Factory New)",
+        "price": {
+          "min": 12.38,
+          "max": 23.97,
+          "mean": 18.78,
+          "median": 19.98,
+          "suggested": 8.29,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAC-10 | Pipsqueak (Minimal Wear)",
+        "price": {
+          "min": 2.87,
+          "max": 13.59,
+          "mean": 6.44,
+          "median": 4.84,
+          "suggested": 2.25,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAC-10 | Pipsqueak (Field-Tested)",
+        "price": {
+          "min": 0.63,
+          "max": 1.75,
+          "mean": 1.19,
+          "median": 1.04,
+          "suggested": 0.73,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAC-10 | Pipsqueak (Well-Worn)",
+        "price": {
+          "min": 0.44,
+          "max": 0.93,
+          "mean": 0.82,
+          "median": 0.93,
+          "suggested": 0.53,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAC-10 | Pipsqueak (Battle-Scarred)",
+        "price": {
+          "min": 0.4,
+          "max": 168.98,
+          "mean": 45.86,
+          "median": 7.04,
+          "suggested": 0.45,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.776Z"
+}

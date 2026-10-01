@@ -1,0 +1,294 @@
+{
+  "id": "skin-73449301d7a3",
+  "name": "P90 | Death Grip",
+  "paint_index": "669",
+  "weapon": {
+    "id": "weapon_p90",
+    "weapon_id": 19,
+    "name": "P90",
+    "slug": "p90"
+  },
+  "pattern": {
+    "id": "hy_p90_barebones_blue",
+    "name": "Death Grip"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. A hydrographic pattern of overlapping hands has been applied to a blue base.\\n\\n<i>Do not go quietly</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 47.21,
+      "max": 196.63,
+      "mean": 121.92,
+      "median": 121.92,
+      "suggested": 53.86,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 31.5,
+      "max": 49.89,
+      "mean": 39.59,
+      "median": 36.67,
+      "suggested": 37.5,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 22.02,
+      "max": 43.71,
+      "mean": 30.45,
+      "median": 31.51,
+      "suggested": 26.23,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 19.88,
+      "max": 29.38,
+      "mean": 24.63,
+      "median": 24.63,
+      "suggested": 22.5,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 12.91,
+      "max": 59.62,
+      "mean": 28.5,
+      "median": 23.02,
+      "suggested": 16.13,
+      "quantity": 11,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P90 | Death Grip (Factory New)",
+      "price": {
+        "min": 47.21,
+        "max": 196.63,
+        "mean": 121.92,
+        "median": 121.92,
+        "suggested": 53.86,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P90 | Death Grip (Minimal Wear)",
+      "price": {
+        "min": 31.5,
+        "max": 49.89,
+        "mean": 39.59,
+        "median": 36.67,
+        "suggested": 37.5,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P90 | Death Grip (Field-Tested)",
+      "price": {
+        "min": 22.02,
+        "max": 43.71,
+        "mean": 30.45,
+        "median": 31.51,
+        "suggested": 26.23,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P90 | Death Grip (Well-Worn)",
+      "price": {
+        "min": 19.88,
+        "max": 29.38,
+        "mean": 24.63,
+        "median": 24.63,
+        "suggested": 22.5,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P90 | Death Grip (Battle-Scarred)",
+      "price": {
+        "min": 12.91,
+        "max": 59.62,
+        "mean": 28.5,
+        "median": 23.02,
+        "suggested": 16.13,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P90 | Death Grip (Factory New)",
+        "price": {
+          "min": 47.21,
+          "max": 196.63,
+          "mean": 121.92,
+          "median": 121.92,
+          "suggested": 53.86,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P90 | Death Grip (Minimal Wear)",
+        "price": {
+          "min": 31.5,
+          "max": 49.89,
+          "mean": 39.59,
+          "median": 36.67,
+          "suggested": 37.5,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P90 | Death Grip (Field-Tested)",
+        "price": {
+          "min": 22.02,
+          "max": 43.71,
+          "mean": 30.45,
+          "median": 31.51,
+          "suggested": 26.23,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P90 | Death Grip (Well-Worn)",
+        "price": {
+          "min": 19.88,
+          "max": 29.38,
+          "mean": 24.63,
+          "median": 24.63,
+          "suggested": 22.5,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P90 | Death Grip (Battle-Scarred)",
+        "price": {
+          "min": 12.91,
+          "max": 59.62,
+          "mean": 28.5,
+          "median": 23.02,
+          "suggested": 16.13,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P90 | Death Grip (Factory New)",
+        "price": {
+          "min": 38.51,
+          "max": 119.84,
+          "mean": 56.06,
+          "median": 40.69,
+          "suggested": 49.41,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P90 | Death Grip (Minimal Wear)",
+        "price": {
+          "min": 29.2,
+          "max": 31.51,
+          "mean": 30.35,
+          "median": 30.35,
+          "suggested": 28.67,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P90 | Death Grip (Field-Tested)",
+        "price": {
+          "min": 18.94,
+          "max": 68.85,
+          "mean": 35.8,
+          "median": 19.63,
+          "suggested": 20.21,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ P90 | Death Grip (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ P90 | Death Grip (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P90 | Death Grip (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P90 | Death Grip (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P90 | Death Grip (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P90 | Death Grip (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P90 | Death Grip (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:46.209Z"
+}

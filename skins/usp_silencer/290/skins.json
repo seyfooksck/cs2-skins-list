@@ -1,0 +1,206 @@
+{
+  "id": "skin-9180ab4b5f86",
+  "name": "USP-S | Guardian",
+  "paint_index": "290",
+  "weapon": {
+    "id": "weapon_usp_silencer",
+    "weapon_id": 61,
+    "name": "USP-S",
+    "slug": "usp_silencer"
+  },
+  "pattern": {
+    "id": "cu_usp_elegant",
+    "name": "Guardian"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.38,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise. It has been painted cobalt blue and stenciled with the CT logo on the magazine.\\n\\n<i>I don't have to like you, I have to keep you safe - Carmen Cocinero, Extraction Expert</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 9.78,
+      "max": 516.95,
+      "mean": 53.88,
+      "median": 20.6,
+      "suggested": 14.53,
+      "quantity": 140,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 3.15,
+      "max": 5062.8,
+      "mean": 52.82,
+      "median": 7.82,
+      "suggested": 4.42,
+      "quantity": 160,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.54,
+      "max": 861.2,
+      "mean": 23.33,
+      "median": 3.58,
+      "suggested": 3.1,
+      "quantity": 100,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "USP-S | Guardian (Factory New)",
+      "price": {
+        "min": 9.78,
+        "max": 516.95,
+        "mean": 53.88,
+        "median": 20.6,
+        "suggested": 14.53,
+        "quantity": 140,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "USP-S | Guardian (Minimal Wear)",
+      "price": {
+        "min": 3.15,
+        "max": 5062.8,
+        "mean": 52.82,
+        "median": 7.82,
+        "suggested": 4.42,
+        "quantity": 160,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "USP-S | Guardian (Field-Tested)",
+      "price": {
+        "min": 2.54,
+        "max": 861.2,
+        "mean": 23.33,
+        "median": 3.58,
+        "suggested": 3.1,
+        "quantity": 100,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "USP-S | Guardian (Factory New)",
+        "price": {
+          "min": 9.78,
+          "max": 516.95,
+          "mean": 53.88,
+          "median": 20.6,
+          "suggested": 14.53,
+          "quantity": 140,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "USP-S | Guardian (Minimal Wear)",
+        "price": {
+          "min": 3.15,
+          "max": 5062.8,
+          "mean": 52.82,
+          "median": 7.82,
+          "suggested": 4.42,
+          "quantity": 160,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "USP-S | Guardian (Field-Tested)",
+        "price": {
+          "min": 2.54,
+          "max": 861.2,
+          "mean": 23.33,
+          "median": 3.58,
+          "suggested": 3.1,
+          "quantity": 100,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ USP-S | Guardian (Factory New)",
+        "price": {
+          "min": 12.39,
+          "max": 1178.72,
+          "mean": 83.46,
+          "median": 22.94,
+          "suggested": 15.66,
+          "quantity": 68,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ USP-S | Guardian (Minimal Wear)",
+        "price": {
+          "min": 7.8,
+          "max": 483.95,
+          "mean": 31.23,
+          "median": 15.57,
+          "suggested": 9.2,
+          "quantity": 84,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ USP-S | Guardian (Field-Tested)",
+        "price": {
+          "min": 5.05,
+          "max": 130.69,
+          "mean": 25.72,
+          "median": 13.03,
+          "suggested": 6.55,
+          "quantity": 63,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir USP-S | Guardian (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir USP-S | Guardian (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir USP-S | Guardian (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:50.488Z"
+}

@@ -1,0 +1,193 @@
+{
+  "id": "skin-7f7d7a3fc401",
+  "name": "★ Falchion Knife | Scorched",
+  "paint_index": "175",
+  "weapon": {
+    "id": "weapon_knife_falchion",
+    "weapon_id": 512,
+    "name": "Falchion Knife",
+    "slug": "knife_falchion"
+  },
+  "pattern": {
+    "id": "sp_dapple",
+    "name": "Scorched"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A modern homage to a falchion sword, this clip point blade has a curved edge. It has been spray-painted in a sun-dappled pattern.\\n\\n<i>The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 82.62,
+      "max": 151.69,
+      "mean": 108.15,
+      "median": 90.16,
+      "suggested": 103.56,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 64.18,
+      "max": 127.8,
+      "mean": 80.43,
+      "median": 72.72,
+      "suggested": 81.93,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Falchion Knife | Scorched (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Falchion Knife | Scorched (Minimal Wear)",
+      "price": {
+        "min": 82.62,
+        "max": 151.69,
+        "mean": 108.15,
+        "median": 90.16,
+        "suggested": 103.56,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Falchion Knife | Scorched (Field-Tested)",
+      "price": {
+        "min": 64.18,
+        "max": 127.8,
+        "mean": 80.43,
+        "median": 72.72,
+        "suggested": 81.93,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Falchion Knife | Scorched (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Falchion Knife | Scorched (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Falchion Knife | Scorched (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Falchion Knife | Scorched (Minimal Wear)",
+        "price": {
+          "min": 82.62,
+          "max": 151.69,
+          "mean": 108.15,
+          "median": 90.16,
+          "suggested": 103.56,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Falchion Knife | Scorched (Field-Tested)",
+        "price": {
+          "min": 64.18,
+          "max": 127.8,
+          "mean": 80.43,
+          "median": 72.72,
+          "suggested": 81.93,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Falchion Knife | Scorched (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ Falchion Knife | Scorched (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Falchion Knife | Scorched (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Falchion Knife | Scorched (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Falchion Knife | Scorched (Field-Tested)",
+        "price": {
+          "min": 73.06,
+          "max": 73.06,
+          "mean": 73.06,
+          "median": 73.06,
+          "suggested": 92.11,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Falchion Knife | Scorched (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Falchion Knife | Scorched (Battle-Scarred)",
+        "price": {
+          "min": 105.71,
+          "max": 105.71,
+          "mean": 105.71,
+          "median": 105.71,
+          "suggested": 91.67,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:34.418Z"
+}

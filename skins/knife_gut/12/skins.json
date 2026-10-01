@@ -1,0 +1,201 @@
+{
+  "id": "skin-7504048c7e1c",
+  "name": "★ Gut Knife | Crimson Web",
+  "paint_index": "12",
+  "weapon": {
+    "id": "weapon_knife_gut",
+    "weapon_id": 506,
+    "name": "Gut Knife",
+    "slug": "knife_gut"
+  },
+  "pattern": {
+    "id": "hy_webs",
+    "name": "Crimson Web"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The most notable feature of a gut knife is the gut hook on the spine of the blade.  Originally popularized as an aid for field dressing game, the gut hook is also effective at  cutting through fibrous materials like rope, webbing, or safety belts with ease. It has been painted using a spider web-patterned hydrographic over a red base coat and finished with a semi-gloss topcoat.\\n\\n<i>Be careful where you walk, you never know where the web is spread</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 115.57,
+      "max": 247.4,
+      "mean": 161.64,
+      "median": 121.96,
+      "suggested": 131.86,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 84.8,
+      "max": 127.23,
+      "mean": 99.81,
+      "median": 87.4,
+      "suggested": 90.7,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 90.33,
+      "max": 90.33,
+      "mean": 90.33,
+      "median": 90.33,
+      "suggested": 85.13,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Gut Knife | Crimson Web (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Gut Knife | Crimson Web (Minimal Wear)",
+      "price": {
+        "min": 115.57,
+        "max": 247.4,
+        "mean": 161.64,
+        "median": 121.96,
+        "suggested": 131.86,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Gut Knife | Crimson Web (Field-Tested)",
+      "price": {
+        "min": 84.8,
+        "max": 127.23,
+        "mean": 99.81,
+        "median": 87.4,
+        "suggested": 90.7,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Gut Knife | Crimson Web (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Gut Knife | Crimson Web (Battle-Scarred)",
+      "price": {
+        "min": 90.33,
+        "max": 90.33,
+        "mean": 90.33,
+        "median": 90.33,
+        "suggested": 85.13,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Gut Knife | Crimson Web (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Gut Knife | Crimson Web (Minimal Wear)",
+        "price": {
+          "min": 115.57,
+          "max": 247.4,
+          "mean": 161.64,
+          "median": 121.96,
+          "suggested": 131.86,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Gut Knife | Crimson Web (Field-Tested)",
+        "price": {
+          "min": 84.8,
+          "max": 127.23,
+          "mean": 99.81,
+          "median": 87.4,
+          "suggested": 90.7,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Gut Knife | Crimson Web (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ Gut Knife | Crimson Web (Battle-Scarred)",
+        "price": {
+          "min": 90.33,
+          "max": 90.33,
+          "mean": 90.33,
+          "median": 90.33,
+          "suggested": 85.13,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Gut Knife | Crimson Web (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Gut Knife | Crimson Web (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Gut Knife | Crimson Web (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Gut Knife | Crimson Web (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Gut Knife | Crimson Web (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:35.260Z"
+}

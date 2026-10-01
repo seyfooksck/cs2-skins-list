@@ -1,0 +1,249 @@
+{
+  "id": "skin-643580f5e594",
+  "name": "SCAR-20 | Wild Berry",
+  "paint_index": "883",
+  "weapon": {
+    "id": "weapon_scar20",
+    "weapon_id": 38,
+    "name": "SCAR-20",
+    "slug": "scar20"
+  },
+  "pattern": {
+    "id": "cu_chevron_scar20",
+    "name": "Wild Berry"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.65,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The SCAR-20 is a semi-automatic sniper rifle that trades a high rate of fire and powerful long-distance damage for sluggish movement speed and big price tag. It has been custom painted using a multicolored halftone design.\\n\\n<i>\\\"I can't aim\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 4.31,
+      "max": 115.53,
+      "mean": 16.73,
+      "median": 11.16,
+      "suggested": 5.1,
+      "quantity": 44,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.26,
+      "max": 126.48,
+      "mean": 19.21,
+      "median": 5.32,
+      "suggested": 2.78,
+      "quantity": 40,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.38,
+      "max": 137.01,
+      "mean": 13.61,
+      "median": 2.07,
+      "suggested": 1.8,
+      "quantity": 67,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.39,
+      "max": 5.32,
+      "mean": 2.24,
+      "median": 1.83,
+      "suggested": 1.68,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.21,
+      "max": 23.92,
+      "mean": 3.62,
+      "median": 1.65,
+      "suggested": 1.52,
+      "quantity": 36,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SCAR-20 | Wild Berry (Factory New)",
+      "price": {
+        "min": 4.31,
+        "max": 115.53,
+        "mean": 16.73,
+        "median": 11.16,
+        "suggested": 5.1,
+        "quantity": 44,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SCAR-20 | Wild Berry (Minimal Wear)",
+      "price": {
+        "min": 2.26,
+        "max": 126.48,
+        "mean": 19.21,
+        "median": 5.32,
+        "suggested": 2.78,
+        "quantity": 40,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "SCAR-20 | Wild Berry (Field-Tested)",
+      "price": {
+        "min": 1.38,
+        "max": 137.01,
+        "mean": 13.61,
+        "median": 2.07,
+        "suggested": 1.8,
+        "quantity": 67,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "SCAR-20 | Wild Berry (Well-Worn)",
+      "price": {
+        "min": 1.39,
+        "max": 5.32,
+        "mean": 2.24,
+        "median": 1.83,
+        "suggested": 1.68,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "SCAR-20 | Wild Berry (Battle-Scarred)",
+      "price": {
+        "min": 1.21,
+        "max": 23.92,
+        "mean": 3.62,
+        "median": 1.65,
+        "suggested": 1.52,
+        "quantity": 36,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SCAR-20 | Wild Berry (Factory New)",
+        "price": {
+          "min": 4.31,
+          "max": 115.53,
+          "mean": 16.73,
+          "median": 11.16,
+          "suggested": 5.1,
+          "quantity": 44,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "SCAR-20 | Wild Berry (Minimal Wear)",
+        "price": {
+          "min": 2.26,
+          "max": 126.48,
+          "mean": 19.21,
+          "median": 5.32,
+          "suggested": 2.78,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "SCAR-20 | Wild Berry (Field-Tested)",
+        "price": {
+          "min": 1.38,
+          "max": 137.01,
+          "mean": 13.61,
+          "median": 2.07,
+          "suggested": 1.8,
+          "quantity": 67,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "SCAR-20 | Wild Berry (Well-Worn)",
+        "price": {
+          "min": 1.39,
+          "max": 5.32,
+          "mean": 2.24,
+          "median": 1.83,
+          "suggested": 1.68,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "SCAR-20 | Wild Berry (Battle-Scarred)",
+        "price": {
+          "min": 1.21,
+          "max": 23.92,
+          "mean": 3.62,
+          "median": 1.65,
+          "suggested": 1.52,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SCAR-20 | Wild Berry (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir SCAR-20 | Wild Berry (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir SCAR-20 | Wild Berry (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir SCAR-20 | Wild Berry (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir SCAR-20 | Wild Berry (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:47.448Z"
+}

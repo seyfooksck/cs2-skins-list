@@ -1,0 +1,310 @@
+{
+  "id": "skin-270e56729de6",
+  "name": "MP7 | Smoking Kills",
+  "paint_index": "1354",
+  "weapon": {
+    "id": "weapon_mp7",
+    "weapon_id": 33,
+    "name": "MP7",
+    "slug": "mp7"
+  },
+  "pattern": {
+    "id": "mp7_smoking_kills_v2",
+    "name": "Smoking Kills"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been custom painted with a colorful design featuring a woman in glasses smoking a cigarette.\\n\\n<i>\\\"We can do this fast or slow, it's your call\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 40.69,
+      "max": 137.76,
+      "mean": 74.86,
+      "median": 62.63,
+      "suggested": 39.68,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 14.04,
+      "max": 102.41,
+      "mean": 31.37,
+      "median": 28.87,
+      "suggested": 17.34,
+      "quantity": 48,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 8.88,
+      "max": 116.69,
+      "mean": 20.55,
+      "median": 23.34,
+      "suggested": 9.33,
+      "quantity": 67,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 6.02,
+      "max": 14,
+      "mean": 8.54,
+      "median": 8.66,
+      "suggested": 7.08,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 4.69,
+      "max": 140.03,
+      "mean": 17.49,
+      "median": 7.39,
+      "suggested": 4.29,
+      "quantity": 14,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP7 | Smoking Kills (Factory New)",
+      "price": {
+        "min": 40.69,
+        "max": 137.76,
+        "mean": 74.86,
+        "median": 62.63,
+        "suggested": 39.68,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP7 | Smoking Kills (Minimal Wear)",
+      "price": {
+        "min": 14.04,
+        "max": 102.41,
+        "mean": 31.37,
+        "median": 28.87,
+        "suggested": 17.34,
+        "quantity": 48,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP7 | Smoking Kills (Field-Tested)",
+      "price": {
+        "min": 8.88,
+        "max": 116.69,
+        "mean": 20.55,
+        "median": 23.34,
+        "suggested": 9.33,
+        "quantity": 67,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP7 | Smoking Kills (Well-Worn)",
+      "price": {
+        "min": 6.02,
+        "max": 14,
+        "mean": 8.54,
+        "median": 8.66,
+        "suggested": 7.08,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP7 | Smoking Kills (Battle-Scarred)",
+      "price": {
+        "min": 4.69,
+        "max": 140.03,
+        "mean": 17.49,
+        "median": 7.39,
+        "suggested": 4.29,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP7 | Smoking Kills (Factory New)",
+        "price": {
+          "min": 40.69,
+          "max": 137.76,
+          "mean": 74.86,
+          "median": 62.63,
+          "suggested": 39.68,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP7 | Smoking Kills (Minimal Wear)",
+        "price": {
+          "min": 14.04,
+          "max": 102.41,
+          "mean": 31.37,
+          "median": 28.87,
+          "suggested": 17.34,
+          "quantity": 48,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP7 | Smoking Kills (Field-Tested)",
+        "price": {
+          "min": 8.88,
+          "max": 116.69,
+          "mean": 20.55,
+          "median": 23.34,
+          "suggested": 9.33,
+          "quantity": 67,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP7 | Smoking Kills (Well-Worn)",
+        "price": {
+          "min": 6.02,
+          "max": 14,
+          "mean": 8.54,
+          "median": 8.66,
+          "suggested": 7.08,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP7 | Smoking Kills (Battle-Scarred)",
+        "price": {
+          "min": 4.69,
+          "max": 140.03,
+          "mean": 17.49,
+          "median": 7.39,
+          "suggested": 4.29,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MP7 | Smoking Kills (Factory New)",
+        "price": {
+          "min": 74.75,
+          "max": 158.33,
+          "mean": 110.15,
+          "median": 103.75,
+          "suggested": 89.23,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MP7 | Smoking Kills (Minimal Wear)",
+        "price": {
+          "min": 35.81,
+          "max": 65.64,
+          "mean": 43.49,
+          "median": 43.18,
+          "suggested": 37.84,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MP7 | Smoking Kills (Field-Tested)",
+        "price": {
+          "min": 15.88,
+          "max": 48.84,
+          "mean": 34.16,
+          "median": 30.34,
+          "suggested": 20.47,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MP7 | Smoking Kills (Well-Worn)",
+        "price": {
+          "min": 11.45,
+          "max": 20.67,
+          "mean": 16.09,
+          "median": 15.1,
+          "suggested": 15.14,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MP7 | Smoking Kills (Battle-Scarred)",
+        "price": {
+          "min": 7.83,
+          "max": 12.31,
+          "mean": 9.46,
+          "median": 9.09,
+          "suggested": 9.24,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP7 | Smoking Kills (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP7 | Smoking Kills (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP7 | Smoking Kills (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP7 | Smoking Kills (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP7 | Smoking Kills (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:43.300Z"
+}

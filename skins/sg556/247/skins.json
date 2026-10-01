@@ -1,0 +1,281 @@
+{
+  "id": "skin-473110a625aa",
+  "name": "SG 553 | Damascus Steel",
+  "paint_index": "247",
+  "weapon": {
+    "id": "weapon_sg556",
+    "weapon_id": 39,
+    "name": "SG 553",
+    "slug": "sg556"
+  },
+  "pattern": {
+    "id": "aq_damascus_sg553",
+    "name": "Damascus Steel"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The terrorist-exclusive SG553 is a premium scoped alternative to the AK47 for effective long-range engagement. It has some damascus steel parts.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.33,
+      "max": 74.05,
+      "mean": 11.37,
+      "median": 3.98,
+      "suggested": 3.18,
+      "quantity": 29,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.53,
+      "max": 31.37,
+      "mean": 2.4,
+      "median": 1.69,
+      "suggested": 0.67,
+      "quantity": 69,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.14,
+      "max": 11.67,
+      "mean": 2,
+      "median": 0.88,
+      "suggested": 0.22,
+      "quantity": 89,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.08,
+      "max": 6.2,
+      "mean": 1.23,
+      "median": 0.7,
+      "suggested": 0.12,
+      "quantity": 64,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.11,
+      "max": 18.01,
+      "mean": 1.58,
+      "median": 1.17,
+      "suggested": 0.12,
+      "quantity": 65,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SG 553 | Damascus Steel (Factory New)",
+      "price": {
+        "min": 2.33,
+        "max": 74.05,
+        "mean": 11.37,
+        "median": 3.98,
+        "suggested": 3.18,
+        "quantity": 29,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SG 553 | Damascus Steel (Minimal Wear)",
+      "price": {
+        "min": 0.53,
+        "max": 31.37,
+        "mean": 2.4,
+        "median": 1.69,
+        "suggested": 0.67,
+        "quantity": 69,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "SG 553 | Damascus Steel (Field-Tested)",
+      "price": {
+        "min": 0.14,
+        "max": 11.67,
+        "mean": 2,
+        "median": 0.88,
+        "suggested": 0.22,
+        "quantity": 89,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "SG 553 | Damascus Steel (Well-Worn)",
+      "price": {
+        "min": 0.08,
+        "max": 6.2,
+        "mean": 1.23,
+        "median": 0.7,
+        "suggested": 0.12,
+        "quantity": 64,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "SG 553 | Damascus Steel (Battle-Scarred)",
+      "price": {
+        "min": 0.11,
+        "max": 18.01,
+        "mean": 1.58,
+        "median": 1.17,
+        "suggested": 0.12,
+        "quantity": 65,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SG 553 | Damascus Steel (Factory New)",
+        "price": {
+          "min": 2.33,
+          "max": 74.05,
+          "mean": 11.37,
+          "median": 3.98,
+          "suggested": 3.18,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "SG 553 | Damascus Steel (Minimal Wear)",
+        "price": {
+          "min": 0.53,
+          "max": 31.37,
+          "mean": 2.4,
+          "median": 1.69,
+          "suggested": 0.67,
+          "quantity": 69,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "SG 553 | Damascus Steel (Field-Tested)",
+        "price": {
+          "min": 0.14,
+          "max": 11.67,
+          "mean": 2,
+          "median": 0.88,
+          "suggested": 0.22,
+          "quantity": 89,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "SG 553 | Damascus Steel (Well-Worn)",
+        "price": {
+          "min": 0.08,
+          "max": 6.2,
+          "mean": 1.23,
+          "median": 0.7,
+          "suggested": 0.12,
+          "quantity": 64,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "SG 553 | Damascus Steel (Battle-Scarred)",
+        "price": {
+          "min": 0.11,
+          "max": 18.01,
+          "mean": 1.58,
+          "median": 1.17,
+          "suggested": 0.12,
+          "quantity": 65,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SG 553 | Damascus Steel (Factory New)",
+        "price": {
+          "min": 40.84,
+          "max": 40.84,
+          "mean": 40.84,
+          "median": 40.84,
+          "suggested": 42.03,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir SG 553 | Damascus Steel (Minimal Wear)",
+        "price": {
+          "min": 15.05,
+          "max": 15.05,
+          "mean": 15.05,
+          "median": 15.05,
+          "suggested": 7.93,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir SG 553 | Damascus Steel (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir SG 553 | Damascus Steel (Well-Worn)",
+        "price": {
+          "min": 7,
+          "max": 7,
+          "mean": 7,
+          "median": 7,
+          "suggested": 6.47,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir SG 553 | Damascus Steel (Battle-Scarred)",
+        "price": {
+          "min": 11.67,
+          "max": 11.67,
+          "mean": 11.67,
+          "median": 11.67,
+          "suggested": 5.48,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:47.876Z"
+}

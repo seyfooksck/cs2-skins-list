@@ -1,0 +1,249 @@
+{
+  "id": "skin-27a242e44f6b",
+  "name": "Glock-18 | Glockingbird",
+  "paint_index": "1282",
+  "weapon": {
+    "id": "weapon_glock",
+    "weapon_id": 4,
+    "name": "Glock-18",
+    "slug": "glock"
+  },
+  "pattern": {
+    "id": "spe_missile",
+    "name": "Glockingbird"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.67,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. It has been custom painted with a silver mockingbird over a green and yellow base.\\n\\n<i>Let nothing stop your song</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 5.81,
+      "max": 233.38,
+      "mean": 13.65,
+      "median": 6.99,
+      "suggested": 7.47,
+      "quantity": 206,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.33,
+      "max": 38.49,
+      "mean": 7.68,
+      "median": 5.78,
+      "suggested": 2.83,
+      "quantity": 95,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1,
+      "max": 115.53,
+      "mean": 7.46,
+      "median": 1.31,
+      "suggested": 1.15,
+      "quantity": 54,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.1,
+      "max": 1.1,
+      "mean": 1.1,
+      "median": 1.1,
+      "suggested": 0.99,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.7,
+      "max": 10.71,
+      "mean": 1.48,
+      "median": 0.88,
+      "suggested": 0.88,
+      "quantity": 23,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Glock-18 | Glockingbird (Factory New)",
+      "price": {
+        "min": 5.81,
+        "max": 233.38,
+        "mean": 13.65,
+        "median": 6.99,
+        "suggested": 7.47,
+        "quantity": 206,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Glock-18 | Glockingbird (Minimal Wear)",
+      "price": {
+        "min": 2.33,
+        "max": 38.49,
+        "mean": 7.68,
+        "median": 5.78,
+        "suggested": 2.83,
+        "quantity": 95,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Glock-18 | Glockingbird (Field-Tested)",
+      "price": {
+        "min": 1,
+        "max": 115.53,
+        "mean": 7.46,
+        "median": 1.31,
+        "suggested": 1.15,
+        "quantity": 54,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Glock-18 | Glockingbird (Well-Worn)",
+      "price": {
+        "min": 1.1,
+        "max": 1.1,
+        "mean": 1.1,
+        "median": 1.1,
+        "suggested": 0.99,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Glock-18 | Glockingbird (Battle-Scarred)",
+      "price": {
+        "min": 0.7,
+        "max": 10.71,
+        "mean": 1.48,
+        "median": 0.88,
+        "suggested": 0.88,
+        "quantity": 23,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Glock-18 | Glockingbird (Factory New)",
+        "price": {
+          "min": 5.81,
+          "max": 233.38,
+          "mean": 13.65,
+          "median": 6.99,
+          "suggested": 7.47,
+          "quantity": 206,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Glock-18 | Glockingbird (Minimal Wear)",
+        "price": {
+          "min": 2.33,
+          "max": 38.49,
+          "mean": 7.68,
+          "median": 5.78,
+          "suggested": 2.83,
+          "quantity": 95,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Glock-18 | Glockingbird (Field-Tested)",
+        "price": {
+          "min": 1,
+          "max": 115.53,
+          "mean": 7.46,
+          "median": 1.31,
+          "suggested": 1.15,
+          "quantity": 54,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Glock-18 | Glockingbird (Well-Worn)",
+        "price": {
+          "min": 1.1,
+          "max": 1.1,
+          "mean": 1.1,
+          "median": 1.1,
+          "suggested": 0.99,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Glock-18 | Glockingbird (Battle-Scarred)",
+        "price": {
+          "min": 0.7,
+          "max": 10.71,
+          "mean": 1.48,
+          "median": 0.88,
+          "suggested": 0.88,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Glock-18 | Glockingbird (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Glock-18 | Glockingbird (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Glock-18 | Glockingbird (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Glock-18 | Glockingbird (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Glock-18 | Glockingbird (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:32.288Z"
+}

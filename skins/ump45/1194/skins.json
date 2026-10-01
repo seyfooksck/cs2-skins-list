@@ -1,0 +1,310 @@
+{
+  "id": "skin-5a6a2858b51d",
+  "name": "UMP-45 | K.O. Factory",
+  "paint_index": "1194",
+  "weapon": {
+    "id": "weapon_ump45",
+    "weapon_id": 24,
+    "name": "UMP-45",
+    "slug": "ump45"
+  },
+  "pattern": {
+    "id": "ump45_old_cartoon",
+    "name": "K.O. Factory"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic. This custom paint job is inspired by old animation cartoons.\\n\\n<i>Swing and a miss!</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 18.36,
+      "max": 139.81,
+      "mean": 55.42,
+      "median": 60.76,
+      "suggested": 23.71,
+      "quantity": 31,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 6.49,
+      "max": 40.12,
+      "mean": 9.18,
+      "median": 8.61,
+      "suggested": 8.94,
+      "quantity": 182,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 4.34,
+      "max": 271.31,
+      "mean": 6.6,
+      "median": 5.53,
+      "suggested": 6.31,
+      "quantity": 971,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 4.32,
+      "max": 17.5,
+      "mean": 5.2,
+      "median": 4.88,
+      "suggested": 5.63,
+      "quantity": 326,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 4.15,
+      "max": 58.35,
+      "mean": 6.15,
+      "median": 4.63,
+      "suggested": 5.33,
+      "quantity": 120,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "UMP-45 | K.O. Factory (Factory New)",
+      "price": {
+        "min": 18.36,
+        "max": 139.81,
+        "mean": 55.42,
+        "median": 60.76,
+        "suggested": 23.71,
+        "quantity": 31,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "UMP-45 | K.O. Factory (Minimal Wear)",
+      "price": {
+        "min": 6.49,
+        "max": 40.12,
+        "mean": 9.18,
+        "median": 8.61,
+        "suggested": 8.94,
+        "quantity": 182,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "UMP-45 | K.O. Factory (Field-Tested)",
+      "price": {
+        "min": 4.34,
+        "max": 271.31,
+        "mean": 6.6,
+        "median": 5.53,
+        "suggested": 6.31,
+        "quantity": 971,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "UMP-45 | K.O. Factory (Well-Worn)",
+      "price": {
+        "min": 4.32,
+        "max": 17.5,
+        "mean": 5.2,
+        "median": 4.88,
+        "suggested": 5.63,
+        "quantity": 326,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "UMP-45 | K.O. Factory (Battle-Scarred)",
+      "price": {
+        "min": 4.15,
+        "max": 58.35,
+        "mean": 6.15,
+        "median": 4.63,
+        "suggested": 5.33,
+        "quantity": 120,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "UMP-45 | K.O. Factory (Factory New)",
+        "price": {
+          "min": 18.36,
+          "max": 139.81,
+          "mean": 55.42,
+          "median": 60.76,
+          "suggested": 23.71,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "UMP-45 | K.O. Factory (Minimal Wear)",
+        "price": {
+          "min": 6.49,
+          "max": 40.12,
+          "mean": 9.18,
+          "median": 8.61,
+          "suggested": 8.94,
+          "quantity": 182,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "UMP-45 | K.O. Factory (Field-Tested)",
+        "price": {
+          "min": 4.34,
+          "max": 271.31,
+          "mean": 6.6,
+          "median": 5.53,
+          "suggested": 6.31,
+          "quantity": 971,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "UMP-45 | K.O. Factory (Well-Worn)",
+        "price": {
+          "min": 4.32,
+          "max": 17.5,
+          "mean": 5.2,
+          "median": 4.88,
+          "suggested": 5.63,
+          "quantity": 326,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "UMP-45 | K.O. Factory (Battle-Scarred)",
+        "price": {
+          "min": 4.15,
+          "max": 58.35,
+          "mean": 6.15,
+          "median": 4.63,
+          "suggested": 5.33,
+          "quantity": 120,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ UMP-45 | K.O. Factory (Factory New)",
+        "price": {
+          "min": 46.68,
+          "max": 128.35,
+          "mean": 69.65,
+          "median": 57.71,
+          "suggested": 35.77,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ UMP-45 | K.O. Factory (Minimal Wear)",
+        "price": {
+          "min": 8.94,
+          "max": 23.34,
+          "mean": 11.69,
+          "median": 10.78,
+          "suggested": 12.51,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ UMP-45 | K.O. Factory (Field-Tested)",
+        "price": {
+          "min": 6.32,
+          "max": 22.69,
+          "mean": 8.27,
+          "median": 7.53,
+          "suggested": 7.48,
+          "quantity": 51,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ UMP-45 | K.O. Factory (Well-Worn)",
+        "price": {
+          "min": 5.37,
+          "max": 10.28,
+          "mean": 6.43,
+          "median": 5.99,
+          "suggested": 6.84,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ UMP-45 | K.O. Factory (Battle-Scarred)",
+        "price": {
+          "min": 4.78,
+          "max": 11.67,
+          "mean": 5.72,
+          "median": 5.08,
+          "suggested": 5.7,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir UMP-45 | K.O. Factory (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir UMP-45 | K.O. Factory (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir UMP-45 | K.O. Factory (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir UMP-45 | K.O. Factory (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir UMP-45 | K.O. Factory (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:50.304Z"
+}

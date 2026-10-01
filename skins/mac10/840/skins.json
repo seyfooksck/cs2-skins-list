@@ -1,0 +1,310 @@
+{
+  "id": "skin-1541026f04e1",
+  "name": "MAC-10 | Whitefish",
+  "paint_index": "840",
+  "weapon": {
+    "id": "weapon_mac10",
+    "weapon_id": 17,
+    "name": "MAC-10",
+    "slug": "mac10"
+  },
+  "pattern": {
+    "id": "gs_mac10_fish_bait",
+    "name": "Whitefish"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. Fish scales, bones, and hooks have been hand painted in white over a black base.\\n\\n<i>Catch and decease</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 7.4,
+      "max": 31.5,
+      "mean": 14.97,
+      "median": 15.52,
+      "suggested": 6.15,
+      "quantity": 20,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.61,
+      "max": 3.03,
+      "mean": 0.92,
+      "median": 0.75,
+      "suggested": 0.69,
+      "quantity": 81,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.36,
+      "max": 11.66,
+      "mean": 0.67,
+      "median": 0.46,
+      "suggested": 0.58,
+      "quantity": 146,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.22,
+      "max": 12.29,
+      "mean": 0.48,
+      "median": 0.29,
+      "suggested": 0.33,
+      "quantity": 147,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.22,
+      "max": 10.49,
+      "mean": 0.46,
+      "median": 0.28,
+      "suggested": 0.31,
+      "quantity": 111,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAC-10 | Whitefish (Factory New)",
+      "price": {
+        "min": 7.4,
+        "max": 31.5,
+        "mean": 14.97,
+        "median": 15.52,
+        "suggested": 6.15,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAC-10 | Whitefish (Minimal Wear)",
+      "price": {
+        "min": 0.61,
+        "max": 3.03,
+        "mean": 0.92,
+        "median": 0.75,
+        "suggested": 0.69,
+        "quantity": 81,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAC-10 | Whitefish (Field-Tested)",
+      "price": {
+        "min": 0.36,
+        "max": 11.66,
+        "mean": 0.67,
+        "median": 0.46,
+        "suggested": 0.58,
+        "quantity": 146,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAC-10 | Whitefish (Well-Worn)",
+      "price": {
+        "min": 0.22,
+        "max": 12.29,
+        "mean": 0.48,
+        "median": 0.29,
+        "suggested": 0.33,
+        "quantity": 147,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAC-10 | Whitefish (Battle-Scarred)",
+      "price": {
+        "min": 0.22,
+        "max": 10.49,
+        "mean": 0.46,
+        "median": 0.28,
+        "suggested": 0.31,
+        "quantity": 111,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAC-10 | Whitefish (Factory New)",
+        "price": {
+          "min": 7.4,
+          "max": 31.5,
+          "mean": 14.97,
+          "median": 15.52,
+          "suggested": 6.15,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAC-10 | Whitefish (Minimal Wear)",
+        "price": {
+          "min": 0.61,
+          "max": 3.03,
+          "mean": 0.92,
+          "median": 0.75,
+          "suggested": 0.69,
+          "quantity": 81,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAC-10 | Whitefish (Field-Tested)",
+        "price": {
+          "min": 0.36,
+          "max": 11.66,
+          "mean": 0.67,
+          "median": 0.46,
+          "suggested": 0.58,
+          "quantity": 146,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAC-10 | Whitefish (Well-Worn)",
+        "price": {
+          "min": 0.22,
+          "max": 12.29,
+          "mean": 0.48,
+          "median": 0.29,
+          "suggested": 0.33,
+          "quantity": 147,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MAC-10 | Whitefish (Battle-Scarred)",
+        "price": {
+          "min": 0.22,
+          "max": 10.49,
+          "mean": 0.46,
+          "median": 0.28,
+          "suggested": 0.31,
+          "quantity": 111,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MAC-10 | Whitefish (Factory New)",
+        "price": {
+          "min": 5.04,
+          "max": 25.25,
+          "mean": 11.81,
+          "median": 9.22,
+          "suggested": 3.77,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MAC-10 | Whitefish (Minimal Wear)",
+        "price": {
+          "min": 0.82,
+          "max": 5.86,
+          "mean": 1.47,
+          "median": 0.92,
+          "suggested": 0.95,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MAC-10 | Whitefish (Field-Tested)",
+        "price": {
+          "min": 0.41,
+          "max": 14.91,
+          "mean": 0.7,
+          "median": 0.47,
+          "suggested": 0.52,
+          "quantity": 95,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MAC-10 | Whitefish (Well-Worn)",
+        "price": {
+          "min": 0.27,
+          "max": 1.17,
+          "mean": 0.37,
+          "median": 0.35,
+          "suggested": 0.35,
+          "quantity": 44,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MAC-10 | Whitefish (Battle-Scarred)",
+        "price": {
+          "min": 0.27,
+          "max": 0.68,
+          "mean": 0.4,
+          "median": 0.39,
+          "suggested": 0.35,
+          "quantity": 37,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAC-10 | Whitefish (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAC-10 | Whitefish (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAC-10 | Whitefish (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAC-10 | Whitefish (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAC-10 | Whitefish (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.827Z"
+}

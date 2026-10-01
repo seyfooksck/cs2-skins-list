@@ -1,0 +1,233 @@
+{
+  "id": "skin-c3fedbe62633",
+  "name": "★ M9 Bayonet | Damascus Steel",
+  "paint_index": "411",
+  "weapon": {
+    "id": "weapon_knife_m9_bayonet",
+    "weapon_id": 508,
+    "name": "M9 Bayonet",
+    "slug": "knife_m9_bayonet"
+  },
+  "pattern": {
+    "id": "aq_damascus_90",
+    "name": "Damascus Steel"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This is the M-9 bayonet.  Originally intended to be mounted on a rifle, it is also well suited to close-quarters combat. It has some damascus steel parts.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 495.95,
+      "max": 964.26,
+      "mean": 590.28,
+      "median": 558.1,
+      "suggested": 572.62,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 456.62,
+      "max": 487.14,
+      "mean": 477.78,
+      "median": 483.68,
+      "suggested": 551.07,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 465.6,
+      "max": 482.13,
+      "mean": 471.5,
+      "median": 466.76,
+      "suggested": 524.49,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 453.85,
+      "max": 557.59,
+      "mean": 505.72,
+      "median": 505.72,
+      "suggested": 519.92,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ M9 Bayonet | Damascus Steel (Factory New)",
+      "price": {
+        "min": 495.95,
+        "max": 964.26,
+        "mean": 590.28,
+        "median": 558.1,
+        "suggested": 572.62,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ M9 Bayonet | Damascus Steel (Minimal Wear)",
+      "price": {
+        "min": 456.62,
+        "max": 487.14,
+        "mean": 477.78,
+        "median": 483.68,
+        "suggested": 551.07,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ M9 Bayonet | Damascus Steel (Field-Tested)",
+      "price": {
+        "min": 465.6,
+        "max": 482.13,
+        "mean": 471.5,
+        "median": 466.76,
+        "suggested": 524.49,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ M9 Bayonet | Damascus Steel (Well-Worn)",
+      "price": {
+        "min": 453.85,
+        "max": 557.59,
+        "mean": 505.72,
+        "median": 505.72,
+        "suggested": 519.92,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ M9 Bayonet | Damascus Steel (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ M9 Bayonet | Damascus Steel (Factory New)",
+        "price": {
+          "min": 495.95,
+          "max": 964.26,
+          "mean": 590.28,
+          "median": 558.1,
+          "suggested": 572.62,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ M9 Bayonet | Damascus Steel (Minimal Wear)",
+        "price": {
+          "min": 456.62,
+          "max": 487.14,
+          "mean": 477.78,
+          "median": 483.68,
+          "suggested": 551.07,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ M9 Bayonet | Damascus Steel (Field-Tested)",
+        "price": {
+          "min": 465.6,
+          "max": 482.13,
+          "mean": 471.5,
+          "median": 466.76,
+          "suggested": 524.49,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ M9 Bayonet | Damascus Steel (Well-Worn)",
+        "price": {
+          "min": 453.85,
+          "max": 557.59,
+          "mean": 505.72,
+          "median": 505.72,
+          "suggested": 519.92,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ M9 Bayonet | Damascus Steel (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Damascus Steel (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Damascus Steel (Minimal Wear)",
+        "price": {
+          "min": 547.62,
+          "max": 1166.94,
+          "mean": 873.76,
+          "median": 906.71,
+          "suggested": 564.63,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Damascus Steel (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Damascus Steel (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Damascus Steel (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:36.605Z"
+}

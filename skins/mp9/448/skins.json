@@ -1,0 +1,145 @@
+{
+  "id": "skin-df8f2056f525",
+  "name": "MP9 | Pandora's Box",
+  "paint_index": "448",
+  "weapon": {
+    "id": "weapon_mp9",
+    "weapon_id": 34,
+    "name": "MP9",
+    "slug": "mp9"
+  },
+  "pattern": {
+    "id": "aa_pandora",
+    "name": "Pandora's Box"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.3,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been airbrushed with cartoon spirits.\\n\\n<i> The world is in flames, but at least we have hope</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 163.37,
+      "max": 408.42,
+      "mean": 236.42,
+      "median": 204.82,
+      "suggested": 206.85,
+      "quantity": 27,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 158.6,
+      "max": 292.2,
+      "mean": 188.61,
+      "median": 160.99,
+      "suggested": 174.95,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ft": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP9 | Pandora's Box (Factory New)",
+      "price": {
+        "min": 163.37,
+        "max": 408.42,
+        "mean": 236.42,
+        "median": 204.82,
+        "suggested": 206.85,
+        "quantity": 27,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP9 | Pandora's Box (Minimal Wear)",
+      "price": {
+        "min": 158.6,
+        "max": 292.2,
+        "mean": 188.61,
+        "median": 160.99,
+        "suggested": 174.95,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP9 | Pandora's Box (Field-Tested)",
+      "price": null,
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP9 | Pandora's Box (Factory New)",
+        "price": {
+          "min": 163.37,
+          "max": 408.42,
+          "mean": 236.42,
+          "median": 204.82,
+          "suggested": 206.85,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP9 | Pandora's Box (Minimal Wear)",
+        "price": {
+          "min": 158.6,
+          "max": 292.2,
+          "mean": 188.61,
+          "median": 160.99,
+          "suggested": 174.95,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP9 | Pandora's Box (Field-Tested)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP9 | Pandora's Box (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP9 | Pandora's Box (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP9 | Pandora's Box (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:43.472Z"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "skin-32ee365f968a",
+  "name": "Five-SeveN | Capillary",
+  "paint_index": "646",
+  "weapon": {
+    "id": "weapon_fiveseven",
+    "weapon_id": 3,
+    "name": "Five-SeveN",
+    "slug": "fiveseven"
+  },
+  "pattern": {
+    "id": "cu_fiveseven_vein",
+    "name": "Capillary"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. A custom paint job comprised of intricate teal and coral veins has been applied.\\n\\n<i>20 over 100</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 5.17,
+      "max": 35,
+      "mean": 8.78,
+      "median": 7.5,
+      "suggested": 6.7,
+      "quantity": 31,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.55,
+      "max": 6.87,
+      "mean": 0.93,
+      "median": 0.68,
+      "suggested": 0.73,
+      "quantity": 39,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.42,
+      "max": 6.34,
+      "mean": 0.6,
+      "median": 0.53,
+      "suggested": 0.63,
+      "quantity": 221,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.4,
+      "max": 8.17,
+      "mean": 1.18,
+      "median": 0.83,
+      "suggested": 0.48,
+      "quantity": 26,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.32,
+      "max": 14,
+      "mean": 0.9,
+      "median": 0.4,
+      "suggested": 0.42,
+      "quantity": 45,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Five-SeveN | Capillary (Factory New)",
+      "price": {
+        "min": 5.17,
+        "max": 35,
+        "mean": 8.78,
+        "median": 7.5,
+        "suggested": 6.7,
+        "quantity": 31,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Five-SeveN | Capillary (Minimal Wear)",
+      "price": {
+        "min": 0.55,
+        "max": 6.87,
+        "mean": 0.93,
+        "median": 0.68,
+        "suggested": 0.73,
+        "quantity": 39,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Five-SeveN | Capillary (Field-Tested)",
+      "price": {
+        "min": 0.42,
+        "max": 6.34,
+        "mean": 0.6,
+        "median": 0.53,
+        "suggested": 0.63,
+        "quantity": 221,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Five-SeveN | Capillary (Well-Worn)",
+      "price": {
+        "min": 0.4,
+        "max": 8.17,
+        "mean": 1.18,
+        "median": 0.83,
+        "suggested": 0.48,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Five-SeveN | Capillary (Battle-Scarred)",
+      "price": {
+        "min": 0.32,
+        "max": 14,
+        "mean": 0.9,
+        "median": 0.4,
+        "suggested": 0.42,
+        "quantity": 45,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Five-SeveN | Capillary (Factory New)",
+        "price": {
+          "min": 5.17,
+          "max": 35,
+          "mean": 8.78,
+          "median": 7.5,
+          "suggested": 6.7,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Five-SeveN | Capillary (Minimal Wear)",
+        "price": {
+          "min": 0.55,
+          "max": 6.87,
+          "mean": 0.93,
+          "median": 0.68,
+          "suggested": 0.73,
+          "quantity": 39,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Five-SeveN | Capillary (Field-Tested)",
+        "price": {
+          "min": 0.42,
+          "max": 6.34,
+          "mean": 0.6,
+          "median": 0.53,
+          "suggested": 0.63,
+          "quantity": 221,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Five-SeveN | Capillary (Well-Worn)",
+        "price": {
+          "min": 0.4,
+          "max": 8.17,
+          "mean": 1.18,
+          "median": 0.83,
+          "suggested": 0.48,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Five-SeveN | Capillary (Battle-Scarred)",
+        "price": {
+          "min": 0.32,
+          "max": 14,
+          "mean": 0.9,
+          "median": 0.4,
+          "suggested": 0.42,
+          "quantity": 45,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Capillary (Factory New)",
+        "price": {
+          "min": 1.79,
+          "max": 13.71,
+          "mean": 3.54,
+          "median": 2.11,
+          "suggested": 2.44,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Capillary (Minimal Wear)",
+        "price": {
+          "min": 0.83,
+          "max": 11.66,
+          "mean": 1.2,
+          "median": 1,
+          "suggested": 1.08,
+          "quantity": 53,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Capillary (Field-Tested)",
+        "price": {
+          "min": 0.36,
+          "max": 13.44,
+          "mean": 0.78,
+          "median": 0.48,
+          "suggested": 0.52,
+          "quantity": 102,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Capillary (Well-Worn)",
+        "price": {
+          "min": 0.57,
+          "max": 0.83,
+          "mean": 0.71,
+          "median": 0.76,
+          "suggested": 0.65,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Capillary (Battle-Scarred)",
+        "price": {
+          "min": 0.33,
+          "max": 7,
+          "mean": 0.64,
+          "median": 0.42,
+          "suggested": 0.43,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Five-SeveN | Capillary (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Five-SeveN | Capillary (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Five-SeveN | Capillary (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Five-SeveN | Capillary (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Five-SeveN | Capillary (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:30.124Z"
+}

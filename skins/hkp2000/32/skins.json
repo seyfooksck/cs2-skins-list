@@ -1,0 +1,129 @@
+{
+  "id": "skin-7dec21725dc0",
+  "name": "P2000 | Silver",
+  "paint_index": "32",
+  "weapon": {
+    "id": "weapon_hkp2000",
+    "weapon_id": 32,
+    "name": "P2000",
+    "slug": "hkp2000"
+  },
+  "pattern": {
+    "id": "an_silver",
+    "name": "Silver"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Accurate and controllable, the German-made P2000 is a serviceable first-round pistol that works best against unarmored opponents. It has been painted with a chrome base coat and candied in transparent silver anodized effect paint.\\n\\n<i>There is beauty in simplicity - Franz Kriegeld, Phoenix Tactician</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 127.2,
+      "max": 545.99,
+      "mean": 246.62,
+      "median": 243.06,
+      "suggested": 188.07,
+      "quantity": 38,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 134.2,
+      "max": 134.2,
+      "mean": 134.2,
+      "median": 134.2,
+      "suggested": 157.59,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P2000 | Silver (Factory New)",
+      "price": {
+        "min": 127.2,
+        "max": 545.99,
+        "mean": 246.62,
+        "median": 243.06,
+        "suggested": 188.07,
+        "quantity": 38,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P2000 | Silver (Minimal Wear)",
+      "price": {
+        "min": 134.2,
+        "max": 134.2,
+        "mean": 134.2,
+        "median": 134.2,
+        "suggested": 157.59,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P2000 | Silver (Factory New)",
+        "price": {
+          "min": 127.2,
+          "max": 545.99,
+          "mean": 246.62,
+          "median": 243.06,
+          "suggested": 188.07,
+          "quantity": 38,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P2000 | Silver (Minimal Wear)",
+        "price": {
+          "min": 134.2,
+          "max": 134.2,
+          "mean": 134.2,
+          "median": 134.2,
+          "suggested": 157.59,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P2000 | Silver (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P2000 | Silver (Minimal Wear)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:32.405Z"
+}

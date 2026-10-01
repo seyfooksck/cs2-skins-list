@@ -1,0 +1,225 @@
+{
+  "id": "skin-9eb900056828",
+  "name": "Glock-18 | Trace Lock",
+  "paint_index": "1357",
+  "weapon": {
+    "id": "weapon_glock",
+    "weapon_id": 4,
+    "name": "Glock-18",
+    "slug": "glock"
+  },
+  "pattern": {
+    "id": "ht_white_edges",
+    "name": "Trace Lock"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. A grayscale pattern of circles has been applied underneath a holographic design.\\n\\n<i>Graphical maps of holographic systems</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 8.45,
+      "max": 74.57,
+      "mean": 17.07,
+      "median": 10.77,
+      "suggested": 9.24,
+      "quantity": 46,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.86,
+      "max": 13.63,
+      "mean": 6,
+      "median": 3.82,
+      "suggested": 3.55,
+      "quantity": 166,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.28,
+      "max": 8.17,
+      "mean": 2.47,
+      "median": 2.04,
+      "suggested": 1.59,
+      "quantity": 69,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 1.49,
+      "max": 3.58,
+      "mean": 2.36,
+      "median": 2.33,
+      "suggested": 1.44,
+      "quantity": 14,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Glock-18 | Trace Lock (Factory New)",
+      "price": {
+        "min": 8.45,
+        "max": 74.57,
+        "mean": 17.07,
+        "median": 10.77,
+        "suggested": 9.24,
+        "quantity": 46,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Glock-18 | Trace Lock (Minimal Wear)",
+      "price": {
+        "min": 2.86,
+        "max": 13.63,
+        "mean": 6,
+        "median": 3.82,
+        "suggested": 3.55,
+        "quantity": 166,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Glock-18 | Trace Lock (Field-Tested)",
+      "price": {
+        "min": 1.28,
+        "max": 8.17,
+        "mean": 2.47,
+        "median": 2.04,
+        "suggested": 1.59,
+        "quantity": 69,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Glock-18 | Trace Lock (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Glock-18 | Trace Lock (Battle-Scarred)",
+      "price": {
+        "min": 1.49,
+        "max": 3.58,
+        "mean": 2.36,
+        "median": 2.33,
+        "suggested": 1.44,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Glock-18 | Trace Lock (Factory New)",
+        "price": {
+          "min": 8.45,
+          "max": 74.57,
+          "mean": 17.07,
+          "median": 10.77,
+          "suggested": 9.24,
+          "quantity": 46,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Glock-18 | Trace Lock (Minimal Wear)",
+        "price": {
+          "min": 2.86,
+          "max": 13.63,
+          "mean": 6,
+          "median": 3.82,
+          "suggested": 3.55,
+          "quantity": 166,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Glock-18 | Trace Lock (Field-Tested)",
+        "price": {
+          "min": 1.28,
+          "max": 8.17,
+          "mean": 2.47,
+          "median": 2.04,
+          "suggested": 1.59,
+          "quantity": 69,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Glock-18 | Trace Lock (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Glock-18 | Trace Lock (Battle-Scarred)",
+        "price": {
+          "min": 1.49,
+          "max": 3.58,
+          "mean": 2.36,
+          "median": 2.33,
+          "suggested": 1.44,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Glock-18 | Trace Lock (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Glock-18 | Trace Lock (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Glock-18 | Trace Lock (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Glock-18 | Trace Lock (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Glock-18 | Trace Lock (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:32.106Z"
+}

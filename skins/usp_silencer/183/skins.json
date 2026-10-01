@@ -1,0 +1,310 @@
+{
+  "id": "skin-acea8e851fd7",
+  "name": "USP-S | Overgrowth",
+  "paint_index": "183",
+  "weapon": {
+    "id": "weapon_usp_silencer",
+    "weapon_id": 61,
+    "name": "USP-S",
+    "slug": "usp_silencer"
+  },
+  "pattern": {
+    "id": "hy_siege_bravo",
+    "name": "Overgrowth"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise. This memento from Siege has been painted using a camo hydrographic.\\n\\n<i>Look me in the eyes and tell me that's standard issue - Felix Riley, Commanding Officer</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 103.86,
+      "max": 122.62,
+      "mean": 113.65,
+      "median": 114.36,
+      "suggested": 139.17,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 29.76,
+      "max": 2332.71,
+      "mean": 229.57,
+      "median": 51.59,
+      "suggested": 39.11,
+      "quantity": 31,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 20.12,
+      "max": 737.39,
+      "mean": 109.04,
+      "median": 28.08,
+      "suggested": 25.56,
+      "quantity": 26,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 18.79,
+      "max": 24.32,
+      "mean": 21.85,
+      "median": 22.17,
+      "suggested": 23.79,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 21.85,
+      "max": 81.69,
+      "mean": 41.39,
+      "median": 31.02,
+      "suggested": 21.69,
+      "quantity": 4,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "USP-S | Overgrowth (Factory New)",
+      "price": {
+        "min": 103.86,
+        "max": 122.62,
+        "mean": 113.65,
+        "median": 114.36,
+        "suggested": 139.17,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "USP-S | Overgrowth (Minimal Wear)",
+      "price": {
+        "min": 29.76,
+        "max": 2332.71,
+        "mean": 229.57,
+        "median": 51.59,
+        "suggested": 39.11,
+        "quantity": 31,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "USP-S | Overgrowth (Field-Tested)",
+      "price": {
+        "min": 20.12,
+        "max": 737.39,
+        "mean": 109.04,
+        "median": 28.08,
+        "suggested": 25.56,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "USP-S | Overgrowth (Well-Worn)",
+      "price": {
+        "min": 18.79,
+        "max": 24.32,
+        "mean": 21.85,
+        "median": 22.17,
+        "suggested": 23.79,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "USP-S | Overgrowth (Battle-Scarred)",
+      "price": {
+        "min": 21.85,
+        "max": 81.69,
+        "mean": 41.39,
+        "median": 31.02,
+        "suggested": 21.69,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "USP-S | Overgrowth (Factory New)",
+        "price": {
+          "min": 103.86,
+          "max": 122.62,
+          "mean": 113.65,
+          "median": 114.36,
+          "suggested": 139.17,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "USP-S | Overgrowth (Minimal Wear)",
+        "price": {
+          "min": 29.76,
+          "max": 2332.71,
+          "mean": 229.57,
+          "median": 51.59,
+          "suggested": 39.11,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "USP-S | Overgrowth (Field-Tested)",
+        "price": {
+          "min": 20.12,
+          "max": 737.39,
+          "mean": 109.04,
+          "median": 28.08,
+          "suggested": 25.56,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "USP-S | Overgrowth (Well-Worn)",
+        "price": {
+          "min": 18.79,
+          "max": 24.32,
+          "mean": 21.85,
+          "median": 22.17,
+          "suggested": 23.79,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "USP-S | Overgrowth (Battle-Scarred)",
+        "price": {
+          "min": 21.85,
+          "max": 81.69,
+          "mean": 41.39,
+          "median": 31.02,
+          "suggested": 21.69,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ USP-S | Overgrowth (Factory New)",
+        "price": {
+          "min": 277.94,
+          "max": 277.94,
+          "mean": 277.94,
+          "median": 277.94,
+          "suggested": 351.6,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ USP-S | Overgrowth (Minimal Wear)",
+        "price": {
+          "min": 55.93,
+          "max": 979.14,
+          "mean": 148.08,
+          "median": 84.8,
+          "suggested": 66.96,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ USP-S | Overgrowth (Field-Tested)",
+        "price": {
+          "min": 34.19,
+          "max": 408.42,
+          "mean": 98.08,
+          "median": 58.1,
+          "suggested": 42,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ USP-S | Overgrowth (Well-Worn)",
+        "price": {
+          "min": 28.44,
+          "max": 28.44,
+          "mean": 28.44,
+          "median": 28.44,
+          "suggested": 39.72,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ USP-S | Overgrowth (Battle-Scarred)",
+        "price": {
+          "min": 64.17,
+          "max": 204.83,
+          "mean": 116.89,
+          "median": 81.67,
+          "suggested": 38.63,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir USP-S | Overgrowth (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir USP-S | Overgrowth (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir USP-S | Overgrowth (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir USP-S | Overgrowth (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir USP-S | Overgrowth (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:50.744Z"
+}

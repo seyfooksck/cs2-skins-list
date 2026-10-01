@@ -1,0 +1,265 @@
+{
+  "id": "skin-a67615da8679",
+  "name": "M249 | Humidor",
+  "paint_index": "827",
+  "weapon": {
+    "id": "weapon_m249",
+    "weapon_id": 14,
+    "name": "M249",
+    "slug": "m249"
+  },
+  "pattern": {
+    "id": "sp_moro_carving_burnt",
+    "name": "Humidor"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A strong open-area LMG, the M249 is the perfect choice for players willing to trade a slow fire rate for increased accuracy and a high ammo capacity. It has been spray-painted with a brown and purple vine and flower pattern.\\n\\n<i>\\\"What are they keeping in there?\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 4.35,
+      "max": 116.69,
+      "mean": 24.67,
+      "median": 11.67,
+      "suggested": 4.7,
+      "quantity": 16,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.49,
+      "max": 23.34,
+      "mean": 9.9,
+      "median": 8.3,
+      "suggested": 3.25,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.24,
+      "max": 39.94,
+      "mean": 12.17,
+      "median": 5.6,
+      "suggested": 2.62,
+      "quantity": 16,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 11.3,
+      "max": 11.3,
+      "mean": 11.3,
+      "median": 11.3,
+      "suggested": 2.31,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M249 | Humidor (Factory New)",
+      "price": {
+        "min": 4.35,
+        "max": 116.69,
+        "mean": 24.67,
+        "median": 11.67,
+        "suggested": 4.7,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M249 | Humidor (Minimal Wear)",
+      "price": {
+        "min": 2.49,
+        "max": 23.34,
+        "mean": 9.9,
+        "median": 8.3,
+        "suggested": 3.25,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M249 | Humidor (Field-Tested)",
+      "price": {
+        "min": 2.24,
+        "max": 39.94,
+        "mean": 12.17,
+        "median": 5.6,
+        "suggested": 2.62,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M249 | Humidor (Well-Worn)",
+      "price": {
+        "min": 11.3,
+        "max": 11.3,
+        "mean": 11.3,
+        "median": 11.3,
+        "suggested": 2.31,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M249 | Humidor (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M249 | Humidor (Factory New)",
+        "price": {
+          "min": 4.35,
+          "max": 116.69,
+          "mean": 24.67,
+          "median": 11.67,
+          "suggested": 4.7,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M249 | Humidor (Minimal Wear)",
+        "price": {
+          "min": 2.49,
+          "max": 23.34,
+          "mean": 9.9,
+          "median": 8.3,
+          "suggested": 3.25,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M249 | Humidor (Field-Tested)",
+        "price": {
+          "min": 2.24,
+          "max": 39.94,
+          "mean": 12.17,
+          "median": 5.6,
+          "suggested": 2.62,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M249 | Humidor (Well-Worn)",
+        "price": {
+          "min": 11.3,
+          "max": 11.3,
+          "mean": 11.3,
+          "median": 11.3,
+          "suggested": 2.31,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M249 | Humidor (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M249 | Humidor (Factory New)",
+        "price": {
+          "min": 3.77,
+          "max": 29.17,
+          "mean": 7.33,
+          "median": 4.39,
+          "suggested": 4.67,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M249 | Humidor (Minimal Wear)",
+        "price": {
+          "min": 2.42,
+          "max": 7,
+          "mean": 4.15,
+          "median": 3.45,
+          "suggested": 3.15,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M249 | Humidor (Field-Tested)",
+        "price": {
+          "min": 1.88,
+          "max": 11.09,
+          "mean": 4.21,
+          "median": 2.45,
+          "suggested": 2.62,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M249 | Humidor (Well-Worn)",
+        "price": {
+          "min": 1.73,
+          "max": 2.32,
+          "mean": 2,
+          "median": 1.96,
+          "suggested": 2.31,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M249 | Humidor (Battle-Scarred)",
+        "price": {
+          "min": 1.89,
+          "max": 2.03,
+          "mean": 1.97,
+          "median": 2.01,
+          "suggested": 2.41,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:40.017Z"
+}

@@ -1,0 +1,257 @@
+{
+  "id": "skin-0f8b4882d7c6",
+  "name": "SSG 08 | Blush Pour",
+  "paint_index": "1316",
+  "weapon": {
+    "id": "weapon_ssg08",
+    "weapon_id": 40,
+    "name": "SSG 08",
+    "slug": "ssg08"
+  },
+  "pattern": {
+    "id": "soo_acrylic_flow_pink",
+    "name": "Blush Pour"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.678431,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship. A blush, gold, and blue-colored acrylic pour pattern has been applied.\\n\\n<i>It all comes together...</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.05,
+      "max": 197.8,
+      "mean": 16.44,
+      "median": 4.62,
+      "suggested": 1.51,
+      "quantity": 39,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.48,
+      "max": 9.32,
+      "mean": 3.96,
+      "median": 3.43,
+      "suggested": 0.6,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.16,
+      "max": 1.63,
+      "mean": 0.36,
+      "median": 0.23,
+      "suggested": 0.22,
+      "quantity": 74,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.2,
+      "max": 0.32,
+      "mean": 0.25,
+      "median": 0.25,
+      "suggested": 0.17,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.16,
+      "max": 3.79,
+      "mean": 0.5,
+      "median": 0.23,
+      "suggested": 0.2,
+      "quantity": 15,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SSG 08 | Blush Pour (Factory New)",
+      "price": {
+        "min": 1.05,
+        "max": 197.8,
+        "mean": 16.44,
+        "median": 4.62,
+        "suggested": 1.51,
+        "quantity": 39,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SSG 08 | Blush Pour (Minimal Wear)",
+      "price": {
+        "min": 0.48,
+        "max": 9.32,
+        "mean": 3.96,
+        "median": 3.43,
+        "suggested": 0.6,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "SSG 08 | Blush Pour (Field-Tested)",
+      "price": {
+        "min": 0.16,
+        "max": 1.63,
+        "mean": 0.36,
+        "median": 0.23,
+        "suggested": 0.22,
+        "quantity": 74,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "SSG 08 | Blush Pour (Well-Worn)",
+      "price": {
+        "min": 0.2,
+        "max": 0.32,
+        "mean": 0.25,
+        "median": 0.25,
+        "suggested": 0.17,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "SSG 08 | Blush Pour (Battle-Scarred)",
+      "price": {
+        "min": 0.16,
+        "max": 3.79,
+        "mean": 0.5,
+        "median": 0.23,
+        "suggested": 0.2,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SSG 08 | Blush Pour (Factory New)",
+        "price": {
+          "min": 1.05,
+          "max": 197.8,
+          "mean": 16.44,
+          "median": 4.62,
+          "suggested": 1.51,
+          "quantity": 39,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "SSG 08 | Blush Pour (Minimal Wear)",
+        "price": {
+          "min": 0.48,
+          "max": 9.32,
+          "mean": 3.96,
+          "median": 3.43,
+          "suggested": 0.6,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "SSG 08 | Blush Pour (Field-Tested)",
+        "price": {
+          "min": 0.16,
+          "max": 1.63,
+          "mean": 0.36,
+          "median": 0.23,
+          "suggested": 0.22,
+          "quantity": 74,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "SSG 08 | Blush Pour (Well-Worn)",
+        "price": {
+          "min": 0.2,
+          "max": 0.32,
+          "mean": 0.25,
+          "median": 0.25,
+          "suggested": 0.17,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "SSG 08 | Blush Pour (Battle-Scarred)",
+        "price": {
+          "min": 0.16,
+          "max": 3.79,
+          "mean": 0.5,
+          "median": 0.23,
+          "suggested": 0.2,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SSG 08 | Blush Pour (Factory New)",
+        "price": {
+          "min": 145.87,
+          "max": 145.87,
+          "mean": 145.87,
+          "median": 145.87,
+          "suggested": 100.78,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir SSG 08 | Blush Pour (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir SSG 08 | Blush Pour (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir SSG 08 | Blush Pour (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir SSG 08 | Blush Pour (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:48.774Z"
+}

@@ -1,0 +1,233 @@
+{
+  "id": "skin-a98faf349245",
+  "name": "★ Survival Knife | Scorched",
+  "paint_index": "175",
+  "weapon": {
+    "id": "weapon_knife_canis",
+    "weapon_id": 518,
+    "name": "Survival Knife",
+    "slug": "knife_canis"
+  },
+  "pattern": {
+    "id": "sp_dapple",
+    "name": "Scorched"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been spray-painted in a sun-dappled pattern.\\n\\n<i>The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 67.68,
+      "max": 140,
+      "mean": 96.68,
+      "median": 77.44,
+      "suggested": 71.25,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 50.87,
+      "max": 169.21,
+      "mean": 77.18,
+      "median": 61.99,
+      "suggested": 61.51,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 61.46,
+      "max": 61.46,
+      "mean": 61.46,
+      "median": 61.46,
+      "suggested": 56.91,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 50.12,
+      "max": 50.12,
+      "mean": 50.12,
+      "median": 50.12,
+      "suggested": 59.47,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Survival Knife | Scorched (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Survival Knife | Scorched (Minimal Wear)",
+      "price": {
+        "min": 67.68,
+        "max": 140,
+        "mean": 96.68,
+        "median": 77.44,
+        "suggested": 71.25,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Survival Knife | Scorched (Field-Tested)",
+      "price": {
+        "min": 50.87,
+        "max": 169.21,
+        "mean": 77.18,
+        "median": 61.99,
+        "suggested": 61.51,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Survival Knife | Scorched (Well-Worn)",
+      "price": {
+        "min": 61.46,
+        "max": 61.46,
+        "mean": 61.46,
+        "median": 61.46,
+        "suggested": 56.91,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Survival Knife | Scorched (Battle-Scarred)",
+      "price": {
+        "min": 50.12,
+        "max": 50.12,
+        "mean": 50.12,
+        "median": 50.12,
+        "suggested": 59.47,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Survival Knife | Scorched (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Survival Knife | Scorched (Minimal Wear)",
+        "price": {
+          "min": 67.68,
+          "max": 140,
+          "mean": 96.68,
+          "median": 77.44,
+          "suggested": 71.25,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Survival Knife | Scorched (Field-Tested)",
+        "price": {
+          "min": 50.87,
+          "max": 169.21,
+          "mean": 77.18,
+          "median": 61.99,
+          "suggested": 61.51,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Survival Knife | Scorched (Well-Worn)",
+        "price": {
+          "min": 61.46,
+          "max": 61.46,
+          "mean": 61.46,
+          "median": 61.46,
+          "suggested": 56.91,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Survival Knife | Scorched (Battle-Scarred)",
+        "price": {
+          "min": 50.12,
+          "max": 50.12,
+          "mean": 50.12,
+          "median": 50.12,
+          "suggested": 59.47,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Scorched (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Scorched (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Scorched (Field-Tested)",
+        "price": {
+          "min": 70.94,
+          "max": 140.03,
+          "mean": 105.49,
+          "median": 105.49,
+          "suggested": 71.87,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Scorched (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Scorched (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:33.508Z"
+}

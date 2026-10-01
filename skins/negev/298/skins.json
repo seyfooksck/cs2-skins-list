@@ -1,0 +1,169 @@
+{
+  "id": "skin-488cec5dc95c",
+  "name": "Negev | Army Sheen",
+  "paint_index": "298",
+  "weapon": {
+    "id": "weapon_negev",
+    "weapon_id": 28,
+    "name": "Negev",
+    "slug": "negev"
+  },
+  "pattern": {
+    "id": "am_army_shine",
+    "name": "Army Sheen"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 0.3,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been covered in a metallic foil stamped with a camouflage pattern.\\n\\n<i>Remember your training</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.05,
+      "max": 117.28,
+      "mean": 0.58,
+      "median": 0.13,
+      "suggested": 0.08,
+      "quantity": 871,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.02,
+      "max": 9.24,
+      "mean": 0.36,
+      "median": 0.05,
+      "suggested": 0.03,
+      "quantity": 933,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.02,
+      "max": 3.1,
+      "mean": 0.14,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 359,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Negev | Army Sheen (Factory New)",
+      "price": {
+        "min": 0.05,
+        "max": 117.28,
+        "mean": 0.58,
+        "median": 0.13,
+        "suggested": 0.08,
+        "quantity": 871,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Negev | Army Sheen (Minimal Wear)",
+      "price": {
+        "min": 0.02,
+        "max": 9.24,
+        "mean": 0.36,
+        "median": 0.05,
+        "suggested": 0.03,
+        "quantity": 933,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Negev | Army Sheen (Field-Tested)",
+      "price": {
+        "min": 0.02,
+        "max": 3.1,
+        "mean": 0.14,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 359,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Negev | Army Sheen (Factory New)",
+        "price": {
+          "min": 0.05,
+          "max": 117.28,
+          "mean": 0.58,
+          "median": 0.13,
+          "suggested": 0.08,
+          "quantity": 871,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Negev | Army Sheen (Minimal Wear)",
+        "price": {
+          "min": 0.02,
+          "max": 9.24,
+          "mean": 0.36,
+          "median": 0.05,
+          "suggested": 0.03,
+          "quantity": 933,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Negev | Army Sheen (Field-Tested)",
+        "price": {
+          "min": 0.02,
+          "max": 3.1,
+          "mean": 0.14,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 359,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Negev | Army Sheen (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Negev | Army Sheen (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Negev | Army Sheen (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.034Z"
+}

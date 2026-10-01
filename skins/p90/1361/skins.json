@@ -1,0 +1,249 @@
+{
+  "id": "skin-59aaabe308c8",
+  "name": "P90 | Aeolian Light",
+  "paint_index": "1361",
+  "weapon": {
+    "id": "weapon_p90",
+    "weapon_id": 19,
+    "name": "P90",
+    "slug": "p90"
+  },
+  "pattern": {
+    "id": "hye_abstract_knot",
+    "name": "Aeolian Light"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.65,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. A grayscale, abstract knot pattern has been applied.\\n\\n<i>Let the wind carry you</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.32,
+      "max": 29.56,
+      "mean": 3.84,
+      "median": 1.89,
+      "suggested": 1.27,
+      "quantity": 98,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.46,
+      "max": 5.41,
+      "mean": 2.07,
+      "median": 2.35,
+      "suggested": 0.53,
+      "quantity": 37,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.21,
+      "max": 1.17,
+      "mean": 0.32,
+      "median": 0.22,
+      "suggested": 0.25,
+      "quantity": 29,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.21,
+      "max": 0.28,
+      "mean": 0.25,
+      "median": 0.25,
+      "suggested": 0.23,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.18,
+      "max": 1.02,
+      "mean": 0.29,
+      "median": 0.23,
+      "suggested": 0.23,
+      "quantity": 13,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P90 | Aeolian Light (Factory New)",
+      "price": {
+        "min": 1.32,
+        "max": 29.56,
+        "mean": 3.84,
+        "median": 1.89,
+        "suggested": 1.27,
+        "quantity": 98,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P90 | Aeolian Light (Minimal Wear)",
+      "price": {
+        "min": 0.46,
+        "max": 5.41,
+        "mean": 2.07,
+        "median": 2.35,
+        "suggested": 0.53,
+        "quantity": 37,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P90 | Aeolian Light (Field-Tested)",
+      "price": {
+        "min": 0.21,
+        "max": 1.17,
+        "mean": 0.32,
+        "median": 0.22,
+        "suggested": 0.25,
+        "quantity": 29,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P90 | Aeolian Light (Well-Worn)",
+      "price": {
+        "min": 0.21,
+        "max": 0.28,
+        "mean": 0.25,
+        "median": 0.25,
+        "suggested": 0.23,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P90 | Aeolian Light (Battle-Scarred)",
+      "price": {
+        "min": 0.18,
+        "max": 1.02,
+        "mean": 0.29,
+        "median": 0.23,
+        "suggested": 0.23,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P90 | Aeolian Light (Factory New)",
+        "price": {
+          "min": 1.32,
+          "max": 29.56,
+          "mean": 3.84,
+          "median": 1.89,
+          "suggested": 1.27,
+          "quantity": 98,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P90 | Aeolian Light (Minimal Wear)",
+        "price": {
+          "min": 0.46,
+          "max": 5.41,
+          "mean": 2.07,
+          "median": 2.35,
+          "suggested": 0.53,
+          "quantity": 37,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P90 | Aeolian Light (Field-Tested)",
+        "price": {
+          "min": 0.21,
+          "max": 1.17,
+          "mean": 0.32,
+          "median": 0.22,
+          "suggested": 0.25,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P90 | Aeolian Light (Well-Worn)",
+        "price": {
+          "min": 0.21,
+          "max": 0.28,
+          "mean": 0.25,
+          "median": 0.25,
+          "suggested": 0.23,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P90 | Aeolian Light (Battle-Scarred)",
+        "price": {
+          "min": 0.18,
+          "max": 1.02,
+          "mean": 0.29,
+          "median": 0.23,
+          "suggested": 0.23,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P90 | Aeolian Light (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P90 | Aeolian Light (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P90 | Aeolian Light (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P90 | Aeolian Light (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P90 | Aeolian Light (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:46.280Z"
+}

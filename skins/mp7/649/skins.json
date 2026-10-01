@@ -1,0 +1,310 @@
+{
+  "id": "skin-fa522c8e6ebb",
+  "name": "MP7 | Akoben",
+  "paint_index": "649",
+  "weapon": {
+    "id": "weapon_mp7",
+    "weapon_id": 33,
+    "name": "MP7",
+    "slug": "mp7"
+  },
+  "pattern": {
+    "id": "sp_mp7_tribal_yellow",
+    "name": "Akoben"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been spray-painted with a blue pattern over a yellow base.\\n\\n<i>Your personal battle cry</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 3.5,
+      "max": 37.97,
+      "mean": 10.08,
+      "median": 6.83,
+      "suggested": 4.87,
+      "quantity": 39,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.58,
+      "max": 6.39,
+      "mean": 1.55,
+      "median": 1.06,
+      "suggested": 0.65,
+      "quantity": 29,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.42,
+      "max": 26.26,
+      "mean": 1.03,
+      "median": 0.56,
+      "suggested": 0.61,
+      "quantity": 182,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.41,
+      "max": 1.65,
+      "mean": 0.92,
+      "median": 0.78,
+      "suggested": 0.55,
+      "quantity": 16,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.35,
+      "max": 6.93,
+      "mean": 0.71,
+      "median": 0.44,
+      "suggested": 0.51,
+      "quantity": 35,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP7 | Akoben (Factory New)",
+      "price": {
+        "min": 3.5,
+        "max": 37.97,
+        "mean": 10.08,
+        "median": 6.83,
+        "suggested": 4.87,
+        "quantity": 39,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP7 | Akoben (Minimal Wear)",
+      "price": {
+        "min": 0.58,
+        "max": 6.39,
+        "mean": 1.55,
+        "median": 1.06,
+        "suggested": 0.65,
+        "quantity": 29,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP7 | Akoben (Field-Tested)",
+      "price": {
+        "min": 0.42,
+        "max": 26.26,
+        "mean": 1.03,
+        "median": 0.56,
+        "suggested": 0.61,
+        "quantity": 182,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP7 | Akoben (Well-Worn)",
+      "price": {
+        "min": 0.41,
+        "max": 1.65,
+        "mean": 0.92,
+        "median": 0.78,
+        "suggested": 0.55,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP7 | Akoben (Battle-Scarred)",
+      "price": {
+        "min": 0.35,
+        "max": 6.93,
+        "mean": 0.71,
+        "median": 0.44,
+        "suggested": 0.51,
+        "quantity": 35,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP7 | Akoben (Factory New)",
+        "price": {
+          "min": 3.5,
+          "max": 37.97,
+          "mean": 10.08,
+          "median": 6.83,
+          "suggested": 4.87,
+          "quantity": 39,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP7 | Akoben (Minimal Wear)",
+        "price": {
+          "min": 0.58,
+          "max": 6.39,
+          "mean": 1.55,
+          "median": 1.06,
+          "suggested": 0.65,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP7 | Akoben (Field-Tested)",
+        "price": {
+          "min": 0.42,
+          "max": 26.26,
+          "mean": 1.03,
+          "median": 0.56,
+          "suggested": 0.61,
+          "quantity": 182,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP7 | Akoben (Well-Worn)",
+        "price": {
+          "min": 0.41,
+          "max": 1.65,
+          "mean": 0.92,
+          "median": 0.78,
+          "suggested": 0.55,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP7 | Akoben (Battle-Scarred)",
+        "price": {
+          "min": 0.35,
+          "max": 6.93,
+          "mean": 0.71,
+          "median": 0.44,
+          "suggested": 0.51,
+          "quantity": 35,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MP7 | Akoben (Factory New)",
+        "price": {
+          "min": 1.54,
+          "max": 12.77,
+          "mean": 4.38,
+          "median": 2.33,
+          "suggested": 1.8,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MP7 | Akoben (Minimal Wear)",
+        "price": {
+          "min": 0.76,
+          "max": 19.25,
+          "mean": 2,
+          "median": 1.17,
+          "suggested": 1.01,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MP7 | Akoben (Field-Tested)",
+        "price": {
+          "min": 0.36,
+          "max": 9.92,
+          "mean": 0.89,
+          "median": 0.57,
+          "suggested": 0.53,
+          "quantity": 47,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MP7 | Akoben (Well-Worn)",
+        "price": {
+          "min": 0.78,
+          "max": 1.1,
+          "mean": 0.84,
+          "median": 0.78,
+          "suggested": 0.67,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MP7 | Akoben (Battle-Scarred)",
+        "price": {
+          "min": 0.4,
+          "max": 1.69,
+          "mean": 0.81,
+          "median": 0.7,
+          "suggested": 0.51,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP7 | Akoben (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP7 | Akoben (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP7 | Akoben (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP7 | Akoben (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP7 | Akoben (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:43.399Z"
+}

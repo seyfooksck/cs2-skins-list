@@ -1,0 +1,225 @@
+{
+  "id": "skin-5f61bd5eec0a",
+  "name": "AWP | Snake Camo",
+  "paint_index": "30",
+  "weapon": {
+    "id": "weapon_awp",
+    "weapon_id": 9,
+    "name": "AWP",
+    "slug": "awp"
+  },
+  "pattern": {
+    "id": "sp_snake",
+    "name": "Snake Camo"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been spray-painted using a snakeskin stencil in patches that have been outlined freehand.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 103.18,
+      "max": 1517.02,
+      "mean": 333.43,
+      "median": 135.06,
+      "suggested": 133.18,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 87.59,
+      "max": 169.52,
+      "mean": 112.54,
+      "median": 107.12,
+      "suggested": 102.23,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 105.01,
+      "max": 105.01,
+      "mean": 105.01,
+      "median": 105.01,
+      "suggested": 102.25,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 291.73,
+      "max": 291.73,
+      "mean": 291.73,
+      "median": 291.73,
+      "suggested": 98.64,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AWP | Snake Camo (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AWP | Snake Camo (Minimal Wear)",
+      "price": {
+        "min": 103.18,
+        "max": 1517.02,
+        "mean": 333.43,
+        "median": 135.06,
+        "suggested": 133.18,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AWP | Snake Camo (Field-Tested)",
+      "price": {
+        "min": 87.59,
+        "max": 169.52,
+        "mean": 112.54,
+        "median": 107.12,
+        "suggested": 102.23,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AWP | Snake Camo (Well-Worn)",
+      "price": {
+        "min": 105.01,
+        "max": 105.01,
+        "mean": 105.01,
+        "median": 105.01,
+        "suggested": 102.25,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AWP | Snake Camo (Battle-Scarred)",
+      "price": {
+        "min": 291.73,
+        "max": 291.73,
+        "mean": 291.73,
+        "median": 291.73,
+        "suggested": 98.64,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AWP | Snake Camo (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "AWP | Snake Camo (Minimal Wear)",
+        "price": {
+          "min": 103.18,
+          "max": 1517.02,
+          "mean": 333.43,
+          "median": 135.06,
+          "suggested": 133.18,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AWP | Snake Camo (Field-Tested)",
+        "price": {
+          "min": 87.59,
+          "max": 169.52,
+          "mean": 112.54,
+          "median": 107.12,
+          "suggested": 102.23,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AWP | Snake Camo (Well-Worn)",
+        "price": {
+          "min": 105.01,
+          "max": 105.01,
+          "mean": 105.01,
+          "median": 105.01,
+          "suggested": 102.25,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AWP | Snake Camo (Battle-Scarred)",
+        "price": {
+          "min": 291.73,
+          "max": 291.73,
+          "mean": 291.73,
+          "median": 291.73,
+          "suggested": 98.64,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AWP | Snake Camo (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AWP | Snake Camo (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AWP | Snake Camo (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AWP | Snake Camo (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AWP | Snake Camo (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:26.399Z"
+}

@@ -1,0 +1,204 @@
+{
+  "id": "skin-b3e2c06aad05",
+  "name": "★ Moto Gloves | Boom!",
+  "paint_index": "10027",
+  "weapon": {
+    "id": "motorcycle_gloves",
+    "weapon_id": 5033,
+    "name": "Moto Gloves",
+    "slug": "motorcycle_gloves"
+  },
+  "pattern": {
+    "id": "motorcycle_mono_boom",
+    "name": "Boom!"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_gloves",
+    "name": "Gloves"
+  },
+  "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "These bulky hard knuckled gloves can protect the wearers hands from road rash at 60 mph. This pair has been covered in comic book onomatopoeia.\\n\\n<i>POW! BOOM! BIFF!</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 819.32,
+      "max": 1487.72,
+      "mean": 1067.25,
+      "median": 1038.13,
+      "suggested": 673.99,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 573.44,
+      "max": 987.01,
+      "mean": 815.48,
+      "median": 897.02,
+      "suggested": 595.62,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 223.26,
+      "max": 1136.45,
+      "mean": 655.27,
+      "median": 606.11,
+      "suggested": 223.59,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 107.35,
+      "max": 681.86,
+      "mean": 350.16,
+      "median": 158.25,
+      "suggested": 134.06,
+      "quantity": 5,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Moto Gloves | Boom! (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Moto Gloves | Boom! (Minimal Wear)",
+      "price": {
+        "min": 819.32,
+        "max": 1487.72,
+        "mean": 1067.25,
+        "median": 1038.13,
+        "suggested": 673.99,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Moto Gloves | Boom! (Field-Tested)",
+      "price": {
+        "min": 573.44,
+        "max": 987.01,
+        "mean": 815.48,
+        "median": 897.02,
+        "suggested": 595.62,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Moto Gloves | Boom! (Well-Worn)",
+      "price": {
+        "min": 223.26,
+        "max": 1136.45,
+        "mean": 655.27,
+        "median": 606.11,
+        "suggested": 223.59,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Moto Gloves | Boom! (Battle-Scarred)",
+      "price": {
+        "min": 107.35,
+        "max": 681.86,
+        "mean": 350.16,
+        "median": 158.25,
+        "suggested": 134.06,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Moto Gloves | Boom! (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Moto Gloves | Boom! (Minimal Wear)",
+        "price": {
+          "min": 819.32,
+          "max": 1487.72,
+          "mean": 1067.25,
+          "median": 1038.13,
+          "suggested": 673.99,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Moto Gloves | Boom! (Field-Tested)",
+        "price": {
+          "min": 573.44,
+          "max": 987.01,
+          "mean": 815.48,
+          "median": 897.02,
+          "suggested": 595.62,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Moto Gloves | Boom! (Well-Worn)",
+        "price": {
+          "min": 223.26,
+          "max": 1136.45,
+          "mean": 655.27,
+          "median": 606.11,
+          "suggested": 223.59,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Moto Gloves | Boom! (Battle-Scarred)",
+        "price": {
+          "min": 107.35,
+          "max": 681.86,
+          "mean": 350.16,
+          "median": 158.25,
+          "suggested": 134.06,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:23.247Z"
+}

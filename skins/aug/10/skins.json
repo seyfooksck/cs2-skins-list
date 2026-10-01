@@ -1,0 +1,129 @@
+{
+  "id": "skin-e4b705357181",
+  "name": "AUG | Copperhead",
+  "paint_index": "10",
+  "weapon": {
+    "id": "weapon_aug",
+    "weapon_id": 8,
+    "name": "AUG",
+    "slug": "aug"
+  },
+  "pattern": {
+    "id": "hy_copperhead",
+    "name": "Copperhead"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0.12,
+  "max_float": 0.38,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire. It has been painted using a copperhead snakeskin-patterned hydrographic.",
+  "images": {
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "mw": {
+      "min": 103.79,
+      "max": 110.24,
+      "mean": 107.02,
+      "median": 107.02,
+      "suggested": 115.19,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 105.02,
+      "max": 105.02,
+      "mean": 105.02,
+      "median": 105.02,
+      "suggested": 103.99,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AUG | Copperhead (Minimal Wear)",
+      "price": {
+        "min": 103.79,
+        "max": 110.24,
+        "mean": 107.02,
+        "median": 107.02,
+        "suggested": 115.19,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AUG | Copperhead (Field-Tested)",
+      "price": {
+        "min": 105.02,
+        "max": 105.02,
+        "mean": 105.02,
+        "median": 105.02,
+        "suggested": 103.99,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "mw": {
+        "market_hash_name": "AUG | Copperhead (Minimal Wear)",
+        "price": {
+          "min": 103.79,
+          "max": 110.24,
+          "mean": 107.02,
+          "median": 107.02,
+          "suggested": 115.19,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AUG | Copperhead (Field-Tested)",
+        "price": {
+          "min": 105.02,
+          "max": 105.02,
+          "mean": 105.02,
+          "median": 105.02,
+          "suggested": 103.99,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "mw": {
+        "market_hash_name": "Souvenir AUG | Copperhead (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AUG | Copperhead (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.550Z"
+}

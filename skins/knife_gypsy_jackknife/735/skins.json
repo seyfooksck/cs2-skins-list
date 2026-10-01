@@ -1,0 +1,217 @@
+{
+  "id": "skin-a478cdeae1a7",
+  "name": "★ Navaja Knife | Night Stripe",
+  "paint_index": "735",
+  "weapon": {
+    "id": "weapon_knife_gypsy_jackknife",
+    "weapon_id": 520,
+    "name": "Navaja Knife",
+    "slug": "knife_gypsy_jackknife"
+  },
+  "pattern": {
+    "id": "sp_nightstripe",
+    "name": "Night Stripe"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This marble-enamel-handled flip knife conceals a small but viciously tapered blade. It has been spray-painted with a tape mask pattern in a night ops color scheme.\\n\\n<i>Spray... Pray... Paint... Stab.</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 49.72,
+      "max": 49.72,
+      "mean": 49.72,
+      "median": 49.72,
+      "suggested": 62.9,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 47,
+      "max": 102.11,
+      "mean": 64.72,
+      "median": 55.39,
+      "suggested": 54.68,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 53.03,
+      "max": 53.03,
+      "mean": 53.03,
+      "median": 53.03,
+      "suggested": 50.37,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Navaja Knife | Night Stripe (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Navaja Knife | Night Stripe (Minimal Wear)",
+      "price": {
+        "min": 49.72,
+        "max": 49.72,
+        "mean": 49.72,
+        "median": 49.72,
+        "suggested": 62.9,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Navaja Knife | Night Stripe (Field-Tested)",
+      "price": {
+        "min": 47,
+        "max": 102.11,
+        "mean": 64.72,
+        "median": 55.39,
+        "suggested": 54.68,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Navaja Knife | Night Stripe (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Navaja Knife | Night Stripe (Battle-Scarred)",
+      "price": {
+        "min": 53.03,
+        "max": 53.03,
+        "mean": 53.03,
+        "median": 53.03,
+        "suggested": 50.37,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Navaja Knife | Night Stripe (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Navaja Knife | Night Stripe (Minimal Wear)",
+        "price": {
+          "min": 49.72,
+          "max": 49.72,
+          "mean": 49.72,
+          "median": 49.72,
+          "suggested": 62.9,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Navaja Knife | Night Stripe (Field-Tested)",
+        "price": {
+          "min": 47,
+          "max": 102.11,
+          "mean": 64.72,
+          "median": 55.39,
+          "suggested": 54.68,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Navaja Knife | Night Stripe (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ Navaja Knife | Night Stripe (Battle-Scarred)",
+        "price": {
+          "min": 53.03,
+          "max": 53.03,
+          "mean": 53.03,
+          "median": 53.03,
+          "suggested": 50.37,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Navaja Knife | Night Stripe (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Navaja Knife | Night Stripe (Minimal Wear)",
+        "price": {
+          "min": 72.14,
+          "max": 72.14,
+          "mean": 72.14,
+          "median": 72.14,
+          "suggested": 79.84,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Navaja Knife | Night Stripe (Field-Tested)",
+        "price": {
+          "min": 68.84,
+          "max": 73.26,
+          "mean": 71.05,
+          "median": 71.05,
+          "suggested": 69.02,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Navaja Knife | Night Stripe (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Navaja Knife | Night Stripe (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:35.641Z"
+}

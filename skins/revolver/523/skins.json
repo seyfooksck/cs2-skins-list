@@ -1,0 +1,217 @@
+{
+  "id": "skin-4429b6507c58",
+  "name": "R8 Revolver | Amber Fade",
+  "paint_index": "523",
+  "weapon": {
+    "id": "weapon_revolver",
+    "weapon_id": 64,
+    "name": "R8 Revolver",
+    "slug": "revolver"
+  },
+  "pattern": {
+    "id": "aa_fade_metallic_revolver",
+    "name": "Amber Fade"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.4,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The R8 Revolver delivers a highly accurate and powerful round at the expense of a lengthy trigger-pull. Firing rapidly by fanning the hammer may be the best option when point-blank stopping power is required. It has been painted by airbrushing transparent paints that fade together over a chrome base coat.\\n\\n<i>This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 8.06,
+      "max": 463.86,
+      "mean": 23.27,
+      "median": 11.84,
+      "suggested": 10.84,
+      "quantity": 158,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.58,
+      "max": 274.23,
+      "mean": 4.57,
+      "median": 2.82,
+      "suggested": 2.03,
+      "quantity": 152,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.31,
+      "max": 79.38,
+      "mean": 2.57,
+      "median": 1.61,
+      "suggested": 1.6,
+      "quantity": 219,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 2.59,
+      "max": 90.17,
+      "mean": 10.51,
+      "median": 3.68,
+      "suggested": 3.1,
+      "quantity": 12,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "R8 Revolver | Amber Fade (Factory New)",
+      "price": {
+        "min": 8.06,
+        "max": 463.86,
+        "mean": 23.27,
+        "median": 11.84,
+        "suggested": 10.84,
+        "quantity": 158,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "R8 Revolver | Amber Fade (Minimal Wear)",
+      "price": {
+        "min": 1.58,
+        "max": 274.23,
+        "mean": 4.57,
+        "median": 2.82,
+        "suggested": 2.03,
+        "quantity": 152,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "R8 Revolver | Amber Fade (Field-Tested)",
+      "price": {
+        "min": 1.31,
+        "max": 79.38,
+        "mean": 2.57,
+        "median": 1.61,
+        "suggested": 1.6,
+        "quantity": 219,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "R8 Revolver | Amber Fade (Well-Worn)",
+      "price": {
+        "min": 2.59,
+        "max": 90.17,
+        "mean": 10.51,
+        "median": 3.68,
+        "suggested": 3.1,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "R8 Revolver | Amber Fade (Factory New)",
+        "price": {
+          "min": 8.06,
+          "max": 463.86,
+          "mean": 23.27,
+          "median": 11.84,
+          "suggested": 10.84,
+          "quantity": 158,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "R8 Revolver | Amber Fade (Minimal Wear)",
+        "price": {
+          "min": 1.58,
+          "max": 274.23,
+          "mean": 4.57,
+          "median": 2.82,
+          "suggested": 2.03,
+          "quantity": 152,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "R8 Revolver | Amber Fade (Field-Tested)",
+        "price": {
+          "min": 1.31,
+          "max": 79.38,
+          "mean": 2.57,
+          "median": 1.61,
+          "suggested": 1.6,
+          "quantity": 219,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "R8 Revolver | Amber Fade (Well-Worn)",
+        "price": {
+          "min": 2.59,
+          "max": 90.17,
+          "mean": 10.51,
+          "median": 3.68,
+          "suggested": 3.1,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir R8 Revolver | Amber Fade (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir R8 Revolver | Amber Fade (Minimal Wear)",
+        "price": {
+          "min": 155.19,
+          "max": 155.19,
+          "mean": 155.19,
+          "median": 155.19,
+          "suggested": 17.5,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir R8 Revolver | Amber Fade (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir R8 Revolver | Amber Fade (Well-Worn)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:46.508Z"
+}

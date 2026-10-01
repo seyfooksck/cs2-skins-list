@@ -1,0 +1,310 @@
+{
+  "id": "skin-8190f382bffd",
+  "name": "USP-S | Monster Mashup",
+  "paint_index": "991",
+  "weapon": {
+    "id": "weapon_usp_silencer",
+    "weapon_id": 61,
+    "name": "USP-S",
+    "slug": "usp_silencer"
+  },
+  "pattern": {
+    "id": "cu_usp_krokos",
+    "name": "Monster Mashup"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise. A custom paint job featuring a green monster and other icons inspired by popular urban art has been applied. The silencer has a pearlescent finish.\\n\\n<i>X__X</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 115.64,
+      "max": 506.4,
+      "mean": 195.21,
+      "median": 171.62,
+      "suggested": 147.8,
+      "quantity": 43,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 36.86,
+      "max": 105.04,
+      "mean": 55.1,
+      "median": 50.97,
+      "suggested": 48,
+      "quantity": 61,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 22,
+      "max": 62.29,
+      "mean": 31.97,
+      "median": 26.84,
+      "suggested": 26.68,
+      "quantity": 76,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 27.17,
+      "max": 38.51,
+      "mean": 31.69,
+      "median": 30.63,
+      "suggested": 28.01,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 21.87,
+      "max": 28.3,
+      "mean": 24.2,
+      "median": 23.77,
+      "suggested": 25.24,
+      "quantity": 6,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "USP-S | Monster Mashup (Factory New)",
+      "price": {
+        "min": 115.64,
+        "max": 506.4,
+        "mean": 195.21,
+        "median": 171.62,
+        "suggested": 147.8,
+        "quantity": 43,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "USP-S | Monster Mashup (Minimal Wear)",
+      "price": {
+        "min": 36.86,
+        "max": 105.04,
+        "mean": 55.1,
+        "median": 50.97,
+        "suggested": 48,
+        "quantity": 61,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "USP-S | Monster Mashup (Field-Tested)",
+      "price": {
+        "min": 22,
+        "max": 62.29,
+        "mean": 31.97,
+        "median": 26.84,
+        "suggested": 26.68,
+        "quantity": 76,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "USP-S | Monster Mashup (Well-Worn)",
+      "price": {
+        "min": 27.17,
+        "max": 38.51,
+        "mean": 31.69,
+        "median": 30.63,
+        "suggested": 28.01,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "USP-S | Monster Mashup (Battle-Scarred)",
+      "price": {
+        "min": 21.87,
+        "max": 28.3,
+        "mean": 24.2,
+        "median": 23.77,
+        "suggested": 25.24,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "USP-S | Monster Mashup (Factory New)",
+        "price": {
+          "min": 115.64,
+          "max": 506.4,
+          "mean": 195.21,
+          "median": 171.62,
+          "suggested": 147.8,
+          "quantity": 43,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "USP-S | Monster Mashup (Minimal Wear)",
+        "price": {
+          "min": 36.86,
+          "max": 105.04,
+          "mean": 55.1,
+          "median": 50.97,
+          "suggested": 48,
+          "quantity": 61,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "USP-S | Monster Mashup (Field-Tested)",
+        "price": {
+          "min": 22,
+          "max": 62.29,
+          "mean": 31.97,
+          "median": 26.84,
+          "suggested": 26.68,
+          "quantity": 76,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "USP-S | Monster Mashup (Well-Worn)",
+        "price": {
+          "min": 27.17,
+          "max": 38.51,
+          "mean": 31.69,
+          "median": 30.63,
+          "suggested": 28.01,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "USP-S | Monster Mashup (Battle-Scarred)",
+        "price": {
+          "min": 21.87,
+          "max": 28.3,
+          "mean": 24.2,
+          "median": 23.77,
+          "suggested": 25.24,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ USP-S | Monster Mashup (Factory New)",
+        "price": {
+          "min": 115.47,
+          "max": 1419.14,
+          "mean": 227.84,
+          "median": 132.34,
+          "suggested": 148.6,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ USP-S | Monster Mashup (Minimal Wear)",
+        "price": {
+          "min": 60,
+          "max": 112.66,
+          "mean": 78.93,
+          "median": 74.95,
+          "suggested": 78.42,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ USP-S | Monster Mashup (Field-Tested)",
+        "price": {
+          "min": 28.95,
+          "max": 61.67,
+          "mean": 41.31,
+          "median": 34.88,
+          "suggested": 37.99,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ USP-S | Monster Mashup (Well-Worn)",
+        "price": {
+          "min": 28.6,
+          "max": 32.08,
+          "mean": 30.34,
+          "median": 30.34,
+          "suggested": 36.28,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ USP-S | Monster Mashup (Battle-Scarred)",
+        "price": {
+          "min": 31.37,
+          "max": 46.48,
+          "mean": 36.43,
+          "median": 31.44,
+          "suggested": 32.75,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir USP-S | Monster Mashup (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir USP-S | Monster Mashup (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir USP-S | Monster Mashup (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir USP-S | Monster Mashup (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir USP-S | Monster Mashup (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:50.530Z"
+}

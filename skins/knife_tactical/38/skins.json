@@ -1,0 +1,137 @@
+{
+  "id": "skin-85ba0d17a1f9",
+  "name": "★ Huntsman Knife | Fade",
+  "paint_index": "38",
+  "weapon": {
+    "id": "weapon_knife_tactical",
+    "weapon_id": 509,
+    "name": "Huntsman Knife",
+    "slug": "knife_tactical"
+  },
+  "pattern": {
+    "id": "aa_fade",
+    "name": "Fade"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A knife designed for modern tactical uses, the blade is well suited for a range of both combat and utilitarian needs.  The unique Tanto point allows for maximum penetration through even the toughest of surfaces. It has been painted by airbrushing transparent paints that fade together over a chrome base coat.\\n\\n<i>This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 243.6,
+      "max": 544.39,
+      "mean": 312.12,
+      "median": 286.14,
+      "suggested": 329.38,
+      "quantity": 27,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 554.3,
+      "max": 554.3,
+      "mean": 554.3,
+      "median": 554.3,
+      "suggested": 444.49,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Huntsman Knife | Fade (Factory New)",
+      "price": {
+        "min": 243.6,
+        "max": 544.39,
+        "mean": 312.12,
+        "median": 286.14,
+        "suggested": 329.38,
+        "quantity": 27,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Huntsman Knife | Fade (Minimal Wear)",
+      "price": {
+        "min": 554.3,
+        "max": 554.3,
+        "mean": 554.3,
+        "median": 554.3,
+        "suggested": 444.49,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Huntsman Knife | Fade (Factory New)",
+        "price": {
+          "min": 243.6,
+          "max": 544.39,
+          "mean": 312.12,
+          "median": 286.14,
+          "suggested": 329.38,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Huntsman Knife | Fade (Minimal Wear)",
+        "price": {
+          "min": 554.3,
+          "max": 554.3,
+          "mean": 554.3,
+          "median": 554.3,
+          "suggested": 444.49,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Huntsman Knife | Fade (Factory New)",
+        "price": {
+          "min": 320.08,
+          "max": 541.42,
+          "mean": 430.75,
+          "median": 430.75,
+          "suggested": 397.95,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Huntsman Knife | Fade (Minimal Wear)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:38.607Z"
+}

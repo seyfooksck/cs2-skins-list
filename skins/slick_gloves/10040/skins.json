@@ -1,0 +1,204 @@
+{
+  "id": "skin-52a9a70cdd76",
+  "name": "★ Driver Gloves | Diamondback",
+  "paint_index": "10040",
+  "weapon": {
+    "id": "slick_gloves",
+    "weapon_id": 5031,
+    "name": "Driver Gloves",
+    "slug": "slick_gloves"
+  },
+  "pattern": {
+    "id": "slick_snakeskin_yellow",
+    "name": "Diamondback"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_gloves",
+    "name": "Gloves"
+  },
+  "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "These driving gloves offer protection from the elements while still maintaining tactile sensation. It has been crafted out of a mix of tan leather, black leather, and snakeskin.\\n\\n<i>Standard issue is for suckers... - Imogen, Arms Dealer In Training</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 1007.07,
+      "max": 2056.62,
+      "mean": 1396.75,
+      "median": 1126.56,
+      "suggested": 636.56,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 679.11,
+      "max": 2077.57,
+      "mean": 1036.26,
+      "median": 921.36,
+      "suggested": 566.53,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 385.71,
+      "max": 385.71,
+      "mean": 385.71,
+      "median": 385.71,
+      "suggested": 204.98,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 118.26,
+      "max": 454.58,
+      "mean": 282.78,
+      "median": 275.5,
+      "suggested": 126.28,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Driver Gloves | Diamondback (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Driver Gloves | Diamondback (Minimal Wear)",
+      "price": {
+        "min": 1007.07,
+        "max": 2056.62,
+        "mean": 1396.75,
+        "median": 1126.56,
+        "suggested": 636.56,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Driver Gloves | Diamondback (Field-Tested)",
+      "price": {
+        "min": 679.11,
+        "max": 2077.57,
+        "mean": 1036.26,
+        "median": 921.36,
+        "suggested": 566.53,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Driver Gloves | Diamondback (Well-Worn)",
+      "price": {
+        "min": 385.71,
+        "max": 385.71,
+        "mean": 385.71,
+        "median": 385.71,
+        "suggested": 204.98,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Driver Gloves | Diamondback (Battle-Scarred)",
+      "price": {
+        "min": 118.26,
+        "max": 454.58,
+        "mean": 282.78,
+        "median": 275.5,
+        "suggested": 126.28,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Driver Gloves | Diamondback (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Driver Gloves | Diamondback (Minimal Wear)",
+        "price": {
+          "min": 1007.07,
+          "max": 2056.62,
+          "mean": 1396.75,
+          "median": 1126.56,
+          "suggested": 636.56,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Driver Gloves | Diamondback (Field-Tested)",
+        "price": {
+          "min": 679.11,
+          "max": 2077.57,
+          "mean": 1036.26,
+          "median": 921.36,
+          "suggested": 566.53,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Driver Gloves | Diamondback (Well-Worn)",
+        "price": {
+          "min": 385.71,
+          "max": 385.71,
+          "mean": 385.71,
+          "median": 385.71,
+          "suggested": 204.98,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Driver Gloves | Diamondback (Battle-Scarred)",
+        "price": {
+          "min": 118.26,
+          "max": 454.58,
+          "mean": 282.78,
+          "median": 275.5,
+          "suggested": 126.28,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:23.534Z"
+}

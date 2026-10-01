@@ -1,0 +1,214 @@
+{
+  "id": "skin-bb633c21fc25",
+  "name": "AWP | Asiimov",
+  "paint_index": "279",
+  "weapon": {
+    "id": "weapon_awp",
+    "weapon_id": 9,
+    "name": "AWP",
+    "slug": "awp"
+  },
+  "pattern": {
+    "id": "cu_awp_asimov",
+    "name": "Asiimov"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.18,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted with a sci-fi design.\\n\\n<i>Anyone can predict the future... a visionary shapes it</i>",
+  "images": {
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "ft": {
+      "min": 122.1,
+      "max": 69403.59,
+      "mean": 556.62,
+      "median": 144.26,
+      "suggested": 156.82,
+      "quantity": 181,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 92.78,
+      "max": 5120.72,
+      "mean": 192.07,
+      "median": 106.83,
+      "suggested": 120.78,
+      "quantity": 65,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 76.61,
+      "max": 1421.89,
+      "mean": 230.96,
+      "median": 103.59,
+      "suggested": 98.45,
+      "quantity": 124,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AWP | Asiimov (Field-Tested)",
+      "price": {
+        "min": 122.1,
+        "max": 69403.59,
+        "mean": 556.62,
+        "median": 144.26,
+        "suggested": 156.82,
+        "quantity": 181,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AWP | Asiimov (Well-Worn)",
+      "price": {
+        "min": 92.78,
+        "max": 5120.72,
+        "mean": 192.07,
+        "median": 106.83,
+        "suggested": 120.78,
+        "quantity": 65,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AWP | Asiimov (Battle-Scarred)",
+      "price": {
+        "min": 76.61,
+        "max": 1421.89,
+        "mean": 230.96,
+        "median": 103.59,
+        "suggested": 98.45,
+        "quantity": 124,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "ft": {
+        "market_hash_name": "AWP | Asiimov (Field-Tested)",
+        "price": {
+          "min": 122.1,
+          "max": 69403.59,
+          "mean": 556.62,
+          "median": 144.26,
+          "suggested": 156.82,
+          "quantity": 181,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AWP | Asiimov (Well-Worn)",
+        "price": {
+          "min": 92.78,
+          "max": 5120.72,
+          "mean": 192.07,
+          "median": 106.83,
+          "suggested": 120.78,
+          "quantity": 65,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AWP | Asiimov (Battle-Scarred)",
+        "price": {
+          "min": 76.61,
+          "max": 1421.89,
+          "mean": 230.96,
+          "median": 103.59,
+          "suggested": 98.45,
+          "quantity": 124,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "ft": {
+        "market_hash_name": "StatTrak™ AWP | Asiimov (Field-Tested)",
+        "price": {
+          "min": 259.06,
+          "max": 932.38,
+          "mean": 367.55,
+          "median": 307.49,
+          "suggested": 333.49,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AWP | Asiimov (Well-Worn)",
+        "price": {
+          "min": 160.64,
+          "max": 385.09,
+          "mean": 221.99,
+          "median": 210.28,
+          "suggested": 231.96,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ AWP | Asiimov (Battle-Scarred)",
+        "price": {
+          "min": 140.03,
+          "max": 896.13,
+          "mean": 347.05,
+          "median": 282.01,
+          "suggested": 171.54,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "ft": {
+        "market_hash_name": "Souvenir AWP | Asiimov (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AWP | Asiimov (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AWP | Asiimov (Battle-Scarred)",
+        "price": {
+          "min": 208.88,
+          "max": 208.88,
+          "mean": 208.88,
+          "median": 208.88,
+          "suggested": 125.2,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.917Z"
+}

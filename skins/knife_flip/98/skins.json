@@ -1,0 +1,233 @@
+{
+  "id": "skin-6bfda02174ab",
+  "name": "★ Flip Knife | Ultraviolet",
+  "paint_index": "98",
+  "weapon": {
+    "id": "weapon_knife_flip",
+    "weapon_id": 505,
+    "name": "Flip Knife",
+    "slug": "knife_flip"
+  },
+  "pattern": {
+    "id": "so_purple",
+    "name": "Ultraviolet"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Flip knives sport a Persian-style back-swept blade with an acute point.  While the point itself may be fragile, the overall design of the flip knife's design is surprisingly durable. It has individual parts spray-painted solid colors in a black and purple color scheme.\\n\\n<i>Elegant design paired with brutal intent</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 184.2,
+      "max": 402.59,
+      "mean": 239.27,
+      "median": 213.2,
+      "suggested": 219.58,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 145.8,
+      "max": 278.3,
+      "mean": 182.85,
+      "median": 165.3,
+      "suggested": 169.52,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 198.38,
+      "max": 198.38,
+      "mean": 198.38,
+      "median": 198.38,
+      "suggested": 144.59,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 133.28,
+      "max": 155.69,
+      "mean": 143.37,
+      "median": 142.25,
+      "suggested": 155.13,
+      "quantity": 4,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Flip Knife | Ultraviolet (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Flip Knife | Ultraviolet (Minimal Wear)",
+      "price": {
+        "min": 184.2,
+        "max": 402.59,
+        "mean": 239.27,
+        "median": 213.2,
+        "suggested": 219.58,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Flip Knife | Ultraviolet (Field-Tested)",
+      "price": {
+        "min": 145.8,
+        "max": 278.3,
+        "mean": 182.85,
+        "median": 165.3,
+        "suggested": 169.52,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Flip Knife | Ultraviolet (Well-Worn)",
+      "price": {
+        "min": 198.38,
+        "max": 198.38,
+        "mean": 198.38,
+        "median": 198.38,
+        "suggested": 144.59,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Flip Knife | Ultraviolet (Battle-Scarred)",
+      "price": {
+        "min": 133.28,
+        "max": 155.69,
+        "mean": 143.37,
+        "median": 142.25,
+        "suggested": 155.13,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Flip Knife | Ultraviolet (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Flip Knife | Ultraviolet (Minimal Wear)",
+        "price": {
+          "min": 184.2,
+          "max": 402.59,
+          "mean": 239.27,
+          "median": 213.2,
+          "suggested": 219.58,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Flip Knife | Ultraviolet (Field-Tested)",
+        "price": {
+          "min": 145.8,
+          "max": 278.3,
+          "mean": 182.85,
+          "median": 165.3,
+          "suggested": 169.52,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Flip Knife | Ultraviolet (Well-Worn)",
+        "price": {
+          "min": 198.38,
+          "max": 198.38,
+          "mean": 198.38,
+          "median": 198.38,
+          "suggested": 144.59,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Flip Knife | Ultraviolet (Battle-Scarred)",
+        "price": {
+          "min": 133.28,
+          "max": 155.69,
+          "mean": 143.37,
+          "median": 142.25,
+          "suggested": 155.13,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Ultraviolet (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Ultraviolet (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Ultraviolet (Field-Tested)",
+        "price": {
+          "min": 147.08,
+          "max": 147.08,
+          "mean": 147.08,
+          "median": 147.08,
+          "suggested": 173.11,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Ultraviolet (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Ultraviolet (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:34.845Z"
+}

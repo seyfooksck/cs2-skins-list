@@ -1,0 +1,249 @@
+{
+  "id": "skin-ffce7ece69a0",
+  "name": "MP7 | Base-2",
+  "paint_index": "1468",
+  "weapon": {
+    "id": "weapon_mp7",
+    "weapon_id": 33,
+    "name": "MP7",
+    "slug": "mp7"
+  },
+  "pattern": {
+    "id": "mp7_binary_green",
+    "name": "Base-2"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been custom painted with 1s and 0s using green and black.\\n\\n<i>01001101 01010000 00110111</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 3.5,
+      "max": 11.67,
+      "mean": 6,
+      "median": 3.5,
+      "suggested": 1.22,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.13,
+      "max": 1.46,
+      "mean": 0.92,
+      "median": 1.06,
+      "suggested": 0.15,
+      "quantity": 24,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.02,
+      "max": 1.17,
+      "mean": 0.35,
+      "median": 0.35,
+      "suggested": 0.03,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.02,
+      "max": 0.05,
+      "mean": 0.04,
+      "median": 0.04,
+      "suggested": 0.01,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.02,
+      "max": 0.05,
+      "mean": 0.04,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 4,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP7 | Base-2 (Factory New)",
+      "price": {
+        "min": 3.5,
+        "max": 11.67,
+        "mean": 6,
+        "median": 3.5,
+        "suggested": 1.22,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP7 | Base-2 (Minimal Wear)",
+      "price": {
+        "min": 0.13,
+        "max": 1.46,
+        "mean": 0.92,
+        "median": 1.06,
+        "suggested": 0.15,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP7 | Base-2 (Field-Tested)",
+      "price": {
+        "min": 0.02,
+        "max": 1.17,
+        "mean": 0.35,
+        "median": 0.35,
+        "suggested": 0.03,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP7 | Base-2 (Well-Worn)",
+      "price": {
+        "min": 0.02,
+        "max": 0.05,
+        "mean": 0.04,
+        "median": 0.04,
+        "suggested": 0.01,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP7 | Base-2 (Battle-Scarred)",
+      "price": {
+        "min": 0.02,
+        "max": 0.05,
+        "mean": 0.04,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP7 | Base-2 (Factory New)",
+        "price": {
+          "min": 3.5,
+          "max": 11.67,
+          "mean": 6,
+          "median": 3.5,
+          "suggested": 1.22,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP7 | Base-2 (Minimal Wear)",
+        "price": {
+          "min": 0.13,
+          "max": 1.46,
+          "mean": 0.92,
+          "median": 1.06,
+          "suggested": 0.15,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP7 | Base-2 (Field-Tested)",
+        "price": {
+          "min": 0.02,
+          "max": 1.17,
+          "mean": 0.35,
+          "median": 0.35,
+          "suggested": 0.03,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP7 | Base-2 (Well-Worn)",
+        "price": {
+          "min": 0.02,
+          "max": 0.05,
+          "mean": 0.04,
+          "median": 0.04,
+          "suggested": 0.01,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP7 | Base-2 (Battle-Scarred)",
+        "price": {
+          "min": 0.02,
+          "max": 0.05,
+          "mean": 0.04,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP7 | Base-2 (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP7 | Base-2 (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP7 | Base-2 (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP7 | Base-2 (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP7 | Base-2 (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:43.271Z"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "skin-8300d759e7a9",
+  "name": "Galil AR | Destroyer",
+  "paint_index": "1147",
+  "weapon": {
+    "id": "weapon_galilar",
+    "weapon_id": 13,
+    "name": "Galil AR",
+    "slug": "galilar"
+  },
+  "pattern": {
+    "id": "cu_galil_destroyer",
+    "name": "Destroyer"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat. It has been custom painted with the word \\\"DESTROYER\\\", but it can only be read from certain angles.\\n\\n<i>Destroy them all</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.62,
+      "max": 46.68,
+      "mean": 3.19,
+      "median": 1.31,
+      "suggested": 0.92,
+      "quantity": 177,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.12,
+      "max": 9.03,
+      "mean": 0.3,
+      "median": 0.22,
+      "suggested": 0.21,
+      "quantity": 683,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.07,
+      "max": 5.74,
+      "mean": 0.2,
+      "median": 0.11,
+      "suggested": 0.1,
+      "quantity": 1239,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.07,
+      "max": 0.53,
+      "mean": 0.11,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 71,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.07,
+      "max": 2.33,
+      "mean": 0.11,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 317,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Galil AR | Destroyer (Factory New)",
+      "price": {
+        "min": 0.62,
+        "max": 46.68,
+        "mean": 3.19,
+        "median": 1.31,
+        "suggested": 0.92,
+        "quantity": 177,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Galil AR | Destroyer (Minimal Wear)",
+      "price": {
+        "min": 0.12,
+        "max": 9.03,
+        "mean": 0.3,
+        "median": 0.22,
+        "suggested": 0.21,
+        "quantity": 683,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Galil AR | Destroyer (Field-Tested)",
+      "price": {
+        "min": 0.07,
+        "max": 5.74,
+        "mean": 0.2,
+        "median": 0.11,
+        "suggested": 0.1,
+        "quantity": 1239,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Galil AR | Destroyer (Well-Worn)",
+      "price": {
+        "min": 0.07,
+        "max": 0.53,
+        "mean": 0.11,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 71,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Galil AR | Destroyer (Battle-Scarred)",
+      "price": {
+        "min": 0.07,
+        "max": 2.33,
+        "mean": 0.11,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 317,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Galil AR | Destroyer (Factory New)",
+        "price": {
+          "min": 0.62,
+          "max": 46.68,
+          "mean": 3.19,
+          "median": 1.31,
+          "suggested": 0.92,
+          "quantity": 177,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Galil AR | Destroyer (Minimal Wear)",
+        "price": {
+          "min": 0.12,
+          "max": 9.03,
+          "mean": 0.3,
+          "median": 0.22,
+          "suggested": 0.21,
+          "quantity": 683,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Galil AR | Destroyer (Field-Tested)",
+        "price": {
+          "min": 0.07,
+          "max": 5.74,
+          "mean": 0.2,
+          "median": 0.11,
+          "suggested": 0.1,
+          "quantity": 1239,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Galil AR | Destroyer (Well-Worn)",
+        "price": {
+          "min": 0.07,
+          "max": 0.53,
+          "mean": 0.11,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 71,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Galil AR | Destroyer (Battle-Scarred)",
+        "price": {
+          "min": 0.07,
+          "max": 2.33,
+          "mean": 0.11,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 317,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Galil AR | Destroyer (Factory New)",
+        "price": {
+          "min": 0.7,
+          "max": 30.98,
+          "mean": 4.17,
+          "median": 2.98,
+          "suggested": 0.86,
+          "quantity": 55,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Galil AR | Destroyer (Minimal Wear)",
+        "price": {
+          "min": 0.2,
+          "max": 7.29,
+          "mean": 0.77,
+          "median": 0.29,
+          "suggested": 0.27,
+          "quantity": 232,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Galil AR | Destroyer (Field-Tested)",
+        "price": {
+          "min": 0.09,
+          "max": 3.5,
+          "mean": 0.25,
+          "median": 0.14,
+          "suggested": 0.12,
+          "quantity": 450,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Galil AR | Destroyer (Well-Worn)",
+        "price": {
+          "min": 0.09,
+          "max": 1.63,
+          "mean": 0.23,
+          "median": 0.21,
+          "suggested": 0.15,
+          "quantity": 54,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Galil AR | Destroyer (Battle-Scarred)",
+        "price": {
+          "min": 0.09,
+          "max": 0.97,
+          "mean": 0.14,
+          "median": 0.14,
+          "suggested": 0.1,
+          "quantity": 108,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Galil AR | Destroyer (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Galil AR | Destroyer (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Galil AR | Destroyer (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Galil AR | Destroyer (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Galil AR | Destroyer (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:30.946Z"
+}

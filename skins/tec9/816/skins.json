@@ -1,0 +1,258 @@
+{
+  "id": "skin-876587e47bdc",
+  "name": "Tec-9 | Fubar",
+  "paint_index": "816",
+  "weapon": {
+    "id": "weapon_tec9",
+    "weapon_id": 30,
+    "name": "Tec-9",
+    "slug": "tec9"
+  },
+  "pattern": {
+    "id": "gs_tec9_fubar",
+    "name": "Fubar"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0.14,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity. The muzzle of this military themed weapon has been scorched with use.\\n\\n<i>You call it used, we call it well-loved</i>",
+  "images": {
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "mw": {
+      "min": 7.57,
+      "max": 28.86,
+      "mean": 14.13,
+      "median": 12.33,
+      "suggested": 9.51,
+      "quantity": 22,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.34,
+      "max": 8.17,
+      "mean": 0.5,
+      "median": 0.4,
+      "suggested": 0.5,
+      "quantity": 207,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.14,
+      "max": 240.94,
+      "mean": 2.84,
+      "median": 0.21,
+      "suggested": 0.23,
+      "quantity": 99,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.12,
+      "max": 5.83,
+      "mean": 0.29,
+      "median": 0.16,
+      "suggested": 0.18,
+      "quantity": 410,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Tec-9 | Fubar (Minimal Wear)",
+      "price": {
+        "min": 7.57,
+        "max": 28.86,
+        "mean": 14.13,
+        "median": 12.33,
+        "suggested": 9.51,
+        "quantity": 22,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Tec-9 | Fubar (Field-Tested)",
+      "price": {
+        "min": 0.34,
+        "max": 8.17,
+        "mean": 0.5,
+        "median": 0.4,
+        "suggested": 0.5,
+        "quantity": 207,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Tec-9 | Fubar (Well-Worn)",
+      "price": {
+        "min": 0.14,
+        "max": 240.94,
+        "mean": 2.84,
+        "median": 0.21,
+        "suggested": 0.23,
+        "quantity": 99,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Tec-9 | Fubar (Battle-Scarred)",
+      "price": {
+        "min": 0.12,
+        "max": 5.83,
+        "mean": 0.29,
+        "median": 0.16,
+        "suggested": 0.18,
+        "quantity": 410,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "mw": {
+        "market_hash_name": "Tec-9 | Fubar (Minimal Wear)",
+        "price": {
+          "min": 7.57,
+          "max": 28.86,
+          "mean": 14.13,
+          "median": 12.33,
+          "suggested": 9.51,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Tec-9 | Fubar (Field-Tested)",
+        "price": {
+          "min": 0.34,
+          "max": 8.17,
+          "mean": 0.5,
+          "median": 0.4,
+          "suggested": 0.5,
+          "quantity": 207,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Tec-9 | Fubar (Well-Worn)",
+        "price": {
+          "min": 0.14,
+          "max": 240.94,
+          "mean": 2.84,
+          "median": 0.21,
+          "suggested": 0.23,
+          "quantity": 99,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Tec-9 | Fubar (Battle-Scarred)",
+        "price": {
+          "min": 0.12,
+          "max": 5.83,
+          "mean": 0.29,
+          "median": 0.16,
+          "suggested": 0.18,
+          "quantity": 410,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "mw": {
+        "market_hash_name": "StatTrak™ Tec-9 | Fubar (Minimal Wear)",
+        "price": {
+          "min": 3.89,
+          "max": 86.56,
+          "mean": 21.18,
+          "median": 4.91,
+          "suggested": 5.63,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Tec-9 | Fubar (Field-Tested)",
+        "price": {
+          "min": 0.34,
+          "max": 17.5,
+          "mean": 0.74,
+          "median": 0.37,
+          "suggested": 0.48,
+          "quantity": 49,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Tec-9 | Fubar (Well-Worn)",
+        "price": {
+          "min": 0.16,
+          "max": 1.98,
+          "mean": 0.33,
+          "median": 0.22,
+          "suggested": 0.23,
+          "quantity": 35,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Tec-9 | Fubar (Battle-Scarred)",
+        "price": {
+          "min": 0.14,
+          "max": 3.5,
+          "mean": 0.2,
+          "median": 0.16,
+          "suggested": 0.2,
+          "quantity": 155,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "mw": {
+        "market_hash_name": "Souvenir Tec-9 | Fubar (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Tec-9 | Fubar (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Tec-9 | Fubar (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Tec-9 | Fubar (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.286Z"
+}

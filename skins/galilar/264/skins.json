@@ -1,0 +1,250 @@
+{
+  "id": "skin-4a48af339615",
+  "name": "Galil AR | Sandstorm",
+  "paint_index": "264",
+  "weapon": {
+    "id": "weapon_galilar",
+    "weapon_id": 13,
+    "name": "Galil AR",
+    "slug": "galilar"
+  },
+  "pattern": {
+    "id": "cu_sandstorm",
+    "name": "Sandstorm"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0.1,
+  "max_float": 0.6,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat. It has been painted using a hydrographic in a purple and beige graphic design.\\n\\n<i>It'll take more than a tarp to protect you</i>",
+  "images": {
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "mw": {
+      "min": 16.29,
+      "max": 116.34,
+      "mean": 56.22,
+      "median": 39.79,
+      "suggested": 23.56,
+      "quantity": 32,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.93,
+      "max": 239.28,
+      "mean": 9.65,
+      "median": 2.3,
+      "suggested": 2.26,
+      "quantity": 54,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.66,
+      "max": 4.18,
+      "mean": 2.67,
+      "median": 2.19,
+      "suggested": 2.05,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.46,
+      "max": 4.67,
+      "mean": 2.07,
+      "median": 1.7,
+      "suggested": 1.9,
+      "quantity": 8,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Galil AR | Sandstorm (Minimal Wear)",
+      "price": {
+        "min": 16.29,
+        "max": 116.34,
+        "mean": 56.22,
+        "median": 39.79,
+        "suggested": 23.56,
+        "quantity": 32,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Galil AR | Sandstorm (Field-Tested)",
+      "price": {
+        "min": 1.93,
+        "max": 239.28,
+        "mean": 9.65,
+        "median": 2.3,
+        "suggested": 2.26,
+        "quantity": 54,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Galil AR | Sandstorm (Well-Worn)",
+      "price": {
+        "min": 1.66,
+        "max": 4.18,
+        "mean": 2.67,
+        "median": 2.19,
+        "suggested": 2.05,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Galil AR | Sandstorm (Battle-Scarred)",
+      "price": {
+        "min": 1.46,
+        "max": 4.67,
+        "mean": 2.07,
+        "median": 1.7,
+        "suggested": 1.9,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "mw": {
+        "market_hash_name": "Galil AR | Sandstorm (Minimal Wear)",
+        "price": {
+          "min": 16.29,
+          "max": 116.34,
+          "mean": 56.22,
+          "median": 39.79,
+          "suggested": 23.56,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Galil AR | Sandstorm (Field-Tested)",
+        "price": {
+          "min": 1.93,
+          "max": 239.28,
+          "mean": 9.65,
+          "median": 2.3,
+          "suggested": 2.26,
+          "quantity": 54,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Galil AR | Sandstorm (Well-Worn)",
+        "price": {
+          "min": 1.66,
+          "max": 4.18,
+          "mean": 2.67,
+          "median": 2.19,
+          "suggested": 2.05,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Galil AR | Sandstorm (Battle-Scarred)",
+        "price": {
+          "min": 1.46,
+          "max": 4.67,
+          "mean": 2.07,
+          "median": 1.7,
+          "suggested": 1.9,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "mw": {
+        "market_hash_name": "StatTrak™ Galil AR | Sandstorm (Minimal Wear)",
+        "price": {
+          "min": 6.08,
+          "max": 357.42,
+          "mean": 36.2,
+          "median": 6.44,
+          "suggested": 7.14,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Galil AR | Sandstorm (Field-Tested)",
+        "price": {
+          "min": 1.41,
+          "max": 466.77,
+          "mean": 25.12,
+          "median": 1.96,
+          "suggested": 1.98,
+          "quantity": 55,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Galil AR | Sandstorm (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Galil AR | Sandstorm (Battle-Scarred)",
+        "price": {
+          "min": 1.59,
+          "max": 5.82,
+          "mean": 2.19,
+          "median": 1.91,
+          "suggested": 1.88,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "mw": {
+        "market_hash_name": "Souvenir Galil AR | Sandstorm (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Galil AR | Sandstorm (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Galil AR | Sandstorm (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Galil AR | Sandstorm (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:31.000Z"
+}

@@ -1,0 +1,206 @@
+{
+  "id": "skin-95bf58d18d49",
+  "name": "P250 | Steel Disruption",
+  "paint_index": "230",
+  "weapon": {
+    "id": "weapon_p250",
+    "weapon_id": 36,
+    "name": "P250",
+    "slug": "p250"
+  },
+  "pattern": {
+    "id": "am_ddpatdense_silver",
+    "name": "Steel Disruption"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.2,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A low-recoil firearm with a high rate of fire, the P250 is a relatively inexpensive choice against armored opponents. It has been covered in a metallic foil stamped with a digital disruptive pattern.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 14.26,
+      "max": 58.35,
+      "mean": 23.92,
+      "median": 19.43,
+      "suggested": 18.68,
+      "quantity": 20,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 3.43,
+      "max": 174.43,
+      "mean": 10.47,
+      "median": 6.98,
+      "suggested": 3.87,
+      "quantity": 53,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 11.84,
+      "max": 11.84,
+      "mean": 11.84,
+      "median": 11.84,
+      "suggested": 3.26,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P250 | Steel Disruption (Factory New)",
+      "price": {
+        "min": 14.26,
+        "max": 58.35,
+        "mean": 23.92,
+        "median": 19.43,
+        "suggested": 18.68,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P250 | Steel Disruption (Minimal Wear)",
+      "price": {
+        "min": 3.43,
+        "max": 174.43,
+        "mean": 10.47,
+        "median": 6.98,
+        "suggested": 3.87,
+        "quantity": 53,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P250 | Steel Disruption (Field-Tested)",
+      "price": {
+        "min": 11.84,
+        "max": 11.84,
+        "mean": 11.84,
+        "median": 11.84,
+        "suggested": 3.26,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P250 | Steel Disruption (Factory New)",
+        "price": {
+          "min": 14.26,
+          "max": 58.35,
+          "mean": 23.92,
+          "median": 19.43,
+          "suggested": 18.68,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P250 | Steel Disruption (Minimal Wear)",
+        "price": {
+          "min": 3.43,
+          "max": 174.43,
+          "mean": 10.47,
+          "median": 6.98,
+          "suggested": 3.87,
+          "quantity": 53,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P250 | Steel Disruption (Field-Tested)",
+        "price": {
+          "min": 11.84,
+          "max": 11.84,
+          "mean": 11.84,
+          "median": 11.84,
+          "suggested": 3.26,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P250 | Steel Disruption (Factory New)",
+        "price": {
+          "min": 8.57,
+          "max": 2560.37,
+          "mean": 124.77,
+          "median": 20.67,
+          "suggested": 10.23,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P250 | Steel Disruption (Minimal Wear)",
+        "price": {
+          "min": 10.5,
+          "max": 1750.41,
+          "mean": 159.82,
+          "median": 19.1,
+          "suggested": 9.7,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P250 | Steel Disruption (Field-Tested)",
+        "price": {
+          "min": 28.24,
+          "max": 158.7,
+          "mean": 96.45,
+          "median": 102.41,
+          "suggested": 7.96,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P250 | Steel Disruption (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P250 | Steel Disruption (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P250 | Steel Disruption (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.955Z"
+}

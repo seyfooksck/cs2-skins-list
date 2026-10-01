@@ -1,0 +1,273 @@
+{
+  "id": "skin-456130d33acd",
+  "name": "★ M9 Bayonet | Autotronic",
+  "paint_index": "577",
+  "weapon": {
+    "id": "weapon_knife_m9_bayonet",
+    "weapon_id": 508,
+    "name": "M9 Bayonet",
+    "slug": "knife_m9_bayonet"
+  },
+  "pattern": {
+    "id": "gs_m9_bay_autotronic",
+    "name": "Autotronic"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.85,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This is the M-9 bayonet.  Originally intended to be mounted on a rifle, it is also well suited to close-quarters combat. It has been anodized red and uses steel mesh to lighten the weight.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1289.27,
+      "max": 1289.27,
+      "mean": 1289.27,
+      "median": 1289.27,
+      "suggested": 1469.56,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 875.2,
+      "max": 1076.11,
+      "mean": 988.21,
+      "median": 1025.74,
+      "suggested": 1004.04,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 729.34,
+      "max": 875.2,
+      "mean": 775.16,
+      "median": 759.17,
+      "suggested": 826.02,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 701.97,
+      "max": 701.97,
+      "mean": 701.97,
+      "median": 701.97,
+      "suggested": 797.4,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 613.93,
+      "max": 1166.94,
+      "mean": 819.22,
+      "median": 676.82,
+      "suggested": 726.67,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ M9 Bayonet | Autotronic (Factory New)",
+      "price": {
+        "min": 1289.27,
+        "max": 1289.27,
+        "mean": 1289.27,
+        "median": 1289.27,
+        "suggested": 1469.56,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ M9 Bayonet | Autotronic (Minimal Wear)",
+      "price": {
+        "min": 875.2,
+        "max": 1076.11,
+        "mean": 988.21,
+        "median": 1025.74,
+        "suggested": 1004.04,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ M9 Bayonet | Autotronic (Field-Tested)",
+      "price": {
+        "min": 729.34,
+        "max": 875.2,
+        "mean": 775.16,
+        "median": 759.17,
+        "suggested": 826.02,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ M9 Bayonet | Autotronic (Well-Worn)",
+      "price": {
+        "min": 701.97,
+        "max": 701.97,
+        "mean": 701.97,
+        "median": 701.97,
+        "suggested": 797.4,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ M9 Bayonet | Autotronic (Battle-Scarred)",
+      "price": {
+        "min": 613.93,
+        "max": 1166.94,
+        "mean": 819.22,
+        "median": 676.82,
+        "suggested": 726.67,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ M9 Bayonet | Autotronic (Factory New)",
+        "price": {
+          "min": 1289.27,
+          "max": 1289.27,
+          "mean": 1289.27,
+          "median": 1289.27,
+          "suggested": 1469.56,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ M9 Bayonet | Autotronic (Minimal Wear)",
+        "price": {
+          "min": 875.2,
+          "max": 1076.11,
+          "mean": 988.21,
+          "median": 1025.74,
+          "suggested": 1004.04,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ M9 Bayonet | Autotronic (Field-Tested)",
+        "price": {
+          "min": 729.34,
+          "max": 875.2,
+          "mean": 775.16,
+          "median": 759.17,
+          "suggested": 826.02,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ M9 Bayonet | Autotronic (Well-Worn)",
+        "price": {
+          "min": 701.97,
+          "max": 701.97,
+          "mean": 701.97,
+          "median": 701.97,
+          "suggested": 797.4,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ M9 Bayonet | Autotronic (Battle-Scarred)",
+        "price": {
+          "min": 613.93,
+          "max": 1166.94,
+          "mean": 819.22,
+          "median": 676.82,
+          "suggested": 726.67,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Autotronic (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Autotronic (Minimal Wear)",
+        "price": {
+          "min": 1298.45,
+          "max": 1524.08,
+          "mean": 1411.27,
+          "median": 1411.27,
+          "suggested": 1029.56,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Autotronic (Field-Tested)",
+        "price": {
+          "min": 777.95,
+          "max": 797.29,
+          "mean": 787.62,
+          "median": 787.62,
+          "suggested": 818.1,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Autotronic (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Autotronic (Battle-Scarred)",
+        "price": {
+          "min": 686.68,
+          "max": 686.68,
+          "mean": 686.68,
+          "median": 686.68,
+          "suggested": 721.07,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:36.680Z"
+}

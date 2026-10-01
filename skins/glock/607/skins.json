@@ -1,0 +1,310 @@
+{
+  "id": "skin-0e48389f836a",
+  "name": "Glock-18 | Weasel",
+  "paint_index": "607",
+  "weapon": {
+    "id": "weapon_glock",
+    "weapon_id": 4,
+    "name": "Glock-18",
+    "slug": "glock"
+  },
+  "pattern": {
+    "id": "cu_glock18_weasel",
+    "name": "Weasel"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. It has been given a hydrographic of Bobby the Mischievous Weasel.  Don't mess with Bobby.\\n\\n<i>Just because he's cute, doesn't mean he doesn't bite</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 38.93,
+      "max": 373.48,
+      "mean": 75.72,
+      "median": 54.82,
+      "suggested": 59.1,
+      "quantity": 29,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.57,
+      "max": 640.54,
+      "mean": 26.01,
+      "median": 3.13,
+      "suggested": 3.06,
+      "quantity": 31,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.17,
+      "max": 26.84,
+      "mean": 2.04,
+      "median": 1.46,
+      "suggested": 1.53,
+      "quantity": 182,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.16,
+      "max": 18.09,
+      "mean": 3.4,
+      "median": 1.38,
+      "suggested": 1.41,
+      "quantity": 16,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.99,
+      "max": 25.6,
+      "mean": 3.7,
+      "median": 1.35,
+      "suggested": 1.41,
+      "quantity": 41,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Glock-18 | Weasel (Factory New)",
+      "price": {
+        "min": 38.93,
+        "max": 373.48,
+        "mean": 75.72,
+        "median": 54.82,
+        "suggested": 59.1,
+        "quantity": 29,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Glock-18 | Weasel (Minimal Wear)",
+      "price": {
+        "min": 2.57,
+        "max": 640.54,
+        "mean": 26.01,
+        "median": 3.13,
+        "suggested": 3.06,
+        "quantity": 31,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Glock-18 | Weasel (Field-Tested)",
+      "price": {
+        "min": 1.17,
+        "max": 26.84,
+        "mean": 2.04,
+        "median": 1.46,
+        "suggested": 1.53,
+        "quantity": 182,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Glock-18 | Weasel (Well-Worn)",
+      "price": {
+        "min": 1.16,
+        "max": 18.09,
+        "mean": 3.4,
+        "median": 1.38,
+        "suggested": 1.41,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Glock-18 | Weasel (Battle-Scarred)",
+      "price": {
+        "min": 0.99,
+        "max": 25.6,
+        "mean": 3.7,
+        "median": 1.35,
+        "suggested": 1.41,
+        "quantity": 41,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Glock-18 | Weasel (Factory New)",
+        "price": {
+          "min": 38.93,
+          "max": 373.48,
+          "mean": 75.72,
+          "median": 54.82,
+          "suggested": 59.1,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Glock-18 | Weasel (Minimal Wear)",
+        "price": {
+          "min": 2.57,
+          "max": 640.54,
+          "mean": 26.01,
+          "median": 3.13,
+          "suggested": 3.06,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Glock-18 | Weasel (Field-Tested)",
+        "price": {
+          "min": 1.17,
+          "max": 26.84,
+          "mean": 2.04,
+          "median": 1.46,
+          "suggested": 1.53,
+          "quantity": 182,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Glock-18 | Weasel (Well-Worn)",
+        "price": {
+          "min": 1.16,
+          "max": 18.09,
+          "mean": 3.4,
+          "median": 1.38,
+          "suggested": 1.41,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Glock-18 | Weasel (Battle-Scarred)",
+        "price": {
+          "min": 0.99,
+          "max": 25.6,
+          "mean": 3.7,
+          "median": 1.35,
+          "suggested": 1.41,
+          "quantity": 41,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Glock-18 | Weasel (Factory New)",
+        "price": {
+          "min": 14.47,
+          "max": 78.88,
+          "mean": 31.03,
+          "median": 26.84,
+          "suggested": 16.93,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Glock-18 | Weasel (Minimal Wear)",
+        "price": {
+          "min": 3.85,
+          "max": 23.34,
+          "mean": 6.94,
+          "median": 5.13,
+          "suggested": 4.73,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Glock-18 | Weasel (Field-Tested)",
+        "price": {
+          "min": 1.6,
+          "max": 127.18,
+          "mean": 7.69,
+          "median": 2.77,
+          "suggested": 1.95,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Glock-18 | Weasel (Well-Worn)",
+        "price": {
+          "min": 1.41,
+          "max": 130.69,
+          "mean": 10.67,
+          "median": 2.74,
+          "suggested": 1.45,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Glock-18 | Weasel (Battle-Scarred)",
+        "price": {
+          "min": 1.14,
+          "max": 612.64,
+          "mean": 37.97,
+          "median": 1.73,
+          "suggested": 1.45,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Glock-18 | Weasel (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Glock-18 | Weasel (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Glock-18 | Weasel (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Glock-18 | Weasel (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Glock-18 | Weasel (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:31.757Z"
+}

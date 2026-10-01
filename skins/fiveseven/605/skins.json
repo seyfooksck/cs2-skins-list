@@ -1,0 +1,310 @@
+{
+  "id": "skin-034f9e819612",
+  "name": "Five-SeveN | Scumbria",
+  "paint_index": "605",
+  "weapon": {
+    "id": "weapon_fiveseven",
+    "weapon_id": 3,
+    "name": "Five-SeveN",
+    "slug": "fiveseven"
+  },
+  "pattern": {
+    "id": "aq_five_seven_scumbria",
+    "name": "Scumbria"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. It has been discretely painted with stripes.\\n\\n<i>You can't leave him to die, Felix; you have to save him - The Daughter and the Paladin Part 1</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 8.75,
+      "max": 35.01,
+      "mean": 17.82,
+      "median": 14.2,
+      "suggested": 14.47,
+      "quantity": 24,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.39,
+      "max": 8.17,
+      "mean": 0.77,
+      "median": 0.58,
+      "suggested": 0.54,
+      "quantity": 59,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.27,
+      "max": 19.29,
+      "mean": 0.84,
+      "median": 0.37,
+      "suggested": 0.43,
+      "quantity": 123,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.19,
+      "max": 5.06,
+      "mean": 0.48,
+      "median": 0.32,
+      "suggested": 0.29,
+      "quantity": 113,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.18,
+      "max": 7.99,
+      "mean": 0.65,
+      "median": 0.28,
+      "suggested": 0.25,
+      "quantity": 44,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Five-SeveN | Scumbria (Factory New)",
+      "price": {
+        "min": 8.75,
+        "max": 35.01,
+        "mean": 17.82,
+        "median": 14.2,
+        "suggested": 14.47,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Five-SeveN | Scumbria (Minimal Wear)",
+      "price": {
+        "min": 0.39,
+        "max": 8.17,
+        "mean": 0.77,
+        "median": 0.58,
+        "suggested": 0.54,
+        "quantity": 59,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Five-SeveN | Scumbria (Field-Tested)",
+      "price": {
+        "min": 0.27,
+        "max": 19.29,
+        "mean": 0.84,
+        "median": 0.37,
+        "suggested": 0.43,
+        "quantity": 123,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Five-SeveN | Scumbria (Well-Worn)",
+      "price": {
+        "min": 0.19,
+        "max": 5.06,
+        "mean": 0.48,
+        "median": 0.32,
+        "suggested": 0.29,
+        "quantity": 113,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Five-SeveN | Scumbria (Battle-Scarred)",
+      "price": {
+        "min": 0.18,
+        "max": 7.99,
+        "mean": 0.65,
+        "median": 0.28,
+        "suggested": 0.25,
+        "quantity": 44,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Five-SeveN | Scumbria (Factory New)",
+        "price": {
+          "min": 8.75,
+          "max": 35.01,
+          "mean": 17.82,
+          "median": 14.2,
+          "suggested": 14.47,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Five-SeveN | Scumbria (Minimal Wear)",
+        "price": {
+          "min": 0.39,
+          "max": 8.17,
+          "mean": 0.77,
+          "median": 0.58,
+          "suggested": 0.54,
+          "quantity": 59,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Five-SeveN | Scumbria (Field-Tested)",
+        "price": {
+          "min": 0.27,
+          "max": 19.29,
+          "mean": 0.84,
+          "median": 0.37,
+          "suggested": 0.43,
+          "quantity": 123,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Five-SeveN | Scumbria (Well-Worn)",
+        "price": {
+          "min": 0.19,
+          "max": 5.06,
+          "mean": 0.48,
+          "median": 0.32,
+          "suggested": 0.29,
+          "quantity": 113,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Five-SeveN | Scumbria (Battle-Scarred)",
+        "price": {
+          "min": 0.18,
+          "max": 7.99,
+          "mean": 0.65,
+          "median": 0.28,
+          "suggested": 0.25,
+          "quantity": 44,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Scumbria (Factory New)",
+        "price": {
+          "min": 4.11,
+          "max": 39.62,
+          "mean": 16.31,
+          "median": 13.87,
+          "suggested": 4.79,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Scumbria (Minimal Wear)",
+        "price": {
+          "min": 0.58,
+          "max": 15.16,
+          "mean": 2.1,
+          "median": 0.74,
+          "suggested": 0.68,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Scumbria (Field-Tested)",
+        "price": {
+          "min": 0.26,
+          "max": 71.09,
+          "mean": 2.35,
+          "median": 0.3,
+          "suggested": 0.31,
+          "quantity": 55,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Scumbria (Well-Worn)",
+        "price": {
+          "min": 0.15,
+          "max": 5.12,
+          "mean": 0.46,
+          "median": 0.25,
+          "suggested": 0.24,
+          "quantity": 43,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Scumbria (Battle-Scarred)",
+        "price": {
+          "min": 0.22,
+          "max": 27.89,
+          "mean": 1.87,
+          "median": 0.33,
+          "suggested": 0.24,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Five-SeveN | Scumbria (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Five-SeveN | Scumbria (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Five-SeveN | Scumbria (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Five-SeveN | Scumbria (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Five-SeveN | Scumbria (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:29.956Z"
+}

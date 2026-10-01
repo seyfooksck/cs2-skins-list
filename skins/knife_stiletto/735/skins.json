@@ -1,0 +1,177 @@
+{
+  "id": "skin-2aaaebea9755",
+  "name": "★ Stiletto Knife | Night Stripe",
+  "paint_index": "735",
+  "weapon": {
+    "id": "weapon_knife_stiletto",
+    "weapon_id": 522,
+    "name": "Stiletto Knife",
+    "slug": "knife_stiletto"
+  },
+  "pattern": {
+    "id": "sp_nightstripe",
+    "name": "Night Stripe"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Historically a focal point of contention and even regulation, this Italian-style stiletto switchblade knife features a spring-loaded blade that can be deployed almost instantly with the push of a release catch. It has been spray-painted with a tape mask pattern in a night ops color scheme.\\n\\n<i>Spray... Pray... Paint... Stab.</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": null,
+    "ft": {
+      "min": 163.36,
+      "max": 198.01,
+      "mean": 175.72,
+      "median": 165.78,
+      "suggested": 191.56,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Stiletto Knife | Night Stripe (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Stiletto Knife | Night Stripe (Minimal Wear)",
+      "price": null,
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Stiletto Knife | Night Stripe (Field-Tested)",
+      "price": {
+        "min": 163.36,
+        "max": 198.01,
+        "mean": 175.72,
+        "median": 165.78,
+        "suggested": 191.56,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Stiletto Knife | Night Stripe (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Stiletto Knife | Night Stripe (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Stiletto Knife | Night Stripe (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Stiletto Knife | Night Stripe (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ Stiletto Knife | Night Stripe (Field-Tested)",
+        "price": {
+          "min": 163.36,
+          "max": 198.01,
+          "mean": 175.72,
+          "median": 165.78,
+          "suggested": 191.56,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Stiletto Knife | Night Stripe (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ Stiletto Knife | Night Stripe (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Stiletto Knife | Night Stripe (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Stiletto Knife | Night Stripe (Minimal Wear)",
+        "price": {
+          "min": 227.95,
+          "max": 227.95,
+          "mean": 227.95,
+          "median": 227.95,
+          "suggested": 229.67,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Stiletto Knife | Night Stripe (Field-Tested)",
+        "price": {
+          "min": 160.45,
+          "max": 160.45,
+          "mean": 160.45,
+          "median": 160.45,
+          "suggested": 196.64,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Stiletto Knife | Night Stripe (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Stiletto Knife | Night Stripe (Battle-Scarred)",
+        "price": {
+          "min": 154.92,
+          "max": 154.92,
+          "mean": 154.92,
+          "median": 154.92,
+          "suggested": 178.18,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:38.131Z"
+}

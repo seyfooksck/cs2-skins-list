@@ -1,0 +1,225 @@
+{
+  "id": "skin-6370d1af59f7",
+  "name": "AK-47 | AUTOEXEC",
+  "paint_index": "1449",
+  "weapon": {
+    "id": "weapon_ak47",
+    "weapon_id": 7,
+    "name": "AK-47",
+    "slug": "ak47"
+  },
+  "pattern": {
+    "id": "ak47_autoexec_camo",
+    "name": "AUTOEXEC"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. It has been custom painted with a high gloss blue and pink gradient and a number of graphic designs.\\n\\n<i>\\\"Kill\\\" in console</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 326.74,
+      "max": 363.99,
+      "mean": 345.37,
+      "median": 345.37,
+      "suggested": 426.92,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 305.76,
+      "max": 305.76,
+      "mean": 305.76,
+      "median": 305.76,
+      "suggested": 378.49,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 156.26,
+      "max": 160.12,
+      "mean": 157.76,
+      "median": 156.88,
+      "suggested": 113.67,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 140.03,
+      "max": 190.21,
+      "mean": 165.12,
+      "median": 165.12,
+      "suggested": 157.06,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AK-47 | AUTOEXEC (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AK-47 | AUTOEXEC (Minimal Wear)",
+      "price": {
+        "min": 326.74,
+        "max": 363.99,
+        "mean": 345.37,
+        "median": 345.37,
+        "suggested": 426.92,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AK-47 | AUTOEXEC (Field-Tested)",
+      "price": {
+        "min": 305.76,
+        "max": 305.76,
+        "mean": 305.76,
+        "median": 305.76,
+        "suggested": 378.49,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AK-47 | AUTOEXEC (Well-Worn)",
+      "price": {
+        "min": 156.26,
+        "max": 160.12,
+        "mean": 157.76,
+        "median": 156.88,
+        "suggested": 113.67,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AK-47 | AUTOEXEC (Battle-Scarred)",
+      "price": {
+        "min": 140.03,
+        "max": 190.21,
+        "mean": 165.12,
+        "median": 165.12,
+        "suggested": 157.06,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AK-47 | AUTOEXEC (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "AK-47 | AUTOEXEC (Minimal Wear)",
+        "price": {
+          "min": 326.74,
+          "max": 363.99,
+          "mean": 345.37,
+          "median": 345.37,
+          "suggested": 426.92,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AK-47 | AUTOEXEC (Field-Tested)",
+        "price": {
+          "min": 305.76,
+          "max": 305.76,
+          "mean": 305.76,
+          "median": 305.76,
+          "suggested": 378.49,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AK-47 | AUTOEXEC (Well-Worn)",
+        "price": {
+          "min": 156.26,
+          "max": 160.12,
+          "mean": 157.76,
+          "median": 156.88,
+          "suggested": 113.67,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AK-47 | AUTOEXEC (Battle-Scarred)",
+        "price": {
+          "min": 140.03,
+          "max": 190.21,
+          "mean": 165.12,
+          "median": 165.12,
+          "suggested": 157.06,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AK-47 | AUTOEXEC (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AK-47 | AUTOEXEC (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AK-47 | AUTOEXEC (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AK-47 | AUTOEXEC (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AK-47 | AUTOEXEC (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:20:20.252Z"
+}

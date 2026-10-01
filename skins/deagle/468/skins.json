@@ -1,0 +1,249 @@
+{
+  "id": "skin-369bc4160c35",
+  "name": "Desert Eagle | Midnight Storm",
+  "paint_index": "468",
+  "weapon": {
+    "id": "weapon_deagle",
+    "weapon_id": 1,
+    "name": "Desert Eagle",
+    "slug": "deagle"
+  },
+  "pattern": {
+    "id": "am_seastorm",
+    "name": "Midnight Storm"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.75,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. It has been painted with a hydrographic of a stormy sea over a blue metallic base coat.\\n\\n<i>I don't hate you Sebastien... I pity you - Chase Turner, Coalition Defector</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 127.2,
+      "max": 582.3,
+      "mean": 216.34,
+      "median": 224.03,
+      "suggested": 185.18,
+      "quantity": 58,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 30.6,
+      "max": 812.99,
+      "mean": 94.36,
+      "median": 55.37,
+      "suggested": 38.28,
+      "quantity": 37,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 14,
+      "max": 819.77,
+      "mean": 49.13,
+      "median": 26.8,
+      "suggested": 17.8,
+      "quantity": 42,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 18.51,
+      "max": 52.51,
+      "mean": 31.47,
+      "median": 30.08,
+      "suggested": 16.48,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 17.64,
+      "max": 62.14,
+      "mean": 27.89,
+      "median": 23.16,
+      "suggested": 17.63,
+      "quantity": 11,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Desert Eagle | Midnight Storm (Factory New)",
+      "price": {
+        "min": 127.2,
+        "max": 582.3,
+        "mean": 216.34,
+        "median": 224.03,
+        "suggested": 185.18,
+        "quantity": 58,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Desert Eagle | Midnight Storm (Minimal Wear)",
+      "price": {
+        "min": 30.6,
+        "max": 812.99,
+        "mean": 94.36,
+        "median": 55.37,
+        "suggested": 38.28,
+        "quantity": 37,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Desert Eagle | Midnight Storm (Field-Tested)",
+      "price": {
+        "min": 14,
+        "max": 819.77,
+        "mean": 49.13,
+        "median": 26.8,
+        "suggested": 17.8,
+        "quantity": 42,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Desert Eagle | Midnight Storm (Well-Worn)",
+      "price": {
+        "min": 18.51,
+        "max": 52.51,
+        "mean": 31.47,
+        "median": 30.08,
+        "suggested": 16.48,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Desert Eagle | Midnight Storm (Battle-Scarred)",
+      "price": {
+        "min": 17.64,
+        "max": 62.14,
+        "mean": 27.89,
+        "median": 23.16,
+        "suggested": 17.63,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Desert Eagle | Midnight Storm (Factory New)",
+        "price": {
+          "min": 127.2,
+          "max": 582.3,
+          "mean": 216.34,
+          "median": 224.03,
+          "suggested": 185.18,
+          "quantity": 58,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Desert Eagle | Midnight Storm (Minimal Wear)",
+        "price": {
+          "min": 30.6,
+          "max": 812.99,
+          "mean": 94.36,
+          "median": 55.37,
+          "suggested": 38.28,
+          "quantity": 37,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Desert Eagle | Midnight Storm (Field-Tested)",
+        "price": {
+          "min": 14,
+          "max": 819.77,
+          "mean": 49.13,
+          "median": 26.8,
+          "suggested": 17.8,
+          "quantity": 42,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Desert Eagle | Midnight Storm (Well-Worn)",
+        "price": {
+          "min": 18.51,
+          "max": 52.51,
+          "mean": 31.47,
+          "median": 30.08,
+          "suggested": 16.48,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Desert Eagle | Midnight Storm (Battle-Scarred)",
+        "price": {
+          "min": 17.64,
+          "max": 62.14,
+          "mean": 27.89,
+          "median": 23.16,
+          "suggested": 17.63,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Desert Eagle | Midnight Storm (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Desert Eagle | Midnight Storm (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Desert Eagle | Midnight Storm (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Desert Eagle | Midnight Storm (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Desert Eagle | Midnight Storm (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:28.081Z"
+}

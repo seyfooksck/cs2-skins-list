@@ -1,0 +1,310 @@
+{
+  "id": "skin-f07fb63926b7",
+  "name": "MP9 | Airlock",
+  "paint_index": "609",
+  "weapon": {
+    "id": "weapon_mp9",
+    "weapon_id": 34,
+    "name": "MP9",
+    "slug": "mp9"
+  },
+  "pattern": {
+    "id": "cu_mp9_narcis",
+    "name": "Airlock"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been painted white and given a stark red magazine.\\n\\n<i>Perfect for shooting toasters</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 39.72,
+      "max": 153.63,
+      "mean": 66.43,
+      "median": 54.78,
+      "suggested": 49.28,
+      "quantity": 22,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 12.52,
+      "max": 8436.96,
+      "mean": 136.11,
+      "median": 15.23,
+      "suggested": 15.57,
+      "quantity": 71,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 11.56,
+      "max": 233.39,
+      "mean": 17.54,
+      "median": 12.37,
+      "suggested": 14.19,
+      "quantity": 128,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 11.49,
+      "max": 15.04,
+      "mean": 12.46,
+      "median": 12.01,
+      "suggested": 13.72,
+      "quantity": 24,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 10.44,
+      "max": 17.5,
+      "mean": 13.05,
+      "median": 12.32,
+      "suggested": 12.65,
+      "quantity": 20,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP9 | Airlock (Factory New)",
+      "price": {
+        "min": 39.72,
+        "max": 153.63,
+        "mean": 66.43,
+        "median": 54.78,
+        "suggested": 49.28,
+        "quantity": 22,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP9 | Airlock (Minimal Wear)",
+      "price": {
+        "min": 12.52,
+        "max": 8436.96,
+        "mean": 136.11,
+        "median": 15.23,
+        "suggested": 15.57,
+        "quantity": 71,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP9 | Airlock (Field-Tested)",
+      "price": {
+        "min": 11.56,
+        "max": 233.39,
+        "mean": 17.54,
+        "median": 12.37,
+        "suggested": 14.19,
+        "quantity": 128,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP9 | Airlock (Well-Worn)",
+      "price": {
+        "min": 11.49,
+        "max": 15.04,
+        "mean": 12.46,
+        "median": 12.01,
+        "suggested": 13.72,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP9 | Airlock (Battle-Scarred)",
+      "price": {
+        "min": 10.44,
+        "max": 17.5,
+        "mean": 13.05,
+        "median": 12.32,
+        "suggested": 12.65,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP9 | Airlock (Factory New)",
+        "price": {
+          "min": 39.72,
+          "max": 153.63,
+          "mean": 66.43,
+          "median": 54.78,
+          "suggested": 49.28,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP9 | Airlock (Minimal Wear)",
+        "price": {
+          "min": 12.52,
+          "max": 8436.96,
+          "mean": 136.11,
+          "median": 15.23,
+          "suggested": 15.57,
+          "quantity": 71,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP9 | Airlock (Field-Tested)",
+        "price": {
+          "min": 11.56,
+          "max": 233.39,
+          "mean": 17.54,
+          "median": 12.37,
+          "suggested": 14.19,
+          "quantity": 128,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP9 | Airlock (Well-Worn)",
+        "price": {
+          "min": 11.49,
+          "max": 15.04,
+          "mean": 12.46,
+          "median": 12.01,
+          "suggested": 13.72,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP9 | Airlock (Battle-Scarred)",
+        "price": {
+          "min": 10.44,
+          "max": 17.5,
+          "mean": 13.05,
+          "median": 12.32,
+          "suggested": 12.65,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MP9 | Airlock (Factory New)",
+        "price": {
+          "min": 43.08,
+          "max": 90.36,
+          "mean": 61.59,
+          "median": 56.47,
+          "suggested": 50.77,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MP9 | Airlock (Minimal Wear)",
+        "price": {
+          "min": 16.16,
+          "max": 51.86,
+          "mean": 21.2,
+          "median": 17.39,
+          "suggested": 19.88,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MP9 | Airlock (Field-Tested)",
+        "price": {
+          "min": 9.22,
+          "max": 23.28,
+          "mean": 11.96,
+          "median": 11.23,
+          "suggested": 12.52,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MP9 | Airlock (Well-Worn)",
+        "price": {
+          "min": 9.34,
+          "max": 12.84,
+          "mean": 10.99,
+          "median": 10.9,
+          "suggested": 11.89,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MP9 | Airlock (Battle-Scarred)",
+        "price": {
+          "min": 8.17,
+          "max": 10.65,
+          "mean": 9.72,
+          "median": 10.34,
+          "suggested": 11.69,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP9 | Airlock (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP9 | Airlock (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP9 | Airlock (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP9 | Airlock (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP9 | Airlock (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:43.697Z"
+}

@@ -1,0 +1,249 @@
+{
+  "id": "skin-3d2819b666d2",
+  "name": "★ Gut Knife | Damascus Steel",
+  "paint_index": "410",
+  "weapon": {
+    "id": "weapon_knife_gut",
+    "weapon_id": 506,
+    "name": "Gut Knife",
+    "slug": "knife_gut"
+  },
+  "pattern": {
+    "id": "aq_damascus",
+    "name": "Damascus Steel"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The most notable feature of a gut knife is the gut hook on the spine of the blade.  Originally popularized as an aid for field dressing game, the gut hook is also effective at  cutting through fibrous materials like rope, webbing, or safety belts with ease. It has some damascus steel parts.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 77.83,
+      "max": 107.53,
+      "mean": 91.01,
+      "median": 90.22,
+      "suggested": 103.4,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 70,
+      "max": 116.43,
+      "mean": 89.15,
+      "median": 85.09,
+      "suggested": 87.58,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 64.18,
+      "max": 190.26,
+      "mean": 87.12,
+      "median": 74.23,
+      "suggested": 79.08,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 88.15,
+      "max": 233.39,
+      "mean": 160.77,
+      "median": 160.77,
+      "suggested": 80.84,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Gut Knife | Damascus Steel (Factory New)",
+      "price": {
+        "min": 77.83,
+        "max": 107.53,
+        "mean": 91.01,
+        "median": 90.22,
+        "suggested": 103.4,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Gut Knife | Damascus Steel (Minimal Wear)",
+      "price": {
+        "min": 70,
+        "max": 116.43,
+        "mean": 89.15,
+        "median": 85.09,
+        "suggested": 87.58,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Gut Knife | Damascus Steel (Field-Tested)",
+      "price": {
+        "min": 64.18,
+        "max": 190.26,
+        "mean": 87.12,
+        "median": 74.23,
+        "suggested": 79.08,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Gut Knife | Damascus Steel (Well-Worn)",
+      "price": {
+        "min": 88.15,
+        "max": 233.39,
+        "mean": 160.77,
+        "median": 160.77,
+        "suggested": 80.84,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Gut Knife | Damascus Steel (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Gut Knife | Damascus Steel (Factory New)",
+        "price": {
+          "min": 77.83,
+          "max": 107.53,
+          "mean": 91.01,
+          "median": 90.22,
+          "suggested": 103.4,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Gut Knife | Damascus Steel (Minimal Wear)",
+        "price": {
+          "min": 70,
+          "max": 116.43,
+          "mean": 89.15,
+          "median": 85.09,
+          "suggested": 87.58,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Gut Knife | Damascus Steel (Field-Tested)",
+        "price": {
+          "min": 64.18,
+          "max": 190.26,
+          "mean": 87.12,
+          "median": 74.23,
+          "suggested": 79.08,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Gut Knife | Damascus Steel (Well-Worn)",
+        "price": {
+          "min": 88.15,
+          "max": 233.39,
+          "mean": 160.77,
+          "median": 160.77,
+          "suggested": 80.84,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Gut Knife | Damascus Steel (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Gut Knife | Damascus Steel (Factory New)",
+        "price": {
+          "min": 114.79,
+          "max": 122,
+          "mean": 118.37,
+          "median": 118.33,
+          "suggested": 132.13,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Gut Knife | Damascus Steel (Minimal Wear)",
+        "price": {
+          "min": 81.63,
+          "max": 81.63,
+          "mean": 81.63,
+          "median": 81.63,
+          "suggested": 104.85,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Gut Knife | Damascus Steel (Field-Tested)",
+        "price": {
+          "min": 98.78,
+          "max": 101.93,
+          "mean": 100.36,
+          "median": 100.36,
+          "suggested": 91.58,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Gut Knife | Damascus Steel (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Gut Knife | Damascus Steel (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:35.132Z"
+}

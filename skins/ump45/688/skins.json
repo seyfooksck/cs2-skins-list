@@ -1,0 +1,310 @@
+{
+  "id": "skin-fe7065d1a17d",
+  "name": "UMP-45 | Exposure",
+  "paint_index": "688",
+  "weapon": {
+    "id": "weapon_ump45",
+    "weapon_id": 24,
+    "name": "UMP-45",
+    "slug": "ump45"
+  },
+  "pattern": {
+    "id": "cu_ump45_x-ray_machine",
+    "name": "Exposure"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.55,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic. A custom paint job has been applied which resembles an x-ray; rib cage and all.\\n\\n<i>\\\"Please remove all metal objects from your pockets\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 3.06,
+      "max": 127.18,
+      "mean": 14.88,
+      "median": 4.35,
+      "suggested": 4.14,
+      "quantity": 97,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.11,
+      "max": 59.51,
+      "mean": 4.05,
+      "median": 1.61,
+      "suggested": 1.4,
+      "quantity": 99,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.02,
+      "max": 24.51,
+      "mean": 1.62,
+      "median": 1.28,
+      "suggested": 1.25,
+      "quantity": 217,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.97,
+      "max": 1.37,
+      "mean": 1.1,
+      "median": 1.04,
+      "suggested": 1.18,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.93,
+      "max": 1.55,
+      "mean": 1.24,
+      "median": 1.19,
+      "suggested": 1.14,
+      "quantity": 30,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "UMP-45 | Exposure (Factory New)",
+      "price": {
+        "min": 3.06,
+        "max": 127.18,
+        "mean": 14.88,
+        "median": 4.35,
+        "suggested": 4.14,
+        "quantity": 97,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "UMP-45 | Exposure (Minimal Wear)",
+      "price": {
+        "min": 1.11,
+        "max": 59.51,
+        "mean": 4.05,
+        "median": 1.61,
+        "suggested": 1.4,
+        "quantity": 99,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "UMP-45 | Exposure (Field-Tested)",
+      "price": {
+        "min": 1.02,
+        "max": 24.51,
+        "mean": 1.62,
+        "median": 1.28,
+        "suggested": 1.25,
+        "quantity": 217,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "UMP-45 | Exposure (Well-Worn)",
+      "price": {
+        "min": 0.97,
+        "max": 1.37,
+        "mean": 1.1,
+        "median": 1.04,
+        "suggested": 1.18,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "UMP-45 | Exposure (Battle-Scarred)",
+      "price": {
+        "min": 0.93,
+        "max": 1.55,
+        "mean": 1.24,
+        "median": 1.19,
+        "suggested": 1.14,
+        "quantity": 30,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "UMP-45 | Exposure (Factory New)",
+        "price": {
+          "min": 3.06,
+          "max": 127.18,
+          "mean": 14.88,
+          "median": 4.35,
+          "suggested": 4.14,
+          "quantity": 97,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "UMP-45 | Exposure (Minimal Wear)",
+        "price": {
+          "min": 1.11,
+          "max": 59.51,
+          "mean": 4.05,
+          "median": 1.61,
+          "suggested": 1.4,
+          "quantity": 99,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "UMP-45 | Exposure (Field-Tested)",
+        "price": {
+          "min": 1.02,
+          "max": 24.51,
+          "mean": 1.62,
+          "median": 1.28,
+          "suggested": 1.25,
+          "quantity": 217,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "UMP-45 | Exposure (Well-Worn)",
+        "price": {
+          "min": 0.97,
+          "max": 1.37,
+          "mean": 1.1,
+          "median": 1.04,
+          "suggested": 1.18,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "UMP-45 | Exposure (Battle-Scarred)",
+        "price": {
+          "min": 0.93,
+          "max": 1.55,
+          "mean": 1.24,
+          "median": 1.19,
+          "suggested": 1.14,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ UMP-45 | Exposure (Factory New)",
+        "price": {
+          "min": 3.28,
+          "max": 34.42,
+          "mean": 9.65,
+          "median": 6.73,
+          "suggested": 3.85,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ UMP-45 | Exposure (Minimal Wear)",
+        "price": {
+          "min": 1.46,
+          "max": 46.68,
+          "mean": 4.4,
+          "median": 1.84,
+          "suggested": 1.71,
+          "quantity": 47,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ UMP-45 | Exposure (Field-Tested)",
+        "price": {
+          "min": 1.03,
+          "max": 12.31,
+          "mean": 1.8,
+          "median": 1.26,
+          "suggested": 1.25,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ UMP-45 | Exposure (Well-Worn)",
+        "price": {
+          "min": 1.04,
+          "max": 1.69,
+          "mean": 1.26,
+          "median": 1.2,
+          "suggested": 1.21,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ UMP-45 | Exposure (Battle-Scarred)",
+        "price": {
+          "min": 0.98,
+          "max": 2.36,
+          "mean": 1.51,
+          "median": 1.26,
+          "suggested": 1.15,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir UMP-45 | Exposure (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir UMP-45 | Exposure (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir UMP-45 | Exposure (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir UMP-45 | Exposure (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir UMP-45 | Exposure (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.869Z"
+}

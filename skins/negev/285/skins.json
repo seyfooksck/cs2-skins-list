@@ -1,0 +1,258 @@
+{
+  "id": "skin-bf1fcaf8bccb",
+  "name": "Negev | Terrain",
+  "paint_index": "285",
+  "weapon": {
+    "id": "weapon_negev",
+    "weapon_id": 28,
+    "name": "Negev",
+    "slug": "negev"
+  },
+  "pattern": {
+    "id": "sp_negev_turq_terrain",
+    "name": "Terrain"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.45,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been painted using a hydrographic with a terrain motif.\\n\\n<i>For someone who is supposed to be impartial, your daughter made an interesting choice for companionship - The Father and The Phoenix Part 1</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.92,
+      "max": 56.97,
+      "mean": 3.7,
+      "median": 1.7,
+      "suggested": 1.07,
+      "quantity": 64,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.51,
+      "max": 11.67,
+      "mean": 0.92,
+      "median": 0.72,
+      "suggested": 0.75,
+      "quantity": 103,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.58,
+      "max": 12.68,
+      "mean": 1.05,
+      "median": 0.75,
+      "suggested": 0.92,
+      "quantity": 158,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.53,
+      "max": 1.38,
+      "mean": 0.72,
+      "median": 0.61,
+      "suggested": 0.69,
+      "quantity": 22,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Negev | Terrain (Factory New)",
+      "price": {
+        "min": 0.92,
+        "max": 56.97,
+        "mean": 3.7,
+        "median": 1.7,
+        "suggested": 1.07,
+        "quantity": 64,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Negev | Terrain (Minimal Wear)",
+      "price": {
+        "min": 0.51,
+        "max": 11.67,
+        "mean": 0.92,
+        "median": 0.72,
+        "suggested": 0.75,
+        "quantity": 103,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Negev | Terrain (Field-Tested)",
+      "price": {
+        "min": 0.58,
+        "max": 12.68,
+        "mean": 1.05,
+        "median": 0.75,
+        "suggested": 0.92,
+        "quantity": 158,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Negev | Terrain (Well-Worn)",
+      "price": {
+        "min": 0.53,
+        "max": 1.38,
+        "mean": 0.72,
+        "median": 0.61,
+        "suggested": 0.69,
+        "quantity": 22,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Negev | Terrain (Factory New)",
+        "price": {
+          "min": 0.92,
+          "max": 56.97,
+          "mean": 3.7,
+          "median": 1.7,
+          "suggested": 1.07,
+          "quantity": 64,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Negev | Terrain (Minimal Wear)",
+        "price": {
+          "min": 0.51,
+          "max": 11.67,
+          "mean": 0.92,
+          "median": 0.72,
+          "suggested": 0.75,
+          "quantity": 103,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Negev | Terrain (Field-Tested)",
+        "price": {
+          "min": 0.58,
+          "max": 12.68,
+          "mean": 1.05,
+          "median": 0.75,
+          "suggested": 0.92,
+          "quantity": 158,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Negev | Terrain (Well-Worn)",
+        "price": {
+          "min": 0.53,
+          "max": 1.38,
+          "mean": 0.72,
+          "median": 0.61,
+          "suggested": 0.69,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Negev | Terrain (Factory New)",
+        "price": {
+          "min": 1.38,
+          "max": 66.05,
+          "mean": 4.89,
+          "median": 1.72,
+          "suggested": 1.8,
+          "quantity": 39,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Negev | Terrain (Minimal Wear)",
+        "price": {
+          "min": 0.88,
+          "max": 4.07,
+          "mean": 1.4,
+          "median": 1.04,
+          "suggested": 1.11,
+          "quantity": 53,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Negev | Terrain (Field-Tested)",
+        "price": {
+          "min": 0.55,
+          "max": 5.83,
+          "mean": 0.92,
+          "median": 0.67,
+          "suggested": 0.67,
+          "quantity": 78,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Negev | Terrain (Well-Worn)",
+        "price": {
+          "min": 0.55,
+          "max": 2.14,
+          "mean": 1.14,
+          "median": 0.77,
+          "suggested": 0.75,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Negev | Terrain (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Negev | Terrain (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Negev | Terrain (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Negev | Terrain (Well-Worn)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.307Z"
+}

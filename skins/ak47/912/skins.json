@@ -1,0 +1,249 @@
+{
+  "id": "skin-9527d46c449f",
+  "name": "AK-47 | Crossfade",
+  "paint_index": "912",
+  "weapon": {
+    "id": "weapon_ak47",
+    "weapon_id": 7,
+    "name": "AK-47",
+    "slug": "ak47"
+  },
+  "pattern": {
+    "id": "cu_graphic_overlay_ak47",
+    "name": "Crossfade"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. It has been custom painted with a multicolored graphic design.\\n\\n<i>Caught between frames</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 7.48,
+      "max": 532.6,
+      "mean": 39.9,
+      "median": 16.58,
+      "suggested": 9.1,
+      "quantity": 251,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 3.15,
+      "max": 200.43,
+      "mean": 12.15,
+      "median": 4.04,
+      "suggested": 4.3,
+      "quantity": 92,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.33,
+      "max": 1239.22,
+      "mean": 101.38,
+      "median": 4.41,
+      "suggested": 2.81,
+      "quantity": 135,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 2.18,
+      "max": 46.68,
+      "mean": 5.82,
+      "median": 2.39,
+      "suggested": 2.61,
+      "quantity": 24,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 2.11,
+      "max": 6.16,
+      "mean": 3.49,
+      "median": 3.01,
+      "suggested": 2.5,
+      "quantity": 20,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AK-47 | Crossfade (Factory New)",
+      "price": {
+        "min": 7.48,
+        "max": 532.6,
+        "mean": 39.9,
+        "median": 16.58,
+        "suggested": 9.1,
+        "quantity": 251,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AK-47 | Crossfade (Minimal Wear)",
+      "price": {
+        "min": 3.15,
+        "max": 200.43,
+        "mean": 12.15,
+        "median": 4.04,
+        "suggested": 4.3,
+        "quantity": 92,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AK-47 | Crossfade (Field-Tested)",
+      "price": {
+        "min": 2.33,
+        "max": 1239.22,
+        "mean": 101.38,
+        "median": 4.41,
+        "suggested": 2.81,
+        "quantity": 135,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AK-47 | Crossfade (Well-Worn)",
+      "price": {
+        "min": 2.18,
+        "max": 46.68,
+        "mean": 5.82,
+        "median": 2.39,
+        "suggested": 2.61,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AK-47 | Crossfade (Battle-Scarred)",
+      "price": {
+        "min": 2.11,
+        "max": 6.16,
+        "mean": 3.49,
+        "median": 3.01,
+        "suggested": 2.5,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AK-47 | Crossfade (Factory New)",
+        "price": {
+          "min": 7.48,
+          "max": 532.6,
+          "mean": 39.9,
+          "median": 16.58,
+          "suggested": 9.1,
+          "quantity": 251,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AK-47 | Crossfade (Minimal Wear)",
+        "price": {
+          "min": 3.15,
+          "max": 200.43,
+          "mean": 12.15,
+          "median": 4.04,
+          "suggested": 4.3,
+          "quantity": 92,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AK-47 | Crossfade (Field-Tested)",
+        "price": {
+          "min": 2.33,
+          "max": 1239.22,
+          "mean": 101.38,
+          "median": 4.41,
+          "suggested": 2.81,
+          "quantity": 135,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AK-47 | Crossfade (Well-Worn)",
+        "price": {
+          "min": 2.18,
+          "max": 46.68,
+          "mean": 5.82,
+          "median": 2.39,
+          "suggested": 2.61,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AK-47 | Crossfade (Battle-Scarred)",
+        "price": {
+          "min": 2.11,
+          "max": 6.16,
+          "mean": 3.49,
+          "median": 3.01,
+          "suggested": 2.5,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AK-47 | Crossfade (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AK-47 | Crossfade (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AK-47 | Crossfade (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AK-47 | Crossfade (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AK-47 | Crossfade (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:20:20.695Z"
+}

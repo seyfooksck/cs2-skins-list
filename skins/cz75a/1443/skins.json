@@ -1,0 +1,225 @@
+{
+  "id": "skin-0b4117bef059",
+  "name": "CZ75-Auto | Hydraulics",
+  "paint_index": "1443",
+  "weapon": {
+    "id": "weapon_cz75a",
+    "weapon_id": 63,
+    "name": "CZ75-Auto",
+    "slug": "cz75a"
+  },
+  "pattern": {
+    "id": "cz75_hydraulics",
+    "name": "Hydraulics"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fully automatic variant of the CZ75, the CZ75-Auto is the ideal short-term choice for turning the tables and gaining your opponents weapon. But with very little ammo in the magazine, strong trigger discipline is required. The magazine has been painted to resemble a polymer material. \\\"HYDRA\\\" has been painted above the trigger.\\n\\n<i>Are you Heracles?</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 38.51,
+      "max": 89.54,
+      "mean": 61.98,
+      "median": 57.87,
+      "suggested": 24.26,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 6.17,
+      "max": 30.73,
+      "mean": 15.3,
+      "median": 7.57,
+      "suggested": 7.66,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.91,
+      "max": 4.28,
+      "mean": 3.35,
+      "median": 3.08,
+      "suggested": 3.59,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 1.61,
+      "max": 2.23,
+      "mean": 1.82,
+      "median": 1.63,
+      "suggested": 1.88,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "CZ75-Auto | Hydraulics (Factory New)",
+      "price": {
+        "min": 38.51,
+        "max": 89.54,
+        "mean": 61.98,
+        "median": 57.87,
+        "suggested": 24.26,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "CZ75-Auto | Hydraulics (Minimal Wear)",
+      "price": {
+        "min": 6.17,
+        "max": 30.73,
+        "mean": 15.3,
+        "median": 7.57,
+        "suggested": 7.66,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "CZ75-Auto | Hydraulics (Field-Tested)",
+      "price": {
+        "min": 2.91,
+        "max": 4.28,
+        "mean": 3.35,
+        "median": 3.08,
+        "suggested": 3.59,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "CZ75-Auto | Hydraulics (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "CZ75-Auto | Hydraulics (Battle-Scarred)",
+      "price": {
+        "min": 1.61,
+        "max": 2.23,
+        "mean": 1.82,
+        "median": 1.63,
+        "suggested": 1.88,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "CZ75-Auto | Hydraulics (Factory New)",
+        "price": {
+          "min": 38.51,
+          "max": 89.54,
+          "mean": 61.98,
+          "median": 57.87,
+          "suggested": 24.26,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "CZ75-Auto | Hydraulics (Minimal Wear)",
+        "price": {
+          "min": 6.17,
+          "max": 30.73,
+          "mean": 15.3,
+          "median": 7.57,
+          "suggested": 7.66,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "CZ75-Auto | Hydraulics (Field-Tested)",
+        "price": {
+          "min": 2.91,
+          "max": 4.28,
+          "mean": 3.35,
+          "median": 3.08,
+          "suggested": 3.59,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "CZ75-Auto | Hydraulics (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "CZ75-Auto | Hydraulics (Battle-Scarred)",
+        "price": {
+          "min": 1.61,
+          "max": 2.23,
+          "mean": 1.82,
+          "median": 1.63,
+          "suggested": 1.88,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir CZ75-Auto | Hydraulics (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir CZ75-Auto | Hydraulics (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir CZ75-Auto | Hydraulics (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir CZ75-Auto | Hydraulics (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir CZ75-Auto | Hydraulics (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:27.676Z"
+}

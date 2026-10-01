@@ -1,0 +1,249 @@
+{
+  "id": "skin-e523f734a2d9",
+  "name": "MAG-7 | Copper Oxide",
+  "paint_index": "1306",
+  "weapon": {
+    "id": "weapon_mag7",
+    "weapon_id": 27,
+    "name": "MAG-7",
+    "slug": "mag7"
+  },
+  "pattern": {
+    "id": "so_greyblue",
+    "name": "Copper Oxide"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 0.65,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The CT-exclusive Mag-7 delivers a devastating amount of damage at close range. Its rapid magazine-style reloads make it a great tactical choice. It has been painted with blue and rose gold solid colors.\\n\\n<i>I'm trying something different here, tell me what you think - Yukako, Gunsmith</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.05,
+      "max": 5.27,
+      "mean": 0.67,
+      "median": 0.63,
+      "suggested": 0.06,
+      "quantity": 119,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.02,
+      "max": 1.75,
+      "mean": 0.07,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 414,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.02,
+      "max": 1.17,
+      "mean": 0.05,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 1035,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.02,
+      "max": 0.05,
+      "mean": 0.04,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 56,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.02,
+      "max": 0.99,
+      "mean": 0.05,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 203,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAG-7 | Copper Oxide (Factory New)",
+      "price": {
+        "min": 0.05,
+        "max": 5.27,
+        "mean": 0.67,
+        "median": 0.63,
+        "suggested": 0.06,
+        "quantity": 119,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAG-7 | Copper Oxide (Minimal Wear)",
+      "price": {
+        "min": 0.02,
+        "max": 1.75,
+        "mean": 0.07,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 414,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAG-7 | Copper Oxide (Field-Tested)",
+      "price": {
+        "min": 0.02,
+        "max": 1.17,
+        "mean": 0.05,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 1035,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAG-7 | Copper Oxide (Well-Worn)",
+      "price": {
+        "min": 0.02,
+        "max": 0.05,
+        "mean": 0.04,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 56,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAG-7 | Copper Oxide (Battle-Scarred)",
+      "price": {
+        "min": 0.02,
+        "max": 0.99,
+        "mean": 0.05,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 203,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAG-7 | Copper Oxide (Factory New)",
+        "price": {
+          "min": 0.05,
+          "max": 5.27,
+          "mean": 0.67,
+          "median": 0.63,
+          "suggested": 0.06,
+          "quantity": 119,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAG-7 | Copper Oxide (Minimal Wear)",
+        "price": {
+          "min": 0.02,
+          "max": 1.75,
+          "mean": 0.07,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 414,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAG-7 | Copper Oxide (Field-Tested)",
+        "price": {
+          "min": 0.02,
+          "max": 1.17,
+          "mean": 0.05,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 1035,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAG-7 | Copper Oxide (Well-Worn)",
+        "price": {
+          "min": 0.02,
+          "max": 0.05,
+          "mean": 0.04,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 56,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MAG-7 | Copper Oxide (Battle-Scarred)",
+        "price": {
+          "min": 0.02,
+          "max": 0.99,
+          "mean": 0.05,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 203,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAG-7 | Copper Oxide (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAG-7 | Copper Oxide (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAG-7 | Copper Oxide (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAG-7 | Copper Oxide (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAG-7 | Copper Oxide (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.527Z"
+}

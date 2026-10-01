@@ -1,0 +1,265 @@
+{
+  "id": "skin-54693187ad0f",
+  "name": "AUG | Spalted Wood",
+  "paint_index": "927",
+  "weapon": {
+    "id": "weapon_aug",
+    "weapon_id": 8,
+    "name": "AUG",
+    "slug": "aug"
+  },
+  "pattern": {
+    "id": "hy_dry_wood",
+    "name": "Spalted Wood"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.48,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire. A hydrographic pattern resembling dried wood has been applied.\\n\\n<i>Knock on wood; you're gonna need all the luck you can get - Felix Riley, Commanding Officer</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.31,
+      "max": 126.03,
+      "mean": 16.09,
+      "median": 12.82,
+      "suggested": 2.49,
+      "quantity": 35,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.99,
+      "max": 13.05,
+      "mean": 6.16,
+      "median": 6.45,
+      "suggested": 0.84,
+      "quantity": 55,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.48,
+      "max": 194.3,
+      "mean": 9.23,
+      "median": 5.53,
+      "suggested": 0.58,
+      "quantity": 74,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.54,
+      "max": 3.77,
+      "mean": 2.16,
+      "median": 2.16,
+      "suggested": 0.62,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AUG | Spalted Wood (Factory New)",
+      "price": {
+        "min": 2.31,
+        "max": 126.03,
+        "mean": 16.09,
+        "median": 12.82,
+        "suggested": 2.49,
+        "quantity": 35,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AUG | Spalted Wood (Minimal Wear)",
+      "price": {
+        "min": 0.99,
+        "max": 13.05,
+        "mean": 6.16,
+        "median": 6.45,
+        "suggested": 0.84,
+        "quantity": 55,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AUG | Spalted Wood (Field-Tested)",
+      "price": {
+        "min": 0.48,
+        "max": 194.3,
+        "mean": 9.23,
+        "median": 5.53,
+        "suggested": 0.58,
+        "quantity": 74,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AUG | Spalted Wood (Well-Worn)",
+      "price": {
+        "min": 0.54,
+        "max": 3.77,
+        "mean": 2.16,
+        "median": 2.16,
+        "suggested": 0.62,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AUG | Spalted Wood (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AUG | Spalted Wood (Factory New)",
+        "price": {
+          "min": 2.31,
+          "max": 126.03,
+          "mean": 16.09,
+          "median": 12.82,
+          "suggested": 2.49,
+          "quantity": 35,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AUG | Spalted Wood (Minimal Wear)",
+        "price": {
+          "min": 0.99,
+          "max": 13.05,
+          "mean": 6.16,
+          "median": 6.45,
+          "suggested": 0.84,
+          "quantity": 55,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AUG | Spalted Wood (Field-Tested)",
+        "price": {
+          "min": 0.48,
+          "max": 194.3,
+          "mean": 9.23,
+          "median": 5.53,
+          "suggested": 0.58,
+          "quantity": 74,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AUG | Spalted Wood (Well-Worn)",
+        "price": {
+          "min": 0.54,
+          "max": 3.77,
+          "mean": 2.16,
+          "median": 2.16,
+          "suggested": 0.62,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AUG | Spalted Wood (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AUG | Spalted Wood (Factory New)",
+        "price": {
+          "min": 1.2,
+          "max": 76.81,
+          "mean": 5.16,
+          "median": 1.26,
+          "suggested": 1.22,
+          "quantity": 73,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AUG | Spalted Wood (Minimal Wear)",
+        "price": {
+          "min": 1.14,
+          "max": 18.99,
+          "mean": 3.56,
+          "median": 2.28,
+          "suggested": 0.82,
+          "quantity": 44,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AUG | Spalted Wood (Field-Tested)",
+        "price": {
+          "min": 0.43,
+          "max": 39.94,
+          "mean": 10.13,
+          "median": 7.99,
+          "suggested": 0.51,
+          "quantity": 79,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AUG | Spalted Wood (Well-Worn)",
+        "price": {
+          "min": 0.37,
+          "max": 7.99,
+          "mean": 2.14,
+          "median": 0.51,
+          "suggested": 0.44,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AUG | Spalted Wood (Battle-Scarred)",
+        "price": {
+          "min": 0.42,
+          "max": 22.43,
+          "mean": 4.27,
+          "median": 0.57,
+          "suggested": 0.43,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.563Z"
+}

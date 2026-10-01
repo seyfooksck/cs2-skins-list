@@ -1,0 +1,310 @@
+{
+  "id": "skin-196d87753c91",
+  "name": "M4A1-S | Atomic Alloy",
+  "paint_index": "301",
+  "weapon": {
+    "id": "weapon_m4a1_silencer",
+    "weapon_id": 60,
+    "name": "M4A1-S",
+    "slug": "m4a1_silencer"
+  },
+  "pattern": {
+    "id": "am_m4a1-s_alloy_orange",
+    "name": "Atomic Alloy"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.9,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. It has been anodized black and orange.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 166.91,
+      "max": 986.06,
+      "mean": 366.57,
+      "median": 333.87,
+      "suggested": 208.88,
+      "quantity": 22,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 44.44,
+      "max": 860.64,
+      "mean": 115.87,
+      "median": 75.06,
+      "suggested": 58.08,
+      "quantity": 73,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 26.64,
+      "max": 1108.59,
+      "mean": 92,
+      "median": 48.22,
+      "suggested": 32.77,
+      "quantity": 53,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 26.52,
+      "max": 72.35,
+      "mean": 42.13,
+      "median": 38.5,
+      "suggested": 30.83,
+      "quantity": 18,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 27.76,
+      "max": 66.52,
+      "mean": 41.29,
+      "median": 39.29,
+      "suggested": 29.98,
+      "quantity": 8,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A1-S | Atomic Alloy (Factory New)",
+      "price": {
+        "min": 166.91,
+        "max": 986.06,
+        "mean": 366.57,
+        "median": 333.87,
+        "suggested": 208.88,
+        "quantity": 22,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A1-S | Atomic Alloy (Minimal Wear)",
+      "price": {
+        "min": 44.44,
+        "max": 860.64,
+        "mean": 115.87,
+        "median": 75.06,
+        "suggested": 58.08,
+        "quantity": 73,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A1-S | Atomic Alloy (Field-Tested)",
+      "price": {
+        "min": 26.64,
+        "max": 1108.59,
+        "mean": 92,
+        "median": 48.22,
+        "suggested": 32.77,
+        "quantity": 53,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M4A1-S | Atomic Alloy (Well-Worn)",
+      "price": {
+        "min": 26.52,
+        "max": 72.35,
+        "mean": 42.13,
+        "median": 38.5,
+        "suggested": 30.83,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M4A1-S | Atomic Alloy (Battle-Scarred)",
+      "price": {
+        "min": 27.76,
+        "max": 66.52,
+        "mean": 41.29,
+        "median": 39.29,
+        "suggested": 29.98,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A1-S | Atomic Alloy (Factory New)",
+        "price": {
+          "min": 166.91,
+          "max": 986.06,
+          "mean": 366.57,
+          "median": 333.87,
+          "suggested": 208.88,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A1-S | Atomic Alloy (Minimal Wear)",
+        "price": {
+          "min": 44.44,
+          "max": 860.64,
+          "mean": 115.87,
+          "median": 75.06,
+          "suggested": 58.08,
+          "quantity": 73,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A1-S | Atomic Alloy (Field-Tested)",
+        "price": {
+          "min": 26.64,
+          "max": 1108.59,
+          "mean": 92,
+          "median": 48.22,
+          "suggested": 32.77,
+          "quantity": 53,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M4A1-S | Atomic Alloy (Well-Worn)",
+        "price": {
+          "min": 26.52,
+          "max": 72.35,
+          "mean": 42.13,
+          "median": 38.5,
+          "suggested": 30.83,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M4A1-S | Atomic Alloy (Battle-Scarred)",
+        "price": {
+          "min": 27.76,
+          "max": 66.52,
+          "mean": 41.29,
+          "median": 39.29,
+          "suggested": 29.98,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ M4A1-S | Atomic Alloy (Factory New)",
+        "price": {
+          "min": 169.21,
+          "max": 1166.94,
+          "mean": 272.53,
+          "median": 205.05,
+          "suggested": 228.05,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ M4A1-S | Atomic Alloy (Minimal Wear)",
+        "price": {
+          "min": 83.76,
+          "max": 583.47,
+          "mean": 161.12,
+          "median": 128.36,
+          "suggested": 95.22,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ M4A1-S | Atomic Alloy (Field-Tested)",
+        "price": {
+          "min": 38.12,
+          "max": 227.44,
+          "mean": 95.61,
+          "median": 75.84,
+          "suggested": 54.1,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ M4A1-S | Atomic Alloy (Well-Worn)",
+        "price": {
+          "min": 42.42,
+          "max": 67.33,
+          "mean": 51.42,
+          "median": 44.5,
+          "suggested": 48.59,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ M4A1-S | Atomic Alloy (Battle-Scarred)",
+        "price": {
+          "min": 41.1,
+          "max": 233.38,
+          "mean": 111.23,
+          "median": 57.6,
+          "suggested": 51.06,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A1-S | Atomic Alloy (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A1-S | Atomic Alloy (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A1-S | Atomic Alloy (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M4A1-S | Atomic Alloy (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M4A1-S | Atomic Alloy (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:40.710Z"
+}

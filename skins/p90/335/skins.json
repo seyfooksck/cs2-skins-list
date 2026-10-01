@@ -1,0 +1,206 @@
+{
+  "id": "skin-b0409a64842e",
+  "name": "P90 | Module",
+  "paint_index": "335",
+  "weapon": {
+    "id": "weapon_p90",
+    "weapon_id": 19,
+    "name": "P90",
+    "slug": "p90"
+  },
+  "pattern": {
+    "id": "an_royalbleed",
+    "name": "Module"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.35,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been painted using metallic paints with an overlayed hexagonal pattern.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.97,
+      "max": 137.47,
+      "mean": 8.67,
+      "median": 2.8,
+      "suggested": 2.64,
+      "quantity": 81,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.07,
+      "max": 127.49,
+      "mean": 5.79,
+      "median": 2.1,
+      "suggested": 1.43,
+      "quantity": 107,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.04,
+      "max": 484.28,
+      "mean": 11,
+      "median": 1.84,
+      "suggested": 1.35,
+      "quantity": 84,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P90 | Module (Factory New)",
+      "price": {
+        "min": 1.97,
+        "max": 137.47,
+        "mean": 8.67,
+        "median": 2.8,
+        "suggested": 2.64,
+        "quantity": 81,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P90 | Module (Minimal Wear)",
+      "price": {
+        "min": 1.07,
+        "max": 127.49,
+        "mean": 5.79,
+        "median": 2.1,
+        "suggested": 1.43,
+        "quantity": 107,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P90 | Module (Field-Tested)",
+      "price": {
+        "min": 1.04,
+        "max": 484.28,
+        "mean": 11,
+        "median": 1.84,
+        "suggested": 1.35,
+        "quantity": 84,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P90 | Module (Factory New)",
+        "price": {
+          "min": 1.97,
+          "max": 137.47,
+          "mean": 8.67,
+          "median": 2.8,
+          "suggested": 2.64,
+          "quantity": 81,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P90 | Module (Minimal Wear)",
+        "price": {
+          "min": 1.07,
+          "max": 127.49,
+          "mean": 5.79,
+          "median": 2.1,
+          "suggested": 1.43,
+          "quantity": 107,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P90 | Module (Field-Tested)",
+        "price": {
+          "min": 1.04,
+          "max": 484.28,
+          "mean": 11,
+          "median": 1.84,
+          "suggested": 1.35,
+          "quantity": 84,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P90 | Module (Factory New)",
+        "price": {
+          "min": 2.75,
+          "max": 168.47,
+          "mean": 17.2,
+          "median": 7.92,
+          "suggested": 3.22,
+          "quantity": 66,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P90 | Module (Minimal Wear)",
+        "price": {
+          "min": 1.68,
+          "max": 132.17,
+          "mean": 8.93,
+          "median": 2.09,
+          "suggested": 2.34,
+          "quantity": 62,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P90 | Module (Field-Tested)",
+        "price": {
+          "min": 1.35,
+          "max": 129.83,
+          "mean": 14.46,
+          "median": 1.97,
+          "suggested": 1.8,
+          "quantity": 51,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P90 | Module (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P90 | Module (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P90 | Module (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:45.848Z"
+}

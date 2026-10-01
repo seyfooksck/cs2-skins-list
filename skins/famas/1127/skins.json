@@ -1,0 +1,310 @@
+{
+  "id": "skin-c1ded03e3025",
+  "name": "FAMAS | Rapid Eye Movement",
+  "paint_index": "1127",
+  "weapon": {
+    "id": "weapon_famas",
+    "weapon_id": 10,
+    "name": "FAMAS",
+    "slug": "famas"
+  },
+  "pattern": {
+    "id": "gs_famas_rapid_eyes",
+    "name": "Rapid Eye Movement"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. It has been custom painted with pink interlocking squares. The squares are painted with lifelike eyes.\\n\\n<i>Frantic are the eyes of the dreamer</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 21.35,
+      "max": 174.92,
+      "mean": 43,
+      "median": 31.3,
+      "suggested": 32.04,
+      "quantity": 40,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 7.7,
+      "max": 112.39,
+      "mean": 10.2,
+      "median": 9.16,
+      "suggested": 9.89,
+      "quantity": 224,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 6.11,
+      "max": 116.69,
+      "mean": 7.97,
+      "median": 7.34,
+      "suggested": 8.36,
+      "quantity": 877,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 6.18,
+      "max": 59.72,
+      "mean": 7.49,
+      "median": 7,
+      "suggested": 8.12,
+      "quantity": 356,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 5.59,
+      "max": 59.28,
+      "mean": 8.19,
+      "median": 6.6,
+      "suggested": 7.43,
+      "quantity": 168,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "FAMAS | Rapid Eye Movement (Factory New)",
+      "price": {
+        "min": 21.35,
+        "max": 174.92,
+        "mean": 43,
+        "median": 31.3,
+        "suggested": 32.04,
+        "quantity": 40,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "FAMAS | Rapid Eye Movement (Minimal Wear)",
+      "price": {
+        "min": 7.7,
+        "max": 112.39,
+        "mean": 10.2,
+        "median": 9.16,
+        "suggested": 9.89,
+        "quantity": 224,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "FAMAS | Rapid Eye Movement (Field-Tested)",
+      "price": {
+        "min": 6.11,
+        "max": 116.69,
+        "mean": 7.97,
+        "median": 7.34,
+        "suggested": 8.36,
+        "quantity": 877,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "FAMAS | Rapid Eye Movement (Well-Worn)",
+      "price": {
+        "min": 6.18,
+        "max": 59.72,
+        "mean": 7.49,
+        "median": 7,
+        "suggested": 8.12,
+        "quantity": 356,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "FAMAS | Rapid Eye Movement (Battle-Scarred)",
+      "price": {
+        "min": 5.59,
+        "max": 59.28,
+        "mean": 8.19,
+        "median": 6.6,
+        "suggested": 7.43,
+        "quantity": 168,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "FAMAS | Rapid Eye Movement (Factory New)",
+        "price": {
+          "min": 21.35,
+          "max": 174.92,
+          "mean": 43,
+          "median": 31.3,
+          "suggested": 32.04,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "FAMAS | Rapid Eye Movement (Minimal Wear)",
+        "price": {
+          "min": 7.7,
+          "max": 112.39,
+          "mean": 10.2,
+          "median": 9.16,
+          "suggested": 9.89,
+          "quantity": 224,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "FAMAS | Rapid Eye Movement (Field-Tested)",
+        "price": {
+          "min": 6.11,
+          "max": 116.69,
+          "mean": 7.97,
+          "median": 7.34,
+          "suggested": 8.36,
+          "quantity": 877,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "FAMAS | Rapid Eye Movement (Well-Worn)",
+        "price": {
+          "min": 6.18,
+          "max": 59.72,
+          "mean": 7.49,
+          "median": 7,
+          "suggested": 8.12,
+          "quantity": 356,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "FAMAS | Rapid Eye Movement (Battle-Scarred)",
+        "price": {
+          "min": 5.59,
+          "max": 59.28,
+          "mean": 8.19,
+          "median": 6.6,
+          "suggested": 7.43,
+          "quantity": 168,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ FAMAS | Rapid Eye Movement (Factory New)",
+        "price": {
+          "min": 20.85,
+          "max": 46.67,
+          "mean": 31.3,
+          "median": 29.17,
+          "suggested": 29,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ FAMAS | Rapid Eye Movement (Minimal Wear)",
+        "price": {
+          "min": 7,
+          "max": 137.85,
+          "mean": 21.67,
+          "median": 18.15,
+          "suggested": 9.81,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ FAMAS | Rapid Eye Movement (Field-Tested)",
+        "price": {
+          "min": 5.78,
+          "max": 17.5,
+          "mean": 6.74,
+          "median": 6.51,
+          "suggested": 7.93,
+          "quantity": 91,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ FAMAS | Rapid Eye Movement (Well-Worn)",
+        "price": {
+          "min": 5.59,
+          "max": 9.1,
+          "mean": 6.37,
+          "median": 6.17,
+          "suggested": 7.25,
+          "quantity": 44,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ FAMAS | Rapid Eye Movement (Battle-Scarred)",
+        "price": {
+          "min": 4.98,
+          "max": 10.56,
+          "mean": 6.48,
+          "median": 6.06,
+          "suggested": 7,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir FAMAS | Rapid Eye Movement (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir FAMAS | Rapid Eye Movement (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir FAMAS | Rapid Eye Movement (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir FAMAS | Rapid Eye Movement (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir FAMAS | Rapid Eye Movement (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:29.601Z"
+}

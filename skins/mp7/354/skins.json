@@ -1,0 +1,310 @@
+{
+  "id": "skin-cab4b847a978",
+  "name": "MP7 | Urban Hazard",
+  "paint_index": "354",
+  "weapon": {
+    "id": "weapon_mp7",
+    "weapon_id": 33,
+    "name": "MP7",
+    "slug": "mp7"
+  },
+  "pattern": {
+    "id": "cu_mp7-commander",
+    "name": "Urban Hazard"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been custom painted with urban camo and orange accents.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.67,
+      "max": 40.73,
+      "mean": 7.69,
+      "median": 4.38,
+      "suggested": 4.49,
+      "quantity": 62,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.46,
+      "max": 6.41,
+      "mean": 0.89,
+      "median": 0.62,
+      "suggested": 0.65,
+      "quantity": 106,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.39,
+      "max": 23.92,
+      "mean": 1.23,
+      "median": 0.47,
+      "suggested": 0.5,
+      "quantity": 115,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.4,
+      "max": 3.58,
+      "mean": 0.93,
+      "median": 0.53,
+      "suggested": 0.48,
+      "quantity": 25,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.41,
+      "max": 3.16,
+      "mean": 0.7,
+      "median": 0.56,
+      "suggested": 0.47,
+      "quantity": 20,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP7 | Urban Hazard (Factory New)",
+      "price": {
+        "min": 2.67,
+        "max": 40.73,
+        "mean": 7.69,
+        "median": 4.38,
+        "suggested": 4.49,
+        "quantity": 62,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP7 | Urban Hazard (Minimal Wear)",
+      "price": {
+        "min": 0.46,
+        "max": 6.41,
+        "mean": 0.89,
+        "median": 0.62,
+        "suggested": 0.65,
+        "quantity": 106,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP7 | Urban Hazard (Field-Tested)",
+      "price": {
+        "min": 0.39,
+        "max": 23.92,
+        "mean": 1.23,
+        "median": 0.47,
+        "suggested": 0.5,
+        "quantity": 115,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP7 | Urban Hazard (Well-Worn)",
+      "price": {
+        "min": 0.4,
+        "max": 3.58,
+        "mean": 0.93,
+        "median": 0.53,
+        "suggested": 0.48,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP7 | Urban Hazard (Battle-Scarred)",
+      "price": {
+        "min": 0.41,
+        "max": 3.16,
+        "mean": 0.7,
+        "median": 0.56,
+        "suggested": 0.47,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP7 | Urban Hazard (Factory New)",
+        "price": {
+          "min": 2.67,
+          "max": 40.73,
+          "mean": 7.69,
+          "median": 4.38,
+          "suggested": 4.49,
+          "quantity": 62,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP7 | Urban Hazard (Minimal Wear)",
+        "price": {
+          "min": 0.46,
+          "max": 6.41,
+          "mean": 0.89,
+          "median": 0.62,
+          "suggested": 0.65,
+          "quantity": 106,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP7 | Urban Hazard (Field-Tested)",
+        "price": {
+          "min": 0.39,
+          "max": 23.92,
+          "mean": 1.23,
+          "median": 0.47,
+          "suggested": 0.5,
+          "quantity": 115,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP7 | Urban Hazard (Well-Worn)",
+        "price": {
+          "min": 0.4,
+          "max": 3.58,
+          "mean": 0.93,
+          "median": 0.53,
+          "suggested": 0.48,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP7 | Urban Hazard (Battle-Scarred)",
+        "price": {
+          "min": 0.41,
+          "max": 3.16,
+          "mean": 0.7,
+          "median": 0.56,
+          "suggested": 0.47,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MP7 | Urban Hazard (Factory New)",
+        "price": {
+          "min": 1.52,
+          "max": 73.4,
+          "mean": 5.61,
+          "median": 2.01,
+          "suggested": 1.82,
+          "quantity": 78,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MP7 | Urban Hazard (Minimal Wear)",
+        "price": {
+          "min": 0.81,
+          "max": 15.17,
+          "mean": 2.25,
+          "median": 1.17,
+          "suggested": 1.1,
+          "quantity": 66,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MP7 | Urban Hazard (Field-Tested)",
+        "price": {
+          "min": 0.5,
+          "max": 9.92,
+          "mean": 1.34,
+          "median": 0.77,
+          "suggested": 0.71,
+          "quantity": 93,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MP7 | Urban Hazard (Well-Worn)",
+        "price": {
+          "min": 0.56,
+          "max": 10.5,
+          "mean": 1.45,
+          "median": 0.79,
+          "suggested": 0.71,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MP7 | Urban Hazard (Battle-Scarred)",
+        "price": {
+          "min": 0.62,
+          "max": 25.67,
+          "mean": 2.88,
+          "median": 0.77,
+          "suggested": 0.7,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP7 | Urban Hazard (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP7 | Urban Hazard (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP7 | Urban Hazard (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP7 | Urban Hazard (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP7 | Urban Hazard (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:43.006Z"
+}

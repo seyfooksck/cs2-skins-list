@@ -1,0 +1,310 @@
+{
+  "id": "skin-ee6dee51b1f5",
+  "name": "Five-SeveN | Scrawl",
+  "paint_index": "1128",
+  "weapon": {
+    "id": "weapon_fiveseven",
+    "weapon_id": 3,
+    "name": "Five-SeveN",
+    "slug": "fiveseven"
+  },
+  "pattern": {
+    "id": "cu_fiveseven_alpha_omega",
+    "name": "Scrawl"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. Custom designs have been hand-painted using bold strokes over a yellow and teal base.\\n\\n<i>The first and the last</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.09,
+      "max": 21.64,
+      "mean": 3.54,
+      "median": 1.75,
+      "suggested": 1.45,
+      "quantity": 113,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.19,
+      "max": 3.64,
+      "mean": 0.28,
+      "median": 0.26,
+      "suggested": 0.25,
+      "quantity": 753,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.07,
+      "max": 4.67,
+      "mean": 0.16,
+      "median": 0.11,
+      "suggested": 0.1,
+      "quantity": 1118,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.07,
+      "max": 6.99,
+      "mean": 0.16,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 1031,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.08,
+      "max": 4.67,
+      "mean": 0.14,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 652,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Five-SeveN | Scrawl (Factory New)",
+      "price": {
+        "min": 1.09,
+        "max": 21.64,
+        "mean": 3.54,
+        "median": 1.75,
+        "suggested": 1.45,
+        "quantity": 113,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Five-SeveN | Scrawl (Minimal Wear)",
+      "price": {
+        "min": 0.19,
+        "max": 3.64,
+        "mean": 0.28,
+        "median": 0.26,
+        "suggested": 0.25,
+        "quantity": 753,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Five-SeveN | Scrawl (Field-Tested)",
+      "price": {
+        "min": 0.07,
+        "max": 4.67,
+        "mean": 0.16,
+        "median": 0.11,
+        "suggested": 0.1,
+        "quantity": 1118,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Five-SeveN | Scrawl (Well-Worn)",
+      "price": {
+        "min": 0.07,
+        "max": 6.99,
+        "mean": 0.16,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 1031,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Five-SeveN | Scrawl (Battle-Scarred)",
+      "price": {
+        "min": 0.08,
+        "max": 4.67,
+        "mean": 0.14,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 652,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Five-SeveN | Scrawl (Factory New)",
+        "price": {
+          "min": 1.09,
+          "max": 21.64,
+          "mean": 3.54,
+          "median": 1.75,
+          "suggested": 1.45,
+          "quantity": 113,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Five-SeveN | Scrawl (Minimal Wear)",
+        "price": {
+          "min": 0.19,
+          "max": 3.64,
+          "mean": 0.28,
+          "median": 0.26,
+          "suggested": 0.25,
+          "quantity": 753,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Five-SeveN | Scrawl (Field-Tested)",
+        "price": {
+          "min": 0.07,
+          "max": 4.67,
+          "mean": 0.16,
+          "median": 0.11,
+          "suggested": 0.1,
+          "quantity": 1118,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Five-SeveN | Scrawl (Well-Worn)",
+        "price": {
+          "min": 0.07,
+          "max": 6.99,
+          "mean": 0.16,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 1031,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Five-SeveN | Scrawl (Battle-Scarred)",
+        "price": {
+          "min": 0.08,
+          "max": 4.67,
+          "mean": 0.14,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 652,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Scrawl (Factory New)",
+        "price": {
+          "min": 1.41,
+          "max": 340.92,
+          "mean": 11.27,
+          "median": 3.65,
+          "suggested": 1.63,
+          "quantity": 54,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Scrawl (Minimal Wear)",
+        "price": {
+          "min": 0.25,
+          "max": 1.46,
+          "mean": 0.37,
+          "median": 0.34,
+          "suggested": 0.29,
+          "quantity": 238,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Scrawl (Field-Tested)",
+        "price": {
+          "min": 0.08,
+          "max": 32.09,
+          "mean": 0.3,
+          "median": 0.15,
+          "suggested": 0.12,
+          "quantity": 312,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Scrawl (Well-Worn)",
+        "price": {
+          "min": 0.08,
+          "max": 8.17,
+          "mean": 0.18,
+          "median": 0.14,
+          "suggested": 0.1,
+          "quantity": 328,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Scrawl (Battle-Scarred)",
+        "price": {
+          "min": 0.08,
+          "max": 5.83,
+          "mean": 0.22,
+          "median": 0.14,
+          "suggested": 0.12,
+          "quantity": 149,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Five-SeveN | Scrawl (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Five-SeveN | Scrawl (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Five-SeveN | Scrawl (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Five-SeveN | Scrawl (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Five-SeveN | Scrawl (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:30.026Z"
+}

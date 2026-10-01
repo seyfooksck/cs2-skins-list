@@ -1,0 +1,206 @@
+{
+  "id": "skin-5b44cad3a5da",
+  "name": "MP7 | Nemesis",
+  "paint_index": "481",
+  "weapon": {
+    "id": "weapon_mp7",
+    "weapon_id": 33,
+    "name": "MP7",
+    "slug": "mp7"
+  },
+  "pattern": {
+    "id": "cu_mp7_nemsis",
+    "name": "Nemesis"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.32,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been custom painted with the image of a metallic monster.\\n\\n<i>It's coming for you</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 23.91,
+      "max": 148.56,
+      "mean": 38.14,
+      "median": 33.65,
+      "suggested": 29.37,
+      "quantity": 61,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 7.42,
+      "max": 109.97,
+      "mean": 14.77,
+      "median": 9,
+      "suggested": 8.83,
+      "quantity": 60,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 6.36,
+      "max": 90.17,
+      "mean": 12.67,
+      "median": 7.85,
+      "suggested": 8.53,
+      "quantity": 32,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP7 | Nemesis (Factory New)",
+      "price": {
+        "min": 23.91,
+        "max": 148.56,
+        "mean": 38.14,
+        "median": 33.65,
+        "suggested": 29.37,
+        "quantity": 61,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP7 | Nemesis (Minimal Wear)",
+      "price": {
+        "min": 7.42,
+        "max": 109.97,
+        "mean": 14.77,
+        "median": 9,
+        "suggested": 8.83,
+        "quantity": 60,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP7 | Nemesis (Field-Tested)",
+      "price": {
+        "min": 6.36,
+        "max": 90.17,
+        "mean": 12.67,
+        "median": 7.85,
+        "suggested": 8.53,
+        "quantity": 32,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP7 | Nemesis (Factory New)",
+        "price": {
+          "min": 23.91,
+          "max": 148.56,
+          "mean": 38.14,
+          "median": 33.65,
+          "suggested": 29.37,
+          "quantity": 61,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP7 | Nemesis (Minimal Wear)",
+        "price": {
+          "min": 7.42,
+          "max": 109.97,
+          "mean": 14.77,
+          "median": 9,
+          "suggested": 8.83,
+          "quantity": 60,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP7 | Nemesis (Field-Tested)",
+        "price": {
+          "min": 6.36,
+          "max": 90.17,
+          "mean": 12.67,
+          "median": 7.85,
+          "suggested": 8.53,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MP7 | Nemesis (Factory New)",
+        "price": {
+          "min": 28.51,
+          "max": 66.97,
+          "mean": 44.03,
+          "median": 46.58,
+          "suggested": 33.32,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MP7 | Nemesis (Minimal Wear)",
+        "price": {
+          "min": 16.91,
+          "max": 58.35,
+          "mean": 22.18,
+          "median": 20,
+          "suggested": 21.17,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MP7 | Nemesis (Field-Tested)",
+        "price": {
+          "min": 13.83,
+          "max": 23.15,
+          "mean": 17.68,
+          "median": 16.86,
+          "suggested": 17.27,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP7 | Nemesis (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP7 | Nemesis (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP7 | Nemesis (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:43.058Z"
+}

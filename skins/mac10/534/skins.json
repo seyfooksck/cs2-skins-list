@@ -1,0 +1,310 @@
+{
+  "id": "skin-c6ff1f1300c7",
+  "name": "MAC-10 | Lapis Gator",
+  "paint_index": "534",
+  "weapon": {
+    "id": "weapon_mac10",
+    "weapon_id": 17,
+    "name": "MAC-10",
+    "slug": "mac10"
+  },
+  "pattern": {
+    "id": "am_mac10_electricity",
+    "name": "Lapis Gator"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been given a hydrographic of vibrant alligator skin.\\n\\n<i>Airboat not included</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 3.97,
+      "max": 57.71,
+      "mean": 15.94,
+      "median": 8.18,
+      "suggested": 4.92,
+      "quantity": 50,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.56,
+      "max": 14.06,
+      "mean": 2.39,
+      "median": 1.77,
+      "suggested": 2.02,
+      "quantity": 47,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.05,
+      "max": 7.53,
+      "mean": 1.97,
+      "median": 1.63,
+      "suggested": 1.34,
+      "quantity": 101,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.89,
+      "max": 1.37,
+      "mean": 1.09,
+      "median": 1.02,
+      "suggested": 1.05,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.76,
+      "max": 2.17,
+      "mean": 1.12,
+      "median": 0.93,
+      "suggested": 0.93,
+      "quantity": 11,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAC-10 | Lapis Gator (Factory New)",
+      "price": {
+        "min": 3.97,
+        "max": 57.71,
+        "mean": 15.94,
+        "median": 8.18,
+        "suggested": 4.92,
+        "quantity": 50,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAC-10 | Lapis Gator (Minimal Wear)",
+      "price": {
+        "min": 1.56,
+        "max": 14.06,
+        "mean": 2.39,
+        "median": 1.77,
+        "suggested": 2.02,
+        "quantity": 47,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAC-10 | Lapis Gator (Field-Tested)",
+      "price": {
+        "min": 1.05,
+        "max": 7.53,
+        "mean": 1.97,
+        "median": 1.63,
+        "suggested": 1.34,
+        "quantity": 101,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAC-10 | Lapis Gator (Well-Worn)",
+      "price": {
+        "min": 0.89,
+        "max": 1.37,
+        "mean": 1.09,
+        "median": 1.02,
+        "suggested": 1.05,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAC-10 | Lapis Gator (Battle-Scarred)",
+      "price": {
+        "min": 0.76,
+        "max": 2.17,
+        "mean": 1.12,
+        "median": 0.93,
+        "suggested": 0.93,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAC-10 | Lapis Gator (Factory New)",
+        "price": {
+          "min": 3.97,
+          "max": 57.71,
+          "mean": 15.94,
+          "median": 8.18,
+          "suggested": 4.92,
+          "quantity": 50,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAC-10 | Lapis Gator (Minimal Wear)",
+        "price": {
+          "min": 1.56,
+          "max": 14.06,
+          "mean": 2.39,
+          "median": 1.77,
+          "suggested": 2.02,
+          "quantity": 47,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAC-10 | Lapis Gator (Field-Tested)",
+        "price": {
+          "min": 1.05,
+          "max": 7.53,
+          "mean": 1.97,
+          "median": 1.63,
+          "suggested": 1.34,
+          "quantity": 101,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAC-10 | Lapis Gator (Well-Worn)",
+        "price": {
+          "min": 0.89,
+          "max": 1.37,
+          "mean": 1.09,
+          "median": 1.02,
+          "suggested": 1.05,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MAC-10 | Lapis Gator (Battle-Scarred)",
+        "price": {
+          "min": 0.76,
+          "max": 2.17,
+          "mean": 1.12,
+          "median": 0.93,
+          "suggested": 0.93,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MAC-10 | Lapis Gator (Factory New)",
+        "price": {
+          "min": 8.93,
+          "max": 261.16,
+          "mean": 43.25,
+          "median": 22.06,
+          "suggested": 4.81,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MAC-10 | Lapis Gator (Minimal Wear)",
+        "price": {
+          "min": 2.26,
+          "max": 13.08,
+          "mean": 4.39,
+          "median": 3.36,
+          "suggested": 2.61,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MAC-10 | Lapis Gator (Field-Tested)",
+        "price": {
+          "min": 1.09,
+          "max": 5.83,
+          "mean": 1.91,
+          "median": 1.26,
+          "suggested": 1.46,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MAC-10 | Lapis Gator (Well-Worn)",
+        "price": {
+          "min": 0.96,
+          "max": 9.23,
+          "mean": 1.69,
+          "median": 1.02,
+          "suggested": 1.1,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MAC-10 | Lapis Gator (Battle-Scarred)",
+        "price": {
+          "min": 1.1,
+          "max": 1.44,
+          "mean": 1.26,
+          "median": 1.25,
+          "suggested": 1.08,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAC-10 | Lapis Gator (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAC-10 | Lapis Gator (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAC-10 | Lapis Gator (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAC-10 | Lapis Gator (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAC-10 | Lapis Gator (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.458Z"
+}

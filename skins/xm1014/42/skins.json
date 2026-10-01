@@ -1,0 +1,257 @@
+{
+  "id": "skin-22ee541bd91a",
+  "name": "XM1014 | Blue Steel",
+  "paint_index": "42",
+  "weapon": {
+    "id": "weapon_xm1014",
+    "weapon_id": 25,
+    "name": "XM1014",
+    "slug": "xm1014"
+  },
+  "pattern": {
+    "id": "aq_blued",
+    "name": "Blue Steel"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The XM1014 is a powerful fully automatic shotgun that justifies its heftier price tag with the ability to paint a room with lead fast. It has been cold blued.\\n\\n<i>This is the malbec of weapon design - Booth, Arms Dealer</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.13,
+      "max": 11.67,
+      "mean": 3.03,
+      "median": 1.73,
+      "suggested": 1.3,
+      "quantity": 33,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.2,
+      "max": 1.91,
+      "mean": 0.32,
+      "median": 0.25,
+      "suggested": 0.27,
+      "quantity": 52,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.04,
+      "max": 58.23,
+      "mean": 0.3,
+      "median": 0.07,
+      "suggested": 0.06,
+      "quantity": 443,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.04,
+      "max": 4.24,
+      "mean": 0.2,
+      "median": 0.06,
+      "suggested": 0.06,
+      "quantity": 282,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.04,
+      "max": 4.2,
+      "mean": 0.22,
+      "median": 0.07,
+      "suggested": 0.06,
+      "quantity": 142,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "XM1014 | Blue Steel (Factory New)",
+      "price": {
+        "min": 1.13,
+        "max": 11.67,
+        "mean": 3.03,
+        "median": 1.73,
+        "suggested": 1.3,
+        "quantity": 33,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "XM1014 | Blue Steel (Minimal Wear)",
+      "price": {
+        "min": 0.2,
+        "max": 1.91,
+        "mean": 0.32,
+        "median": 0.25,
+        "suggested": 0.27,
+        "quantity": 52,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "XM1014 | Blue Steel (Field-Tested)",
+      "price": {
+        "min": 0.04,
+        "max": 58.23,
+        "mean": 0.3,
+        "median": 0.07,
+        "suggested": 0.06,
+        "quantity": 443,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "XM1014 | Blue Steel (Well-Worn)",
+      "price": {
+        "min": 0.04,
+        "max": 4.24,
+        "mean": 0.2,
+        "median": 0.06,
+        "suggested": 0.06,
+        "quantity": 282,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "XM1014 | Blue Steel (Battle-Scarred)",
+      "price": {
+        "min": 0.04,
+        "max": 4.2,
+        "mean": 0.22,
+        "median": 0.07,
+        "suggested": 0.06,
+        "quantity": 142,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "XM1014 | Blue Steel (Factory New)",
+        "price": {
+          "min": 1.13,
+          "max": 11.67,
+          "mean": 3.03,
+          "median": 1.73,
+          "suggested": 1.3,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "XM1014 | Blue Steel (Minimal Wear)",
+        "price": {
+          "min": 0.2,
+          "max": 1.91,
+          "mean": 0.32,
+          "median": 0.25,
+          "suggested": 0.27,
+          "quantity": 52,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "XM1014 | Blue Steel (Field-Tested)",
+        "price": {
+          "min": 0.04,
+          "max": 58.23,
+          "mean": 0.3,
+          "median": 0.07,
+          "suggested": 0.06,
+          "quantity": 443,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "XM1014 | Blue Steel (Well-Worn)",
+        "price": {
+          "min": 0.04,
+          "max": 4.24,
+          "mean": 0.2,
+          "median": 0.06,
+          "suggested": 0.06,
+          "quantity": 282,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "XM1014 | Blue Steel (Battle-Scarred)",
+        "price": {
+          "min": 0.04,
+          "max": 4.2,
+          "mean": 0.22,
+          "median": 0.07,
+          "suggested": 0.06,
+          "quantity": 142,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir XM1014 | Blue Steel (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir XM1014 | Blue Steel (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir XM1014 | Blue Steel (Field-Tested)",
+        "price": {
+          "min": 38.05,
+          "max": 38.05,
+          "mean": 38.05,
+          "median": 38.05,
+          "suggested": 3.33,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir XM1014 | Blue Steel (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir XM1014 | Blue Steel (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:51.051Z"
+}

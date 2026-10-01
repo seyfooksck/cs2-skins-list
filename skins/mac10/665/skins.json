@@ -1,0 +1,270 @@
+{
+  "id": "skin-3f4120c9e552",
+  "name": "MAC-10 | Aloha",
+  "paint_index": "665",
+  "weapon": {
+    "id": "weapon_mac10",
+    "weapon_id": 17,
+    "name": "MAC-10",
+    "slug": "mac10"
+  },
+  "pattern": {
+    "id": "am_mac10_aloha",
+    "name": "Aloha"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.65,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been airbrushed with a red hibiscus pattern.\\n\\n<i>For the noncommittal</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 15.56,
+      "max": 57.71,
+      "mean": 35.73,
+      "median": 37.98,
+      "suggested": 12.98,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 6.48,
+      "max": 12.65,
+      "mean": 10.68,
+      "median": 11.44,
+      "suggested": 7.93,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 4.19,
+      "max": 8.96,
+      "mean": 6.91,
+      "median": 6.52,
+      "suggested": 5.48,
+      "quantity": 17,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 3.02,
+      "max": 3.02,
+      "mean": 3.02,
+      "median": 3.02,
+      "suggested": 3.77,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAC-10 | Aloha (Factory New)",
+      "price": {
+        "min": 15.56,
+        "max": 57.71,
+        "mean": 35.73,
+        "median": 37.98,
+        "suggested": 12.98,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAC-10 | Aloha (Minimal Wear)",
+      "price": {
+        "min": 6.48,
+        "max": 12.65,
+        "mean": 10.68,
+        "median": 11.44,
+        "suggested": 7.93,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAC-10 | Aloha (Field-Tested)",
+      "price": {
+        "min": 4.19,
+        "max": 8.96,
+        "mean": 6.91,
+        "median": 6.52,
+        "suggested": 5.48,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAC-10 | Aloha (Well-Worn)",
+      "price": {
+        "min": 3.02,
+        "max": 3.02,
+        "mean": 3.02,
+        "median": 3.02,
+        "suggested": 3.77,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAC-10 | Aloha (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAC-10 | Aloha (Factory New)",
+        "price": {
+          "min": 15.56,
+          "max": 57.71,
+          "mean": 35.73,
+          "median": 37.98,
+          "suggested": 12.98,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAC-10 | Aloha (Minimal Wear)",
+        "price": {
+          "min": 6.48,
+          "max": 12.65,
+          "mean": 10.68,
+          "median": 11.44,
+          "suggested": 7.93,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAC-10 | Aloha (Field-Tested)",
+        "price": {
+          "min": 4.19,
+          "max": 8.96,
+          "mean": 6.91,
+          "median": 6.52,
+          "suggested": 5.48,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAC-10 | Aloha (Well-Worn)",
+        "price": {
+          "min": 3.02,
+          "max": 3.02,
+          "mean": 3.02,
+          "median": 3.02,
+          "suggested": 3.77,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MAC-10 | Aloha (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MAC-10 | Aloha (Factory New)",
+        "price": {
+          "min": 12.25,
+          "max": 58.85,
+          "mean": 26.61,
+          "median": 21.56,
+          "suggested": 12.22,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MAC-10 | Aloha (Minimal Wear)",
+        "price": {
+          "min": 7.18,
+          "max": 11.72,
+          "mean": 9.62,
+          "median": 10.79,
+          "suggested": 8.18,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MAC-10 | Aloha (Field-Tested)",
+        "price": {
+          "min": 4.62,
+          "max": 11.24,
+          "mean": 6.1,
+          "median": 4.9,
+          "suggested": 5.49,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MAC-10 | Aloha (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MAC-10 | Aloha (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAC-10 | Aloha (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAC-10 | Aloha (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAC-10 | Aloha (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAC-10 | Aloha (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAC-10 | Aloha (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.444Z"
+}

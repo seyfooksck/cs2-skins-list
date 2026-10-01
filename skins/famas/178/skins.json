@@ -1,0 +1,154 @@
+{
+  "id": "skin-ca8015dddec8",
+  "name": "FAMAS | Doomkitty",
+  "paint_index": "178",
+  "weapon": {
+    "id": "weapon_famas",
+    "weapon_id": 10,
+    "name": "FAMAS",
+    "slug": "famas"
+  },
+  "pattern": {
+    "id": "hy_doomkitty",
+    "name": "Doomkitty"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0.08,
+  "max_float": 0.22,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. It has been hydro-dipped with a graphic of overlapping cat skulls.",
+  "images": {
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "mw": {
+      "min": 17.5,
+      "max": 226.97,
+      "mean": 48.74,
+      "median": 30.69,
+      "suggested": 26.42,
+      "quantity": 23,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 9.16,
+      "max": 37.53,
+      "mean": 16.83,
+      "median": 9.78,
+      "suggested": 11.06,
+      "quantity": 5,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "FAMAS | Doomkitty (Minimal Wear)",
+      "price": {
+        "min": 17.5,
+        "max": 226.97,
+        "mean": 48.74,
+        "median": 30.69,
+        "suggested": 26.42,
+        "quantity": 23,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "FAMAS | Doomkitty (Field-Tested)",
+      "price": {
+        "min": 9.16,
+        "max": 37.53,
+        "mean": 16.83,
+        "median": 9.78,
+        "suggested": 11.06,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "mw": {
+        "market_hash_name": "FAMAS | Doomkitty (Minimal Wear)",
+        "price": {
+          "min": 17.5,
+          "max": 226.97,
+          "mean": 48.74,
+          "median": 30.69,
+          "suggested": 26.42,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "FAMAS | Doomkitty (Field-Tested)",
+        "price": {
+          "min": 9.16,
+          "max": 37.53,
+          "mean": 16.83,
+          "median": 9.78,
+          "suggested": 11.06,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "mw": {
+        "market_hash_name": "StatTrak™ FAMAS | Doomkitty (Minimal Wear)",
+        "price": {
+          "min": 5.12,
+          "max": 509.59,
+          "mean": 55.28,
+          "median": 10.72,
+          "suggested": 5.94,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ FAMAS | Doomkitty (Field-Tested)",
+        "price": {
+          "min": 9.64,
+          "max": 64.17,
+          "mean": 24.81,
+          "median": 12.71,
+          "suggested": 5.13,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "mw": {
+        "market_hash_name": "Souvenir FAMAS | Doomkitty (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir FAMAS | Doomkitty (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:29.664Z"
+}

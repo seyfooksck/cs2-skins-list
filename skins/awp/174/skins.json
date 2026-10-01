@@ -1,0 +1,198 @@
+{
+  "id": "skin-e668bc5f90c6",
+  "name": "AWP | BOOM",
+  "paint_index": "174",
+  "weapon": {
+    "id": "weapon_awp",
+    "weapon_id": 9,
+    "name": "AWP",
+    "slug": "awp"
+  },
+  "pattern": {
+    "id": "hy_blam_simple",
+    "name": "BOOM"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0.06,
+  "max_float": 0.28,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been painted using a hydrographic printed with comic book onomatopoeia over an orange base coat.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 445.5,
+      "max": 962.72,
+      "mean": 627.19,
+      "median": 519.98,
+      "suggested": 474.8,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 147.07,
+      "max": 2333.87,
+      "mean": 337.43,
+      "median": 198.38,
+      "suggested": 192.23,
+      "quantity": 75,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 115.05,
+      "max": 2167.92,
+      "mean": 318.31,
+      "median": 132.23,
+      "suggested": 149.21,
+      "quantity": 19,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AWP | BOOM (Factory New)",
+      "price": {
+        "min": 445.5,
+        "max": 962.72,
+        "mean": 627.19,
+        "median": 519.98,
+        "suggested": 474.8,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AWP | BOOM (Minimal Wear)",
+      "price": {
+        "min": 147.07,
+        "max": 2333.87,
+        "mean": 337.43,
+        "median": 198.38,
+        "suggested": 192.23,
+        "quantity": 75,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AWP | BOOM (Field-Tested)",
+      "price": {
+        "min": 115.05,
+        "max": 2167.92,
+        "mean": 318.31,
+        "median": 132.23,
+        "suggested": 149.21,
+        "quantity": 19,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AWP | BOOM (Factory New)",
+        "price": {
+          "min": 445.5,
+          "max": 962.72,
+          "mean": 627.19,
+          "median": 519.98,
+          "suggested": 474.8,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AWP | BOOM (Minimal Wear)",
+        "price": {
+          "min": 147.07,
+          "max": 2333.87,
+          "mean": 337.43,
+          "median": 198.38,
+          "suggested": 192.23,
+          "quantity": 75,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AWP | BOOM (Field-Tested)",
+        "price": {
+          "min": 115.05,
+          "max": 2167.92,
+          "mean": 318.31,
+          "median": 132.23,
+          "suggested": 149.21,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AWP | BOOM (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AWP | BOOM (Minimal Wear)",
+        "price": {
+          "min": 216.41,
+          "max": 541.39,
+          "mean": 331.48,
+          "median": 291.73,
+          "suggested": 275.56,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AWP | BOOM (Field-Tested)",
+        "price": {
+          "min": 185.79,
+          "max": 1143.6,
+          "mean": 370.83,
+          "median": 202.29,
+          "suggested": 224.23,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AWP | BOOM (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AWP | BOOM (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AWP | BOOM (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:26.262Z"
+}

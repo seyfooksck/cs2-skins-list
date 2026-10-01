@@ -1,0 +1,258 @@
+{
+  "id": "skin-1970fa831101",
+  "name": "AK-47 | Blue Laminate",
+  "paint_index": "226",
+  "weapon": {
+    "id": "weapon_ak47",
+    "weapon_id": 7,
+    "name": "AK-47",
+    "slug": "ak47"
+  },
+  "pattern": {
+    "id": "hy_ak47lam_blue",
+    "name": "Blue Laminate"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0.02,
+  "max_float": 0.4,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. It has been given a laminate stock.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 46.67,
+      "max": 3350.18,
+      "mean": 271.02,
+      "median": 98.91,
+      "suggested": 68.69,
+      "quantity": 149,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 17,
+      "max": 1340.81,
+      "mean": 160.52,
+      "median": 46.39,
+      "suggested": 21.31,
+      "quantity": 150,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 16.3,
+      "max": 8617.83,
+      "mean": 280.52,
+      "median": 40.05,
+      "suggested": 19.14,
+      "quantity": 98,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 18.67,
+      "max": 27.49,
+      "mean": 24.31,
+      "median": 26.77,
+      "suggested": 25.86,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AK-47 | Blue Laminate (Factory New)",
+      "price": {
+        "min": 46.67,
+        "max": 3350.18,
+        "mean": 271.02,
+        "median": 98.91,
+        "suggested": 68.69,
+        "quantity": 149,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AK-47 | Blue Laminate (Minimal Wear)",
+      "price": {
+        "min": 17,
+        "max": 1340.81,
+        "mean": 160.52,
+        "median": 46.39,
+        "suggested": 21.31,
+        "quantity": 150,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AK-47 | Blue Laminate (Field-Tested)",
+      "price": {
+        "min": 16.3,
+        "max": 8617.83,
+        "mean": 280.52,
+        "median": 40.05,
+        "suggested": 19.14,
+        "quantity": 98,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AK-47 | Blue Laminate (Well-Worn)",
+      "price": {
+        "min": 18.67,
+        "max": 27.49,
+        "mean": 24.31,
+        "median": 26.77,
+        "suggested": 25.86,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AK-47 | Blue Laminate (Factory New)",
+        "price": {
+          "min": 46.67,
+          "max": 3350.18,
+          "mean": 271.02,
+          "median": 98.91,
+          "suggested": 68.69,
+          "quantity": 149,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AK-47 | Blue Laminate (Minimal Wear)",
+        "price": {
+          "min": 17,
+          "max": 1340.81,
+          "mean": 160.52,
+          "median": 46.39,
+          "suggested": 21.31,
+          "quantity": 150,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AK-47 | Blue Laminate (Field-Tested)",
+        "price": {
+          "min": 16.3,
+          "max": 8617.83,
+          "mean": 280.52,
+          "median": 40.05,
+          "suggested": 19.14,
+          "quantity": 98,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AK-47 | Blue Laminate (Well-Worn)",
+        "price": {
+          "min": 18.67,
+          "max": 27.49,
+          "mean": 24.31,
+          "median": 26.77,
+          "suggested": 25.86,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AK-47 | Blue Laminate (Factory New)",
+        "price": {
+          "min": 50.97,
+          "max": 6125.03,
+          "mean": 282.81,
+          "median": 70.88,
+          "suggested": 67.1,
+          "quantity": 43,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AK-47 | Blue Laminate (Minimal Wear)",
+        "price": {
+          "min": 39.66,
+          "max": 19867.11,
+          "mean": 1410.15,
+          "median": 105.01,
+          "suggested": 46.48,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AK-47 | Blue Laminate (Field-Tested)",
+        "price": {
+          "min": 34.87,
+          "max": 2742.45,
+          "mean": 472.42,
+          "median": 107.45,
+          "suggested": 42.05,
+          "quantity": 41,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AK-47 | Blue Laminate (Well-Worn)",
+        "price": {
+          "min": 46.61,
+          "max": 64.18,
+          "mean": 52.99,
+          "median": 48.61,
+          "suggested": 55.56,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AK-47 | Blue Laminate (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AK-47 | Blue Laminate (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AK-47 | Blue Laminate (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AK-47 | Blue Laminate (Well-Worn)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:20:20.949Z"
+}

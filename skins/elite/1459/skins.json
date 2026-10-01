@@ -1,0 +1,249 @@
+{
+  "id": "skin-5fdbc79e9391",
+  "name": "Dual Berettas | Mystic Conjunction",
+  "paint_index": "1459",
+  "weapon": {
+    "id": "weapon_elite",
+    "weapon_id": 2,
+    "name": "Dual Berettas",
+    "slug": "elite"
+  },
+  "pattern": {
+    "id": "dualies_mystic_conjunction_v3",
+    "name": "Mystic Conjunction"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. It has been custom painted with gold, flowing lines which merge into a desert eye when overlaid.\\n\\n<i>A shared vision</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.65,
+      "max": 8.88,
+      "mean": 4.77,
+      "median": 4.77,
+      "suggested": 0.76,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.08,
+      "max": 2.33,
+      "mean": 0.7,
+      "median": 0.13,
+      "suggested": 0.1,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.04,
+      "max": 2.33,
+      "mean": 0.25,
+      "median": 0.07,
+      "suggested": 0.08,
+      "quantity": 30,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.04,
+      "max": 2.89,
+      "mean": 0.5,
+      "median": 0.05,
+      "suggested": 0.06,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.02,
+      "max": 1.17,
+      "mean": 0.23,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 18,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Dual Berettas | Mystic Conjunction (Factory New)",
+      "price": {
+        "min": 0.65,
+        "max": 8.88,
+        "mean": 4.77,
+        "median": 4.77,
+        "suggested": 0.76,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Dual Berettas | Mystic Conjunction (Minimal Wear)",
+      "price": {
+        "min": 0.08,
+        "max": 2.33,
+        "mean": 0.7,
+        "median": 0.13,
+        "suggested": 0.1,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Dual Berettas | Mystic Conjunction (Field-Tested)",
+      "price": {
+        "min": 0.04,
+        "max": 2.33,
+        "mean": 0.25,
+        "median": 0.07,
+        "suggested": 0.08,
+        "quantity": 30,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Dual Berettas | Mystic Conjunction (Well-Worn)",
+      "price": {
+        "min": 0.04,
+        "max": 2.89,
+        "mean": 0.5,
+        "median": 0.05,
+        "suggested": 0.06,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Dual Berettas | Mystic Conjunction (Battle-Scarred)",
+      "price": {
+        "min": 0.02,
+        "max": 1.17,
+        "mean": 0.23,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Dual Berettas | Mystic Conjunction (Factory New)",
+        "price": {
+          "min": 0.65,
+          "max": 8.88,
+          "mean": 4.77,
+          "median": 4.77,
+          "suggested": 0.76,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Dual Berettas | Mystic Conjunction (Minimal Wear)",
+        "price": {
+          "min": 0.08,
+          "max": 2.33,
+          "mean": 0.7,
+          "median": 0.13,
+          "suggested": 0.1,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Dual Berettas | Mystic Conjunction (Field-Tested)",
+        "price": {
+          "min": 0.04,
+          "max": 2.33,
+          "mean": 0.25,
+          "median": 0.07,
+          "suggested": 0.08,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Dual Berettas | Mystic Conjunction (Well-Worn)",
+        "price": {
+          "min": 0.04,
+          "max": 2.89,
+          "mean": 0.5,
+          "median": 0.05,
+          "suggested": 0.06,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Dual Berettas | Mystic Conjunction (Battle-Scarred)",
+        "price": {
+          "min": 0.02,
+          "max": 1.17,
+          "mean": 0.23,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Dual Berettas | Mystic Conjunction (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Dual Berettas | Mystic Conjunction (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Dual Berettas | Mystic Conjunction (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Dual Berettas | Mystic Conjunction (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Dual Berettas | Mystic Conjunction (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:28.848Z"
+}

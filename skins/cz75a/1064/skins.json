@@ -1,0 +1,225 @@
+{
+  "id": "skin-4984403ab0c0",
+  "name": "CZ75-Auto | Syndicate",
+  "paint_index": "1064",
+  "weapon": {
+    "id": "weapon_cz75a",
+    "weapon_id": 63,
+    "name": "CZ75-Auto",
+    "slug": "cz75a"
+  },
+  "pattern": {
+    "id": "gs_train_cz75",
+    "name": "Syndicate"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fully automatic variant of the CZ75, the CZ75-Auto is the ideal short-term choice for turning the tables and gaining your opponents weapon. But with very little ammo in the magazine, strong trigger discipline is required. A custom gold and black paint job with interlocking triangles and blue highlights has been applied.\\n\\n<i>We go together</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 36.81,
+      "max": 233.39,
+      "mean": 84.5,
+      "median": 83.54,
+      "suggested": 52.96,
+      "quantity": 60,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 13.58,
+      "max": 217.05,
+      "mean": 24.02,
+      "median": 17.7,
+      "suggested": 16.96,
+      "quantity": 38,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 7.04,
+      "max": 23.28,
+      "mean": 12.22,
+      "median": 11.47,
+      "suggested": 9.62,
+      "quantity": 33,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 11.49,
+      "max": 22.17,
+      "mean": 15.29,
+      "median": 12.18,
+      "suggested": 10.47,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "CZ75-Auto | Syndicate (Factory New)",
+      "price": {
+        "min": 36.81,
+        "max": 233.39,
+        "mean": 84.5,
+        "median": 83.54,
+        "suggested": 52.96,
+        "quantity": 60,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "CZ75-Auto | Syndicate (Minimal Wear)",
+      "price": {
+        "min": 13.58,
+        "max": 217.05,
+        "mean": 24.02,
+        "median": 17.7,
+        "suggested": 16.96,
+        "quantity": 38,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "CZ75-Auto | Syndicate (Field-Tested)",
+      "price": {
+        "min": 7.04,
+        "max": 23.28,
+        "mean": 12.22,
+        "median": 11.47,
+        "suggested": 9.62,
+        "quantity": 33,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "CZ75-Auto | Syndicate (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "CZ75-Auto | Syndicate (Battle-Scarred)",
+      "price": {
+        "min": 11.49,
+        "max": 22.17,
+        "mean": 15.29,
+        "median": 12.18,
+        "suggested": 10.47,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "CZ75-Auto | Syndicate (Factory New)",
+        "price": {
+          "min": 36.81,
+          "max": 233.39,
+          "mean": 84.5,
+          "median": 83.54,
+          "suggested": 52.96,
+          "quantity": 60,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "CZ75-Auto | Syndicate (Minimal Wear)",
+        "price": {
+          "min": 13.58,
+          "max": 217.05,
+          "mean": 24.02,
+          "median": 17.7,
+          "suggested": 16.96,
+          "quantity": 38,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "CZ75-Auto | Syndicate (Field-Tested)",
+        "price": {
+          "min": 7.04,
+          "max": 23.28,
+          "mean": 12.22,
+          "median": 11.47,
+          "suggested": 9.62,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "CZ75-Auto | Syndicate (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "CZ75-Auto | Syndicate (Battle-Scarred)",
+        "price": {
+          "min": 11.49,
+          "max": 22.17,
+          "mean": 15.29,
+          "median": 12.18,
+          "suggested": 10.47,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir CZ75-Auto | Syndicate (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir CZ75-Auto | Syndicate (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir CZ75-Auto | Syndicate (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir CZ75-Auto | Syndicate (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir CZ75-Auto | Syndicate (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:27.776Z"
+}

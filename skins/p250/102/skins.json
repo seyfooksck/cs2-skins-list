@@ -1,0 +1,257 @@
+{
+  "id": "skin-2be72384c68f",
+  "name": "P250 | Whiteout",
+  "paint_index": "102",
+  "weapon": {
+    "id": "weapon_p250",
+    "weapon_id": 36,
+    "name": "P250",
+    "slug": "p250"
+  },
+  "pattern": {
+    "id": "so_whiteout",
+    "name": "Whiteout"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A low-recoil firearm with a high rate of fire, the P250 is a relatively inexpensive choice against armored opponents. It is spray-painted all white.\\n\\n<i>It looks pure, but looks can be deceiving</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 434.11,
+      "max": 562.02,
+      "mean": 490.99,
+      "median": 483.92,
+      "suggested": 494.69,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 85.01,
+      "max": 814.2,
+      "mean": 161.45,
+      "median": 129.26,
+      "suggested": 118.03,
+      "quantity": 71,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 44.9,
+      "max": 107.53,
+      "mean": 75.87,
+      "median": 78.59,
+      "suggested": 56.35,
+      "quantity": 25,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 45.91,
+      "max": 72.34,
+      "mean": 61.94,
+      "median": 67.59,
+      "suggested": 44.53,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 66.26,
+      "max": 66.26,
+      "mean": 66.26,
+      "median": 66.26,
+      "suggested": 46.15,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P250 | Whiteout (Factory New)",
+      "price": {
+        "min": 434.11,
+        "max": 562.02,
+        "mean": 490.99,
+        "median": 483.92,
+        "suggested": 494.69,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P250 | Whiteout (Minimal Wear)",
+      "price": {
+        "min": 85.01,
+        "max": 814.2,
+        "mean": 161.45,
+        "median": 129.26,
+        "suggested": 118.03,
+        "quantity": 71,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P250 | Whiteout (Field-Tested)",
+      "price": {
+        "min": 44.9,
+        "max": 107.53,
+        "mean": 75.87,
+        "median": 78.59,
+        "suggested": 56.35,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P250 | Whiteout (Well-Worn)",
+      "price": {
+        "min": 45.91,
+        "max": 72.34,
+        "mean": 61.94,
+        "median": 67.59,
+        "suggested": 44.53,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P250 | Whiteout (Battle-Scarred)",
+      "price": {
+        "min": 66.26,
+        "max": 66.26,
+        "mean": 66.26,
+        "median": 66.26,
+        "suggested": 46.15,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P250 | Whiteout (Factory New)",
+        "price": {
+          "min": 434.11,
+          "max": 562.02,
+          "mean": 490.99,
+          "median": 483.92,
+          "suggested": 494.69,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P250 | Whiteout (Minimal Wear)",
+        "price": {
+          "min": 85.01,
+          "max": 814.2,
+          "mean": 161.45,
+          "median": 129.26,
+          "suggested": 118.03,
+          "quantity": 71,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P250 | Whiteout (Field-Tested)",
+        "price": {
+          "min": 44.9,
+          "max": 107.53,
+          "mean": 75.87,
+          "median": 78.59,
+          "suggested": 56.35,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P250 | Whiteout (Well-Worn)",
+        "price": {
+          "min": 45.91,
+          "max": 72.34,
+          "mean": 61.94,
+          "median": 67.59,
+          "suggested": 44.53,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P250 | Whiteout (Battle-Scarred)",
+        "price": {
+          "min": 66.26,
+          "max": 66.26,
+          "mean": 66.26,
+          "median": 66.26,
+          "suggested": 46.15,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P250 | Whiteout (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P250 | Whiteout (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P250 | Whiteout (Field-Tested)",
+        "price": {
+          "min": 102.41,
+          "max": 102.41,
+          "mean": 102.41,
+          "median": 102.41,
+          "suggested": 206.73,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P250 | Whiteout (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P250 | Whiteout (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:45.651Z"
+}

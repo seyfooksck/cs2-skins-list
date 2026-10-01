@@ -1,0 +1,225 @@
+{
+  "id": "skin-b00ed3c3e226",
+  "name": "SG 553 | Traveler",
+  "paint_index": "363",
+  "weapon": {
+    "id": "weapon_sg556",
+    "weapon_id": 39,
+    "name": "SG 553",
+    "slug": "sg556"
+  },
+  "pattern": {
+    "id": "cu_luggage_sg553",
+    "name": "Traveler"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The terrorist-exclusive SG553 is a premium scoped alternative to the AK47 for effective long-range engagement. It has been custom painted in a stripe design inspired by vintage luggage, and had some parts wrapped in brown leather.\\n\\n<i>Everyone has a story, and Javier will pry it out before he kills you</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 26.83,
+      "max": 93.34,
+      "mean": 60.54,
+      "median": 58.34,
+      "suggested": 15.88,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 9.77,
+      "max": 87.51,
+      "mean": 39.49,
+      "median": 33.25,
+      "suggested": 11.78,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 23.33,
+      "max": 39.94,
+      "mean": 31.64,
+      "median": 31.64,
+      "suggested": 7.96,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 6.43,
+      "max": 39.94,
+      "mean": 23.21,
+      "median": 23.23,
+      "suggested": 6.41,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SG 553 | Traveler (Factory New)",
+      "price": {
+        "min": 26.83,
+        "max": 93.34,
+        "mean": 60.54,
+        "median": 58.34,
+        "suggested": 15.88,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SG 553 | Traveler (Minimal Wear)",
+      "price": {
+        "min": 9.77,
+        "max": 87.51,
+        "mean": 39.49,
+        "median": 33.25,
+        "suggested": 11.78,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "SG 553 | Traveler (Field-Tested)",
+      "price": {
+        "min": 23.33,
+        "max": 39.94,
+        "mean": 31.64,
+        "median": 31.64,
+        "suggested": 7.96,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "SG 553 | Traveler (Well-Worn)",
+      "price": {
+        "min": 6.43,
+        "max": 39.94,
+        "mean": 23.21,
+        "median": 23.23,
+        "suggested": 6.41,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "SG 553 | Traveler (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SG 553 | Traveler (Factory New)",
+        "price": {
+          "min": 26.83,
+          "max": 93.34,
+          "mean": 60.54,
+          "median": 58.34,
+          "suggested": 15.88,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "SG 553 | Traveler (Minimal Wear)",
+        "price": {
+          "min": 9.77,
+          "max": 87.51,
+          "mean": 39.49,
+          "median": 33.25,
+          "suggested": 11.78,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "SG 553 | Traveler (Field-Tested)",
+        "price": {
+          "min": 23.33,
+          "max": 39.94,
+          "mean": 31.64,
+          "median": 31.64,
+          "suggested": 7.96,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "SG 553 | Traveler (Well-Worn)",
+        "price": {
+          "min": 6.43,
+          "max": 39.94,
+          "mean": 23.21,
+          "median": 23.23,
+          "suggested": 6.41,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "SG 553 | Traveler (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SG 553 | Traveler (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir SG 553 | Traveler (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir SG 553 | Traveler (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir SG 553 | Traveler (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir SG 553 | Traveler (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:47.890Z"
+}

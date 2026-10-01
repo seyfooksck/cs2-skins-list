@@ -1,0 +1,206 @@
+{
+  "id": "skin-1e5240e9d466",
+  "name": "P250 | Undertow",
+  "paint_index": "271",
+  "weapon": {
+    "id": "weapon_p250",
+    "weapon_id": 36,
+    "name": "P250",
+    "slug": "p250"
+  },
+  "pattern": {
+    "id": "am_p250_beaded_paint",
+    "name": "Undertow"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.2,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A low-recoil firearm with a high rate of fire, the P250 is a relatively inexpensive choice against armored opponents. It has been painted using metallic paints with a silver slide and a blue and black spotted pattern on the receiver.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 87.52,
+      "max": 2333.87,
+      "mean": 301.15,
+      "median": 107.94,
+      "suggested": 76.75,
+      "quantity": 20,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 31.15,
+      "max": 1442.72,
+      "mean": 150.16,
+      "median": 46.62,
+      "suggested": 36.58,
+      "quantity": 17,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 27.1,
+      "max": 1812.84,
+      "mean": 394.66,
+      "median": 36.16,
+      "suggested": 31.71,
+      "quantity": 5,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P250 | Undertow (Factory New)",
+      "price": {
+        "min": 87.52,
+        "max": 2333.87,
+        "mean": 301.15,
+        "median": 107.94,
+        "suggested": 76.75,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P250 | Undertow (Minimal Wear)",
+      "price": {
+        "min": 31.15,
+        "max": 1442.72,
+        "mean": 150.16,
+        "median": 46.62,
+        "suggested": 36.58,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P250 | Undertow (Field-Tested)",
+      "price": {
+        "min": 27.1,
+        "max": 1812.84,
+        "mean": 394.66,
+        "median": 36.16,
+        "suggested": 31.71,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P250 | Undertow (Factory New)",
+        "price": {
+          "min": 87.52,
+          "max": 2333.87,
+          "mean": 301.15,
+          "median": 107.94,
+          "suggested": 76.75,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P250 | Undertow (Minimal Wear)",
+        "price": {
+          "min": 31.15,
+          "max": 1442.72,
+          "mean": 150.16,
+          "median": 46.62,
+          "suggested": 36.58,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P250 | Undertow (Field-Tested)",
+        "price": {
+          "min": 27.1,
+          "max": 1812.84,
+          "mean": 394.66,
+          "median": 36.16,
+          "suggested": 31.71,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P250 | Undertow (Factory New)",
+        "price": {
+          "min": 61.02,
+          "max": 343.21,
+          "mean": 104.13,
+          "median": 91.44,
+          "suggested": 70.98,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P250 | Undertow (Minimal Wear)",
+        "price": {
+          "min": 44.96,
+          "max": 75.16,
+          "mean": 62.48,
+          "median": 64.43,
+          "suggested": 55.51,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P250 | Undertow (Field-Tested)",
+        "price": {
+          "min": 99.07,
+          "max": 99.07,
+          "mean": 99.07,
+          "median": 99.07,
+          "suggested": 53.68,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P250 | Undertow (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P250 | Undertow (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P250 | Undertow (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.968Z"
+}

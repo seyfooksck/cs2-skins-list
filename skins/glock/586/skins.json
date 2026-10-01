@@ -1,0 +1,310 @@
+{
+  "id": "skin-73cc8d5fcd85",
+  "name": "Glock-18 | Wasteland Rebel",
+  "paint_index": "586",
+  "weapon": {
+    "id": "weapon_glock",
+    "weapon_id": 4,
+    "name": "Glock-18",
+    "slug": "glock"
+  },
+  "pattern": {
+    "id": "cu_glock_wasteland_rebel",
+    "name": "Wasteland Rebel"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.54,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. It has been distressed, block printed, and painted with graffiti.\\n\\n<i>Pay tribute</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 122.53,
+      "max": 512.06,
+      "mean": 183.54,
+      "median": 162.2,
+      "suggested": 161.64,
+      "quantity": 40,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 110.56,
+      "max": 466.77,
+      "mean": 132.18,
+      "median": 125.5,
+      "suggested": 148.28,
+      "quantity": 107,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 109.68,
+      "max": 190.79,
+      "mean": 127.79,
+      "median": 121.41,
+      "suggested": 140.94,
+      "quantity": 67,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 110.85,
+      "max": 110.85,
+      "mean": 110.85,
+      "median": 110.85,
+      "suggested": 130.76,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 112.5,
+      "max": 134.36,
+      "mean": 119.87,
+      "median": 116.69,
+      "suggested": 152.19,
+      "quantity": 5,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Glock-18 | Wasteland Rebel (Factory New)",
+      "price": {
+        "min": 122.53,
+        "max": 512.06,
+        "mean": 183.54,
+        "median": 162.2,
+        "suggested": 161.64,
+        "quantity": 40,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Glock-18 | Wasteland Rebel (Minimal Wear)",
+      "price": {
+        "min": 110.56,
+        "max": 466.77,
+        "mean": 132.18,
+        "median": 125.5,
+        "suggested": 148.28,
+        "quantity": 107,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Glock-18 | Wasteland Rebel (Field-Tested)",
+      "price": {
+        "min": 109.68,
+        "max": 190.79,
+        "mean": 127.79,
+        "median": 121.41,
+        "suggested": 140.94,
+        "quantity": 67,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Glock-18 | Wasteland Rebel (Well-Worn)",
+      "price": {
+        "min": 110.85,
+        "max": 110.85,
+        "mean": 110.85,
+        "median": 110.85,
+        "suggested": 130.76,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Glock-18 | Wasteland Rebel (Battle-Scarred)",
+      "price": {
+        "min": 112.5,
+        "max": 134.36,
+        "mean": 119.87,
+        "median": 116.69,
+        "suggested": 152.19,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Glock-18 | Wasteland Rebel (Factory New)",
+        "price": {
+          "min": 122.53,
+          "max": 512.06,
+          "mean": 183.54,
+          "median": 162.2,
+          "suggested": 161.64,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Glock-18 | Wasteland Rebel (Minimal Wear)",
+        "price": {
+          "min": 110.56,
+          "max": 466.77,
+          "mean": 132.18,
+          "median": 125.5,
+          "suggested": 148.28,
+          "quantity": 107,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Glock-18 | Wasteland Rebel (Field-Tested)",
+        "price": {
+          "min": 109.68,
+          "max": 190.79,
+          "mean": 127.79,
+          "median": 121.41,
+          "suggested": 140.94,
+          "quantity": 67,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Glock-18 | Wasteland Rebel (Well-Worn)",
+        "price": {
+          "min": 110.85,
+          "max": 110.85,
+          "mean": 110.85,
+          "median": 110.85,
+          "suggested": 130.76,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Glock-18 | Wasteland Rebel (Battle-Scarred)",
+        "price": {
+          "min": 112.5,
+          "max": 134.36,
+          "mean": 119.87,
+          "median": 116.69,
+          "suggested": 152.19,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Glock-18 | Wasteland Rebel (Factory New)",
+        "price": {
+          "min": 121.91,
+          "max": 165.99,
+          "mean": 135.57,
+          "median": 128.57,
+          "suggested": 147.07,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Glock-18 | Wasteland Rebel (Minimal Wear)",
+        "price": {
+          "min": 104.52,
+          "max": 233.39,
+          "mean": 127.73,
+          "median": 120.51,
+          "suggested": 136.57,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Glock-18 | Wasteland Rebel (Field-Tested)",
+        "price": {
+          "min": 97.16,
+          "max": 126.48,
+          "mean": 107.72,
+          "median": 105.34,
+          "suggested": 129.79,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Glock-18 | Wasteland Rebel (Well-Worn)",
+        "price": {
+          "min": 109.13,
+          "max": 109.13,
+          "mean": 109.13,
+          "median": 109.13,
+          "suggested": 127.13,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Glock-18 | Wasteland Rebel (Battle-Scarred)",
+        "price": {
+          "min": 102.41,
+          "max": 102.41,
+          "mean": 102.41,
+          "median": 102.41,
+          "suggested": 136.48,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Glock-18 | Wasteland Rebel (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Glock-18 | Wasteland Rebel (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Glock-18 | Wasteland Rebel (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Glock-18 | Wasteland Rebel (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Glock-18 | Wasteland Rebel (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:31.887Z"
+}

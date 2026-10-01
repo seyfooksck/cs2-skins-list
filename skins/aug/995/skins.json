@@ -1,0 +1,249 @@
+{
+  "id": "skin-06a633fd8293",
+  "name": "AUG | Surveillance",
+  "paint_index": "995",
+  "weapon": {
+    "id": "weapon_aug",
+    "weapon_id": 8,
+    "name": "AUG",
+    "slug": "aug"
+  },
+  "pattern": {
+    "id": "am_intelligence_grey",
+    "name": "Surveillance"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire. A custom paint job of a map pattern overlayed with a bird's eye HUD has been applied.\\n\\n<i>Target acquired</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.29,
+      "max": 29.16,
+      "mean": 5.2,
+      "median": 3.62,
+      "suggested": 2.83,
+      "quantity": 159,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.69,
+      "max": 29.12,
+      "mean": 8.89,
+      "median": 9.28,
+      "suggested": 2.02,
+      "quantity": 84,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.66,
+      "max": 13.15,
+      "mean": 6.41,
+      "median": 6.94,
+      "suggested": 1.88,
+      "quantity": 109,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.83,
+      "max": 3.64,
+      "mean": 3.16,
+      "median": 3.64,
+      "suggested": 1.65,
+      "quantity": 33,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.34,
+      "max": 2.67,
+      "mean": 2.19,
+      "median": 2.67,
+      "suggested": 1.65,
+      "quantity": 7,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AUG | Surveillance (Factory New)",
+      "price": {
+        "min": 2.29,
+        "max": 29.16,
+        "mean": 5.2,
+        "median": 3.62,
+        "suggested": 2.83,
+        "quantity": 159,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AUG | Surveillance (Minimal Wear)",
+      "price": {
+        "min": 1.69,
+        "max": 29.12,
+        "mean": 8.89,
+        "median": 9.28,
+        "suggested": 2.02,
+        "quantity": 84,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AUG | Surveillance (Field-Tested)",
+      "price": {
+        "min": 1.66,
+        "max": 13.15,
+        "mean": 6.41,
+        "median": 6.94,
+        "suggested": 1.88,
+        "quantity": 109,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AUG | Surveillance (Well-Worn)",
+      "price": {
+        "min": 1.83,
+        "max": 3.64,
+        "mean": 3.16,
+        "median": 3.64,
+        "suggested": 1.65,
+        "quantity": 33,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AUG | Surveillance (Battle-Scarred)",
+      "price": {
+        "min": 1.34,
+        "max": 2.67,
+        "mean": 2.19,
+        "median": 2.67,
+        "suggested": 1.65,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AUG | Surveillance (Factory New)",
+        "price": {
+          "min": 2.29,
+          "max": 29.16,
+          "mean": 5.2,
+          "median": 3.62,
+          "suggested": 2.83,
+          "quantity": 159,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AUG | Surveillance (Minimal Wear)",
+        "price": {
+          "min": 1.69,
+          "max": 29.12,
+          "mean": 8.89,
+          "median": 9.28,
+          "suggested": 2.02,
+          "quantity": 84,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AUG | Surveillance (Field-Tested)",
+        "price": {
+          "min": 1.66,
+          "max": 13.15,
+          "mean": 6.41,
+          "median": 6.94,
+          "suggested": 1.88,
+          "quantity": 109,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AUG | Surveillance (Well-Worn)",
+        "price": {
+          "min": 1.83,
+          "max": 3.64,
+          "mean": 3.16,
+          "median": 3.64,
+          "suggested": 1.65,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AUG | Surveillance (Battle-Scarred)",
+        "price": {
+          "min": 1.34,
+          "max": 2.67,
+          "mean": 2.19,
+          "median": 2.67,
+          "suggested": 1.65,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AUG | Surveillance (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AUG | Surveillance (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AUG | Surveillance (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AUG | Surveillance (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AUG | Surveillance (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.206Z"
+}

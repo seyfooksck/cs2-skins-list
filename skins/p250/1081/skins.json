@@ -1,0 +1,225 @@
+{
+  "id": "skin-3f9b068b6276",
+  "name": "P250 | Digital Architect",
+  "paint_index": "1081",
+  "weapon": {
+    "id": "weapon_p250",
+    "weapon_id": 36,
+    "name": "P250",
+    "slug": "p250"
+  },
+  "pattern": {
+    "id": "aa_vertigogeo_neon",
+    "name": "Digital Architect"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.49,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A low-recoil firearm with a high rate of fire, the P250 is a relatively inexpensive choice against armored opponents. A multicolored pattern of an isometric grid has been applied.\\n\\n<i>You remember pain, I remember victory</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 80.04,
+      "max": 546.92,
+      "mean": 183.83,
+      "median": 89.85,
+      "suggested": 74.85,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 35.17,
+      "max": 134.78,
+      "mean": 68.5,
+      "median": 46.68,
+      "suggested": 46.84,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 43.12,
+      "max": 86.56,
+      "mean": 58.45,
+      "median": 52.06,
+      "suggested": 45.19,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P250 | Digital Architect (Factory New)",
+      "price": {
+        "min": 80.04,
+        "max": 546.92,
+        "mean": 183.83,
+        "median": 89.85,
+        "suggested": 74.85,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P250 | Digital Architect (Minimal Wear)",
+      "price": {
+        "min": 35.17,
+        "max": 134.78,
+        "mean": 68.5,
+        "median": 46.68,
+        "suggested": 46.84,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P250 | Digital Architect (Field-Tested)",
+      "price": {
+        "min": 43.12,
+        "max": 86.56,
+        "mean": 58.45,
+        "median": 52.06,
+        "suggested": 45.19,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P250 | Digital Architect (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P250 | Digital Architect (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P250 | Digital Architect (Factory New)",
+        "price": {
+          "min": 80.04,
+          "max": 546.92,
+          "mean": 183.83,
+          "median": 89.85,
+          "suggested": 74.85,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P250 | Digital Architect (Minimal Wear)",
+        "price": {
+          "min": 35.17,
+          "max": 134.78,
+          "mean": 68.5,
+          "median": 46.68,
+          "suggested": 46.84,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P250 | Digital Architect (Field-Tested)",
+        "price": {
+          "min": 43.12,
+          "max": 86.56,
+          "mean": 58.45,
+          "median": 52.06,
+          "suggested": 45.19,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P250 | Digital Architect (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "P250 | Digital Architect (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P250 | Digital Architect (Factory New)",
+        "price": {
+          "min": 35.82,
+          "max": 79.13,
+          "mean": 60.68,
+          "median": 67.1,
+          "suggested": 42.28,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P250 | Digital Architect (Minimal Wear)",
+        "price": {
+          "min": 30.4,
+          "max": 65.86,
+          "mean": 43.24,
+          "median": 38.33,
+          "suggested": 29.25,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P250 | Digital Architect (Field-Tested)",
+        "price": {
+          "min": 18.6,
+          "max": 50.38,
+          "mean": 34.77,
+          "median": 36.43,
+          "suggested": 22.9,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P250 | Digital Architect (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P250 | Digital Architect (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.943Z"
+}

@@ -1,0 +1,281 @@
+{
+  "id": "skin-9836cfa060f6",
+  "name": "MP9 | Latte Rush",
+  "paint_index": "1211",
+  "weapon": {
+    "id": "weapon_mp9",
+    "weapon_id": 34,
+    "name": "MP9",
+    "slug": "mp9"
+  },
+  "pattern": {
+    "id": "cu_mp9_latte",
+    "name": "Latte Rush"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been custom painted to resemble the \\\"Latte\\\" drum found on Train's B site.\\n\\n<i>Start your morning right</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 93.34,
+      "max": 700.16,
+      "mean": 289.47,
+      "median": 291.73,
+      "suggested": 134.07,
+      "quantity": 67,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 41.83,
+      "max": 350.93,
+      "mean": 116.26,
+      "median": 86.73,
+      "suggested": 74.39,
+      "quantity": 59,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 15.73,
+      "max": 257.72,
+      "mean": 48.59,
+      "median": 40.97,
+      "suggested": 25.06,
+      "quantity": 104,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 10.9,
+      "max": 58.35,
+      "mean": 24.9,
+      "median": 18.05,
+      "suggested": 16.81,
+      "quantity": 36,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 12.99,
+      "max": 40.84,
+      "mean": 18.08,
+      "median": 15.77,
+      "suggested": 15.92,
+      "quantity": 14,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP9 | Latte Rush (Factory New)",
+      "price": {
+        "min": 93.34,
+        "max": 700.16,
+        "mean": 289.47,
+        "median": 291.73,
+        "suggested": 134.07,
+        "quantity": 67,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP9 | Latte Rush (Minimal Wear)",
+      "price": {
+        "min": 41.83,
+        "max": 350.93,
+        "mean": 116.26,
+        "median": 86.73,
+        "suggested": 74.39,
+        "quantity": 59,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP9 | Latte Rush (Field-Tested)",
+      "price": {
+        "min": 15.73,
+        "max": 257.72,
+        "mean": 48.59,
+        "median": 40.97,
+        "suggested": 25.06,
+        "quantity": 104,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP9 | Latte Rush (Well-Worn)",
+      "price": {
+        "min": 10.9,
+        "max": 58.35,
+        "mean": 24.9,
+        "median": 18.05,
+        "suggested": 16.81,
+        "quantity": 36,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP9 | Latte Rush (Battle-Scarred)",
+      "price": {
+        "min": 12.99,
+        "max": 40.84,
+        "mean": 18.08,
+        "median": 15.77,
+        "suggested": 15.92,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP9 | Latte Rush (Factory New)",
+        "price": {
+          "min": 93.34,
+          "max": 700.16,
+          "mean": 289.47,
+          "median": 291.73,
+          "suggested": 134.07,
+          "quantity": 67,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP9 | Latte Rush (Minimal Wear)",
+        "price": {
+          "min": 41.83,
+          "max": 350.93,
+          "mean": 116.26,
+          "median": 86.73,
+          "suggested": 74.39,
+          "quantity": 59,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP9 | Latte Rush (Field-Tested)",
+        "price": {
+          "min": 15.73,
+          "max": 257.72,
+          "mean": 48.59,
+          "median": 40.97,
+          "suggested": 25.06,
+          "quantity": 104,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP9 | Latte Rush (Well-Worn)",
+        "price": {
+          "min": 10.9,
+          "max": 58.35,
+          "mean": 24.9,
+          "median": 18.05,
+          "suggested": 16.81,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP9 | Latte Rush (Battle-Scarred)",
+        "price": {
+          "min": 12.99,
+          "max": 40.84,
+          "mean": 18.08,
+          "median": 15.77,
+          "suggested": 15.92,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP9 | Latte Rush (Factory New)",
+        "price": {
+          "min": 250.2,
+          "max": 350.07,
+          "mean": 300.14,
+          "median": 300.14,
+          "suggested": 233.05,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP9 | Latte Rush (Minimal Wear)",
+        "price": {
+          "min": 70.02,
+          "max": 247.95,
+          "mean": 115.04,
+          "median": 107.45,
+          "suggested": 81.44,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP9 | Latte Rush (Field-Tested)",
+        "price": {
+          "min": 39.22,
+          "max": 55.1,
+          "mean": 46.44,
+          "median": 40.53,
+          "suggested": 32.14,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP9 | Latte Rush (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP9 | Latte Rush (Battle-Scarred)",
+        "price": {
+          "min": 22.94,
+          "max": 36.64,
+          "mean": 29.79,
+          "median": 29.79,
+          "suggested": 17.19,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:43.685Z"
+}

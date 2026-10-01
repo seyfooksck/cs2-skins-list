@@ -1,0 +1,129 @@
+{
+  "id": "skin-16044409b9f9",
+  "name": "MP7 | Anodized Navy",
+  "paint_index": "28",
+  "weapon": {
+    "id": "weapon_mp7",
+    "weapon_id": 33,
+    "name": "MP7",
+    "slug": "mp7"
+  },
+  "pattern": {
+    "id": "an_navy",
+    "name": "Anodized Navy"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been painted with a chrome base coat and candied in transparent navy blue anodized effect paint.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.87,
+      "max": 407.1,
+      "mean": 14.94,
+      "median": 5.11,
+      "suggested": 2.48,
+      "quantity": 567,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.93,
+      "max": 54.27,
+      "mean": 7.85,
+      "median": 4.84,
+      "suggested": 2.42,
+      "quantity": 74,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP7 | Anodized Navy (Factory New)",
+      "price": {
+        "min": 1.87,
+        "max": 407.1,
+        "mean": 14.94,
+        "median": 5.11,
+        "suggested": 2.48,
+        "quantity": 567,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP7 | Anodized Navy (Minimal Wear)",
+      "price": {
+        "min": 1.93,
+        "max": 54.27,
+        "mean": 7.85,
+        "median": 4.84,
+        "suggested": 2.42,
+        "quantity": 74,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP7 | Anodized Navy (Factory New)",
+        "price": {
+          "min": 1.87,
+          "max": 407.1,
+          "mean": 14.94,
+          "median": 5.11,
+          "suggested": 2.48,
+          "quantity": 567,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP7 | Anodized Navy (Minimal Wear)",
+        "price": {
+          "min": 1.93,
+          "max": 54.27,
+          "mean": 7.85,
+          "median": 4.84,
+          "suggested": 2.42,
+          "quantity": 74,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP7 | Anodized Navy (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP7 | Anodized Navy (Minimal Wear)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.981Z"
+}

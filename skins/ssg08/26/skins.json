@@ -1,0 +1,225 @@
+{
+  "id": "skin-6f8aad60b1d5",
+  "name": "SSG 08 | Lichen Dashed",
+  "paint_index": "26",
+  "weapon": {
+    "id": "weapon_ssg08",
+    "weapon_id": 40,
+    "name": "SSG 08",
+    "slug": "ssg08"
+  },
+  "pattern": {
+    "id": "sp_short_tape",
+    "name": "Lichen Dashed"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship. It has been spray-painted using short pieces of tape as stencils.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 70.02,
+      "max": 70.02,
+      "mean": 70.02,
+      "median": 70.02,
+      "suggested": 63.33,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 8.68,
+      "max": 116.69,
+      "mean": 25.45,
+      "median": 15.12,
+      "suggested": 8.84,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 3.13,
+      "max": 20.99,
+      "mean": 9.37,
+      "median": 9.32,
+      "suggested": 4.5,
+      "quantity": 19,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 19.52,
+      "max": 80.52,
+      "mean": 43.38,
+      "median": 43.17,
+      "suggested": 2.33,
+      "quantity": 8,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SSG 08 | Lichen Dashed (Factory New)",
+      "price": {
+        "min": 70.02,
+        "max": 70.02,
+        "mean": 70.02,
+        "median": 70.02,
+        "suggested": 63.33,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SSG 08 | Lichen Dashed (Minimal Wear)",
+      "price": {
+        "min": 8.68,
+        "max": 116.69,
+        "mean": 25.45,
+        "median": 15.12,
+        "suggested": 8.84,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "SSG 08 | Lichen Dashed (Field-Tested)",
+      "price": {
+        "min": 3.13,
+        "max": 20.99,
+        "mean": 9.37,
+        "median": 9.32,
+        "suggested": 4.5,
+        "quantity": 19,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "SSG 08 | Lichen Dashed (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "SSG 08 | Lichen Dashed (Battle-Scarred)",
+      "price": {
+        "min": 19.52,
+        "max": 80.52,
+        "mean": 43.38,
+        "median": 43.17,
+        "suggested": 2.33,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SSG 08 | Lichen Dashed (Factory New)",
+        "price": {
+          "min": 70.02,
+          "max": 70.02,
+          "mean": 70.02,
+          "median": 70.02,
+          "suggested": 63.33,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "SSG 08 | Lichen Dashed (Minimal Wear)",
+        "price": {
+          "min": 8.68,
+          "max": 116.69,
+          "mean": 25.45,
+          "median": 15.12,
+          "suggested": 8.84,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "SSG 08 | Lichen Dashed (Field-Tested)",
+        "price": {
+          "min": 3.13,
+          "max": 20.99,
+          "mean": 9.37,
+          "median": 9.32,
+          "suggested": 4.5,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "SSG 08 | Lichen Dashed (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "SSG 08 | Lichen Dashed (Battle-Scarred)",
+        "price": {
+          "min": 19.52,
+          "max": 80.52,
+          "mean": 43.38,
+          "median": 43.17,
+          "suggested": 2.33,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SSG 08 | Lichen Dashed (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir SSG 08 | Lichen Dashed (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir SSG 08 | Lichen Dashed (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir SSG 08 | Lichen Dashed (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir SSG 08 | Lichen Dashed (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:48.798Z"
+}

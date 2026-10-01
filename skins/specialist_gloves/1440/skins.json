@@ -1,0 +1,228 @@
+{
+  "id": "skin-1f8f2cadf55b",
+  "name": "★ Specialist Gloves | Cloud Chaser",
+  "paint_index": "1440",
+  "weapon": {
+    "id": "specialist_gloves",
+    "weapon_id": 5034,
+    "name": "Specialist Gloves",
+    "slug": "specialist_gloves"
+  },
+  "pattern": {
+    "id": "glove_specialist_dragon_blue",
+    "name": "Cloud Chaser"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_gloves",
+    "name": "Gloves"
+  },
+  "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Durable, breathable, and stylish; these gloves are designed to take (and give) a beating.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2251.15,
+      "max": 2251.15,
+      "mean": 2251.15,
+      "median": 2251.15,
+      "suggested": 2475.87,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1050.23,
+      "max": 1082.04,
+      "mean": 1069.86,
+      "median": 1073.57,
+      "suggested": 1006.93,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 501.05,
+      "max": 1024.14,
+      "mean": 650.52,
+      "median": 599.22,
+      "suggested": 554.39,
+      "quantity": 29,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 479.14,
+      "max": 614.49,
+      "mean": 529.19,
+      "median": 514.14,
+      "suggested": 506.25,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 379.24,
+      "max": 583.47,
+      "mean": 426.25,
+      "median": 407.42,
+      "suggested": 441.9,
+      "quantity": 7,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Specialist Gloves | Cloud Chaser (Factory New)",
+      "price": {
+        "min": 2251.15,
+        "max": 2251.15,
+        "mean": 2251.15,
+        "median": 2251.15,
+        "suggested": 2475.87,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Specialist Gloves | Cloud Chaser (Minimal Wear)",
+      "price": {
+        "min": 1050.23,
+        "max": 1082.04,
+        "mean": 1069.86,
+        "median": 1073.57,
+        "suggested": 1006.93,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Specialist Gloves | Cloud Chaser (Field-Tested)",
+      "price": {
+        "min": 501.05,
+        "max": 1024.14,
+        "mean": 650.52,
+        "median": 599.22,
+        "suggested": 554.39,
+        "quantity": 29,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Specialist Gloves | Cloud Chaser (Well-Worn)",
+      "price": {
+        "min": 479.14,
+        "max": 614.49,
+        "mean": 529.19,
+        "median": 514.14,
+        "suggested": 506.25,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Specialist Gloves | Cloud Chaser (Battle-Scarred)",
+      "price": {
+        "min": 379.24,
+        "max": 583.47,
+        "mean": 426.25,
+        "median": 407.42,
+        "suggested": 441.9,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Specialist Gloves | Cloud Chaser (Factory New)",
+        "price": {
+          "min": 2251.15,
+          "max": 2251.15,
+          "mean": 2251.15,
+          "median": 2251.15,
+          "suggested": 2475.87,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Specialist Gloves | Cloud Chaser (Minimal Wear)",
+        "price": {
+          "min": 1050.23,
+          "max": 1082.04,
+          "mean": 1069.86,
+          "median": 1073.57,
+          "suggested": 1006.93,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Specialist Gloves | Cloud Chaser (Field-Tested)",
+        "price": {
+          "min": 501.05,
+          "max": 1024.14,
+          "mean": 650.52,
+          "median": 599.22,
+          "suggested": 554.39,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Specialist Gloves | Cloud Chaser (Well-Worn)",
+        "price": {
+          "min": 479.14,
+          "max": 614.49,
+          "mean": 529.19,
+          "median": 514.14,
+          "suggested": 506.25,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Specialist Gloves | Cloud Chaser (Battle-Scarred)",
+        "price": {
+          "min": 379.24,
+          "max": 583.47,
+          "mean": 426.25,
+          "median": 407.42,
+          "suggested": 441.9,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:23.605Z"
+}

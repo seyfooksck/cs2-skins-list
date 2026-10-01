@@ -1,0 +1,113 @@
+{
+  "id": "skin-8b02c7193eec",
+  "name": "★ Bayonet | Rust Coat",
+  "paint_index": "414",
+  "weapon": {
+    "id": "weapon_bayonet",
+    "weapon_id": 500,
+    "name": "Bayonet",
+    "slug": "bayonet"
+  },
+  "pattern": {
+    "id": "aq_steel_knife",
+    "name": "Rust Coat"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.4,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Relatively unchanged in its design since World War II, the bayonet still retains a place in modern military strategy. Bayonet charges have continued to be effective as recently as the second Gulf War and the war in Afghanistan. This memento from Siege is still perfectly operational although the exterior surfaces have rusted.\\n\\n<i>Scars build character</i>",
+  "images": {
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "ww": null,
+    "bs": {
+      "min": 143.42,
+      "max": 435.26,
+      "mean": 195.14,
+      "median": 152.76,
+      "suggested": 176.16,
+      "quantity": 19,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Bayonet | Rust Coat (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Bayonet | Rust Coat (Battle-Scarred)",
+      "price": {
+        "min": 143.42,
+        "max": 435.26,
+        "mean": 195.14,
+        "median": 152.76,
+        "suggested": 176.16,
+        "quantity": 19,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "ww": {
+        "market_hash_name": "★ Bayonet | Rust Coat (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ Bayonet | Rust Coat (Battle-Scarred)",
+        "price": {
+          "min": 143.42,
+          "max": 435.26,
+          "mean": 195.14,
+          "median": 152.76,
+          "suggested": 176.16,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Rust Coat (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Rust Coat (Battle-Scarred)",
+        "price": {
+          "min": 159.73,
+          "max": 159.73,
+          "mean": 159.73,
+          "median": 159.73,
+          "suggested": 191.82,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:26.705Z"
+}

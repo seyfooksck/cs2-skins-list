@@ -1,0 +1,310 @@
+{
+  "id": "skin-8d0a500e57c0",
+  "name": "SSG 08 | Big Iron",
+  "paint_index": "503",
+  "weapon": {
+    "id": "weapon_ssg08",
+    "weapon_id": 40,
+    "name": "SSG 08",
+    "slug": "ssg08"
+  },
+  "pattern": {
+    "id": "cu_ssg08_technicality",
+    "name": "Big Iron"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.64,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship. It has been custom painted with a yellow and orange hydrographic then slightly distressed.\\n\\n<i>A win with an asterisk is still a win - Rona Sabri, Rising Star</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 60.14,
+      "max": 1481.43,
+      "mean": 143.59,
+      "median": 71.81,
+      "suggested": 57.23,
+      "quantity": 20,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 22.02,
+      "max": 662.24,
+      "mean": 100.3,
+      "median": 31.46,
+      "suggested": 19.14,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 9.21,
+      "max": 274.93,
+      "mean": 28.3,
+      "median": 11.62,
+      "suggested": 10.95,
+      "quantity": 17,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 8.83,
+      "max": 572.38,
+      "mean": 91.23,
+      "median": 11.59,
+      "suggested": 10.33,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 8.78,
+      "max": 15.16,
+      "mean": 10.91,
+      "median": 10.34,
+      "suggested": 10.25,
+      "quantity": 8,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SSG 08 | Big Iron (Factory New)",
+      "price": {
+        "min": 60.14,
+        "max": 1481.43,
+        "mean": 143.59,
+        "median": 71.81,
+        "suggested": 57.23,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SSG 08 | Big Iron (Minimal Wear)",
+      "price": {
+        "min": 22.02,
+        "max": 662.24,
+        "mean": 100.3,
+        "median": 31.46,
+        "suggested": 19.14,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "SSG 08 | Big Iron (Field-Tested)",
+      "price": {
+        "min": 9.21,
+        "max": 274.93,
+        "mean": 28.3,
+        "median": 11.62,
+        "suggested": 10.95,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "SSG 08 | Big Iron (Well-Worn)",
+      "price": {
+        "min": 8.83,
+        "max": 572.38,
+        "mean": 91.23,
+        "median": 11.59,
+        "suggested": 10.33,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "SSG 08 | Big Iron (Battle-Scarred)",
+      "price": {
+        "min": 8.78,
+        "max": 15.16,
+        "mean": 10.91,
+        "median": 10.34,
+        "suggested": 10.25,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SSG 08 | Big Iron (Factory New)",
+        "price": {
+          "min": 60.14,
+          "max": 1481.43,
+          "mean": 143.59,
+          "median": 71.81,
+          "suggested": 57.23,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "SSG 08 | Big Iron (Minimal Wear)",
+        "price": {
+          "min": 22.02,
+          "max": 662.24,
+          "mean": 100.3,
+          "median": 31.46,
+          "suggested": 19.14,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "SSG 08 | Big Iron (Field-Tested)",
+        "price": {
+          "min": 9.21,
+          "max": 274.93,
+          "mean": 28.3,
+          "median": 11.62,
+          "suggested": 10.95,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "SSG 08 | Big Iron (Well-Worn)",
+        "price": {
+          "min": 8.83,
+          "max": 572.38,
+          "mean": 91.23,
+          "median": 11.59,
+          "suggested": 10.33,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "SSG 08 | Big Iron (Battle-Scarred)",
+        "price": {
+          "min": 8.78,
+          "max": 15.16,
+          "mean": 10.91,
+          "median": 10.34,
+          "suggested": 10.25,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ SSG 08 | Big Iron (Factory New)",
+        "price": {
+          "min": 64.54,
+          "max": 87.21,
+          "mean": 76.7,
+          "median": 74.73,
+          "suggested": 73.67,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ SSG 08 | Big Iron (Minimal Wear)",
+        "price": {
+          "min": 38.57,
+          "max": 77.02,
+          "mean": 48.72,
+          "median": 43.47,
+          "suggested": 48.66,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ SSG 08 | Big Iron (Field-Tested)",
+        "price": {
+          "min": 23.89,
+          "max": 28.94,
+          "mean": 25.67,
+          "median": 25.45,
+          "suggested": 27.85,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ SSG 08 | Big Iron (Well-Worn)",
+        "price": {
+          "min": 35.3,
+          "max": 35.3,
+          "mean": 35.3,
+          "median": 35.3,
+          "suggested": 27.48,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ SSG 08 | Big Iron (Battle-Scarred)",
+        "price": {
+          "min": 26.38,
+          "max": 29.07,
+          "mean": 27.73,
+          "median": 27.73,
+          "suggested": 29.37,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SSG 08 | Big Iron (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir SSG 08 | Big Iron (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir SSG 08 | Big Iron (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir SSG 08 | Big Iron (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir SSG 08 | Big Iron (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:48.503Z"
+}

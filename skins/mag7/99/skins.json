@@ -1,0 +1,265 @@
+{
+  "id": "skin-02ab67711447",
+  "name": "MAG-7 | Sand Dune",
+  "paint_index": "99",
+  "weapon": {
+    "id": "weapon_mag7",
+    "weapon_id": 27,
+    "name": "MAG-7",
+    "slug": "mag7"
+  },
+  "pattern": {
+    "id": "so_sand",
+    "name": "Sand Dune"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The CT-exclusive Mag-7 delivers a devastating amount of damage at close range. Its rapid magazine-style reloads make it a great tactical choice. It has individual parts spray-painted solid colors in a sand dune color scheme.\\n\\n<i>With Turner dead, we have a new priority: rescue Alex Kincaide - Felix Riley, Commanding Officer</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 50.44,
+      "max": 116.68,
+      "mean": 83.56,
+      "median": 83.56,
+      "suggested": 50.99,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 7.14,
+      "max": 35,
+      "mean": 23.56,
+      "median": 35,
+      "suggested": 4.98,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.26,
+      "max": 21.28,
+      "mean": 7.53,
+      "median": 9.32,
+      "suggested": 2.31,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 1.59,
+      "max": 31.97,
+      "mean": 7.33,
+      "median": 2.61,
+      "suggested": 1.8,
+      "quantity": 8,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAG-7 | Sand Dune (Factory New)",
+      "price": {
+        "min": 50.44,
+        "max": 116.68,
+        "mean": 83.56,
+        "median": 83.56,
+        "suggested": 50.99,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAG-7 | Sand Dune (Minimal Wear)",
+      "price": {
+        "min": 7.14,
+        "max": 35,
+        "mean": 23.56,
+        "median": 35,
+        "suggested": 4.98,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAG-7 | Sand Dune (Field-Tested)",
+      "price": {
+        "min": 2.26,
+        "max": 21.28,
+        "mean": 7.53,
+        "median": 9.32,
+        "suggested": 2.31,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAG-7 | Sand Dune (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAG-7 | Sand Dune (Battle-Scarred)",
+      "price": {
+        "min": 1.59,
+        "max": 31.97,
+        "mean": 7.33,
+        "median": 2.61,
+        "suggested": 1.8,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAG-7 | Sand Dune (Factory New)",
+        "price": {
+          "min": 50.44,
+          "max": 116.68,
+          "mean": 83.56,
+          "median": 83.56,
+          "suggested": 50.99,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAG-7 | Sand Dune (Minimal Wear)",
+        "price": {
+          "min": 7.14,
+          "max": 35,
+          "mean": 23.56,
+          "median": 35,
+          "suggested": 4.98,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAG-7 | Sand Dune (Field-Tested)",
+        "price": {
+          "min": 2.26,
+          "max": 21.28,
+          "mean": 7.53,
+          "median": 9.32,
+          "suggested": 2.31,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAG-7 | Sand Dune (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "MAG-7 | Sand Dune (Battle-Scarred)",
+        "price": {
+          "min": 1.59,
+          "max": 31.97,
+          "mean": 7.33,
+          "median": 2.61,
+          "suggested": 1.8,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAG-7 | Sand Dune (Factory New)",
+        "price": {
+          "min": 40.97,
+          "max": 53.7,
+          "mean": 49.45,
+          "median": 53.7,
+          "suggested": 23.17,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAG-7 | Sand Dune (Minimal Wear)",
+        "price": {
+          "min": 4.33,
+          "max": 239.11,
+          "mean": 52.22,
+          "median": 79.9,
+          "suggested": 4.2,
+          "quantity": 63,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAG-7 | Sand Dune (Field-Tested)",
+        "price": {
+          "min": 2.11,
+          "max": 256.04,
+          "mean": 11.24,
+          "median": 5.6,
+          "suggested": 1.95,
+          "quantity": 122,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAG-7 | Sand Dune (Well-Worn)",
+        "price": {
+          "min": 2.33,
+          "max": 27.49,
+          "mean": 9.36,
+          "median": 5.37,
+          "suggested": 1.65,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAG-7 | Sand Dune (Battle-Scarred)",
+        "price": {
+          "min": 1.17,
+          "max": 107.57,
+          "mean": 12.05,
+          "median": 2.99,
+          "suggested": 1.66,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.539Z"
+}

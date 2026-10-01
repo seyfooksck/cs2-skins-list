@@ -1,0 +1,273 @@
+{
+  "id": "skin-2148778af5b2",
+  "name": "★ Skeleton Knife | Stained",
+  "paint_index": "43",
+  "weapon": {
+    "id": "weapon_knife_skeleton",
+    "weapon_id": 525,
+    "name": "Skeleton Knife",
+    "slug": "knife_skeleton"
+  },
+  "pattern": {
+    "id": "aq_forced",
+    "name": "Stained"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This skeletonized-tang knife has been taped at the handle for improved grip. The hole allows a finger to be threaded through for stability and safety. It has been given a forced patina using lemon and mustard dripped onto the surface.\\n\\n<i>If you think it's messy now, wait until you see it under a blacklight</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 308.07,
+      "max": 321.14,
+      "mean": 314.61,
+      "median": 314.61,
+      "suggested": 402.87,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 232.22,
+      "max": 523.71,
+      "mean": 288.11,
+      "median": 244.56,
+      "suggested": 285.57,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 199.53,
+      "max": 582.29,
+      "mean": 258.98,
+      "median": 220.94,
+      "suggested": 258.09,
+      "quantity": 17,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 193.69,
+      "max": 216.91,
+      "mean": 206.35,
+      "median": 206.43,
+      "suggested": 237.22,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 192.85,
+      "max": 203.75,
+      "mean": 198.3,
+      "median": 198.3,
+      "suggested": 233.11,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Skeleton Knife | Stained (Factory New)",
+      "price": {
+        "min": 308.07,
+        "max": 321.14,
+        "mean": 314.61,
+        "median": 314.61,
+        "suggested": 402.87,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Skeleton Knife | Stained (Minimal Wear)",
+      "price": {
+        "min": 232.22,
+        "max": 523.71,
+        "mean": 288.11,
+        "median": 244.56,
+        "suggested": 285.57,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Skeleton Knife | Stained (Field-Tested)",
+      "price": {
+        "min": 199.53,
+        "max": 582.29,
+        "mean": 258.98,
+        "median": 220.94,
+        "suggested": 258.09,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Skeleton Knife | Stained (Well-Worn)",
+      "price": {
+        "min": 193.69,
+        "max": 216.91,
+        "mean": 206.35,
+        "median": 206.43,
+        "suggested": 237.22,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Skeleton Knife | Stained (Battle-Scarred)",
+      "price": {
+        "min": 192.85,
+        "max": 203.75,
+        "mean": 198.3,
+        "median": 198.3,
+        "suggested": 233.11,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Skeleton Knife | Stained (Factory New)",
+        "price": {
+          "min": 308.07,
+          "max": 321.14,
+          "mean": 314.61,
+          "median": 314.61,
+          "suggested": 402.87,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Skeleton Knife | Stained (Minimal Wear)",
+        "price": {
+          "min": 232.22,
+          "max": 523.71,
+          "mean": 288.11,
+          "median": 244.56,
+          "suggested": 285.57,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Skeleton Knife | Stained (Field-Tested)",
+        "price": {
+          "min": 199.53,
+          "max": 582.29,
+          "mean": 258.98,
+          "median": 220.94,
+          "suggested": 258.09,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Skeleton Knife | Stained (Well-Worn)",
+        "price": {
+          "min": 193.69,
+          "max": 216.91,
+          "mean": 206.35,
+          "median": 206.43,
+          "suggested": 237.22,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Skeleton Knife | Stained (Battle-Scarred)",
+        "price": {
+          "min": 192.85,
+          "max": 203.75,
+          "mean": 198.3,
+          "median": 198.3,
+          "suggested": 233.11,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Skeleton Knife | Stained (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Skeleton Knife | Stained (Minimal Wear)",
+        "price": {
+          "min": 275.58,
+          "max": 275.58,
+          "mean": 275.58,
+          "median": 275.58,
+          "suggested": 277.12,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Skeleton Knife | Stained (Field-Tested)",
+        "price": {
+          "min": 233.39,
+          "max": 233.39,
+          "mean": 233.39,
+          "median": 233.39,
+          "suggested": 279.7,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Skeleton Knife | Stained (Well-Worn)",
+        "price": {
+          "min": 235.67,
+          "max": 235.67,
+          "mean": 235.67,
+          "median": 235.67,
+          "suggested": 254.62,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Skeleton Knife | Stained (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:37.724Z"
+}

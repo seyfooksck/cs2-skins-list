@@ -1,0 +1,201 @@
+{
+  "id": "skin-c935837938e9",
+  "name": "★ M9 Bayonet | Boreal Forest",
+  "paint_index": "77",
+  "weapon": {
+    "id": "weapon_knife_m9_bayonet",
+    "weapon_id": 508,
+    "name": "M9 Bayonet",
+    "slug": "knife_m9_bayonet"
+  },
+  "pattern": {
+    "id": "hy_forest_boreal",
+    "name": "Boreal Forest"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This is the M-9 bayonet.  Originally intended to be mounted on a rifle, it is also well suited to close-quarters combat. It has been painted using a forest camouflage hydrographic.\\n\\n<i>The woods can be a dangerous place... never travel alone</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 381.27,
+      "max": 404.86,
+      "mean": 389.23,
+      "median": 381.57,
+      "suggested": 405.29,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 329.9,
+      "max": 628.98,
+      "mean": 466.56,
+      "median": 440.8,
+      "suggested": 375.53,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 339.04,
+      "max": 339.04,
+      "mean": 339.04,
+      "median": 339.04,
+      "suggested": 374.37,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ M9 Bayonet | Boreal Forest (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ M9 Bayonet | Boreal Forest (Minimal Wear)",
+      "price": {
+        "min": 381.27,
+        "max": 404.86,
+        "mean": 389.23,
+        "median": 381.57,
+        "suggested": 405.29,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ M9 Bayonet | Boreal Forest (Field-Tested)",
+      "price": {
+        "min": 329.9,
+        "max": 628.98,
+        "mean": 466.56,
+        "median": 440.8,
+        "suggested": 375.53,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ M9 Bayonet | Boreal Forest (Well-Worn)",
+      "price": {
+        "min": 339.04,
+        "max": 339.04,
+        "mean": 339.04,
+        "median": 339.04,
+        "suggested": 374.37,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ M9 Bayonet | Boreal Forest (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ M9 Bayonet | Boreal Forest (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ M9 Bayonet | Boreal Forest (Minimal Wear)",
+        "price": {
+          "min": 381.27,
+          "max": 404.86,
+          "mean": 389.23,
+          "median": 381.57,
+          "suggested": 405.29,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ M9 Bayonet | Boreal Forest (Field-Tested)",
+        "price": {
+          "min": 329.9,
+          "max": 628.98,
+          "mean": 466.56,
+          "median": 440.8,
+          "suggested": 375.53,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ M9 Bayonet | Boreal Forest (Well-Worn)",
+        "price": {
+          "min": 339.04,
+          "max": 339.04,
+          "mean": 339.04,
+          "median": 339.04,
+          "suggested": 374.37,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ M9 Bayonet | Boreal Forest (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Boreal Forest (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Boreal Forest (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Boreal Forest (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Boreal Forest (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Boreal Forest (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:36.704Z"
+}

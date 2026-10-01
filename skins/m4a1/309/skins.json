@@ -1,0 +1,218 @@
+{
+  "id": "skin-8aacf99e7f2f",
+  "name": "M4A4 | Howl",
+  "paint_index": "309",
+  "weapon": {
+    "id": "weapon_m4a1",
+    "weapon_id": 16,
+    "name": "M4A4",
+    "slug": "m4a1"
+  },
+  "pattern": {
+    "id": "cu_m4a1_howling",
+    "name": "Howl"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_contraband_weapon",
+    "name": "Contraband",
+    "color": "#e4ae39"
+  },
+  "min_float": 0,
+  "max_float": 0.4,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with the image of a snarling wolf.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 8289.96,
+      "max": 9451.02,
+      "mean": 8870.5,
+      "median": 8870.5,
+      "suggested": 8453.01,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 5134.51,
+      "max": 7001.62,
+      "mean": 5907.58,
+      "median": 6180.86,
+      "suggested": 6382.05,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 4551.04,
+      "max": 8053.33,
+      "mean": 5621.8,
+      "median": 5245.38,
+      "suggested": 5418.47,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "ww": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A4 | Howl (Factory New)",
+      "price": {
+        "min": 8289.96,
+        "max": 9451.02,
+        "mean": 8870.5,
+        "median": 8870.5,
+        "suggested": 8453.01,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A4 | Howl (Minimal Wear)",
+      "price": {
+        "min": 5134.51,
+        "max": 7001.62,
+        "mean": 5907.58,
+        "median": 6180.86,
+        "suggested": 6382.05,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A4 | Howl (Field-Tested)",
+      "price": {
+        "min": 4551.04,
+        "max": 8053.33,
+        "mean": 5621.8,
+        "median": 5245.38,
+        "suggested": 5418.47,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M4A4 | Howl (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A4 | Howl (Factory New)",
+        "price": {
+          "min": 8289.96,
+          "max": 9451.02,
+          "mean": 8870.5,
+          "median": 8870.5,
+          "suggested": 8453.01,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A4 | Howl (Minimal Wear)",
+        "price": {
+          "min": 5134.51,
+          "max": 7001.62,
+          "mean": 5907.58,
+          "median": 6180.86,
+          "suggested": 6382.05,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A4 | Howl (Field-Tested)",
+        "price": {
+          "min": 4551.04,
+          "max": 8053.33,
+          "mean": 5621.8,
+          "median": 5245.38,
+          "suggested": 5418.47,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M4A4 | Howl (Well-Worn)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ M4A4 | Howl (Factory New)",
+        "price": {
+          "min": 16797.19,
+          "max": 16797.19,
+          "mean": 16797.19,
+          "median": 16797.19,
+          "suggested": 17400.34,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ M4A4 | Howl (Minimal Wear)",
+        "price": {
+          "min": 9802.27,
+          "max": 9802.27,
+          "mean": 9802.27,
+          "median": 9802.27,
+          "suggested": 12116.98,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ M4A4 | Howl (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ M4A4 | Howl (Well-Worn)",
+        "price": null
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A4 | Howl (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A4 | Howl (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A4 | Howl (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M4A4 | Howl (Well-Worn)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:40.141Z"
+}

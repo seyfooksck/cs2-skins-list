@@ -1,0 +1,246 @@
+{
+  "id": "skin-f5dbec4db0bf",
+  "name": "Sawed-Off | Orange DDPAT",
+  "paint_index": "83",
+  "weapon": {
+    "id": "weapon_sawedoff",
+    "weapon_id": 29,
+    "name": "Sawed-Off",
+    "slug": "sawedoff"
+  },
+  "pattern": {
+    "id": "hy_ddpat_orange",
+    "name": "Orange DDPAT"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit. It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.\\n\\n<i>By the time you're close enough to notice the pixels it's already too late</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 131.33,
+      "max": 131.33,
+      "mean": 131.33,
+      "median": 131.33,
+      "suggested": 41.85,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 59.9,
+      "max": 59.9,
+      "mean": 59.9,
+      "median": 59.9,
+      "suggested": 27.12,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 18.34,
+      "max": 28.86,
+      "mean": 21.02,
+      "median": 19.76,
+      "suggested": 20.17,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Sawed-Off | Orange DDPAT (Factory New)",
+      "price": {
+        "min": 131.33,
+        "max": 131.33,
+        "mean": 131.33,
+        "median": 131.33,
+        "suggested": 41.85,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Sawed-Off | Orange DDPAT (Minimal Wear)",
+      "price": {
+        "min": 59.9,
+        "max": 59.9,
+        "mean": 59.9,
+        "median": 59.9,
+        "suggested": 27.12,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Sawed-Off | Orange DDPAT (Field-Tested)",
+      "price": {
+        "min": 18.34,
+        "max": 28.86,
+        "mean": 21.02,
+        "median": 19.76,
+        "suggested": 20.17,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Sawed-Off | Orange DDPAT (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Sawed-Off | Orange DDPAT (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Sawed-Off | Orange DDPAT (Factory New)",
+        "price": {
+          "min": 131.33,
+          "max": 131.33,
+          "mean": 131.33,
+          "median": 131.33,
+          "suggested": 41.85,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Sawed-Off | Orange DDPAT (Minimal Wear)",
+        "price": {
+          "min": 59.9,
+          "max": 59.9,
+          "mean": 59.9,
+          "median": 59.9,
+          "suggested": 27.12,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Sawed-Off | Orange DDPAT (Field-Tested)",
+        "price": {
+          "min": 18.34,
+          "max": 28.86,
+          "mean": 21.02,
+          "median": 19.76,
+          "suggested": 20.17,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Sawed-Off | Orange DDPAT (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Sawed-Off | Orange DDPAT (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Orange DDPAT (Factory New)",
+        "price": {
+          "min": 665.15,
+          "max": 665.15,
+          "mean": 665.15,
+          "median": 665.15,
+          "suggested": 476.07,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Orange DDPAT (Minimal Wear)",
+        "price": {
+          "min": 37.46,
+          "max": 37.46,
+          "mean": 37.46,
+          "median": 37.46,
+          "suggested": 42.34,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Orange DDPAT (Field-Tested)",
+        "price": {
+          "min": 28.47,
+          "max": 34.41,
+          "mean": 31.45,
+          "median": 31.45,
+          "suggested": 23.12,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Orange DDPAT (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Orange DDPAT (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Sawed-Off | Orange DDPAT (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Sawed-Off | Orange DDPAT (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Sawed-Off | Orange DDPAT (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Sawed-Off | Orange DDPAT (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Sawed-Off | Orange DDPAT (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:47.222Z"
+}

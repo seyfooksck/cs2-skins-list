@@ -1,0 +1,137 @@
+{
+  "id": "skin-8416be60f992",
+  "name": "★ Stiletto Knife | Fade",
+  "paint_index": "38",
+  "weapon": {
+    "id": "weapon_knife_stiletto",
+    "weapon_id": 522,
+    "name": "Stiletto Knife",
+    "slug": "knife_stiletto"
+  },
+  "pattern": {
+    "id": "aa_fade",
+    "name": "Fade"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Historically a focal point of contention and even regulation, this Italian-style stiletto switchblade knife features a spring-loaded blade that can be deployed almost instantly with the push of a release catch. It has been painted by airbrushing transparent paints that fade together over a chrome base coat.\\n\\n<i>This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 449.26,
+      "max": 1166.94,
+      "mean": 638.58,
+      "median": 481.92,
+      "suggested": 513.87,
+      "quantity": 18,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 904.38,
+      "max": 904.38,
+      "mean": 904.38,
+      "median": 904.38,
+      "suggested": 529.75,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Stiletto Knife | Fade (Factory New)",
+      "price": {
+        "min": 449.26,
+        "max": 1166.94,
+        "mean": 638.58,
+        "median": 481.92,
+        "suggested": 513.87,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Stiletto Knife | Fade (Minimal Wear)",
+      "price": {
+        "min": 904.38,
+        "max": 904.38,
+        "mean": 904.38,
+        "median": 904.38,
+        "suggested": 529.75,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Stiletto Knife | Fade (Factory New)",
+        "price": {
+          "min": 449.26,
+          "max": 1166.94,
+          "mean": 638.58,
+          "median": 481.92,
+          "suggested": 513.87,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Stiletto Knife | Fade (Minimal Wear)",
+        "price": {
+          "min": 904.38,
+          "max": 904.38,
+          "mean": 904.38,
+          "median": 904.38,
+          "suggested": 529.75,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Stiletto Knife | Fade (Factory New)",
+        "price": {
+          "min": 419.9,
+          "max": 1166.94,
+          "mean": 631.21,
+          "median": 568.24,
+          "suggested": 524.95,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Stiletto Knife | Fade (Minimal Wear)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:37.859Z"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "skin-c8ccc993ef98",
+  "name": "MAG-7 | Foresight",
+  "paint_index": "1132",
+  "weapon": {
+    "id": "weapon_mag7",
+    "weapon_id": 27,
+    "name": "MAG-7",
+    "slug": "mag7"
+  },
+  "pattern": {
+    "id": "cu_mag7_predictor",
+    "name": "Foresight"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The CT-exclusive Mag-7 delivers a devastating amount of damage at close range. Its rapid magazine-style reloads make it a great tactical choice. This custom paint job features an octopus, asked to predict the outcome of a match, reaching for the \\\"win\\\" tablet.\\n\\n<i>I've got a good feeling about this...</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.39,
+      "max": 29.16,
+      "mean": 1.16,
+      "median": 0.61,
+      "suggested": 0.54,
+      "quantity": 310,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.14,
+      "max": 11.65,
+      "mean": 0.35,
+      "median": 0.22,
+      "suggested": 0.18,
+      "quantity": 738,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.07,
+      "max": 4.8,
+      "mean": 0.18,
+      "median": 0.11,
+      "suggested": 0.1,
+      "quantity": 2003,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.07,
+      "max": 0.2,
+      "mean": 0.11,
+      "median": 0.09,
+      "suggested": 0.09,
+      "quantity": 73,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.07,
+      "max": 3.59,
+      "mean": 0.13,
+      "median": 0.09,
+      "suggested": 0.09,
+      "quantity": 327,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAG-7 | Foresight (Factory New)",
+      "price": {
+        "min": 0.39,
+        "max": 29.16,
+        "mean": 1.16,
+        "median": 0.61,
+        "suggested": 0.54,
+        "quantity": 310,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAG-7 | Foresight (Minimal Wear)",
+      "price": {
+        "min": 0.14,
+        "max": 11.65,
+        "mean": 0.35,
+        "median": 0.22,
+        "suggested": 0.18,
+        "quantity": 738,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAG-7 | Foresight (Field-Tested)",
+      "price": {
+        "min": 0.07,
+        "max": 4.8,
+        "mean": 0.18,
+        "median": 0.11,
+        "suggested": 0.1,
+        "quantity": 2003,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAG-7 | Foresight (Well-Worn)",
+      "price": {
+        "min": 0.07,
+        "max": 0.2,
+        "mean": 0.11,
+        "median": 0.09,
+        "suggested": 0.09,
+        "quantity": 73,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAG-7 | Foresight (Battle-Scarred)",
+      "price": {
+        "min": 0.07,
+        "max": 3.59,
+        "mean": 0.13,
+        "median": 0.09,
+        "suggested": 0.09,
+        "quantity": 327,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAG-7 | Foresight (Factory New)",
+        "price": {
+          "min": 0.39,
+          "max": 29.16,
+          "mean": 1.16,
+          "median": 0.61,
+          "suggested": 0.54,
+          "quantity": 310,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAG-7 | Foresight (Minimal Wear)",
+        "price": {
+          "min": 0.14,
+          "max": 11.65,
+          "mean": 0.35,
+          "median": 0.22,
+          "suggested": 0.18,
+          "quantity": 738,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAG-7 | Foresight (Field-Tested)",
+        "price": {
+          "min": 0.07,
+          "max": 4.8,
+          "mean": 0.18,
+          "median": 0.11,
+          "suggested": 0.1,
+          "quantity": 2003,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAG-7 | Foresight (Well-Worn)",
+        "price": {
+          "min": 0.07,
+          "max": 0.2,
+          "mean": 0.11,
+          "median": 0.09,
+          "suggested": 0.09,
+          "quantity": 73,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MAG-7 | Foresight (Battle-Scarred)",
+        "price": {
+          "min": 0.07,
+          "max": 3.59,
+          "mean": 0.13,
+          "median": 0.09,
+          "suggested": 0.09,
+          "quantity": 327,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MAG-7 | Foresight (Factory New)",
+        "price": {
+          "min": 0.39,
+          "max": 35.59,
+          "mean": 2.6,
+          "median": 1.04,
+          "suggested": 0.48,
+          "quantity": 53,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MAG-7 | Foresight (Minimal Wear)",
+        "price": {
+          "min": 0.15,
+          "max": 9.62,
+          "mean": 0.48,
+          "median": 0.22,
+          "suggested": 0.2,
+          "quantity": 196,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MAG-7 | Foresight (Field-Tested)",
+        "price": {
+          "min": 0.08,
+          "max": 4.68,
+          "mean": 0.25,
+          "median": 0.13,
+          "suggested": 0.1,
+          "quantity": 447,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MAG-7 | Foresight (Well-Worn)",
+        "price": {
+          "min": 0.07,
+          "max": 1.25,
+          "mean": 0.18,
+          "median": 0.13,
+          "suggested": 0.1,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MAG-7 | Foresight (Battle-Scarred)",
+        "price": {
+          "min": 0.09,
+          "max": 7.94,
+          "mean": 0.3,
+          "median": 0.15,
+          "suggested": 0.12,
+          "quantity": 56,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAG-7 | Foresight (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAG-7 | Foresight (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAG-7 | Foresight (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAG-7 | Foresight (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAG-7 | Foresight (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.321Z"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "skin-05d5c801f287",
+  "name": "SCAR-20 | Fragments",
+  "paint_index": "1226",
+  "weapon": {
+    "id": "weapon_scar20",
+    "weapon_id": 38,
+    "name": "SCAR-20",
+    "slug": "scar20"
+  },
+  "pattern": {
+    "id": "gs_scar_fragments_black",
+    "name": "Fragments"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.78,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The SCAR-20 is a semi-automatic sniper rifle that trades a high rate of fire and powerful long-distance damage for sluggish movement speed and big price tag. The gunmetal-colored custom paint job creates the illusion that the weapon's geometry has changed.\\n\\n<i>Fragment of your imagination</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.46,
+      "max": 12.35,
+      "mean": 1.1,
+      "median": 0.71,
+      "suggested": 0.65,
+      "quantity": 130,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.14,
+      "max": 11.09,
+      "mean": 0.28,
+      "median": 0.21,
+      "suggested": 0.2,
+      "quantity": 417,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.07,
+      "max": 5.64,
+      "mean": 0.16,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 1302,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.07,
+      "max": 2.5,
+      "mean": 0.15,
+      "median": 0.09,
+      "suggested": 0.09,
+      "quantity": 71,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.07,
+      "max": 8.25,
+      "mean": 0.15,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 356,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SCAR-20 | Fragments (Factory New)",
+      "price": {
+        "min": 0.46,
+        "max": 12.35,
+        "mean": 1.1,
+        "median": 0.71,
+        "suggested": 0.65,
+        "quantity": 130,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SCAR-20 | Fragments (Minimal Wear)",
+      "price": {
+        "min": 0.14,
+        "max": 11.09,
+        "mean": 0.28,
+        "median": 0.21,
+        "suggested": 0.2,
+        "quantity": 417,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "SCAR-20 | Fragments (Field-Tested)",
+      "price": {
+        "min": 0.07,
+        "max": 5.64,
+        "mean": 0.16,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 1302,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "SCAR-20 | Fragments (Well-Worn)",
+      "price": {
+        "min": 0.07,
+        "max": 2.5,
+        "mean": 0.15,
+        "median": 0.09,
+        "suggested": 0.09,
+        "quantity": 71,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "SCAR-20 | Fragments (Battle-Scarred)",
+      "price": {
+        "min": 0.07,
+        "max": 8.25,
+        "mean": 0.15,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 356,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SCAR-20 | Fragments (Factory New)",
+        "price": {
+          "min": 0.46,
+          "max": 12.35,
+          "mean": 1.1,
+          "median": 0.71,
+          "suggested": 0.65,
+          "quantity": 130,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "SCAR-20 | Fragments (Minimal Wear)",
+        "price": {
+          "min": 0.14,
+          "max": 11.09,
+          "mean": 0.28,
+          "median": 0.21,
+          "suggested": 0.2,
+          "quantity": 417,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "SCAR-20 | Fragments (Field-Tested)",
+        "price": {
+          "min": 0.07,
+          "max": 5.64,
+          "mean": 0.16,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 1302,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "SCAR-20 | Fragments (Well-Worn)",
+        "price": {
+          "min": 0.07,
+          "max": 2.5,
+          "mean": 0.15,
+          "median": 0.09,
+          "suggested": 0.09,
+          "quantity": 71,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "SCAR-20 | Fragments (Battle-Scarred)",
+        "price": {
+          "min": 0.07,
+          "max": 8.25,
+          "mean": 0.15,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 356,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ SCAR-20 | Fragments (Factory New)",
+        "price": {
+          "min": 0.55,
+          "max": 12.95,
+          "mean": 1.97,
+          "median": 0.82,
+          "suggested": 0.74,
+          "quantity": 39,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ SCAR-20 | Fragments (Minimal Wear)",
+        "price": {
+          "min": 0.16,
+          "max": 12.8,
+          "mean": 0.37,
+          "median": 0.25,
+          "suggested": 0.2,
+          "quantity": 154,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ SCAR-20 | Fragments (Field-Tested)",
+        "price": {
+          "min": 0.08,
+          "max": 5.19,
+          "mean": 0.25,
+          "median": 0.13,
+          "suggested": 0.1,
+          "quantity": 254,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ SCAR-20 | Fragments (Well-Worn)",
+        "price": {
+          "min": 0.09,
+          "max": 0.81,
+          "mean": 0.15,
+          "median": 0.11,
+          "suggested": 0.1,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ SCAR-20 | Fragments (Battle-Scarred)",
+        "price": {
+          "min": 0.08,
+          "max": 3.31,
+          "mean": 0.14,
+          "median": 0.11,
+          "suggested": 0.1,
+          "quantity": 102,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SCAR-20 | Fragments (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir SCAR-20 | Fragments (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir SCAR-20 | Fragments (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir SCAR-20 | Fragments (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir SCAR-20 | Fragments (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:47.550Z"
+}

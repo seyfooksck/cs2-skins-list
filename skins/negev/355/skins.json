@@ -1,0 +1,310 @@
+{
+  "id": "skin-a3cdd0b6440e",
+  "name": "Negev | Desert-Strike",
+  "paint_index": "355",
+  "weapon": {
+    "id": "weapon_negev",
+    "weapon_id": 28,
+    "name": "Negev",
+    "slug": "negev"
+  },
+  "pattern": {
+    "id": "cu_negev_titanstorm",
+    "name": "Desert-Strike"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been custom painted with a high-tech design in tan and black.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.9,
+      "max": 12.16,
+      "mean": 2.39,
+      "median": 1.96,
+      "suggested": 1.25,
+      "quantity": 119,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.42,
+      "max": 2.42,
+      "mean": 0.64,
+      "median": 0.54,
+      "suggested": 0.52,
+      "quantity": 19,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.36,
+      "max": 4.61,
+      "mean": 0.96,
+      "median": 0.53,
+      "suggested": 0.48,
+      "quantity": 39,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.42,
+      "max": 0.46,
+      "mean": 0.44,
+      "median": 0.44,
+      "suggested": 0.5,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.5,
+      "max": 5.51,
+      "mean": 1.1,
+      "median": 0.72,
+      "suggested": 0.48,
+      "quantity": 12,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Negev | Desert-Strike (Factory New)",
+      "price": {
+        "min": 0.9,
+        "max": 12.16,
+        "mean": 2.39,
+        "median": 1.96,
+        "suggested": 1.25,
+        "quantity": 119,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Negev | Desert-Strike (Minimal Wear)",
+      "price": {
+        "min": 0.42,
+        "max": 2.42,
+        "mean": 0.64,
+        "median": 0.54,
+        "suggested": 0.52,
+        "quantity": 19,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Negev | Desert-Strike (Field-Tested)",
+      "price": {
+        "min": 0.36,
+        "max": 4.61,
+        "mean": 0.96,
+        "median": 0.53,
+        "suggested": 0.48,
+        "quantity": 39,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Negev | Desert-Strike (Well-Worn)",
+      "price": {
+        "min": 0.42,
+        "max": 0.46,
+        "mean": 0.44,
+        "median": 0.44,
+        "suggested": 0.5,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Negev | Desert-Strike (Battle-Scarred)",
+      "price": {
+        "min": 0.5,
+        "max": 5.51,
+        "mean": 1.1,
+        "median": 0.72,
+        "suggested": 0.48,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Negev | Desert-Strike (Factory New)",
+        "price": {
+          "min": 0.9,
+          "max": 12.16,
+          "mean": 2.39,
+          "median": 1.96,
+          "suggested": 1.25,
+          "quantity": 119,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Negev | Desert-Strike (Minimal Wear)",
+        "price": {
+          "min": 0.42,
+          "max": 2.42,
+          "mean": 0.64,
+          "median": 0.54,
+          "suggested": 0.52,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Negev | Desert-Strike (Field-Tested)",
+        "price": {
+          "min": 0.36,
+          "max": 4.61,
+          "mean": 0.96,
+          "median": 0.53,
+          "suggested": 0.48,
+          "quantity": 39,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Negev | Desert-Strike (Well-Worn)",
+        "price": {
+          "min": 0.42,
+          "max": 0.46,
+          "mean": 0.44,
+          "median": 0.44,
+          "suggested": 0.5,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Negev | Desert-Strike (Battle-Scarred)",
+        "price": {
+          "min": 0.5,
+          "max": 5.51,
+          "mean": 1.1,
+          "median": 0.72,
+          "suggested": 0.48,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Negev | Desert-Strike (Factory New)",
+        "price": {
+          "min": 0.79,
+          "max": 44.34,
+          "mean": 4.34,
+          "median": 0.99,
+          "suggested": 1.11,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Negev | Desert-Strike (Minimal Wear)",
+        "price": {
+          "min": 0.51,
+          "max": 2.33,
+          "mean": 0.91,
+          "median": 0.92,
+          "suggested": 0.65,
+          "quantity": 58,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Negev | Desert-Strike (Field-Tested)",
+        "price": {
+          "min": 0.33,
+          "max": 9.92,
+          "mean": 0.72,
+          "median": 0.37,
+          "suggested": 0.42,
+          "quantity": 46,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Negev | Desert-Strike (Well-Worn)",
+        "price": {
+          "min": 0.34,
+          "max": 0.47,
+          "mean": 0.42,
+          "median": 0.47,
+          "suggested": 0.44,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Negev | Desert-Strike (Battle-Scarred)",
+        "price": {
+          "min": 0.35,
+          "max": 10.82,
+          "mean": 1.58,
+          "median": 0.61,
+          "suggested": 0.48,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Negev | Desert-Strike (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Negev | Desert-Strike (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Negev | Desert-Strike (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Negev | Desert-Strike (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Negev | Desert-Strike (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.145Z"
+}

@@ -1,0 +1,217 @@
+{
+  "id": "skin-95436efce4d8",
+  "name": "PP-Bizon | Breaker Box",
+  "paint_index": "1083",
+  "weapon": {
+    "id": "weapon_bizon",
+    "weapon_id": 26,
+    "name": "PP-Bizon",
+    "slug": "bizon"
+  },
+  "pattern": {
+    "id": "aa_wiring",
+    "name": "Breaker Box"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.44,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly. An anodized pattern of a wiring diagram has been applied.\\n\\n<i>Please consult an electrician before conducting your own repairs</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.28,
+      "max": 86.94,
+      "mean": 14.98,
+      "median": 6.55,
+      "suggested": 3.42,
+      "quantity": 39,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.11,
+      "max": 75.85,
+      "mean": 8.73,
+      "median": 7.99,
+      "suggested": 2.42,
+      "quantity": 63,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.63,
+      "max": 73.52,
+      "mean": 22.46,
+      "median": 4.33,
+      "suggested": 1.8,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "ww": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "PP-Bizon | Breaker Box (Factory New)",
+      "price": {
+        "min": 2.28,
+        "max": 86.94,
+        "mean": 14.98,
+        "median": 6.55,
+        "suggested": 3.42,
+        "quantity": 39,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "PP-Bizon | Breaker Box (Minimal Wear)",
+      "price": {
+        "min": 2.11,
+        "max": 75.85,
+        "mean": 8.73,
+        "median": 7.99,
+        "suggested": 2.42,
+        "quantity": 63,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "PP-Bizon | Breaker Box (Field-Tested)",
+      "price": {
+        "min": 1.63,
+        "max": 73.52,
+        "mean": 22.46,
+        "median": 4.33,
+        "suggested": 1.8,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "PP-Bizon | Breaker Box (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "PP-Bizon | Breaker Box (Factory New)",
+        "price": {
+          "min": 2.28,
+          "max": 86.94,
+          "mean": 14.98,
+          "median": 6.55,
+          "suggested": 3.42,
+          "quantity": 39,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "PP-Bizon | Breaker Box (Minimal Wear)",
+        "price": {
+          "min": 2.11,
+          "max": 75.85,
+          "mean": 8.73,
+          "median": 7.99,
+          "suggested": 2.42,
+          "quantity": 63,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "PP-Bizon | Breaker Box (Field-Tested)",
+        "price": {
+          "min": 1.63,
+          "max": 73.52,
+          "mean": 22.46,
+          "median": 4.33,
+          "suggested": 1.8,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "PP-Bizon | Breaker Box (Well-Worn)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir PP-Bizon | Breaker Box (Factory New)",
+        "price": {
+          "min": 2.46,
+          "max": 11.61,
+          "mean": 4.38,
+          "median": 4.06,
+          "suggested": 2.96,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir PP-Bizon | Breaker Box (Minimal Wear)",
+        "price": {
+          "min": 1.7,
+          "max": 14,
+          "mean": 4.64,
+          "median": 2.94,
+          "suggested": 1.99,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir PP-Bizon | Breaker Box (Field-Tested)",
+        "price": {
+          "min": 1.26,
+          "max": 2.42,
+          "mean": 1.67,
+          "median": 1.56,
+          "suggested": 1.65,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir PP-Bizon | Breaker Box (Well-Worn)",
+        "price": {
+          "min": 2.15,
+          "max": 2.15,
+          "mean": 2.15,
+          "median": 2.15,
+          "suggested": 1.3,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:26.881Z"
+}

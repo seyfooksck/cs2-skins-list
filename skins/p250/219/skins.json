@@ -1,0 +1,206 @@
+{
+  "id": "skin-723e1f966ac7",
+  "name": "P250 | Hive",
+  "paint_index": "219",
+  "weapon": {
+    "id": "weapon_p250",
+    "weapon_id": 36,
+    "name": "P250",
+    "slug": "p250"
+  },
+  "pattern": {
+    "id": "hy_redhex",
+    "name": "Hive"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.3,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A low-recoil firearm with a high rate of fire, the P250 is a relatively inexpensive choice against armored opponents. It has been painted using a hexagon patterned hydrographic.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 25.47,
+      "max": 665.04,
+      "mean": 115.4,
+      "median": 39.68,
+      "suggested": 35.02,
+      "quantity": 17,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 3.06,
+      "max": 303.29,
+      "mean": 37.19,
+      "median": 5.51,
+      "suggested": 3.71,
+      "quantity": 38,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.95,
+      "max": 8.17,
+      "mean": 5.02,
+      "median": 5.43,
+      "suggested": 3.66,
+      "quantity": 12,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P250 | Hive (Factory New)",
+      "price": {
+        "min": 25.47,
+        "max": 665.04,
+        "mean": 115.4,
+        "median": 39.68,
+        "suggested": 35.02,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P250 | Hive (Minimal Wear)",
+      "price": {
+        "min": 3.06,
+        "max": 303.29,
+        "mean": 37.19,
+        "median": 5.51,
+        "suggested": 3.71,
+        "quantity": 38,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P250 | Hive (Field-Tested)",
+      "price": {
+        "min": 2.95,
+        "max": 8.17,
+        "mean": 5.02,
+        "median": 5.43,
+        "suggested": 3.66,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P250 | Hive (Factory New)",
+        "price": {
+          "min": 25.47,
+          "max": 665.04,
+          "mean": 115.4,
+          "median": 39.68,
+          "suggested": 35.02,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P250 | Hive (Minimal Wear)",
+        "price": {
+          "min": 3.06,
+          "max": 303.29,
+          "mean": 37.19,
+          "median": 5.51,
+          "suggested": 3.71,
+          "quantity": 38,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P250 | Hive (Field-Tested)",
+        "price": {
+          "min": 2.95,
+          "max": 8.17,
+          "mean": 5.02,
+          "median": 5.43,
+          "suggested": 3.66,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P250 | Hive (Factory New)",
+        "price": {
+          "min": 11.87,
+          "max": 2917.34,
+          "mean": 278.29,
+          "median": 44.02,
+          "suggested": 10.06,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P250 | Hive (Minimal Wear)",
+        "price": {
+          "min": 4.32,
+          "max": 582.3,
+          "mean": 89.57,
+          "median": 35.01,
+          "suggested": 5.02,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P250 | Hive (Field-Tested)",
+        "price": {
+          "min": 4.12,
+          "max": 247.94,
+          "mean": 40.46,
+          "median": 5.33,
+          "suggested": 5.25,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P250 | Hive (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P250 | Hive (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P250 | Hive (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:45.455Z"
+}

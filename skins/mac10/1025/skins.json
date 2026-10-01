@@ -1,0 +1,233 @@
+{
+  "id": "skin-b21f4fbf965a",
+  "name": "MAC-10 | Gold Brick",
+  "paint_index": "1025",
+  "weapon": {
+    "id": "weapon_mac10",
+    "weapon_id": 17,
+    "name": "MAC-10",
+    "slug": "mac10"
+  },
+  "pattern": {
+    "id": "am_gold_brick",
+    "name": "Gold Brick"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. Its gold finish shimmers in the light, highlighting every beautiful imperfection on the weapon.\\n\\n<i>All that glitters...</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 102.4,
+      "max": 291.73,
+      "mean": 172.87,
+      "median": 177.55,
+      "suggested": 119.54,
+      "quantity": 21,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 53.68,
+      "max": 53.68,
+      "mean": 53.68,
+      "median": 53.68,
+      "suggested": 65.53,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 81.92,
+      "max": 81.92,
+      "mean": 81.92,
+      "median": 81.92,
+      "suggested": 39.14,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAC-10 | Gold Brick (Factory New)",
+      "price": {
+        "min": 102.4,
+        "max": 291.73,
+        "mean": 172.87,
+        "median": 177.55,
+        "suggested": 119.54,
+        "quantity": 21,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAC-10 | Gold Brick (Minimal Wear)",
+      "price": {
+        "min": 53.68,
+        "max": 53.68,
+        "mean": 53.68,
+        "median": 53.68,
+        "suggested": 65.53,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAC-10 | Gold Brick (Field-Tested)",
+      "price": {
+        "min": 81.92,
+        "max": 81.92,
+        "mean": 81.92,
+        "median": 81.92,
+        "suggested": 39.14,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAC-10 | Gold Brick (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAC-10 | Gold Brick (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAC-10 | Gold Brick (Factory New)",
+        "price": {
+          "min": 102.4,
+          "max": 291.73,
+          "mean": 172.87,
+          "median": 177.55,
+          "suggested": 119.54,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAC-10 | Gold Brick (Minimal Wear)",
+        "price": {
+          "min": 53.68,
+          "max": 53.68,
+          "mean": 53.68,
+          "median": 53.68,
+          "suggested": 65.53,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAC-10 | Gold Brick (Field-Tested)",
+        "price": {
+          "min": 81.92,
+          "max": 81.92,
+          "mean": 81.92,
+          "median": 81.92,
+          "suggested": 39.14,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAC-10 | Gold Brick (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "MAC-10 | Gold Brick (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAC-10 | Gold Brick (Factory New)",
+        "price": {
+          "min": 75.85,
+          "max": 114.34,
+          "mean": 97.49,
+          "median": 97.29,
+          "suggested": 102.33,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAC-10 | Gold Brick (Minimal Wear)",
+        "price": {
+          "min": 42.01,
+          "max": 86.94,
+          "mean": 54.83,
+          "median": 45.91,
+          "suggested": 52.88,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAC-10 | Gold Brick (Field-Tested)",
+        "price": {
+          "min": 22.76,
+          "max": 46.68,
+          "mean": 35.1,
+          "median": 36.44,
+          "suggested": 26.64,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAC-10 | Gold Brick (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAC-10 | Gold Brick (Battle-Scarred)",
+        "price": {
+          "min": 21.19,
+          "max": 25.87,
+          "mean": 23.54,
+          "median": 23.54,
+          "suggested": 20.97,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.421Z"
+}

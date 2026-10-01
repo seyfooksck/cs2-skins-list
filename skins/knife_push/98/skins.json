@@ -1,0 +1,241 @@
+{
+  "id": "skin-67ede78bc88d",
+  "name": "★ Shadow Daggers | Ultraviolet",
+  "paint_index": "98",
+  "weapon": {
+    "id": "weapon_knife_push",
+    "weapon_id": 516,
+    "name": "Shadow Daggers",
+    "slug": "knife_push"
+  },
+  "pattern": {
+    "id": "so_purple",
+    "name": "Ultraviolet"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Designed for efficient brutality, using a push dagger is as simple as throwing a punch or two. It has individual parts spray-painted solid colors in a black and purple color scheme.\\n\\n<i>Elegant design paired with brutal intent</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 81.2,
+      "max": 151.7,
+      "mean": 105.18,
+      "median": 82.64,
+      "suggested": 87.17,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 57.12,
+      "max": 151.13,
+      "mean": 81.32,
+      "median": 63.69,
+      "suggested": 61.73,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 48.98,
+      "max": 86.91,
+      "mean": 68.24,
+      "median": 68.85,
+      "suggested": 59.88,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 126.6,
+      "max": 126.6,
+      "mean": 126.6,
+      "median": 126.6,
+      "suggested": 57.86,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Shadow Daggers | Ultraviolet (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Shadow Daggers | Ultraviolet (Minimal Wear)",
+      "price": {
+        "min": 81.2,
+        "max": 151.7,
+        "mean": 105.18,
+        "median": 82.64,
+        "suggested": 87.17,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Shadow Daggers | Ultraviolet (Field-Tested)",
+      "price": {
+        "min": 57.12,
+        "max": 151.13,
+        "mean": 81.32,
+        "median": 63.69,
+        "suggested": 61.73,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Shadow Daggers | Ultraviolet (Well-Worn)",
+      "price": {
+        "min": 48.98,
+        "max": 86.91,
+        "mean": 68.24,
+        "median": 68.85,
+        "suggested": 59.88,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Shadow Daggers | Ultraviolet (Battle-Scarred)",
+      "price": {
+        "min": 126.6,
+        "max": 126.6,
+        "mean": 126.6,
+        "median": 126.6,
+        "suggested": 57.86,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Shadow Daggers | Ultraviolet (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Shadow Daggers | Ultraviolet (Minimal Wear)",
+        "price": {
+          "min": 81.2,
+          "max": 151.7,
+          "mean": 105.18,
+          "median": 82.64,
+          "suggested": 87.17,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Shadow Daggers | Ultraviolet (Field-Tested)",
+        "price": {
+          "min": 57.12,
+          "max": 151.13,
+          "mean": 81.32,
+          "median": 63.69,
+          "suggested": 61.73,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Shadow Daggers | Ultraviolet (Well-Worn)",
+        "price": {
+          "min": 48.98,
+          "max": 86.91,
+          "mean": 68.24,
+          "median": 68.85,
+          "suggested": 59.88,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Shadow Daggers | Ultraviolet (Battle-Scarred)",
+        "price": {
+          "min": 126.6,
+          "max": 126.6,
+          "mean": 126.6,
+          "median": 126.6,
+          "suggested": 57.86,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Shadow Daggers | Ultraviolet (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Shadow Daggers | Ultraviolet (Minimal Wear)",
+        "price": {
+          "min": 153.63,
+          "max": 153.63,
+          "mean": 153.63,
+          "median": 153.63,
+          "suggested": 99.29,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Shadow Daggers | Ultraviolet (Field-Tested)",
+        "price": {
+          "min": 70.55,
+          "max": 78.59,
+          "mean": 74.58,
+          "median": 74.58,
+          "suggested": 81.8,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Shadow Daggers | Ultraviolet (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Shadow Daggers | Ultraviolet (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:37.513Z"
+}

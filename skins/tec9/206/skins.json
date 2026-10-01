@@ -1,0 +1,201 @@
+{
+  "id": "skin-bf83b588a7b1",
+  "name": "Tec-9 | Tornado",
+  "paint_index": "206",
+  "weapon": {
+    "id": "weapon_tec9",
+    "weapon_id": 30,
+    "name": "Tec-9",
+    "slug": "tec9"
+  },
+  "pattern": {
+    "id": "so_tornado_bravo",
+    "name": "Tornado"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity. This memento from Ali has individual parts spray-painted solid colors in a tornado color scheme.\\n\\n<i>Words are wind, but wind can kill</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 13.68,
+      "max": 13.68,
+      "mean": 13.68,
+      "median": 13.68,
+      "suggested": 15.74,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 4.67,
+      "max": 6.1,
+      "mean": 5.39,
+      "median": 5.39,
+      "suggested": 5.37,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 6.45,
+      "max": 6.99,
+      "mean": 6.72,
+      "median": 6.72,
+      "suggested": 4.79,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Tec-9 | Tornado (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Tec-9 | Tornado (Minimal Wear)",
+      "price": {
+        "min": 13.68,
+        "max": 13.68,
+        "mean": 13.68,
+        "median": 13.68,
+        "suggested": 15.74,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Tec-9 | Tornado (Field-Tested)",
+      "price": {
+        "min": 4.67,
+        "max": 6.1,
+        "mean": 5.39,
+        "median": 5.39,
+        "suggested": 5.37,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Tec-9 | Tornado (Well-Worn)",
+      "price": {
+        "min": 6.45,
+        "max": 6.99,
+        "mean": 6.72,
+        "median": 6.72,
+        "suggested": 4.79,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Tec-9 | Tornado (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Tec-9 | Tornado (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Tec-9 | Tornado (Minimal Wear)",
+        "price": {
+          "min": 13.68,
+          "max": 13.68,
+          "mean": 13.68,
+          "median": 13.68,
+          "suggested": 15.74,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Tec-9 | Tornado (Field-Tested)",
+        "price": {
+          "min": 4.67,
+          "max": 6.1,
+          "mean": 5.39,
+          "median": 5.39,
+          "suggested": 5.37,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Tec-9 | Tornado (Well-Worn)",
+        "price": {
+          "min": 6.45,
+          "max": 6.99,
+          "mean": 6.72,
+          "median": 6.72,
+          "suggested": 4.79,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Tec-9 | Tornado (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Tec-9 | Tornado (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Tec-9 | Tornado (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Tec-9 | Tornado (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Tec-9 | Tornado (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Tec-9 | Tornado (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.537Z"
+}

@@ -1,0 +1,129 @@
+{
+  "id": "skin-c58461846f85",
+  "name": "MAG-7 | Carbon Fiber",
+  "paint_index": "70",
+  "weapon": {
+    "id": "weapon_mag7",
+    "weapon_id": 27,
+    "name": "MAG-7",
+    "slug": "mag7"
+  },
+  "pattern": {
+    "id": "am_carbon_fiber",
+    "name": "Carbon Fiber"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.12,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The CT-exclusive Mag-7 delivers a devastating amount of damage at close range. Its rapid magazine-style reloads make it a great tactical choice. It has been painted using a carbon fiber hydrographic over a graphite base coat.\\n\\n<i>Just because I carried my team doesn't mean it wasn't a team effort - Rona Sabri, Rising Star</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 3.26,
+      "max": 40.84,
+      "mean": 9.78,
+      "median": 11.19,
+      "suggested": 4.52,
+      "quantity": 977,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 3.9,
+      "max": 25.01,
+      "mean": 7.29,
+      "median": 5.47,
+      "suggested": 3.94,
+      "quantity": 66,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAG-7 | Carbon Fiber (Factory New)",
+      "price": {
+        "min": 3.26,
+        "max": 40.84,
+        "mean": 9.78,
+        "median": 11.19,
+        "suggested": 4.52,
+        "quantity": 977,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAG-7 | Carbon Fiber (Minimal Wear)",
+      "price": {
+        "min": 3.9,
+        "max": 25.01,
+        "mean": 7.29,
+        "median": 5.47,
+        "suggested": 3.94,
+        "quantity": 66,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAG-7 | Carbon Fiber (Factory New)",
+        "price": {
+          "min": 3.26,
+          "max": 40.84,
+          "mean": 9.78,
+          "median": 11.19,
+          "suggested": 4.52,
+          "quantity": 977,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAG-7 | Carbon Fiber (Minimal Wear)",
+        "price": {
+          "min": 3.9,
+          "max": 25.01,
+          "mean": 7.29,
+          "median": 5.47,
+          "suggested": 3.94,
+          "quantity": 66,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAG-7 | Carbon Fiber (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAG-7 | Carbon Fiber (Minimal Wear)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.124Z"
+}

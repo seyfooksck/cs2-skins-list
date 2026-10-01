@@ -1,0 +1,193 @@
+{
+  "id": "skin-bf9a7895026e",
+  "name": "Galil AR | Green Apple",
+  "paint_index": "294",
+  "weapon": {
+    "id": "weapon_galilar",
+    "weapon_id": 13,
+    "name": "Galil AR",
+    "slug": "galilar"
+  },
+  "pattern": {
+    "id": "so_green",
+    "name": "Green Apple"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.3,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat. It has individual parts spray-painted solid colors in a green and black color scheme.\\n\\n<i>An apple a day keeps insurance premiums high</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.44,
+      "max": 102.69,
+      "mean": 2.49,
+      "median": 1.4,
+      "suggested": 0.52,
+      "quantity": 1959,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.09,
+      "max": 11.09,
+      "mean": 0.53,
+      "median": 0.14,
+      "suggested": 0.1,
+      "quantity": 1851,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.08,
+      "max": 5.83,
+      "mean": 0.81,
+      "median": 0.75,
+      "suggested": 0.09,
+      "quantity": 372,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Galil AR | Green Apple (Factory New)",
+      "price": {
+        "min": 0.44,
+        "max": 102.69,
+        "mean": 2.49,
+        "median": 1.4,
+        "suggested": 0.52,
+        "quantity": 1959,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Galil AR | Green Apple (Minimal Wear)",
+      "price": {
+        "min": 0.09,
+        "max": 11.09,
+        "mean": 0.53,
+        "median": 0.14,
+        "suggested": 0.1,
+        "quantity": 1851,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Galil AR | Green Apple (Field-Tested)",
+      "price": {
+        "min": 0.08,
+        "max": 5.83,
+        "mean": 0.81,
+        "median": 0.75,
+        "suggested": 0.09,
+        "quantity": 372,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Galil AR | Green Apple (Factory New)",
+        "price": {
+          "min": 0.44,
+          "max": 102.69,
+          "mean": 2.49,
+          "median": 1.4,
+          "suggested": 0.52,
+          "quantity": 1959,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Galil AR | Green Apple (Minimal Wear)",
+        "price": {
+          "min": 0.09,
+          "max": 11.09,
+          "mean": 0.53,
+          "median": 0.14,
+          "suggested": 0.1,
+          "quantity": 1851,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Galil AR | Green Apple (Field-Tested)",
+        "price": {
+          "min": 0.08,
+          "max": 5.83,
+          "mean": 0.81,
+          "median": 0.75,
+          "suggested": 0.09,
+          "quantity": 372,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Galil AR | Green Apple (Factory New)",
+        "price": {
+          "min": 1.17,
+          "max": 58.35,
+          "mean": 12.16,
+          "median": 3.89,
+          "suggested": 1.5,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Galil AR | Green Apple (Minimal Wear)",
+        "price": {
+          "min": 0.46,
+          "max": 14,
+          "mean": 1.8,
+          "median": 0.68,
+          "suggested": 0.51,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Galil AR | Green Apple (Field-Tested)",
+        "price": {
+          "min": 0.54,
+          "max": 2.31,
+          "mean": 0.89,
+          "median": 0.67,
+          "suggested": 0.53,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:31.265Z"
+}

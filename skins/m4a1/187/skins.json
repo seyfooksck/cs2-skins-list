@@ -1,0 +1,234 @@
+{
+  "id": "skin-1d49604dde9e",
+  "name": "M4A4 | Zirka",
+  "paint_index": "187",
+  "weapon": {
+    "id": "weapon_m4a1",
+    "weapon_id": 16,
+    "name": "M4A4",
+    "slug": "m4a1"
+  },
+  "pattern": {
+    "id": "sp_star_bravo",
+    "name": "Zirka"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0.06,
+  "max_float": 0.42,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. This memento from Cache has been painted with a star motif.\\n\\n<i>Imogen shares her father's eye for quality, but her ambition is even fiercer</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 104.25,
+      "max": 285.9,
+      "mean": 138.61,
+      "median": 114.16,
+      "suggested": 136.43,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 26.17,
+      "max": 2042.02,
+      "mean": 231.98,
+      "median": 81.35,
+      "suggested": 33.37,
+      "quantity": 28,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 24.58,
+      "max": 2151.37,
+      "mean": 236.07,
+      "median": 32.15,
+      "suggested": 29.38,
+      "quantity": 17,
+      "currency": "USD"
+    },
+    "ww": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A4 | Zirka (Factory New)",
+      "price": {
+        "min": 104.25,
+        "max": 285.9,
+        "mean": 138.61,
+        "median": 114.16,
+        "suggested": 136.43,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A4 | Zirka (Minimal Wear)",
+      "price": {
+        "min": 26.17,
+        "max": 2042.02,
+        "mean": 231.98,
+        "median": 81.35,
+        "suggested": 33.37,
+        "quantity": 28,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A4 | Zirka (Field-Tested)",
+      "price": {
+        "min": 24.58,
+        "max": 2151.37,
+        "mean": 236.07,
+        "median": 32.15,
+        "suggested": 29.38,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M4A4 | Zirka (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A4 | Zirka (Factory New)",
+        "price": {
+          "min": 104.25,
+          "max": 285.9,
+          "mean": 138.61,
+          "median": 114.16,
+          "suggested": 136.43,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A4 | Zirka (Minimal Wear)",
+        "price": {
+          "min": 26.17,
+          "max": 2042.02,
+          "mean": 231.98,
+          "median": 81.35,
+          "suggested": 33.37,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A4 | Zirka (Field-Tested)",
+        "price": {
+          "min": 24.58,
+          "max": 2151.37,
+          "mean": 236.07,
+          "median": 32.15,
+          "suggested": 29.38,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M4A4 | Zirka (Well-Worn)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ M4A4 | Zirka (Factory New)",
+        "price": {
+          "min": 295.24,
+          "max": 295.24,
+          "mean": 295.24,
+          "median": 295.24,
+          "suggested": 311.11,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ M4A4 | Zirka (Minimal Wear)",
+        "price": {
+          "min": 60.47,
+          "max": 436.8,
+          "mean": 167.89,
+          "median": 102.69,
+          "suggested": 48.46,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ M4A4 | Zirka (Field-Tested)",
+        "price": {
+          "min": 32.92,
+          "max": 233.27,
+          "mean": 107.94,
+          "median": 57.64,
+          "suggested": 38.42,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ M4A4 | Zirka (Well-Worn)",
+        "price": {
+          "min": 34.35,
+          "max": 53.84,
+          "mean": 42.77,
+          "median": 40.12,
+          "suggested": 41.7,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A4 | Zirka (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A4 | Zirka (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A4 | Zirka (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M4A4 | Zirka (Well-Worn)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.344Z"
+}

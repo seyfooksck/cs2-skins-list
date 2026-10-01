@@ -1,0 +1,193 @@
+{
+  "id": "skin-5b9f03255b9d",
+  "name": "Nova | Green Apple",
+  "paint_index": "294",
+  "weapon": {
+    "id": "weapon_nova",
+    "weapon_id": 35,
+    "name": "Nova",
+    "slug": "nova"
+  },
+  "pattern": {
+    "id": "so_green",
+    "name": "Green Apple"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.3,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Nova's rock-bottom price tag makes it a great ambush weapon for a cash-strapped team. It has individual parts spray-painted solid colors in a green and black color scheme.\\n\\n<i>An apple a day keeps insurance premiums high</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 9.77,
+      "max": 257.95,
+      "mean": 48.81,
+      "median": 25.93,
+      "suggested": 13.45,
+      "quantity": 30,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 10.27,
+      "max": 29.12,
+      "mean": 19.11,
+      "median": 17.91,
+      "suggested": 11.88,
+      "quantity": 19,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 14.32,
+      "max": 14.32,
+      "mean": 14.32,
+      "median": 14.32,
+      "suggested": 12.07,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Nova | Green Apple (Factory New)",
+      "price": {
+        "min": 9.77,
+        "max": 257.95,
+        "mean": 48.81,
+        "median": 25.93,
+        "suggested": 13.45,
+        "quantity": 30,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Nova | Green Apple (Minimal Wear)",
+      "price": {
+        "min": 10.27,
+        "max": 29.12,
+        "mean": 19.11,
+        "median": 17.91,
+        "suggested": 11.88,
+        "quantity": 19,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Nova | Green Apple (Field-Tested)",
+      "price": {
+        "min": 14.32,
+        "max": 14.32,
+        "mean": 14.32,
+        "median": 14.32,
+        "suggested": 12.07,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Nova | Green Apple (Factory New)",
+        "price": {
+          "min": 9.77,
+          "max": 257.95,
+          "mean": 48.81,
+          "median": 25.93,
+          "suggested": 13.45,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Nova | Green Apple (Minimal Wear)",
+        "price": {
+          "min": 10.27,
+          "max": 29.12,
+          "mean": 19.11,
+          "median": 17.91,
+          "suggested": 11.88,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Nova | Green Apple (Field-Tested)",
+        "price": {
+          "min": 14.32,
+          "max": 14.32,
+          "mean": 14.32,
+          "median": 14.32,
+          "suggested": 12.07,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Nova | Green Apple (Factory New)",
+        "price": {
+          "min": 22.46,
+          "max": 126.24,
+          "mean": 64.03,
+          "median": 38.51,
+          "suggested": 12.61,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Nova | Green Apple (Minimal Wear)",
+        "price": {
+          "min": 9.71,
+          "max": 46.04,
+          "mean": 17.38,
+          "median": 10.37,
+          "suggested": 11.22,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Nova | Green Apple (Field-Tested)",
+        "price": {
+          "min": 7.98,
+          "max": 10.19,
+          "mean": 9.09,
+          "median": 9.09,
+          "suggested": 10.03,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.798Z"
+}

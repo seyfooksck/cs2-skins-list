@@ -1,0 +1,310 @@
+{
+  "id": "skin-b40b6df277a2",
+  "name": "MP7 | Guerrilla",
+  "paint_index": "1096",
+  "weapon": {
+    "id": "weapon_mp7",
+    "weapon_id": 33,
+    "name": "MP7",
+    "slug": "mp7"
+  },
+  "pattern": {
+    "id": "cu_mp7_khaki",
+    "name": "Guerrilla"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. This custom paint job features a green base, black details and a forward-facing monkey.\\n\\n<i>The lion was never king of the jungle</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 10.5,
+      "max": 41.59,
+      "mean": 19.94,
+      "median": 17.52,
+      "suggested": 13.26,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.65,
+      "max": 30.28,
+      "mean": 5.1,
+      "median": 3.59,
+      "suggested": 3.46,
+      "quantity": 25,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.09,
+      "max": 33.54,
+      "mean": 2.54,
+      "median": 1.47,
+      "suggested": 1.43,
+      "quantity": 44,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.65,
+      "max": 3.9,
+      "mean": 2.16,
+      "median": 2.56,
+      "suggested": 0.84,
+      "quantity": 145,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.6,
+      "max": 38.61,
+      "mean": 3.21,
+      "median": 2.53,
+      "suggested": 0.81,
+      "quantity": 178,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP7 | Guerrilla (Factory New)",
+      "price": {
+        "min": 10.5,
+        "max": 41.59,
+        "mean": 19.94,
+        "median": 17.52,
+        "suggested": 13.26,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP7 | Guerrilla (Minimal Wear)",
+      "price": {
+        "min": 2.65,
+        "max": 30.28,
+        "mean": 5.1,
+        "median": 3.59,
+        "suggested": 3.46,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP7 | Guerrilla (Field-Tested)",
+      "price": {
+        "min": 1.09,
+        "max": 33.54,
+        "mean": 2.54,
+        "median": 1.47,
+        "suggested": 1.43,
+        "quantity": 44,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP7 | Guerrilla (Well-Worn)",
+      "price": {
+        "min": 0.65,
+        "max": 3.9,
+        "mean": 2.16,
+        "median": 2.56,
+        "suggested": 0.84,
+        "quantity": 145,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP7 | Guerrilla (Battle-Scarred)",
+      "price": {
+        "min": 0.6,
+        "max": 38.61,
+        "mean": 3.21,
+        "median": 2.53,
+        "suggested": 0.81,
+        "quantity": 178,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP7 | Guerrilla (Factory New)",
+        "price": {
+          "min": 10.5,
+          "max": 41.59,
+          "mean": 19.94,
+          "median": 17.52,
+          "suggested": 13.26,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP7 | Guerrilla (Minimal Wear)",
+        "price": {
+          "min": 2.65,
+          "max": 30.28,
+          "mean": 5.1,
+          "median": 3.59,
+          "suggested": 3.46,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP7 | Guerrilla (Field-Tested)",
+        "price": {
+          "min": 1.09,
+          "max": 33.54,
+          "mean": 2.54,
+          "median": 1.47,
+          "suggested": 1.43,
+          "quantity": 44,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP7 | Guerrilla (Well-Worn)",
+        "price": {
+          "min": 0.65,
+          "max": 3.9,
+          "mean": 2.16,
+          "median": 2.56,
+          "suggested": 0.84,
+          "quantity": 145,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP7 | Guerrilla (Battle-Scarred)",
+        "price": {
+          "min": 0.6,
+          "max": 38.61,
+          "mean": 3.21,
+          "median": 2.53,
+          "suggested": 0.81,
+          "quantity": 178,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MP7 | Guerrilla (Factory New)",
+        "price": {
+          "min": 11.68,
+          "max": 285.4,
+          "mean": 90.03,
+          "median": 64.51,
+          "suggested": 12.68,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MP7 | Guerrilla (Minimal Wear)",
+        "price": {
+          "min": 3.09,
+          "max": 5.83,
+          "mean": 4.7,
+          "median": 4.78,
+          "suggested": 4.49,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MP7 | Guerrilla (Field-Tested)",
+        "price": {
+          "min": 1.68,
+          "max": 14.91,
+          "mean": 4.63,
+          "median": 2.54,
+          "suggested": 1.81,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MP7 | Guerrilla (Well-Worn)",
+        "price": {
+          "min": 1.21,
+          "max": 1.69,
+          "mean": 1.31,
+          "median": 1.27,
+          "suggested": 1.23,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MP7 | Guerrilla (Battle-Scarred)",
+        "price": {
+          "min": 0.97,
+          "max": 7.35,
+          "mean": 3.17,
+          "median": 2.56,
+          "suggested": 1.19,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP7 | Guerrilla (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP7 | Guerrilla (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP7 | Guerrilla (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP7 | Guerrilla (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP7 | Guerrilla (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:43.045Z"
+}

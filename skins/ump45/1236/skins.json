@@ -1,0 +1,310 @@
+{
+  "id": "skin-f04de3b20f62",
+  "name": "UMP-45 | Wild Child",
+  "paint_index": "1236",
+  "weapon": {
+    "id": "weapon_ump45",
+    "weapon_id": 24,
+    "name": "UMP-45",
+    "slug": "ump45"
+  },
+  "pattern": {
+    "id": "cu_ump_clutch_kick",
+    "name": "Wild Child"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic. Beneath sketches of bullets, a crown, and other designs, bands of neon color are the base of this custom painted UMP-45.\\n\\n<i>The concept is simple, it's the execution that's difficult</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 16.59,
+      "max": 78.99,
+      "mean": 25.92,
+      "median": 20.08,
+      "suggested": 24.17,
+      "quantity": 34,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 6.09,
+      "max": 18.03,
+      "mean": 7.8,
+      "median": 7.25,
+      "suggested": 8.35,
+      "quantity": 166,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 3.5,
+      "max": 222.3,
+      "mean": 5.9,
+      "median": 4.32,
+      "suggested": 4.84,
+      "quantity": 542,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 2.98,
+      "max": 45.87,
+      "mean": 4.17,
+      "median": 3.73,
+      "suggested": 4.21,
+      "quantity": 251,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 2.87,
+      "max": 45.87,
+      "mean": 4.29,
+      "median": 3.77,
+      "suggested": 3.38,
+      "quantity": 146,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "UMP-45 | Wild Child (Factory New)",
+      "price": {
+        "min": 16.59,
+        "max": 78.99,
+        "mean": 25.92,
+        "median": 20.08,
+        "suggested": 24.17,
+        "quantity": 34,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "UMP-45 | Wild Child (Minimal Wear)",
+      "price": {
+        "min": 6.09,
+        "max": 18.03,
+        "mean": 7.8,
+        "median": 7.25,
+        "suggested": 8.35,
+        "quantity": 166,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "UMP-45 | Wild Child (Field-Tested)",
+      "price": {
+        "min": 3.5,
+        "max": 222.3,
+        "mean": 5.9,
+        "median": 4.32,
+        "suggested": 4.84,
+        "quantity": 542,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "UMP-45 | Wild Child (Well-Worn)",
+      "price": {
+        "min": 2.98,
+        "max": 45.87,
+        "mean": 4.17,
+        "median": 3.73,
+        "suggested": 4.21,
+        "quantity": 251,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "UMP-45 | Wild Child (Battle-Scarred)",
+      "price": {
+        "min": 2.87,
+        "max": 45.87,
+        "mean": 4.29,
+        "median": 3.77,
+        "suggested": 3.38,
+        "quantity": 146,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "UMP-45 | Wild Child (Factory New)",
+        "price": {
+          "min": 16.59,
+          "max": 78.99,
+          "mean": 25.92,
+          "median": 20.08,
+          "suggested": 24.17,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "UMP-45 | Wild Child (Minimal Wear)",
+        "price": {
+          "min": 6.09,
+          "max": 18.03,
+          "mean": 7.8,
+          "median": 7.25,
+          "suggested": 8.35,
+          "quantity": 166,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "UMP-45 | Wild Child (Field-Tested)",
+        "price": {
+          "min": 3.5,
+          "max": 222.3,
+          "mean": 5.9,
+          "median": 4.32,
+          "suggested": 4.84,
+          "quantity": 542,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "UMP-45 | Wild Child (Well-Worn)",
+        "price": {
+          "min": 2.98,
+          "max": 45.87,
+          "mean": 4.17,
+          "median": 3.73,
+          "suggested": 4.21,
+          "quantity": 251,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "UMP-45 | Wild Child (Battle-Scarred)",
+        "price": {
+          "min": 2.87,
+          "max": 45.87,
+          "mean": 4.29,
+          "median": 3.77,
+          "suggested": 3.38,
+          "quantity": 146,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ UMP-45 | Wild Child (Factory New)",
+        "price": {
+          "min": 19.42,
+          "max": 104.83,
+          "mean": 48.51,
+          "median": 39.43,
+          "suggested": 24.3,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ UMP-45 | Wild Child (Minimal Wear)",
+        "price": {
+          "min": 6.97,
+          "max": 129.52,
+          "mean": 18.08,
+          "median": 7.98,
+          "suggested": 8.78,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ UMP-45 | Wild Child (Field-Tested)",
+        "price": {
+          "min": 3.68,
+          "max": 124.86,
+          "mean": 6.53,
+          "median": 4.5,
+          "suggested": 4.95,
+          "quantity": 61,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ UMP-45 | Wild Child (Well-Worn)",
+        "price": {
+          "min": 2.98,
+          "max": 12.66,
+          "mean": 4.24,
+          "median": 3.98,
+          "suggested": 3.98,
+          "quantity": 50,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ UMP-45 | Wild Child (Battle-Scarred)",
+        "price": {
+          "min": 3.35,
+          "max": 11.67,
+          "mean": 4.52,
+          "median": 4,
+          "suggested": 3.98,
+          "quantity": 39,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir UMP-45 | Wild Child (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir UMP-45 | Wild Child (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir UMP-45 | Wild Child (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir UMP-45 | Wild Child (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir UMP-45 | Wild Child (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.911Z"
+}

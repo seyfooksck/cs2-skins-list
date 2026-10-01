@@ -1,0 +1,310 @@
+{
+  "id": "skin-6f20b68a8c63",
+  "name": "CZ75-Auto | Polymer",
+  "paint_index": "622",
+  "weapon": {
+    "id": "weapon_cz75a",
+    "weapon_id": 63,
+    "name": "CZ75-Auto",
+    "slug": "cz75a"
+  },
+  "pattern": {
+    "id": "am_czv2_mf",
+    "name": "Polymer"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fully automatic variant of the CZ75, the CZ75-Auto is the ideal short-term choice for turning the tables and gaining your opponents weapon. But with very little ammo in the magazine, strong trigger discipline is required. The slide has been given a decal that resembles a polymer formula.\\n\\n<i>You're not dealing with The Phoenix anymore, we know how to take care of our own... - The Daughter and the Paladin Part 2</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 8.99,
+      "max": 108.82,
+      "mean": 26.3,
+      "median": 12.63,
+      "suggested": 8.37,
+      "quantity": 18,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.62,
+      "max": 8.18,
+      "mean": 2.79,
+      "median": 2.07,
+      "suggested": 1.91,
+      "quantity": 27,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.71,
+      "max": 10.5,
+      "mean": 1.38,
+      "median": 0.89,
+      "suggested": 1.04,
+      "quantity": 91,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.54,
+      "max": 33.26,
+      "mean": 3.01,
+      "median": 0.75,
+      "suggested": 0.78,
+      "quantity": 16,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.63,
+      "max": 0.82,
+      "mean": 0.76,
+      "median": 0.78,
+      "suggested": 0.81,
+      "quantity": 5,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "CZ75-Auto | Polymer (Factory New)",
+      "price": {
+        "min": 8.99,
+        "max": 108.82,
+        "mean": 26.3,
+        "median": 12.63,
+        "suggested": 8.37,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "CZ75-Auto | Polymer (Minimal Wear)",
+      "price": {
+        "min": 1.62,
+        "max": 8.18,
+        "mean": 2.79,
+        "median": 2.07,
+        "suggested": 1.91,
+        "quantity": 27,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "CZ75-Auto | Polymer (Field-Tested)",
+      "price": {
+        "min": 0.71,
+        "max": 10.5,
+        "mean": 1.38,
+        "median": 0.89,
+        "suggested": 1.04,
+        "quantity": 91,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "CZ75-Auto | Polymer (Well-Worn)",
+      "price": {
+        "min": 0.54,
+        "max": 33.26,
+        "mean": 3.01,
+        "median": 0.75,
+        "suggested": 0.78,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "CZ75-Auto | Polymer (Battle-Scarred)",
+      "price": {
+        "min": 0.63,
+        "max": 0.82,
+        "mean": 0.76,
+        "median": 0.78,
+        "suggested": 0.81,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "CZ75-Auto | Polymer (Factory New)",
+        "price": {
+          "min": 8.99,
+          "max": 108.82,
+          "mean": 26.3,
+          "median": 12.63,
+          "suggested": 8.37,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "CZ75-Auto | Polymer (Minimal Wear)",
+        "price": {
+          "min": 1.62,
+          "max": 8.18,
+          "mean": 2.79,
+          "median": 2.07,
+          "suggested": 1.91,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "CZ75-Auto | Polymer (Field-Tested)",
+        "price": {
+          "min": 0.71,
+          "max": 10.5,
+          "mean": 1.38,
+          "median": 0.89,
+          "suggested": 1.04,
+          "quantity": 91,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "CZ75-Auto | Polymer (Well-Worn)",
+        "price": {
+          "min": 0.54,
+          "max": 33.26,
+          "mean": 3.01,
+          "median": 0.75,
+          "suggested": 0.78,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "CZ75-Auto | Polymer (Battle-Scarred)",
+        "price": {
+          "min": 0.63,
+          "max": 0.82,
+          "mean": 0.76,
+          "median": 0.78,
+          "suggested": 0.81,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Polymer (Factory New)",
+        "price": {
+          "min": 1.63,
+          "max": 70,
+          "mean": 9.21,
+          "median": 2.82,
+          "suggested": 2.05,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Polymer (Minimal Wear)",
+        "price": {
+          "min": 0.85,
+          "max": 29.06,
+          "mean": 2.75,
+          "median": 1.75,
+          "suggested": 1.03,
+          "quantity": 67,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Polymer (Field-Tested)",
+        "price": {
+          "min": 0.46,
+          "max": 7,
+          "mean": 0.82,
+          "median": 0.55,
+          "suggested": 0.67,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Polymer (Well-Worn)",
+        "price": {
+          "min": 0.53,
+          "max": 3.79,
+          "mean": 0.86,
+          "median": 0.55,
+          "suggested": 0.62,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Polymer (Battle-Scarred)",
+        "price": {
+          "min": 0.54,
+          "max": 0.77,
+          "mean": 0.7,
+          "median": 0.77,
+          "suggested": 0.66,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir CZ75-Auto | Polymer (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir CZ75-Auto | Polymer (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir CZ75-Auto | Polymer (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir CZ75-Auto | Polymer (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir CZ75-Auto | Polymer (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:27.435Z"
+}

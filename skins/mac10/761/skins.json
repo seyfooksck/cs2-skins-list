@@ -1,0 +1,201 @@
+{
+  "id": "skin-4c2dd0cc0324",
+  "name": "MAC-10 | Copper Borre",
+  "paint_index": "761",
+  "weapon": {
+    "id": "weapon_mac10",
+    "weapon_id": 17,
+    "name": "MAC-10",
+    "slug": "mac10"
+  },
+  "pattern": {
+    "id": "am_knots_brown",
+    "name": "Copper Borre"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. A Norse inspired pattern of gold interlocking rings has been applied.\\n\\n<i>We end the way we began; in the dirt</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 159.5,
+      "max": 320.38,
+      "mean": 229.02,
+      "median": 245.06,
+      "suggested": 169.9,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 100.66,
+      "max": 222.64,
+      "mean": 141.41,
+      "median": 113.75,
+      "suggested": 121.4,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 87.52,
+      "max": 185.39,
+      "mean": 128,
+      "median": 119.54,
+      "suggested": 94.84,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAC-10 | Copper Borre (Factory New)",
+      "price": {
+        "min": 159.5,
+        "max": 320.38,
+        "mean": 229.02,
+        "median": 245.06,
+        "suggested": 169.9,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAC-10 | Copper Borre (Minimal Wear)",
+      "price": {
+        "min": 100.66,
+        "max": 222.64,
+        "mean": 141.41,
+        "median": 113.75,
+        "suggested": 121.4,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAC-10 | Copper Borre (Field-Tested)",
+      "price": {
+        "min": 87.52,
+        "max": 185.39,
+        "mean": 128,
+        "median": 119.54,
+        "suggested": 94.84,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAC-10 | Copper Borre (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAC-10 | Copper Borre (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAC-10 | Copper Borre (Factory New)",
+        "price": {
+          "min": 159.5,
+          "max": 320.38,
+          "mean": 229.02,
+          "median": 245.06,
+          "suggested": 169.9,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAC-10 | Copper Borre (Minimal Wear)",
+        "price": {
+          "min": 100.66,
+          "max": 222.64,
+          "mean": 141.41,
+          "median": 113.75,
+          "suggested": 121.4,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAC-10 | Copper Borre (Field-Tested)",
+        "price": {
+          "min": 87.52,
+          "max": 185.39,
+          "mean": 128,
+          "median": 119.54,
+          "suggested": 94.84,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAC-10 | Copper Borre (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "MAC-10 | Copper Borre (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAC-10 | Copper Borre (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAC-10 | Copper Borre (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAC-10 | Copper Borre (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAC-10 | Copper Borre (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAC-10 | Copper Borre (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.433Z"
+}

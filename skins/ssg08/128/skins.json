@@ -1,0 +1,310 @@
+{
+  "id": "skin-05b22d280618",
+  "name": "SSG 08 | Rapid Transit",
+  "paint_index": "128",
+  "weapon": {
+    "id": "weapon_ssg08",
+    "weapon_id": 40,
+    "name": "SSG 08",
+    "slug": "ssg08"
+  },
+  "pattern": {
+    "id": "ssg08_transit_white",
+    "name": "Rapid Transit"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.75,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship. It has been custom painted with fictitious transit diagrams designed around the maps of Counter-Strike.\\n\\n<i>\\\"Where are we headed?\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 8.29,
+      "max": 134.19,
+      "mean": 18.52,
+      "median": 11.74,
+      "suggested": 11.53,
+      "quantity": 47,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 4.18,
+      "max": 23.34,
+      "mean": 7.34,
+      "median": 7.62,
+      "suggested": 5.17,
+      "quantity": 50,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.12,
+      "max": 13.05,
+      "mean": 1.89,
+      "median": 1.35,
+      "suggested": 1.42,
+      "quantity": 127,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.17,
+      "max": 2.61,
+      "mean": 1.53,
+      "median": 1.47,
+      "suggested": 1.45,
+      "quantity": 26,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.85,
+      "max": 14.18,
+      "mean": 1.46,
+      "median": 1.1,
+      "suggested": 1.21,
+      "quantity": 39,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SSG 08 | Rapid Transit (Factory New)",
+      "price": {
+        "min": 8.29,
+        "max": 134.19,
+        "mean": 18.52,
+        "median": 11.74,
+        "suggested": 11.53,
+        "quantity": 47,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SSG 08 | Rapid Transit (Minimal Wear)",
+      "price": {
+        "min": 4.18,
+        "max": 23.34,
+        "mean": 7.34,
+        "median": 7.62,
+        "suggested": 5.17,
+        "quantity": 50,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "SSG 08 | Rapid Transit (Field-Tested)",
+      "price": {
+        "min": 1.12,
+        "max": 13.05,
+        "mean": 1.89,
+        "median": 1.35,
+        "suggested": 1.42,
+        "quantity": 127,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "SSG 08 | Rapid Transit (Well-Worn)",
+      "price": {
+        "min": 1.17,
+        "max": 2.61,
+        "mean": 1.53,
+        "median": 1.47,
+        "suggested": 1.45,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "SSG 08 | Rapid Transit (Battle-Scarred)",
+      "price": {
+        "min": 0.85,
+        "max": 14.18,
+        "mean": 1.46,
+        "median": 1.1,
+        "suggested": 1.21,
+        "quantity": 39,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SSG 08 | Rapid Transit (Factory New)",
+        "price": {
+          "min": 8.29,
+          "max": 134.19,
+          "mean": 18.52,
+          "median": 11.74,
+          "suggested": 11.53,
+          "quantity": 47,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "SSG 08 | Rapid Transit (Minimal Wear)",
+        "price": {
+          "min": 4.18,
+          "max": 23.34,
+          "mean": 7.34,
+          "median": 7.62,
+          "suggested": 5.17,
+          "quantity": 50,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "SSG 08 | Rapid Transit (Field-Tested)",
+        "price": {
+          "min": 1.12,
+          "max": 13.05,
+          "mean": 1.89,
+          "median": 1.35,
+          "suggested": 1.42,
+          "quantity": 127,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "SSG 08 | Rapid Transit (Well-Worn)",
+        "price": {
+          "min": 1.17,
+          "max": 2.61,
+          "mean": 1.53,
+          "median": 1.47,
+          "suggested": 1.45,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "SSG 08 | Rapid Transit (Battle-Scarred)",
+        "price": {
+          "min": 0.85,
+          "max": 14.18,
+          "mean": 1.46,
+          "median": 1.1,
+          "suggested": 1.21,
+          "quantity": 39,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ SSG 08 | Rapid Transit (Factory New)",
+        "price": {
+          "min": 34.89,
+          "max": 37.98,
+          "mean": 36.07,
+          "median": 35.71,
+          "suggested": 30.75,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ SSG 08 | Rapid Transit (Minimal Wear)",
+        "price": {
+          "min": 10.5,
+          "max": 21.19,
+          "mean": 15.42,
+          "median": 16.63,
+          "suggested": 12.29,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ SSG 08 | Rapid Transit (Field-Tested)",
+        "price": {
+          "min": 2.63,
+          "max": 11.67,
+          "mean": 4.32,
+          "median": 3.38,
+          "suggested": 3.9,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ SSG 08 | Rapid Transit (Well-Worn)",
+        "price": {
+          "min": 3.19,
+          "max": 5.83,
+          "mean": 4.42,
+          "median": 4.45,
+          "suggested": 3.32,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ SSG 08 | Rapid Transit (Battle-Scarred)",
+        "price": {
+          "min": 2.07,
+          "max": 6.72,
+          "mean": 3.06,
+          "median": 2.65,
+          "suggested": 2.49,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SSG 08 | Rapid Transit (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir SSG 08 | Rapid Transit (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir SSG 08 | Rapid Transit (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir SSG 08 | Rapid Transit (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir SSG 08 | Rapid Transit (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:48.866Z"
+}

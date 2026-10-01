@@ -1,0 +1,257 @@
+{
+  "id": "skin-15218dde9913",
+  "name": "★ Gut Knife | Autotronic",
+  "paint_index": "575",
+  "weapon": {
+    "id": "weapon_knife_gut",
+    "weapon_id": 506,
+    "name": "Gut Knife",
+    "slug": "knife_gut"
+  },
+  "pattern": {
+    "id": "gs_gut_autotronic",
+    "name": "Autotronic"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.85,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The most notable feature of a gut knife is the gut hook on the spine of the blade.  Originally popularized as an aid for field dressing game, the gut hook is also effective at  cutting through fibrous materials like rope, webbing, or safety belts with ease. It has been anodized red and uses steel mesh to lighten the weight.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 209.08,
+      "max": 209.08,
+      "mean": 209.08,
+      "median": 209.08,
+      "suggested": 266.7,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 123.4,
+      "max": 160.3,
+      "mean": 133.56,
+      "median": 130.52,
+      "suggested": 152.09,
+      "quantity": 13,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 112.22,
+      "max": 268.38,
+      "mean": 147.45,
+      "median": 123.81,
+      "suggested": 127.98,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 105.81,
+      "max": 105.81,
+      "mean": 105.81,
+      "median": 105.81,
+      "suggested": 124.22,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 101.85,
+      "max": 101.85,
+      "mean": 101.85,
+      "median": 101.85,
+      "suggested": 119.95,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Gut Knife | Autotronic (Factory New)",
+      "price": {
+        "min": 209.08,
+        "max": 209.08,
+        "mean": 209.08,
+        "median": 209.08,
+        "suggested": 266.7,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Gut Knife | Autotronic (Minimal Wear)",
+      "price": {
+        "min": 123.4,
+        "max": 160.3,
+        "mean": 133.56,
+        "median": 130.52,
+        "suggested": 152.09,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Gut Knife | Autotronic (Field-Tested)",
+      "price": {
+        "min": 112.22,
+        "max": 268.38,
+        "mean": 147.45,
+        "median": 123.81,
+        "suggested": 127.98,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Gut Knife | Autotronic (Well-Worn)",
+      "price": {
+        "min": 105.81,
+        "max": 105.81,
+        "mean": 105.81,
+        "median": 105.81,
+        "suggested": 124.22,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Gut Knife | Autotronic (Battle-Scarred)",
+      "price": {
+        "min": 101.85,
+        "max": 101.85,
+        "mean": 101.85,
+        "median": 101.85,
+        "suggested": 119.95,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Gut Knife | Autotronic (Factory New)",
+        "price": {
+          "min": 209.08,
+          "max": 209.08,
+          "mean": 209.08,
+          "median": 209.08,
+          "suggested": 266.7,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Gut Knife | Autotronic (Minimal Wear)",
+        "price": {
+          "min": 123.4,
+          "max": 160.3,
+          "mean": 133.56,
+          "median": 130.52,
+          "suggested": 152.09,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Gut Knife | Autotronic (Field-Tested)",
+        "price": {
+          "min": 112.22,
+          "max": 268.38,
+          "mean": 147.45,
+          "median": 123.81,
+          "suggested": 127.98,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Gut Knife | Autotronic (Well-Worn)",
+        "price": {
+          "min": 105.81,
+          "max": 105.81,
+          "mean": 105.81,
+          "median": 105.81,
+          "suggested": 124.22,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Gut Knife | Autotronic (Battle-Scarred)",
+        "price": {
+          "min": 101.85,
+          "max": 101.85,
+          "mean": 101.85,
+          "median": 101.85,
+          "suggested": 119.95,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Gut Knife | Autotronic (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Gut Knife | Autotronic (Minimal Wear)",
+        "price": {
+          "min": 163.14,
+          "max": 163.14,
+          "mean": 163.14,
+          "median": 163.14,
+          "suggested": 182.5,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Gut Knife | Autotronic (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Gut Knife | Autotronic (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Gut Knife | Autotronic (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:35.211Z"
+}

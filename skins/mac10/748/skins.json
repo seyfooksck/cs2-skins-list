@@ -1,0 +1,289 @@
+{
+  "id": "skin-7f9562bfa6a5",
+  "name": "MAC-10 | Calf Skin",
+  "paint_index": "748",
+  "weapon": {
+    "id": "weapon_mac10",
+    "weapon_id": 17,
+    "name": "MAC-10",
+    "slug": "mac10"
+  },
+  "pattern": {
+    "id": "gs_mac10_checker",
+    "name": "Calf Skin"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been hand painted with a brown checkerboard pattern and white accents.\\n\\n<i>Included with the $1,050 Premium Package</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.86,
+      "max": 19.84,
+      "mean": 4.32,
+      "median": 3.41,
+      "suggested": 1.48,
+      "quantity": 72,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.2,
+      "max": 11.66,
+      "mean": 0.93,
+      "median": 1.1,
+      "suggested": 0.27,
+      "quantity": 204,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.08,
+      "max": 5.25,
+      "mean": 0.57,
+      "median": 0.14,
+      "suggested": 0.12,
+      "quantity": 175,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.07,
+      "max": 6.2,
+      "mean": 0.43,
+      "median": 0.12,
+      "suggested": 0.1,
+      "quantity": 95,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.09,
+      "max": 3.15,
+      "mean": 0.43,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 114,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAC-10 | Calf Skin (Factory New)",
+      "price": {
+        "min": 0.86,
+        "max": 19.84,
+        "mean": 4.32,
+        "median": 3.41,
+        "suggested": 1.48,
+        "quantity": 72,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAC-10 | Calf Skin (Minimal Wear)",
+      "price": {
+        "min": 0.2,
+        "max": 11.66,
+        "mean": 0.93,
+        "median": 1.1,
+        "suggested": 0.27,
+        "quantity": 204,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAC-10 | Calf Skin (Field-Tested)",
+      "price": {
+        "min": 0.08,
+        "max": 5.25,
+        "mean": 0.57,
+        "median": 0.14,
+        "suggested": 0.12,
+        "quantity": 175,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAC-10 | Calf Skin (Well-Worn)",
+      "price": {
+        "min": 0.07,
+        "max": 6.2,
+        "mean": 0.43,
+        "median": 0.12,
+        "suggested": 0.1,
+        "quantity": 95,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAC-10 | Calf Skin (Battle-Scarred)",
+      "price": {
+        "min": 0.09,
+        "max": 3.15,
+        "mean": 0.43,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 114,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAC-10 | Calf Skin (Factory New)",
+        "price": {
+          "min": 0.86,
+          "max": 19.84,
+          "mean": 4.32,
+          "median": 3.41,
+          "suggested": 1.48,
+          "quantity": 72,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAC-10 | Calf Skin (Minimal Wear)",
+        "price": {
+          "min": 0.2,
+          "max": 11.66,
+          "mean": 0.93,
+          "median": 1.1,
+          "suggested": 0.27,
+          "quantity": 204,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAC-10 | Calf Skin (Field-Tested)",
+        "price": {
+          "min": 0.08,
+          "max": 5.25,
+          "mean": 0.57,
+          "median": 0.14,
+          "suggested": 0.12,
+          "quantity": 175,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAC-10 | Calf Skin (Well-Worn)",
+        "price": {
+          "min": 0.07,
+          "max": 6.2,
+          "mean": 0.43,
+          "median": 0.12,
+          "suggested": 0.1,
+          "quantity": 95,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MAC-10 | Calf Skin (Battle-Scarred)",
+        "price": {
+          "min": 0.09,
+          "max": 3.15,
+          "mean": 0.43,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 114,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAC-10 | Calf Skin (Factory New)",
+        "price": {
+          "min": 3.89,
+          "max": 64.92,
+          "mean": 15.54,
+          "median": 5.02,
+          "suggested": 4.61,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAC-10 | Calf Skin (Minimal Wear)",
+        "price": {
+          "min": 0.57,
+          "max": 18.67,
+          "mean": 4.24,
+          "median": 4.41,
+          "suggested": 0.77,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAC-10 | Calf Skin (Field-Tested)",
+        "price": {
+          "min": 0.18,
+          "max": 12.66,
+          "mean": 1.63,
+          "median": 0.36,
+          "suggested": 0.25,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAC-10 | Calf Skin (Well-Worn)",
+        "price": {
+          "min": 0.4,
+          "max": 11.67,
+          "mean": 1.93,
+          "median": 0.4,
+          "suggested": 0.14,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAC-10 | Calf Skin (Battle-Scarred)",
+        "price": {
+          "min": 0.14,
+          "max": 3,
+          "mean": 1.33,
+          "median": 1.27,
+          "suggested": 0.17,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.788Z"
+}

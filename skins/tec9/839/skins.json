@@ -1,0 +1,310 @@
+{
+  "id": "skin-c310cd1bc7ff",
+  "name": "Tec-9 | Bamboozle",
+  "paint_index": "839",
+  "weapon": {
+    "id": "weapon_tec9",
+    "weapon_id": 30,
+    "name": "Tec-9",
+    "slug": "tec9"
+  },
+  "pattern": {
+    "id": "cu_tec9_bamboo",
+    "name": "Bamboozle"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.8,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity. A custom bamboo paint job has been applied.\\n\\n<i>Don't be deceived</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 11.55,
+      "max": 782.43,
+      "mean": 56.48,
+      "median": 19.03,
+      "suggested": 18.31,
+      "quantity": 29,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.1,
+      "max": 29.17,
+      "mean": 10.47,
+      "median": 4.48,
+      "suggested": 2.05,
+      "quantity": 22,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.79,
+      "max": 42.86,
+      "mean": 1.31,
+      "median": 0.95,
+      "suggested": 0.96,
+      "quantity": 253,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.81,
+      "max": 1.11,
+      "mean": 0.93,
+      "median": 0.93,
+      "suggested": 0.96,
+      "quantity": 28,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.6,
+      "max": 20.48,
+      "mean": 1.48,
+      "median": 0.9,
+      "suggested": 0.89,
+      "quantity": 39,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Tec-9 | Bamboozle (Factory New)",
+      "price": {
+        "min": 11.55,
+        "max": 782.43,
+        "mean": 56.48,
+        "median": 19.03,
+        "suggested": 18.31,
+        "quantity": 29,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Tec-9 | Bamboozle (Minimal Wear)",
+      "price": {
+        "min": 2.1,
+        "max": 29.17,
+        "mean": 10.47,
+        "median": 4.48,
+        "suggested": 2.05,
+        "quantity": 22,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Tec-9 | Bamboozle (Field-Tested)",
+      "price": {
+        "min": 0.79,
+        "max": 42.86,
+        "mean": 1.31,
+        "median": 0.95,
+        "suggested": 0.96,
+        "quantity": 253,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Tec-9 | Bamboozle (Well-Worn)",
+      "price": {
+        "min": 0.81,
+        "max": 1.11,
+        "mean": 0.93,
+        "median": 0.93,
+        "suggested": 0.96,
+        "quantity": 28,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Tec-9 | Bamboozle (Battle-Scarred)",
+      "price": {
+        "min": 0.6,
+        "max": 20.48,
+        "mean": 1.48,
+        "median": 0.9,
+        "suggested": 0.89,
+        "quantity": 39,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Tec-9 | Bamboozle (Factory New)",
+        "price": {
+          "min": 11.55,
+          "max": 782.43,
+          "mean": 56.48,
+          "median": 19.03,
+          "suggested": 18.31,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Tec-9 | Bamboozle (Minimal Wear)",
+        "price": {
+          "min": 2.1,
+          "max": 29.17,
+          "mean": 10.47,
+          "median": 4.48,
+          "suggested": 2.05,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Tec-9 | Bamboozle (Field-Tested)",
+        "price": {
+          "min": 0.79,
+          "max": 42.86,
+          "mean": 1.31,
+          "median": 0.95,
+          "suggested": 0.96,
+          "quantity": 253,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Tec-9 | Bamboozle (Well-Worn)",
+        "price": {
+          "min": 0.81,
+          "max": 1.11,
+          "mean": 0.93,
+          "median": 0.93,
+          "suggested": 0.96,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Tec-9 | Bamboozle (Battle-Scarred)",
+        "price": {
+          "min": 0.6,
+          "max": 20.48,
+          "mean": 1.48,
+          "median": 0.9,
+          "suggested": 0.89,
+          "quantity": 39,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Tec-9 | Bamboozle (Factory New)",
+        "price": {
+          "min": 7.6,
+          "max": 37.91,
+          "mean": 14.8,
+          "median": 14.72,
+          "suggested": 10.07,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Tec-9 | Bamboozle (Minimal Wear)",
+        "price": {
+          "min": 3.07,
+          "max": 11.67,
+          "mean": 4.56,
+          "median": 3.94,
+          "suggested": 3.64,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Tec-9 | Bamboozle (Field-Tested)",
+        "price": {
+          "min": 1.34,
+          "max": 25.67,
+          "mean": 2.84,
+          "median": 1.8,
+          "suggested": 1.8,
+          "quantity": 66,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Tec-9 | Bamboozle (Well-Worn)",
+        "price": {
+          "min": 1.52,
+          "max": 3.07,
+          "mean": 2.12,
+          "median": 2,
+          "suggested": 1.88,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Tec-9 | Bamboozle (Battle-Scarred)",
+        "price": {
+          "min": 1.46,
+          "max": 2.33,
+          "mean": 1.7,
+          "median": 1.61,
+          "suggested": 1.75,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Tec-9 | Bamboozle (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Tec-9 | Bamboozle (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Tec-9 | Bamboozle (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Tec-9 | Bamboozle (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Tec-9 | Bamboozle (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.135Z"
+}

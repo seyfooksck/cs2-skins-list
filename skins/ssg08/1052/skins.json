@@ -1,0 +1,265 @@
+{
+  "id": "skin-8610195a9f7f",
+  "name": "SSG 08 | Death Strike",
+  "paint_index": "1052",
+  "weapon": {
+    "id": "weapon_ssg08",
+    "weapon_id": 40,
+    "name": "SSG 08",
+    "slug": "ssg08"
+  },
+  "pattern": {
+    "id": "cu_ssg08_scorpion",
+    "name": "Death Strike"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship. Sand streams over an emperor scorpion on this custom painted SSG 08.\\n\\n<i>That's gonna sting...</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 633.66,
+      "max": 814.63,
+      "mean": 714.68,
+      "median": 688.43,
+      "suggested": 792.23,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 289.77,
+      "max": 583.47,
+      "mean": 475.73,
+      "median": 514.83,
+      "suggested": 304.42,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 175.04,
+      "max": 437.13,
+      "mean": 267.09,
+      "median": 252.96,
+      "suggested": 219.42,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 388.98,
+      "max": 443.44,
+      "mean": 416.21,
+      "median": 416.21,
+      "suggested": 166.97,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SSG 08 | Death Strike (Factory New)",
+      "price": {
+        "min": 633.66,
+        "max": 814.63,
+        "mean": 714.68,
+        "median": 688.43,
+        "suggested": 792.23,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SSG 08 | Death Strike (Minimal Wear)",
+      "price": {
+        "min": 289.77,
+        "max": 583.47,
+        "mean": 475.73,
+        "median": 514.83,
+        "suggested": 304.42,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "SSG 08 | Death Strike (Field-Tested)",
+      "price": {
+        "min": 175.04,
+        "max": 437.13,
+        "mean": 267.09,
+        "median": 252.96,
+        "suggested": 219.42,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "SSG 08 | Death Strike (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "SSG 08 | Death Strike (Battle-Scarred)",
+      "price": {
+        "min": 388.98,
+        "max": 443.44,
+        "mean": 416.21,
+        "median": 416.21,
+        "suggested": 166.97,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SSG 08 | Death Strike (Factory New)",
+        "price": {
+          "min": 633.66,
+          "max": 814.63,
+          "mean": 714.68,
+          "median": 688.43,
+          "suggested": 792.23,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "SSG 08 | Death Strike (Minimal Wear)",
+        "price": {
+          "min": 289.77,
+          "max": 583.47,
+          "mean": 475.73,
+          "median": 514.83,
+          "suggested": 304.42,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "SSG 08 | Death Strike (Field-Tested)",
+        "price": {
+          "min": 175.04,
+          "max": 437.13,
+          "mean": 267.09,
+          "median": 252.96,
+          "suggested": 219.42,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "SSG 08 | Death Strike (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "SSG 08 | Death Strike (Battle-Scarred)",
+        "price": {
+          "min": 388.98,
+          "max": 443.44,
+          "mean": 416.21,
+          "median": 416.21,
+          "suggested": 166.97,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SSG 08 | Death Strike (Factory New)",
+        "price": {
+          "min": 700.94,
+          "max": 700.94,
+          "mean": 700.94,
+          "median": 700.94,
+          "suggested": 361.06,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir SSG 08 | Death Strike (Minimal Wear)",
+        "price": {
+          "min": 240.09,
+          "max": 472.61,
+          "mean": 336.3,
+          "median": 315.07,
+          "suggested": 119.61,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir SSG 08 | Death Strike (Field-Tested)",
+        "price": {
+          "min": 188.06,
+          "max": 253.2,
+          "mean": 202.85,
+          "median": 192.49,
+          "suggested": 217.37,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir SSG 08 | Death Strike (Well-Worn)",
+        "price": {
+          "min": 170.48,
+          "max": 170.48,
+          "mean": 170.48,
+          "median": 170.48,
+          "suggested": 186.36,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir SSG 08 | Death Strike (Battle-Scarred)",
+        "price": {
+          "min": 163.37,
+          "max": 1073.78,
+          "mean": 467.93,
+          "median": 317.29,
+          "suggested": 189.06,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:48.487Z"
+}

@@ -1,0 +1,225 @@
+{
+  "id": "skin-a7894cfa1ec1",
+  "name": "FAMAS | Snake Song",
+  "paint_index": "1461",
+  "weapon": {
+    "id": "weapon_famas",
+    "weapon_id": 10,
+    "name": "FAMAS",
+    "slug": "famas"
+  },
+  "pattern": {
+    "id": "famas_snake_song",
+    "name": "Snake Song"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. It has been custom painted with a green snake, highlighted by a bright gold outline over a matte gold base.\\n\\n<i>A flicker of hope</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 5.71,
+      "max": 15.87,
+      "mean": 8.54,
+      "median": 6.41,
+      "suggested": 6.02,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.88,
+      "max": 2.09,
+      "mean": 1.23,
+      "median": 0.9,
+      "suggested": 1.01,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.3,
+      "max": 2.33,
+      "mean": 0.67,
+      "median": 0.36,
+      "suggested": 0.42,
+      "quantity": 32,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.27,
+      "max": 2.33,
+      "mean": 0.71,
+      "median": 0.35,
+      "suggested": 0.43,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "FAMAS | Snake Song (Factory New)",
+      "price": {
+        "min": 5.71,
+        "max": 15.87,
+        "mean": 8.54,
+        "median": 6.41,
+        "suggested": 6.02,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "FAMAS | Snake Song (Minimal Wear)",
+      "price": {
+        "min": 0.88,
+        "max": 2.09,
+        "mean": 1.23,
+        "median": 0.9,
+        "suggested": 1.01,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "FAMAS | Snake Song (Field-Tested)",
+      "price": {
+        "min": 0.3,
+        "max": 2.33,
+        "mean": 0.67,
+        "median": 0.36,
+        "suggested": 0.42,
+        "quantity": 32,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "FAMAS | Snake Song (Well-Worn)",
+      "price": {
+        "min": 0.27,
+        "max": 2.33,
+        "mean": 0.71,
+        "median": 0.35,
+        "suggested": 0.43,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "FAMAS | Snake Song (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "FAMAS | Snake Song (Factory New)",
+        "price": {
+          "min": 5.71,
+          "max": 15.87,
+          "mean": 8.54,
+          "median": 6.41,
+          "suggested": 6.02,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "FAMAS | Snake Song (Minimal Wear)",
+        "price": {
+          "min": 0.88,
+          "max": 2.09,
+          "mean": 1.23,
+          "median": 0.9,
+          "suggested": 1.01,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "FAMAS | Snake Song (Field-Tested)",
+        "price": {
+          "min": 0.3,
+          "max": 2.33,
+          "mean": 0.67,
+          "median": 0.36,
+          "suggested": 0.42,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "FAMAS | Snake Song (Well-Worn)",
+        "price": {
+          "min": 0.27,
+          "max": 2.33,
+          "mean": 0.71,
+          "median": 0.35,
+          "suggested": 0.43,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "FAMAS | Snake Song (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir FAMAS | Snake Song (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir FAMAS | Snake Song (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir FAMAS | Snake Song (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir FAMAS | Snake Song (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir FAMAS | Snake Song (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:29.533Z"
+}

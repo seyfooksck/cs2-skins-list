@@ -1,0 +1,265 @@
+{
+  "id": "skin-f4a9c9dd0929",
+  "name": "★ Nomad Knife | Stained",
+  "paint_index": "43",
+  "weapon": {
+    "id": "weapon_knife_outdoor",
+    "weapon_id": 521,
+    "name": "Nomad Knife",
+    "slug": "knife_outdoor"
+  },
+  "pattern": {
+    "id": "aq_forced",
+    "name": "Stained"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This ergonomic tactical hunting lock-blade knife features composite handle inserts and a broad, sturdy blade, useful for cutting and prying apart material. It has been given a forced patina using lemon and mustard dripped onto the surface.\\n\\n<i>If you think it's messy now, wait until you see it under a blacklight</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 197.53,
+      "max": 197.53,
+      "mean": 197.53,
+      "median": 197.53,
+      "suggested": 239.3,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 150.48,
+      "max": 233.39,
+      "mean": 183.64,
+      "median": 175.34,
+      "suggested": 208.81,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 133.02,
+      "max": 143.33,
+      "mean": 138.61,
+      "median": 140.22,
+      "suggested": 161.45,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 150.49,
+      "max": 175.03,
+      "mean": 162.76,
+      "median": 162.76,
+      "suggested": 151.23,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 119.38,
+      "max": 247.67,
+      "mean": 150.56,
+      "median": 129,
+      "suggested": 148.21,
+      "quantity": 5,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Nomad Knife | Stained (Factory New)",
+      "price": {
+        "min": 197.53,
+        "max": 197.53,
+        "mean": 197.53,
+        "median": 197.53,
+        "suggested": 239.3,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Nomad Knife | Stained (Minimal Wear)",
+      "price": {
+        "min": 150.48,
+        "max": 233.39,
+        "mean": 183.64,
+        "median": 175.34,
+        "suggested": 208.81,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Nomad Knife | Stained (Field-Tested)",
+      "price": {
+        "min": 133.02,
+        "max": 143.33,
+        "mean": 138.61,
+        "median": 140.22,
+        "suggested": 161.45,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Nomad Knife | Stained (Well-Worn)",
+      "price": {
+        "min": 150.49,
+        "max": 175.03,
+        "mean": 162.76,
+        "median": 162.76,
+        "suggested": 151.23,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Nomad Knife | Stained (Battle-Scarred)",
+      "price": {
+        "min": 119.38,
+        "max": 247.67,
+        "mean": 150.56,
+        "median": 129,
+        "suggested": 148.21,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Nomad Knife | Stained (Factory New)",
+        "price": {
+          "min": 197.53,
+          "max": 197.53,
+          "mean": 197.53,
+          "median": 197.53,
+          "suggested": 239.3,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Nomad Knife | Stained (Minimal Wear)",
+        "price": {
+          "min": 150.48,
+          "max": 233.39,
+          "mean": 183.64,
+          "median": 175.34,
+          "suggested": 208.81,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Nomad Knife | Stained (Field-Tested)",
+        "price": {
+          "min": 133.02,
+          "max": 143.33,
+          "mean": 138.61,
+          "median": 140.22,
+          "suggested": 161.45,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Nomad Knife | Stained (Well-Worn)",
+        "price": {
+          "min": 150.49,
+          "max": 175.03,
+          "mean": 162.76,
+          "median": 162.76,
+          "suggested": 151.23,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Nomad Knife | Stained (Battle-Scarred)",
+        "price": {
+          "min": 119.38,
+          "max": 247.67,
+          "mean": 150.56,
+          "median": 129,
+          "suggested": 148.21,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Nomad Knife | Stained (Factory New)",
+        "price": {
+          "min": 360.78,
+          "max": 360.78,
+          "mean": 360.78,
+          "median": 360.78,
+          "suggested": 304.7,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Nomad Knife | Stained (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Nomad Knife | Stained (Field-Tested)",
+        "price": {
+          "min": 143.44,
+          "max": 143.44,
+          "mean": 143.44,
+          "median": 143.44,
+          "suggested": 159.65,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Nomad Knife | Stained (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Nomad Knife | Stained (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:36.997Z"
+}

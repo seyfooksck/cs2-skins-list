@@ -1,0 +1,310 @@
+{
+  "id": "skin-db4de1c248fa",
+  "name": "AWP | Wildfire",
+  "paint_index": "917",
+  "weapon": {
+    "id": "weapon_awp",
+    "weapon_id": 9,
+    "name": "AWP",
+    "slug": "awp"
+  },
+  "pattern": {
+    "id": "cu_awp_wildfire",
+    "name": "Wildfire"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.01,
+  "max_float": 0.7,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. The Operation Wildfire logo has been hand painted over a black and red base.\\n\\n<i>The nail that sticks out gets the hammer</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 175.83,
+      "max": 699,
+      "mean": 272.42,
+      "median": 255.77,
+      "suggested": 237.39,
+      "quantity": 44,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 71.18,
+      "max": 233.39,
+      "mean": 98.65,
+      "median": 87.52,
+      "suggested": 99.82,
+      "quantity": 154,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 47.63,
+      "max": 3237.67,
+      "mean": 88.72,
+      "median": 66.87,
+      "suggested": 60.95,
+      "quantity": 180,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 45.69,
+      "max": 76.05,
+      "mean": 55.56,
+      "median": 53.15,
+      "suggested": 54.78,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 38.43,
+      "max": 54.1,
+      "mean": 44.31,
+      "median": 43.21,
+      "suggested": 46.62,
+      "quantity": 9,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AWP | Wildfire (Factory New)",
+      "price": {
+        "min": 175.83,
+        "max": 699,
+        "mean": 272.42,
+        "median": 255.77,
+        "suggested": 237.39,
+        "quantity": 44,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AWP | Wildfire (Minimal Wear)",
+      "price": {
+        "min": 71.18,
+        "max": 233.39,
+        "mean": 98.65,
+        "median": 87.52,
+        "suggested": 99.82,
+        "quantity": 154,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AWP | Wildfire (Field-Tested)",
+      "price": {
+        "min": 47.63,
+        "max": 3237.67,
+        "mean": 88.72,
+        "median": 66.87,
+        "suggested": 60.95,
+        "quantity": 180,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AWP | Wildfire (Well-Worn)",
+      "price": {
+        "min": 45.69,
+        "max": 76.05,
+        "mean": 55.56,
+        "median": 53.15,
+        "suggested": 54.78,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AWP | Wildfire (Battle-Scarred)",
+      "price": {
+        "min": 38.43,
+        "max": 54.1,
+        "mean": 44.31,
+        "median": 43.21,
+        "suggested": 46.62,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AWP | Wildfire (Factory New)",
+        "price": {
+          "min": 175.83,
+          "max": 699,
+          "mean": 272.42,
+          "median": 255.77,
+          "suggested": 237.39,
+          "quantity": 44,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AWP | Wildfire (Minimal Wear)",
+        "price": {
+          "min": 71.18,
+          "max": 233.39,
+          "mean": 98.65,
+          "median": 87.52,
+          "suggested": 99.82,
+          "quantity": 154,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AWP | Wildfire (Field-Tested)",
+        "price": {
+          "min": 47.63,
+          "max": 3237.67,
+          "mean": 88.72,
+          "median": 66.87,
+          "suggested": 60.95,
+          "quantity": 180,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AWP | Wildfire (Well-Worn)",
+        "price": {
+          "min": 45.69,
+          "max": 76.05,
+          "mean": 55.56,
+          "median": 53.15,
+          "suggested": 54.78,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AWP | Wildfire (Battle-Scarred)",
+        "price": {
+          "min": 38.43,
+          "max": 54.1,
+          "mean": 44.31,
+          "median": 43.21,
+          "suggested": 46.62,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AWP | Wildfire (Factory New)",
+        "price": {
+          "min": 316.51,
+          "max": 588.88,
+          "mean": 404.87,
+          "median": 384.89,
+          "suggested": 373.1,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AWP | Wildfire (Minimal Wear)",
+        "price": {
+          "min": 151.19,
+          "max": 465.61,
+          "mean": 206.01,
+          "median": 186.71,
+          "suggested": 200.44,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AWP | Wildfire (Field-Tested)",
+        "price": {
+          "min": 87.21,
+          "max": 198.37,
+          "mean": 118.3,
+          "median": 106.42,
+          "suggested": 116.73,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AWP | Wildfire (Well-Worn)",
+        "price": {
+          "min": 113.86,
+          "max": 113.86,
+          "mean": 113.86,
+          "median": 113.86,
+          "suggested": 105.24,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ AWP | Wildfire (Battle-Scarred)",
+        "price": {
+          "min": 96.94,
+          "max": 203.81,
+          "mean": 151.74,
+          "median": 154.47,
+          "suggested": 104.7,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AWP | Wildfire (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AWP | Wildfire (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AWP | Wildfire (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AWP | Wildfire (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AWP | Wildfire (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:26.058Z"
+}

@@ -1,0 +1,145 @@
+{
+  "id": "skin-f1e77412769d",
+  "name": "Sawed-Off | Brake Light",
+  "paint_index": "797",
+  "weapon": {
+    "id": "weapon_sawedoff",
+    "weapon_id": 29,
+    "name": "Sawed-Off",
+    "slug": "sawedoff"
+  },
+  "pattern": {
+    "id": "aa_vertigo_red",
+    "name": "Brake Light"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit. A red and white spiral pattern has been applied to the receiver.\\n\\n<i>Keep right except to pass</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.59,
+      "max": 63.42,
+      "mean": 8.33,
+      "median": 3.3,
+      "suggested": 1.41,
+      "quantity": 52,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.16,
+      "max": 21.64,
+      "mean": 4.34,
+      "median": 1.65,
+      "suggested": 1.34,
+      "quantity": 13,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Sawed-Off | Brake Light (Factory New)",
+      "price": {
+        "min": 1.59,
+        "max": 63.42,
+        "mean": 8.33,
+        "median": 3.3,
+        "suggested": 1.41,
+        "quantity": 52,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Sawed-Off | Brake Light (Minimal Wear)",
+      "price": {
+        "min": 1.16,
+        "max": 21.64,
+        "mean": 4.34,
+        "median": 1.65,
+        "suggested": 1.34,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Sawed-Off | Brake Light (Factory New)",
+        "price": {
+          "min": 1.59,
+          "max": 63.42,
+          "mean": 8.33,
+          "median": 3.3,
+          "suggested": 1.41,
+          "quantity": 52,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Sawed-Off | Brake Light (Minimal Wear)",
+        "price": {
+          "min": 1.16,
+          "max": 21.64,
+          "mean": 4.34,
+          "median": 1.65,
+          "suggested": 1.34,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Sawed-Off | Brake Light (Factory New)",
+        "price": {
+          "min": 1.31,
+          "max": 70.02,
+          "mean": 13.22,
+          "median": 5.08,
+          "suggested": 1.52,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Sawed-Off | Brake Light (Minimal Wear)",
+        "price": {
+          "min": 4.27,
+          "max": 108.2,
+          "mean": 56.23,
+          "median": 56.23,
+          "suggested": 2.91,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:46.900Z"
+}

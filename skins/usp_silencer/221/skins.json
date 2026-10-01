@@ -1,0 +1,198 @@
+{
+  "id": "skin-0a4f3191b0d1",
+  "name": "USP-S | Serum",
+  "paint_index": "221",
+  "weapon": {
+    "id": "weapon_usp_silencer",
+    "weapon_id": 61,
+    "name": "USP-S",
+    "slug": "usp_silencer"
+  },
+  "pattern": {
+    "id": "am_electric_red",
+    "name": "Serum"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.25,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise. It has been painted in a digital pattern with metallic paints of various reflectivities over a chrome base coat.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 117.83,
+      "max": 887.89,
+      "mean": 226.47,
+      "median": 171.92,
+      "suggested": 137.08,
+      "quantity": 16,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 75.85,
+      "max": 536.88,
+      "mean": 363.23,
+      "median": 420.1,
+      "suggested": 80.73,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 55.52,
+      "max": 69.91,
+      "mean": 64.94,
+      "median": 69.39,
+      "suggested": 62.76,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "USP-S | Serum (Factory New)",
+      "price": {
+        "min": 117.83,
+        "max": 887.89,
+        "mean": 226.47,
+        "median": 171.92,
+        "suggested": 137.08,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "USP-S | Serum (Minimal Wear)",
+      "price": {
+        "min": 75.85,
+        "max": 536.88,
+        "mean": 363.23,
+        "median": 420.1,
+        "suggested": 80.73,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "USP-S | Serum (Field-Tested)",
+      "price": {
+        "min": 55.52,
+        "max": 69.91,
+        "mean": 64.94,
+        "median": 69.39,
+        "suggested": 62.76,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "USP-S | Serum (Factory New)",
+        "price": {
+          "min": 117.83,
+          "max": 887.89,
+          "mean": 226.47,
+          "median": 171.92,
+          "suggested": 137.08,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "USP-S | Serum (Minimal Wear)",
+        "price": {
+          "min": 75.85,
+          "max": 536.88,
+          "mean": 363.23,
+          "median": 420.1,
+          "suggested": 80.73,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "USP-S | Serum (Field-Tested)",
+        "price": {
+          "min": 55.52,
+          "max": 69.91,
+          "mean": 64.94,
+          "median": 69.39,
+          "suggested": 62.76,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ USP-S | Serum (Factory New)",
+        "price": {
+          "min": 68.88,
+          "max": 209.93,
+          "mean": 130.06,
+          "median": 111.36,
+          "suggested": 93.56,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ USP-S | Serum (Minimal Wear)",
+        "price": {
+          "min": 55.66,
+          "max": 499.01,
+          "mean": 207.56,
+          "median": 68.01,
+          "suggested": 66.37,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ USP-S | Serum (Field-Tested)",
+        "price": null
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir USP-S | Serum (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir USP-S | Serum (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir USP-S | Serum (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:50.356Z"
+}

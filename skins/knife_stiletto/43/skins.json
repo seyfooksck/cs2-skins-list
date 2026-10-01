@@ -1,0 +1,241 @@
+{
+  "id": "skin-f68bbee06eed",
+  "name": "★ Stiletto Knife | Stained",
+  "paint_index": "43",
+  "weapon": {
+    "id": "weapon_knife_stiletto",
+    "weapon_id": 522,
+    "name": "Stiletto Knife",
+    "slug": "knife_stiletto"
+  },
+  "pattern": {
+    "id": "aq_forced",
+    "name": "Stained"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Historically a focal point of contention and even regulation, this Italian-style stiletto switchblade knife features a spring-loaded blade that can be deployed almost instantly with the push of a release catch. It has been given a forced patina using lemon and mustard dripped onto the surface.\\n\\n<i>If you think it's messy now, wait until you see it under a blacklight</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 204.91,
+      "max": 220.33,
+      "mean": 212.59,
+      "median": 212.01,
+      "suggested": 251.8,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 198.38,
+      "max": 210.1,
+      "mean": 204.24,
+      "median": 204.24,
+      "suggested": 242.01,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 179.57,
+      "max": 210.05,
+      "mean": 192.99,
+      "median": 193.3,
+      "suggested": 224.84,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 184.85,
+      "max": 196.03,
+      "mean": 189.46,
+      "median": 188.48,
+      "suggested": 212.38,
+      "quantity": 4,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Stiletto Knife | Stained (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Stiletto Knife | Stained (Minimal Wear)",
+      "price": {
+        "min": 204.91,
+        "max": 220.33,
+        "mean": 212.59,
+        "median": 212.01,
+        "suggested": 251.8,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Stiletto Knife | Stained (Field-Tested)",
+      "price": {
+        "min": 198.38,
+        "max": 210.1,
+        "mean": 204.24,
+        "median": 204.24,
+        "suggested": 242.01,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Stiletto Knife | Stained (Well-Worn)",
+      "price": {
+        "min": 179.57,
+        "max": 210.05,
+        "mean": 192.99,
+        "median": 193.3,
+        "suggested": 224.84,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Stiletto Knife | Stained (Battle-Scarred)",
+      "price": {
+        "min": 184.85,
+        "max": 196.03,
+        "mean": 189.46,
+        "median": 188.48,
+        "suggested": 212.38,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Stiletto Knife | Stained (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Stiletto Knife | Stained (Minimal Wear)",
+        "price": {
+          "min": 204.91,
+          "max": 220.33,
+          "mean": 212.59,
+          "median": 212.01,
+          "suggested": 251.8,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Stiletto Knife | Stained (Field-Tested)",
+        "price": {
+          "min": 198.38,
+          "max": 210.1,
+          "mean": 204.24,
+          "median": 204.24,
+          "suggested": 242.01,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Stiletto Knife | Stained (Well-Worn)",
+        "price": {
+          "min": 179.57,
+          "max": 210.05,
+          "mean": 192.99,
+          "median": 193.3,
+          "suggested": 224.84,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Stiletto Knife | Stained (Battle-Scarred)",
+        "price": {
+          "min": 184.85,
+          "max": 196.03,
+          "mean": 189.46,
+          "median": 188.48,
+          "suggested": 212.38,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Stiletto Knife | Stained (Factory New)",
+        "price": {
+          "min": 429.05,
+          "max": 429.05,
+          "mean": 429.05,
+          "median": 429.05,
+          "suggested": 450.23,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Stiletto Knife | Stained (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Stiletto Knife | Stained (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Stiletto Knife | Stained (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Stiletto Knife | Stained (Battle-Scarred)",
+        "price": {
+          "min": 412.45,
+          "max": 412.45,
+          "mean": 412.45,
+          "median": 412.45,
+          "suggested": 223.16,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:38.018Z"
+}

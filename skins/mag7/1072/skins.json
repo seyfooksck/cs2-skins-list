@@ -1,0 +1,193 @@
+{
+  "id": "skin-4d690457f5c0",
+  "name": "MAG-7 | Prism Terrace",
+  "paint_index": "1072",
+  "weapon": {
+    "id": "weapon_mag7",
+    "weapon_id": 27,
+    "name": "MAG-7",
+    "slug": "mag7"
+  },
+  "pattern": {
+    "id": "hy_geometric_steps_pearl",
+    "name": "Prism Terrace"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.37,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The CT-exclusive Mag-7 delivers a devastating amount of damage at close range. Its rapid magazine-style reloads make it a great tactical choice. A pearlescent optical illusion pattern has been applied.\\n\\n<i>Where does it start and where does it end? Does it end?</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 43.99,
+      "max": 128.35,
+      "mean": 76.97,
+      "median": 65.19,
+      "suggested": 57.11,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 38.64,
+      "max": 116.69,
+      "mean": 66.54,
+      "median": 55.41,
+      "suggested": 34.71,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 116.69,
+      "max": 116.69,
+      "mean": 116.69,
+      "median": 116.69,
+      "suggested": 48.56,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAG-7 | Prism Terrace (Factory New)",
+      "price": {
+        "min": 43.99,
+        "max": 128.35,
+        "mean": 76.97,
+        "median": 65.19,
+        "suggested": 57.11,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAG-7 | Prism Terrace (Minimal Wear)",
+      "price": {
+        "min": 38.64,
+        "max": 116.69,
+        "mean": 66.54,
+        "median": 55.41,
+        "suggested": 34.71,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAG-7 | Prism Terrace (Field-Tested)",
+      "price": {
+        "min": 116.69,
+        "max": 116.69,
+        "mean": 116.69,
+        "median": 116.69,
+        "suggested": 48.56,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAG-7 | Prism Terrace (Factory New)",
+        "price": {
+          "min": 43.99,
+          "max": 128.35,
+          "mean": 76.97,
+          "median": 65.19,
+          "suggested": 57.11,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAG-7 | Prism Terrace (Minimal Wear)",
+        "price": {
+          "min": 38.64,
+          "max": 116.69,
+          "mean": 66.54,
+          "median": 55.41,
+          "suggested": 34.71,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAG-7 | Prism Terrace (Field-Tested)",
+        "price": {
+          "min": 116.69,
+          "max": 116.69,
+          "mean": 116.69,
+          "median": 116.69,
+          "suggested": 48.56,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAG-7 | Prism Terrace (Factory New)",
+        "price": {
+          "min": 37.11,
+          "max": 69.43,
+          "mean": 51.11,
+          "median": 46.79,
+          "suggested": 42.86,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAG-7 | Prism Terrace (Minimal Wear)",
+        "price": {
+          "min": 19.64,
+          "max": 19.64,
+          "mean": 19.64,
+          "median": 19.64,
+          "suggested": 22.58,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAG-7 | Prism Terrace (Field-Tested)",
+        "price": {
+          "min": 26.26,
+          "max": 52.51,
+          "mean": 34.06,
+          "median": 28.74,
+          "suggested": 22.89,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.447Z"
+}

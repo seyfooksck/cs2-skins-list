@@ -1,0 +1,225 @@
+{
+  "id": "skin-7ee19dac7dab",
+  "name": "P250 | Dark Filigree",
+  "paint_index": "741",
+  "weapon": {
+    "id": "weapon_p250",
+    "weapon_id": 36,
+    "name": "P250",
+    "slug": "p250"
+  },
+  "pattern": {
+    "id": "am_ren_dark",
+    "name": "Dark Filigree"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A low-recoil firearm with a high rate of fire, the P250 is a relatively inexpensive choice against armored opponents. A deep red hydrographic pattern has been applied over a charcoal base.\\n\\n<i>Perhaps this is one piece of art better left in the past</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 18.53,
+      "max": 88.63,
+      "mean": 32.64,
+      "median": 27.99,
+      "suggested": 20.4,
+      "quantity": 20,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 6.93,
+      "max": 11.67,
+      "mean": 8.1,
+      "median": 7.33,
+      "suggested": 7.01,
+      "quantity": 16,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 4.64,
+      "max": 11.67,
+      "mean": 7.62,
+      "median": 7.07,
+      "suggested": 5.94,
+      "quantity": 20,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 6.62,
+      "max": 6.92,
+      "mean": 6.77,
+      "median": 6.77,
+      "suggested": 6.08,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P250 | Dark Filigree (Factory New)",
+      "price": {
+        "min": 18.53,
+        "max": 88.63,
+        "mean": 32.64,
+        "median": 27.99,
+        "suggested": 20.4,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P250 | Dark Filigree (Minimal Wear)",
+      "price": {
+        "min": 6.93,
+        "max": 11.67,
+        "mean": 8.1,
+        "median": 7.33,
+        "suggested": 7.01,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P250 | Dark Filigree (Field-Tested)",
+      "price": {
+        "min": 4.64,
+        "max": 11.67,
+        "mean": 7.62,
+        "median": 7.07,
+        "suggested": 5.94,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P250 | Dark Filigree (Well-Worn)",
+      "price": {
+        "min": 6.62,
+        "max": 6.92,
+        "mean": 6.77,
+        "median": 6.77,
+        "suggested": 6.08,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P250 | Dark Filigree (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P250 | Dark Filigree (Factory New)",
+        "price": {
+          "min": 18.53,
+          "max": 88.63,
+          "mean": 32.64,
+          "median": 27.99,
+          "suggested": 20.4,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P250 | Dark Filigree (Minimal Wear)",
+        "price": {
+          "min": 6.93,
+          "max": 11.67,
+          "mean": 8.1,
+          "median": 7.33,
+          "suggested": 7.01,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P250 | Dark Filigree (Field-Tested)",
+        "price": {
+          "min": 4.64,
+          "max": 11.67,
+          "mean": 7.62,
+          "median": 7.07,
+          "suggested": 5.94,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P250 | Dark Filigree (Well-Worn)",
+        "price": {
+          "min": 6.62,
+          "max": 6.92,
+          "mean": 6.77,
+          "median": 6.77,
+          "suggested": 6.08,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P250 | Dark Filigree (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P250 | Dark Filigree (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P250 | Dark Filigree (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P250 | Dark Filigree (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P250 | Dark Filigree (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P250 | Dark Filigree (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.992Z"
+}

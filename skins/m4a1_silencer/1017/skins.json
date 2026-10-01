@@ -1,0 +1,129 @@
+{
+  "id": "skin-144ddd95becd",
+  "name": "M4A1-S | Blue Phosphor",
+  "paint_index": "1017",
+  "weapon": {
+    "id": "weapon_m4a1_silencer",
+    "weapon_id": 60,
+    "name": "M4A1-S",
+    "slug": "m4a1_silencer"
+  },
+  "pattern": {
+    "id": "am_m4a1s_bluesmoke",
+    "name": "Blue Phosphor"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. Multiple layers of metallic blue paint have been applied over a chrome blue base coat.\\n\\n<i>Feeling blue?</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 617.47,
+      "max": 5834.69,
+      "mean": 1063.35,
+      "median": 921.73,
+      "suggested": 700.34,
+      "quantity": 101,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 616.5,
+      "max": 1198.25,
+      "mean": 853.99,
+      "median": 849.81,
+      "suggested": 809.05,
+      "quantity": 8,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A1-S | Blue Phosphor (Factory New)",
+      "price": {
+        "min": 617.47,
+        "max": 5834.69,
+        "mean": 1063.35,
+        "median": 921.73,
+        "suggested": 700.34,
+        "quantity": 101,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A1-S | Blue Phosphor (Minimal Wear)",
+      "price": {
+        "min": 616.5,
+        "max": 1198.25,
+        "mean": 853.99,
+        "median": 849.81,
+        "suggested": 809.05,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A1-S | Blue Phosphor (Factory New)",
+        "price": {
+          "min": 617.47,
+          "max": 5834.69,
+          "mean": 1063.35,
+          "median": 921.73,
+          "suggested": 700.34,
+          "quantity": 101,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A1-S | Blue Phosphor (Minimal Wear)",
+        "price": {
+          "min": 616.5,
+          "max": 1198.25,
+          "mean": 853.99,
+          "median": 849.81,
+          "suggested": 809.05,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A1-S | Blue Phosphor (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A1-S | Blue Phosphor (Minimal Wear)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:40.725Z"
+}

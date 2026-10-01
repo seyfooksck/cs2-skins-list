@@ -1,0 +1,278 @@
+{
+  "id": "skin-289b0ffc81ae",
+  "name": "UMP-45 | Metal Flowers",
+  "paint_index": "672",
+  "weapon": {
+    "id": "weapon_ump45",
+    "weapon_id": 24,
+    "name": "UMP-45",
+    "slug": "ump45"
+  },
+  "pattern": {
+    "id": "aq_ump45_flameflower",
+    "name": "Metal Flowers"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic. It has been given a steel-colored pattern of funeral roses.\\n\\n<i>In memoriam</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 9.34,
+      "max": 63.31,
+      "mean": 22.45,
+      "median": 14.77,
+      "suggested": 13.47,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 8.17,
+      "max": 11.67,
+      "mean": 9.07,
+      "median": 8.73,
+      "suggested": 9.84,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 3.97,
+      "max": 10.25,
+      "mean": 6.46,
+      "median": 6.25,
+      "suggested": 4.66,
+      "quantity": 18,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 4.55,
+      "max": 4.55,
+      "mean": 4.55,
+      "median": 4.55,
+      "suggested": 5.21,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "UMP-45 | Metal Flowers (Factory New)",
+      "price": {
+        "min": 9.34,
+        "max": 63.31,
+        "mean": 22.45,
+        "median": 14.77,
+        "suggested": 13.47,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "UMP-45 | Metal Flowers (Minimal Wear)",
+      "price": {
+        "min": 8.17,
+        "max": 11.67,
+        "mean": 9.07,
+        "median": 8.73,
+        "suggested": 9.84,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "UMP-45 | Metal Flowers (Field-Tested)",
+      "price": {
+        "min": 3.97,
+        "max": 10.25,
+        "mean": 6.46,
+        "median": 6.25,
+        "suggested": 4.66,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "UMP-45 | Metal Flowers (Well-Worn)",
+      "price": {
+        "min": 4.55,
+        "max": 4.55,
+        "mean": 4.55,
+        "median": 4.55,
+        "suggested": 5.21,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "UMP-45 | Metal Flowers (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "UMP-45 | Metal Flowers (Factory New)",
+        "price": {
+          "min": 9.34,
+          "max": 63.31,
+          "mean": 22.45,
+          "median": 14.77,
+          "suggested": 13.47,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "UMP-45 | Metal Flowers (Minimal Wear)",
+        "price": {
+          "min": 8.17,
+          "max": 11.67,
+          "mean": 9.07,
+          "median": 8.73,
+          "suggested": 9.84,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "UMP-45 | Metal Flowers (Field-Tested)",
+        "price": {
+          "min": 3.97,
+          "max": 10.25,
+          "mean": 6.46,
+          "median": 6.25,
+          "suggested": 4.66,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "UMP-45 | Metal Flowers (Well-Worn)",
+        "price": {
+          "min": 4.55,
+          "max": 4.55,
+          "mean": 4.55,
+          "median": 4.55,
+          "suggested": 5.21,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "UMP-45 | Metal Flowers (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ UMP-45 | Metal Flowers (Factory New)",
+        "price": {
+          "min": 9.78,
+          "max": 70,
+          "mean": 27.75,
+          "median": 11.44,
+          "suggested": 12.13,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ UMP-45 | Metal Flowers (Minimal Wear)",
+        "price": {
+          "min": 5.11,
+          "max": 6.14,
+          "mean": 5.61,
+          "median": 5.61,
+          "suggested": 5.79,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ UMP-45 | Metal Flowers (Field-Tested)",
+        "price": {
+          "min": 4.11,
+          "max": 4.9,
+          "mean": 4.6,
+          "median": 4.62,
+          "suggested": 5.33,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ UMP-45 | Metal Flowers (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ UMP-45 | Metal Flowers (Battle-Scarred)",
+        "price": {
+          "min": 3.64,
+          "max": 3.64,
+          "mean": 3.64,
+          "median": 3.64,
+          "suggested": 4.38,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir UMP-45 | Metal Flowers (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir UMP-45 | Metal Flowers (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir UMP-45 | Metal Flowers (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir UMP-45 | Metal Flowers (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir UMP-45 | Metal Flowers (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.777Z"
+}

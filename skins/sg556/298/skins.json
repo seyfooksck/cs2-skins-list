@@ -1,0 +1,169 @@
+{
+  "id": "skin-9971505b1e6e",
+  "name": "SG 553 | Army Sheen",
+  "paint_index": "298",
+  "weapon": {
+    "id": "weapon_sg556",
+    "weapon_id": 39,
+    "name": "SG 553",
+    "slug": "sg556"
+  },
+  "pattern": {
+    "id": "am_army_shine",
+    "name": "Army Sheen"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 0.3,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The terrorist-exclusive SG553 is a premium scoped alternative to the AK47 for effective long-range engagement. It has been covered in a metallic foil stamped with a camouflage pattern.\\n\\n<i>Remember your training</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.05,
+      "max": 19.02,
+      "mean": 0.49,
+      "median": 0.18,
+      "suggested": 0.08,
+      "quantity": 888,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.04,
+      "max": 36.6,
+      "mean": 0.57,
+      "median": 0.05,
+      "suggested": 0.07,
+      "quantity": 1082,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.02,
+      "max": 1.75,
+      "mean": 0.13,
+      "median": 0.05,
+      "suggested": 0.07,
+      "quantity": 251,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SG 553 | Army Sheen (Factory New)",
+      "price": {
+        "min": 0.05,
+        "max": 19.02,
+        "mean": 0.49,
+        "median": 0.18,
+        "suggested": 0.08,
+        "quantity": 888,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SG 553 | Army Sheen (Minimal Wear)",
+      "price": {
+        "min": 0.04,
+        "max": 36.6,
+        "mean": 0.57,
+        "median": 0.05,
+        "suggested": 0.07,
+        "quantity": 1082,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "SG 553 | Army Sheen (Field-Tested)",
+      "price": {
+        "min": 0.02,
+        "max": 1.75,
+        "mean": 0.13,
+        "median": 0.05,
+        "suggested": 0.07,
+        "quantity": 251,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SG 553 | Army Sheen (Factory New)",
+        "price": {
+          "min": 0.05,
+          "max": 19.02,
+          "mean": 0.49,
+          "median": 0.18,
+          "suggested": 0.08,
+          "quantity": 888,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "SG 553 | Army Sheen (Minimal Wear)",
+        "price": {
+          "min": 0.04,
+          "max": 36.6,
+          "mean": 0.57,
+          "median": 0.05,
+          "suggested": 0.07,
+          "quantity": 1082,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "SG 553 | Army Sheen (Field-Tested)",
+        "price": {
+          "min": 0.02,
+          "max": 1.75,
+          "mean": 0.13,
+          "median": 0.05,
+          "suggested": 0.07,
+          "quantity": 251,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SG 553 | Army Sheen (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir SG 553 | Army Sheen (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir SG 553 | Army Sheen (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:47.848Z"
+}

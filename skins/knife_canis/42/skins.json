@@ -1,0 +1,281 @@
+{
+  "id": "skin-73f3147d83c0",
+  "name": "★ Survival Knife | Blue Steel",
+  "paint_index": "42",
+  "weapon": {
+    "id": "weapon_knife_canis",
+    "weapon_id": 518,
+    "name": "Survival Knife",
+    "slug": "knife_canis"
+  },
+  "pattern": {
+    "id": "aq_blued",
+    "name": "Blue Steel"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been cold blued.\\n\\n<i>This is the malbec of weapon design - Booth, Arms Dealer</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 132.24,
+      "max": 234.37,
+      "mean": 157.96,
+      "median": 143.87,
+      "suggested": 165.15,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 81.69,
+      "max": 262.56,
+      "mean": 122.39,
+      "median": 95.05,
+      "suggested": 107.41,
+      "quantity": 23,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 75.76,
+      "max": 169.21,
+      "mean": 95.19,
+      "median": 83.1,
+      "suggested": 87.52,
+      "quantity": 16,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 69.91,
+      "max": 82.83,
+      "mean": 76.28,
+      "median": 76.11,
+      "suggested": 80.34,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 69.51,
+      "max": 348.91,
+      "mean": 201.69,
+      "median": 186.65,
+      "suggested": 81.37,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Survival Knife | Blue Steel (Factory New)",
+      "price": {
+        "min": 132.24,
+        "max": 234.37,
+        "mean": 157.96,
+        "median": 143.87,
+        "suggested": 165.15,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Survival Knife | Blue Steel (Minimal Wear)",
+      "price": {
+        "min": 81.69,
+        "max": 262.56,
+        "mean": 122.39,
+        "median": 95.05,
+        "suggested": 107.41,
+        "quantity": 23,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Survival Knife | Blue Steel (Field-Tested)",
+      "price": {
+        "min": 75.76,
+        "max": 169.21,
+        "mean": 95.19,
+        "median": 83.1,
+        "suggested": 87.52,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Survival Knife | Blue Steel (Well-Worn)",
+      "price": {
+        "min": 69.91,
+        "max": 82.83,
+        "mean": 76.28,
+        "median": 76.11,
+        "suggested": 80.34,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Survival Knife | Blue Steel (Battle-Scarred)",
+      "price": {
+        "min": 69.51,
+        "max": 348.91,
+        "mean": 201.69,
+        "median": 186.65,
+        "suggested": 81.37,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Survival Knife | Blue Steel (Factory New)",
+        "price": {
+          "min": 132.24,
+          "max": 234.37,
+          "mean": 157.96,
+          "median": 143.87,
+          "suggested": 165.15,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Survival Knife | Blue Steel (Minimal Wear)",
+        "price": {
+          "min": 81.69,
+          "max": 262.56,
+          "mean": 122.39,
+          "median": 95.05,
+          "suggested": 107.41,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Survival Knife | Blue Steel (Field-Tested)",
+        "price": {
+          "min": 75.76,
+          "max": 169.21,
+          "mean": 95.19,
+          "median": 83.1,
+          "suggested": 87.52,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Survival Knife | Blue Steel (Well-Worn)",
+        "price": {
+          "min": 69.91,
+          "max": 82.83,
+          "mean": 76.28,
+          "median": 76.11,
+          "suggested": 80.34,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Survival Knife | Blue Steel (Battle-Scarred)",
+        "price": {
+          "min": 69.51,
+          "max": 348.91,
+          "mean": 201.69,
+          "median": 186.65,
+          "suggested": 81.37,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Blue Steel (Factory New)",
+        "price": {
+          "min": 408.43,
+          "max": 408.43,
+          "mean": 408.43,
+          "median": 408.43,
+          "suggested": 208.05,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Blue Steel (Minimal Wear)",
+        "price": {
+          "min": 111.02,
+          "max": 129.48,
+          "mean": 120.45,
+          "median": 120.65,
+          "suggested": 121.48,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Blue Steel (Field-Tested)",
+        "price": {
+          "min": 96.84,
+          "max": 291.66,
+          "mean": 207.29,
+          "median": 233.38,
+          "suggested": 103.57,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Blue Steel (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Blue Steel (Battle-Scarred)",
+        "price": {
+          "min": 116.69,
+          "max": 140.02,
+          "mean": 128.36,
+          "median": 128.36,
+          "suggested": 99.64,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:33.383Z"
+}

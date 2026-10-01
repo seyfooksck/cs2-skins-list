@@ -1,0 +1,249 @@
+{
+  "id": "skin-acb49d115a3c",
+  "name": "CZ75-Auto | Indigo",
+  "paint_index": "333",
+  "weapon": {
+    "id": "weapon_cz75a",
+    "weapon_id": 63,
+    "name": "CZ75-Auto",
+    "slug": "cz75a"
+  },
+  "pattern": {
+    "id": "so_indigo_and_grey",
+    "name": "Indigo"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fully automatic variant of the CZ75, the CZ75-Auto is the ideal short-term choice for turning the tables and gaining your opponents weapon. But with very little ammo in the magazine, strong trigger discipline is required. It has been painted solid colors in indigo, blue and grey.\\n\\n<i>Alex Kincaide, I'm sure you have many questions... please allow me to give you answers - The Phoenix and The Storyteller Part 1</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 32.29,
+      "max": 126.6,
+      "mean": 79.66,
+      "median": 79.88,
+      "suggested": 18.48,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 5.24,
+      "max": 12.46,
+      "mean": 7.74,
+      "median": 6.99,
+      "suggested": 6.02,
+      "quantity": 33,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.58,
+      "max": 206.2,
+      "mean": 9.27,
+      "median": 6.72,
+      "suggested": 3.24,
+      "quantity": 169,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 2.19,
+      "max": 11.84,
+      "mean": 4.81,
+      "median": 3.55,
+      "suggested": 2.57,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 2.04,
+      "max": 5.82,
+      "mean": 3.27,
+      "median": 2.96,
+      "suggested": 2.18,
+      "quantity": 29,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "CZ75-Auto | Indigo (Factory New)",
+      "price": {
+        "min": 32.29,
+        "max": 126.6,
+        "mean": 79.66,
+        "median": 79.88,
+        "suggested": 18.48,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "CZ75-Auto | Indigo (Minimal Wear)",
+      "price": {
+        "min": 5.24,
+        "max": 12.46,
+        "mean": 7.74,
+        "median": 6.99,
+        "suggested": 6.02,
+        "quantity": 33,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "CZ75-Auto | Indigo (Field-Tested)",
+      "price": {
+        "min": 2.58,
+        "max": 206.2,
+        "mean": 9.27,
+        "median": 6.72,
+        "suggested": 3.24,
+        "quantity": 169,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "CZ75-Auto | Indigo (Well-Worn)",
+      "price": {
+        "min": 2.19,
+        "max": 11.84,
+        "mean": 4.81,
+        "median": 3.55,
+        "suggested": 2.57,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "CZ75-Auto | Indigo (Battle-Scarred)",
+      "price": {
+        "min": 2.04,
+        "max": 5.82,
+        "mean": 3.27,
+        "median": 2.96,
+        "suggested": 2.18,
+        "quantity": 29,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "CZ75-Auto | Indigo (Factory New)",
+        "price": {
+          "min": 32.29,
+          "max": 126.6,
+          "mean": 79.66,
+          "median": 79.88,
+          "suggested": 18.48,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "CZ75-Auto | Indigo (Minimal Wear)",
+        "price": {
+          "min": 5.24,
+          "max": 12.46,
+          "mean": 7.74,
+          "median": 6.99,
+          "suggested": 6.02,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "CZ75-Auto | Indigo (Field-Tested)",
+        "price": {
+          "min": 2.58,
+          "max": 206.2,
+          "mean": 9.27,
+          "median": 6.72,
+          "suggested": 3.24,
+          "quantity": 169,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "CZ75-Auto | Indigo (Well-Worn)",
+        "price": {
+          "min": 2.19,
+          "max": 11.84,
+          "mean": 4.81,
+          "median": 3.55,
+          "suggested": 2.57,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "CZ75-Auto | Indigo (Battle-Scarred)",
+        "price": {
+          "min": 2.04,
+          "max": 5.82,
+          "mean": 3.27,
+          "median": 2.96,
+          "suggested": 2.18,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir CZ75-Auto | Indigo (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir CZ75-Auto | Indigo (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir CZ75-Auto | Indigo (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir CZ75-Auto | Indigo (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir CZ75-Auto | Indigo (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:27.869Z"
+}

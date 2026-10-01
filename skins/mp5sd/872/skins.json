@@ -1,0 +1,249 @@
+{
+  "id": "skin-985b9e77b38c",
+  "name": "MP5-SD | Bamboo Garden",
+  "paint_index": "872",
+  "weapon": {
+    "id": "weapon_mp5sd",
+    "weapon_id": 23,
+    "name": "MP5-SD",
+    "slug": "mp5sd"
+  },
+  "pattern": {
+    "id": "hy_bamboo_stmarc",
+    "name": "Bamboo Garden"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 0.55,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. It has been painted with a hydrographic of brush-painted bamboo.\\n\\n<i>Insert shoot pun here</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 8.15,
+      "max": 115.53,
+      "mean": 23.23,
+      "median": 26.9,
+      "suggested": 8.41,
+      "quantity": 79,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 5.11,
+      "max": 17.5,
+      "mean": 9.65,
+      "median": 11.67,
+      "suggested": 6.16,
+      "quantity": 40,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 4.18,
+      "max": 35.01,
+      "mean": 9.2,
+      "median": 6.32,
+      "suggested": 5.2,
+      "quantity": 68,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 4.89,
+      "max": 39.94,
+      "mean": 16.98,
+      "median": 11.55,
+      "suggested": 4.44,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 4.34,
+      "max": 5.85,
+      "mean": 4.88,
+      "median": 4.48,
+      "suggested": 4.99,
+      "quantity": 6,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP5-SD | Bamboo Garden (Factory New)",
+      "price": {
+        "min": 8.15,
+        "max": 115.53,
+        "mean": 23.23,
+        "median": 26.9,
+        "suggested": 8.41,
+        "quantity": 79,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP5-SD | Bamboo Garden (Minimal Wear)",
+      "price": {
+        "min": 5.11,
+        "max": 17.5,
+        "mean": 9.65,
+        "median": 11.67,
+        "suggested": 6.16,
+        "quantity": 40,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP5-SD | Bamboo Garden (Field-Tested)",
+      "price": {
+        "min": 4.18,
+        "max": 35.01,
+        "mean": 9.2,
+        "median": 6.32,
+        "suggested": 5.2,
+        "quantity": 68,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP5-SD | Bamboo Garden (Well-Worn)",
+      "price": {
+        "min": 4.89,
+        "max": 39.94,
+        "mean": 16.98,
+        "median": 11.55,
+        "suggested": 4.44,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP5-SD | Bamboo Garden (Battle-Scarred)",
+      "price": {
+        "min": 4.34,
+        "max": 5.85,
+        "mean": 4.88,
+        "median": 4.48,
+        "suggested": 4.99,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP5-SD | Bamboo Garden (Factory New)",
+        "price": {
+          "min": 8.15,
+          "max": 115.53,
+          "mean": 23.23,
+          "median": 26.9,
+          "suggested": 8.41,
+          "quantity": 79,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP5-SD | Bamboo Garden (Minimal Wear)",
+        "price": {
+          "min": 5.11,
+          "max": 17.5,
+          "mean": 9.65,
+          "median": 11.67,
+          "suggested": 6.16,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP5-SD | Bamboo Garden (Field-Tested)",
+        "price": {
+          "min": 4.18,
+          "max": 35.01,
+          "mean": 9.2,
+          "median": 6.32,
+          "suggested": 5.2,
+          "quantity": 68,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP5-SD | Bamboo Garden (Well-Worn)",
+        "price": {
+          "min": 4.89,
+          "max": 39.94,
+          "mean": 16.98,
+          "median": 11.55,
+          "suggested": 4.44,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP5-SD | Bamboo Garden (Battle-Scarred)",
+        "price": {
+          "min": 4.34,
+          "max": 5.85,
+          "mean": 4.88,
+          "median": 4.48,
+          "suggested": 4.99,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP5-SD | Bamboo Garden (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP5-SD | Bamboo Garden (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP5-SD | Bamboo Garden (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP5-SD | Bamboo Garden (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP5-SD | Bamboo Garden (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.786Z"
+}

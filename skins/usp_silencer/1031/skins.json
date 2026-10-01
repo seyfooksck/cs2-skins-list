@@ -1,0 +1,241 @@
+{
+  "id": "skin-c682eedb501e",
+  "name": "USP-S | Ancient Visions",
+  "paint_index": "1031",
+  "weapon": {
+    "id": "weapon_usp_silencer",
+    "weapon_id": 61,
+    "name": "USP-S",
+    "slug": "usp_silencer"
+  },
+  "pattern": {
+    "id": "sp_ancient_bright",
+    "name": "Ancient Visions"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.45,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise. A green and red pattern featuring intricate linework and ancient creatures has been applied.\\n\\n<i>The privilege is yours</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 69.96,
+      "max": 408.43,
+      "mean": 146.38,
+      "median": 107.94,
+      "suggested": 81.4,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 37.94,
+      "max": 75.85,
+      "mean": 56.9,
+      "median": 56.9,
+      "suggested": 34.09,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 46.68,
+      "max": 115.53,
+      "mean": 68.79,
+      "median": 58.76,
+      "suggested": 36.45,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 33.21,
+      "max": 33.21,
+      "mean": 33.21,
+      "median": 33.21,
+      "suggested": 38.64,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "USP-S | Ancient Visions (Factory New)",
+      "price": {
+        "min": 69.96,
+        "max": 408.43,
+        "mean": 146.38,
+        "median": 107.94,
+        "suggested": 81.4,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "USP-S | Ancient Visions (Minimal Wear)",
+      "price": {
+        "min": 37.94,
+        "max": 75.85,
+        "mean": 56.9,
+        "median": 56.9,
+        "suggested": 34.09,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "USP-S | Ancient Visions (Field-Tested)",
+      "price": {
+        "min": 46.68,
+        "max": 115.53,
+        "mean": 68.79,
+        "median": 58.76,
+        "suggested": 36.45,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "USP-S | Ancient Visions (Well-Worn)",
+      "price": {
+        "min": 33.21,
+        "max": 33.21,
+        "mean": 33.21,
+        "median": 33.21,
+        "suggested": 38.64,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "USP-S | Ancient Visions (Factory New)",
+        "price": {
+          "min": 69.96,
+          "max": 408.43,
+          "mean": 146.38,
+          "median": 107.94,
+          "suggested": 81.4,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "USP-S | Ancient Visions (Minimal Wear)",
+        "price": {
+          "min": 37.94,
+          "max": 75.85,
+          "mean": 56.9,
+          "median": 56.9,
+          "suggested": 34.09,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "USP-S | Ancient Visions (Field-Tested)",
+        "price": {
+          "min": 46.68,
+          "max": 115.53,
+          "mean": 68.79,
+          "median": 58.76,
+          "suggested": 36.45,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "USP-S | Ancient Visions (Well-Worn)",
+        "price": {
+          "min": 33.21,
+          "max": 33.21,
+          "mean": 33.21,
+          "median": 33.21,
+          "suggested": 38.64,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir USP-S | Ancient Visions (Factory New)",
+        "price": {
+          "min": 31.08,
+          "max": 1536.21,
+          "mean": 251.07,
+          "median": 64.82,
+          "suggested": 39.57,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir USP-S | Ancient Visions (Minimal Wear)",
+        "price": {
+          "min": 22.09,
+          "max": 81.59,
+          "mean": 63.07,
+          "median": 70.13,
+          "suggested": 25.38,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir USP-S | Ancient Visions (Field-Tested)",
+        "price": {
+          "min": 18.19,
+          "max": 22.77,
+          "mean": 20.13,
+          "median": 19.78,
+          "suggested": 21.24,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir USP-S | Ancient Visions (Well-Worn)",
+        "price": {
+          "min": 23.34,
+          "max": 23.34,
+          "mean": 23.34,
+          "median": 23.34,
+          "suggested": 18.05,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:50.840Z"
+}

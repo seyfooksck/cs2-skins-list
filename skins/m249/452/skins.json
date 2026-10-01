@@ -1,0 +1,225 @@
+{
+  "id": "skin-7dfb8d58c579",
+  "name": "M249 | Shipping Forecast",
+  "paint_index": "452",
+  "weapon": {
+    "id": "weapon_m249",
+    "weapon_id": 14,
+    "name": "M249",
+    "slug": "m249"
+  },
+  "pattern": {
+    "id": "hy_zodiac3",
+    "name": "Shipping Forecast"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A strong open-area LMG, the M249 is the perfect choice for players willing to trade a slow fire rate for increased accuracy and a high ammo capacity. It has been painted with a hydrographic in a zodiac motif.\\n\\n<i>Who knows what the future holds</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 19.9,
+      "max": 189.91,
+      "mean": 44.83,
+      "median": 31.74,
+      "suggested": 21.08,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 15.61,
+      "max": 51.35,
+      "mean": 24.87,
+      "median": 19.73,
+      "suggested": 20.1,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 17.46,
+      "max": 77.02,
+      "mean": 27.4,
+      "median": 20.53,
+      "suggested": 18.58,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 39.94,
+      "max": 39.94,
+      "mean": 39.94,
+      "median": 39.94,
+      "suggested": 12.14,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M249 | Shipping Forecast (Factory New)",
+      "price": {
+        "min": 19.9,
+        "max": 189.91,
+        "mean": 44.83,
+        "median": 31.74,
+        "suggested": 21.08,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M249 | Shipping Forecast (Minimal Wear)",
+      "price": {
+        "min": 15.61,
+        "max": 51.35,
+        "mean": 24.87,
+        "median": 19.73,
+        "suggested": 20.1,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M249 | Shipping Forecast (Field-Tested)",
+      "price": {
+        "min": 17.46,
+        "max": 77.02,
+        "mean": 27.4,
+        "median": 20.53,
+        "suggested": 18.58,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M249 | Shipping Forecast (Well-Worn)",
+      "price": {
+        "min": 39.94,
+        "max": 39.94,
+        "mean": 39.94,
+        "median": 39.94,
+        "suggested": 12.14,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M249 | Shipping Forecast (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M249 | Shipping Forecast (Factory New)",
+        "price": {
+          "min": 19.9,
+          "max": 189.91,
+          "mean": 44.83,
+          "median": 31.74,
+          "suggested": 21.08,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M249 | Shipping Forecast (Minimal Wear)",
+        "price": {
+          "min": 15.61,
+          "max": 51.35,
+          "mean": 24.87,
+          "median": 19.73,
+          "suggested": 20.1,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M249 | Shipping Forecast (Field-Tested)",
+        "price": {
+          "min": 17.46,
+          "max": 77.02,
+          "mean": 27.4,
+          "median": 20.53,
+          "suggested": 18.58,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M249 | Shipping Forecast (Well-Worn)",
+        "price": {
+          "min": 39.94,
+          "max": 39.94,
+          "mean": 39.94,
+          "median": 39.94,
+          "suggested": 12.14,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M249 | Shipping Forecast (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M249 | Shipping Forecast (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M249 | Shipping Forecast (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M249 | Shipping Forecast (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M249 | Shipping Forecast (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M249 | Shipping Forecast (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:39.888Z"
+}

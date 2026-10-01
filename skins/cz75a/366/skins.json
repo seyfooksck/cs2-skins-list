@@ -1,0 +1,225 @@
+{
+  "id": "skin-3dc7c28dafad",
+  "name": "CZ75-Auto | Green Plaid",
+  "paint_index": "366",
+  "weapon": {
+    "id": "weapon_cz75a",
+    "weapon_id": 63,
+    "name": "CZ75-Auto",
+    "slug": "cz75a"
+  },
+  "pattern": {
+    "id": "hy_plaid2",
+    "name": "Green Plaid"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 0.58,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fully automatic variant of the CZ75, the CZ75-Auto is the ideal short-term choice for turning the tables and gaining your opponents weapon. But with very little ammo in the magazine, strong trigger discipline is required. It has been painted with a hydrographic in a taupe and blue-green plaid pattern.\\n\\n<i>It's not a bagpipe, but it plays a song before every funeral</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 6.71,
+      "max": 53.78,
+      "mean": 18.61,
+      "median": 10.5,
+      "suggested": 7.84,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 3.56,
+      "max": 5.39,
+      "mean": 4.48,
+      "median": 4.48,
+      "suggested": 4.09,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 3.16,
+      "max": 39.94,
+      "mean": 9.06,
+      "median": 4.66,
+      "suggested": 3.08,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 3.79,
+      "max": 408.42,
+      "mean": 107.47,
+      "median": 8.86,
+      "suggested": 4.31,
+      "quantity": 4,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "CZ75-Auto | Green Plaid (Factory New)",
+      "price": {
+        "min": 6.71,
+        "max": 53.78,
+        "mean": 18.61,
+        "median": 10.5,
+        "suggested": 7.84,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "CZ75-Auto | Green Plaid (Minimal Wear)",
+      "price": {
+        "min": 3.56,
+        "max": 5.39,
+        "mean": 4.48,
+        "median": 4.48,
+        "suggested": 4.09,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "CZ75-Auto | Green Plaid (Field-Tested)",
+      "price": {
+        "min": 3.16,
+        "max": 39.94,
+        "mean": 9.06,
+        "median": 4.66,
+        "suggested": 3.08,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "CZ75-Auto | Green Plaid (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "CZ75-Auto | Green Plaid (Battle-Scarred)",
+      "price": {
+        "min": 3.79,
+        "max": 408.42,
+        "mean": 107.47,
+        "median": 8.86,
+        "suggested": 4.31,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "CZ75-Auto | Green Plaid (Factory New)",
+        "price": {
+          "min": 6.71,
+          "max": 53.78,
+          "mean": 18.61,
+          "median": 10.5,
+          "suggested": 7.84,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "CZ75-Auto | Green Plaid (Minimal Wear)",
+        "price": {
+          "min": 3.56,
+          "max": 5.39,
+          "mean": 4.48,
+          "median": 4.48,
+          "suggested": 4.09,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "CZ75-Auto | Green Plaid (Field-Tested)",
+        "price": {
+          "min": 3.16,
+          "max": 39.94,
+          "mean": 9.06,
+          "median": 4.66,
+          "suggested": 3.08,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "CZ75-Auto | Green Plaid (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "CZ75-Auto | Green Plaid (Battle-Scarred)",
+        "price": {
+          "min": 3.79,
+          "max": 408.42,
+          "mean": 107.47,
+          "median": 8.86,
+          "suggested": 4.31,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir CZ75-Auto | Green Plaid (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir CZ75-Auto | Green Plaid (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir CZ75-Auto | Green Plaid (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir CZ75-Auto | Green Plaid (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir CZ75-Auto | Green Plaid (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:27.808Z"
+}

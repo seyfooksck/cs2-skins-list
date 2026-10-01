@@ -1,0 +1,180 @@
+{
+  "id": "skin-b05ee2bf4f0d",
+  "name": "★ Sport Gloves | Hedge Maze",
+  "paint_index": "10038",
+  "weapon": {
+    "id": "sporty_gloves",
+    "weapon_id": 5030,
+    "name": "Sport Gloves",
+    "slug": "sporty_gloves"
+  },
+  "pattern": {
+    "id": "sporty_green",
+    "name": "Hedge Maze"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_gloves",
+    "name": "Gloves"
+  },
+  "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Synthetic fabrics make these athletic gloves durable and eye-catching. The green and white gloves were manufactured by Icarus Athletics.\\n\\n<i>Only cowards fear flying close to the sun</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": null,
+    "ft": {
+      "min": 4711.07,
+      "max": 8168.56,
+      "mean": 6737.77,
+      "median": 6388.4,
+      "suggested": 5243.5,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 3926.14,
+      "max": 4096.58,
+      "mean": 4011.36,
+      "median": 4011.36,
+      "suggested": 4134.3,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 2507.07,
+      "max": 3567.12,
+      "mean": 3162.55,
+      "median": 3413.47,
+      "suggested": 2485.8,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Sport Gloves | Hedge Maze (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Sport Gloves | Hedge Maze (Minimal Wear)",
+      "price": null,
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Sport Gloves | Hedge Maze (Field-Tested)",
+      "price": {
+        "min": 4711.07,
+        "max": 8168.56,
+        "mean": 6737.77,
+        "median": 6388.4,
+        "suggested": 5243.5,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Sport Gloves | Hedge Maze (Well-Worn)",
+      "price": {
+        "min": 3926.14,
+        "max": 4096.58,
+        "mean": 4011.36,
+        "median": 4011.36,
+        "suggested": 4134.3,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Sport Gloves | Hedge Maze (Battle-Scarred)",
+      "price": {
+        "min": 2507.07,
+        "max": 3567.12,
+        "mean": 3162.55,
+        "median": 3413.47,
+        "suggested": 2485.8,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Sport Gloves | Hedge Maze (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Sport Gloves | Hedge Maze (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ Sport Gloves | Hedge Maze (Field-Tested)",
+        "price": {
+          "min": 4711.07,
+          "max": 8168.56,
+          "mean": 6737.77,
+          "median": 6388.4,
+          "suggested": 5243.5,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Sport Gloves | Hedge Maze (Well-Worn)",
+        "price": {
+          "min": 3926.14,
+          "max": 4096.58,
+          "mean": 4011.36,
+          "median": 4011.36,
+          "suggested": 4134.3,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Sport Gloves | Hedge Maze (Battle-Scarred)",
+        "price": {
+          "min": 2507.07,
+          "max": 3567.12,
+          "mean": 3162.55,
+          "median": 3413.47,
+          "suggested": 2485.8,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:23.987Z"
+}

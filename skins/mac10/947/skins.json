@@ -1,0 +1,310 @@
+{
+  "id": "skin-f5a050fa5280",
+  "name": "MAC-10 | Disco Tech",
+  "paint_index": "947",
+  "weapon": {
+    "id": "weapon_mac10",
+    "weapon_id": 17,
+    "name": "MAC-10",
+    "slug": "mac10"
+  },
+  "pattern": {
+    "id": "cu_mac10_nacre",
+    "name": "Disco Tech"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been custom painted using a pearlescent finish to resemble holographic self-adhesive vinyl. Depending on the light its appearance changes.\\n\\n<i>Watch when you point that thing</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 30.48,
+      "max": 231.82,
+      "mean": 54.65,
+      "median": 39.97,
+      "suggested": 41.57,
+      "quantity": 40,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 8.29,
+      "max": 89.69,
+      "mean": 16.21,
+      "median": 10.74,
+      "suggested": 10.42,
+      "quantity": 103,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 5.79,
+      "max": 306.9,
+      "mean": 10.72,
+      "median": 6.29,
+      "suggested": 7.18,
+      "quantity": 353,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 5.33,
+      "max": 126.03,
+      "mean": 7.56,
+      "median": 5.8,
+      "suggested": 6.7,
+      "quantity": 89,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 4.48,
+      "max": 65.22,
+      "mean": 8.45,
+      "median": 5.67,
+      "suggested": 6.24,
+      "quantity": 61,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAC-10 | Disco Tech (Factory New)",
+      "price": {
+        "min": 30.48,
+        "max": 231.82,
+        "mean": 54.65,
+        "median": 39.97,
+        "suggested": 41.57,
+        "quantity": 40,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAC-10 | Disco Tech (Minimal Wear)",
+      "price": {
+        "min": 8.29,
+        "max": 89.69,
+        "mean": 16.21,
+        "median": 10.74,
+        "suggested": 10.42,
+        "quantity": 103,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAC-10 | Disco Tech (Field-Tested)",
+      "price": {
+        "min": 5.79,
+        "max": 306.9,
+        "mean": 10.72,
+        "median": 6.29,
+        "suggested": 7.18,
+        "quantity": 353,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAC-10 | Disco Tech (Well-Worn)",
+      "price": {
+        "min": 5.33,
+        "max": 126.03,
+        "mean": 7.56,
+        "median": 5.8,
+        "suggested": 6.7,
+        "quantity": 89,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAC-10 | Disco Tech (Battle-Scarred)",
+      "price": {
+        "min": 4.48,
+        "max": 65.22,
+        "mean": 8.45,
+        "median": 5.67,
+        "suggested": 6.24,
+        "quantity": 61,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAC-10 | Disco Tech (Factory New)",
+        "price": {
+          "min": 30.48,
+          "max": 231.82,
+          "mean": 54.65,
+          "median": 39.97,
+          "suggested": 41.57,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAC-10 | Disco Tech (Minimal Wear)",
+        "price": {
+          "min": 8.29,
+          "max": 89.69,
+          "mean": 16.21,
+          "median": 10.74,
+          "suggested": 10.42,
+          "quantity": 103,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAC-10 | Disco Tech (Field-Tested)",
+        "price": {
+          "min": 5.79,
+          "max": 306.9,
+          "mean": 10.72,
+          "median": 6.29,
+          "suggested": 7.18,
+          "quantity": 353,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAC-10 | Disco Tech (Well-Worn)",
+        "price": {
+          "min": 5.33,
+          "max": 126.03,
+          "mean": 7.56,
+          "median": 5.8,
+          "suggested": 6.7,
+          "quantity": 89,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MAC-10 | Disco Tech (Battle-Scarred)",
+        "price": {
+          "min": 4.48,
+          "max": 65.22,
+          "mean": 8.45,
+          "median": 5.67,
+          "suggested": 6.24,
+          "quantity": 61,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MAC-10 | Disco Tech (Factory New)",
+        "price": {
+          "min": 46.68,
+          "max": 128.35,
+          "mean": 65.93,
+          "median": 61.33,
+          "suggested": 60.3,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MAC-10 | Disco Tech (Minimal Wear)",
+        "price": {
+          "min": 17.76,
+          "max": 33.83,
+          "mean": 24.24,
+          "median": 22.83,
+          "suggested": 22,
+          "quantity": 39,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MAC-10 | Disco Tech (Field-Tested)",
+        "price": {
+          "min": 8.96,
+          "max": 40.84,
+          "mean": 11.48,
+          "median": 9.43,
+          "suggested": 10.67,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MAC-10 | Disco Tech (Well-Worn)",
+        "price": {
+          "min": 5.85,
+          "max": 17.5,
+          "mean": 8.2,
+          "median": 7.73,
+          "suggested": 7.1,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MAC-10 | Disco Tech (Battle-Scarred)",
+        "price": {
+          "min": 5.48,
+          "max": 11,
+          "mean": 7.42,
+          "median": 7.18,
+          "suggested": 6.24,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAC-10 | Disco Tech (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAC-10 | Disco Tech (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAC-10 | Disco Tech (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAC-10 | Disco Tech (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAC-10 | Disco Tech (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.655Z"
+}

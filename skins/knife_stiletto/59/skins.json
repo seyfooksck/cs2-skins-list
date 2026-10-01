@@ -1,0 +1,193 @@
+{
+  "id": "skin-05341f90a3cf",
+  "name": "★ Stiletto Knife | Slaughter",
+  "paint_index": "59",
+  "weapon": {
+    "id": "weapon_knife_stiletto",
+    "weapon_id": 522,
+    "name": "Stiletto Knife",
+    "slug": "knife_stiletto"
+  },
+  "pattern": {
+    "id": "am_zebra",
+    "name": "Slaughter"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.01,
+  "max_float": 0.26,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Historically a focal point of contention and even regulation, this Italian-style stiletto switchblade knife features a spring-loaded blade that can be deployed almost instantly with the push of a release catch. It has been painted in a zebra-stripe pattern with aluminum and chrome paints with various reflectivities, and has then been covered with a tomato red candy coat.\\n\\n<i>Valeria doesn't pay Javier to ask questions... she pays him to pry out answers</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 421.14,
+      "max": 542.63,
+      "mean": 458.05,
+      "median": 438.69,
+      "suggested": 490.6,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 378.16,
+      "max": 687.33,
+      "mean": 445.14,
+      "median": 405.72,
+      "suggested": 444.45,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 370,
+      "max": 421.82,
+      "mean": 386.22,
+      "median": 376.54,
+      "suggested": 464.49,
+      "quantity": 4,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Stiletto Knife | Slaughter (Factory New)",
+      "price": {
+        "min": 421.14,
+        "max": 542.63,
+        "mean": 458.05,
+        "median": 438.69,
+        "suggested": 490.6,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Stiletto Knife | Slaughter (Minimal Wear)",
+      "price": {
+        "min": 378.16,
+        "max": 687.33,
+        "mean": 445.14,
+        "median": 405.72,
+        "suggested": 444.45,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Stiletto Knife | Slaughter (Field-Tested)",
+      "price": {
+        "min": 370,
+        "max": 421.82,
+        "mean": 386.22,
+        "median": 376.54,
+        "suggested": 464.49,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Stiletto Knife | Slaughter (Factory New)",
+        "price": {
+          "min": 421.14,
+          "max": 542.63,
+          "mean": 458.05,
+          "median": 438.69,
+          "suggested": 490.6,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Stiletto Knife | Slaughter (Minimal Wear)",
+        "price": {
+          "min": 378.16,
+          "max": 687.33,
+          "mean": 445.14,
+          "median": 405.72,
+          "suggested": 444.45,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Stiletto Knife | Slaughter (Field-Tested)",
+        "price": {
+          "min": 370,
+          "max": 421.82,
+          "mean": 386.22,
+          "median": 376.54,
+          "suggested": 464.49,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Stiletto Knife | Slaughter (Factory New)",
+        "price": {
+          "min": 515.13,
+          "max": 716.9,
+          "mean": 616.01,
+          "median": 616.01,
+          "suggested": 537.79,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Stiletto Knife | Slaughter (Minimal Wear)",
+        "price": {
+          "min": 466.77,
+          "max": 466.77,
+          "mean": 466.77,
+          "median": 466.77,
+          "suggested": 479.84,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Stiletto Knife | Slaughter (Field-Tested)",
+        "price": {
+          "min": 431.69,
+          "max": 431.69,
+          "mean": 431.69,
+          "median": 431.69,
+          "suggested": 474.6,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:37.970Z"
+}

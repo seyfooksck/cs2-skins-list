@@ -1,0 +1,129 @@
+{
+  "id": "skin-077ca0be4b1f",
+  "name": "Dual Berettas | Emerald",
+  "paint_index": "453",
+  "weapon": {
+    "id": "weapon_elite",
+    "weapon_id": 2,
+    "name": "Dual Berettas",
+    "slug": "elite"
+  },
+  "pattern": {
+    "id": "an_emerald",
+    "name": "Emerald"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. It has been painted with a chrome base coat and candied in transparent emerald anodized effect paint.\\n\\n<i>This is what the great Sebastien Hennequet has been reduced to? A nagging school marm?  What happened to you... - The Teacher and The Iconoclast Part 2</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 37.81,
+      "max": 350.08,
+      "mean": 78.85,
+      "median": 62.51,
+      "suggested": 51.73,
+      "quantity": 67,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 38.38,
+      "max": 77.02,
+      "mean": 60.65,
+      "median": 63.6,
+      "suggested": 57.15,
+      "quantity": 4,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Dual Berettas | Emerald (Factory New)",
+      "price": {
+        "min": 37.81,
+        "max": 350.08,
+        "mean": 78.85,
+        "median": 62.51,
+        "suggested": 51.73,
+        "quantity": 67,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Dual Berettas | Emerald (Minimal Wear)",
+      "price": {
+        "min": 38.38,
+        "max": 77.02,
+        "mean": 60.65,
+        "median": 63.6,
+        "suggested": 57.15,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Dual Berettas | Emerald (Factory New)",
+        "price": {
+          "min": 37.81,
+          "max": 350.08,
+          "mean": 78.85,
+          "median": 62.51,
+          "suggested": 51.73,
+          "quantity": 67,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Dual Berettas | Emerald (Minimal Wear)",
+        "price": {
+          "min": 38.38,
+          "max": 77.02,
+          "mean": 60.65,
+          "median": 63.6,
+          "suggested": 57.15,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Dual Berettas | Emerald (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Dual Berettas | Emerald (Minimal Wear)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:28.628Z"
+}

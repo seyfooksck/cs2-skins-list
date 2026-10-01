@@ -1,0 +1,310 @@
+{
+  "id": "skin-90b7437c4266",
+  "name": "AUG | Plague",
+  "paint_index": "1088",
+  "weapon": {
+    "id": "weapon_aug",
+    "weapon_id": 8,
+    "name": "AUG",
+    "slug": "aug"
+  },
+  "pattern": {
+    "id": "gs_aug_plague",
+    "name": "Plague"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.76,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire. It has been custom painted using dark fantasy and horror as inspiration.\\n\\n<i>\\\"Like a moth to a flame\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 6.28,
+      "max": 26.83,
+      "mean": 10.48,
+      "median": 7.81,
+      "suggested": 8.04,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.22,
+      "max": 117.28,
+      "mean": 6,
+      "median": 2.58,
+      "suggested": 2.73,
+      "quantity": 38,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.99,
+      "max": 36.18,
+      "mean": 2.15,
+      "median": 1.27,
+      "suggested": 1.48,
+      "quantity": 76,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.72,
+      "max": 1.12,
+      "mean": 0.92,
+      "median": 0.96,
+      "suggested": 0.99,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.74,
+      "max": 1.07,
+      "mean": 0.85,
+      "median": 0.84,
+      "suggested": 0.88,
+      "quantity": 20,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AUG | Plague (Factory New)",
+      "price": {
+        "min": 6.28,
+        "max": 26.83,
+        "mean": 10.48,
+        "median": 7.81,
+        "suggested": 8.04,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AUG | Plague (Minimal Wear)",
+      "price": {
+        "min": 2.22,
+        "max": 117.28,
+        "mean": 6,
+        "median": 2.58,
+        "suggested": 2.73,
+        "quantity": 38,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AUG | Plague (Field-Tested)",
+      "price": {
+        "min": 0.99,
+        "max": 36.18,
+        "mean": 2.15,
+        "median": 1.27,
+        "suggested": 1.48,
+        "quantity": 76,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AUG | Plague (Well-Worn)",
+      "price": {
+        "min": 0.72,
+        "max": 1.12,
+        "mean": 0.92,
+        "median": 0.96,
+        "suggested": 0.99,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AUG | Plague (Battle-Scarred)",
+      "price": {
+        "min": 0.74,
+        "max": 1.07,
+        "mean": 0.85,
+        "median": 0.84,
+        "suggested": 0.88,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AUG | Plague (Factory New)",
+        "price": {
+          "min": 6.28,
+          "max": 26.83,
+          "mean": 10.48,
+          "median": 7.81,
+          "suggested": 8.04,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AUG | Plague (Minimal Wear)",
+        "price": {
+          "min": 2.22,
+          "max": 117.28,
+          "mean": 6,
+          "median": 2.58,
+          "suggested": 2.73,
+          "quantity": 38,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AUG | Plague (Field-Tested)",
+        "price": {
+          "min": 0.99,
+          "max": 36.18,
+          "mean": 2.15,
+          "median": 1.27,
+          "suggested": 1.48,
+          "quantity": 76,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AUG | Plague (Well-Worn)",
+        "price": {
+          "min": 0.72,
+          "max": 1.12,
+          "mean": 0.92,
+          "median": 0.96,
+          "suggested": 0.99,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AUG | Plague (Battle-Scarred)",
+        "price": {
+          "min": 0.74,
+          "max": 1.07,
+          "mean": 0.85,
+          "median": 0.84,
+          "suggested": 0.88,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AUG | Plague (Factory New)",
+        "price": {
+          "min": 4.29,
+          "max": 10.25,
+          "mean": 5.75,
+          "median": 4.81,
+          "suggested": 5.32,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AUG | Plague (Minimal Wear)",
+        "price": {
+          "min": 2.33,
+          "max": 4.67,
+          "mean": 2.88,
+          "median": 2.71,
+          "suggested": 2.89,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AUG | Plague (Field-Tested)",
+        "price": {
+          "min": 1.18,
+          "max": 5.66,
+          "mean": 2.09,
+          "median": 1.87,
+          "suggested": 1.64,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AUG | Plague (Well-Worn)",
+        "price": {
+          "min": 1.16,
+          "max": 1.75,
+          "mean": 1.41,
+          "median": 1.46,
+          "suggested": 1.43,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ AUG | Plague (Battle-Scarred)",
+        "price": {
+          "min": 0.86,
+          "max": 1.35,
+          "mean": 1.09,
+          "median": 1.09,
+          "suggested": 1.23,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AUG | Plague (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AUG | Plague (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AUG | Plague (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AUG | Plague (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AUG | Plague (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.462Z"
+}

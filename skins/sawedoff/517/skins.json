@@ -1,0 +1,310 @@
+{
+  "id": "skin-e62659639aba",
+  "name": "Sawed-Off | Yorick",
+  "paint_index": "517",
+  "weapon": {
+    "id": "weapon_sawedoff",
+    "weapon_id": 29,
+    "name": "Sawed-Off",
+    "slug": "sawedoff"
+  },
+  "pattern": {
+    "id": "gs_sawedoff_necromancer",
+    "name": "Yorick"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit. It has been given a skull hydrographic and hand painted gold accents.\\n\\n<i>Rosencrantz and Guildenstern never had a chance...</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.12,
+      "max": 28.86,
+      "mean": 6.23,
+      "median": 3.59,
+      "suggested": 2.62,
+      "quantity": 24,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.48,
+      "max": 1.17,
+      "mean": 0.58,
+      "median": 0.55,
+      "suggested": 0.62,
+      "quantity": 53,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.4,
+      "max": 5.83,
+      "mean": 0.84,
+      "median": 0.57,
+      "suggested": 0.57,
+      "quantity": 26,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.16,
+      "max": 8.17,
+      "mean": 0.54,
+      "median": 0.29,
+      "suggested": 0.27,
+      "quantity": 30,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.18,
+      "max": 3.07,
+      "mean": 0.34,
+      "median": 0.22,
+      "suggested": 0.21,
+      "quantity": 33,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Sawed-Off | Yorick (Factory New)",
+      "price": {
+        "min": 2.12,
+        "max": 28.86,
+        "mean": 6.23,
+        "median": 3.59,
+        "suggested": 2.62,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Sawed-Off | Yorick (Minimal Wear)",
+      "price": {
+        "min": 0.48,
+        "max": 1.17,
+        "mean": 0.58,
+        "median": 0.55,
+        "suggested": 0.62,
+        "quantity": 53,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Sawed-Off | Yorick (Field-Tested)",
+      "price": {
+        "min": 0.4,
+        "max": 5.83,
+        "mean": 0.84,
+        "median": 0.57,
+        "suggested": 0.57,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Sawed-Off | Yorick (Well-Worn)",
+      "price": {
+        "min": 0.16,
+        "max": 8.17,
+        "mean": 0.54,
+        "median": 0.29,
+        "suggested": 0.27,
+        "quantity": 30,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Sawed-Off | Yorick (Battle-Scarred)",
+      "price": {
+        "min": 0.18,
+        "max": 3.07,
+        "mean": 0.34,
+        "median": 0.22,
+        "suggested": 0.21,
+        "quantity": 33,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Sawed-Off | Yorick (Factory New)",
+        "price": {
+          "min": 2.12,
+          "max": 28.86,
+          "mean": 6.23,
+          "median": 3.59,
+          "suggested": 2.62,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Sawed-Off | Yorick (Minimal Wear)",
+        "price": {
+          "min": 0.48,
+          "max": 1.17,
+          "mean": 0.58,
+          "median": 0.55,
+          "suggested": 0.62,
+          "quantity": 53,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Sawed-Off | Yorick (Field-Tested)",
+        "price": {
+          "min": 0.4,
+          "max": 5.83,
+          "mean": 0.84,
+          "median": 0.57,
+          "suggested": 0.57,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Sawed-Off | Yorick (Well-Worn)",
+        "price": {
+          "min": 0.16,
+          "max": 8.17,
+          "mean": 0.54,
+          "median": 0.29,
+          "suggested": 0.27,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Sawed-Off | Yorick (Battle-Scarred)",
+        "price": {
+          "min": 0.18,
+          "max": 3.07,
+          "mean": 0.34,
+          "median": 0.22,
+          "suggested": 0.21,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Yorick (Factory New)",
+        "price": {
+          "min": 3.83,
+          "max": 10.72,
+          "mean": 8.79,
+          "median": 8.72,
+          "suggested": 3.49,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Yorick (Minimal Wear)",
+        "price": {
+          "min": 0.76,
+          "max": 48.65,
+          "mean": 3.49,
+          "median": 0.92,
+          "suggested": 0.97,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Yorick (Field-Tested)",
+        "price": {
+          "min": 0.39,
+          "max": 12.73,
+          "mean": 1.07,
+          "median": 0.51,
+          "suggested": 0.5,
+          "quantity": 35,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Yorick (Well-Worn)",
+        "price": {
+          "min": 0.33,
+          "max": 0.43,
+          "mean": 0.36,
+          "median": 0.34,
+          "suggested": 0.38,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Yorick (Battle-Scarred)",
+        "price": {
+          "min": 0.28,
+          "max": 0.56,
+          "mean": 0.41,
+          "median": 0.4,
+          "suggested": 0.37,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Sawed-Off | Yorick (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Sawed-Off | Yorick (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Sawed-Off | Yorick (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Sawed-Off | Yorick (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Sawed-Off | Yorick (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:47.157Z"
+}

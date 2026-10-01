@@ -1,0 +1,302 @@
+{
+  "id": "skin-58ebdc0919d4",
+  "name": "Galil AR | Orange DDPAT",
+  "paint_index": "83",
+  "weapon": {
+    "id": "weapon_galilar",
+    "weapon_id": 13,
+    "name": "Galil AR",
+    "slug": "galilar"
+  },
+  "pattern": {
+    "id": "hy_ddpat_orange",
+    "name": "Orange DDPAT"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat. It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.\\n\\n<i>By the time you're close enough to notice the pixels it's already too late</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 126.64,
+      "max": 224.86,
+      "mean": 167.33,
+      "median": 150.49,
+      "suggested": 155.99,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 32.67,
+      "max": 115.29,
+      "mean": 64.69,
+      "median": 68.53,
+      "suggested": 34.82,
+      "quantity": 13,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 17.68,
+      "max": 21.26,
+      "mean": 18.79,
+      "median": 18.43,
+      "suggested": 21.72,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 17.22,
+      "max": 21.55,
+      "mean": 19.39,
+      "median": 19.39,
+      "suggested": 19.34,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 17.81,
+      "max": 82.65,
+      "mean": 39.42,
+      "median": 17.81,
+      "suggested": 21.12,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Galil AR | Orange DDPAT (Factory New)",
+      "price": {
+        "min": 126.64,
+        "max": 224.86,
+        "mean": 167.33,
+        "median": 150.49,
+        "suggested": 155.99,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Galil AR | Orange DDPAT (Minimal Wear)",
+      "price": {
+        "min": 32.67,
+        "max": 115.29,
+        "mean": 64.69,
+        "median": 68.53,
+        "suggested": 34.82,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Galil AR | Orange DDPAT (Field-Tested)",
+      "price": {
+        "min": 17.68,
+        "max": 21.26,
+        "mean": 18.79,
+        "median": 18.43,
+        "suggested": 21.72,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Galil AR | Orange DDPAT (Well-Worn)",
+      "price": {
+        "min": 17.22,
+        "max": 21.55,
+        "mean": 19.39,
+        "median": 19.39,
+        "suggested": 19.34,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Galil AR | Orange DDPAT (Battle-Scarred)",
+      "price": {
+        "min": 17.81,
+        "max": 82.65,
+        "mean": 39.42,
+        "median": 17.81,
+        "suggested": 21.12,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Galil AR | Orange DDPAT (Factory New)",
+        "price": {
+          "min": 126.64,
+          "max": 224.86,
+          "mean": 167.33,
+          "median": 150.49,
+          "suggested": 155.99,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Galil AR | Orange DDPAT (Minimal Wear)",
+        "price": {
+          "min": 32.67,
+          "max": 115.29,
+          "mean": 64.69,
+          "median": 68.53,
+          "suggested": 34.82,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Galil AR | Orange DDPAT (Field-Tested)",
+        "price": {
+          "min": 17.68,
+          "max": 21.26,
+          "mean": 18.79,
+          "median": 18.43,
+          "suggested": 21.72,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Galil AR | Orange DDPAT (Well-Worn)",
+        "price": {
+          "min": 17.22,
+          "max": 21.55,
+          "mean": 19.39,
+          "median": 19.39,
+          "suggested": 19.34,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Galil AR | Orange DDPAT (Battle-Scarred)",
+        "price": {
+          "min": 17.81,
+          "max": 82.65,
+          "mean": 39.42,
+          "median": 17.81,
+          "suggested": 21.12,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Galil AR | Orange DDPAT (Factory New)",
+        "price": {
+          "min": 333.56,
+          "max": 506.4,
+          "mean": 419.98,
+          "median": 419.98,
+          "suggested": 366.04,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Galil AR | Orange DDPAT (Minimal Wear)",
+        "price": {
+          "min": 98.58,
+          "max": 291.73,
+          "mean": 166.25,
+          "median": 108.46,
+          "suggested": 46.12,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Galil AR | Orange DDPAT (Field-Tested)",
+        "price": {
+          "min": 21.79,
+          "max": 153.63,
+          "mean": 87.71,
+          "median": 87.71,
+          "suggested": 25.63,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Galil AR | Orange DDPAT (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Galil AR | Orange DDPAT (Battle-Scarred)",
+        "price": {
+          "min": 39.97,
+          "max": 39.97,
+          "mean": 39.97,
+          "median": 39.97,
+          "suggested": 23.93,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Galil AR | Orange DDPAT (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Galil AR | Orange DDPAT (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Galil AR | Orange DDPAT (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Galil AR | Orange DDPAT (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Galil AR | Orange DDPAT (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:31.128Z"
+}

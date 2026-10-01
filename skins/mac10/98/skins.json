@@ -1,0 +1,310 @@
+{
+  "id": "skin-730314e8501f",
+  "name": "MAC-10 | Ultraviolet",
+  "paint_index": "98",
+  "weapon": {
+    "id": "weapon_mac10",
+    "weapon_id": 17,
+    "name": "MAC-10",
+    "slug": "mac10"
+  },
+  "pattern": {
+    "id": "so_purple",
+    "name": "Ultraviolet"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has individual parts spray-painted solid colors in a black and purple color scheme.\\n\\n<i>Elegant design paired with brutal intent</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 47.25,
+      "max": 466.76,
+      "mean": 141.55,
+      "median": 92.13,
+      "suggested": 58.79,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 6.7,
+      "max": 28.13,
+      "mean": 14.36,
+      "median": 14.65,
+      "suggested": 7.81,
+      "quantity": 25,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 3.44,
+      "max": 77.19,
+      "mean": 7.77,
+      "median": 3.89,
+      "suggested": 4.09,
+      "quantity": 26,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 2.67,
+      "max": 5.18,
+      "mean": 3.65,
+      "median": 3.27,
+      "suggested": 3.53,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 3.73,
+      "max": 6.91,
+      "mean": 4.87,
+      "median": 4.11,
+      "suggested": 3.53,
+      "quantity": 6,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAC-10 | Ultraviolet (Factory New)",
+      "price": {
+        "min": 47.25,
+        "max": 466.76,
+        "mean": 141.55,
+        "median": 92.13,
+        "suggested": 58.79,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAC-10 | Ultraviolet (Minimal Wear)",
+      "price": {
+        "min": 6.7,
+        "max": 28.13,
+        "mean": 14.36,
+        "median": 14.65,
+        "suggested": 7.81,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAC-10 | Ultraviolet (Field-Tested)",
+      "price": {
+        "min": 3.44,
+        "max": 77.19,
+        "mean": 7.77,
+        "median": 3.89,
+        "suggested": 4.09,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAC-10 | Ultraviolet (Well-Worn)",
+      "price": {
+        "min": 2.67,
+        "max": 5.18,
+        "mean": 3.65,
+        "median": 3.27,
+        "suggested": 3.53,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAC-10 | Ultraviolet (Battle-Scarred)",
+      "price": {
+        "min": 3.73,
+        "max": 6.91,
+        "mean": 4.87,
+        "median": 4.11,
+        "suggested": 3.53,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAC-10 | Ultraviolet (Factory New)",
+        "price": {
+          "min": 47.25,
+          "max": 466.76,
+          "mean": 141.55,
+          "median": 92.13,
+          "suggested": 58.79,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAC-10 | Ultraviolet (Minimal Wear)",
+        "price": {
+          "min": 6.7,
+          "max": 28.13,
+          "mean": 14.36,
+          "median": 14.65,
+          "suggested": 7.81,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAC-10 | Ultraviolet (Field-Tested)",
+        "price": {
+          "min": 3.44,
+          "max": 77.19,
+          "mean": 7.77,
+          "median": 3.89,
+          "suggested": 4.09,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAC-10 | Ultraviolet (Well-Worn)",
+        "price": {
+          "min": 2.67,
+          "max": 5.18,
+          "mean": 3.65,
+          "median": 3.27,
+          "suggested": 3.53,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MAC-10 | Ultraviolet (Battle-Scarred)",
+        "price": {
+          "min": 3.73,
+          "max": 6.91,
+          "mean": 4.87,
+          "median": 4.11,
+          "suggested": 3.53,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MAC-10 | Ultraviolet (Factory New)",
+        "price": {
+          "min": 69.64,
+          "max": 185.1,
+          "mean": 125.59,
+          "median": 123.8,
+          "suggested": 86.14,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MAC-10 | Ultraviolet (Minimal Wear)",
+        "price": {
+          "min": 8.93,
+          "max": 17.12,
+          "mean": 13.4,
+          "median": 15.29,
+          "suggested": 10.27,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MAC-10 | Ultraviolet (Field-Tested)",
+        "price": {
+          "min": 3.54,
+          "max": 17.5,
+          "mean": 6.64,
+          "median": 3.85,
+          "suggested": 4.3,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MAC-10 | Ultraviolet (Well-Worn)",
+        "price": {
+          "min": 8.17,
+          "max": 8.17,
+          "mean": 8.17,
+          "median": 8.17,
+          "suggested": 2.76,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MAC-10 | Ultraviolet (Battle-Scarred)",
+        "price": {
+          "min": 2.75,
+          "max": 3.82,
+          "mean": 3.09,
+          "median": 2.81,
+          "suggested": 3.19,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAC-10 | Ultraviolet (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAC-10 | Ultraviolet (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAC-10 | Ultraviolet (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAC-10 | Ultraviolet (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAC-10 | Ultraviolet (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.032Z"
+}

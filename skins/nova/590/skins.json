@@ -1,0 +1,310 @@
+{
+  "id": "skin-aa93f10a9c96",
+  "name": "Nova | Exo",
+  "paint_index": "590",
+  "weapon": {
+    "id": "weapon_nova",
+    "weapon_id": 35,
+    "name": "Nova",
+    "slug": "nova"
+  },
+  "pattern": {
+    "id": "aq_nova_sci_fi",
+    "name": "Exo"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Nova's rock-bottom price tag makes it a great ambush weapon for a cash-strapped team. It has been painted with hydrographic a silver panel motif over a purple pattern base.\\n\\n<i>It's what's inside that counts</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.78,
+      "max": 18.03,
+      "mean": 3.75,
+      "median": 1.61,
+      "suggested": 1.15,
+      "quantity": 25,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.37,
+      "max": 5.05,
+      "mean": 0.64,
+      "median": 0.47,
+      "suggested": 0.51,
+      "quantity": 98,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.33,
+      "max": 5.83,
+      "mean": 0.88,
+      "median": 0.54,
+      "suggested": 0.47,
+      "quantity": 169,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.33,
+      "max": 7.76,
+      "mean": 0.83,
+      "median": 0.54,
+      "suggested": 0.47,
+      "quantity": 28,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.35,
+      "max": 4.1,
+      "mean": 0.75,
+      "median": 0.6,
+      "suggested": 0.37,
+      "quantity": 18,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Nova | Exo (Factory New)",
+      "price": {
+        "min": 0.78,
+        "max": 18.03,
+        "mean": 3.75,
+        "median": 1.61,
+        "suggested": 1.15,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Nova | Exo (Minimal Wear)",
+      "price": {
+        "min": 0.37,
+        "max": 5.05,
+        "mean": 0.64,
+        "median": 0.47,
+        "suggested": 0.51,
+        "quantity": 98,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Nova | Exo (Field-Tested)",
+      "price": {
+        "min": 0.33,
+        "max": 5.83,
+        "mean": 0.88,
+        "median": 0.54,
+        "suggested": 0.47,
+        "quantity": 169,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Nova | Exo (Well-Worn)",
+      "price": {
+        "min": 0.33,
+        "max": 7.76,
+        "mean": 0.83,
+        "median": 0.54,
+        "suggested": 0.47,
+        "quantity": 28,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Nova | Exo (Battle-Scarred)",
+      "price": {
+        "min": 0.35,
+        "max": 4.1,
+        "mean": 0.75,
+        "median": 0.6,
+        "suggested": 0.37,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Nova | Exo (Factory New)",
+        "price": {
+          "min": 0.78,
+          "max": 18.03,
+          "mean": 3.75,
+          "median": 1.61,
+          "suggested": 1.15,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Nova | Exo (Minimal Wear)",
+        "price": {
+          "min": 0.37,
+          "max": 5.05,
+          "mean": 0.64,
+          "median": 0.47,
+          "suggested": 0.51,
+          "quantity": 98,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Nova | Exo (Field-Tested)",
+        "price": {
+          "min": 0.33,
+          "max": 5.83,
+          "mean": 0.88,
+          "median": 0.54,
+          "suggested": 0.47,
+          "quantity": 169,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Nova | Exo (Well-Worn)",
+        "price": {
+          "min": 0.33,
+          "max": 7.76,
+          "mean": 0.83,
+          "median": 0.54,
+          "suggested": 0.47,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Nova | Exo (Battle-Scarred)",
+        "price": {
+          "min": 0.35,
+          "max": 4.1,
+          "mean": 0.75,
+          "median": 0.6,
+          "suggested": 0.37,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Nova | Exo (Factory New)",
+        "price": {
+          "min": 0.93,
+          "max": 24.07,
+          "mean": 4.53,
+          "median": 1.11,
+          "suggested": 1.15,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Nova | Exo (Minimal Wear)",
+        "price": {
+          "min": 0.47,
+          "max": 0.86,
+          "mean": 0.6,
+          "median": 0.57,
+          "suggested": 0.67,
+          "quantity": 38,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Nova | Exo (Field-Tested)",
+        "price": {
+          "min": 0.29,
+          "max": 7.99,
+          "mean": 0.56,
+          "median": 0.36,
+          "suggested": 0.43,
+          "quantity": 38,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Nova | Exo (Well-Worn)",
+        "price": {
+          "min": 0.36,
+          "max": 0.54,
+          "mean": 0.44,
+          "median": 0.43,
+          "suggested": 0.53,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Nova | Exo (Battle-Scarred)",
+        "price": {
+          "min": 0.54,
+          "max": 0.72,
+          "mean": 0.62,
+          "median": 0.62,
+          "suggested": 0.43,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Nova | Exo (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Nova | Exo (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Nova | Exo (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Nova | Exo (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Nova | Exo (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.416Z"
+}

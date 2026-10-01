@@ -1,0 +1,265 @@
+{
+  "id": "skin-7bb2453ebc78",
+  "name": "★ Survival Knife | Case Hardened",
+  "paint_index": "44",
+  "weapon": {
+    "id": "weapon_knife_canis",
+    "weapon_id": 518,
+    "name": "Survival Knife",
+    "slug": "knife_canis"
+  },
+  "pattern": {
+    "id": "aq_oiled",
+    "name": "Case Hardened"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been color case-hardened through the application of wood charcoal at high temperatures.\\n\\n<i>A little color never hurt anyone</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 261.71,
+      "max": 1633.65,
+      "mean": 826.27,
+      "median": 583.47,
+      "suggested": 235.11,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 105.02,
+      "max": 525.12,
+      "mean": 191.77,
+      "median": 174.76,
+      "suggested": 138.82,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 93.06,
+      "max": 1166.94,
+      "mean": 205.45,
+      "median": 125.19,
+      "suggested": 122.08,
+      "quantity": 44,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 85.62,
+      "max": 466.76,
+      "mean": 163.35,
+      "median": 106.19,
+      "suggested": 115.69,
+      "quantity": 18,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 93.78,
+      "max": 320.9,
+      "mean": 166.63,
+      "median": 116.68,
+      "suggested": 107.34,
+      "quantity": 11,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Survival Knife | Case Hardened (Factory New)",
+      "price": {
+        "min": 261.71,
+        "max": 1633.65,
+        "mean": 826.27,
+        "median": 583.47,
+        "suggested": 235.11,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Survival Knife | Case Hardened (Minimal Wear)",
+      "price": {
+        "min": 105.02,
+        "max": 525.12,
+        "mean": 191.77,
+        "median": 174.76,
+        "suggested": 138.82,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Survival Knife | Case Hardened (Field-Tested)",
+      "price": {
+        "min": 93.06,
+        "max": 1166.94,
+        "mean": 205.45,
+        "median": 125.19,
+        "suggested": 122.08,
+        "quantity": 44,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Survival Knife | Case Hardened (Well-Worn)",
+      "price": {
+        "min": 85.62,
+        "max": 466.76,
+        "mean": 163.35,
+        "median": 106.19,
+        "suggested": 115.69,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Survival Knife | Case Hardened (Battle-Scarred)",
+      "price": {
+        "min": 93.78,
+        "max": 320.9,
+        "mean": 166.63,
+        "median": 116.68,
+        "suggested": 107.34,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Survival Knife | Case Hardened (Factory New)",
+        "price": {
+          "min": 261.71,
+          "max": 1633.65,
+          "mean": 826.27,
+          "median": 583.47,
+          "suggested": 235.11,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Survival Knife | Case Hardened (Minimal Wear)",
+        "price": {
+          "min": 105.02,
+          "max": 525.12,
+          "mean": 191.77,
+          "median": 174.76,
+          "suggested": 138.82,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Survival Knife | Case Hardened (Field-Tested)",
+        "price": {
+          "min": 93.06,
+          "max": 1166.94,
+          "mean": 205.45,
+          "median": 125.19,
+          "suggested": 122.08,
+          "quantity": 44,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Survival Knife | Case Hardened (Well-Worn)",
+        "price": {
+          "min": 85.62,
+          "max": 466.76,
+          "mean": 163.35,
+          "median": 106.19,
+          "suggested": 115.69,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Survival Knife | Case Hardened (Battle-Scarred)",
+        "price": {
+          "min": 93.78,
+          "max": 320.9,
+          "mean": 166.63,
+          "median": 116.68,
+          "suggested": 107.34,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Case Hardened (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Case Hardened (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Case Hardened (Field-Tested)",
+        "price": {
+          "min": 291.73,
+          "max": 291.73,
+          "mean": 291.73,
+          "median": 291.73,
+          "suggested": 153.2,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Case Hardened (Well-Worn)",
+        "price": {
+          "min": 205.71,
+          "max": 205.71,
+          "mean": 205.71,
+          "median": 205.71,
+          "suggested": 144.22,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Case Hardened (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:33.421Z"
+}

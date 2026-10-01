@@ -1,0 +1,206 @@
+{
+  "id": "skin-65b73b6b9f0a",
+  "name": "MP9 | Rose Iron",
+  "paint_index": "262",
+  "weapon": {
+    "id": "weapon_mp9",
+    "weapon_id": 34,
+    "name": "MP9",
+    "slug": "mp9"
+  },
+  "pattern": {
+    "id": "am_thorny_rose_mp9",
+    "name": "Rose Iron"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.3,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been hand painted with a rose and thorn motif in metallic paints of different colors.\\n\\n<i>Beware its many thorns</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 18.37,
+      "max": 86.56,
+      "mean": 29.43,
+      "median": 25.78,
+      "suggested": 23.85,
+      "quantity": 51,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 8.58,
+      "max": 34.89,
+      "mean": 14.9,
+      "median": 12.74,
+      "suggested": 9.8,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 7.32,
+      "max": 13.29,
+      "mean": 10.76,
+      "median": 11.67,
+      "suggested": 8.45,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP9 | Rose Iron (Factory New)",
+      "price": {
+        "min": 18.37,
+        "max": 86.56,
+        "mean": 29.43,
+        "median": 25.78,
+        "suggested": 23.85,
+        "quantity": 51,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP9 | Rose Iron (Minimal Wear)",
+      "price": {
+        "min": 8.58,
+        "max": 34.89,
+        "mean": 14.9,
+        "median": 12.74,
+        "suggested": 9.8,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP9 | Rose Iron (Field-Tested)",
+      "price": {
+        "min": 7.32,
+        "max": 13.29,
+        "mean": 10.76,
+        "median": 11.67,
+        "suggested": 8.45,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP9 | Rose Iron (Factory New)",
+        "price": {
+          "min": 18.37,
+          "max": 86.56,
+          "mean": 29.43,
+          "median": 25.78,
+          "suggested": 23.85,
+          "quantity": 51,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP9 | Rose Iron (Minimal Wear)",
+        "price": {
+          "min": 8.58,
+          "max": 34.89,
+          "mean": 14.9,
+          "median": 12.74,
+          "suggested": 9.8,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP9 | Rose Iron (Field-Tested)",
+        "price": {
+          "min": 7.32,
+          "max": 13.29,
+          "mean": 10.76,
+          "median": 11.67,
+          "suggested": 8.45,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MP9 | Rose Iron (Factory New)",
+        "price": {
+          "min": 19.83,
+          "max": 1058.05,
+          "mean": 123.89,
+          "median": 35.01,
+          "suggested": 21.71,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MP9 | Rose Iron (Minimal Wear)",
+        "price": {
+          "min": 12.31,
+          "max": 28.8,
+          "mean": 20.01,
+          "median": 21.81,
+          "suggested": 14.98,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MP9 | Rose Iron (Field-Tested)",
+        "price": {
+          "min": 12.71,
+          "max": 20.99,
+          "mean": 14.76,
+          "median": 13.76,
+          "suggested": 13.27,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP9 | Rose Iron (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP9 | Rose Iron (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP9 | Rose Iron (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:43.571Z"
+}

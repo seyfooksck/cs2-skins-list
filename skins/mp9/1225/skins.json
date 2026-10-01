@@ -1,0 +1,310 @@
+{
+  "id": "skin-2f564d56b7ff",
+  "name": "MP9 | Featherweight",
+  "paint_index": "1225",
+  "weapon": {
+    "id": "weapon_mp9",
+    "weapon_id": 34,
+    "name": "MP9",
+    "slug": "mp9"
+  },
+  "pattern": {
+    "id": "cu_mp9_superlight",
+    "name": "Featherweight"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been custom painted in black and white to appear porous, which saves weight for the weapon holder.\\n\\n<i>A good marksman doesn't blame their tools</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.05,
+      "max": 35.01,
+      "mean": 4.96,
+      "median": 2.33,
+      "suggested": 1.27,
+      "quantity": 117,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.18,
+      "max": 4.67,
+      "mean": 0.3,
+      "median": 0.26,
+      "suggested": 0.25,
+      "quantity": 544,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.07,
+      "max": 3.99,
+      "mean": 0.15,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 651,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.07,
+      "max": 3.59,
+      "mean": 0.12,
+      "median": 0.09,
+      "suggested": 0.09,
+      "quantity": 746,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.06,
+      "max": 4.67,
+      "mean": 0.18,
+      "median": 0.09,
+      "suggested": 0.09,
+      "quantity": 492,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP9 | Featherweight (Factory New)",
+      "price": {
+        "min": 1.05,
+        "max": 35.01,
+        "mean": 4.96,
+        "median": 2.33,
+        "suggested": 1.27,
+        "quantity": 117,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP9 | Featherweight (Minimal Wear)",
+      "price": {
+        "min": 0.18,
+        "max": 4.67,
+        "mean": 0.3,
+        "median": 0.26,
+        "suggested": 0.25,
+        "quantity": 544,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP9 | Featherweight (Field-Tested)",
+      "price": {
+        "min": 0.07,
+        "max": 3.99,
+        "mean": 0.15,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 651,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP9 | Featherweight (Well-Worn)",
+      "price": {
+        "min": 0.07,
+        "max": 3.59,
+        "mean": 0.12,
+        "median": 0.09,
+        "suggested": 0.09,
+        "quantity": 746,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP9 | Featherweight (Battle-Scarred)",
+      "price": {
+        "min": 0.06,
+        "max": 4.67,
+        "mean": 0.18,
+        "median": 0.09,
+        "suggested": 0.09,
+        "quantity": 492,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP9 | Featherweight (Factory New)",
+        "price": {
+          "min": 1.05,
+          "max": 35.01,
+          "mean": 4.96,
+          "median": 2.33,
+          "suggested": 1.27,
+          "quantity": 117,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP9 | Featherweight (Minimal Wear)",
+        "price": {
+          "min": 0.18,
+          "max": 4.67,
+          "mean": 0.3,
+          "median": 0.26,
+          "suggested": 0.25,
+          "quantity": 544,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP9 | Featherweight (Field-Tested)",
+        "price": {
+          "min": 0.07,
+          "max": 3.99,
+          "mean": 0.15,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 651,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP9 | Featherweight (Well-Worn)",
+        "price": {
+          "min": 0.07,
+          "max": 3.59,
+          "mean": 0.12,
+          "median": 0.09,
+          "suggested": 0.09,
+          "quantity": 746,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP9 | Featherweight (Battle-Scarred)",
+        "price": {
+          "min": 0.06,
+          "max": 4.67,
+          "mean": 0.18,
+          "median": 0.09,
+          "suggested": 0.09,
+          "quantity": 492,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MP9 | Featherweight (Factory New)",
+        "price": {
+          "min": 1.23,
+          "max": 280.29,
+          "mean": 11.93,
+          "median": 4.26,
+          "suggested": 1.44,
+          "quantity": 44,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MP9 | Featherweight (Minimal Wear)",
+        "price": {
+          "min": 0.22,
+          "max": 7,
+          "mean": 0.54,
+          "median": 0.29,
+          "suggested": 0.27,
+          "quantity": 142,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MP9 | Featherweight (Field-Tested)",
+        "price": {
+          "min": 0.09,
+          "max": 3.35,
+          "mean": 0.16,
+          "median": 0.13,
+          "suggested": 0.1,
+          "quantity": 184,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MP9 | Featherweight (Well-Worn)",
+        "price": {
+          "min": 0.08,
+          "max": 0.93,
+          "mean": 0.12,
+          "median": 0.12,
+          "suggested": 0.1,
+          "quantity": 210,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MP9 | Featherweight (Battle-Scarred)",
+        "price": {
+          "min": 0.07,
+          "max": 5.83,
+          "mean": 0.26,
+          "median": 0.12,
+          "suggested": 0.1,
+          "quantity": 122,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP9 | Featherweight (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP9 | Featherweight (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP9 | Featherweight (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP9 | Featherweight (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP9 | Featherweight (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:43.711Z"
+}

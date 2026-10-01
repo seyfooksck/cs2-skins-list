@@ -1,0 +1,289 @@
+{
+  "id": "skin-62fc4feb5c7c",
+  "name": "Tec-9 | Brass",
+  "paint_index": "159",
+  "weapon": {
+    "id": "weapon_tec9",
+    "weapon_id": 30,
+    "name": "Tec-9",
+    "slug": "tec9"
+  },
+  "pattern": {
+    "id": "aq_brass",
+    "name": "Brass"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity. Parts of the weapon have been replaced with brass.\\n\\n<i>Fool's gold</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 111.94,
+      "max": 163.86,
+      "mean": 133.65,
+      "median": 129.39,
+      "suggested": 100.56,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 25.44,
+      "max": 87.52,
+      "mean": 43.56,
+      "median": 30.64,
+      "suggested": 22.85,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 6.43,
+      "max": 239.11,
+      "mean": 28.78,
+      "median": 15.17,
+      "suggested": 9.33,
+      "quantity": 19,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 6.3,
+      "max": 36.18,
+      "mean": 18.05,
+      "median": 14.87,
+      "suggested": 5.81,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 4.9,
+      "max": 46.27,
+      "mean": 21.54,
+      "median": 17.5,
+      "suggested": 5.95,
+      "quantity": 4,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Tec-9 | Brass (Factory New)",
+      "price": {
+        "min": 111.94,
+        "max": 163.86,
+        "mean": 133.65,
+        "median": 129.39,
+        "suggested": 100.56,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Tec-9 | Brass (Minimal Wear)",
+      "price": {
+        "min": 25.44,
+        "max": 87.52,
+        "mean": 43.56,
+        "median": 30.64,
+        "suggested": 22.85,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Tec-9 | Brass (Field-Tested)",
+      "price": {
+        "min": 6.43,
+        "max": 239.11,
+        "mean": 28.78,
+        "median": 15.17,
+        "suggested": 9.33,
+        "quantity": 19,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Tec-9 | Brass (Well-Worn)",
+      "price": {
+        "min": 6.3,
+        "max": 36.18,
+        "mean": 18.05,
+        "median": 14.87,
+        "suggested": 5.81,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Tec-9 | Brass (Battle-Scarred)",
+      "price": {
+        "min": 4.9,
+        "max": 46.27,
+        "mean": 21.54,
+        "median": 17.5,
+        "suggested": 5.95,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Tec-9 | Brass (Factory New)",
+        "price": {
+          "min": 111.94,
+          "max": 163.86,
+          "mean": 133.65,
+          "median": 129.39,
+          "suggested": 100.56,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Tec-9 | Brass (Minimal Wear)",
+        "price": {
+          "min": 25.44,
+          "max": 87.52,
+          "mean": 43.56,
+          "median": 30.64,
+          "suggested": 22.85,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Tec-9 | Brass (Field-Tested)",
+        "price": {
+          "min": 6.43,
+          "max": 239.11,
+          "mean": 28.78,
+          "median": 15.17,
+          "suggested": 9.33,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Tec-9 | Brass (Well-Worn)",
+        "price": {
+          "min": 6.3,
+          "max": 36.18,
+          "mean": 18.05,
+          "median": 14.87,
+          "suggested": 5.81,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Tec-9 | Brass (Battle-Scarred)",
+        "price": {
+          "min": 4.9,
+          "max": 46.27,
+          "mean": 21.54,
+          "median": 17.5,
+          "suggested": 5.95,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Tec-9 | Brass (Factory New)",
+        "price": {
+          "min": 232.83,
+          "max": 759.61,
+          "mean": 429.4,
+          "median": 295.76,
+          "suggested": 223.29,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Tec-9 | Brass (Minimal Wear)",
+        "price": {
+          "min": 26.24,
+          "max": 75.22,
+          "mean": 46.02,
+          "median": 41.3,
+          "suggested": 34.05,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Tec-9 | Brass (Field-Tested)",
+        "price": {
+          "min": 17.5,
+          "max": 137.73,
+          "mean": 39.78,
+          "median": 29.01,
+          "suggested": 16.05,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Tec-9 | Brass (Well-Worn)",
+        "price": {
+          "min": 16.12,
+          "max": 337.49,
+          "mean": 120.66,
+          "median": 64.52,
+          "suggested": 16.19,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Tec-9 | Brass (Battle-Scarred)",
+        "price": {
+          "min": 31.53,
+          "max": 182.04,
+          "mean": 73.19,
+          "median": 40.97,
+          "suggested": 13.81,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.069Z"
+}

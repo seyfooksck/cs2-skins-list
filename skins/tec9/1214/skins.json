@@ -1,0 +1,281 @@
+{
+  "id": "skin-20f06d331186",
+  "name": "Tec-9 | Whiteout",
+  "paint_index": "1214",
+  "weapon": {
+    "id": "weapon_tec9",
+    "weapon_id": 30,
+    "name": "Tec-9",
+    "slug": "tec9"
+  },
+  "pattern": {
+    "id": "so_whiteout_tec9",
+    "name": "Whiteout"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0.06,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity. It is spray-painted all white.\\n\\n<i>It looks pure, but looks can be deceiving</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 280.06,
+      "max": 1750.41,
+      "mean": 659.55,
+      "median": 458.45,
+      "suggested": 387.73,
+      "quantity": 26,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 24.38,
+      "max": 1693.54,
+      "mean": 80.64,
+      "median": 52.8,
+      "suggested": 35.71,
+      "quantity": 124,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 3.63,
+      "max": 283.22,
+      "mean": 13.83,
+      "median": 9.34,
+      "suggested": 5.35,
+      "quantity": 326,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 2.33,
+      "max": 35.09,
+      "mean": 7.67,
+      "median": 5.22,
+      "suggested": 3.07,
+      "quantity": 27,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.91,
+      "max": 99.77,
+      "mean": 9.27,
+      "median": 4.73,
+      "suggested": 2.41,
+      "quantity": 26,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Tec-9 | Whiteout (Factory New)",
+      "price": {
+        "min": 280.06,
+        "max": 1750.41,
+        "mean": 659.55,
+        "median": 458.45,
+        "suggested": 387.73,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Tec-9 | Whiteout (Minimal Wear)",
+      "price": {
+        "min": 24.38,
+        "max": 1693.54,
+        "mean": 80.64,
+        "median": 52.8,
+        "suggested": 35.71,
+        "quantity": 124,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Tec-9 | Whiteout (Field-Tested)",
+      "price": {
+        "min": 3.63,
+        "max": 283.22,
+        "mean": 13.83,
+        "median": 9.34,
+        "suggested": 5.35,
+        "quantity": 326,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Tec-9 | Whiteout (Well-Worn)",
+      "price": {
+        "min": 2.33,
+        "max": 35.09,
+        "mean": 7.67,
+        "median": 5.22,
+        "suggested": 3.07,
+        "quantity": 27,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Tec-9 | Whiteout (Battle-Scarred)",
+      "price": {
+        "min": 1.91,
+        "max": 99.77,
+        "mean": 9.27,
+        "median": 4.73,
+        "suggested": 2.41,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Tec-9 | Whiteout (Factory New)",
+        "price": {
+          "min": 280.06,
+          "max": 1750.41,
+          "mean": 659.55,
+          "median": 458.45,
+          "suggested": 387.73,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Tec-9 | Whiteout (Minimal Wear)",
+        "price": {
+          "min": 24.38,
+          "max": 1693.54,
+          "mean": 80.64,
+          "median": 52.8,
+          "suggested": 35.71,
+          "quantity": 124,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Tec-9 | Whiteout (Field-Tested)",
+        "price": {
+          "min": 3.63,
+          "max": 283.22,
+          "mean": 13.83,
+          "median": 9.34,
+          "suggested": 5.35,
+          "quantity": 326,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Tec-9 | Whiteout (Well-Worn)",
+        "price": {
+          "min": 2.33,
+          "max": 35.09,
+          "mean": 7.67,
+          "median": 5.22,
+          "suggested": 3.07,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Tec-9 | Whiteout (Battle-Scarred)",
+        "price": {
+          "min": 1.91,
+          "max": 99.77,
+          "mean": 9.27,
+          "median": 4.73,
+          "suggested": 2.41,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Tec-9 | Whiteout (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Tec-9 | Whiteout (Minimal Wear)",
+        "price": {
+          "min": 48.6,
+          "max": 247.95,
+          "mean": 93.3,
+          "median": 79.56,
+          "suggested": 59.4,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Tec-9 | Whiteout (Field-Tested)",
+        "price": {
+          "min": 7.16,
+          "max": 38.51,
+          "mean": 15.86,
+          "median": 13.35,
+          "suggested": 8.48,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Tec-9 | Whiteout (Well-Worn)",
+        "price": {
+          "min": 4.05,
+          "max": 4.05,
+          "mean": 4.05,
+          "median": 4.05,
+          "suggested": 4.72,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Tec-9 | Whiteout (Battle-Scarred)",
+        "price": {
+          "min": 3.02,
+          "max": 11.67,
+          "mean": 7.08,
+          "median": 6.57,
+          "suggested": 3.81,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.553Z"
+}

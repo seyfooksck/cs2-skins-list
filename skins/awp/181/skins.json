@@ -1,0 +1,206 @@
+{
+  "id": "skin-d0203eae8335",
+  "name": "AWP | Corticera",
+  "paint_index": "181",
+  "weapon": {
+    "id": "weapon_awp",
+    "weapon_id": 9,
+    "name": "AWP",
+    "slug": "awp"
+  },
+  "pattern": {
+    "id": "cu_favela_awp",
+    "name": "Corticera"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0.06,
+  "max_float": 0.3,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has has been painted with a corticera tree motif.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 185.54,
+      "max": 693.1,
+      "mean": 300.28,
+      "median": 246.66,
+      "suggested": 251.42,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 25.39,
+      "max": 815.69,
+      "mean": 63.31,
+      "median": 37.86,
+      "suggested": 32.56,
+      "quantity": 53,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 24.38,
+      "max": 110.21,
+      "mean": 47.16,
+      "median": 31.61,
+      "suggested": 29.05,
+      "quantity": 20,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AWP | Corticera (Factory New)",
+      "price": {
+        "min": 185.54,
+        "max": 693.1,
+        "mean": 300.28,
+        "median": 246.66,
+        "suggested": 251.42,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AWP | Corticera (Minimal Wear)",
+      "price": {
+        "min": 25.39,
+        "max": 815.69,
+        "mean": 63.31,
+        "median": 37.86,
+        "suggested": 32.56,
+        "quantity": 53,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AWP | Corticera (Field-Tested)",
+      "price": {
+        "min": 24.38,
+        "max": 110.21,
+        "mean": 47.16,
+        "median": 31.61,
+        "suggested": 29.05,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AWP | Corticera (Factory New)",
+        "price": {
+          "min": 185.54,
+          "max": 693.1,
+          "mean": 300.28,
+          "median": 246.66,
+          "suggested": 251.42,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AWP | Corticera (Minimal Wear)",
+        "price": {
+          "min": 25.39,
+          "max": 815.69,
+          "mean": 63.31,
+          "median": 37.86,
+          "suggested": 32.56,
+          "quantity": 53,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AWP | Corticera (Field-Tested)",
+        "price": {
+          "min": 24.38,
+          "max": 110.21,
+          "mean": 47.16,
+          "median": 31.61,
+          "suggested": 29.05,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AWP | Corticera (Factory New)",
+        "price": {
+          "min": 232.22,
+          "max": 232.22,
+          "mean": 232.22,
+          "median": 232.22,
+          "suggested": 170.24,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AWP | Corticera (Minimal Wear)",
+        "price": {
+          "min": 46.67,
+          "max": 90.41,
+          "mean": 57.62,
+          "median": 52.85,
+          "suggested": 52.92,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AWP | Corticera (Field-Tested)",
+        "price": {
+          "min": 37.34,
+          "max": 58.34,
+          "mean": 46.99,
+          "median": 45.55,
+          "suggested": 44.48,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AWP | Corticera (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AWP | Corticera (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AWP | Corticera (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:26.071Z"
+}

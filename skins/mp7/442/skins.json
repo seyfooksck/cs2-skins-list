@@ -1,0 +1,249 @@
+{
+  "id": "skin-172ec6f4e94b",
+  "name": "MP7 | Asterion",
+  "paint_index": "442",
+  "weapon": {
+    "id": "weapon_mp7",
+    "weapon_id": 33,
+    "name": "MP7",
+    "slug": "mp7"
+  },
+  "pattern": {
+    "id": "sp_labyrinth",
+    "name": "Asterion"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 0.55,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been spray-painted with a stencil of an isometric labyrinth.\\n\\n<i>Kings are just men... and no man should be worshipped - Valeria Jenner, Revolutionary</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 23.81,
+      "max": 79.35,
+      "mean": 34.23,
+      "median": 29.16,
+      "suggested": 23.51,
+      "quantity": 23,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 5.88,
+      "max": 30.24,
+      "mean": 9.93,
+      "median": 9.2,
+      "suggested": 6.7,
+      "quantity": 31,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 4.47,
+      "max": 64.18,
+      "mean": 8.96,
+      "median": 6.3,
+      "suggested": 5.62,
+      "quantity": 52,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 4.9,
+      "max": 11.67,
+      "mean": 6.06,
+      "median": 5.23,
+      "suggested": 5.04,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 4.12,
+      "max": 23.34,
+      "mean": 8.48,
+      "median": 5.17,
+      "suggested": 5,
+      "quantity": 5,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP7 | Asterion (Factory New)",
+      "price": {
+        "min": 23.81,
+        "max": 79.35,
+        "mean": 34.23,
+        "median": 29.16,
+        "suggested": 23.51,
+        "quantity": 23,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP7 | Asterion (Minimal Wear)",
+      "price": {
+        "min": 5.88,
+        "max": 30.24,
+        "mean": 9.93,
+        "median": 9.2,
+        "suggested": 6.7,
+        "quantity": 31,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP7 | Asterion (Field-Tested)",
+      "price": {
+        "min": 4.47,
+        "max": 64.18,
+        "mean": 8.96,
+        "median": 6.3,
+        "suggested": 5.62,
+        "quantity": 52,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP7 | Asterion (Well-Worn)",
+      "price": {
+        "min": 4.9,
+        "max": 11.67,
+        "mean": 6.06,
+        "median": 5.23,
+        "suggested": 5.04,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP7 | Asterion (Battle-Scarred)",
+      "price": {
+        "min": 4.12,
+        "max": 23.34,
+        "mean": 8.48,
+        "median": 5.17,
+        "suggested": 5,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP7 | Asterion (Factory New)",
+        "price": {
+          "min": 23.81,
+          "max": 79.35,
+          "mean": 34.23,
+          "median": 29.16,
+          "suggested": 23.51,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP7 | Asterion (Minimal Wear)",
+        "price": {
+          "min": 5.88,
+          "max": 30.24,
+          "mean": 9.93,
+          "median": 9.2,
+          "suggested": 6.7,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP7 | Asterion (Field-Tested)",
+        "price": {
+          "min": 4.47,
+          "max": 64.18,
+          "mean": 8.96,
+          "median": 6.3,
+          "suggested": 5.62,
+          "quantity": 52,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP7 | Asterion (Well-Worn)",
+        "price": {
+          "min": 4.9,
+          "max": 11.67,
+          "mean": 6.06,
+          "median": 5.23,
+          "suggested": 5.04,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP7 | Asterion (Battle-Scarred)",
+        "price": {
+          "min": 4.12,
+          "max": 23.34,
+          "mean": 8.48,
+          "median": 5.17,
+          "suggested": 5,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP7 | Asterion (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP7 | Asterion (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP7 | Asterion (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP7 | Asterion (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP7 | Asterion (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:43.374Z"
+}

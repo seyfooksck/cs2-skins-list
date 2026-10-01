@@ -1,0 +1,201 @@
+{
+  "id": "skin-7e5068bb215f",
+  "name": "★ Huntsman Knife | Scorched",
+  "paint_index": "175",
+  "weapon": {
+    "id": "weapon_knife_tactical",
+    "weapon_id": 509,
+    "name": "Huntsman Knife",
+    "slug": "knife_tactical"
+  },
+  "pattern": {
+    "id": "sp_dapple",
+    "name": "Scorched"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A knife designed for modern tactical uses, the blade is well suited for a range of both combat and utilitarian needs.  The unique Tanto point allows for maximum penetration through even the toughest of surfaces. It has been spray-painted in a sun-dappled pattern.\\n\\n<i>The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 92.15,
+      "max": 102.69,
+      "mean": 97.43,
+      "median": 97.43,
+      "suggested": 118.09,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 58.35,
+      "max": 119.28,
+      "mean": 81.11,
+      "median": 65.7,
+      "suggested": 56.13,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 75.05,
+      "max": 75.05,
+      "mean": 75.05,
+      "median": 75.05,
+      "suggested": 93.21,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Huntsman Knife | Scorched (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Huntsman Knife | Scorched (Minimal Wear)",
+      "price": {
+        "min": 92.15,
+        "max": 102.69,
+        "mean": 97.43,
+        "median": 97.43,
+        "suggested": 118.09,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Huntsman Knife | Scorched (Field-Tested)",
+      "price": {
+        "min": 58.35,
+        "max": 119.28,
+        "mean": 81.11,
+        "median": 65.7,
+        "suggested": 56.13,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Huntsman Knife | Scorched (Well-Worn)",
+      "price": {
+        "min": 75.05,
+        "max": 75.05,
+        "mean": 75.05,
+        "median": 75.05,
+        "suggested": 93.21,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Huntsman Knife | Scorched (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Huntsman Knife | Scorched (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Huntsman Knife | Scorched (Minimal Wear)",
+        "price": {
+          "min": 92.15,
+          "max": 102.69,
+          "mean": 97.43,
+          "median": 97.43,
+          "suggested": 118.09,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Huntsman Knife | Scorched (Field-Tested)",
+        "price": {
+          "min": 58.35,
+          "max": 119.28,
+          "mean": 81.11,
+          "median": 65.7,
+          "suggested": 56.13,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Huntsman Knife | Scorched (Well-Worn)",
+        "price": {
+          "min": 75.05,
+          "max": 75.05,
+          "mean": 75.05,
+          "median": 75.05,
+          "suggested": 93.21,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Huntsman Knife | Scorched (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Huntsman Knife | Scorched (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Huntsman Knife | Scorched (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Huntsman Knife | Scorched (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Huntsman Knife | Scorched (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Huntsman Knife | Scorched (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:38.989Z"
+}

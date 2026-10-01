@@ -1,0 +1,310 @@
+{
+  "id": "skin-612576d81a84",
+  "name": "P90 | Deathgaze",
+  "paint_index": "1419",
+  "weapon": {
+    "id": "weapon_p90",
+    "weapon_id": 19,
+    "name": "P90",
+    "slug": "p90"
+  },
+  "pattern": {
+    "id": "p90_deathgaze",
+    "name": "Deathgaze"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been custom painted with a graffiti-style Medusa over a Carrara marble base.\\n\\n<i>Worship not the idols built on foundations of deception</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 29.07,
+      "max": 127.39,
+      "mean": 49.24,
+      "median": 38.46,
+      "suggested": 44.51,
+      "quantity": 22,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 12.1,
+      "max": 46.68,
+      "mean": 16.54,
+      "median": 13.65,
+      "suggested": 14.18,
+      "quantity": 46,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 5.87,
+      "max": 233.39,
+      "mean": 12.96,
+      "median": 7.56,
+      "suggested": 7.08,
+      "quantity": 51,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 5.25,
+      "max": 8.46,
+      "mean": 6.42,
+      "median": 6.24,
+      "suggested": 7.09,
+      "quantity": 86,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 4.57,
+      "max": 9.63,
+      "mean": 5.5,
+      "median": 5.02,
+      "suggested": 5.28,
+      "quantity": 30,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P90 | Deathgaze (Factory New)",
+      "price": {
+        "min": 29.07,
+        "max": 127.39,
+        "mean": 49.24,
+        "median": 38.46,
+        "suggested": 44.51,
+        "quantity": 22,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P90 | Deathgaze (Minimal Wear)",
+      "price": {
+        "min": 12.1,
+        "max": 46.68,
+        "mean": 16.54,
+        "median": 13.65,
+        "suggested": 14.18,
+        "quantity": 46,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P90 | Deathgaze (Field-Tested)",
+      "price": {
+        "min": 5.87,
+        "max": 233.39,
+        "mean": 12.96,
+        "median": 7.56,
+        "suggested": 7.08,
+        "quantity": 51,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P90 | Deathgaze (Well-Worn)",
+      "price": {
+        "min": 5.25,
+        "max": 8.46,
+        "mean": 6.42,
+        "median": 6.24,
+        "suggested": 7.09,
+        "quantity": 86,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P90 | Deathgaze (Battle-Scarred)",
+      "price": {
+        "min": 4.57,
+        "max": 9.63,
+        "mean": 5.5,
+        "median": 5.02,
+        "suggested": 5.28,
+        "quantity": 30,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P90 | Deathgaze (Factory New)",
+        "price": {
+          "min": 29.07,
+          "max": 127.39,
+          "mean": 49.24,
+          "median": 38.46,
+          "suggested": 44.51,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P90 | Deathgaze (Minimal Wear)",
+        "price": {
+          "min": 12.1,
+          "max": 46.68,
+          "mean": 16.54,
+          "median": 13.65,
+          "suggested": 14.18,
+          "quantity": 46,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P90 | Deathgaze (Field-Tested)",
+        "price": {
+          "min": 5.87,
+          "max": 233.39,
+          "mean": 12.96,
+          "median": 7.56,
+          "suggested": 7.08,
+          "quantity": 51,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P90 | Deathgaze (Well-Worn)",
+        "price": {
+          "min": 5.25,
+          "max": 8.46,
+          "mean": 6.42,
+          "median": 6.24,
+          "suggested": 7.09,
+          "quantity": 86,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P90 | Deathgaze (Battle-Scarred)",
+        "price": {
+          "min": 4.57,
+          "max": 9.63,
+          "mean": 5.5,
+          "median": 5.02,
+          "suggested": 5.28,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P90 | Deathgaze (Factory New)",
+        "price": {
+          "min": 81.57,
+          "max": 86.05,
+          "mean": 83.81,
+          "median": 83.81,
+          "suggested": 44.53,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P90 | Deathgaze (Minimal Wear)",
+        "price": {
+          "min": 13.62,
+          "max": 93.35,
+          "mean": 29.77,
+          "median": 33.86,
+          "suggested": 17.23,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P90 | Deathgaze (Field-Tested)",
+        "price": {
+          "min": 10.05,
+          "max": 19.01,
+          "mean": 12.18,
+          "median": 10.07,
+          "suggested": 9.39,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ P90 | Deathgaze (Well-Worn)",
+        "price": {
+          "min": 6.03,
+          "max": 7.82,
+          "mean": 6.39,
+          "median": 6.15,
+          "suggested": 7.02,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ P90 | Deathgaze (Battle-Scarred)",
+        "price": {
+          "min": 5.18,
+          "max": 29.17,
+          "mean": 10.63,
+          "median": 6.1,
+          "suggested": 6.07,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P90 | Deathgaze (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P90 | Deathgaze (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P90 | Deathgaze (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P90 | Deathgaze (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P90 | Deathgaze (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:46.332Z"
+}

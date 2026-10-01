@@ -1,0 +1,249 @@
+{
+  "id": "skin-8c086e8406f0",
+  "name": "AUG | Lapis Lazuli",
+  "paint_index": "1464",
+  "weapon": {
+    "id": "weapon_aug",
+    "weapon_id": 8,
+    "name": "AUG",
+    "slug": "aug"
+  },
+  "pattern": {
+    "id": "aug_lapis_lazuli",
+    "name": "Lapis Lazuli"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire. It has been custom painted with a white, blue, and gold design to resemble lapis lazuli.\\n\\n<i>An exquisite piece, both powerful and fragile</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 35.67,
+      "max": 60.56,
+      "mean": 46.75,
+      "median": 43.28,
+      "suggested": 27.7,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 20.46,
+      "max": 23.34,
+      "mean": 21.42,
+      "median": 20.48,
+      "suggested": 14.59,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.91,
+      "max": 7,
+      "mean": 4.13,
+      "median": 3.65,
+      "suggested": 3.74,
+      "quantity": 19,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.93,
+      "max": 1.93,
+      "mean": 1.93,
+      "median": 1.93,
+      "suggested": 2.26,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.4,
+      "max": 2.52,
+      "mean": 1.96,
+      "median": 1.96,
+      "suggested": 3.21,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AUG | Lapis Lazuli (Factory New)",
+      "price": {
+        "min": 35.67,
+        "max": 60.56,
+        "mean": 46.75,
+        "median": 43.28,
+        "suggested": 27.7,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AUG | Lapis Lazuli (Minimal Wear)",
+      "price": {
+        "min": 20.46,
+        "max": 23.34,
+        "mean": 21.42,
+        "median": 20.48,
+        "suggested": 14.59,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AUG | Lapis Lazuli (Field-Tested)",
+      "price": {
+        "min": 2.91,
+        "max": 7,
+        "mean": 4.13,
+        "median": 3.65,
+        "suggested": 3.74,
+        "quantity": 19,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AUG | Lapis Lazuli (Well-Worn)",
+      "price": {
+        "min": 1.93,
+        "max": 1.93,
+        "mean": 1.93,
+        "median": 1.93,
+        "suggested": 2.26,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AUG | Lapis Lazuli (Battle-Scarred)",
+      "price": {
+        "min": 1.4,
+        "max": 2.52,
+        "mean": 1.96,
+        "median": 1.96,
+        "suggested": 3.21,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AUG | Lapis Lazuli (Factory New)",
+        "price": {
+          "min": 35.67,
+          "max": 60.56,
+          "mean": 46.75,
+          "median": 43.28,
+          "suggested": 27.7,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AUG | Lapis Lazuli (Minimal Wear)",
+        "price": {
+          "min": 20.46,
+          "max": 23.34,
+          "mean": 21.42,
+          "median": 20.48,
+          "suggested": 14.59,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AUG | Lapis Lazuli (Field-Tested)",
+        "price": {
+          "min": 2.91,
+          "max": 7,
+          "mean": 4.13,
+          "median": 3.65,
+          "suggested": 3.74,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AUG | Lapis Lazuli (Well-Worn)",
+        "price": {
+          "min": 1.93,
+          "max": 1.93,
+          "mean": 1.93,
+          "median": 1.93,
+          "suggested": 2.26,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AUG | Lapis Lazuli (Battle-Scarred)",
+        "price": {
+          "min": 1.4,
+          "max": 2.52,
+          "mean": 1.96,
+          "median": 1.96,
+          "suggested": 3.21,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AUG | Lapis Lazuli (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AUG | Lapis Lazuli (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AUG | Lapis Lazuli (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AUG | Lapis Lazuli (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AUG | Lapis Lazuli (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.302Z"
+}

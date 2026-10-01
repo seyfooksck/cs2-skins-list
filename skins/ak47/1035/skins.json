@@ -1,0 +1,318 @@
+{
+  "id": "skin-48e1c7c5df5e",
+  "name": "AK-47 | Slate",
+  "paint_index": "1035",
+  "weapon": {
+    "id": "weapon_ak47",
+    "weapon_id": 7,
+    "name": "AK-47",
+    "slug": "ak47"
+  },
+  "pattern": {
+    "id": "gs_ak47_professional",
+    "name": "Slate"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. A custom paint job has been applied which can only be described as \\\"black on black on slate black\\\".\\n\\n<i>\\\"Call a doctor, they're gonna need one\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 18.48,
+      "max": 1796.1,
+      "mean": 61.88,
+      "median": 25.29,
+      "suggested": 25.25,
+      "quantity": 192,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 6.79,
+      "max": 389.17,
+      "mean": 17.6,
+      "median": 9.03,
+      "suggested": 9.05,
+      "quantity": 523,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 4.39,
+      "max": 151.69,
+      "mean": 10.12,
+      "median": 5.26,
+      "suggested": 5.81,
+      "quantity": 905,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 3.83,
+      "max": 200.71,
+      "mean": 8.85,
+      "median": 4.59,
+      "suggested": 4.95,
+      "quantity": 263,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 3.56,
+      "max": 152.96,
+      "mean": 13.22,
+      "median": 5.02,
+      "suggested": 4.59,
+      "quantity": 234,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AK-47 | Slate (Factory New)",
+      "price": {
+        "min": 18.48,
+        "max": 1796.1,
+        "mean": 61.88,
+        "median": 25.29,
+        "suggested": 25.25,
+        "quantity": 192,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AK-47 | Slate (Minimal Wear)",
+      "price": {
+        "min": 6.79,
+        "max": 389.17,
+        "mean": 17.6,
+        "median": 9.03,
+        "suggested": 9.05,
+        "quantity": 523,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AK-47 | Slate (Field-Tested)",
+      "price": {
+        "min": 4.39,
+        "max": 151.69,
+        "mean": 10.12,
+        "median": 5.26,
+        "suggested": 5.81,
+        "quantity": 905,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AK-47 | Slate (Well-Worn)",
+      "price": {
+        "min": 3.83,
+        "max": 200.71,
+        "mean": 8.85,
+        "median": 4.59,
+        "suggested": 4.95,
+        "quantity": 263,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AK-47 | Slate (Battle-Scarred)",
+      "price": {
+        "min": 3.56,
+        "max": 152.96,
+        "mean": 13.22,
+        "median": 5.02,
+        "suggested": 4.59,
+        "quantity": 234,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AK-47 | Slate (Factory New)",
+        "price": {
+          "min": 18.48,
+          "max": 1796.1,
+          "mean": 61.88,
+          "median": 25.29,
+          "suggested": 25.25,
+          "quantity": 192,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AK-47 | Slate (Minimal Wear)",
+        "price": {
+          "min": 6.79,
+          "max": 389.17,
+          "mean": 17.6,
+          "median": 9.03,
+          "suggested": 9.05,
+          "quantity": 523,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AK-47 | Slate (Field-Tested)",
+        "price": {
+          "min": 4.39,
+          "max": 151.69,
+          "mean": 10.12,
+          "median": 5.26,
+          "suggested": 5.81,
+          "quantity": 905,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AK-47 | Slate (Well-Worn)",
+        "price": {
+          "min": 3.83,
+          "max": 200.71,
+          "mean": 8.85,
+          "median": 4.59,
+          "suggested": 4.95,
+          "quantity": 263,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AK-47 | Slate (Battle-Scarred)",
+        "price": {
+          "min": 3.56,
+          "max": 152.96,
+          "mean": 13.22,
+          "median": 5.02,
+          "suggested": 4.59,
+          "quantity": 234,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AK-47 | Slate (Factory New)",
+        "price": {
+          "min": 48.46,
+          "max": 5222.29,
+          "mean": 174.73,
+          "median": 60.1,
+          "suggested": 64.53,
+          "quantity": 49,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AK-47 | Slate (Minimal Wear)",
+        "price": {
+          "min": 22.99,
+          "max": 256.73,
+          "mean": 39.33,
+          "median": 27.89,
+          "suggested": 29.48,
+          "quantity": 78,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AK-47 | Slate (Field-Tested)",
+        "price": {
+          "min": 13.99,
+          "max": 210.04,
+          "mean": 26.37,
+          "median": 17.15,
+          "suggested": 18.6,
+          "quantity": 68,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AK-47 | Slate (Well-Worn)",
+        "price": {
+          "min": 12.8,
+          "max": 175.03,
+          "mean": 32.37,
+          "median": 17.5,
+          "suggested": 14.93,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ AK-47 | Slate (Battle-Scarred)",
+        "price": {
+          "min": 11.66,
+          "max": 430.14,
+          "mean": 36.58,
+          "median": 15.3,
+          "suggested": 13.99,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AK-47 | Slate (Factory New)",
+        "price": {
+          "min": 150.53,
+          "max": 150.53,
+          "mean": 150.53,
+          "median": 150.53,
+          "suggested": 56.35,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AK-47 | Slate (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AK-47 | Slate (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AK-47 | Slate (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AK-47 | Slate (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:20:20.858Z"
+}

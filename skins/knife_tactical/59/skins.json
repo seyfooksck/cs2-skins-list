@@ -1,0 +1,185 @@
+{
+  "id": "skin-2cab831d314a",
+  "name": "★ Huntsman Knife | Slaughter",
+  "paint_index": "59",
+  "weapon": {
+    "id": "weapon_knife_tactical",
+    "weapon_id": 509,
+    "name": "Huntsman Knife",
+    "slug": "knife_tactical"
+  },
+  "pattern": {
+    "id": "am_zebra",
+    "name": "Slaughter"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.01,
+  "max_float": 0.26,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A knife designed for modern tactical uses, the blade is well suited for a range of both combat and utilitarian needs.  The unique Tanto point allows for maximum penetration through even the toughest of surfaces. It has been painted in a zebra-stripe pattern with aluminum and chrome paints with various reflectivities, and has then been covered with a tomato red candy coat.\\n\\n<i>Valeria doesn't pay Javier to ask questions... she pays him to pry out answers</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 252.08,
+      "max": 1130.76,
+      "mean": 413.2,
+      "median": 328.35,
+      "suggested": 371.85,
+      "quantity": 16,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 209.05,
+      "max": 383.88,
+      "mean": 252.75,
+      "median": 240.86,
+      "suggested": 279.47,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 220.4,
+      "max": 220.55,
+      "mean": 220.48,
+      "median": 220.48,
+      "suggested": 266.19,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Huntsman Knife | Slaughter (Factory New)",
+      "price": {
+        "min": 252.08,
+        "max": 1130.76,
+        "mean": 413.2,
+        "median": 328.35,
+        "suggested": 371.85,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Huntsman Knife | Slaughter (Minimal Wear)",
+      "price": {
+        "min": 209.05,
+        "max": 383.88,
+        "mean": 252.75,
+        "median": 240.86,
+        "suggested": 279.47,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Huntsman Knife | Slaughter (Field-Tested)",
+      "price": {
+        "min": 220.4,
+        "max": 220.55,
+        "mean": 220.48,
+        "median": 220.48,
+        "suggested": 266.19,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Huntsman Knife | Slaughter (Factory New)",
+        "price": {
+          "min": 252.08,
+          "max": 1130.76,
+          "mean": 413.2,
+          "median": 328.35,
+          "suggested": 371.85,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Huntsman Knife | Slaughter (Minimal Wear)",
+        "price": {
+          "min": 209.05,
+          "max": 383.88,
+          "mean": 252.75,
+          "median": 240.86,
+          "suggested": 279.47,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Huntsman Knife | Slaughter (Field-Tested)",
+        "price": {
+          "min": 220.4,
+          "max": 220.55,
+          "mean": 220.48,
+          "median": 220.48,
+          "suggested": 266.19,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Huntsman Knife | Slaughter (Factory New)",
+        "price": {
+          "min": 396.08,
+          "max": 396.08,
+          "mean": 396.08,
+          "median": 396.08,
+          "suggested": 483.6,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Huntsman Knife | Slaughter (Minimal Wear)",
+        "price": {
+          "min": 453.94,
+          "max": 453.94,
+          "mean": 453.94,
+          "median": 453.94,
+          "suggested": 338.4,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Huntsman Knife | Slaughter (Field-Tested)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:38.789Z"
+}

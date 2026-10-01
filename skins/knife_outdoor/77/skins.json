@@ -1,0 +1,249 @@
+{
+  "id": "skin-098853240a06",
+  "name": "★ Nomad Knife | Boreal Forest",
+  "paint_index": "77",
+  "weapon": {
+    "id": "weapon_knife_outdoor",
+    "weapon_id": 521,
+    "name": "Nomad Knife",
+    "slug": "knife_outdoor"
+  },
+  "pattern": {
+    "id": "hy_forest_boreal",
+    "name": "Boreal Forest"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This ergonomic tactical hunting lock-blade knife features composite handle inserts and a broad, sturdy blade, useful for cutting and prying apart material. It has been painted using a forest camouflage hydrographic.\\n\\n<i>The woods can be a dangerous place... never travel alone</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 93.72,
+      "max": 105.77,
+      "mean": 101.5,
+      "median": 105.02,
+      "suggested": 115.69,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 84.91,
+      "max": 164.7,
+      "mean": 108.53,
+      "median": 105.64,
+      "suggested": 106.73,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 92.35,
+      "max": 106.11,
+      "mean": 99.24,
+      "median": 99.24,
+      "suggested": 107.68,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 87.51,
+      "max": 87.51,
+      "mean": 87.51,
+      "median": 87.51,
+      "suggested": 100.57,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Nomad Knife | Boreal Forest (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Nomad Knife | Boreal Forest (Minimal Wear)",
+      "price": {
+        "min": 93.72,
+        "max": 105.77,
+        "mean": 101.5,
+        "median": 105.02,
+        "suggested": 115.69,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Nomad Knife | Boreal Forest (Field-Tested)",
+      "price": {
+        "min": 84.91,
+        "max": 164.7,
+        "mean": 108.53,
+        "median": 105.64,
+        "suggested": 106.73,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Nomad Knife | Boreal Forest (Well-Worn)",
+      "price": {
+        "min": 92.35,
+        "max": 106.11,
+        "mean": 99.24,
+        "median": 99.24,
+        "suggested": 107.68,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Nomad Knife | Boreal Forest (Battle-Scarred)",
+      "price": {
+        "min": 87.51,
+        "max": 87.51,
+        "mean": 87.51,
+        "median": 87.51,
+        "suggested": 100.57,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Nomad Knife | Boreal Forest (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Nomad Knife | Boreal Forest (Minimal Wear)",
+        "price": {
+          "min": 93.72,
+          "max": 105.77,
+          "mean": 101.5,
+          "median": 105.02,
+          "suggested": 115.69,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Nomad Knife | Boreal Forest (Field-Tested)",
+        "price": {
+          "min": 84.91,
+          "max": 164.7,
+          "mean": 108.53,
+          "median": 105.64,
+          "suggested": 106.73,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Nomad Knife | Boreal Forest (Well-Worn)",
+        "price": {
+          "min": 92.35,
+          "max": 106.11,
+          "mean": 99.24,
+          "median": 99.24,
+          "suggested": 107.68,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Nomad Knife | Boreal Forest (Battle-Scarred)",
+        "price": {
+          "min": 87.51,
+          "max": 87.51,
+          "mean": 87.51,
+          "median": 87.51,
+          "suggested": 100.57,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Nomad Knife | Boreal Forest (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Nomad Knife | Boreal Forest (Minimal Wear)",
+        "price": {
+          "min": 126.45,
+          "max": 126.45,
+          "mean": 126.45,
+          "median": 126.45,
+          "suggested": 130.6,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Nomad Knife | Boreal Forest (Field-Tested)",
+        "price": {
+          "min": 98.12,
+          "max": 114.36,
+          "mean": 108.14,
+          "median": 110.05,
+          "suggested": 123.2,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Nomad Knife | Boreal Forest (Well-Worn)",
+        "price": {
+          "min": 105.01,
+          "max": 105.01,
+          "mean": 105.01,
+          "median": 105.01,
+          "suggested": 101.71,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Nomad Knife | Boreal Forest (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:37.048Z"
+}

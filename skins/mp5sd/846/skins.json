@@ -1,0 +1,310 @@
+{
+  "id": "skin-640691d10403",
+  "name": "MP5-SD | Gauss",
+  "paint_index": "846",
+  "weapon": {
+    "id": "weapon_mp5sd",
+    "weapon_id": 23,
+    "name": "MP5-SD",
+    "slug": "mp5sd"
+  },
+  "pattern": {
+    "id": "gs_mp5sd_astromatic",
+    "name": "Gauss"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. It has been custom painted to look like it was assembled from pieces of stamped steel.\\n\\n<i>Lovingly referred to as the \\\"SpaceGat 2000\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 4.95,
+      "max": 35.01,
+      "mean": 11.21,
+      "median": 9.03,
+      "suggested": 6.04,
+      "quantity": 19,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.14,
+      "max": 2.33,
+      "mean": 1.47,
+      "median": 1.41,
+      "suggested": 1.42,
+      "quantity": 71,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.6,
+      "max": 3.5,
+      "mean": 0.79,
+      "median": 0.72,
+      "suggested": 0.88,
+      "quantity": 149,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.58,
+      "max": 1.17,
+      "mean": 0.67,
+      "median": 0.63,
+      "suggested": 0.73,
+      "quantity": 60,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.58,
+      "max": 5.48,
+      "mean": 0.79,
+      "median": 0.61,
+      "suggested": 0.69,
+      "quantity": 48,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP5-SD | Gauss (Factory New)",
+      "price": {
+        "min": 4.95,
+        "max": 35.01,
+        "mean": 11.21,
+        "median": 9.03,
+        "suggested": 6.04,
+        "quantity": 19,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP5-SD | Gauss (Minimal Wear)",
+      "price": {
+        "min": 1.14,
+        "max": 2.33,
+        "mean": 1.47,
+        "median": 1.41,
+        "suggested": 1.42,
+        "quantity": 71,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP5-SD | Gauss (Field-Tested)",
+      "price": {
+        "min": 0.6,
+        "max": 3.5,
+        "mean": 0.79,
+        "median": 0.72,
+        "suggested": 0.88,
+        "quantity": 149,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP5-SD | Gauss (Well-Worn)",
+      "price": {
+        "min": 0.58,
+        "max": 1.17,
+        "mean": 0.67,
+        "median": 0.63,
+        "suggested": 0.73,
+        "quantity": 60,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP5-SD | Gauss (Battle-Scarred)",
+      "price": {
+        "min": 0.58,
+        "max": 5.48,
+        "mean": 0.79,
+        "median": 0.61,
+        "suggested": 0.69,
+        "quantity": 48,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP5-SD | Gauss (Factory New)",
+        "price": {
+          "min": 4.95,
+          "max": 35.01,
+          "mean": 11.21,
+          "median": 9.03,
+          "suggested": 6.04,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP5-SD | Gauss (Minimal Wear)",
+        "price": {
+          "min": 1.14,
+          "max": 2.33,
+          "mean": 1.47,
+          "median": 1.41,
+          "suggested": 1.42,
+          "quantity": 71,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP5-SD | Gauss (Field-Tested)",
+        "price": {
+          "min": 0.6,
+          "max": 3.5,
+          "mean": 0.79,
+          "median": 0.72,
+          "suggested": 0.88,
+          "quantity": 149,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP5-SD | Gauss (Well-Worn)",
+        "price": {
+          "min": 0.58,
+          "max": 1.17,
+          "mean": 0.67,
+          "median": 0.63,
+          "suggested": 0.73,
+          "quantity": 60,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP5-SD | Gauss (Battle-Scarred)",
+        "price": {
+          "min": 0.58,
+          "max": 5.48,
+          "mean": 0.79,
+          "median": 0.61,
+          "suggested": 0.69,
+          "quantity": 48,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MP5-SD | Gauss (Factory New)",
+        "price": {
+          "min": 6.62,
+          "max": 35,
+          "mean": 16.77,
+          "median": 8.68,
+          "suggested": 7.06,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MP5-SD | Gauss (Minimal Wear)",
+        "price": {
+          "min": 1.79,
+          "max": 3.03,
+          "mean": 2.08,
+          "median": 1.89,
+          "suggested": 2.18,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MP5-SD | Gauss (Field-Tested)",
+        "price": {
+          "min": 0.7,
+          "max": 1.75,
+          "mean": 0.95,
+          "median": 0.9,
+          "suggested": 0.97,
+          "quantity": 65,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MP5-SD | Gauss (Well-Worn)",
+        "price": {
+          "min": 0.62,
+          "max": 10.54,
+          "mean": 1.07,
+          "median": 0.85,
+          "suggested": 0.77,
+          "quantity": 52,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MP5-SD | Gauss (Battle-Scarred)",
+        "price": {
+          "min": 0.67,
+          "max": 23.34,
+          "mean": 1.62,
+          "median": 0.72,
+          "suggested": 0.78,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP5-SD | Gauss (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP5-SD | Gauss (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP5-SD | Gauss (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP5-SD | Gauss (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP5-SD | Gauss (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.748Z"
+}

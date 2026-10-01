@@ -1,0 +1,310 @@
+{
+  "id": "skin-a7838b4ba71f",
+  "name": "Glock-18 | Shinobu",
+  "paint_index": "1208",
+  "weapon": {
+    "id": "weapon_glock",
+    "weapon_id": 4,
+    "name": "Glock-18",
+    "slug": "glock"
+  },
+  "pattern": {
+    "id": "glock_shinobu",
+    "name": "Shinobu"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. It has been custom painted with a woman on the slide wearing SR Tech \\\"Premium\\\" contact lenses.\\n\\n<i>\\\"SR Tech—helping you stay focused one engagement at a time\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 28.92,
+      "max": 1166.94,
+      "mean": 94.15,
+      "median": 53.03,
+      "suggested": 36.39,
+      "quantity": 103,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 8.61,
+      "max": 138.85,
+      "mean": 20.06,
+      "median": 12.07,
+      "suggested": 11.85,
+      "quantity": 183,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 5.22,
+      "max": 58.35,
+      "mean": 7.73,
+      "median": 5.64,
+      "suggested": 6.4,
+      "quantity": 378,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 4.67,
+      "max": 244.47,
+      "mean": 7.28,
+      "median": 4.96,
+      "suggested": 5.72,
+      "quantity": 179,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 4.38,
+      "max": 116.48,
+      "mean": 9,
+      "median": 4.99,
+      "suggested": 5.52,
+      "quantity": 142,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Glock-18 | Shinobu (Factory New)",
+      "price": {
+        "min": 28.92,
+        "max": 1166.94,
+        "mean": 94.15,
+        "median": 53.03,
+        "suggested": 36.39,
+        "quantity": 103,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Glock-18 | Shinobu (Minimal Wear)",
+      "price": {
+        "min": 8.61,
+        "max": 138.85,
+        "mean": 20.06,
+        "median": 12.07,
+        "suggested": 11.85,
+        "quantity": 183,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Glock-18 | Shinobu (Field-Tested)",
+      "price": {
+        "min": 5.22,
+        "max": 58.35,
+        "mean": 7.73,
+        "median": 5.64,
+        "suggested": 6.4,
+        "quantity": 378,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Glock-18 | Shinobu (Well-Worn)",
+      "price": {
+        "min": 4.67,
+        "max": 244.47,
+        "mean": 7.28,
+        "median": 4.96,
+        "suggested": 5.72,
+        "quantity": 179,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Glock-18 | Shinobu (Battle-Scarred)",
+      "price": {
+        "min": 4.38,
+        "max": 116.48,
+        "mean": 9,
+        "median": 4.99,
+        "suggested": 5.52,
+        "quantity": 142,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Glock-18 | Shinobu (Factory New)",
+        "price": {
+          "min": 28.92,
+          "max": 1166.94,
+          "mean": 94.15,
+          "median": 53.03,
+          "suggested": 36.39,
+          "quantity": 103,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Glock-18 | Shinobu (Minimal Wear)",
+        "price": {
+          "min": 8.61,
+          "max": 138.85,
+          "mean": 20.06,
+          "median": 12.07,
+          "suggested": 11.85,
+          "quantity": 183,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Glock-18 | Shinobu (Field-Tested)",
+        "price": {
+          "min": 5.22,
+          "max": 58.35,
+          "mean": 7.73,
+          "median": 5.64,
+          "suggested": 6.4,
+          "quantity": 378,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Glock-18 | Shinobu (Well-Worn)",
+        "price": {
+          "min": 4.67,
+          "max": 244.47,
+          "mean": 7.28,
+          "median": 4.96,
+          "suggested": 5.72,
+          "quantity": 179,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Glock-18 | Shinobu (Battle-Scarred)",
+        "price": {
+          "min": 4.38,
+          "max": 116.48,
+          "mean": 9,
+          "median": 4.99,
+          "suggested": 5.52,
+          "quantity": 142,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Glock-18 | Shinobu (Factory New)",
+        "price": {
+          "min": 46.25,
+          "max": 192.54,
+          "mean": 91.58,
+          "median": 75,
+          "suggested": 63.25,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Glock-18 | Shinobu (Minimal Wear)",
+        "price": {
+          "min": 19.69,
+          "max": 64.17,
+          "mean": 29.54,
+          "median": 26.99,
+          "suggested": 24.49,
+          "quantity": 44,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Glock-18 | Shinobu (Field-Tested)",
+        "price": {
+          "min": 10.21,
+          "max": 41.32,
+          "mean": 14.69,
+          "median": 11.02,
+          "suggested": 11.8,
+          "quantity": 76,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Glock-18 | Shinobu (Well-Worn)",
+        "price": {
+          "min": 7.63,
+          "max": 20.71,
+          "mean": 12.61,
+          "median": 13.26,
+          "suggested": 8.95,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Glock-18 | Shinobu (Battle-Scarred)",
+        "price": {
+          "min": 7.21,
+          "max": 95.69,
+          "mean": 21.07,
+          "median": 16.54,
+          "suggested": 8.44,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Glock-18 | Shinobu (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Glock-18 | Shinobu (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Glock-18 | Shinobu (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Glock-18 | Shinobu (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Glock-18 | Shinobu (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:31.990Z"
+}

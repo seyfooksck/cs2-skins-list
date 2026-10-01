@@ -1,0 +1,209 @@
+{
+  "id": "skin-eb2bf672505f",
+  "name": "P250 | Franklin",
+  "paint_index": "295",
+  "weapon": {
+    "id": "weapon_p250",
+    "weapon_id": 36,
+    "name": "P250",
+    "slug": "p250"
+  },
+  "pattern": {
+    "id": "cu_money",
+    "name": "Franklin"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.4,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A low-recoil firearm with a high rate of fire, the P250 is a relatively inexpensive choice against armored opponents. It has been painted using a hydrographic of American hundred-dollar bills.\\n\\n<i>Money doesn't talk... it kills</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 6.01,
+      "max": 2742.3,
+      "mean": 39.2,
+      "median": 11.44,
+      "suggested": 8.46,
+      "quantity": 182,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.33,
+      "max": 129.53,
+      "mean": 9.08,
+      "median": 5.23,
+      "suggested": 2.86,
+      "quantity": 110,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.61,
+      "max": 233.39,
+      "mean": 9.56,
+      "median": 2.33,
+      "suggested": 1.95,
+      "quantity": 146,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 3.29,
+      "max": 11.67,
+      "mean": 4.84,
+      "median": 4.13,
+      "suggested": 3.46,
+      "quantity": 32,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P250 | Franklin (Factory New)",
+      "price": {
+        "min": 6.01,
+        "max": 2742.3,
+        "mean": 39.2,
+        "median": 11.44,
+        "suggested": 8.46,
+        "quantity": 182,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P250 | Franklin (Minimal Wear)",
+      "price": {
+        "min": 2.33,
+        "max": 129.53,
+        "mean": 9.08,
+        "median": 5.23,
+        "suggested": 2.86,
+        "quantity": 110,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P250 | Franklin (Field-Tested)",
+      "price": {
+        "min": 1.61,
+        "max": 233.39,
+        "mean": 9.56,
+        "median": 2.33,
+        "suggested": 1.95,
+        "quantity": 146,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P250 | Franklin (Well-Worn)",
+      "price": {
+        "min": 3.29,
+        "max": 11.67,
+        "mean": 4.84,
+        "median": 4.13,
+        "suggested": 3.46,
+        "quantity": 32,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P250 | Franklin (Factory New)",
+        "price": {
+          "min": 6.01,
+          "max": 2742.3,
+          "mean": 39.2,
+          "median": 11.44,
+          "suggested": 8.46,
+          "quantity": 182,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P250 | Franklin (Minimal Wear)",
+        "price": {
+          "min": 2.33,
+          "max": 129.53,
+          "mean": 9.08,
+          "median": 5.23,
+          "suggested": 2.86,
+          "quantity": 110,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P250 | Franklin (Field-Tested)",
+        "price": {
+          "min": 1.61,
+          "max": 233.39,
+          "mean": 9.56,
+          "median": 2.33,
+          "suggested": 1.95,
+          "quantity": 146,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P250 | Franklin (Well-Worn)",
+        "price": {
+          "min": 3.29,
+          "max": 11.67,
+          "mean": 4.84,
+          "median": 4.13,
+          "suggested": 3.46,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P250 | Franklin (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P250 | Franklin (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P250 | Franklin (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P250 | Franklin (Well-Worn)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:45.081Z"
+}

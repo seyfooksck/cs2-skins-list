@@ -1,0 +1,257 @@
+{
+  "id": "skin-39cf8d0afb88",
+  "name": "★ Bayonet | Stained",
+  "paint_index": "43",
+  "weapon": {
+    "id": "weapon_bayonet",
+    "weapon_id": 500,
+    "name": "Bayonet",
+    "slug": "bayonet"
+  },
+  "pattern": {
+    "id": "aq_forced",
+    "name": "Stained"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Relatively unchanged in its design since World War II, the bayonet still retains a place in modern military strategy. Bayonet charges have continued to be effective as recently as the second Gulf War and the war in Afghanistan. It has been given a forced patina using lemon and mustard dripped onto the surface.\\n\\n<i>If you think it's messy now, wait until you see it under a blacklight</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 317.41,
+      "max": 466.77,
+      "mean": 392.09,
+      "median": 392.09,
+      "suggested": 307.67,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 166.74,
+      "max": 334.81,
+      "mean": 202.91,
+      "median": 188.22,
+      "suggested": 229.63,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 175.03,
+      "max": 233.39,
+      "mean": 196.9,
+      "median": 186.71,
+      "suggested": 221.31,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 152.87,
+      "max": 316.51,
+      "mean": 190.92,
+      "median": 163.37,
+      "suggested": 201.1,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 161.74,
+      "max": 171.01,
+      "mean": 166.38,
+      "median": 166.38,
+      "suggested": 190.07,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Bayonet | Stained (Factory New)",
+      "price": {
+        "min": 317.41,
+        "max": 466.77,
+        "mean": 392.09,
+        "median": 392.09,
+        "suggested": 307.67,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Bayonet | Stained (Minimal Wear)",
+      "price": {
+        "min": 166.74,
+        "max": 334.81,
+        "mean": 202.91,
+        "median": 188.22,
+        "suggested": 229.63,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Bayonet | Stained (Field-Tested)",
+      "price": {
+        "min": 175.03,
+        "max": 233.39,
+        "mean": 196.9,
+        "median": 186.71,
+        "suggested": 221.31,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Bayonet | Stained (Well-Worn)",
+      "price": {
+        "min": 152.87,
+        "max": 316.51,
+        "mean": 190.92,
+        "median": 163.37,
+        "suggested": 201.1,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Bayonet | Stained (Battle-Scarred)",
+      "price": {
+        "min": 161.74,
+        "max": 171.01,
+        "mean": 166.38,
+        "median": 166.38,
+        "suggested": 190.07,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Bayonet | Stained (Factory New)",
+        "price": {
+          "min": 317.41,
+          "max": 466.77,
+          "mean": 392.09,
+          "median": 392.09,
+          "suggested": 307.67,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Bayonet | Stained (Minimal Wear)",
+        "price": {
+          "min": 166.74,
+          "max": 334.81,
+          "mean": 202.91,
+          "median": 188.22,
+          "suggested": 229.63,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Bayonet | Stained (Field-Tested)",
+        "price": {
+          "min": 175.03,
+          "max": 233.39,
+          "mean": 196.9,
+          "median": 186.71,
+          "suggested": 221.31,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Bayonet | Stained (Well-Worn)",
+        "price": {
+          "min": 152.87,
+          "max": 316.51,
+          "mean": 190.92,
+          "median": 163.37,
+          "suggested": 201.1,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Bayonet | Stained (Battle-Scarred)",
+        "price": {
+          "min": 161.74,
+          "max": 171.01,
+          "mean": 166.38,
+          "median": 166.38,
+          "suggested": 190.07,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Stained (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Stained (Minimal Wear)",
+        "price": {
+          "min": 245.06,
+          "max": 245.06,
+          "mean": 245.06,
+          "median": 245.06,
+          "suggested": 240.8,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Stained (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Stained (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Stained (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:26.676Z"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "skin-ae8080ca847c",
+  "name": "XM1014 | Oxide Blaze",
+  "paint_index": "706",
+  "weapon": {
+    "id": "weapon_xm1014",
+    "weapon_id": 25,
+    "name": "XM1014",
+    "slug": "xm1014"
+  },
+  "pattern": {
+    "id": "cu_xm1014_oxide_blaze",
+    "name": "Oxide Blaze"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The XM1014 is a powerful fully automatic shotgun that justifies its heftier price tag with the ability to paint a room with lead fast. A custom paint job has been applied with a rust-colored base and white detailing.\\n\\n<i>Not to be used as a load-bearing support</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.48,
+      "max": 13.99,
+      "mean": 2.33,
+      "median": 0.86,
+      "suggested": 0.67,
+      "quantity": 69,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.15,
+      "max": 3.77,
+      "mean": 0.27,
+      "median": 0.22,
+      "suggested": 0.22,
+      "quantity": 163,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.11,
+      "max": 3.48,
+      "mean": 0.25,
+      "median": 0.19,
+      "suggested": 0.17,
+      "quantity": 305,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.11,
+      "max": 1.26,
+      "mean": 0.25,
+      "median": 0.16,
+      "suggested": 0.16,
+      "quantity": 34,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.09,
+      "max": 1.26,
+      "mean": 0.3,
+      "median": 0.16,
+      "suggested": 0.13,
+      "quantity": 56,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "XM1014 | Oxide Blaze (Factory New)",
+      "price": {
+        "min": 0.48,
+        "max": 13.99,
+        "mean": 2.33,
+        "median": 0.86,
+        "suggested": 0.67,
+        "quantity": 69,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "XM1014 | Oxide Blaze (Minimal Wear)",
+      "price": {
+        "min": 0.15,
+        "max": 3.77,
+        "mean": 0.27,
+        "median": 0.22,
+        "suggested": 0.22,
+        "quantity": 163,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "XM1014 | Oxide Blaze (Field-Tested)",
+      "price": {
+        "min": 0.11,
+        "max": 3.48,
+        "mean": 0.25,
+        "median": 0.19,
+        "suggested": 0.17,
+        "quantity": 305,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "XM1014 | Oxide Blaze (Well-Worn)",
+      "price": {
+        "min": 0.11,
+        "max": 1.26,
+        "mean": 0.25,
+        "median": 0.16,
+        "suggested": 0.16,
+        "quantity": 34,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "XM1014 | Oxide Blaze (Battle-Scarred)",
+      "price": {
+        "min": 0.09,
+        "max": 1.26,
+        "mean": 0.3,
+        "median": 0.16,
+        "suggested": 0.13,
+        "quantity": 56,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "XM1014 | Oxide Blaze (Factory New)",
+        "price": {
+          "min": 0.48,
+          "max": 13.99,
+          "mean": 2.33,
+          "median": 0.86,
+          "suggested": 0.67,
+          "quantity": 69,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "XM1014 | Oxide Blaze (Minimal Wear)",
+        "price": {
+          "min": 0.15,
+          "max": 3.77,
+          "mean": 0.27,
+          "median": 0.22,
+          "suggested": 0.22,
+          "quantity": 163,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "XM1014 | Oxide Blaze (Field-Tested)",
+        "price": {
+          "min": 0.11,
+          "max": 3.48,
+          "mean": 0.25,
+          "median": 0.19,
+          "suggested": 0.17,
+          "quantity": 305,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "XM1014 | Oxide Blaze (Well-Worn)",
+        "price": {
+          "min": 0.11,
+          "max": 1.26,
+          "mean": 0.25,
+          "median": 0.16,
+          "suggested": 0.16,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "XM1014 | Oxide Blaze (Battle-Scarred)",
+        "price": {
+          "min": 0.09,
+          "max": 1.26,
+          "mean": 0.3,
+          "median": 0.16,
+          "suggested": 0.13,
+          "quantity": 56,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ XM1014 | Oxide Blaze (Factory New)",
+        "price": {
+          "min": 0.74,
+          "max": 57.18,
+          "mean": 5.92,
+          "median": 1.44,
+          "suggested": 0.85,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ XM1014 | Oxide Blaze (Minimal Wear)",
+        "price": {
+          "min": 0.2,
+          "max": 0.54,
+          "mean": 0.29,
+          "median": 0.29,
+          "suggested": 0.29,
+          "quantity": 77,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ XM1014 | Oxide Blaze (Field-Tested)",
+        "price": {
+          "min": 0.11,
+          "max": 4.04,
+          "mean": 0.19,
+          "median": 0.15,
+          "suggested": 0.16,
+          "quantity": 122,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ XM1014 | Oxide Blaze (Well-Worn)",
+        "price": {
+          "min": 0.29,
+          "max": 0.37,
+          "mean": 0.32,
+          "median": 0.29,
+          "suggested": 0.22,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ XM1014 | Oxide Blaze (Battle-Scarred)",
+        "price": {
+          "min": 0.12,
+          "max": 0.19,
+          "mean": 0.15,
+          "median": 0.15,
+          "suggested": 0.14,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir XM1014 | Oxide Blaze (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir XM1014 | Oxide Blaze (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir XM1014 | Oxide Blaze (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir XM1014 | Oxide Blaze (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir XM1014 | Oxide Blaze (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:51.215Z"
+}

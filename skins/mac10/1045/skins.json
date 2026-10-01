@@ -1,0 +1,310 @@
+{
+  "id": "skin-d5acd24fcb47",
+  "name": "MAC-10 | Button Masher",
+  "paint_index": "1045",
+  "weapon": {
+    "id": "weapon_mac10",
+    "weapon_id": 17,
+    "name": "MAC-10",
+    "slug": "mac10"
+  },
+  "pattern": {
+    "id": "cu_mac10_portable",
+    "name": "Button Masher"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been custom painted to resemble a game pad and various buttons poking through a clear polymer casing.\\n\\n<i>Giving the phrase \\\"console wars\\\" a whole new meaning</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 6.67,
+      "max": 58.35,
+      "mean": 14.83,
+      "median": 9.32,
+      "suggested": 8.67,
+      "quantity": 25,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.97,
+      "max": 21.44,
+      "mean": 1.69,
+      "median": 1.42,
+      "suggested": 1.27,
+      "quantity": 103,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.42,
+      "max": 23.33,
+      "mean": 0.79,
+      "median": 0.63,
+      "suggested": 0.61,
+      "quantity": 265,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.39,
+      "max": 8.68,
+      "mean": 0.6,
+      "median": 0.54,
+      "suggested": 0.48,
+      "quantity": 117,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.44,
+      "max": 23.34,
+      "mean": 1.82,
+      "median": 0.55,
+      "suggested": 0.5,
+      "quantity": 57,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAC-10 | Button Masher (Factory New)",
+      "price": {
+        "min": 6.67,
+        "max": 58.35,
+        "mean": 14.83,
+        "median": 9.32,
+        "suggested": 8.67,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAC-10 | Button Masher (Minimal Wear)",
+      "price": {
+        "min": 0.97,
+        "max": 21.44,
+        "mean": 1.69,
+        "median": 1.42,
+        "suggested": 1.27,
+        "quantity": 103,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAC-10 | Button Masher (Field-Tested)",
+      "price": {
+        "min": 0.42,
+        "max": 23.33,
+        "mean": 0.79,
+        "median": 0.63,
+        "suggested": 0.61,
+        "quantity": 265,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAC-10 | Button Masher (Well-Worn)",
+      "price": {
+        "min": 0.39,
+        "max": 8.68,
+        "mean": 0.6,
+        "median": 0.54,
+        "suggested": 0.48,
+        "quantity": 117,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAC-10 | Button Masher (Battle-Scarred)",
+      "price": {
+        "min": 0.44,
+        "max": 23.34,
+        "mean": 1.82,
+        "median": 0.55,
+        "suggested": 0.5,
+        "quantity": 57,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAC-10 | Button Masher (Factory New)",
+        "price": {
+          "min": 6.67,
+          "max": 58.35,
+          "mean": 14.83,
+          "median": 9.32,
+          "suggested": 8.67,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAC-10 | Button Masher (Minimal Wear)",
+        "price": {
+          "min": 0.97,
+          "max": 21.44,
+          "mean": 1.69,
+          "median": 1.42,
+          "suggested": 1.27,
+          "quantity": 103,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAC-10 | Button Masher (Field-Tested)",
+        "price": {
+          "min": 0.42,
+          "max": 23.33,
+          "mean": 0.79,
+          "median": 0.63,
+          "suggested": 0.61,
+          "quantity": 265,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAC-10 | Button Masher (Well-Worn)",
+        "price": {
+          "min": 0.39,
+          "max": 8.68,
+          "mean": 0.6,
+          "median": 0.54,
+          "suggested": 0.48,
+          "quantity": 117,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MAC-10 | Button Masher (Battle-Scarred)",
+        "price": {
+          "min": 0.44,
+          "max": 23.34,
+          "mean": 1.82,
+          "median": 0.55,
+          "suggested": 0.5,
+          "quantity": 57,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MAC-10 | Button Masher (Factory New)",
+        "price": {
+          "min": 4.68,
+          "max": 40.97,
+          "mean": 11.83,
+          "median": 5.2,
+          "suggested": 5.42,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MAC-10 | Button Masher (Minimal Wear)",
+        "price": {
+          "min": 1.42,
+          "max": 30.42,
+          "mean": 3.33,
+          "median": 1.67,
+          "suggested": 1.74,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MAC-10 | Button Masher (Field-Tested)",
+        "price": {
+          "min": 0.55,
+          "max": 2.56,
+          "mean": 0.86,
+          "median": 0.81,
+          "suggested": 0.73,
+          "quantity": 96,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MAC-10 | Button Masher (Well-Worn)",
+        "price": {
+          "min": 0.5,
+          "max": 7.5,
+          "mean": 0.78,
+          "median": 0.67,
+          "suggested": 0.62,
+          "quantity": 61,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MAC-10 | Button Masher (Battle-Scarred)",
+        "price": {
+          "min": 0.6,
+          "max": 2.32,
+          "mean": 0.97,
+          "median": 0.71,
+          "suggested": 0.62,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAC-10 | Button Masher (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAC-10 | Button Masher (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAC-10 | Button Masher (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAC-10 | Button Masher (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAC-10 | Button Masher (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.697Z"
+}

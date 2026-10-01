@@ -1,0 +1,310 @@
+{
+  "id": "skin-a16b386af5bb",
+  "name": "MP7 | Neon Ply",
+  "paint_index": "893",
+  "weapon": {
+    "id": "weapon_mp7",
+    "weapon_id": 33,
+    "name": "MP7",
+    "slug": "mp7"
+  },
+  "pattern": {
+    "id": "cu_mp7_replica",
+    "name": "Neon Ply"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been laminated and filled with every neon color imaginable.\\n\\n<i>\\\"Roy G. Biv? Never heard of 'em.\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 34.79,
+      "max": 140.03,
+      "mean": 76.08,
+      "median": 78.43,
+      "suggested": 42.38,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 5.57,
+      "max": 77.46,
+      "mean": 11.74,
+      "median": 8.17,
+      "suggested": 6.55,
+      "quantity": 30,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.49,
+      "max": 14.08,
+      "mean": 4.24,
+      "median": 3.22,
+      "suggested": 3.19,
+      "quantity": 46,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 2.42,
+      "max": 6.71,
+      "mean": 4.71,
+      "median": 4.41,
+      "suggested": 2.57,
+      "quantity": 21,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 2.01,
+      "max": 6.55,
+      "mean": 2.75,
+      "median": 2.45,
+      "suggested": 2.42,
+      "quantity": 25,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP7 | Neon Ply (Factory New)",
+      "price": {
+        "min": 34.79,
+        "max": 140.03,
+        "mean": 76.08,
+        "median": 78.43,
+        "suggested": 42.38,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP7 | Neon Ply (Minimal Wear)",
+      "price": {
+        "min": 5.57,
+        "max": 77.46,
+        "mean": 11.74,
+        "median": 8.17,
+        "suggested": 6.55,
+        "quantity": 30,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP7 | Neon Ply (Field-Tested)",
+      "price": {
+        "min": 2.49,
+        "max": 14.08,
+        "mean": 4.24,
+        "median": 3.22,
+        "suggested": 3.19,
+        "quantity": 46,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP7 | Neon Ply (Well-Worn)",
+      "price": {
+        "min": 2.42,
+        "max": 6.71,
+        "mean": 4.71,
+        "median": 4.41,
+        "suggested": 2.57,
+        "quantity": 21,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP7 | Neon Ply (Battle-Scarred)",
+      "price": {
+        "min": 2.01,
+        "max": 6.55,
+        "mean": 2.75,
+        "median": 2.45,
+        "suggested": 2.42,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP7 | Neon Ply (Factory New)",
+        "price": {
+          "min": 34.79,
+          "max": 140.03,
+          "mean": 76.08,
+          "median": 78.43,
+          "suggested": 42.38,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP7 | Neon Ply (Minimal Wear)",
+        "price": {
+          "min": 5.57,
+          "max": 77.46,
+          "mean": 11.74,
+          "median": 8.17,
+          "suggested": 6.55,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP7 | Neon Ply (Field-Tested)",
+        "price": {
+          "min": 2.49,
+          "max": 14.08,
+          "mean": 4.24,
+          "median": 3.22,
+          "suggested": 3.19,
+          "quantity": 46,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP7 | Neon Ply (Well-Worn)",
+        "price": {
+          "min": 2.42,
+          "max": 6.71,
+          "mean": 4.71,
+          "median": 4.41,
+          "suggested": 2.57,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP7 | Neon Ply (Battle-Scarred)",
+        "price": {
+          "min": 2.01,
+          "max": 6.55,
+          "mean": 2.75,
+          "median": 2.45,
+          "suggested": 2.42,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MP7 | Neon Ply (Factory New)",
+        "price": {
+          "min": 26.27,
+          "max": 70.02,
+          "mean": 35.67,
+          "median": 28.02,
+          "suggested": 34.93,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MP7 | Neon Ply (Minimal Wear)",
+        "price": {
+          "min": 12.92,
+          "max": 51.21,
+          "mean": 22.13,
+          "median": 18.27,
+          "suggested": 14.9,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MP7 | Neon Ply (Field-Tested)",
+        "price": {
+          "min": 5.27,
+          "max": 7.01,
+          "mean": 6.22,
+          "median": 6.17,
+          "suggested": 6.17,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MP7 | Neon Ply (Well-Worn)",
+        "price": {
+          "min": 3.35,
+          "max": 14.42,
+          "mean": 5.46,
+          "median": 4.06,
+          "suggested": 4.09,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MP7 | Neon Ply (Battle-Scarred)",
+        "price": {
+          "min": 3.51,
+          "max": 14.76,
+          "mean": 7.14,
+          "median": 5.25,
+          "suggested": 4.09,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP7 | Neon Ply (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP7 | Neon Ply (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP7 | Neon Ply (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP7 | Neon Ply (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP7 | Neon Ply (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:43.083Z"
+}

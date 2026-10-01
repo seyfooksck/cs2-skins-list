@@ -1,0 +1,310 @@
+{
+  "id": "skin-fff2ecbae8e7",
+  "name": "SG 553 | Heavy Metal",
+  "paint_index": "1048",
+  "weapon": {
+    "id": "weapon_sg556",
+    "weapon_id": 39,
+    "name": "SG 553",
+    "slug": "sg556"
+  },
+  "pattern": {
+    "id": "gs_sg553_deathmetal",
+    "name": "Heavy Metal"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The terrorist-exclusive SG553 is a premium scoped alternative to the AK47 for effective long-range engagement. Its black base is finished with orange and yellow highlights. Three stars have been painted on the rear of the butt stock.\\n\\n<i>\\\"One of these studs is the Turbo button, I just can't remember which…\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.61,
+      "max": 70.02,
+      "mean": 9.8,
+      "median": 3.3,
+      "suggested": 2.13,
+      "quantity": 50,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.32,
+      "max": 7.74,
+      "mean": 0.51,
+      "median": 0.39,
+      "suggested": 0.42,
+      "quantity": 187,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.28,
+      "max": 13.31,
+      "mean": 0.64,
+      "median": 0.4,
+      "suggested": 0.43,
+      "quantity": 211,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.15,
+      "max": 52.51,
+      "mean": 0.58,
+      "median": 0.26,
+      "suggested": 0.27,
+      "quantity": 197,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.18,
+      "max": 3.64,
+      "mean": 0.41,
+      "median": 0.26,
+      "suggested": 0.29,
+      "quantity": 212,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SG 553 | Heavy Metal (Factory New)",
+      "price": {
+        "min": 1.61,
+        "max": 70.02,
+        "mean": 9.8,
+        "median": 3.3,
+        "suggested": 2.13,
+        "quantity": 50,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SG 553 | Heavy Metal (Minimal Wear)",
+      "price": {
+        "min": 0.32,
+        "max": 7.74,
+        "mean": 0.51,
+        "median": 0.39,
+        "suggested": 0.42,
+        "quantity": 187,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "SG 553 | Heavy Metal (Field-Tested)",
+      "price": {
+        "min": 0.28,
+        "max": 13.31,
+        "mean": 0.64,
+        "median": 0.4,
+        "suggested": 0.43,
+        "quantity": 211,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "SG 553 | Heavy Metal (Well-Worn)",
+      "price": {
+        "min": 0.15,
+        "max": 52.51,
+        "mean": 0.58,
+        "median": 0.26,
+        "suggested": 0.27,
+        "quantity": 197,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "SG 553 | Heavy Metal (Battle-Scarred)",
+      "price": {
+        "min": 0.18,
+        "max": 3.64,
+        "mean": 0.41,
+        "median": 0.26,
+        "suggested": 0.29,
+        "quantity": 212,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SG 553 | Heavy Metal (Factory New)",
+        "price": {
+          "min": 1.61,
+          "max": 70.02,
+          "mean": 9.8,
+          "median": 3.3,
+          "suggested": 2.13,
+          "quantity": 50,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "SG 553 | Heavy Metal (Minimal Wear)",
+        "price": {
+          "min": 0.32,
+          "max": 7.74,
+          "mean": 0.51,
+          "median": 0.39,
+          "suggested": 0.42,
+          "quantity": 187,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "SG 553 | Heavy Metal (Field-Tested)",
+        "price": {
+          "min": 0.28,
+          "max": 13.31,
+          "mean": 0.64,
+          "median": 0.4,
+          "suggested": 0.43,
+          "quantity": 211,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "SG 553 | Heavy Metal (Well-Worn)",
+        "price": {
+          "min": 0.15,
+          "max": 52.51,
+          "mean": 0.58,
+          "median": 0.26,
+          "suggested": 0.27,
+          "quantity": 197,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "SG 553 | Heavy Metal (Battle-Scarred)",
+        "price": {
+          "min": 0.18,
+          "max": 3.64,
+          "mean": 0.41,
+          "median": 0.26,
+          "suggested": 0.29,
+          "quantity": 212,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ SG 553 | Heavy Metal (Factory New)",
+        "price": {
+          "min": 3.48,
+          "max": 41.25,
+          "mean": 9.85,
+          "median": 4.94,
+          "suggested": 2.59,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ SG 553 | Heavy Metal (Minimal Wear)",
+        "price": {
+          "min": 0.61,
+          "max": 1.8,
+          "mean": 0.91,
+          "median": 0.84,
+          "suggested": 0.86,
+          "quantity": 67,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ SG 553 | Heavy Metal (Field-Tested)",
+        "price": {
+          "min": 0.41,
+          "max": 16.77,
+          "mean": 0.69,
+          "median": 0.48,
+          "suggested": 0.61,
+          "quantity": 99,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ SG 553 | Heavy Metal (Well-Worn)",
+        "price": {
+          "min": 0.29,
+          "max": 14.28,
+          "mean": 0.55,
+          "median": 0.41,
+          "suggested": 0.44,
+          "quantity": 118,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ SG 553 | Heavy Metal (Battle-Scarred)",
+        "price": {
+          "min": 0.32,
+          "max": 6.88,
+          "mean": 0.65,
+          "median": 0.43,
+          "suggested": 0.39,
+          "quantity": 43,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SG 553 | Heavy Metal (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir SG 553 | Heavy Metal (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir SG 553 | Heavy Metal (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir SG 553 | Heavy Metal (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir SG 553 | Heavy Metal (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:48.065Z"
+}

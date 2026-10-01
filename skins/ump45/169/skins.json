@@ -1,0 +1,233 @@
+{
+  "id": "skin-a2a578aac533",
+  "name": "UMP-45 | Fallout Warning",
+  "paint_index": "169",
+  "weapon": {
+    "id": "weapon_ump45",
+    "weapon_id": 24,
+    "name": "UMP-45",
+    "slug": "ump45"
+  },
+  "pattern": {
+    "id": "sp_nukestripe_maroon",
+    "name": "Fallout Warning"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic. It has been spray-painted with radiological warning hazard patterns.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 71.4,
+      "max": 71.4,
+      "mean": 71.4,
+      "median": 71.4,
+      "suggested": 80.56,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 27.88,
+      "max": 134.2,
+      "mean": 57.85,
+      "median": 48.81,
+      "suggested": 35.5,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 9.51,
+      "max": 17.76,
+      "mean": 12.18,
+      "median": 11.42,
+      "suggested": 11.46,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "UMP-45 | Fallout Warning (Factory New)",
+      "price": {
+        "min": 71.4,
+        "max": 71.4,
+        "mean": 71.4,
+        "median": 71.4,
+        "suggested": 80.56,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "UMP-45 | Fallout Warning (Minimal Wear)",
+      "price": {
+        "min": 27.88,
+        "max": 134.2,
+        "mean": 57.85,
+        "median": 48.81,
+        "suggested": 35.5,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "UMP-45 | Fallout Warning (Field-Tested)",
+      "price": {
+        "min": 9.51,
+        "max": 17.76,
+        "mean": 12.18,
+        "median": 11.42,
+        "suggested": 11.46,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "UMP-45 | Fallout Warning (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "UMP-45 | Fallout Warning (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "UMP-45 | Fallout Warning (Factory New)",
+        "price": {
+          "min": 71.4,
+          "max": 71.4,
+          "mean": 71.4,
+          "median": 71.4,
+          "suggested": 80.56,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "UMP-45 | Fallout Warning (Minimal Wear)",
+        "price": {
+          "min": 27.88,
+          "max": 134.2,
+          "mean": 57.85,
+          "median": 48.81,
+          "suggested": 35.5,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "UMP-45 | Fallout Warning (Field-Tested)",
+        "price": {
+          "min": 9.51,
+          "max": 17.76,
+          "mean": 12.18,
+          "median": 11.42,
+          "suggested": 11.46,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "UMP-45 | Fallout Warning (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "UMP-45 | Fallout Warning (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir UMP-45 | Fallout Warning (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir UMP-45 | Fallout Warning (Minimal Wear)",
+        "price": {
+          "min": 58.35,
+          "max": 91,
+          "mean": 83.87,
+          "median": 90.01,
+          "suggested": 19.72,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir UMP-45 | Fallout Warning (Field-Tested)",
+        "price": {
+          "min": 8.55,
+          "max": 134.19,
+          "mean": 44.41,
+          "median": 17.46,
+          "suggested": 9.47,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir UMP-45 | Fallout Warning (Well-Worn)",
+        "price": {
+          "min": 11.7,
+          "max": 39.94,
+          "mean": 27.25,
+          "median": 28.67,
+          "suggested": 7.07,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir UMP-45 | Fallout Warning (Battle-Scarred)",
+        "price": {
+          "min": 10.55,
+          "max": 134.2,
+          "mean": 48.98,
+          "median": 25.57,
+          "suggested": 6.95,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:50.203Z"
+}

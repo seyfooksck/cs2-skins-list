@@ -1,0 +1,310 @@
+{
+  "id": "skin-19e064301c88",
+  "name": "Five-SeveN | Dark Polymer",
+  "paint_index": "1429",
+  "weapon": {
+    "id": "weapon_fiveseven",
+    "weapon_id": 3,
+    "name": "Five-SeveN",
+    "slug": "fiveseven"
+  },
+  "pattern": {
+    "id": "fiveseven_polymer_dark",
+    "name": "Dark Polymer"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. This custom paint job makes the weapon look like it is made of a transparent purple polymer.\\n\\n<i>Wrapped in a purple candy shell</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.12,
+      "max": 9.57,
+      "mean": 3.64,
+      "median": 3.64,
+      "suggested": 1.56,
+      "quantity": 43,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.26,
+      "max": 11.67,
+      "mean": 0.72,
+      "median": 0.35,
+      "suggested": 0.31,
+      "quantity": 89,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.09,
+      "max": 5.83,
+      "mean": 0.23,
+      "median": 0.16,
+      "suggested": 0.13,
+      "quantity": 84,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.09,
+      "max": 0.58,
+      "mean": 0.15,
+      "median": 0.13,
+      "suggested": 0.1,
+      "quantity": 63,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.08,
+      "max": 5.83,
+      "mean": 0.34,
+      "median": 0.12,
+      "suggested": 0.1,
+      "quantity": 28,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Five-SeveN | Dark Polymer (Factory New)",
+      "price": {
+        "min": 1.12,
+        "max": 9.57,
+        "mean": 3.64,
+        "median": 3.64,
+        "suggested": 1.56,
+        "quantity": 43,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Five-SeveN | Dark Polymer (Minimal Wear)",
+      "price": {
+        "min": 0.26,
+        "max": 11.67,
+        "mean": 0.72,
+        "median": 0.35,
+        "suggested": 0.31,
+        "quantity": 89,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Five-SeveN | Dark Polymer (Field-Tested)",
+      "price": {
+        "min": 0.09,
+        "max": 5.83,
+        "mean": 0.23,
+        "median": 0.16,
+        "suggested": 0.13,
+        "quantity": 84,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Five-SeveN | Dark Polymer (Well-Worn)",
+      "price": {
+        "min": 0.09,
+        "max": 0.58,
+        "mean": 0.15,
+        "median": 0.13,
+        "suggested": 0.1,
+        "quantity": 63,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Five-SeveN | Dark Polymer (Battle-Scarred)",
+      "price": {
+        "min": 0.08,
+        "max": 5.83,
+        "mean": 0.34,
+        "median": 0.12,
+        "suggested": 0.1,
+        "quantity": 28,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Five-SeveN | Dark Polymer (Factory New)",
+        "price": {
+          "min": 1.12,
+          "max": 9.57,
+          "mean": 3.64,
+          "median": 3.64,
+          "suggested": 1.56,
+          "quantity": 43,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Five-SeveN | Dark Polymer (Minimal Wear)",
+        "price": {
+          "min": 0.26,
+          "max": 11.67,
+          "mean": 0.72,
+          "median": 0.35,
+          "suggested": 0.31,
+          "quantity": 89,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Five-SeveN | Dark Polymer (Field-Tested)",
+        "price": {
+          "min": 0.09,
+          "max": 5.83,
+          "mean": 0.23,
+          "median": 0.16,
+          "suggested": 0.13,
+          "quantity": 84,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Five-SeveN | Dark Polymer (Well-Worn)",
+        "price": {
+          "min": 0.09,
+          "max": 0.58,
+          "mean": 0.15,
+          "median": 0.13,
+          "suggested": 0.1,
+          "quantity": 63,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Five-SeveN | Dark Polymer (Battle-Scarred)",
+        "price": {
+          "min": 0.08,
+          "max": 5.83,
+          "mean": 0.34,
+          "median": 0.12,
+          "suggested": 0.1,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Dark Polymer (Factory New)",
+        "price": {
+          "min": 3.06,
+          "max": 11.02,
+          "mean": 4.82,
+          "median": 4.55,
+          "suggested": 2.18,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Dark Polymer (Minimal Wear)",
+        "price": {
+          "min": 1.25,
+          "max": 2.52,
+          "mean": 1.96,
+          "median": 2.52,
+          "suggested": 0.73,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Dark Polymer (Field-Tested)",
+        "price": {
+          "min": 0.23,
+          "max": 5.83,
+          "mean": 0.7,
+          "median": 0.36,
+          "suggested": 0.3,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Dark Polymer (Well-Worn)",
+        "price": {
+          "min": 0.2,
+          "max": 0.44,
+          "mean": 0.35,
+          "median": 0.33,
+          "suggested": 0.23,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Dark Polymer (Battle-Scarred)",
+        "price": {
+          "min": 0.14,
+          "max": 0.55,
+          "mean": 0.25,
+          "median": 0.2,
+          "suggested": 0.2,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Five-SeveN | Dark Polymer (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Five-SeveN | Dark Polymer (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Five-SeveN | Dark Polymer (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Five-SeveN | Dark Polymer (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Five-SeveN | Dark Polymer (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:30.176Z"
+}

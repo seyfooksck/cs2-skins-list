@@ -1,0 +1,169 @@
+{
+  "id": "skin-0e1e6b491759",
+  "name": "CZ75-Auto | Army Sheen",
+  "paint_index": "298",
+  "weapon": {
+    "id": "weapon_cz75a",
+    "weapon_id": 63,
+    "name": "CZ75-Auto",
+    "slug": "cz75a"
+  },
+  "pattern": {
+    "id": "am_army_shine",
+    "name": "Army Sheen"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 0.3,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fully automatic variant of the CZ75, the CZ75-Auto is the ideal short-term choice for turning the tables and gaining your opponents weapon. But with very little ammo in the magazine, strong trigger discipline is required. It has been covered in a metallic foil stamped with a camouflage pattern.\\n\\n<i>Remember your training</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 4.73,
+      "max": 23.39,
+      "mean": 9.24,
+      "median": 7.5,
+      "suggested": 6.2,
+      "quantity": 51,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 3.58,
+      "max": 11.67,
+      "mean": 5.11,
+      "median": 4.66,
+      "suggested": 4.44,
+      "quantity": 34,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.39,
+      "max": 92.77,
+      "mean": 10.78,
+      "median": 4.2,
+      "suggested": 3.53,
+      "quantity": 16,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "CZ75-Auto | Army Sheen (Factory New)",
+      "price": {
+        "min": 4.73,
+        "max": 23.39,
+        "mean": 9.24,
+        "median": 7.5,
+        "suggested": 6.2,
+        "quantity": 51,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "CZ75-Auto | Army Sheen (Minimal Wear)",
+      "price": {
+        "min": 3.58,
+        "max": 11.67,
+        "mean": 5.11,
+        "median": 4.66,
+        "suggested": 4.44,
+        "quantity": 34,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "CZ75-Auto | Army Sheen (Field-Tested)",
+      "price": {
+        "min": 2.39,
+        "max": 92.77,
+        "mean": 10.78,
+        "median": 4.2,
+        "suggested": 3.53,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "CZ75-Auto | Army Sheen (Factory New)",
+        "price": {
+          "min": 4.73,
+          "max": 23.39,
+          "mean": 9.24,
+          "median": 7.5,
+          "suggested": 6.2,
+          "quantity": 51,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "CZ75-Auto | Army Sheen (Minimal Wear)",
+        "price": {
+          "min": 3.58,
+          "max": 11.67,
+          "mean": 5.11,
+          "median": 4.66,
+          "suggested": 4.44,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "CZ75-Auto | Army Sheen (Field-Tested)",
+        "price": {
+          "min": 2.39,
+          "max": 92.77,
+          "mean": 10.78,
+          "median": 4.2,
+          "suggested": 3.53,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir CZ75-Auto | Army Sheen (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir CZ75-Auto | Army Sheen (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir CZ75-Auto | Army Sheen (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:27.395Z"
+}

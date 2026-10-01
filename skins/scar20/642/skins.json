@@ -1,0 +1,310 @@
+{
+  "id": "skin-2501d2df72d4",
+  "name": "SCAR-20 | Blueprint",
+  "paint_index": "642",
+  "weapon": {
+    "id": "weapon_scar20",
+    "weapon_id": 38,
+    "name": "SCAR-20",
+    "slug": "scar20"
+  },
+  "pattern": {
+    "id": "cu_blueprint_scar",
+    "name": "Blueprint"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.75,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The SCAR-20 is a semi-automatic sniper rifle that trades a high rate of fire and powerful long-distance damage for sluggish movement speed and big price tag. It has been hand painted using a blue theme to resemble an architect's blueprint.\\n\\n<i>The best-laid plans are drawn to scale</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.06,
+      "max": 595.14,
+      "mean": 23.85,
+      "median": 3.41,
+      "suggested": 1.38,
+      "quantity": 44,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.57,
+      "max": 11.66,
+      "mean": 1.46,
+      "median": 0.71,
+      "suggested": 0.7,
+      "quantity": 35,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.36,
+      "max": 22.17,
+      "mean": 0.85,
+      "median": 0.55,
+      "suggested": 0.62,
+      "quantity": 212,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.35,
+      "max": 8.17,
+      "mean": 1.04,
+      "median": 0.89,
+      "suggested": 0.44,
+      "quantity": 25,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.27,
+      "max": 7.76,
+      "mean": 0.68,
+      "median": 0.36,
+      "suggested": 0.4,
+      "quantity": 38,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SCAR-20 | Blueprint (Factory New)",
+      "price": {
+        "min": 1.06,
+        "max": 595.14,
+        "mean": 23.85,
+        "median": 3.41,
+        "suggested": 1.38,
+        "quantity": 44,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SCAR-20 | Blueprint (Minimal Wear)",
+      "price": {
+        "min": 0.57,
+        "max": 11.66,
+        "mean": 1.46,
+        "median": 0.71,
+        "suggested": 0.7,
+        "quantity": 35,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "SCAR-20 | Blueprint (Field-Tested)",
+      "price": {
+        "min": 0.36,
+        "max": 22.17,
+        "mean": 0.85,
+        "median": 0.55,
+        "suggested": 0.62,
+        "quantity": 212,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "SCAR-20 | Blueprint (Well-Worn)",
+      "price": {
+        "min": 0.35,
+        "max": 8.17,
+        "mean": 1.04,
+        "median": 0.89,
+        "suggested": 0.44,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "SCAR-20 | Blueprint (Battle-Scarred)",
+      "price": {
+        "min": 0.27,
+        "max": 7.76,
+        "mean": 0.68,
+        "median": 0.36,
+        "suggested": 0.4,
+        "quantity": 38,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SCAR-20 | Blueprint (Factory New)",
+        "price": {
+          "min": 1.06,
+          "max": 595.14,
+          "mean": 23.85,
+          "median": 3.41,
+          "suggested": 1.38,
+          "quantity": 44,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "SCAR-20 | Blueprint (Minimal Wear)",
+        "price": {
+          "min": 0.57,
+          "max": 11.66,
+          "mean": 1.46,
+          "median": 0.71,
+          "suggested": 0.7,
+          "quantity": 35,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "SCAR-20 | Blueprint (Field-Tested)",
+        "price": {
+          "min": 0.36,
+          "max": 22.17,
+          "mean": 0.85,
+          "median": 0.55,
+          "suggested": 0.62,
+          "quantity": 212,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "SCAR-20 | Blueprint (Well-Worn)",
+        "price": {
+          "min": 0.35,
+          "max": 8.17,
+          "mean": 1.04,
+          "median": 0.89,
+          "suggested": 0.44,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "SCAR-20 | Blueprint (Battle-Scarred)",
+        "price": {
+          "min": 0.27,
+          "max": 7.76,
+          "mean": 0.68,
+          "median": 0.36,
+          "suggested": 0.4,
+          "quantity": 38,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ SCAR-20 | Blueprint (Factory New)",
+        "price": {
+          "min": 1.62,
+          "max": 42.36,
+          "mean": 14.67,
+          "median": 9.44,
+          "suggested": 1.87,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ SCAR-20 | Blueprint (Minimal Wear)",
+        "price": {
+          "min": 0.65,
+          "max": 15.19,
+          "mean": 6.3,
+          "median": 8.1,
+          "suggested": 0.81,
+          "quantity": 48,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ SCAR-20 | Blueprint (Field-Tested)",
+        "price": {
+          "min": 0.35,
+          "max": 12.66,
+          "mean": 5.81,
+          "median": 2.86,
+          "suggested": 0.43,
+          "quantity": 100,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ SCAR-20 | Blueprint (Well-Worn)",
+        "price": {
+          "min": 0.4,
+          "max": 9.5,
+          "mean": 1.37,
+          "median": 0.56,
+          "suggested": 0.48,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ SCAR-20 | Blueprint (Battle-Scarred)",
+        "price": {
+          "min": 0.33,
+          "max": 6.32,
+          "mean": 1.95,
+          "median": 0.48,
+          "suggested": 0.43,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SCAR-20 | Blueprint (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir SCAR-20 | Blueprint (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir SCAR-20 | Blueprint (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir SCAR-20 | Blueprint (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir SCAR-20 | Blueprint (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:47.434Z"
+}

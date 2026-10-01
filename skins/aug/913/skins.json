@@ -1,0 +1,258 @@
+{
+  "id": "skin-29ac998e7985",
+  "name": "AUG | Death by Puppy",
+  "paint_index": "913",
+  "weapon": {
+    "id": "weapon_aug",
+    "weapon_id": 8,
+    "name": "AUG",
+    "slug": "aug"
+  },
+  "pattern": {
+    "id": "am_aug_death_by_doggy",
+    "name": "Death by Puppy"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.4,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire. A multicolored Pop Dog pattern has been applied.\\n\\n<i>Not to be confused with \\\"ladder\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 17.5,
+      "max": 837.86,
+      "mean": 82.69,
+      "median": 29.44,
+      "suggested": 22.46,
+      "quantity": 32,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 4.43,
+      "max": 213.96,
+      "mean": 13.99,
+      "median": 6.71,
+      "suggested": 6.32,
+      "quantity": 40,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 4.01,
+      "max": 31.97,
+      "mean": 7.97,
+      "median": 4.75,
+      "suggested": 5.52,
+      "quantity": 44,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 5.82,
+      "max": 7.45,
+      "mean": 6.64,
+      "median": 6.64,
+      "suggested": 7.16,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AUG | Death by Puppy (Factory New)",
+      "price": {
+        "min": 17.5,
+        "max": 837.86,
+        "mean": 82.69,
+        "median": 29.44,
+        "suggested": 22.46,
+        "quantity": 32,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AUG | Death by Puppy (Minimal Wear)",
+      "price": {
+        "min": 4.43,
+        "max": 213.96,
+        "mean": 13.99,
+        "median": 6.71,
+        "suggested": 6.32,
+        "quantity": 40,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AUG | Death by Puppy (Field-Tested)",
+      "price": {
+        "min": 4.01,
+        "max": 31.97,
+        "mean": 7.97,
+        "median": 4.75,
+        "suggested": 5.52,
+        "quantity": 44,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AUG | Death by Puppy (Well-Worn)",
+      "price": {
+        "min": 5.82,
+        "max": 7.45,
+        "mean": 6.64,
+        "median": 6.64,
+        "suggested": 7.16,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AUG | Death by Puppy (Factory New)",
+        "price": {
+          "min": 17.5,
+          "max": 837.86,
+          "mean": 82.69,
+          "median": 29.44,
+          "suggested": 22.46,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AUG | Death by Puppy (Minimal Wear)",
+        "price": {
+          "min": 4.43,
+          "max": 213.96,
+          "mean": 13.99,
+          "median": 6.71,
+          "suggested": 6.32,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AUG | Death by Puppy (Field-Tested)",
+        "price": {
+          "min": 4.01,
+          "max": 31.97,
+          "mean": 7.97,
+          "median": 4.75,
+          "suggested": 5.52,
+          "quantity": 44,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AUG | Death by Puppy (Well-Worn)",
+        "price": {
+          "min": 5.82,
+          "max": 7.45,
+          "mean": 6.64,
+          "median": 6.64,
+          "suggested": 7.16,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AUG | Death by Puppy (Factory New)",
+        "price": {
+          "min": 18.53,
+          "max": 322.7,
+          "mean": 73.84,
+          "median": 29.65,
+          "suggested": 21.37,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AUG | Death by Puppy (Minimal Wear)",
+        "price": {
+          "min": 8.92,
+          "max": 79.34,
+          "mean": 21.48,
+          "median": 11.33,
+          "suggested": 9.71,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AUG | Death by Puppy (Field-Tested)",
+        "price": {
+          "min": 7.31,
+          "max": 18.66,
+          "mean": 13.92,
+          "median": 13.83,
+          "suggested": 8.45,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AUG | Death by Puppy (Well-Worn)",
+        "price": {
+          "min": 9.63,
+          "max": 9.63,
+          "mean": 9.63,
+          "median": 9.63,
+          "suggested": 7.28,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AUG | Death by Puppy (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AUG | Death by Puppy (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AUG | Death by Puppy (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AUG | Death by Puppy (Well-Worn)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.153Z"
+}

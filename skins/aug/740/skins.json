@@ -1,0 +1,249 @@
+{
+  "id": "skin-0ddb388d79ff",
+  "name": "AUG | Navy Murano",
+  "paint_index": "740",
+  "weapon": {
+    "id": "weapon_aug",
+    "weapon_id": 8,
+    "name": "AUG",
+    "slug": "aug"
+  },
+  "pattern": {
+    "id": "hy_murano_blue",
+    "name": "Navy Murano"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire. A blue hydrographic of Murano beads has been applied.\\n\\n<i>Death by a thousand beads</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 31.51,
+      "max": 132.1,
+      "mean": 54.34,
+      "median": 46.67,
+      "suggested": 32.22,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 4.89,
+      "max": 17.5,
+      "mean": 6.51,
+      "median": 5.26,
+      "suggested": 5.63,
+      "quantity": 22,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.64,
+      "max": 100.36,
+      "mean": 8.44,
+      "median": 7.75,
+      "suggested": 3.53,
+      "quantity": 113,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 2.5,
+      "max": 11.24,
+      "mean": 6.65,
+      "median": 4.57,
+      "suggested": 2.74,
+      "quantity": 35,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.94,
+      "max": 17.1,
+      "mean": 3.98,
+      "median": 2.53,
+      "suggested": 2.19,
+      "quantity": 43,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AUG | Navy Murano (Factory New)",
+      "price": {
+        "min": 31.51,
+        "max": 132.1,
+        "mean": 54.34,
+        "median": 46.67,
+        "suggested": 32.22,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AUG | Navy Murano (Minimal Wear)",
+      "price": {
+        "min": 4.89,
+        "max": 17.5,
+        "mean": 6.51,
+        "median": 5.26,
+        "suggested": 5.63,
+        "quantity": 22,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AUG | Navy Murano (Field-Tested)",
+      "price": {
+        "min": 2.64,
+        "max": 100.36,
+        "mean": 8.44,
+        "median": 7.75,
+        "suggested": 3.53,
+        "quantity": 113,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AUG | Navy Murano (Well-Worn)",
+      "price": {
+        "min": 2.5,
+        "max": 11.24,
+        "mean": 6.65,
+        "median": 4.57,
+        "suggested": 2.74,
+        "quantity": 35,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AUG | Navy Murano (Battle-Scarred)",
+      "price": {
+        "min": 1.94,
+        "max": 17.1,
+        "mean": 3.98,
+        "median": 2.53,
+        "suggested": 2.19,
+        "quantity": 43,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AUG | Navy Murano (Factory New)",
+        "price": {
+          "min": 31.51,
+          "max": 132.1,
+          "mean": 54.34,
+          "median": 46.67,
+          "suggested": 32.22,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AUG | Navy Murano (Minimal Wear)",
+        "price": {
+          "min": 4.89,
+          "max": 17.5,
+          "mean": 6.51,
+          "median": 5.26,
+          "suggested": 5.63,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AUG | Navy Murano (Field-Tested)",
+        "price": {
+          "min": 2.64,
+          "max": 100.36,
+          "mean": 8.44,
+          "median": 7.75,
+          "suggested": 3.53,
+          "quantity": 113,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AUG | Navy Murano (Well-Worn)",
+        "price": {
+          "min": 2.5,
+          "max": 11.24,
+          "mean": 6.65,
+          "median": 4.57,
+          "suggested": 2.74,
+          "quantity": 35,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AUG | Navy Murano (Battle-Scarred)",
+        "price": {
+          "min": 1.94,
+          "max": 17.1,
+          "mean": 3.98,
+          "median": 2.53,
+          "suggested": 2.19,
+          "quantity": 43,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AUG | Navy Murano (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AUG | Navy Murano (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AUG | Navy Murano (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AUG | Navy Murano (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AUG | Navy Murano (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.612Z"
+}

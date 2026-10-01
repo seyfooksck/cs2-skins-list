@@ -1,0 +1,257 @@
+{
+  "id": "skin-f83162880676",
+  "name": "★ Bowie Knife | Blue Steel",
+  "paint_index": "42",
+  "weapon": {
+    "id": "weapon_knife_survival_bowie",
+    "weapon_id": 514,
+    "name": "Bowie Knife",
+    "slug": "knife_survival_bowie"
+  },
+  "pattern": {
+    "id": "aq_blued",
+    "name": "Blue Steel"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This full-tang sawback Bowie knife is designed for heavy use in brutal survival situations. It has been cold blued.\\n\\n<i>This is the malbec of weapon design - Booth, Arms Dealer</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 121.4,
+      "max": 256.04,
+      "mean": 184.67,
+      "median": 178.2,
+      "suggested": 158.59,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 102.69,
+      "max": 208.88,
+      "mean": 142.76,
+      "median": 145.28,
+      "suggested": 125.01,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 100.57,
+      "max": 144.27,
+      "mean": 122.74,
+      "median": 123.39,
+      "suggested": 115.66,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 105.02,
+      "max": 132.67,
+      "mean": 114.52,
+      "median": 106.95,
+      "suggested": 124.33,
+      "quantity": 5,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Bowie Knife | Blue Steel (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Bowie Knife | Blue Steel (Minimal Wear)",
+      "price": {
+        "min": 121.4,
+        "max": 256.04,
+        "mean": 184.67,
+        "median": 178.2,
+        "suggested": 158.59,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Bowie Knife | Blue Steel (Field-Tested)",
+      "price": {
+        "min": 102.69,
+        "max": 208.88,
+        "mean": 142.76,
+        "median": 145.28,
+        "suggested": 125.01,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Bowie Knife | Blue Steel (Well-Worn)",
+      "price": {
+        "min": 100.57,
+        "max": 144.27,
+        "mean": 122.74,
+        "median": 123.39,
+        "suggested": 115.66,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Bowie Knife | Blue Steel (Battle-Scarred)",
+      "price": {
+        "min": 105.02,
+        "max": 132.67,
+        "mean": 114.52,
+        "median": 106.95,
+        "suggested": 124.33,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Bowie Knife | Blue Steel (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Bowie Knife | Blue Steel (Minimal Wear)",
+        "price": {
+          "min": 121.4,
+          "max": 256.04,
+          "mean": 184.67,
+          "median": 178.2,
+          "suggested": 158.59,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Bowie Knife | Blue Steel (Field-Tested)",
+        "price": {
+          "min": 102.69,
+          "max": 208.88,
+          "mean": 142.76,
+          "median": 145.28,
+          "suggested": 125.01,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Bowie Knife | Blue Steel (Well-Worn)",
+        "price": {
+          "min": 100.57,
+          "max": 144.27,
+          "mean": 122.74,
+          "median": 123.39,
+          "suggested": 115.66,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Bowie Knife | Blue Steel (Battle-Scarred)",
+        "price": {
+          "min": 105.02,
+          "max": 132.67,
+          "mean": 114.52,
+          "median": 106.95,
+          "suggested": 124.33,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Bowie Knife | Blue Steel (Factory New)",
+        "price": {
+          "min": 532.73,
+          "max": 532.73,
+          "mean": 532.73,
+          "median": 532.73,
+          "suggested": 756.93,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Bowie Knife | Blue Steel (Minimal Wear)",
+        "price": {
+          "min": 238.06,
+          "max": 238.06,
+          "mean": 238.06,
+          "median": 238.06,
+          "suggested": 193.97,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Bowie Knife | Blue Steel (Field-Tested)",
+        "price": {
+          "min": 216.22,
+          "max": 216.22,
+          "mean": 216.22,
+          "median": 216.22,
+          "suggested": 204.62,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Bowie Knife | Blue Steel (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Bowie Knife | Blue Steel (Battle-Scarred)",
+        "price": {
+          "min": 179.93,
+          "max": 179.93,
+          "mean": 179.93,
+          "median": 179.93,
+          "suggested": 178.56,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:38.379Z"
+}

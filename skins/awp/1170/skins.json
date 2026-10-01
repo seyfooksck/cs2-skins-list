@@ -1,0 +1,310 @@
+{
+  "id": "skin-b986a2456e28",
+  "name": "AWP | Chrome Cannon",
+  "paint_index": "1170",
+  "weapon": {
+    "id": "weapon_awp",
+    "weapon_id": 9,
+    "name": "AWP",
+    "slug": "awp"
+  },
+  "pattern": {
+    "id": "awp_tempered",
+    "name": "Chrome Cannon"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. Custom painted with mirror coat paint, this AWP is finished with multicolored accents and a carbon fiber scope.\\n\\n<i>\\\"Where'd this come from? Why do you ask?\\\" - Booth, Arms Dealer</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 87.52,
+      "max": 728.9,
+      "mean": 143.21,
+      "median": 96.53,
+      "suggested": 106.62,
+      "quantity": 44,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 41.23,
+      "max": 115.01,
+      "mean": 50.06,
+      "median": 45.77,
+      "suggested": 51.59,
+      "quantity": 84,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 28.38,
+      "max": 299.9,
+      "mean": 37.65,
+      "median": 34.32,
+      "suggested": 39.49,
+      "quantity": 209,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 24.18,
+      "max": 112.66,
+      "mean": 32.44,
+      "median": 30.4,
+      "suggested": 34.8,
+      "quantity": 96,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 25.67,
+      "max": 51.21,
+      "mean": 31.2,
+      "median": 29.17,
+      "suggested": 33.44,
+      "quantity": 52,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AWP | Chrome Cannon (Factory New)",
+      "price": {
+        "min": 87.52,
+        "max": 728.9,
+        "mean": 143.21,
+        "median": 96.53,
+        "suggested": 106.62,
+        "quantity": 44,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AWP | Chrome Cannon (Minimal Wear)",
+      "price": {
+        "min": 41.23,
+        "max": 115.01,
+        "mean": 50.06,
+        "median": 45.77,
+        "suggested": 51.59,
+        "quantity": 84,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AWP | Chrome Cannon (Field-Tested)",
+      "price": {
+        "min": 28.38,
+        "max": 299.9,
+        "mean": 37.65,
+        "median": 34.32,
+        "suggested": 39.49,
+        "quantity": 209,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AWP | Chrome Cannon (Well-Worn)",
+      "price": {
+        "min": 24.18,
+        "max": 112.66,
+        "mean": 32.44,
+        "median": 30.4,
+        "suggested": 34.8,
+        "quantity": 96,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AWP | Chrome Cannon (Battle-Scarred)",
+      "price": {
+        "min": 25.67,
+        "max": 51.21,
+        "mean": 31.2,
+        "median": 29.17,
+        "suggested": 33.44,
+        "quantity": 52,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AWP | Chrome Cannon (Factory New)",
+        "price": {
+          "min": 87.52,
+          "max": 728.9,
+          "mean": 143.21,
+          "median": 96.53,
+          "suggested": 106.62,
+          "quantity": 44,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AWP | Chrome Cannon (Minimal Wear)",
+        "price": {
+          "min": 41.23,
+          "max": 115.01,
+          "mean": 50.06,
+          "median": 45.77,
+          "suggested": 51.59,
+          "quantity": 84,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AWP | Chrome Cannon (Field-Tested)",
+        "price": {
+          "min": 28.38,
+          "max": 299.9,
+          "mean": 37.65,
+          "median": 34.32,
+          "suggested": 39.49,
+          "quantity": 209,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AWP | Chrome Cannon (Well-Worn)",
+        "price": {
+          "min": 24.18,
+          "max": 112.66,
+          "mean": 32.44,
+          "median": 30.4,
+          "suggested": 34.8,
+          "quantity": 96,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AWP | Chrome Cannon (Battle-Scarred)",
+        "price": {
+          "min": 25.67,
+          "max": 51.21,
+          "mean": 31.2,
+          "median": 29.17,
+          "suggested": 33.44,
+          "quantity": 52,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AWP | Chrome Cannon (Factory New)",
+        "price": {
+          "min": 151.48,
+          "max": 816.86,
+          "mean": 249.81,
+          "median": 202.64,
+          "suggested": 229.26,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AWP | Chrome Cannon (Minimal Wear)",
+        "price": {
+          "min": 64.8,
+          "max": 186.7,
+          "mean": 87.49,
+          "median": 80.8,
+          "suggested": 80.53,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AWP | Chrome Cannon (Field-Tested)",
+        "price": {
+          "min": 41.58,
+          "max": 110.86,
+          "mean": 58.93,
+          "median": 47.91,
+          "suggested": 54.26,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AWP | Chrome Cannon (Well-Worn)",
+        "price": {
+          "min": 30.31,
+          "max": 101.28,
+          "mean": 40.53,
+          "median": 34.68,
+          "suggested": 38.25,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ AWP | Chrome Cannon (Battle-Scarred)",
+        "price": {
+          "min": 29.77,
+          "max": 46.68,
+          "mean": 33.55,
+          "median": 31.58,
+          "suggested": 35.48,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AWP | Chrome Cannon (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AWP | Chrome Cannon (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AWP | Chrome Cannon (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AWP | Chrome Cannon (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AWP | Chrome Cannon (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.905Z"
+}

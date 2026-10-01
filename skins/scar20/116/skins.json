@@ -1,0 +1,289 @@
+{
+  "id": "skin-0147ca1550c4",
+  "name": "SCAR-20 | Sand Mesh",
+  "paint_index": "116",
+  "weapon": {
+    "id": "weapon_scar20",
+    "weapon_id": 38,
+    "name": "SCAR-20",
+    "slug": "scar20"
+  },
+  "pattern": {
+    "id": "sp_mesh_sand",
+    "name": "Sand Mesh"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The SCAR-20 is a semi-automatic sniper rifle that trades a high rate of fire and powerful long-distance damage for sluggish movement speed and big price tag. It has been spray-painted using mesh fencing and cardboard cutouts as stencils.\\n\\n<i>A predator is a predator, no matter the environment</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.69,
+      "max": 3.08,
+      "mean": 1.19,
+      "median": 1.11,
+      "suggested": 0.83,
+      "quantity": 27,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.02,
+      "max": 36.6,
+      "mean": 0.26,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 531,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.02,
+      "max": 6.09,
+      "mean": 0.05,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 7237,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.02,
+      "max": 1.88,
+      "mean": 0.04,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 1062,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.02,
+      "max": 6.17,
+      "mean": 0.05,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 1696,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SCAR-20 | Sand Mesh (Factory New)",
+      "price": {
+        "min": 0.69,
+        "max": 3.08,
+        "mean": 1.19,
+        "median": 1.11,
+        "suggested": 0.83,
+        "quantity": 27,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SCAR-20 | Sand Mesh (Minimal Wear)",
+      "price": {
+        "min": 0.02,
+        "max": 36.6,
+        "mean": 0.26,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 531,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "SCAR-20 | Sand Mesh (Field-Tested)",
+      "price": {
+        "min": 0.02,
+        "max": 6.09,
+        "mean": 0.05,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 7237,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "SCAR-20 | Sand Mesh (Well-Worn)",
+      "price": {
+        "min": 0.02,
+        "max": 1.88,
+        "mean": 0.04,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 1062,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "SCAR-20 | Sand Mesh (Battle-Scarred)",
+      "price": {
+        "min": 0.02,
+        "max": 6.17,
+        "mean": 0.05,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 1696,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SCAR-20 | Sand Mesh (Factory New)",
+        "price": {
+          "min": 0.69,
+          "max": 3.08,
+          "mean": 1.19,
+          "median": 1.11,
+          "suggested": 0.83,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "SCAR-20 | Sand Mesh (Minimal Wear)",
+        "price": {
+          "min": 0.02,
+          "max": 36.6,
+          "mean": 0.26,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 531,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "SCAR-20 | Sand Mesh (Field-Tested)",
+        "price": {
+          "min": 0.02,
+          "max": 6.09,
+          "mean": 0.05,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 7237,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "SCAR-20 | Sand Mesh (Well-Worn)",
+        "price": {
+          "min": 0.02,
+          "max": 1.88,
+          "mean": 0.04,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 1062,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "SCAR-20 | Sand Mesh (Battle-Scarred)",
+        "price": {
+          "min": 0.02,
+          "max": 6.17,
+          "mean": 0.05,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 1696,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SCAR-20 | Sand Mesh (Factory New)",
+        "price": {
+          "min": 23.97,
+          "max": 23.97,
+          "mean": 23.97,
+          "median": 23.97,
+          "suggested": 2.04,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir SCAR-20 | Sand Mesh (Minimal Wear)",
+        "price": {
+          "min": 0.81,
+          "max": 92.19,
+          "mean": 10.33,
+          "median": 2.33,
+          "suggested": 0.86,
+          "quantity": 35,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir SCAR-20 | Sand Mesh (Field-Tested)",
+        "price": {
+          "min": 0.37,
+          "max": 75.85,
+          "mean": 5.41,
+          "median": 1.16,
+          "suggested": 0.35,
+          "quantity": 42,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir SCAR-20 | Sand Mesh (Well-Worn)",
+        "price": {
+          "min": 1.16,
+          "max": 6.44,
+          "mean": 2,
+          "median": 1.16,
+          "suggested": 0.39,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir SCAR-20 | Sand Mesh (Battle-Scarred)",
+        "price": {
+          "min": 1.1,
+          "max": 8.17,
+          "mean": 2.64,
+          "median": 1.16,
+          "suggested": 0.48,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:47.755Z"
+}

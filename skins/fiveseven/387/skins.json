@@ -1,0 +1,206 @@
+{
+  "id": "skin-d2a66cdb3bf4",
+  "name": "Five-SeveN | Urban Hazard",
+  "paint_index": "387",
+  "weapon": {
+    "id": "weapon_fiveseven",
+    "weapon_id": 3,
+    "name": "Five-SeveN",
+    "slug": "fiveseven"
+  },
+  "pattern": {
+    "id": "cu_fiveseven_urban_hazard",
+    "name": "Urban Hazard"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.25,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. It has been custom painted with urban camo and red accents.\\n\\n<i>Every year, Booth gathers the worlds foremost designer gunsmiths to show off their latest designs</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 7.98,
+      "max": 285.78,
+      "mean": 34.17,
+      "median": 11.66,
+      "suggested": 7.88,
+      "quantity": 37,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 3.12,
+      "max": 163.37,
+      "mean": 12.56,
+      "median": 4.66,
+      "suggested": 4.05,
+      "quantity": 37,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 3.61,
+      "max": 11.02,
+      "mean": 5.45,
+      "median": 5.71,
+      "suggested": 3.39,
+      "quantity": 23,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Five-SeveN | Urban Hazard (Factory New)",
+      "price": {
+        "min": 7.98,
+        "max": 285.78,
+        "mean": 34.17,
+        "median": 11.66,
+        "suggested": 7.88,
+        "quantity": 37,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Five-SeveN | Urban Hazard (Minimal Wear)",
+      "price": {
+        "min": 3.12,
+        "max": 163.37,
+        "mean": 12.56,
+        "median": 4.66,
+        "suggested": 4.05,
+        "quantity": 37,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Five-SeveN | Urban Hazard (Field-Tested)",
+      "price": {
+        "min": 3.61,
+        "max": 11.02,
+        "mean": 5.45,
+        "median": 5.71,
+        "suggested": 3.39,
+        "quantity": 23,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Five-SeveN | Urban Hazard (Factory New)",
+        "price": {
+          "min": 7.98,
+          "max": 285.78,
+          "mean": 34.17,
+          "median": 11.66,
+          "suggested": 7.88,
+          "quantity": 37,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Five-SeveN | Urban Hazard (Minimal Wear)",
+        "price": {
+          "min": 3.12,
+          "max": 163.37,
+          "mean": 12.56,
+          "median": 4.66,
+          "suggested": 4.05,
+          "quantity": 37,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Five-SeveN | Urban Hazard (Field-Tested)",
+        "price": {
+          "min": 3.61,
+          "max": 11.02,
+          "mean": 5.45,
+          "median": 5.71,
+          "suggested": 3.39,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Urban Hazard (Factory New)",
+        "price": {
+          "min": 7.83,
+          "max": 357.08,
+          "mean": 31.41,
+          "median": 14.33,
+          "suggested": 8.57,
+          "quantity": 59,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Urban Hazard (Minimal Wear)",
+        "price": {
+          "min": 5.32,
+          "max": 133.02,
+          "mean": 26.06,
+          "median": 13.59,
+          "suggested": 6.19,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Urban Hazard (Field-Tested)",
+        "price": {
+          "min": 5.82,
+          "max": 52.51,
+          "mean": 16.44,
+          "median": 11.49,
+          "suggested": 5.58,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Five-SeveN | Urban Hazard (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Five-SeveN | Urban Hazard (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Five-SeveN | Urban Hazard (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:30.110Z"
+}

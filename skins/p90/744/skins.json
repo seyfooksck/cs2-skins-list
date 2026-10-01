@@ -1,0 +1,177 @@
+{
+  "id": "skin-5eb6229ab854",
+  "name": "P90 | Baroque Red",
+  "paint_index": "744",
+  "weapon": {
+    "id": "weapon_p90",
+    "weapon_id": 19,
+    "name": "P90",
+    "slug": "p90"
+  },
+  "pattern": {
+    "id": "am_veneto_red",
+    "name": "Baroque Red"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. An intricate maroon and gray Italian inspired pattern has been applied.\\n\\n<i>Last Supper is served</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 29.17,
+      "max": 40.01,
+      "mean": 34.35,
+      "median": 33.86,
+      "suggested": 38.95,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "mw": null,
+    "ft": {
+      "min": 53.78,
+      "max": 53.78,
+      "mean": 53.78,
+      "median": 53.78,
+      "suggested": 30.06,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P90 | Baroque Red (Factory New)",
+      "price": {
+        "min": 29.17,
+        "max": 40.01,
+        "mean": 34.35,
+        "median": 33.86,
+        "suggested": 38.95,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P90 | Baroque Red (Minimal Wear)",
+      "price": null,
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P90 | Baroque Red (Field-Tested)",
+      "price": {
+        "min": 53.78,
+        "max": 53.78,
+        "mean": 53.78,
+        "median": 53.78,
+        "suggested": 30.06,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P90 | Baroque Red (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P90 | Baroque Red (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P90 | Baroque Red (Factory New)",
+        "price": {
+          "min": 29.17,
+          "max": 40.01,
+          "mean": 34.35,
+          "median": 33.86,
+          "suggested": 38.95,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P90 | Baroque Red (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "P90 | Baroque Red (Field-Tested)",
+        "price": {
+          "min": 53.78,
+          "max": 53.78,
+          "mean": 53.78,
+          "median": 53.78,
+          "suggested": 30.06,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P90 | Baroque Red (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "P90 | Baroque Red (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P90 | Baroque Red (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P90 | Baroque Red (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P90 | Baroque Red (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P90 | Baroque Red (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P90 | Baroque Red (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:45.835Z"
+}

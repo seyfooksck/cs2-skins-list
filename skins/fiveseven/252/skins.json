@@ -1,0 +1,209 @@
+{
+  "id": "skin-45614ab4f605",
+  "name": "Five-SeveN | Silver Quartz",
+  "paint_index": "252",
+  "weapon": {
+    "id": "weapon_fiveseven",
+    "weapon_id": 3,
+    "name": "Five-SeveN",
+    "slug": "fiveseven"
+  },
+  "pattern": {
+    "id": "am_crystallized_silver",
+    "name": "Silver Quartz"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.4,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. It has been painted with metallic paint and uses a crystallizing mask to create a pattern.\\n\\n<i>Everyone wants to make an impact</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.24,
+      "max": 60.94,
+      "mean": 5.48,
+      "median": 2.36,
+      "suggested": 1.23,
+      "quantity": 145,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.23,
+      "max": 36.29,
+      "mean": 2.4,
+      "median": 2.01,
+      "suggested": 0.28,
+      "quantity": 144,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.12,
+      "max": 33.84,
+      "mean": 1.04,
+      "median": 0.49,
+      "suggested": 0.17,
+      "quantity": 133,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.88,
+      "max": 8.97,
+      "mean": 3.97,
+      "median": 1.97,
+      "suggested": 0.28,
+      "quantity": 7,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Five-SeveN | Silver Quartz (Factory New)",
+      "price": {
+        "min": 1.24,
+        "max": 60.94,
+        "mean": 5.48,
+        "median": 2.36,
+        "suggested": 1.23,
+        "quantity": 145,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Five-SeveN | Silver Quartz (Minimal Wear)",
+      "price": {
+        "min": 0.23,
+        "max": 36.29,
+        "mean": 2.4,
+        "median": 2.01,
+        "suggested": 0.28,
+        "quantity": 144,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Five-SeveN | Silver Quartz (Field-Tested)",
+      "price": {
+        "min": 0.12,
+        "max": 33.84,
+        "mean": 1.04,
+        "median": 0.49,
+        "suggested": 0.17,
+        "quantity": 133,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Five-SeveN | Silver Quartz (Well-Worn)",
+      "price": {
+        "min": 0.88,
+        "max": 8.97,
+        "mean": 3.97,
+        "median": 1.97,
+        "suggested": 0.28,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Five-SeveN | Silver Quartz (Factory New)",
+        "price": {
+          "min": 1.24,
+          "max": 60.94,
+          "mean": 5.48,
+          "median": 2.36,
+          "suggested": 1.23,
+          "quantity": 145,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Five-SeveN | Silver Quartz (Minimal Wear)",
+        "price": {
+          "min": 0.23,
+          "max": 36.29,
+          "mean": 2.4,
+          "median": 2.01,
+          "suggested": 0.28,
+          "quantity": 144,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Five-SeveN | Silver Quartz (Field-Tested)",
+        "price": {
+          "min": 0.12,
+          "max": 33.84,
+          "mean": 1.04,
+          "median": 0.49,
+          "suggested": 0.17,
+          "quantity": 133,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Five-SeveN | Silver Quartz (Well-Worn)",
+        "price": {
+          "min": 0.88,
+          "max": 8.97,
+          "mean": 3.97,
+          "median": 1.97,
+          "suggested": 0.28,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Five-SeveN | Silver Quartz (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Five-SeveN | Silver Quartz (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Five-SeveN | Silver Quartz (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Five-SeveN | Silver Quartz (Well-Worn)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:29.898Z"
+}

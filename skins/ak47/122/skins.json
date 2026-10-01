@@ -1,0 +1,225 @@
+{
+  "id": "skin-7bf3e9d7c372",
+  "name": "AK-47 | Jungle Spray",
+  "paint_index": "122",
+  "weapon": {
+    "id": "weapon_ak47",
+    "weapon_id": 7,
+    "name": "AK-47",
+    "slug": "ak47"
+  },
+  "pattern": {
+    "id": "sp_spray_jungle",
+    "name": "Jungle Spray"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. It has been spray-painted freehand with short, thick lines in contrasting colors.\\n\\n<i>Perfect for the insurgent on the go</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 48.42,
+      "max": 921.73,
+      "mean": 155,
+      "median": 71.17,
+      "suggested": 65.54,
+      "quantity": 18,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 18.82,
+      "max": 2859,
+      "mean": 226.53,
+      "median": 30.22,
+      "suggested": 19.97,
+      "quantity": 19,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 35.01,
+      "max": 35.01,
+      "mean": 35.01,
+      "median": 35.01,
+      "suggested": 12.02,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 26.84,
+      "max": 39.02,
+      "mean": 32.93,
+      "median": 32.93,
+      "suggested": 14.39,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AK-47 | Jungle Spray (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AK-47 | Jungle Spray (Minimal Wear)",
+      "price": {
+        "min": 48.42,
+        "max": 921.73,
+        "mean": 155,
+        "median": 71.17,
+        "suggested": 65.54,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AK-47 | Jungle Spray (Field-Tested)",
+      "price": {
+        "min": 18.82,
+        "max": 2859,
+        "mean": 226.53,
+        "median": 30.22,
+        "suggested": 19.97,
+        "quantity": 19,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AK-47 | Jungle Spray (Well-Worn)",
+      "price": {
+        "min": 35.01,
+        "max": 35.01,
+        "mean": 35.01,
+        "median": 35.01,
+        "suggested": 12.02,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AK-47 | Jungle Spray (Battle-Scarred)",
+      "price": {
+        "min": 26.84,
+        "max": 39.02,
+        "mean": 32.93,
+        "median": 32.93,
+        "suggested": 14.39,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AK-47 | Jungle Spray (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "AK-47 | Jungle Spray (Minimal Wear)",
+        "price": {
+          "min": 48.42,
+          "max": 921.73,
+          "mean": 155,
+          "median": 71.17,
+          "suggested": 65.54,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AK-47 | Jungle Spray (Field-Tested)",
+        "price": {
+          "min": 18.82,
+          "max": 2859,
+          "mean": 226.53,
+          "median": 30.22,
+          "suggested": 19.97,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AK-47 | Jungle Spray (Well-Worn)",
+        "price": {
+          "min": 35.01,
+          "max": 35.01,
+          "mean": 35.01,
+          "median": 35.01,
+          "suggested": 12.02,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AK-47 | Jungle Spray (Battle-Scarred)",
+        "price": {
+          "min": 26.84,
+          "max": 39.02,
+          "mean": 32.93,
+          "median": 32.93,
+          "suggested": 14.39,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AK-47 | Jungle Spray (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AK-47 | Jungle Spray (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AK-47 | Jungle Spray (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AK-47 | Jungle Spray (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AK-47 | Jungle Spray (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:20:21.126Z"
+}

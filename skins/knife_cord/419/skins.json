@@ -1,0 +1,137 @@
+{
+  "id": "skin-e810da3af62e",
+  "name": "★ Paracord Knife | Doppler",
+  "paint_index": "419",
+  "weapon": {
+    "id": "weapon_knife_cord",
+    "weapon_id": 517,
+    "name": "Paracord Knife",
+    "slug": "knife_cord"
+  },
+  "pattern": {
+    "id": "am_doppler_phase2",
+    "name": "Doppler"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This fixed-blade survival knife is designed to withstand being used as both a weapon and a tool, such as for setting traps, hunting animals or cutting foliage. The handle is wrapped in a length of multi-purpose paracord. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 700.16,
+      "max": 1457.5,
+      "mean": 894.52,
+      "median": 787.6,
+      "suggested": 679.2,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 768.11,
+      "max": 921.73,
+      "mean": 844.92,
+      "median": 844.92,
+      "suggested": 664.05,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Paracord Knife | Doppler (Factory New)",
+      "price": {
+        "min": 700.16,
+        "max": 1457.5,
+        "mean": 894.52,
+        "median": 787.6,
+        "suggested": 679.2,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Paracord Knife | Doppler (Minimal Wear)",
+      "price": {
+        "min": 768.11,
+        "max": 921.73,
+        "mean": 844.92,
+        "median": 844.92,
+        "suggested": 664.05,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Paracord Knife | Doppler (Factory New)",
+        "price": {
+          "min": 700.16,
+          "max": 1457.5,
+          "mean": 894.52,
+          "median": 787.6,
+          "suggested": 679.2,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Paracord Knife | Doppler (Minimal Wear)",
+        "price": {
+          "min": 768.11,
+          "max": 921.73,
+          "mean": 844.92,
+          "median": 844.92,
+          "suggested": 664.05,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Paracord Knife | Doppler (Factory New)",
+        "price": {
+          "min": 823.16,
+          "max": 1184.59,
+          "mean": 1003.88,
+          "median": 1003.88,
+          "suggested": 581.32,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Paracord Knife | Doppler (Minimal Wear)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:33.591Z"
+}

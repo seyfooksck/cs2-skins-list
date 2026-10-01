@@ -1,0 +1,289 @@
+{
+  "id": "skin-6dbbf1e46f10",
+  "name": "CZ75-Auto | Midnight Palm",
+  "paint_index": "933",
+  "weapon": {
+    "id": "weapon_cz75a",
+    "weapon_id": 63,
+    "name": "CZ75-Auto",
+    "slug": "cz75a"
+  },
+  "pattern": {
+    "id": "sp_palm_night",
+    "name": "Midnight Palm"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fully automatic variant of the CZ75, the CZ75-Auto is the ideal short-term choice for turning the tables and gaining your opponents weapon. But with very little ammo in the magazine, strong trigger discipline is required. It has been spray-painted with black palm fronds over a gray and purple camo.\\n\\n<i>\\\"The sign says closed!\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.29,
+      "max": 35,
+      "mean": 15.32,
+      "median": 11.04,
+      "suggested": 1.8,
+      "quantity": 27,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.98,
+      "max": 12.47,
+      "mean": 8.31,
+      "median": 8.5,
+      "suggested": 0.71,
+      "quantity": 21,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.32,
+      "max": 21.64,
+      "mean": 4.57,
+      "median": 4.88,
+      "suggested": 0.37,
+      "quantity": 46,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.72,
+      "max": 6.83,
+      "mean": 2.72,
+      "median": 1.66,
+      "suggested": 0.44,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.97,
+      "max": 5.12,
+      "mean": 3.73,
+      "median": 5.12,
+      "suggested": 1.15,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "CZ75-Auto | Midnight Palm (Factory New)",
+      "price": {
+        "min": 2.29,
+        "max": 35,
+        "mean": 15.32,
+        "median": 11.04,
+        "suggested": 1.8,
+        "quantity": 27,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "CZ75-Auto | Midnight Palm (Minimal Wear)",
+      "price": {
+        "min": 0.98,
+        "max": 12.47,
+        "mean": 8.31,
+        "median": 8.5,
+        "suggested": 0.71,
+        "quantity": 21,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "CZ75-Auto | Midnight Palm (Field-Tested)",
+      "price": {
+        "min": 0.32,
+        "max": 21.64,
+        "mean": 4.57,
+        "median": 4.88,
+        "suggested": 0.37,
+        "quantity": 46,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "CZ75-Auto | Midnight Palm (Well-Worn)",
+      "price": {
+        "min": 0.72,
+        "max": 6.83,
+        "mean": 2.72,
+        "median": 1.66,
+        "suggested": 0.44,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "CZ75-Auto | Midnight Palm (Battle-Scarred)",
+      "price": {
+        "min": 0.97,
+        "max": 5.12,
+        "mean": 3.73,
+        "median": 5.12,
+        "suggested": 1.15,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "CZ75-Auto | Midnight Palm (Factory New)",
+        "price": {
+          "min": 2.29,
+          "max": 35,
+          "mean": 15.32,
+          "median": 11.04,
+          "suggested": 1.8,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "CZ75-Auto | Midnight Palm (Minimal Wear)",
+        "price": {
+          "min": 0.98,
+          "max": 12.47,
+          "mean": 8.31,
+          "median": 8.5,
+          "suggested": 0.71,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "CZ75-Auto | Midnight Palm (Field-Tested)",
+        "price": {
+          "min": 0.32,
+          "max": 21.64,
+          "mean": 4.57,
+          "median": 4.88,
+          "suggested": 0.37,
+          "quantity": 46,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "CZ75-Auto | Midnight Palm (Well-Worn)",
+        "price": {
+          "min": 0.72,
+          "max": 6.83,
+          "mean": 2.72,
+          "median": 1.66,
+          "suggested": 0.44,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "CZ75-Auto | Midnight Palm (Battle-Scarred)",
+        "price": {
+          "min": 0.97,
+          "max": 5.12,
+          "mean": 3.73,
+          "median": 5.12,
+          "suggested": 1.15,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir CZ75-Auto | Midnight Palm (Factory New)",
+        "price": {
+          "min": 1.55,
+          "max": 233.39,
+          "mean": 9.51,
+          "median": 3.82,
+          "suggested": 1.93,
+          "quantity": 140,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir CZ75-Auto | Midnight Palm (Minimal Wear)",
+        "price": {
+          "min": 0.91,
+          "max": 17.5,
+          "mean": 3.41,
+          "median": 2.31,
+          "suggested": 0.74,
+          "quantity": 65,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir CZ75-Auto | Midnight Palm (Field-Tested)",
+        "price": {
+          "min": 0.29,
+          "max": 20.48,
+          "mean": 2.64,
+          "median": 0.88,
+          "suggested": 0.35,
+          "quantity": 112,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir CZ75-Auto | Midnight Palm (Well-Worn)",
+        "price": {
+          "min": 0.23,
+          "max": 10.82,
+          "mean": 3.62,
+          "median": 3.31,
+          "suggested": 0.29,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir CZ75-Auto | Midnight Palm (Battle-Scarred)",
+        "price": {
+          "min": 0.25,
+          "max": 5.12,
+          "mean": 2.84,
+          "median": 2.33,
+          "suggested": 0.29,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:27.924Z"
+}

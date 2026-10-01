@@ -1,0 +1,310 @@
+{
+  "id": "skin-63aa6463689b",
+  "name": "PP-Bizon | Harvester",
+  "paint_index": "594",
+  "weapon": {
+    "id": "weapon_bizon",
+    "weapon_id": 26,
+    "name": "PP-Bizon",
+    "slug": "bizon"
+  },
+  "pattern": {
+    "id": "gs_pp_bizon_harvester",
+    "name": "Harvester"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly. It has been decorated with a bio-mechanical motif.\\n\\n<i>Biomechanic experimentation gone right</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 4.97,
+      "max": 24.51,
+      "mean": 12.28,
+      "median": 9.98,
+      "suggested": 6.31,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.55,
+      "max": 23.34,
+      "mean": 2.75,
+      "median": 0.77,
+      "suggested": 0.65,
+      "quantity": 26,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.54,
+      "max": 4.1,
+      "mean": 0.98,
+      "median": 0.7,
+      "suggested": 0.88,
+      "quantity": 75,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.3,
+      "max": 3.5,
+      "mean": 0.61,
+      "median": 0.47,
+      "suggested": 0.45,
+      "quantity": 67,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.26,
+      "max": 22.76,
+      "mean": 1.13,
+      "median": 0.44,
+      "suggested": 0.37,
+      "quantity": 45,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "PP-Bizon | Harvester (Factory New)",
+      "price": {
+        "min": 4.97,
+        "max": 24.51,
+        "mean": 12.28,
+        "median": 9.98,
+        "suggested": 6.31,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "PP-Bizon | Harvester (Minimal Wear)",
+      "price": {
+        "min": 0.55,
+        "max": 23.34,
+        "mean": 2.75,
+        "median": 0.77,
+        "suggested": 0.65,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "PP-Bizon | Harvester (Field-Tested)",
+      "price": {
+        "min": 0.54,
+        "max": 4.1,
+        "mean": 0.98,
+        "median": 0.7,
+        "suggested": 0.88,
+        "quantity": 75,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "PP-Bizon | Harvester (Well-Worn)",
+      "price": {
+        "min": 0.3,
+        "max": 3.5,
+        "mean": 0.61,
+        "median": 0.47,
+        "suggested": 0.45,
+        "quantity": 67,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "PP-Bizon | Harvester (Battle-Scarred)",
+      "price": {
+        "min": 0.26,
+        "max": 22.76,
+        "mean": 1.13,
+        "median": 0.44,
+        "suggested": 0.37,
+        "quantity": 45,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "PP-Bizon | Harvester (Factory New)",
+        "price": {
+          "min": 4.97,
+          "max": 24.51,
+          "mean": 12.28,
+          "median": 9.98,
+          "suggested": 6.31,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "PP-Bizon | Harvester (Minimal Wear)",
+        "price": {
+          "min": 0.55,
+          "max": 23.34,
+          "mean": 2.75,
+          "median": 0.77,
+          "suggested": 0.65,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "PP-Bizon | Harvester (Field-Tested)",
+        "price": {
+          "min": 0.54,
+          "max": 4.1,
+          "mean": 0.98,
+          "median": 0.7,
+          "suggested": 0.88,
+          "quantity": 75,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "PP-Bizon | Harvester (Well-Worn)",
+        "price": {
+          "min": 0.3,
+          "max": 3.5,
+          "mean": 0.61,
+          "median": 0.47,
+          "suggested": 0.45,
+          "quantity": 67,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "PP-Bizon | Harvester (Battle-Scarred)",
+        "price": {
+          "min": 0.26,
+          "max": 22.76,
+          "mean": 1.13,
+          "median": 0.44,
+          "suggested": 0.37,
+          "quantity": 45,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Harvester (Factory New)",
+        "price": {
+          "min": 3.01,
+          "max": 41.25,
+          "mean": 9.01,
+          "median": 4.45,
+          "suggested": 2.73,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Harvester (Minimal Wear)",
+        "price": {
+          "min": 0.48,
+          "max": 12.51,
+          "mean": 1.77,
+          "median": 0.86,
+          "suggested": 0.7,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Harvester (Field-Tested)",
+        "price": {
+          "min": 0.29,
+          "max": 20.99,
+          "mean": 1.45,
+          "median": 0.41,
+          "suggested": 0.4,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Harvester (Well-Worn)",
+        "price": {
+          "min": 0.28,
+          "max": 0.48,
+          "mean": 0.36,
+          "median": 0.36,
+          "suggested": 0.33,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Harvester (Battle-Scarred)",
+        "price": {
+          "min": 0.3,
+          "max": 1.24,
+          "mean": 0.49,
+          "median": 0.4,
+          "suggested": 0.35,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir PP-Bizon | Harvester (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir PP-Bizon | Harvester (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir PP-Bizon | Harvester (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir PP-Bizon | Harvester (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir PP-Bizon | Harvester (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:27.117Z"
+}

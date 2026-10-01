@@ -1,0 +1,310 @@
+{
+  "id": "skin-a9716a5f7bc2",
+  "name": "M4A1-S | Basilisk",
+  "paint_index": "383",
+  "weapon": {
+    "id": "weapon_m4a1_silencer",
+    "weapon_id": 60,
+    "name": "M4A1-S",
+    "slug": "m4a1_silencer"
+  },
+  "pattern": {
+    "id": "aq_m4a1s_basilisk",
+    "name": "Basilisk"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.68,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. It has been etched with a basilisk.\\n\\n<i>It's rude to stare, but war isn't the time for pleasantries</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 48.46,
+      "max": 233.39,
+      "mean": 78.04,
+      "median": 64.18,
+      "suggested": 65.05,
+      "quantity": 53,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 12.39,
+      "max": 244.94,
+      "mean": 44.25,
+      "median": 17.6,
+      "suggested": 14.54,
+      "quantity": 47,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 8.2,
+      "max": 385.09,
+      "mean": 30.73,
+      "median": 9.34,
+      "suggested": 10.31,
+      "quantity": 55,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 9.22,
+      "max": 17.5,
+      "mean": 12.09,
+      "median": 10.2,
+      "suggested": 10.32,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 8.73,
+      "max": 41.45,
+      "mean": 16.77,
+      "median": 12.96,
+      "suggested": 9.66,
+      "quantity": 12,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A1-S | Basilisk (Factory New)",
+      "price": {
+        "min": 48.46,
+        "max": 233.39,
+        "mean": 78.04,
+        "median": 64.18,
+        "suggested": 65.05,
+        "quantity": 53,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A1-S | Basilisk (Minimal Wear)",
+      "price": {
+        "min": 12.39,
+        "max": 244.94,
+        "mean": 44.25,
+        "median": 17.6,
+        "suggested": 14.54,
+        "quantity": 47,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A1-S | Basilisk (Field-Tested)",
+      "price": {
+        "min": 8.2,
+        "max": 385.09,
+        "mean": 30.73,
+        "median": 9.34,
+        "suggested": 10.31,
+        "quantity": 55,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M4A1-S | Basilisk (Well-Worn)",
+      "price": {
+        "min": 9.22,
+        "max": 17.5,
+        "mean": 12.09,
+        "median": 10.2,
+        "suggested": 10.32,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M4A1-S | Basilisk (Battle-Scarred)",
+      "price": {
+        "min": 8.73,
+        "max": 41.45,
+        "mean": 16.77,
+        "median": 12.96,
+        "suggested": 9.66,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A1-S | Basilisk (Factory New)",
+        "price": {
+          "min": 48.46,
+          "max": 233.39,
+          "mean": 78.04,
+          "median": 64.18,
+          "suggested": 65.05,
+          "quantity": 53,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A1-S | Basilisk (Minimal Wear)",
+        "price": {
+          "min": 12.39,
+          "max": 244.94,
+          "mean": 44.25,
+          "median": 17.6,
+          "suggested": 14.54,
+          "quantity": 47,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A1-S | Basilisk (Field-Tested)",
+        "price": {
+          "min": 8.2,
+          "max": 385.09,
+          "mean": 30.73,
+          "median": 9.34,
+          "suggested": 10.31,
+          "quantity": 55,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M4A1-S | Basilisk (Well-Worn)",
+        "price": {
+          "min": 9.22,
+          "max": 17.5,
+          "mean": 12.09,
+          "median": 10.2,
+          "suggested": 10.32,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M4A1-S | Basilisk (Battle-Scarred)",
+        "price": {
+          "min": 8.73,
+          "max": 41.45,
+          "mean": 16.77,
+          "median": 12.96,
+          "suggested": 9.66,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ M4A1-S | Basilisk (Factory New)",
+        "price": {
+          "min": 55.06,
+          "max": 77.58,
+          "mean": 62.87,
+          "median": 60.8,
+          "suggested": 64.07,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ M4A1-S | Basilisk (Minimal Wear)",
+        "price": {
+          "min": 27.83,
+          "max": 55.55,
+          "mean": 39.14,
+          "median": 35.79,
+          "suggested": 36.7,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ M4A1-S | Basilisk (Field-Tested)",
+        "price": {
+          "min": 23.6,
+          "max": 307.24,
+          "mean": 99.31,
+          "median": 53.56,
+          "suggested": 26.71,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ M4A1-S | Basilisk (Well-Worn)",
+        "price": {
+          "min": 22.64,
+          "max": 39.68,
+          "mean": 26.69,
+          "median": 25.19,
+          "suggested": 28.85,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ M4A1-S | Basilisk (Battle-Scarred)",
+        "price": {
+          "min": 22.59,
+          "max": 30.15,
+          "mean": 27.26,
+          "median": 29.05,
+          "suggested": 26.01,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A1-S | Basilisk (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A1-S | Basilisk (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A1-S | Basilisk (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M4A1-S | Basilisk (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M4A1-S | Basilisk (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:40.777Z"
+}

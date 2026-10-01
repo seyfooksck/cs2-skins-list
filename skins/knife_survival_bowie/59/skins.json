@@ -1,0 +1,185 @@
+{
+  "id": "skin-5f746d4751f8",
+  "name": "★ Bowie Knife | Slaughter",
+  "paint_index": "59",
+  "weapon": {
+    "id": "weapon_knife_survival_bowie",
+    "weapon_id": 514,
+    "name": "Bowie Knife",
+    "slug": "knife_survival_bowie"
+  },
+  "pattern": {
+    "id": "am_zebra",
+    "name": "Slaughter"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.01,
+  "max_float": 0.26,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This full-tang sawback Bowie knife is designed for heavy use in brutal survival situations. It has been painted in a zebra-stripe pattern with aluminum and chrome paints with various reflectivities, and has then been covered with a tomato red candy coat.\\n\\n<i>Valeria doesn't pay Javier to ask questions... she pays him to pry out answers</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 209.12,
+      "max": 551.6,
+      "mean": 284,
+      "median": 263.16,
+      "suggested": 293.87,
+      "quantity": 21,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 193.7,
+      "max": 413.26,
+      "mean": 249.99,
+      "median": 217.49,
+      "suggested": 253.17,
+      "quantity": 18,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 202.22,
+      "max": 218.75,
+      "mean": 210.49,
+      "median": 210.49,
+      "suggested": 229.5,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Bowie Knife | Slaughter (Factory New)",
+      "price": {
+        "min": 209.12,
+        "max": 551.6,
+        "mean": 284,
+        "median": 263.16,
+        "suggested": 293.87,
+        "quantity": 21,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Bowie Knife | Slaughter (Minimal Wear)",
+      "price": {
+        "min": 193.7,
+        "max": 413.26,
+        "mean": 249.99,
+        "median": 217.49,
+        "suggested": 253.17,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Bowie Knife | Slaughter (Field-Tested)",
+      "price": {
+        "min": 202.22,
+        "max": 218.75,
+        "mean": 210.49,
+        "median": 210.49,
+        "suggested": 229.5,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Bowie Knife | Slaughter (Factory New)",
+        "price": {
+          "min": 209.12,
+          "max": 551.6,
+          "mean": 284,
+          "median": 263.16,
+          "suggested": 293.87,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Bowie Knife | Slaughter (Minimal Wear)",
+        "price": {
+          "min": 193.7,
+          "max": 413.26,
+          "mean": 249.99,
+          "median": 217.49,
+          "suggested": 253.17,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Bowie Knife | Slaughter (Field-Tested)",
+        "price": {
+          "min": 202.22,
+          "max": 218.75,
+          "mean": 210.49,
+          "median": 210.49,
+          "suggested": 229.5,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Bowie Knife | Slaughter (Factory New)",
+        "price": {
+          "min": 368.78,
+          "max": 368.78,
+          "mean": 368.78,
+          "median": 368.78,
+          "suggested": 341.95,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Bowie Knife | Slaughter (Minimal Wear)",
+        "price": {
+          "min": 341.2,
+          "max": 466.77,
+          "mean": 403.99,
+          "median": 403.99,
+          "suggested": 326.58,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Bowie Knife | Slaughter (Field-Tested)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:38.356Z"
+}

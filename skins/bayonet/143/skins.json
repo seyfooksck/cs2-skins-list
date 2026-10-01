@@ -1,0 +1,241 @@
+{
+  "id": "skin-bc1e1cf886f9",
+  "name": "★ Bayonet | Urban Masked",
+  "paint_index": "143",
+  "weapon": {
+    "id": "weapon_bayonet",
+    "weapon_id": 500,
+    "name": "Bayonet",
+    "slug": "bayonet"
+  },
+  "pattern": {
+    "id": "sp_tape_urban",
+    "name": "Urban Masked"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Relatively unchanged in its design since World War II, the bayonet still retains a place in modern military strategy. Bayonet charges have continued to be effective as recently as the second Gulf War and the war in Afghanistan. It has been spray-painted using a tangle of masking tape as a stencil.\\n\\n<i>True power is demonstrated with subtle application</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 171.53,
+      "max": 350.07,
+      "mean": 218.03,
+      "median": 197.62,
+      "suggested": 217.94,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 135.14,
+      "max": 1347.11,
+      "mean": 270.4,
+      "median": 150.15,
+      "suggested": 174.69,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 149.41,
+      "max": 149.41,
+      "mean": 149.41,
+      "median": 149.41,
+      "suggested": 172.82,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 146.46,
+      "max": 146.46,
+      "mean": 146.46,
+      "median": 146.46,
+      "suggested": 158.11,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Bayonet | Urban Masked (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Bayonet | Urban Masked (Minimal Wear)",
+      "price": {
+        "min": 171.53,
+        "max": 350.07,
+        "mean": 218.03,
+        "median": 197.62,
+        "suggested": 217.94,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Bayonet | Urban Masked (Field-Tested)",
+      "price": {
+        "min": 135.14,
+        "max": 1347.11,
+        "mean": 270.4,
+        "median": 150.15,
+        "suggested": 174.69,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Bayonet | Urban Masked (Well-Worn)",
+      "price": {
+        "min": 149.41,
+        "max": 149.41,
+        "mean": 149.41,
+        "median": 149.41,
+        "suggested": 172.82,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Bayonet | Urban Masked (Battle-Scarred)",
+      "price": {
+        "min": 146.46,
+        "max": 146.46,
+        "mean": 146.46,
+        "median": 146.46,
+        "suggested": 158.11,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Bayonet | Urban Masked (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Bayonet | Urban Masked (Minimal Wear)",
+        "price": {
+          "min": 171.53,
+          "max": 350.07,
+          "mean": 218.03,
+          "median": 197.62,
+          "suggested": 217.94,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Bayonet | Urban Masked (Field-Tested)",
+        "price": {
+          "min": 135.14,
+          "max": 1347.11,
+          "mean": 270.4,
+          "median": 150.15,
+          "suggested": 174.69,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Bayonet | Urban Masked (Well-Worn)",
+        "price": {
+          "min": 149.41,
+          "max": 149.41,
+          "mean": 149.41,
+          "median": 149.41,
+          "suggested": 172.82,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Bayonet | Urban Masked (Battle-Scarred)",
+        "price": {
+          "min": 146.46,
+          "max": 146.46,
+          "mean": 146.46,
+          "median": 146.46,
+          "suggested": 158.11,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Urban Masked (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Urban Masked (Minimal Wear)",
+        "price": {
+          "min": 324.61,
+          "max": 324.61,
+          "mean": 324.61,
+          "median": 324.61,
+          "suggested": 294.93,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Urban Masked (Field-Tested)",
+        "price": {
+          "min": 169.23,
+          "max": 169.23,
+          "mean": 169.23,
+          "median": 169.23,
+          "suggested": 186.39,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Urban Masked (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Urban Masked (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:26.867Z"
+}

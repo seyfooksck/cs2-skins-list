@@ -1,0 +1,198 @@
+{
+  "id": "skin-ce20dbe572e3",
+  "name": "Tec-9 | Titanium Bit",
+  "paint_index": "272",
+  "weapon": {
+    "id": "weapon_tec9",
+    "weapon_id": 30,
+    "name": "Tec-9",
+    "slug": "tec9"
+  },
+  "pattern": {
+    "id": "am_fluted_tec9",
+    "name": "Titanium Bit"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.2,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity. Its barrel shroud has been anodized to a royal blue color and subtly fluted.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 98.97,
+      "max": 128.36,
+      "mean": 111.36,
+      "median": 106.75,
+      "suggested": 46.6,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 87.4,
+      "max": 87.4,
+      "mean": 87.4,
+      "median": 87.4,
+      "suggested": 12.26,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 10.16,
+      "max": 10.71,
+      "mean": 10.37,
+      "median": 10.25,
+      "suggested": 11.61,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Tec-9 | Titanium Bit (Factory New)",
+      "price": {
+        "min": 98.97,
+        "max": 128.36,
+        "mean": 111.36,
+        "median": 106.75,
+        "suggested": 46.6,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Tec-9 | Titanium Bit (Minimal Wear)",
+      "price": {
+        "min": 87.4,
+        "max": 87.4,
+        "mean": 87.4,
+        "median": 87.4,
+        "suggested": 12.26,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Tec-9 | Titanium Bit (Field-Tested)",
+      "price": {
+        "min": 10.16,
+        "max": 10.71,
+        "mean": 10.37,
+        "median": 10.25,
+        "suggested": 11.61,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Tec-9 | Titanium Bit (Factory New)",
+        "price": {
+          "min": 98.97,
+          "max": 128.36,
+          "mean": 111.36,
+          "median": 106.75,
+          "suggested": 46.6,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Tec-9 | Titanium Bit (Minimal Wear)",
+        "price": {
+          "min": 87.4,
+          "max": 87.4,
+          "mean": 87.4,
+          "median": 87.4,
+          "suggested": 12.26,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Tec-9 | Titanium Bit (Field-Tested)",
+        "price": {
+          "min": 10.16,
+          "max": 10.71,
+          "mean": 10.37,
+          "median": 10.25,
+          "suggested": 11.61,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Tec-9 | Titanium Bit (Factory New)",
+        "price": {
+          "min": 16.34,
+          "max": 109.68,
+          "mean": 34.83,
+          "median": 26.68,
+          "suggested": 21.62,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Tec-9 | Titanium Bit (Minimal Wear)",
+        "price": {
+          "min": 18.66,
+          "max": 46.56,
+          "mean": 27.85,
+          "median": 20.96,
+          "suggested": 15.52,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Tec-9 | Titanium Bit (Field-Tested)",
+        "price": null
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Tec-9 | Titanium Bit (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Tec-9 | Titanium Bit (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Tec-9 | Titanium Bit (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:48.998Z"
+}

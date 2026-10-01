@@ -1,0 +1,310 @@
+{
+  "id": "skin-d4fffad08ab6",
+  "name": "SG 553 | Ol' Rusty",
+  "paint_index": "966",
+  "weapon": {
+    "id": "weapon_sg556",
+    "weapon_id": 39,
+    "name": "SG 553",
+    "slug": "sg556"
+  },
+  "pattern": {
+    "id": "gs_sg553_rusty",
+    "name": "Ol' Rusty"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The terrorist-exclusive SG553 is a premium scoped alternative to the AK47 for effective long-range engagement. Originally polished steel, moisture has changed this weapon's appearance. \\\"Ol' Rusty\\\" has been stamped above the trigger casing.\\n\\n<i>A rusty, trusty friend</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.41,
+      "max": 49.01,
+      "mean": 4.96,
+      "median": 0.74,
+      "suggested": 0.58,
+      "quantity": 179,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.15,
+      "max": 7.59,
+      "mean": 0.34,
+      "median": 0.22,
+      "suggested": 0.2,
+      "quantity": 490,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.07,
+      "max": 5.25,
+      "mean": 0.18,
+      "median": 0.11,
+      "suggested": 0.1,
+      "quantity": 1340,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.08,
+      "max": 0.21,
+      "mean": 0.11,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 79,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.07,
+      "max": 1.17,
+      "mean": 0.14,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 330,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SG 553 | Ol' Rusty (Factory New)",
+      "price": {
+        "min": 0.41,
+        "max": 49.01,
+        "mean": 4.96,
+        "median": 0.74,
+        "suggested": 0.58,
+        "quantity": 179,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SG 553 | Ol' Rusty (Minimal Wear)",
+      "price": {
+        "min": 0.15,
+        "max": 7.59,
+        "mean": 0.34,
+        "median": 0.22,
+        "suggested": 0.2,
+        "quantity": 490,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "SG 553 | Ol' Rusty (Field-Tested)",
+      "price": {
+        "min": 0.07,
+        "max": 5.25,
+        "mean": 0.18,
+        "median": 0.11,
+        "suggested": 0.1,
+        "quantity": 1340,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "SG 553 | Ol' Rusty (Well-Worn)",
+      "price": {
+        "min": 0.08,
+        "max": 0.21,
+        "mean": 0.11,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 79,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "SG 553 | Ol' Rusty (Battle-Scarred)",
+      "price": {
+        "min": 0.07,
+        "max": 1.17,
+        "mean": 0.14,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 330,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SG 553 | Ol' Rusty (Factory New)",
+        "price": {
+          "min": 0.41,
+          "max": 49.01,
+          "mean": 4.96,
+          "median": 0.74,
+          "suggested": 0.58,
+          "quantity": 179,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "SG 553 | Ol' Rusty (Minimal Wear)",
+        "price": {
+          "min": 0.15,
+          "max": 7.59,
+          "mean": 0.34,
+          "median": 0.22,
+          "suggested": 0.2,
+          "quantity": 490,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "SG 553 | Ol' Rusty (Field-Tested)",
+        "price": {
+          "min": 0.07,
+          "max": 5.25,
+          "mean": 0.18,
+          "median": 0.11,
+          "suggested": 0.1,
+          "quantity": 1340,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "SG 553 | Ol' Rusty (Well-Worn)",
+        "price": {
+          "min": 0.08,
+          "max": 0.21,
+          "mean": 0.11,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 79,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "SG 553 | Ol' Rusty (Battle-Scarred)",
+        "price": {
+          "min": 0.07,
+          "max": 1.17,
+          "mean": 0.14,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 330,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ SG 553 | Ol' Rusty (Factory New)",
+        "price": {
+          "min": 0.44,
+          "max": 11.58,
+          "mean": 1.94,
+          "median": 1.32,
+          "suggested": 0.58,
+          "quantity": 78,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ SG 553 | Ol' Rusty (Minimal Wear)",
+        "price": {
+          "min": 0.15,
+          "max": 15.75,
+          "mean": 0.56,
+          "median": 0.22,
+          "suggested": 0.22,
+          "quantity": 228,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ SG 553 | Ol' Rusty (Field-Tested)",
+        "price": {
+          "min": 0.09,
+          "max": 6.42,
+          "mean": 0.25,
+          "median": 0.13,
+          "suggested": 0.1,
+          "quantity": 452,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ SG 553 | Ol' Rusty (Well-Worn)",
+        "price": {
+          "min": 0.09,
+          "max": 1,
+          "mean": 0.15,
+          "median": 0.13,
+          "suggested": 0.1,
+          "quantity": 39,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ SG 553 | Ol' Rusty (Battle-Scarred)",
+        "price": {
+          "min": 0.07,
+          "max": 5.1,
+          "mean": 0.18,
+          "median": 0.12,
+          "suggested": 0.1,
+          "quantity": 115,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SG 553 | Ol' Rusty (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir SG 553 | Ol' Rusty (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir SG 553 | Ol' Rusty (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir SG 553 | Ol' Rusty (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir SG 553 | Ol' Rusty (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:48.108Z"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "skin-ab0f49fac59d",
+  "name": "R8 Revolver | Crazy 8",
+  "paint_index": "1145",
+  "weapon": {
+    "id": "weapon_revolver",
+    "weapon_id": 64,
+    "name": "R8 Revolver",
+    "slug": "revolver"
+  },
+  "pattern": {
+    "id": "gs_revolver_purple_elite",
+    "name": "Crazy 8"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The R8 Revolver delivers a highly accurate and powerful round at the expense of a lengthy trigger-pull. Firing rapidly by fanning the hammer may be the best option when point-blank stopping power is required. It has been custom painted with a purple barrel and a number 8 on the grip.\\n\\n<i>Inspired by the events of December 8th, 2015</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 5.06,
+      "max": 58.35,
+      "mean": 11.94,
+      "median": 9.35,
+      "suggested": 6.48,
+      "quantity": 51,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.09,
+      "max": 50.18,
+      "mean": 1.95,
+      "median": 1.49,
+      "suggested": 1.33,
+      "quantity": 177,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.36,
+      "max": 26.21,
+      "mean": 0.7,
+      "median": 0.61,
+      "suggested": 0.61,
+      "quantity": 742,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.4,
+      "max": 5.83,
+      "mean": 0.57,
+      "median": 0.54,
+      "suggested": 0.52,
+      "quantity": 327,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.41,
+      "max": 25.09,
+      "mean": 0.88,
+      "median": 0.55,
+      "suggested": 0.52,
+      "quantity": 230,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "R8 Revolver | Crazy 8 (Factory New)",
+      "price": {
+        "min": 5.06,
+        "max": 58.35,
+        "mean": 11.94,
+        "median": 9.35,
+        "suggested": 6.48,
+        "quantity": 51,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "R8 Revolver | Crazy 8 (Minimal Wear)",
+      "price": {
+        "min": 1.09,
+        "max": 50.18,
+        "mean": 1.95,
+        "median": 1.49,
+        "suggested": 1.33,
+        "quantity": 177,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "R8 Revolver | Crazy 8 (Field-Tested)",
+      "price": {
+        "min": 0.36,
+        "max": 26.21,
+        "mean": 0.7,
+        "median": 0.61,
+        "suggested": 0.61,
+        "quantity": 742,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "R8 Revolver | Crazy 8 (Well-Worn)",
+      "price": {
+        "min": 0.4,
+        "max": 5.83,
+        "mean": 0.57,
+        "median": 0.54,
+        "suggested": 0.52,
+        "quantity": 327,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "R8 Revolver | Crazy 8 (Battle-Scarred)",
+      "price": {
+        "min": 0.41,
+        "max": 25.09,
+        "mean": 0.88,
+        "median": 0.55,
+        "suggested": 0.52,
+        "quantity": 230,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "R8 Revolver | Crazy 8 (Factory New)",
+        "price": {
+          "min": 5.06,
+          "max": 58.35,
+          "mean": 11.94,
+          "median": 9.35,
+          "suggested": 6.48,
+          "quantity": 51,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "R8 Revolver | Crazy 8 (Minimal Wear)",
+        "price": {
+          "min": 1.09,
+          "max": 50.18,
+          "mean": 1.95,
+          "median": 1.49,
+          "suggested": 1.33,
+          "quantity": 177,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "R8 Revolver | Crazy 8 (Field-Tested)",
+        "price": {
+          "min": 0.36,
+          "max": 26.21,
+          "mean": 0.7,
+          "median": 0.61,
+          "suggested": 0.61,
+          "quantity": 742,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "R8 Revolver | Crazy 8 (Well-Worn)",
+        "price": {
+          "min": 0.4,
+          "max": 5.83,
+          "mean": 0.57,
+          "median": 0.54,
+          "suggested": 0.52,
+          "quantity": 327,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "R8 Revolver | Crazy 8 (Battle-Scarred)",
+        "price": {
+          "min": 0.41,
+          "max": 25.09,
+          "mean": 0.88,
+          "median": 0.55,
+          "suggested": 0.52,
+          "quantity": 230,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Crazy 8 (Factory New)",
+        "price": {
+          "min": 6.09,
+          "max": 58.34,
+          "mean": 15.59,
+          "median": 11.49,
+          "suggested": 7.1,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Crazy 8 (Minimal Wear)",
+        "price": {
+          "min": 1.59,
+          "max": 64.18,
+          "mean": 5.02,
+          "median": 1.89,
+          "suggested": 1.95,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Crazy 8 (Field-Tested)",
+        "price": {
+          "min": 0.61,
+          "max": 26.71,
+          "mean": 1.31,
+          "median": 0.91,
+          "suggested": 0.9,
+          "quantity": 233,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Crazy 8 (Well-Worn)",
+        "price": {
+          "min": 0.54,
+          "max": 23.34,
+          "mean": 1.8,
+          "median": 0.72,
+          "suggested": 0.75,
+          "quantity": 129,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Crazy 8 (Battle-Scarred)",
+        "price": {
+          "min": 0.6,
+          "max": 22.04,
+          "mean": 1.05,
+          "median": 0.71,
+          "suggested": 0.74,
+          "quantity": 69,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir R8 Revolver | Crazy 8 (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir R8 Revolver | Crazy 8 (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir R8 Revolver | Crazy 8 (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir R8 Revolver | Crazy 8 (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir R8 Revolver | Crazy 8 (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:46.691Z"
+}

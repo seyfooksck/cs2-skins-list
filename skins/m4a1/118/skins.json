@@ -1,0 +1,310 @@
+{
+  "id": "skin-6bdcfb1366c6",
+  "name": "M4A4 | Turbine",
+  "paint_index": "118",
+  "weapon": {
+    "id": "weapon_m4a1",
+    "weapon_id": 16,
+    "name": "M4A4",
+    "slug": "m4a1"
+  },
+  "pattern": {
+    "id": "m4a4_fusion",
+    "name": "Turbine"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.85,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with a wine-colored base.\\n\\n<i>WARNING: Prolonged firing may cause overheating</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 24.3,
+      "max": 210.05,
+      "mean": 49.93,
+      "median": 33.83,
+      "suggested": 34.59,
+      "quantity": 32,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 3.83,
+      "max": 236.89,
+      "mean": 11.18,
+      "median": 4.95,
+      "suggested": 5.06,
+      "quantity": 97,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.44,
+      "max": 60.94,
+      "mean": 2.98,
+      "median": 1.98,
+      "suggested": 1.93,
+      "quantity": 445,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.37,
+      "max": 3.5,
+      "mean": 1.89,
+      "median": 1.73,
+      "suggested": 1.7,
+      "quantity": 23,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.17,
+      "max": 13.65,
+      "mean": 1.72,
+      "median": 1.32,
+      "suggested": 1.43,
+      "quantity": 47,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A4 | Turbine (Factory New)",
+      "price": {
+        "min": 24.3,
+        "max": 210.05,
+        "mean": 49.93,
+        "median": 33.83,
+        "suggested": 34.59,
+        "quantity": 32,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A4 | Turbine (Minimal Wear)",
+      "price": {
+        "min": 3.83,
+        "max": 236.89,
+        "mean": 11.18,
+        "median": 4.95,
+        "suggested": 5.06,
+        "quantity": 97,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A4 | Turbine (Field-Tested)",
+      "price": {
+        "min": 1.44,
+        "max": 60.94,
+        "mean": 2.98,
+        "median": 1.98,
+        "suggested": 1.93,
+        "quantity": 445,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M4A4 | Turbine (Well-Worn)",
+      "price": {
+        "min": 1.37,
+        "max": 3.5,
+        "mean": 1.89,
+        "median": 1.73,
+        "suggested": 1.7,
+        "quantity": 23,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M4A4 | Turbine (Battle-Scarred)",
+      "price": {
+        "min": 1.17,
+        "max": 13.65,
+        "mean": 1.72,
+        "median": 1.32,
+        "suggested": 1.43,
+        "quantity": 47,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A4 | Turbine (Factory New)",
+        "price": {
+          "min": 24.3,
+          "max": 210.05,
+          "mean": 49.93,
+          "median": 33.83,
+          "suggested": 34.59,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A4 | Turbine (Minimal Wear)",
+        "price": {
+          "min": 3.83,
+          "max": 236.89,
+          "mean": 11.18,
+          "median": 4.95,
+          "suggested": 5.06,
+          "quantity": 97,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A4 | Turbine (Field-Tested)",
+        "price": {
+          "min": 1.44,
+          "max": 60.94,
+          "mean": 2.98,
+          "median": 1.98,
+          "suggested": 1.93,
+          "quantity": 445,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M4A4 | Turbine (Well-Worn)",
+        "price": {
+          "min": 1.37,
+          "max": 3.5,
+          "mean": 1.89,
+          "median": 1.73,
+          "suggested": 1.7,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M4A4 | Turbine (Battle-Scarred)",
+        "price": {
+          "min": 1.17,
+          "max": 13.65,
+          "mean": 1.72,
+          "median": 1.32,
+          "suggested": 1.43,
+          "quantity": 47,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ M4A4 | Turbine (Factory New)",
+        "price": {
+          "min": 27.1,
+          "max": 42.76,
+          "mean": 32.71,
+          "median": 32.65,
+          "suggested": 33.91,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ M4A4 | Turbine (Minimal Wear)",
+        "price": {
+          "min": 8.38,
+          "max": 34.25,
+          "mean": 13.02,
+          "median": 12.8,
+          "suggested": 10.44,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ M4A4 | Turbine (Field-Tested)",
+        "price": {
+          "min": 3.5,
+          "max": 6.15,
+          "mean": 4.5,
+          "median": 4.29,
+          "suggested": 4.38,
+          "quantity": 49,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ M4A4 | Turbine (Well-Worn)",
+        "price": {
+          "min": 3.29,
+          "max": 5.69,
+          "mean": 4.22,
+          "median": 3.84,
+          "suggested": 4.11,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ M4A4 | Turbine (Battle-Scarred)",
+        "price": {
+          "min": 3.33,
+          "max": 6.15,
+          "mean": 4.13,
+          "median": 4,
+          "suggested": 3.94,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A4 | Turbine (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A4 | Turbine (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A4 | Turbine (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M4A4 | Turbine (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M4A4 | Turbine (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:40.605Z"
+}

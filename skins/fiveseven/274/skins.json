@@ -1,0 +1,182 @@
+{
+  "id": "skin-5a5e6018f632",
+  "name": "Five-SeveN | Copper Galaxy",
+  "paint_index": "274",
+  "weapon": {
+    "id": "weapon_fiveseven",
+    "weapon_id": 3,
+    "name": "Five-SeveN",
+    "slug": "fiveseven"
+  },
+  "pattern": {
+    "id": "am_copper_flecks",
+    "name": "Copper Galaxy"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.2,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. It has been painted with metal flake paint.\\n\\n<i>Stars are just pin pricks at the darkness</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 31.51,
+      "max": 583.47,
+      "mean": 75.92,
+      "median": 47.18,
+      "suggested": 42.99,
+      "quantity": 74,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 14.82,
+      "max": 108.93,
+      "mean": 29.78,
+      "median": 22.93,
+      "suggested": 17.19,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "ft": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Five-SeveN | Copper Galaxy (Factory New)",
+      "price": {
+        "min": 31.51,
+        "max": 583.47,
+        "mean": 75.92,
+        "median": 47.18,
+        "suggested": 42.99,
+        "quantity": 74,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Five-SeveN | Copper Galaxy (Minimal Wear)",
+      "price": {
+        "min": 14.82,
+        "max": 108.93,
+        "mean": 29.78,
+        "median": 22.93,
+        "suggested": 17.19,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Five-SeveN | Copper Galaxy (Field-Tested)",
+      "price": null,
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Five-SeveN | Copper Galaxy (Factory New)",
+        "price": {
+          "min": 31.51,
+          "max": 583.47,
+          "mean": 75.92,
+          "median": 47.18,
+          "suggested": 42.99,
+          "quantity": 74,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Five-SeveN | Copper Galaxy (Minimal Wear)",
+        "price": {
+          "min": 14.82,
+          "max": 108.93,
+          "mean": 29.78,
+          "median": 22.93,
+          "suggested": 17.19,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Five-SeveN | Copper Galaxy (Field-Tested)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Copper Galaxy (Factory New)",
+        "price": {
+          "min": 29.44,
+          "max": 145.86,
+          "mean": 50.84,
+          "median": 48.19,
+          "suggested": 33.91,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Copper Galaxy (Minimal Wear)",
+        "price": {
+          "min": 22.17,
+          "max": 198.38,
+          "mean": 55.43,
+          "median": 42.67,
+          "suggested": 24.71,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Copper Galaxy (Field-Tested)",
+        "price": {
+          "min": 38.96,
+          "max": 64.12,
+          "mean": 50.89,
+          "median": 48.23,
+          "suggested": 23.9,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Five-SeveN | Copper Galaxy (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Five-SeveN | Copper Galaxy (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Five-SeveN | Copper Galaxy (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:29.882Z"
+}

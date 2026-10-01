@@ -1,0 +1,310 @@
+{
+  "id": "skin-55623b84dd72",
+  "name": "Desert Eagle | Ocean Drive",
+  "paint_index": "1090",
+  "weapon": {
+    "id": "weapon_deagle",
+    "weapon_id": 1,
+    "name": "Desert Eagle",
+    "slug": "deagle"
+  },
+  "pattern": {
+    "id": "cu_deagle_kitch",
+    "name": "Ocean Drive"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. It has been custom painted using oversaturated colors and different shapes.\\n\\n<i>Can't miss—both the colors and when using the weapon</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 333.52,
+      "max": 1947.62,
+      "mean": 518.9,
+      "median": 396.36,
+      "suggested": 452.78,
+      "quantity": 16,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 84.1,
+      "max": 213.57,
+      "mean": 128.76,
+      "median": 112.17,
+      "suggested": 124,
+      "quantity": 30,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 66.9,
+      "max": 128.36,
+      "mean": 82.2,
+      "median": 80.06,
+      "suggested": 86.46,
+      "quantity": 95,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 59.28,
+      "max": 93.92,
+      "mean": 73.31,
+      "median": 71.79,
+      "suggested": 79.25,
+      "quantity": 28,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 63.71,
+      "max": 116.68,
+      "mean": 79.54,
+      "median": 78.02,
+      "suggested": 79.28,
+      "quantity": 17,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Desert Eagle | Ocean Drive (Factory New)",
+      "price": {
+        "min": 333.52,
+        "max": 1947.62,
+        "mean": 518.9,
+        "median": 396.36,
+        "suggested": 452.78,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Desert Eagle | Ocean Drive (Minimal Wear)",
+      "price": {
+        "min": 84.1,
+        "max": 213.57,
+        "mean": 128.76,
+        "median": 112.17,
+        "suggested": 124,
+        "quantity": 30,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Desert Eagle | Ocean Drive (Field-Tested)",
+      "price": {
+        "min": 66.9,
+        "max": 128.36,
+        "mean": 82.2,
+        "median": 80.06,
+        "suggested": 86.46,
+        "quantity": 95,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Desert Eagle | Ocean Drive (Well-Worn)",
+      "price": {
+        "min": 59.28,
+        "max": 93.92,
+        "mean": 73.31,
+        "median": 71.79,
+        "suggested": 79.25,
+        "quantity": 28,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Desert Eagle | Ocean Drive (Battle-Scarred)",
+      "price": {
+        "min": 63.71,
+        "max": 116.68,
+        "mean": 79.54,
+        "median": 78.02,
+        "suggested": 79.28,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Desert Eagle | Ocean Drive (Factory New)",
+        "price": {
+          "min": 333.52,
+          "max": 1947.62,
+          "mean": 518.9,
+          "median": 396.36,
+          "suggested": 452.78,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Desert Eagle | Ocean Drive (Minimal Wear)",
+        "price": {
+          "min": 84.1,
+          "max": 213.57,
+          "mean": 128.76,
+          "median": 112.17,
+          "suggested": 124,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Desert Eagle | Ocean Drive (Field-Tested)",
+        "price": {
+          "min": 66.9,
+          "max": 128.36,
+          "mean": 82.2,
+          "median": 80.06,
+          "suggested": 86.46,
+          "quantity": 95,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Desert Eagle | Ocean Drive (Well-Worn)",
+        "price": {
+          "min": 59.28,
+          "max": 93.92,
+          "mean": 73.31,
+          "median": 71.79,
+          "suggested": 79.25,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Desert Eagle | Ocean Drive (Battle-Scarred)",
+        "price": {
+          "min": 63.71,
+          "max": 116.68,
+          "mean": 79.54,
+          "median": 78.02,
+          "suggested": 79.28,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Ocean Drive (Factory New)",
+        "price": {
+          "min": 479.91,
+          "max": 641.8,
+          "mean": 560.87,
+          "median": 560.87,
+          "suggested": 490.93,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Ocean Drive (Minimal Wear)",
+        "price": {
+          "min": 148.94,
+          "max": 361.74,
+          "mean": 238.04,
+          "median": 178.73,
+          "suggested": 196.63,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Ocean Drive (Field-Tested)",
+        "price": {
+          "min": 77.31,
+          "max": 107.36,
+          "mean": 89.59,
+          "median": 88.73,
+          "suggested": 107.13,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Ocean Drive (Well-Worn)",
+        "price": {
+          "min": 71.68,
+          "max": 138.77,
+          "mean": 106.12,
+          "median": 107.01,
+          "suggested": 87.59,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Ocean Drive (Battle-Scarred)",
+        "price": {
+          "min": 80.52,
+          "max": 80.52,
+          "mean": 80.52,
+          "median": 80.52,
+          "suggested": 87.49,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Desert Eagle | Ocean Drive (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Desert Eagle | Ocean Drive (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Desert Eagle | Ocean Drive (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Desert Eagle | Ocean Drive (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Desert Eagle | Ocean Drive (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:28.256Z"
+}

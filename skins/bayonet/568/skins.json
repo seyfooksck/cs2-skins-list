@@ -1,0 +1,137 @@
+{
+  "id": "skin-9af6c8a5a9c1",
+  "name": "★ Bayonet | Gamma Doppler",
+  "paint_index": "568",
+  "weapon": {
+    "id": "weapon_bayonet",
+    "weapon_id": 500,
+    "name": "Bayonet",
+    "slug": "bayonet"
+  },
+  "pattern": {
+    "id": "am_emerald_marbleized",
+    "name": "Gamma Doppler"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Relatively unchanged in its design since World War II, the bayonet still retains a place in modern military strategy. Bayonet charges have continued to be effective as recently as the second Gulf War and the war in Afghanistan. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1899.56,
+      "max": 2048.29,
+      "mean": 1973.93,
+      "median": 1973.93,
+      "suggested": 1818.25,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2781.52,
+      "max": 2781.52,
+      "mean": 2781.52,
+      "median": 2781.52,
+      "suggested": 3272.07,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Bayonet | Gamma Doppler (Factory New)",
+      "price": {
+        "min": 1899.56,
+        "max": 2048.29,
+        "mean": 1973.93,
+        "median": 1973.93,
+        "suggested": 1818.25,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Bayonet | Gamma Doppler (Minimal Wear)",
+      "price": {
+        "min": 2781.52,
+        "max": 2781.52,
+        "mean": 2781.52,
+        "median": 2781.52,
+        "suggested": 3272.07,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Bayonet | Gamma Doppler (Factory New)",
+        "price": {
+          "min": 1899.56,
+          "max": 2048.29,
+          "mean": 1973.93,
+          "median": 1973.93,
+          "suggested": 1818.25,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Bayonet | Gamma Doppler (Minimal Wear)",
+        "price": {
+          "min": 2781.52,
+          "max": 2781.52,
+          "mean": 2781.52,
+          "median": 2781.52,
+          "suggested": 3272.07,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Gamma Doppler (Factory New)",
+        "price": {
+          "min": 3800.95,
+          "max": 3800.95,
+          "mean": 3800.95,
+          "median": 3800.95,
+          "suggested": 3822.79,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Gamma Doppler (Minimal Wear)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:26.497Z"
+}

@@ -1,0 +1,204 @@
+{
+  "id": "skin-56be8a3a2bb8",
+  "name": "★ Driver Gloves | Overtake",
+  "paint_index": "10043",
+  "weapon": {
+    "id": "slick_gloves",
+    "weapon_id": 5031,
+    "name": "Driver Gloves",
+    "slug": "slick_gloves"
+  },
+  "pattern": {
+    "id": "slick_stitched_black_orange",
+    "name": "Overtake"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_gloves",
+    "name": "Gloves"
+  },
+  "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "These driving gloves offer protection from the elements while still maintaining tactile sensation. Speed is of the essence with these classic black and tan leather gloves.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 101.76,
+      "max": 287.05,
+      "mean": 137.86,
+      "median": 120.46,
+      "suggested": 136.4,
+      "quantity": 46,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 54.85,
+      "max": 180.88,
+      "mean": 79.8,
+      "median": 78.18,
+      "suggested": 70.82,
+      "quantity": 97,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 55.88,
+      "max": 134.19,
+      "mean": 76.27,
+      "median": 69.69,
+      "suggested": 65.22,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 45.98,
+      "max": 100.36,
+      "mean": 71.15,
+      "median": 64.2,
+      "suggested": 58.87,
+      "quantity": 18,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Driver Gloves | Overtake (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Driver Gloves | Overtake (Minimal Wear)",
+      "price": {
+        "min": 101.76,
+        "max": 287.05,
+        "mean": 137.86,
+        "median": 120.46,
+        "suggested": 136.4,
+        "quantity": 46,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Driver Gloves | Overtake (Field-Tested)",
+      "price": {
+        "min": 54.85,
+        "max": 180.88,
+        "mean": 79.8,
+        "median": 78.18,
+        "suggested": 70.82,
+        "quantity": 97,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Driver Gloves | Overtake (Well-Worn)",
+      "price": {
+        "min": 55.88,
+        "max": 134.19,
+        "mean": 76.27,
+        "median": 69.69,
+        "suggested": 65.22,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Driver Gloves | Overtake (Battle-Scarred)",
+      "price": {
+        "min": 45.98,
+        "max": 100.36,
+        "mean": 71.15,
+        "median": 64.2,
+        "suggested": 58.87,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Driver Gloves | Overtake (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Driver Gloves | Overtake (Minimal Wear)",
+        "price": {
+          "min": 101.76,
+          "max": 287.05,
+          "mean": 137.86,
+          "median": 120.46,
+          "suggested": 136.4,
+          "quantity": 46,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Driver Gloves | Overtake (Field-Tested)",
+        "price": {
+          "min": 54.85,
+          "max": 180.88,
+          "mean": 79.8,
+          "median": 78.18,
+          "suggested": 70.82,
+          "quantity": 97,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Driver Gloves | Overtake (Well-Worn)",
+        "price": {
+          "min": 55.88,
+          "max": 134.19,
+          "mean": 76.27,
+          "median": 69.69,
+          "suggested": 65.22,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Driver Gloves | Overtake (Battle-Scarred)",
+        "price": {
+          "min": 45.98,
+          "max": 100.36,
+          "mean": 71.15,
+          "median": 64.2,
+          "suggested": 58.87,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:23.547Z"
+}

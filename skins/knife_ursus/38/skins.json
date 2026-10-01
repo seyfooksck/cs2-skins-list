@@ -1,0 +1,145 @@
+{
+  "id": "skin-8512690f4f86",
+  "name": "★ Ursus Knife | Fade",
+  "paint_index": "38",
+  "weapon": {
+    "id": "weapon_knife_ursus",
+    "weapon_id": 519,
+    "name": "Ursus Knife",
+    "slug": "knife_ursus"
+  },
+  "pattern": {
+    "id": "aa_fade",
+    "name": "Fade"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This tanto-style survival knife features a faceted blade and full tang, complete with impact pommel. No fuss, no moving parts - just a reliable blade that's ready to work. It has been painted by airbrushing transparent paints that fade together over a chrome base coat.\\n\\n<i>This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 205.25,
+      "max": 768.11,
+      "mean": 294.63,
+      "median": 247.52,
+      "suggested": 258.8,
+      "quantity": 28,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 368.69,
+      "max": 368.69,
+      "mean": 368.69,
+      "median": 368.69,
+      "suggested": 433.08,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Ursus Knife | Fade (Factory New)",
+      "price": {
+        "min": 205.25,
+        "max": 768.11,
+        "mean": 294.63,
+        "median": 247.52,
+        "suggested": 258.8,
+        "quantity": 28,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Ursus Knife | Fade (Minimal Wear)",
+      "price": {
+        "min": 368.69,
+        "max": 368.69,
+        "mean": 368.69,
+        "median": 368.69,
+        "suggested": 433.08,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Ursus Knife | Fade (Factory New)",
+        "price": {
+          "min": 205.25,
+          "max": 768.11,
+          "mean": 294.63,
+          "median": 247.52,
+          "suggested": 258.8,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Ursus Knife | Fade (Minimal Wear)",
+        "price": {
+          "min": 368.69,
+          "max": 368.69,
+          "mean": 368.69,
+          "median": 368.69,
+          "suggested": 433.08,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Ursus Knife | Fade (Factory New)",
+        "price": {
+          "min": 262.56,
+          "max": 449.27,
+          "mean": 314.45,
+          "median": 292.81,
+          "suggested": 318,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Ursus Knife | Fade (Minimal Wear)",
+        "price": {
+          "min": 320.69,
+          "max": 320.69,
+          "mean": 320.69,
+          "median": 320.69,
+          "suggested": 438.5,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:39.025Z"
+}

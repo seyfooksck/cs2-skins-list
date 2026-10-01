@@ -1,0 +1,145 @@
+{
+  "id": "skin-2d238e77693f",
+  "name": "★ Survival Knife | Doppler",
+  "paint_index": "416",
+  "weapon": {
+    "id": "weapon_knife_canis",
+    "weapon_id": 518,
+    "name": "Survival Knife",
+    "slug": "knife_canis"
+  },
+  "pattern": {
+    "id": "am_sapphire_marbleized",
+    "name": "Doppler"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 563.28,
+      "max": 972.93,
+      "mean": 768.11,
+      "median": 768.11,
+      "suggested": 546.2,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 668.77,
+      "max": 668.77,
+      "mean": 668.77,
+      "median": 668.77,
+      "suggested": 599.85,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Survival Knife | Doppler (Factory New)",
+      "price": {
+        "min": 563.28,
+        "max": 972.93,
+        "mean": 768.11,
+        "median": 768.11,
+        "suggested": 546.2,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Survival Knife | Doppler (Minimal Wear)",
+      "price": {
+        "min": 668.77,
+        "max": 668.77,
+        "mean": 668.77,
+        "median": 668.77,
+        "suggested": 599.85,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Survival Knife | Doppler (Factory New)",
+        "price": {
+          "min": 563.28,
+          "max": 972.93,
+          "mean": 768.11,
+          "median": 768.11,
+          "suggested": 546.2,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Survival Knife | Doppler (Minimal Wear)",
+        "price": {
+          "min": 668.77,
+          "max": 668.77,
+          "mean": 668.77,
+          "median": 668.77,
+          "suggested": 599.85,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Doppler (Factory New)",
+        "price": {
+          "min": 870.52,
+          "max": 870.52,
+          "mean": 870.52,
+          "median": 870.52,
+          "suggested": 679.72,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Doppler (Minimal Wear)",
+        "price": {
+          "min": 298.98,
+          "max": 301.92,
+          "mean": 300.45,
+          "median": 300.45,
+          "suggested": 344.81,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:33.346Z"
+}

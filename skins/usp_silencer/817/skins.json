@@ -1,0 +1,310 @@
+{
+  "id": "skin-9e44f13c59da",
+  "name": "USP-S | Flashback",
+  "paint_index": "817",
+  "weapon": {
+    "id": "weapon_usp_silencer",
+    "weapon_id": 61,
+    "name": "USP-S",
+    "slug": "usp_silencer"
+  },
+  "pattern": {
+    "id": "cu_usp_flashback",
+    "name": "Flashback"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise. It has been hand painted in an attempt to make a suggestion about the duality of man.\\n\\n<i>Sierra Hotel Hotel Hotel</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 7.29,
+      "max": 465.61,
+      "mean": 49.99,
+      "median": 10.64,
+      "suggested": 9.33,
+      "quantity": 47,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.81,
+      "max": 175.04,
+      "mean": 2.18,
+      "median": 1.09,
+      "suggested": 1.1,
+      "quantity": 211,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.54,
+      "max": 12.99,
+      "mean": 1.1,
+      "median": 0.82,
+      "suggested": 0.73,
+      "quantity": 293,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.56,
+      "max": 1.86,
+      "mean": 0.93,
+      "median": 0.92,
+      "suggested": 0.73,
+      "quantity": 67,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.65,
+      "max": 18.03,
+      "mean": 1.69,
+      "median": 1.31,
+      "suggested": 0.84,
+      "quantity": 51,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "USP-S | Flashback (Factory New)",
+      "price": {
+        "min": 7.29,
+        "max": 465.61,
+        "mean": 49.99,
+        "median": 10.64,
+        "suggested": 9.33,
+        "quantity": 47,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "USP-S | Flashback (Minimal Wear)",
+      "price": {
+        "min": 0.81,
+        "max": 175.04,
+        "mean": 2.18,
+        "median": 1.09,
+        "suggested": 1.1,
+        "quantity": 211,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "USP-S | Flashback (Field-Tested)",
+      "price": {
+        "min": 0.54,
+        "max": 12.99,
+        "mean": 1.1,
+        "median": 0.82,
+        "suggested": 0.73,
+        "quantity": 293,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "USP-S | Flashback (Well-Worn)",
+      "price": {
+        "min": 0.56,
+        "max": 1.86,
+        "mean": 0.93,
+        "median": 0.92,
+        "suggested": 0.73,
+        "quantity": 67,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "USP-S | Flashback (Battle-Scarred)",
+      "price": {
+        "min": 0.65,
+        "max": 18.03,
+        "mean": 1.69,
+        "median": 1.31,
+        "suggested": 0.84,
+        "quantity": 51,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "USP-S | Flashback (Factory New)",
+        "price": {
+          "min": 7.29,
+          "max": 465.61,
+          "mean": 49.99,
+          "median": 10.64,
+          "suggested": 9.33,
+          "quantity": 47,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "USP-S | Flashback (Minimal Wear)",
+        "price": {
+          "min": 0.81,
+          "max": 175.04,
+          "mean": 2.18,
+          "median": 1.09,
+          "suggested": 1.1,
+          "quantity": 211,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "USP-S | Flashback (Field-Tested)",
+        "price": {
+          "min": 0.54,
+          "max": 12.99,
+          "mean": 1.1,
+          "median": 0.82,
+          "suggested": 0.73,
+          "quantity": 293,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "USP-S | Flashback (Well-Worn)",
+        "price": {
+          "min": 0.56,
+          "max": 1.86,
+          "mean": 0.93,
+          "median": 0.92,
+          "suggested": 0.73,
+          "quantity": 67,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "USP-S | Flashback (Battle-Scarred)",
+        "price": {
+          "min": 0.65,
+          "max": 18.03,
+          "mean": 1.69,
+          "median": 1.31,
+          "suggested": 0.84,
+          "quantity": 51,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ USP-S | Flashback (Factory New)",
+        "price": {
+          "min": 3.65,
+          "max": 103.85,
+          "mean": 8.41,
+          "median": 4.71,
+          "suggested": 4.55,
+          "quantity": 54,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ USP-S | Flashback (Minimal Wear)",
+        "price": {
+          "min": 1.62,
+          "max": 126.03,
+          "mean": 6.28,
+          "median": 2.39,
+          "suggested": 2.26,
+          "quantity": 83,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ USP-S | Flashback (Field-Tested)",
+        "price": {
+          "min": 1.3,
+          "max": 63.49,
+          "mean": 3.86,
+          "median": 1.76,
+          "suggested": 1.5,
+          "quantity": 121,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ USP-S | Flashback (Well-Worn)",
+        "price": {
+          "min": 1.58,
+          "max": 63.42,
+          "mean": 4.85,
+          "median": 1.91,
+          "suggested": 1.83,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ USP-S | Flashback (Battle-Scarred)",
+        "price": {
+          "min": 2.56,
+          "max": 7.92,
+          "mean": 3.35,
+          "median": 2.95,
+          "suggested": 2.93,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir USP-S | Flashback (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir USP-S | Flashback (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir USP-S | Flashback (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir USP-S | Flashback (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir USP-S | Flashback (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:50.500Z"
+}

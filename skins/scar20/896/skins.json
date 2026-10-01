@@ -1,0 +1,258 @@
+{
+  "id": "skin-6bff4afdb6f2",
+  "name": "SCAR-20 | Torn",
+  "paint_index": "896",
+  "weapon": {
+    "id": "weapon_scar20",
+    "weapon_id": 38,
+    "name": "SCAR-20",
+    "slug": "scar20"
+  },
+  "pattern": {
+    "id": "sp_scar20_striker_dust",
+    "name": "Torn"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.45,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The SCAR-20 is a semi-automatic sniper rifle that trades a high rate of fire and powerful long-distance damage for sluggish movement speed and big price tag. It has been spray-painted with a randomized stripe pattern.\\n\\n<i>To shreds...</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.92,
+      "max": 1036.24,
+      "mean": 31.81,
+      "median": 5.58,
+      "suggested": 3.69,
+      "quantity": 42,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.04,
+      "max": 37.88,
+      "mean": 3.35,
+      "median": 1.88,
+      "suggested": 1.28,
+      "quantity": 28,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.68,
+      "max": 39.13,
+      "mean": 3.75,
+      "median": 2.96,
+      "suggested": 0.8,
+      "quantity": 65,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.98,
+      "max": 1.67,
+      "mean": 1.26,
+      "median": 1.13,
+      "suggested": 1.13,
+      "quantity": 5,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SCAR-20 | Torn (Factory New)",
+      "price": {
+        "min": 2.92,
+        "max": 1036.24,
+        "mean": 31.81,
+        "median": 5.58,
+        "suggested": 3.69,
+        "quantity": 42,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SCAR-20 | Torn (Minimal Wear)",
+      "price": {
+        "min": 1.04,
+        "max": 37.88,
+        "mean": 3.35,
+        "median": 1.88,
+        "suggested": 1.28,
+        "quantity": 28,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "SCAR-20 | Torn (Field-Tested)",
+      "price": {
+        "min": 0.68,
+        "max": 39.13,
+        "mean": 3.75,
+        "median": 2.96,
+        "suggested": 0.8,
+        "quantity": 65,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "SCAR-20 | Torn (Well-Worn)",
+      "price": {
+        "min": 0.98,
+        "max": 1.67,
+        "mean": 1.26,
+        "median": 1.13,
+        "suggested": 1.13,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SCAR-20 | Torn (Factory New)",
+        "price": {
+          "min": 2.92,
+          "max": 1036.24,
+          "mean": 31.81,
+          "median": 5.58,
+          "suggested": 3.69,
+          "quantity": 42,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "SCAR-20 | Torn (Minimal Wear)",
+        "price": {
+          "min": 1.04,
+          "max": 37.88,
+          "mean": 3.35,
+          "median": 1.88,
+          "suggested": 1.28,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "SCAR-20 | Torn (Field-Tested)",
+        "price": {
+          "min": 0.68,
+          "max": 39.13,
+          "mean": 3.75,
+          "median": 2.96,
+          "suggested": 0.8,
+          "quantity": 65,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "SCAR-20 | Torn (Well-Worn)",
+        "price": {
+          "min": 0.98,
+          "max": 1.67,
+          "mean": 1.26,
+          "median": 1.13,
+          "suggested": 1.13,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ SCAR-20 | Torn (Factory New)",
+        "price": {
+          "min": 3.02,
+          "max": 31.45,
+          "mean": 6.38,
+          "median": 3.49,
+          "suggested": 3.25,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ SCAR-20 | Torn (Minimal Wear)",
+        "price": {
+          "min": 1.46,
+          "max": 3.66,
+          "mean": 2.38,
+          "median": 2.08,
+          "suggested": 1.55,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ SCAR-20 | Torn (Field-Tested)",
+        "price": {
+          "min": 1.09,
+          "max": 2.7,
+          "mean": 1.45,
+          "median": 1.24,
+          "suggested": 1.05,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ SCAR-20 | Torn (Well-Worn)",
+        "price": {
+          "min": 1.3,
+          "max": 57.71,
+          "mean": 20.09,
+          "median": 1.3,
+          "suggested": 1.26,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SCAR-20 | Torn (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir SCAR-20 | Torn (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir SCAR-20 | Torn (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir SCAR-20 | Torn (Well-Worn)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:47.783Z"
+}

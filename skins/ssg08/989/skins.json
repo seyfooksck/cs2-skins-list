@@ -1,0 +1,310 @@
+{
+  "id": "skin-aeb0591ce152",
+  "name": "SSG 08 | Parallax",
+  "paint_index": "989",
+  "weapon": {
+    "id": "weapon_ssg08",
+    "weapon_id": 40,
+    "name": "SSG 08",
+    "slug": "ssg08"
+  },
+  "pattern": {
+    "id": "cu_ssg08_chromatic",
+    "name": "Parallax"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship. The colors in this custom paint job were applied in offset positions, leading to an eye-popping look.\\n\\n<i>Shoot twice, kill once</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 19.29,
+      "max": 216.41,
+      "mean": 48.39,
+      "median": 29.66,
+      "suggested": 23.74,
+      "quantity": 26,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 8.76,
+      "max": 25.87,
+      "mean": 14.25,
+      "median": 12.71,
+      "suggested": 11.13,
+      "quantity": 56,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 3.37,
+      "max": 24.59,
+      "mean": 6.17,
+      "median": 4.82,
+      "suggested": 4.88,
+      "quantity": 56,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 3.22,
+      "max": 10.64,
+      "mean": 5.33,
+      "median": 4.33,
+      "suggested": 3.69,
+      "quantity": 37,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 2.85,
+      "max": 649.23,
+      "mean": 40.8,
+      "median": 3.38,
+      "suggested": 3.53,
+      "quantity": 18,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SSG 08 | Parallax (Factory New)",
+      "price": {
+        "min": 19.29,
+        "max": 216.41,
+        "mean": 48.39,
+        "median": 29.66,
+        "suggested": 23.74,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SSG 08 | Parallax (Minimal Wear)",
+      "price": {
+        "min": 8.76,
+        "max": 25.87,
+        "mean": 14.25,
+        "median": 12.71,
+        "suggested": 11.13,
+        "quantity": 56,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "SSG 08 | Parallax (Field-Tested)",
+      "price": {
+        "min": 3.37,
+        "max": 24.59,
+        "mean": 6.17,
+        "median": 4.82,
+        "suggested": 4.88,
+        "quantity": 56,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "SSG 08 | Parallax (Well-Worn)",
+      "price": {
+        "min": 3.22,
+        "max": 10.64,
+        "mean": 5.33,
+        "median": 4.33,
+        "suggested": 3.69,
+        "quantity": 37,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "SSG 08 | Parallax (Battle-Scarred)",
+      "price": {
+        "min": 2.85,
+        "max": 649.23,
+        "mean": 40.8,
+        "median": 3.38,
+        "suggested": 3.53,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SSG 08 | Parallax (Factory New)",
+        "price": {
+          "min": 19.29,
+          "max": 216.41,
+          "mean": 48.39,
+          "median": 29.66,
+          "suggested": 23.74,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "SSG 08 | Parallax (Minimal Wear)",
+        "price": {
+          "min": 8.76,
+          "max": 25.87,
+          "mean": 14.25,
+          "median": 12.71,
+          "suggested": 11.13,
+          "quantity": 56,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "SSG 08 | Parallax (Field-Tested)",
+        "price": {
+          "min": 3.37,
+          "max": 24.59,
+          "mean": 6.17,
+          "median": 4.82,
+          "suggested": 4.88,
+          "quantity": 56,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "SSG 08 | Parallax (Well-Worn)",
+        "price": {
+          "min": 3.22,
+          "max": 10.64,
+          "mean": 5.33,
+          "median": 4.33,
+          "suggested": 3.69,
+          "quantity": 37,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "SSG 08 | Parallax (Battle-Scarred)",
+        "price": {
+          "min": 2.85,
+          "max": 649.23,
+          "mean": 40.8,
+          "median": 3.38,
+          "suggested": 3.53,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ SSG 08 | Parallax (Factory New)",
+        "price": {
+          "min": 22.07,
+          "max": 57.13,
+          "mean": 33.34,
+          "median": 30.73,
+          "suggested": 25.13,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ SSG 08 | Parallax (Minimal Wear)",
+        "price": {
+          "min": 10.82,
+          "max": 41.43,
+          "mean": 16.36,
+          "median": 12.08,
+          "suggested": 13.77,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ SSG 08 | Parallax (Field-Tested)",
+        "price": {
+          "min": 4.6,
+          "max": 233.39,
+          "mean": 15.51,
+          "median": 5.22,
+          "suggested": 5.59,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ SSG 08 | Parallax (Well-Worn)",
+        "price": {
+          "min": 3.57,
+          "max": 189.1,
+          "mean": 16.54,
+          "median": 3.94,
+          "suggested": 4.36,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ SSG 08 | Parallax (Battle-Scarred)",
+        "price": {
+          "min": 3.72,
+          "max": 25.82,
+          "mean": 8.27,
+          "median": 3.9,
+          "suggested": 4.15,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SSG 08 | Parallax (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir SSG 08 | Parallax (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir SSG 08 | Parallax (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir SSG 08 | Parallax (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir SSG 08 | Parallax (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:48.389Z"
+}

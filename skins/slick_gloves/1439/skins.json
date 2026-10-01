@@ -1,0 +1,204 @@
+{
+  "id": "skin-25977544c37d",
+  "name": "★ Driver Gloves | Hand Sweaters",
+  "paint_index": "1439",
+  "weapon": {
+    "id": "slick_gloves",
+    "weapon_id": 5031,
+    "name": "Driver Gloves",
+    "slug": "slick_gloves"
+  },
+  "pattern": {
+    "id": "glove_driver_knit_argyle_green",
+    "name": "Hand Sweaters"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_gloves",
+    "name": "Gloves"
+  },
+  "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "These driving gloves offer protection from the elements while still maintaining tactile sensation.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 288.55,
+      "max": 453.62,
+      "mean": 334.05,
+      "median": 330.98,
+      "suggested": 362.23,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 122.53,
+      "max": 255.43,
+      "mean": 171.27,
+      "median": 168.39,
+      "suggested": 165.99,
+      "quantity": 26,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 121.34,
+      "max": 151.21,
+      "mean": 130.44,
+      "median": 126.73,
+      "suggested": 148.97,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 126.64,
+      "max": 189.39,
+      "mean": 148.29,
+      "median": 138.81,
+      "suggested": 142.98,
+      "quantity": 6,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Driver Gloves | Hand Sweaters (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Driver Gloves | Hand Sweaters (Minimal Wear)",
+      "price": {
+        "min": 288.55,
+        "max": 453.62,
+        "mean": 334.05,
+        "median": 330.98,
+        "suggested": 362.23,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Driver Gloves | Hand Sweaters (Field-Tested)",
+      "price": {
+        "min": 122.53,
+        "max": 255.43,
+        "mean": 171.27,
+        "median": 168.39,
+        "suggested": 165.99,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Driver Gloves | Hand Sweaters (Well-Worn)",
+      "price": {
+        "min": 121.34,
+        "max": 151.21,
+        "mean": 130.44,
+        "median": 126.73,
+        "suggested": 148.97,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Driver Gloves | Hand Sweaters (Battle-Scarred)",
+      "price": {
+        "min": 126.64,
+        "max": 189.39,
+        "mean": 148.29,
+        "median": 138.81,
+        "suggested": 142.98,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Driver Gloves | Hand Sweaters (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Driver Gloves | Hand Sweaters (Minimal Wear)",
+        "price": {
+          "min": 288.55,
+          "max": 453.62,
+          "mean": 334.05,
+          "median": 330.98,
+          "suggested": 362.23,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Driver Gloves | Hand Sweaters (Field-Tested)",
+        "price": {
+          "min": 122.53,
+          "max": 255.43,
+          "mean": 171.27,
+          "median": 168.39,
+          "suggested": 165.99,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Driver Gloves | Hand Sweaters (Well-Worn)",
+        "price": {
+          "min": 121.34,
+          "max": 151.21,
+          "mean": 130.44,
+          "median": 126.73,
+          "suggested": 148.97,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Driver Gloves | Hand Sweaters (Battle-Scarred)",
+        "price": {
+          "min": 126.64,
+          "max": 189.39,
+          "mean": 148.29,
+          "median": 138.81,
+          "suggested": 142.98,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:23.376Z"
+}

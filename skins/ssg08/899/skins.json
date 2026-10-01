@@ -1,0 +1,258 @@
+{
+  "id": "skin-eba70ef89c7b",
+  "name": "SSG 08 | Bloodshot",
+  "paint_index": "899",
+  "weapon": {
+    "id": "weapon_ssg08",
+    "weapon_id": 40,
+    "name": "SSG 08",
+    "slug": "ssg08"
+  },
+  "pattern": {
+    "id": "cu_ssg08_tickler",
+    "name": "Bloodshot"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0.14,
+  "max_float": 0.6,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship. It has been custom painted with a monstrosity comprised of green tentacles, teeth, and one eyeball.\\n\\n<i>All the better to see you with</i>",
+  "images": {
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "mw": {
+      "min": 120.3,
+      "max": 241.74,
+      "mean": 164.33,
+      "median": 137.47,
+      "suggested": 147.62,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 18.2,
+      "max": 69.37,
+      "mean": 31.33,
+      "median": 33.96,
+      "suggested": 23.07,
+      "quantity": 97,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 19.22,
+      "max": 39.63,
+      "mean": 28.69,
+      "median": 29.38,
+      "suggested": 22.12,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 17.01,
+      "max": 32.53,
+      "mean": 23.26,
+      "median": 22.43,
+      "suggested": 20.41,
+      "quantity": 10,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SSG 08 | Bloodshot (Minimal Wear)",
+      "price": {
+        "min": 120.3,
+        "max": 241.74,
+        "mean": 164.33,
+        "median": 137.47,
+        "suggested": 147.62,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "SSG 08 | Bloodshot (Field-Tested)",
+      "price": {
+        "min": 18.2,
+        "max": 69.37,
+        "mean": 31.33,
+        "median": 33.96,
+        "suggested": 23.07,
+        "quantity": 97,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "SSG 08 | Bloodshot (Well-Worn)",
+      "price": {
+        "min": 19.22,
+        "max": 39.63,
+        "mean": 28.69,
+        "median": 29.38,
+        "suggested": 22.12,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "SSG 08 | Bloodshot (Battle-Scarred)",
+      "price": {
+        "min": 17.01,
+        "max": 32.53,
+        "mean": 23.26,
+        "median": 22.43,
+        "suggested": 20.41,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "mw": {
+        "market_hash_name": "SSG 08 | Bloodshot (Minimal Wear)",
+        "price": {
+          "min": 120.3,
+          "max": 241.74,
+          "mean": 164.33,
+          "median": 137.47,
+          "suggested": 147.62,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "SSG 08 | Bloodshot (Field-Tested)",
+        "price": {
+          "min": 18.2,
+          "max": 69.37,
+          "mean": 31.33,
+          "median": 33.96,
+          "suggested": 23.07,
+          "quantity": 97,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "SSG 08 | Bloodshot (Well-Worn)",
+        "price": {
+          "min": 19.22,
+          "max": 39.63,
+          "mean": 28.69,
+          "median": 29.38,
+          "suggested": 22.12,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "SSG 08 | Bloodshot (Battle-Scarred)",
+        "price": {
+          "min": 17.01,
+          "max": 32.53,
+          "mean": 23.26,
+          "median": 22.43,
+          "suggested": 20.41,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "mw": {
+        "market_hash_name": "StatTrak™ SSG 08 | Bloodshot (Minimal Wear)",
+        "price": {
+          "min": 430.14,
+          "max": 430.14,
+          "mean": 430.14,
+          "median": 430.14,
+          "suggested": 895,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ SSG 08 | Bloodshot (Field-Tested)",
+        "price": {
+          "min": 40.42,
+          "max": 81.92,
+          "mean": 59.08,
+          "median": 65.41,
+          "suggested": 47.14,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ SSG 08 | Bloodshot (Well-Worn)",
+        "price": {
+          "min": 44.26,
+          "max": 67.79,
+          "mean": 59.95,
+          "median": 67.79,
+          "suggested": 46.48,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ SSG 08 | Bloodshot (Battle-Scarred)",
+        "price": {
+          "min": 37.72,
+          "max": 49.17,
+          "mean": 43.35,
+          "median": 43.27,
+          "suggested": 44.77,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "mw": {
+        "market_hash_name": "Souvenir SSG 08 | Bloodshot (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir SSG 08 | Bloodshot (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir SSG 08 | Bloodshot (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir SSG 08 | Bloodshot (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:48.515Z"
+}

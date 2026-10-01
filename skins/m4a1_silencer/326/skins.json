@@ -1,0 +1,121 @@
+{
+  "id": "skin-7678cc4af1fb",
+  "name": "M4A1-S | Knight",
+  "paint_index": "326",
+  "weapon": {
+    "id": "weapon_m4a1_silencer",
+    "weapon_id": 60,
+    "name": "M4A1-S",
+    "slug": "m4a1_silencer"
+  },
+  "pattern": {
+    "id": "am_metals",
+    "name": "Knight"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. It has brass inlays with a renaissance armor theme.\\n\\n<i>What do you mean you can't find Cocinero and Izaki? - Felix Riley, Commanding Officer</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2867.61,
+      "max": 5064.06,
+      "mean": 3770.19,
+      "median": 3761.82,
+      "suggested": 3132.06,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "mw": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A1-S | Knight (Factory New)",
+      "price": {
+        "min": 2867.61,
+        "max": 5064.06,
+        "mean": 3770.19,
+        "median": 3761.82,
+        "suggested": 3132.06,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A1-S | Knight (Minimal Wear)",
+      "price": null,
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A1-S | Knight (Factory New)",
+        "price": {
+          "min": 2867.61,
+          "max": 5064.06,
+          "mean": 3770.19,
+          "median": 3761.82,
+          "suggested": 3132.06,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A1-S | Knight (Minimal Wear)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A1-S | Knight (Factory New)",
+        "price": {
+          "min": 2877.17,
+          "max": 4304.46,
+          "mean": 3460.8,
+          "median": 3200.76,
+          "suggested": 2994.67,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A1-S | Knight (Minimal Wear)",
+        "price": {
+          "min": 2727.8,
+          "max": 2727.8,
+          "mean": 2727.8,
+          "median": 2727.8,
+          "suggested": 2961.15,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:40.737Z"
+}

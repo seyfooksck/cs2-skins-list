@@ -1,0 +1,310 @@
+{
+  "id": "skin-e2e874d00715",
+  "name": "CZ75-Auto | Pole Position",
+  "paint_index": "435",
+  "weapon": {
+    "id": "weapon_cz75a",
+    "weapon_id": 63,
+    "name": "CZ75-Auto",
+    "slug": "cz75a"
+  },
+  "pattern": {
+    "id": "cu_cz75_precision",
+    "name": "Pole Position"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fully automatic variant of the CZ75, the CZ75-Auto is the ideal short-term choice for turning the tables and gaining your opponents weapon. But with very little ammo in the magazine, strong trigger discipline is required. It has been custom painted with a red and grey racing theme.\\n\\n<i>We only get one chance at this, let's do it right - Felix Riley, Commanding Officer</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 7.07,
+      "max": 50.18,
+      "mean": 17.11,
+      "median": 13.52,
+      "suggested": 9.7,
+      "quantity": 35,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.98,
+      "max": 32.83,
+      "mean": 4.62,
+      "median": 3.2,
+      "suggested": 2.54,
+      "quantity": 87,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.11,
+      "max": 2.91,
+      "mean": 1.68,
+      "median": 1.66,
+      "suggested": 1.59,
+      "quantity": 145,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.14,
+      "max": 1.49,
+      "mean": 1.35,
+      "median": 1.37,
+      "suggested": 1.59,
+      "quantity": 13,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.05,
+      "max": 1.63,
+      "mean": 1.33,
+      "median": 1.35,
+      "suggested": 1.4,
+      "quantity": 29,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "CZ75-Auto | Pole Position (Factory New)",
+      "price": {
+        "min": 7.07,
+        "max": 50.18,
+        "mean": 17.11,
+        "median": 13.52,
+        "suggested": 9.7,
+        "quantity": 35,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "CZ75-Auto | Pole Position (Minimal Wear)",
+      "price": {
+        "min": 1.98,
+        "max": 32.83,
+        "mean": 4.62,
+        "median": 3.2,
+        "suggested": 2.54,
+        "quantity": 87,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "CZ75-Auto | Pole Position (Field-Tested)",
+      "price": {
+        "min": 1.11,
+        "max": 2.91,
+        "mean": 1.68,
+        "median": 1.66,
+        "suggested": 1.59,
+        "quantity": 145,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "CZ75-Auto | Pole Position (Well-Worn)",
+      "price": {
+        "min": 1.14,
+        "max": 1.49,
+        "mean": 1.35,
+        "median": 1.37,
+        "suggested": 1.59,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "CZ75-Auto | Pole Position (Battle-Scarred)",
+      "price": {
+        "min": 1.05,
+        "max": 1.63,
+        "mean": 1.33,
+        "median": 1.35,
+        "suggested": 1.4,
+        "quantity": 29,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "CZ75-Auto | Pole Position (Factory New)",
+        "price": {
+          "min": 7.07,
+          "max": 50.18,
+          "mean": 17.11,
+          "median": 13.52,
+          "suggested": 9.7,
+          "quantity": 35,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "CZ75-Auto | Pole Position (Minimal Wear)",
+        "price": {
+          "min": 1.98,
+          "max": 32.83,
+          "mean": 4.62,
+          "median": 3.2,
+          "suggested": 2.54,
+          "quantity": 87,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "CZ75-Auto | Pole Position (Field-Tested)",
+        "price": {
+          "min": 1.11,
+          "max": 2.91,
+          "mean": 1.68,
+          "median": 1.66,
+          "suggested": 1.59,
+          "quantity": 145,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "CZ75-Auto | Pole Position (Well-Worn)",
+        "price": {
+          "min": 1.14,
+          "max": 1.49,
+          "mean": 1.35,
+          "median": 1.37,
+          "suggested": 1.59,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "CZ75-Auto | Pole Position (Battle-Scarred)",
+        "price": {
+          "min": 1.05,
+          "max": 1.63,
+          "mean": 1.33,
+          "median": 1.35,
+          "suggested": 1.4,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Pole Position (Factory New)",
+        "price": {
+          "min": 6.8,
+          "max": 408.42,
+          "mean": 49.66,
+          "median": 8.08,
+          "suggested": 7.93,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Pole Position (Minimal Wear)",
+        "price": {
+          "min": 2.16,
+          "max": 13.89,
+          "mean": 4.84,
+          "median": 3.63,
+          "suggested": 3.12,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Pole Position (Field-Tested)",
+        "price": {
+          "min": 1.44,
+          "max": 123.7,
+          "mean": 5.27,
+          "median": 1.79,
+          "suggested": 1.8,
+          "quantity": 52,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Pole Position (Well-Worn)",
+        "price": {
+          "min": 1.95,
+          "max": 9.34,
+          "mean": 3.68,
+          "median": 3.58,
+          "suggested": 1.79,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Pole Position (Battle-Scarred)",
+        "price": {
+          "min": 1.44,
+          "max": 1.93,
+          "mean": 1.77,
+          "median": 1.84,
+          "suggested": 1.65,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir CZ75-Auto | Pole Position (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir CZ75-Auto | Pole Position (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir CZ75-Auto | Pole Position (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir CZ75-Auto | Pole Position (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir CZ75-Auto | Pole Position (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:27.632Z"
+}

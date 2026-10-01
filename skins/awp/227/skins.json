@@ -1,0 +1,258 @@
+{
+  "id": "skin-b712400e97a9",
+  "name": "AWP | Electric Hive",
+  "paint_index": "227",
+  "weapon": {
+    "id": "weapon_awp",
+    "weapon_id": 9,
+    "name": "AWP",
+    "slug": "awp"
+  },
+  "pattern": {
+    "id": "hy_hive",
+    "name": "Electric Hive"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.4,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been painted using a hexagon patterned hydrographic.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 112.15,
+      "max": 1528.44,
+      "mean": 279.9,
+      "median": 225.41,
+      "suggested": 159.52,
+      "quantity": 36,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 38.26,
+      "max": 3264.61,
+      "mean": 211.55,
+      "median": 75.85,
+      "suggested": 44.51,
+      "quantity": 55,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 28.66,
+      "max": 2755.02,
+      "mean": 218.64,
+      "median": 63.54,
+      "suggested": 36.74,
+      "quantity": 52,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 54.83,
+      "max": 54.83,
+      "mean": 54.83,
+      "median": 54.83,
+      "suggested": 49.02,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AWP | Electric Hive (Factory New)",
+      "price": {
+        "min": 112.15,
+        "max": 1528.44,
+        "mean": 279.9,
+        "median": 225.41,
+        "suggested": 159.52,
+        "quantity": 36,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AWP | Electric Hive (Minimal Wear)",
+      "price": {
+        "min": 38.26,
+        "max": 3264.61,
+        "mean": 211.55,
+        "median": 75.85,
+        "suggested": 44.51,
+        "quantity": 55,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AWP | Electric Hive (Field-Tested)",
+      "price": {
+        "min": 28.66,
+        "max": 2755.02,
+        "mean": 218.64,
+        "median": 63.54,
+        "suggested": 36.74,
+        "quantity": 52,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AWP | Electric Hive (Well-Worn)",
+      "price": {
+        "min": 54.83,
+        "max": 54.83,
+        "mean": 54.83,
+        "median": 54.83,
+        "suggested": 49.02,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AWP | Electric Hive (Factory New)",
+        "price": {
+          "min": 112.15,
+          "max": 1528.44,
+          "mean": 279.9,
+          "median": 225.41,
+          "suggested": 159.52,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AWP | Electric Hive (Minimal Wear)",
+        "price": {
+          "min": 38.26,
+          "max": 3264.61,
+          "mean": 211.55,
+          "median": 75.85,
+          "suggested": 44.51,
+          "quantity": 55,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AWP | Electric Hive (Field-Tested)",
+        "price": {
+          "min": 28.66,
+          "max": 2755.02,
+          "mean": 218.64,
+          "median": 63.54,
+          "suggested": 36.74,
+          "quantity": 52,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AWP | Electric Hive (Well-Worn)",
+        "price": {
+          "min": 54.83,
+          "max": 54.83,
+          "mean": 54.83,
+          "median": 54.83,
+          "suggested": 49.02,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AWP | Electric Hive (Factory New)",
+        "price": {
+          "min": 111.85,
+          "max": 1166.94,
+          "mean": 267.59,
+          "median": 133.14,
+          "suggested": 139.48,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AWP | Electric Hive (Minimal Wear)",
+        "price": {
+          "min": 68.3,
+          "max": 196.21,
+          "mean": 109.66,
+          "median": 105.82,
+          "suggested": 84.9,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AWP | Electric Hive (Field-Tested)",
+        "price": {
+          "min": 49.13,
+          "max": 440.8,
+          "mean": 120.59,
+          "median": 75.66,
+          "suggested": 63.75,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AWP | Electric Hive (Well-Worn)",
+        "price": {
+          "min": 65.19,
+          "max": 72.18,
+          "mean": 68.74,
+          "median": 68.87,
+          "suggested": 83.72,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AWP | Electric Hive (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AWP | Electric Hive (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AWP | Electric Hive (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AWP | Electric Hive (Well-Worn)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:26.288Z"
+}

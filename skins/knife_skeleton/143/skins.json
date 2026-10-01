@@ -1,0 +1,225 @@
+{
+  "id": "skin-8256a3bbc75e",
+  "name": "★ Skeleton Knife | Urban Masked",
+  "paint_index": "143",
+  "weapon": {
+    "id": "weapon_knife_skeleton",
+    "weapon_id": 525,
+    "name": "Skeleton Knife",
+    "slug": "knife_skeleton"
+  },
+  "pattern": {
+    "id": "sp_tape_urban",
+    "name": "Urban Masked"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This skeletonized-tang knife has been taped at the handle for improved grip. The hole allows a finger to be threaded through for stability and safety. It has been spray-painted using a tangle of masking tape as a stencil.\\n\\n<i>True power is demonstrated with subtle application</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 217.67,
+      "max": 217.67,
+      "mean": 217.67,
+      "median": 217.67,
+      "suggested": 205.94,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 151.67,
+      "max": 283.92,
+      "mean": 182.68,
+      "median": 172.3,
+      "suggested": 188.44,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 140.62,
+      "max": 145.32,
+      "mean": 143.1,
+      "median": 143.37,
+      "suggested": 167.9,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Skeleton Knife | Urban Masked (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Skeleton Knife | Urban Masked (Minimal Wear)",
+      "price": {
+        "min": 217.67,
+        "max": 217.67,
+        "mean": 217.67,
+        "median": 217.67,
+        "suggested": 205.94,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Skeleton Knife | Urban Masked (Field-Tested)",
+      "price": {
+        "min": 151.67,
+        "max": 283.92,
+        "mean": 182.68,
+        "median": 172.3,
+        "suggested": 188.44,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Skeleton Knife | Urban Masked (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Skeleton Knife | Urban Masked (Battle-Scarred)",
+      "price": {
+        "min": 140.62,
+        "max": 145.32,
+        "mean": 143.1,
+        "median": 143.37,
+        "suggested": 167.9,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Skeleton Knife | Urban Masked (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Skeleton Knife | Urban Masked (Minimal Wear)",
+        "price": {
+          "min": 217.67,
+          "max": 217.67,
+          "mean": 217.67,
+          "median": 217.67,
+          "suggested": 205.94,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Skeleton Knife | Urban Masked (Field-Tested)",
+        "price": {
+          "min": 151.67,
+          "max": 283.92,
+          "mean": 182.68,
+          "median": 172.3,
+          "suggested": 188.44,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Skeleton Knife | Urban Masked (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ Skeleton Knife | Urban Masked (Battle-Scarred)",
+        "price": {
+          "min": 140.62,
+          "max": 145.32,
+          "mean": 143.1,
+          "median": 143.37,
+          "suggested": 167.9,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Skeleton Knife | Urban Masked (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Skeleton Knife | Urban Masked (Minimal Wear)",
+        "price": {
+          "min": 256.73,
+          "max": 256.73,
+          "mean": 256.73,
+          "median": 256.73,
+          "suggested": 212.99,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Skeleton Knife | Urban Masked (Field-Tested)",
+        "price": {
+          "min": 188.83,
+          "max": 327.87,
+          "mean": 258.36,
+          "median": 258.36,
+          "suggested": 186.21,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Skeleton Knife | Urban Masked (Well-Worn)",
+        "price": {
+          "min": 190.79,
+          "max": 190.79,
+          "mean": 190.79,
+          "median": 190.79,
+          "suggested": 196.27,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Skeleton Knife | Urban Masked (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:37.848Z"
+}

@@ -1,0 +1,258 @@
+{
+  "id": "skin-91a429af4a60",
+  "name": "AK-47 | Redline",
+  "paint_index": "282",
+  "weapon": {
+    "id": "weapon_ak47",
+    "weapon_id": 7,
+    "name": "AK-47",
+    "slug": "ak47"
+  },
+  "pattern": {
+    "id": "cu_ak47_cobra",
+    "name": "Redline"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0.1,
+  "max_float": 0.7,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. It has been painted using a carbon fiber hydrographic and a dry-transfer decal of a red pinstripe.\\n\\n<i>Never be afraid to push it to the limit</i>",
+  "images": {
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "mw": {
+      "min": 134.86,
+      "max": 1049.08,
+      "mean": 262.68,
+      "median": 202.58,
+      "suggested": 201.47,
+      "quantity": 96,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 30.17,
+      "max": 20170.51,
+      "mean": 181.18,
+      "median": 52.51,
+      "suggested": 41.48,
+      "quantity": 587,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 25.67,
+      "max": 1750.41,
+      "mean": 182,
+      "median": 32.09,
+      "suggested": 32.96,
+      "quantity": 16,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 25.21,
+      "max": 203.81,
+      "mean": 45.46,
+      "median": 35.73,
+      "suggested": 32.09,
+      "quantity": 26,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AK-47 | Redline (Minimal Wear)",
+      "price": {
+        "min": 134.86,
+        "max": 1049.08,
+        "mean": 262.68,
+        "median": 202.58,
+        "suggested": 201.47,
+        "quantity": 96,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AK-47 | Redline (Field-Tested)",
+      "price": {
+        "min": 30.17,
+        "max": 20170.51,
+        "mean": 181.18,
+        "median": 52.51,
+        "suggested": 41.48,
+        "quantity": 587,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AK-47 | Redline (Well-Worn)",
+      "price": {
+        "min": 25.67,
+        "max": 1750.41,
+        "mean": 182,
+        "median": 32.09,
+        "suggested": 32.96,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AK-47 | Redline (Battle-Scarred)",
+      "price": {
+        "min": 25.21,
+        "max": 203.81,
+        "mean": 45.46,
+        "median": 35.73,
+        "suggested": 32.09,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "mw": {
+        "market_hash_name": "AK-47 | Redline (Minimal Wear)",
+        "price": {
+          "min": 134.86,
+          "max": 1049.08,
+          "mean": 262.68,
+          "median": 202.58,
+          "suggested": 201.47,
+          "quantity": 96,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AK-47 | Redline (Field-Tested)",
+        "price": {
+          "min": 30.17,
+          "max": 20170.51,
+          "mean": 181.18,
+          "median": 52.51,
+          "suggested": 41.48,
+          "quantity": 587,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AK-47 | Redline (Well-Worn)",
+        "price": {
+          "min": 25.67,
+          "max": 1750.41,
+          "mean": 182,
+          "median": 32.09,
+          "suggested": 32.96,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AK-47 | Redline (Battle-Scarred)",
+        "price": {
+          "min": 25.21,
+          "max": 203.81,
+          "mean": 45.46,
+          "median": 35.73,
+          "suggested": 32.09,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "mw": {
+        "market_hash_name": "StatTrak™ AK-47 | Redline (Minimal Wear)",
+        "price": {
+          "min": 302.24,
+          "max": 8726.54,
+          "mean": 802.71,
+          "median": 409.66,
+          "suggested": 468.46,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AK-47 | Redline (Field-Tested)",
+        "price": {
+          "min": 64.12,
+          "max": 6482.98,
+          "mean": 259.45,
+          "median": 94.52,
+          "suggested": 85.33,
+          "quantity": 103,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AK-47 | Redline (Well-Worn)",
+        "price": {
+          "min": 56.21,
+          "max": 122.52,
+          "mean": 82.91,
+          "median": 72.3,
+          "suggested": 66.34,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ AK-47 | Redline (Battle-Scarred)",
+        "price": {
+          "min": 38.04,
+          "max": 350.08,
+          "mean": 84.22,
+          "median": 46.67,
+          "suggested": 48.55,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "mw": {
+        "market_hash_name": "Souvenir AK-47 | Redline (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AK-47 | Redline (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AK-47 | Redline (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AK-47 | Redline (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:20:20.495Z"
+}

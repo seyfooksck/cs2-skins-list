@@ -1,0 +1,145 @@
+{
+  "id": "skin-5816114a2e7c",
+  "name": "MAG-7 | Metallic DDPAT",
+  "paint_index": "34",
+  "weapon": {
+    "id": "weapon_mag7",
+    "weapon_id": 27,
+    "name": "MAG-7",
+    "slug": "mag7"
+  },
+  "pattern": {
+    "id": "am_urban",
+    "name": "Metallic DDPAT"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The CT-exclusive Mag-7 delivers a devastating amount of damage at close range. Its rapid magazine-style reloads make it a great tactical choice. It has been painted using an urban Digital Disruptive Pattern (DDPAT) hydrographic over a metallic base coat.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.16,
+      "max": 40.26,
+      "mean": 1.39,
+      "median": 1.14,
+      "suggested": 0.21,
+      "quantity": 2243,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.21,
+      "max": 6,
+      "mean": 0.88,
+      "median": 0.22,
+      "suggested": 0.25,
+      "quantity": 13,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAG-7 | Metallic DDPAT (Factory New)",
+      "price": {
+        "min": 0.16,
+        "max": 40.26,
+        "mean": 1.39,
+        "median": 1.14,
+        "suggested": 0.21,
+        "quantity": 2243,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAG-7 | Metallic DDPAT (Minimal Wear)",
+      "price": {
+        "min": 0.21,
+        "max": 6,
+        "mean": 0.88,
+        "median": 0.22,
+        "suggested": 0.25,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAG-7 | Metallic DDPAT (Factory New)",
+        "price": {
+          "min": 0.16,
+          "max": 40.26,
+          "mean": 1.39,
+          "median": 1.14,
+          "suggested": 0.21,
+          "quantity": 2243,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAG-7 | Metallic DDPAT (Minimal Wear)",
+        "price": {
+          "min": 0.21,
+          "max": 6,
+          "mean": 0.88,
+          "median": 0.22,
+          "suggested": 0.25,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAG-7 | Metallic DDPAT (Factory New)",
+        "price": {
+          "min": 1.55,
+          "max": 933.55,
+          "mean": 58.63,
+          "median": 5.6,
+          "suggested": 1.81,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAG-7 | Metallic DDPAT (Minimal Wear)",
+        "price": {
+          "min": 11.67,
+          "max": 2053.41,
+          "mean": 522.11,
+          "median": 11.67,
+          "suggested": 4.7,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.202Z"
+}

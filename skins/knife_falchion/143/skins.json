@@ -1,0 +1,201 @@
+{
+  "id": "skin-cf6cfe477f08",
+  "name": "★ Falchion Knife | Urban Masked",
+  "paint_index": "143",
+  "weapon": {
+    "id": "weapon_knife_falchion",
+    "weapon_id": 512,
+    "name": "Falchion Knife",
+    "slug": "knife_falchion"
+  },
+  "pattern": {
+    "id": "sp_tape_urban",
+    "name": "Urban Masked"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A modern homage to a falchion sword, this clip point blade has a curved edge. It has been spray-painted using a tangle of masking tape as a stencil.\\n\\n<i>True power is demonstrated with subtle application</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 122.89,
+      "max": 139.13,
+      "mean": 131.01,
+      "median": 131.01,
+      "suggested": 135.27,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 77.45,
+      "max": 154.74,
+      "mean": 103.79,
+      "median": 89.54,
+      "suggested": 87.97,
+      "quantity": 13,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 80.71,
+      "max": 107.02,
+      "mean": 93.87,
+      "median": 93.87,
+      "suggested": 86.21,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Falchion Knife | Urban Masked (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Falchion Knife | Urban Masked (Minimal Wear)",
+      "price": {
+        "min": 122.89,
+        "max": 139.13,
+        "mean": 131.01,
+        "median": 131.01,
+        "suggested": 135.27,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Falchion Knife | Urban Masked (Field-Tested)",
+      "price": {
+        "min": 77.45,
+        "max": 154.74,
+        "mean": 103.79,
+        "median": 89.54,
+        "suggested": 87.97,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Falchion Knife | Urban Masked (Well-Worn)",
+      "price": {
+        "min": 80.71,
+        "max": 107.02,
+        "mean": 93.87,
+        "median": 93.87,
+        "suggested": 86.21,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Falchion Knife | Urban Masked (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Falchion Knife | Urban Masked (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Falchion Knife | Urban Masked (Minimal Wear)",
+        "price": {
+          "min": 122.89,
+          "max": 139.13,
+          "mean": 131.01,
+          "median": 131.01,
+          "suggested": 135.27,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Falchion Knife | Urban Masked (Field-Tested)",
+        "price": {
+          "min": 77.45,
+          "max": 154.74,
+          "mean": 103.79,
+          "median": 89.54,
+          "suggested": 87.97,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Falchion Knife | Urban Masked (Well-Worn)",
+        "price": {
+          "min": 80.71,
+          "max": 107.02,
+          "mean": 93.87,
+          "median": 93.87,
+          "suggested": 86.21,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Falchion Knife | Urban Masked (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Falchion Knife | Urban Masked (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Falchion Knife | Urban Masked (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Falchion Knife | Urban Masked (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Falchion Knife | Urban Masked (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Falchion Knife | Urban Masked (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:34.447Z"
+}

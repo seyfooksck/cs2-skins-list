@@ -1,0 +1,121 @@
+{
+  "id": "skin-6f5d1311fcae",
+  "name": "★ Bayonet | Doppler",
+  "paint_index": "420",
+  "weapon": {
+    "id": "weapon_bayonet",
+    "weapon_id": 500,
+    "name": "Bayonet",
+    "slug": "bayonet"
+  },
+  "pattern": {
+    "id": "am_doppler_phase3",
+    "name": "Doppler"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Relatively unchanged in its design since World War II, the bayonet still retains a place in modern military strategy. Bayonet charges have continued to be effective as recently as the second Gulf War and the war in Afghanistan. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1816.7,
+      "max": 2816.39,
+      "mean": 2260.78,
+      "median": 2191.09,
+      "suggested": 1936.31,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "mw": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Bayonet | Doppler (Factory New)",
+      "price": {
+        "min": 1816.7,
+        "max": 2816.39,
+        "mean": 2260.78,
+        "median": 2191.09,
+        "suggested": 1936.31,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Bayonet | Doppler (Minimal Wear)",
+      "price": null,
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Bayonet | Doppler (Factory New)",
+        "price": {
+          "min": 1816.7,
+          "max": 2816.39,
+          "mean": 2260.78,
+          "median": 2191.09,
+          "suggested": 1936.31,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Bayonet | Doppler (Minimal Wear)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Doppler (Factory New)",
+        "price": {
+          "min": 2507.29,
+          "max": 2507.29,
+          "mean": 2507.29,
+          "median": 2507.29,
+          "suggested": 3277.2,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Doppler (Minimal Wear)",
+        "price": {
+          "min": 793.49,
+          "max": 793.49,
+          "mean": 793.49,
+          "median": 793.49,
+          "suggested": 583.02,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:26.461Z"
+}

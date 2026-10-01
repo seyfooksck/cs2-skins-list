@@ -1,0 +1,310 @@
+{
+  "id": "skin-cf4887fb0502",
+  "name": "Glock-18 | Snack Attack",
+  "paint_index": "1100",
+  "weapon": {
+    "id": "weapon_glock",
+    "weapon_id": 4,
+    "name": "Glock-18",
+    "slug": "glock"
+  },
+  "pattern": {
+    "id": "cu_glock_snackattack",
+    "name": "Snack Attack"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. It has been custom painted to resemble junk food trinkets suspended in resin.\\n\\n<i>The snack that fights back</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 165.36,
+      "max": 352.12,
+      "mean": 235.3,
+      "median": 233.34,
+      "suggested": 237.99,
+      "quantity": 16,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 33.22,
+      "max": 92.77,
+      "mean": 50.21,
+      "median": 47.14,
+      "suggested": 40.69,
+      "quantity": 42,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 15.16,
+      "max": 152.29,
+      "mean": 25.64,
+      "median": 21.37,
+      "suggested": 22.38,
+      "quantity": 62,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 13.99,
+      "max": 35.71,
+      "mean": 21,
+      "median": 21.78,
+      "suggested": 18.95,
+      "quantity": 35,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 13.99,
+      "max": 32.55,
+      "mean": 19.57,
+      "median": 18.55,
+      "suggested": 18.24,
+      "quantity": 29,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Glock-18 | Snack Attack (Factory New)",
+      "price": {
+        "min": 165.36,
+        "max": 352.12,
+        "mean": 235.3,
+        "median": 233.34,
+        "suggested": 237.99,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Glock-18 | Snack Attack (Minimal Wear)",
+      "price": {
+        "min": 33.22,
+        "max": 92.77,
+        "mean": 50.21,
+        "median": 47.14,
+        "suggested": 40.69,
+        "quantity": 42,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Glock-18 | Snack Attack (Field-Tested)",
+      "price": {
+        "min": 15.16,
+        "max": 152.29,
+        "mean": 25.64,
+        "median": 21.37,
+        "suggested": 22.38,
+        "quantity": 62,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Glock-18 | Snack Attack (Well-Worn)",
+      "price": {
+        "min": 13.99,
+        "max": 35.71,
+        "mean": 21,
+        "median": 21.78,
+        "suggested": 18.95,
+        "quantity": 35,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Glock-18 | Snack Attack (Battle-Scarred)",
+      "price": {
+        "min": 13.99,
+        "max": 32.55,
+        "mean": 19.57,
+        "median": 18.55,
+        "suggested": 18.24,
+        "quantity": 29,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Glock-18 | Snack Attack (Factory New)",
+        "price": {
+          "min": 165.36,
+          "max": 352.12,
+          "mean": 235.3,
+          "median": 233.34,
+          "suggested": 237.99,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Glock-18 | Snack Attack (Minimal Wear)",
+        "price": {
+          "min": 33.22,
+          "max": 92.77,
+          "mean": 50.21,
+          "median": 47.14,
+          "suggested": 40.69,
+          "quantity": 42,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Glock-18 | Snack Attack (Field-Tested)",
+        "price": {
+          "min": 15.16,
+          "max": 152.29,
+          "mean": 25.64,
+          "median": 21.37,
+          "suggested": 22.38,
+          "quantity": 62,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Glock-18 | Snack Attack (Well-Worn)",
+        "price": {
+          "min": 13.99,
+          "max": 35.71,
+          "mean": 21,
+          "median": 21.78,
+          "suggested": 18.95,
+          "quantity": 35,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Glock-18 | Snack Attack (Battle-Scarred)",
+        "price": {
+          "min": 13.99,
+          "max": 32.55,
+          "mean": 19.57,
+          "median": 18.55,
+          "suggested": 18.24,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Glock-18 | Snack Attack (Factory New)",
+        "price": {
+          "min": 99.9,
+          "max": 348.73,
+          "mean": 152.2,
+          "median": 111.02,
+          "suggested": 128.14,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Glock-18 | Snack Attack (Minimal Wear)",
+        "price": {
+          "min": 37.1,
+          "max": 461.97,
+          "mean": 70.87,
+          "median": 50.13,
+          "suggested": 49.15,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Glock-18 | Snack Attack (Field-Tested)",
+        "price": {
+          "min": 19.32,
+          "max": 35.8,
+          "mean": 27.26,
+          "median": 22.59,
+          "suggested": 25.25,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Glock-18 | Snack Attack (Well-Worn)",
+        "price": {
+          "min": 17.67,
+          "max": 30.19,
+          "mean": 21.14,
+          "median": 18.73,
+          "suggested": 21.84,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Glock-18 | Snack Attack (Battle-Scarred)",
+        "price": {
+          "min": 16.55,
+          "max": 36.56,
+          "mean": 22.22,
+          "median": 19.85,
+          "suggested": 22.25,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Glock-18 | Snack Attack (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Glock-18 | Snack Attack (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Glock-18 | Snack Attack (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Glock-18 | Snack Attack (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Glock-18 | Snack Attack (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:31.874Z"
+}

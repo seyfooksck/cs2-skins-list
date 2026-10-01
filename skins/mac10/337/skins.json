@@ -1,0 +1,302 @@
+{
+  "id": "skin-148586fd3375",
+  "name": "MAC-10 | Tatter",
+  "paint_index": "337",
+  "weapon": {
+    "id": "weapon_mac10",
+    "weapon_id": 17,
+    "name": "MAC-10",
+    "slug": "mac10"
+  },
+  "pattern": {
+    "id": "cu_korupt",
+    "name": "Tatter"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been custom painted with a high-tech design reminiscent of flames.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 12.84,
+      "max": 57.71,
+      "mean": 24.96,
+      "median": 15.44,
+      "suggested": 17.75,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 7.78,
+      "max": 326.74,
+      "mean": 24.06,
+      "median": 10.96,
+      "suggested": 8.99,
+      "quantity": 24,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 5.25,
+      "max": 12.37,
+      "mean": 7.71,
+      "median": 7.09,
+      "suggested": 6,
+      "quantity": 18,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 6.81,
+      "max": 7.54,
+      "mean": 7.11,
+      "median": 6.98,
+      "suggested": 7.3,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 6.52,
+      "max": 6.59,
+      "mean": 6.56,
+      "median": 6.56,
+      "suggested": 5.97,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAC-10 | Tatter (Factory New)",
+      "price": {
+        "min": 12.84,
+        "max": 57.71,
+        "mean": 24.96,
+        "median": 15.44,
+        "suggested": 17.75,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAC-10 | Tatter (Minimal Wear)",
+      "price": {
+        "min": 7.78,
+        "max": 326.74,
+        "mean": 24.06,
+        "median": 10.96,
+        "suggested": 8.99,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAC-10 | Tatter (Field-Tested)",
+      "price": {
+        "min": 5.25,
+        "max": 12.37,
+        "mean": 7.71,
+        "median": 7.09,
+        "suggested": 6,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAC-10 | Tatter (Well-Worn)",
+      "price": {
+        "min": 6.81,
+        "max": 7.54,
+        "mean": 7.11,
+        "median": 6.98,
+        "suggested": 7.3,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAC-10 | Tatter (Battle-Scarred)",
+      "price": {
+        "min": 6.52,
+        "max": 6.59,
+        "mean": 6.56,
+        "median": 6.56,
+        "suggested": 5.97,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAC-10 | Tatter (Factory New)",
+        "price": {
+          "min": 12.84,
+          "max": 57.71,
+          "mean": 24.96,
+          "median": 15.44,
+          "suggested": 17.75,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAC-10 | Tatter (Minimal Wear)",
+        "price": {
+          "min": 7.78,
+          "max": 326.74,
+          "mean": 24.06,
+          "median": 10.96,
+          "suggested": 8.99,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAC-10 | Tatter (Field-Tested)",
+        "price": {
+          "min": 5.25,
+          "max": 12.37,
+          "mean": 7.71,
+          "median": 7.09,
+          "suggested": 6,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAC-10 | Tatter (Well-Worn)",
+        "price": {
+          "min": 6.81,
+          "max": 7.54,
+          "mean": 7.11,
+          "median": 6.98,
+          "suggested": 7.3,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MAC-10 | Tatter (Battle-Scarred)",
+        "price": {
+          "min": 6.52,
+          "max": 6.59,
+          "mean": 6.56,
+          "median": 6.56,
+          "suggested": 5.97,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MAC-10 | Tatter (Factory New)",
+        "price": {
+          "min": 13.01,
+          "max": 29.16,
+          "mean": 18.62,
+          "median": 16.41,
+          "suggested": 15,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MAC-10 | Tatter (Minimal Wear)",
+        "price": {
+          "min": 9.45,
+          "max": 17.22,
+          "mean": 12.93,
+          "median": 11.69,
+          "suggested": 10.68,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MAC-10 | Tatter (Field-Tested)",
+        "price": {
+          "min": 10.07,
+          "max": 12.8,
+          "mean": 11.16,
+          "median": 11.25,
+          "suggested": 12.04,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MAC-10 | Tatter (Well-Worn)",
+        "price": {
+          "min": 10.64,
+          "max": 10.64,
+          "mean": 10.64,
+          "median": 10.64,
+          "suggested": 9.81,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MAC-10 | Tatter (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAC-10 | Tatter (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAC-10 | Tatter (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAC-10 | Tatter (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAC-10 | Tatter (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAC-10 | Tatter (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.573Z"
+}

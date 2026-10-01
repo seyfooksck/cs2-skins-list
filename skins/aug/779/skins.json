@@ -1,0 +1,249 @@
+{
+  "id": "skin-8b56130194c8",
+  "name": "AUG | Random Access",
+  "paint_index": "779",
+  "weapon": {
+    "id": "weapon_aug",
+    "weapon_id": 8,
+    "name": "AUG",
+    "slug": "aug"
+  },
+  "pattern": {
+    "id": "am_circuitboard_orange",
+    "name": "Random Access"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire. A red circuit board pattern has been applied over a black base.\\n\\n<i>The journey is random; the result is not</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 11.23,
+      "max": 104.48,
+      "mean": 25.99,
+      "median": 15.18,
+      "suggested": 13.15,
+      "quantity": 24,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.77,
+      "max": 60.94,
+      "mean": 9.76,
+      "median": 3.89,
+      "suggested": 2.34,
+      "quantity": 40,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.54,
+      "max": 60.68,
+      "mean": 7.97,
+      "median": 2.4,
+      "suggested": 1.8,
+      "quantity": 25,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 1.26,
+      "max": 28.58,
+      "mean": 5.61,
+      "median": 1.26,
+      "suggested": 1.44,
+      "quantity": 7,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AUG | Random Access (Factory New)",
+      "price": {
+        "min": 11.23,
+        "max": 104.48,
+        "mean": 25.99,
+        "median": 15.18,
+        "suggested": 13.15,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AUG | Random Access (Minimal Wear)",
+      "price": {
+        "min": 1.77,
+        "max": 60.94,
+        "mean": 9.76,
+        "median": 3.89,
+        "suggested": 2.34,
+        "quantity": 40,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AUG | Random Access (Field-Tested)",
+      "price": {
+        "min": 1.54,
+        "max": 60.68,
+        "mean": 7.97,
+        "median": 2.4,
+        "suggested": 1.8,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AUG | Random Access (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AUG | Random Access (Battle-Scarred)",
+      "price": {
+        "min": 1.26,
+        "max": 28.58,
+        "mean": 5.61,
+        "median": 1.26,
+        "suggested": 1.44,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AUG | Random Access (Factory New)",
+        "price": {
+          "min": 11.23,
+          "max": 104.48,
+          "mean": 25.99,
+          "median": 15.18,
+          "suggested": 13.15,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AUG | Random Access (Minimal Wear)",
+        "price": {
+          "min": 1.77,
+          "max": 60.94,
+          "mean": 9.76,
+          "median": 3.89,
+          "suggested": 2.34,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AUG | Random Access (Field-Tested)",
+        "price": {
+          "min": 1.54,
+          "max": 60.68,
+          "mean": 7.97,
+          "median": 2.4,
+          "suggested": 1.8,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AUG | Random Access (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "AUG | Random Access (Battle-Scarred)",
+        "price": {
+          "min": 1.26,
+          "max": 28.58,
+          "mean": 5.61,
+          "median": 1.26,
+          "suggested": 1.44,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AUG | Random Access (Factory New)",
+        "price": {
+          "min": 16.33,
+          "max": 70,
+          "mean": 35.78,
+          "median": 20.99,
+          "suggested": 11.85,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AUG | Random Access (Minimal Wear)",
+        "price": {
+          "min": 4.1,
+          "max": 6.53,
+          "mean": 5.27,
+          "median": 5.23,
+          "suggested": 5.38,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AUG | Random Access (Field-Tested)",
+        "price": {
+          "min": 4.33,
+          "max": 4.61,
+          "mean": 4.47,
+          "median": 4.47,
+          "suggested": 2.93,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AUG | Random Access (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AUG | Random Access (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.192Z"
+}

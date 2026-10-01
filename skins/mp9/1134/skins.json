@@ -1,0 +1,310 @@
+{
+  "id": "skin-feae180c4968",
+  "name": "MP9 | Starlight Protector",
+  "paint_index": "1134",
+  "weapon": {
+    "id": "weapon_mp9",
+    "weapon_id": 34,
+    "name": "MP9",
+    "slug": "mp9"
+  },
+  "pattern": {
+    "id": "gs_mp9_starlight",
+    "name": "Starlight Protector"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.8,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. This custom paint job features a unicorn with a rainbow mane atop a white base. It has been finished with gold accents.\\n\\n<i>May the deity protect you, should the deity select you</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 108.15,
+      "max": 1166.94,
+      "mean": 184.36,
+      "median": 121.22,
+      "suggested": 134.28,
+      "quantity": 43,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 77.02,
+      "max": 233.39,
+      "mean": 91.66,
+      "median": 88.69,
+      "suggested": 96.45,
+      "quantity": 230,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 63.31,
+      "max": 583.47,
+      "mean": 82.93,
+      "median": 78.57,
+      "suggested": 85.61,
+      "quantity": 542,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 64.58,
+      "max": 136.37,
+      "mean": 84.89,
+      "median": 78.17,
+      "suggested": 83.14,
+      "quantity": 19,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 63.94,
+      "max": 92.99,
+      "mean": 76.26,
+      "median": 76.43,
+      "suggested": 81.82,
+      "quantity": 69,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP9 | Starlight Protector (Factory New)",
+      "price": {
+        "min": 108.15,
+        "max": 1166.94,
+        "mean": 184.36,
+        "median": 121.22,
+        "suggested": 134.28,
+        "quantity": 43,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP9 | Starlight Protector (Minimal Wear)",
+      "price": {
+        "min": 77.02,
+        "max": 233.39,
+        "mean": 91.66,
+        "median": 88.69,
+        "suggested": 96.45,
+        "quantity": 230,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP9 | Starlight Protector (Field-Tested)",
+      "price": {
+        "min": 63.31,
+        "max": 583.47,
+        "mean": 82.93,
+        "median": 78.57,
+        "suggested": 85.61,
+        "quantity": 542,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP9 | Starlight Protector (Well-Worn)",
+      "price": {
+        "min": 64.58,
+        "max": 136.37,
+        "mean": 84.89,
+        "median": 78.17,
+        "suggested": 83.14,
+        "quantity": 19,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP9 | Starlight Protector (Battle-Scarred)",
+      "price": {
+        "min": 63.94,
+        "max": 92.99,
+        "mean": 76.26,
+        "median": 76.43,
+        "suggested": 81.82,
+        "quantity": 69,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP9 | Starlight Protector (Factory New)",
+        "price": {
+          "min": 108.15,
+          "max": 1166.94,
+          "mean": 184.36,
+          "median": 121.22,
+          "suggested": 134.28,
+          "quantity": 43,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP9 | Starlight Protector (Minimal Wear)",
+        "price": {
+          "min": 77.02,
+          "max": 233.39,
+          "mean": 91.66,
+          "median": 88.69,
+          "suggested": 96.45,
+          "quantity": 230,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP9 | Starlight Protector (Field-Tested)",
+        "price": {
+          "min": 63.31,
+          "max": 583.47,
+          "mean": 82.93,
+          "median": 78.57,
+          "suggested": 85.61,
+          "quantity": 542,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP9 | Starlight Protector (Well-Worn)",
+        "price": {
+          "min": 64.58,
+          "max": 136.37,
+          "mean": 84.89,
+          "median": 78.17,
+          "suggested": 83.14,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP9 | Starlight Protector (Battle-Scarred)",
+        "price": {
+          "min": 63.94,
+          "max": 92.99,
+          "mean": 76.26,
+          "median": 76.43,
+          "suggested": 81.82,
+          "quantity": 69,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MP9 | Starlight Protector (Factory New)",
+        "price": {
+          "min": 93.34,
+          "max": 201.21,
+          "mean": 133.29,
+          "median": 118.65,
+          "suggested": 130.33,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MP9 | Starlight Protector (Minimal Wear)",
+        "price": {
+          "min": 70.13,
+          "max": 96.06,
+          "mean": 81.18,
+          "median": 80.44,
+          "suggested": 95.59,
+          "quantity": 48,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MP9 | Starlight Protector (Field-Tested)",
+        "price": {
+          "min": 61.23,
+          "max": 103.86,
+          "mean": 74.66,
+          "median": 72.61,
+          "suggested": 84.44,
+          "quantity": 63,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MP9 | Starlight Protector (Well-Worn)",
+        "price": {
+          "min": 72.33,
+          "max": 72.33,
+          "mean": 72.33,
+          "median": 72.33,
+          "suggested": 83.95,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MP9 | Starlight Protector (Battle-Scarred)",
+        "price": {
+          "min": 62.78,
+          "max": 118.81,
+          "mean": 80.17,
+          "median": 71.78,
+          "suggested": 82.37,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP9 | Starlight Protector (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP9 | Starlight Protector (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP9 | Starlight Protector (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP9 | Starlight Protector (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP9 | Starlight Protector (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:43.759Z"
+}

@@ -1,0 +1,258 @@
+{
+  "id": "skin-b720620ba156",
+  "name": "UMP-45 | Moonrise",
+  "paint_index": "851",
+  "weapon": {
+    "id": "weapon_ump45",
+    "weapon_id": 24,
+    "name": "UMP-45",
+    "slug": "ump45"
+  },
+  "pattern": {
+    "id": "aa_ump45_moonrise_sunset",
+    "name": "Moonrise"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.4,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic. A randomized city landscape in the foreground gives way to a full moon and purple-red night sky.\\n\\n<i>Look for the North Star</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.49,
+      "max": 128.01,
+      "mean": 10.32,
+      "median": 4.61,
+      "suggested": 3.1,
+      "quantity": 138,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.88,
+      "max": 33.84,
+      "mean": 2.77,
+      "median": 1.39,
+      "suggested": 1.04,
+      "quantity": 151,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.58,
+      "max": 16.37,
+      "mean": 1.65,
+      "median": 0.89,
+      "suggested": 0.84,
+      "quantity": 166,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.82,
+      "max": 10.82,
+      "mean": 1.8,
+      "median": 1.17,
+      "suggested": 0.96,
+      "quantity": 18,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "UMP-45 | Moonrise (Factory New)",
+      "price": {
+        "min": 2.49,
+        "max": 128.01,
+        "mean": 10.32,
+        "median": 4.61,
+        "suggested": 3.1,
+        "quantity": 138,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "UMP-45 | Moonrise (Minimal Wear)",
+      "price": {
+        "min": 0.88,
+        "max": 33.84,
+        "mean": 2.77,
+        "median": 1.39,
+        "suggested": 1.04,
+        "quantity": 151,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "UMP-45 | Moonrise (Field-Tested)",
+      "price": {
+        "min": 0.58,
+        "max": 16.37,
+        "mean": 1.65,
+        "median": 0.89,
+        "suggested": 0.84,
+        "quantity": 166,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "UMP-45 | Moonrise (Well-Worn)",
+      "price": {
+        "min": 0.82,
+        "max": 10.82,
+        "mean": 1.8,
+        "median": 1.17,
+        "suggested": 0.96,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "UMP-45 | Moonrise (Factory New)",
+        "price": {
+          "min": 2.49,
+          "max": 128.01,
+          "mean": 10.32,
+          "median": 4.61,
+          "suggested": 3.1,
+          "quantity": 138,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "UMP-45 | Moonrise (Minimal Wear)",
+        "price": {
+          "min": 0.88,
+          "max": 33.84,
+          "mean": 2.77,
+          "median": 1.39,
+          "suggested": 1.04,
+          "quantity": 151,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "UMP-45 | Moonrise (Field-Tested)",
+        "price": {
+          "min": 0.58,
+          "max": 16.37,
+          "mean": 1.65,
+          "median": 0.89,
+          "suggested": 0.84,
+          "quantity": 166,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "UMP-45 | Moonrise (Well-Worn)",
+        "price": {
+          "min": 0.82,
+          "max": 10.82,
+          "mean": 1.8,
+          "median": 1.17,
+          "suggested": 0.96,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ UMP-45 | Moonrise (Factory New)",
+        "price": {
+          "min": 3,
+          "max": 169.79,
+          "mean": 15.5,
+          "median": 7.7,
+          "suggested": 3.49,
+          "quantity": 42,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ UMP-45 | Moonrise (Minimal Wear)",
+        "price": {
+          "min": 1.31,
+          "max": 122.53,
+          "mean": 6.29,
+          "median": 1.63,
+          "suggested": 1.53,
+          "quantity": 65,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ UMP-45 | Moonrise (Field-Tested)",
+        "price": {
+          "min": 0.68,
+          "max": 32.07,
+          "mean": 2.77,
+          "median": 2.05,
+          "suggested": 0.86,
+          "quantity": 60,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ UMP-45 | Moonrise (Well-Worn)",
+        "price": {
+          "min": 2.01,
+          "max": 2.58,
+          "mean": 2.17,
+          "median": 2.04,
+          "suggested": 2.48,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir UMP-45 | Moonrise (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir UMP-45 | Moonrise (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir UMP-45 | Moonrise (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir UMP-45 | Moonrise (Well-Worn)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.724Z"
+}

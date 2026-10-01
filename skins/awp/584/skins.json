@@ -1,0 +1,258 @@
+{
+  "id": "skin-78882aeeb9a7",
+  "name": "AWP | Phobos",
+  "paint_index": "584",
+  "weapon": {
+    "id": "weapon_awp",
+    "weapon_id": 9,
+    "name": "AWP",
+    "slug": "awp"
+  },
+  "pattern": {
+    "id": "gs_awp_phobos",
+    "name": "Phobos"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.4,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It is constructed of metal panels and durable electronic components.\\n\\n<i>Build a better world</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 9.65,
+      "max": 831.61,
+      "mean": 41.23,
+      "median": 16.57,
+      "suggested": 14.19,
+      "quantity": 90,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.63,
+      "max": 58.32,
+      "mean": 6.34,
+      "median": 3.7,
+      "suggested": 3.38,
+      "quantity": 172,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.07,
+      "max": 127.2,
+      "mean": 7.7,
+      "median": 3.15,
+      "suggested": 2.91,
+      "quantity": 141,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 3.24,
+      "max": 213.55,
+      "mean": 25.87,
+      "median": 4.98,
+      "suggested": 4.14,
+      "quantity": 10,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AWP | Phobos (Factory New)",
+      "price": {
+        "min": 9.65,
+        "max": 831.61,
+        "mean": 41.23,
+        "median": 16.57,
+        "suggested": 14.19,
+        "quantity": 90,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AWP | Phobos (Minimal Wear)",
+      "price": {
+        "min": 2.63,
+        "max": 58.32,
+        "mean": 6.34,
+        "median": 3.7,
+        "suggested": 3.38,
+        "quantity": 172,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AWP | Phobos (Field-Tested)",
+      "price": {
+        "min": 2.07,
+        "max": 127.2,
+        "mean": 7.7,
+        "median": 3.15,
+        "suggested": 2.91,
+        "quantity": 141,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AWP | Phobos (Well-Worn)",
+      "price": {
+        "min": 3.24,
+        "max": 213.55,
+        "mean": 25.87,
+        "median": 4.98,
+        "suggested": 4.14,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AWP | Phobos (Factory New)",
+        "price": {
+          "min": 9.65,
+          "max": 831.61,
+          "mean": 41.23,
+          "median": 16.57,
+          "suggested": 14.19,
+          "quantity": 90,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AWP | Phobos (Minimal Wear)",
+        "price": {
+          "min": 2.63,
+          "max": 58.32,
+          "mean": 6.34,
+          "median": 3.7,
+          "suggested": 3.38,
+          "quantity": 172,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AWP | Phobos (Field-Tested)",
+        "price": {
+          "min": 2.07,
+          "max": 127.2,
+          "mean": 7.7,
+          "median": 3.15,
+          "suggested": 2.91,
+          "quantity": 141,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AWP | Phobos (Well-Worn)",
+        "price": {
+          "min": 3.24,
+          "max": 213.55,
+          "mean": 25.87,
+          "median": 4.98,
+          "suggested": 4.14,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AWP | Phobos (Factory New)",
+        "price": {
+          "min": 9.56,
+          "max": 541.26,
+          "mean": 46.7,
+          "median": 15.02,
+          "suggested": 10.68,
+          "quantity": 35,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AWP | Phobos (Minimal Wear)",
+        "price": {
+          "min": 5.66,
+          "max": 1166.94,
+          "mean": 46.82,
+          "median": 10.81,
+          "suggested": 7.09,
+          "quantity": 38,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AWP | Phobos (Field-Tested)",
+        "price": {
+          "min": 5.11,
+          "max": 175.02,
+          "mean": 18.93,
+          "median": 7.64,
+          "suggested": 5.96,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AWP | Phobos (Well-Worn)",
+        "price": {
+          "min": 12.29,
+          "max": 12.37,
+          "mean": 12.33,
+          "median": 12.33,
+          "suggested": 13.57,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AWP | Phobos (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AWP | Phobos (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AWP | Phobos (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AWP | Phobos (Well-Worn)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:26.225Z"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "skin-db73213412f6",
+  "name": "Glock-18 | Catacombs",
+  "paint_index": "399",
+  "weapon": {
+    "id": "weapon_glock",
+    "weapon_id": 4,
+    "name": "Glock-18",
+    "slug": "glock"
+  },
+  "pattern": {
+    "id": "cu_glock_deathtoll",
+    "name": "Catacombs"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. It has been painted using a hydrographic of skulls over a silver metallic paint base.\\n\\n<i>Intimidation is the sincerest form of flattery</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 8.03,
+      "max": 2818.15,
+      "mean": 98.41,
+      "median": 12.93,
+      "suggested": 11,
+      "quantity": 35,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.38,
+      "max": 124.86,
+      "mean": 4.41,
+      "median": 1.65,
+      "suggested": 1.74,
+      "quantity": 55,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.89,
+      "max": 11.67,
+      "mean": 1.39,
+      "median": 1.16,
+      "suggested": 1.12,
+      "quantity": 76,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.16,
+      "max": 1.69,
+      "mean": 1.32,
+      "median": 1.28,
+      "suggested": 1.08,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.84,
+      "max": 5.83,
+      "mean": 1.54,
+      "median": 1.28,
+      "suggested": 1.05,
+      "quantity": 16,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Glock-18 | Catacombs (Factory New)",
+      "price": {
+        "min": 8.03,
+        "max": 2818.15,
+        "mean": 98.41,
+        "median": 12.93,
+        "suggested": 11,
+        "quantity": 35,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Glock-18 | Catacombs (Minimal Wear)",
+      "price": {
+        "min": 1.38,
+        "max": 124.86,
+        "mean": 4.41,
+        "median": 1.65,
+        "suggested": 1.74,
+        "quantity": 55,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Glock-18 | Catacombs (Field-Tested)",
+      "price": {
+        "min": 0.89,
+        "max": 11.67,
+        "mean": 1.39,
+        "median": 1.16,
+        "suggested": 1.12,
+        "quantity": 76,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Glock-18 | Catacombs (Well-Worn)",
+      "price": {
+        "min": 1.16,
+        "max": 1.69,
+        "mean": 1.32,
+        "median": 1.28,
+        "suggested": 1.08,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Glock-18 | Catacombs (Battle-Scarred)",
+      "price": {
+        "min": 0.84,
+        "max": 5.83,
+        "mean": 1.54,
+        "median": 1.28,
+        "suggested": 1.05,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Glock-18 | Catacombs (Factory New)",
+        "price": {
+          "min": 8.03,
+          "max": 2818.15,
+          "mean": 98.41,
+          "median": 12.93,
+          "suggested": 11,
+          "quantity": 35,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Glock-18 | Catacombs (Minimal Wear)",
+        "price": {
+          "min": 1.38,
+          "max": 124.86,
+          "mean": 4.41,
+          "median": 1.65,
+          "suggested": 1.74,
+          "quantity": 55,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Glock-18 | Catacombs (Field-Tested)",
+        "price": {
+          "min": 0.89,
+          "max": 11.67,
+          "mean": 1.39,
+          "median": 1.16,
+          "suggested": 1.12,
+          "quantity": 76,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Glock-18 | Catacombs (Well-Worn)",
+        "price": {
+          "min": 1.16,
+          "max": 1.69,
+          "mean": 1.32,
+          "median": 1.28,
+          "suggested": 1.08,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Glock-18 | Catacombs (Battle-Scarred)",
+        "price": {
+          "min": 0.84,
+          "max": 5.83,
+          "mean": 1.54,
+          "median": 1.28,
+          "suggested": 1.05,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Glock-18 | Catacombs (Factory New)",
+        "price": {
+          "min": 3.89,
+          "max": 710.12,
+          "mean": 38.4,
+          "median": 9.34,
+          "suggested": 4.52,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Glock-18 | Catacombs (Minimal Wear)",
+        "price": {
+          "min": 2.19,
+          "max": 126.02,
+          "mean": 9.55,
+          "median": 2.44,
+          "suggested": 2.56,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Glock-18 | Catacombs (Field-Tested)",
+        "price": {
+          "min": 1.48,
+          "max": 31.18,
+          "mean": 5.53,
+          "median": 2.3,
+          "suggested": 1.67,
+          "quantity": 39,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Glock-18 | Catacombs (Well-Worn)",
+        "price": {
+          "min": 1.48,
+          "max": 1.9,
+          "mean": 1.68,
+          "median": 1.62,
+          "suggested": 1.68,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Glock-18 | Catacombs (Battle-Scarred)",
+        "price": {
+          "min": 1.7,
+          "max": 2.71,
+          "mean": 2.03,
+          "median": 1.84,
+          "suggested": 2.21,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Glock-18 | Catacombs (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Glock-18 | Catacombs (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Glock-18 | Catacombs (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Glock-18 | Catacombs (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Glock-18 | Catacombs (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:31.772Z"
+}

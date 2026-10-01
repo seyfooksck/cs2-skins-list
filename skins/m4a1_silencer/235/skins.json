@@ -1,0 +1,289 @@
+{
+  "id": "skin-2d90d1532701",
+  "name": "M4A1-S | VariCamo",
+  "paint_index": "235",
+  "weapon": {
+    "id": "weapon_m4a1_silencer",
+    "weapon_id": 60,
+    "name": "M4A1-S",
+    "slug": "m4a1_silencer"
+  },
+  "pattern": {
+    "id": "hy_varicamo",
+    "name": "VariCamo"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. It has been painted using a VariCamo patterned hydrographic.\\n\\n<i>Rebuilding only comes in the wake of destruction</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.57,
+      "max": 81.69,
+      "mean": 11.37,
+      "median": 8.51,
+      "suggested": 3.27,
+      "quantity": 147,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.51,
+      "max": 583.47,
+      "mean": 8.45,
+      "median": 8.41,
+      "suggested": 0.65,
+      "quantity": 565,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.23,
+      "max": 173.87,
+      "mean": 2.5,
+      "median": 2.14,
+      "suggested": 0.31,
+      "quantity": 660,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.26,
+      "max": 30.92,
+      "mean": 1.75,
+      "median": 0.74,
+      "suggested": 0.33,
+      "quantity": 66,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.26,
+      "max": 7.39,
+      "mean": 1.18,
+      "median": 0.64,
+      "suggested": 0.32,
+      "quantity": 78,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A1-S | VariCamo (Factory New)",
+      "price": {
+        "min": 2.57,
+        "max": 81.69,
+        "mean": 11.37,
+        "median": 8.51,
+        "suggested": 3.27,
+        "quantity": 147,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A1-S | VariCamo (Minimal Wear)",
+      "price": {
+        "min": 0.51,
+        "max": 583.47,
+        "mean": 8.45,
+        "median": 8.41,
+        "suggested": 0.65,
+        "quantity": 565,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A1-S | VariCamo (Field-Tested)",
+      "price": {
+        "min": 0.23,
+        "max": 173.87,
+        "mean": 2.5,
+        "median": 2.14,
+        "suggested": 0.31,
+        "quantity": 660,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M4A1-S | VariCamo (Well-Worn)",
+      "price": {
+        "min": 0.26,
+        "max": 30.92,
+        "mean": 1.75,
+        "median": 0.74,
+        "suggested": 0.33,
+        "quantity": 66,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M4A1-S | VariCamo (Battle-Scarred)",
+      "price": {
+        "min": 0.26,
+        "max": 7.39,
+        "mean": 1.18,
+        "median": 0.64,
+        "suggested": 0.32,
+        "quantity": 78,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A1-S | VariCamo (Factory New)",
+        "price": {
+          "min": 2.57,
+          "max": 81.69,
+          "mean": 11.37,
+          "median": 8.51,
+          "suggested": 3.27,
+          "quantity": 147,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A1-S | VariCamo (Minimal Wear)",
+        "price": {
+          "min": 0.51,
+          "max": 583.47,
+          "mean": 8.45,
+          "median": 8.41,
+          "suggested": 0.65,
+          "quantity": 565,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A1-S | VariCamo (Field-Tested)",
+        "price": {
+          "min": 0.23,
+          "max": 173.87,
+          "mean": 2.5,
+          "median": 2.14,
+          "suggested": 0.31,
+          "quantity": 660,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M4A1-S | VariCamo (Well-Worn)",
+        "price": {
+          "min": 0.26,
+          "max": 30.92,
+          "mean": 1.75,
+          "median": 0.74,
+          "suggested": 0.33,
+          "quantity": 66,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M4A1-S | VariCamo (Battle-Scarred)",
+        "price": {
+          "min": 0.26,
+          "max": 7.39,
+          "mean": 1.18,
+          "median": 0.64,
+          "suggested": 0.32,
+          "quantity": 78,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A1-S | VariCamo (Factory New)",
+        "price": {
+          "min": 12.65,
+          "max": 105.01,
+          "mean": 52.15,
+          "median": 63.76,
+          "suggested": 14.58,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A1-S | VariCamo (Minimal Wear)",
+        "price": {
+          "min": 46.08,
+          "max": 69.26,
+          "mean": 55.74,
+          "median": 51.91,
+          "suggested": 11.78,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A1-S | VariCamo (Field-Tested)",
+        "price": {
+          "min": 22.24,
+          "max": 379.25,
+          "mean": 78.97,
+          "median": 36.74,
+          "suggested": 9.92,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M4A1-S | VariCamo (Well-Worn)",
+        "price": {
+          "min": 30.61,
+          "max": 30.61,
+          "mean": 30.61,
+          "median": 30.61,
+          "suggested": 11.68,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M4A1-S | VariCamo (Battle-Scarred)",
+        "price": {
+          "min": 49.59,
+          "max": 49.59,
+          "mean": 49.59,
+          "median": 49.59,
+          "suggested": 15.13,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.153Z"
+}

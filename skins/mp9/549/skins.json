@@ -1,0 +1,310 @@
+{
+  "id": "skin-6e2ddbfa3638",
+  "name": "MP9 | Bioleak",
+  "paint_index": "549",
+  "weapon": {
+    "id": "weapon_mp9",
+    "weapon_id": 34,
+    "name": "MP9",
+    "slug": "mp9"
+  },
+  "pattern": {
+    "id": "am_mp9_bioleak",
+    "name": "Bioleak"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. Varying shades of green create the illusion of a chemical spill.\\n\\n<i>BEWARE DIRECT EXPOSURE</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.92,
+      "max": 18.03,
+      "mean": 3.8,
+      "median": 1.89,
+      "suggested": 1.23,
+      "quantity": 96,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.35,
+      "max": 9.64,
+      "mean": 1.12,
+      "median": 0.48,
+      "suggested": 0.48,
+      "quantity": 116,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.36,
+      "max": 13.42,
+      "mean": 1.13,
+      "median": 0.68,
+      "suggested": 0.46,
+      "quantity": 331,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.29,
+      "max": 0.71,
+      "mean": 0.43,
+      "median": 0.41,
+      "suggested": 0.4,
+      "quantity": 30,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.33,
+      "max": 0.71,
+      "mean": 0.43,
+      "median": 0.4,
+      "suggested": 0.4,
+      "quantity": 28,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP9 | Bioleak (Factory New)",
+      "price": {
+        "min": 0.92,
+        "max": 18.03,
+        "mean": 3.8,
+        "median": 1.89,
+        "suggested": 1.23,
+        "quantity": 96,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP9 | Bioleak (Minimal Wear)",
+      "price": {
+        "min": 0.35,
+        "max": 9.64,
+        "mean": 1.12,
+        "median": 0.48,
+        "suggested": 0.48,
+        "quantity": 116,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP9 | Bioleak (Field-Tested)",
+      "price": {
+        "min": 0.36,
+        "max": 13.42,
+        "mean": 1.13,
+        "median": 0.68,
+        "suggested": 0.46,
+        "quantity": 331,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP9 | Bioleak (Well-Worn)",
+      "price": {
+        "min": 0.29,
+        "max": 0.71,
+        "mean": 0.43,
+        "median": 0.41,
+        "suggested": 0.4,
+        "quantity": 30,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP9 | Bioleak (Battle-Scarred)",
+      "price": {
+        "min": 0.33,
+        "max": 0.71,
+        "mean": 0.43,
+        "median": 0.4,
+        "suggested": 0.4,
+        "quantity": 28,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP9 | Bioleak (Factory New)",
+        "price": {
+          "min": 0.92,
+          "max": 18.03,
+          "mean": 3.8,
+          "median": 1.89,
+          "suggested": 1.23,
+          "quantity": 96,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP9 | Bioleak (Minimal Wear)",
+        "price": {
+          "min": 0.35,
+          "max": 9.64,
+          "mean": 1.12,
+          "median": 0.48,
+          "suggested": 0.48,
+          "quantity": 116,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP9 | Bioleak (Field-Tested)",
+        "price": {
+          "min": 0.36,
+          "max": 13.42,
+          "mean": 1.13,
+          "median": 0.68,
+          "suggested": 0.46,
+          "quantity": 331,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP9 | Bioleak (Well-Worn)",
+        "price": {
+          "min": 0.29,
+          "max": 0.71,
+          "mean": 0.43,
+          "median": 0.41,
+          "suggested": 0.4,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP9 | Bioleak (Battle-Scarred)",
+        "price": {
+          "min": 0.33,
+          "max": 0.71,
+          "mean": 0.43,
+          "median": 0.4,
+          "suggested": 0.4,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MP9 | Bioleak (Factory New)",
+        "price": {
+          "min": 1.39,
+          "max": 126.02,
+          "mean": 7.8,
+          "median": 3.19,
+          "suggested": 1.46,
+          "quantity": 65,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MP9 | Bioleak (Minimal Wear)",
+        "price": {
+          "min": 0.7,
+          "max": 60.24,
+          "mean": 2.95,
+          "median": 0.92,
+          "suggested": 0.82,
+          "quantity": 63,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MP9 | Bioleak (Field-Tested)",
+        "price": {
+          "min": 0.29,
+          "max": 6.53,
+          "mean": 1.49,
+          "median": 0.51,
+          "suggested": 0.39,
+          "quantity": 61,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MP9 | Bioleak (Well-Worn)",
+        "price": {
+          "min": 0.33,
+          "max": 1.17,
+          "mean": 0.58,
+          "median": 0.46,
+          "suggested": 0.33,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MP9 | Bioleak (Battle-Scarred)",
+        "price": {
+          "min": 0.28,
+          "max": 12.72,
+          "mean": 2.11,
+          "median": 0.48,
+          "suggested": 0.38,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP9 | Bioleak (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP9 | Bioleak (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP9 | Bioleak (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP9 | Bioleak (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP9 | Bioleak (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:43.535Z"
+}

@@ -1,0 +1,198 @@
+{
+  "id": "skin-5c4c6649f0ba",
+  "name": "AWP | Redline",
+  "paint_index": "259",
+  "weapon": {
+    "id": "weapon_awp",
+    "weapon_id": 9,
+    "name": "AWP",
+    "slug": "awp"
+  },
+  "pattern": {
+    "id": "cu_awp_cobra",
+    "name": "Redline"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0.1,
+  "max_float": 0.4,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been painted using a carbon fiber hydrographic and a dry-transfer decal of a red pinstripe.\\n\\n<i>Never be afraid to push it to the limit</i>",
+  "images": {
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "mw": {
+      "min": 82.56,
+      "max": 45881.65,
+      "mean": 1522.95,
+      "median": 140.03,
+      "suggested": 105.64,
+      "quantity": 79,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 38.73,
+      "max": 11668.21,
+      "mean": 192.59,
+      "median": 58,
+      "suggested": 48.7,
+      "quantity": 157,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 47.4,
+      "max": 70.75,
+      "mean": 59.08,
+      "median": 59.08,
+      "suggested": 58.84,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AWP | Redline (Minimal Wear)",
+      "price": {
+        "min": 82.56,
+        "max": 45881.65,
+        "mean": 1522.95,
+        "median": 140.03,
+        "suggested": 105.64,
+        "quantity": 79,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AWP | Redline (Field-Tested)",
+      "price": {
+        "min": 38.73,
+        "max": 11668.21,
+        "mean": 192.59,
+        "median": 58,
+        "suggested": 48.7,
+        "quantity": 157,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AWP | Redline (Well-Worn)",
+      "price": {
+        "min": 47.4,
+        "max": 70.75,
+        "mean": 59.08,
+        "median": 59.08,
+        "suggested": 58.84,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "mw": {
+        "market_hash_name": "AWP | Redline (Minimal Wear)",
+        "price": {
+          "min": 82.56,
+          "max": 45881.65,
+          "mean": 1522.95,
+          "median": 140.03,
+          "suggested": 105.64,
+          "quantity": 79,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AWP | Redline (Field-Tested)",
+        "price": {
+          "min": 38.73,
+          "max": 11668.21,
+          "mean": 192.59,
+          "median": 58,
+          "suggested": 48.7,
+          "quantity": 157,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AWP | Redline (Well-Worn)",
+        "price": {
+          "min": 47.4,
+          "max": 70.75,
+          "mean": 59.08,
+          "median": 59.08,
+          "suggested": 58.84,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "mw": {
+        "market_hash_name": "StatTrak™ AWP | Redline (Minimal Wear)",
+        "price": {
+          "min": 134.2,
+          "max": 612.64,
+          "mean": 224.27,
+          "median": 174.57,
+          "suggested": 192.16,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AWP | Redline (Field-Tested)",
+        "price": {
+          "min": 83.42,
+          "max": 5472.94,
+          "mean": 424.98,
+          "median": 105.02,
+          "suggested": 99.78,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AWP | Redline (Well-Worn)",
+        "price": null
+      }
+    },
+    "souvenir": {
+      "mw": {
+        "market_hash_name": "Souvenir AWP | Redline (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AWP | Redline (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AWP | Redline (Well-Worn)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.942Z"
+}

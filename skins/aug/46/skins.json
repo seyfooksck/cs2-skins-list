@@ -1,0 +1,273 @@
+{
+  "id": "skin-b01bdbd2c238",
+  "name": "AUG | Contractor",
+  "paint_index": "46",
+  "weapon": {
+    "id": "weapon_aug",
+    "weapon_id": 8,
+    "name": "AUG",
+    "slug": "aug"
+  },
+  "pattern": {
+    "id": "so_pmc",
+    "name": "Contractor"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire. It has individual parts spray-painted tan, navy and dark green.\\n\\n<i>Rona Sabri still hasn't forgiven Sebastien for not selecting her to go after Turner</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.48,
+      "max": 15,
+      "mean": 4.38,
+      "median": 3.93,
+      "suggested": 2.01,
+      "quantity": 30,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.04,
+      "max": 4.64,
+      "mean": 0.56,
+      "median": 0.07,
+      "suggested": 0.06,
+      "quantity": 248,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.02,
+      "max": 6.09,
+      "mean": 0.11,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 7794,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.02,
+      "max": 4.1,
+      "mean": 0.04,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 1324,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.02,
+      "max": 6.17,
+      "mean": 0.06,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 2087,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AUG | Contractor (Factory New)",
+      "price": {
+        "min": 1.48,
+        "max": 15,
+        "mean": 4.38,
+        "median": 3.93,
+        "suggested": 2.01,
+        "quantity": 30,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AUG | Contractor (Minimal Wear)",
+      "price": {
+        "min": 0.04,
+        "max": 4.64,
+        "mean": 0.56,
+        "median": 0.07,
+        "suggested": 0.06,
+        "quantity": 248,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AUG | Contractor (Field-Tested)",
+      "price": {
+        "min": 0.02,
+        "max": 6.09,
+        "mean": 0.11,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 7794,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AUG | Contractor (Well-Worn)",
+      "price": {
+        "min": 0.02,
+        "max": 4.1,
+        "mean": 0.04,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 1324,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AUG | Contractor (Battle-Scarred)",
+      "price": {
+        "min": 0.02,
+        "max": 6.17,
+        "mean": 0.06,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 2087,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AUG | Contractor (Factory New)",
+        "price": {
+          "min": 1.48,
+          "max": 15,
+          "mean": 4.38,
+          "median": 3.93,
+          "suggested": 2.01,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AUG | Contractor (Minimal Wear)",
+        "price": {
+          "min": 0.04,
+          "max": 4.64,
+          "mean": 0.56,
+          "median": 0.07,
+          "suggested": 0.06,
+          "quantity": 248,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AUG | Contractor (Field-Tested)",
+        "price": {
+          "min": 0.02,
+          "max": 6.09,
+          "mean": 0.11,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 7794,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AUG | Contractor (Well-Worn)",
+        "price": {
+          "min": 0.02,
+          "max": 4.1,
+          "mean": 0.04,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 1324,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AUG | Contractor (Battle-Scarred)",
+        "price": {
+          "min": 0.02,
+          "max": 6.17,
+          "mean": 0.06,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 2087,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AUG | Contractor (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AUG | Contractor (Minimal Wear)",
+        "price": {
+          "min": 35,
+          "max": 991.9,
+          "mean": 513.45,
+          "median": 513.45,
+          "suggested": 3.61,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AUG | Contractor (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AUG | Contractor (Well-Worn)",
+        "price": {
+          "min": 18.93,
+          "max": 18.93,
+          "mean": 18.93,
+          "median": 18.93,
+          "suggested": 1.49,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AUG | Contractor (Battle-Scarred)",
+        "price": {
+          "min": 58.35,
+          "max": 58.35,
+          "mean": 58.35,
+          "median": 58.35,
+          "suggested": 2.76,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.639Z"
+}

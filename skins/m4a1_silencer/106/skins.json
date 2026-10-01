@@ -1,0 +1,310 @@
+{
+  "id": "skin-aa9558c8a01f",
+  "name": "M4A1-S | Vaporwave",
+  "paint_index": "106",
+  "weapon": {
+    "id": "weapon_m4a1_silencer",
+    "weapon_id": 60,
+    "name": "M4A1-S",
+    "slug": "m4a1_silencer"
+  },
+  "pattern": {
+    "id": "m4a1s_vaporwave",
+    "name": "Vaporwave"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.597321,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. It has been custom painted with a Greco-Roman statue and other distorted imagery from a bygone era.\\n\\n<i>From a hypnagogic dream</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 194.48,
+      "max": 564.77,
+      "mean": 309.22,
+      "median": 301.89,
+      "suggested": 253.67,
+      "quantity": 40,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 94.31,
+      "max": 1007.65,
+      "mean": 155.44,
+      "median": 118.91,
+      "suggested": 120.23,
+      "quantity": 80,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 54.9,
+      "max": 350.07,
+      "mean": 96.49,
+      "median": 85.55,
+      "suggested": 70.12,
+      "quantity": 118,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 51.21,
+      "max": 103.94,
+      "mean": 85.48,
+      "median": 85.22,
+      "suggested": 59.33,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 43.83,
+      "max": 107.98,
+      "mean": 69.47,
+      "median": 51.15,
+      "suggested": 51.21,
+      "quantity": 10,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A1-S | Vaporwave (Factory New)",
+      "price": {
+        "min": 194.48,
+        "max": 564.77,
+        "mean": 309.22,
+        "median": 301.89,
+        "suggested": 253.67,
+        "quantity": 40,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A1-S | Vaporwave (Minimal Wear)",
+      "price": {
+        "min": 94.31,
+        "max": 1007.65,
+        "mean": 155.44,
+        "median": 118.91,
+        "suggested": 120.23,
+        "quantity": 80,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A1-S | Vaporwave (Field-Tested)",
+      "price": {
+        "min": 54.9,
+        "max": 350.07,
+        "mean": 96.49,
+        "median": 85.55,
+        "suggested": 70.12,
+        "quantity": 118,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M4A1-S | Vaporwave (Well-Worn)",
+      "price": {
+        "min": 51.21,
+        "max": 103.94,
+        "mean": 85.48,
+        "median": 85.22,
+        "suggested": 59.33,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M4A1-S | Vaporwave (Battle-Scarred)",
+      "price": {
+        "min": 43.83,
+        "max": 107.98,
+        "mean": 69.47,
+        "median": 51.15,
+        "suggested": 51.21,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A1-S | Vaporwave (Factory New)",
+        "price": {
+          "min": 194.48,
+          "max": 564.77,
+          "mean": 309.22,
+          "median": 301.89,
+          "suggested": 253.67,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A1-S | Vaporwave (Minimal Wear)",
+        "price": {
+          "min": 94.31,
+          "max": 1007.65,
+          "mean": 155.44,
+          "median": 118.91,
+          "suggested": 120.23,
+          "quantity": 80,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A1-S | Vaporwave (Field-Tested)",
+        "price": {
+          "min": 54.9,
+          "max": 350.07,
+          "mean": 96.49,
+          "median": 85.55,
+          "suggested": 70.12,
+          "quantity": 118,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M4A1-S | Vaporwave (Well-Worn)",
+        "price": {
+          "min": 51.21,
+          "max": 103.94,
+          "mean": 85.48,
+          "median": 85.22,
+          "suggested": 59.33,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M4A1-S | Vaporwave (Battle-Scarred)",
+        "price": {
+          "min": 43.83,
+          "max": 107.98,
+          "mean": 69.47,
+          "median": 51.15,
+          "suggested": 51.21,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ M4A1-S | Vaporwave (Factory New)",
+        "price": {
+          "min": 316.82,
+          "max": 2333.87,
+          "mean": 721.12,
+          "median": 599.16,
+          "suggested": 423.28,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ M4A1-S | Vaporwave (Minimal Wear)",
+        "price": {
+          "min": 183.72,
+          "max": 466.76,
+          "mean": 255.44,
+          "median": 243.89,
+          "suggested": 253.37,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ M4A1-S | Vaporwave (Field-Tested)",
+        "price": {
+          "min": 100.32,
+          "max": 1284.16,
+          "mean": 214.14,
+          "median": 139.95,
+          "suggested": 129.14,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ M4A1-S | Vaporwave (Well-Worn)",
+        "price": {
+          "min": 144.76,
+          "max": 799.17,
+          "mean": 471.97,
+          "median": 471.97,
+          "suggested": 128.65,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ M4A1-S | Vaporwave (Battle-Scarred)",
+        "price": {
+          "min": 90.12,
+          "max": 90.12,
+          "mean": 90.12,
+          "median": 90.12,
+          "suggested": 107.2,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A1-S | Vaporwave (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A1-S | Vaporwave (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A1-S | Vaporwave (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M4A1-S | Vaporwave (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M4A1-S | Vaporwave (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.240Z"
+}

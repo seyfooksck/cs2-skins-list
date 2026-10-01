@@ -1,0 +1,302 @@
+{
+  "id": "skin-f945b5be9ee1",
+  "name": "PP-Bizon | Jungle Slipstream",
+  "paint_index": "641",
+  "weapon": {
+    "id": "weapon_bizon",
+    "weapon_id": 26,
+    "name": "PP-Bizon",
+    "slug": "bizon"
+  },
+  "pattern": {
+    "id": "hy_bizon_torn_green",
+    "name": "Jungle Slipstream"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly. It has been custom painted with a green and yellow hydrographic.\\n\\n<i>Follow the leader</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.88,
+      "max": 22.17,
+      "mean": 2.33,
+      "median": 1.51,
+      "suggested": 1.31,
+      "quantity": 91,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.35,
+      "max": 11.66,
+      "mean": 0.7,
+      "median": 0.58,
+      "suggested": 0.53,
+      "quantity": 92,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.41,
+      "max": 22.17,
+      "mean": 0.99,
+      "median": 0.5,
+      "suggested": 0.58,
+      "quantity": 163,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.37,
+      "max": 11.66,
+      "mean": 1.14,
+      "median": 0.43,
+      "suggested": 0.53,
+      "quantity": 16,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.41,
+      "max": 8.34,
+      "mean": 2.67,
+      "median": 1.45,
+      "suggested": 0.39,
+      "quantity": 24,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "PP-Bizon | Jungle Slipstream (Factory New)",
+      "price": {
+        "min": 0.88,
+        "max": 22.17,
+        "mean": 2.33,
+        "median": 1.51,
+        "suggested": 1.31,
+        "quantity": 91,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "PP-Bizon | Jungle Slipstream (Minimal Wear)",
+      "price": {
+        "min": 0.35,
+        "max": 11.66,
+        "mean": 0.7,
+        "median": 0.58,
+        "suggested": 0.53,
+        "quantity": 92,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "PP-Bizon | Jungle Slipstream (Field-Tested)",
+      "price": {
+        "min": 0.41,
+        "max": 22.17,
+        "mean": 0.99,
+        "median": 0.5,
+        "suggested": 0.58,
+        "quantity": 163,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "PP-Bizon | Jungle Slipstream (Well-Worn)",
+      "price": {
+        "min": 0.37,
+        "max": 11.66,
+        "mean": 1.14,
+        "median": 0.43,
+        "suggested": 0.53,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "PP-Bizon | Jungle Slipstream (Battle-Scarred)",
+      "price": {
+        "min": 0.41,
+        "max": 8.34,
+        "mean": 2.67,
+        "median": 1.45,
+        "suggested": 0.39,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "PP-Bizon | Jungle Slipstream (Factory New)",
+        "price": {
+          "min": 0.88,
+          "max": 22.17,
+          "mean": 2.33,
+          "median": 1.51,
+          "suggested": 1.31,
+          "quantity": 91,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "PP-Bizon | Jungle Slipstream (Minimal Wear)",
+        "price": {
+          "min": 0.35,
+          "max": 11.66,
+          "mean": 0.7,
+          "median": 0.58,
+          "suggested": 0.53,
+          "quantity": 92,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "PP-Bizon | Jungle Slipstream (Field-Tested)",
+        "price": {
+          "min": 0.41,
+          "max": 22.17,
+          "mean": 0.99,
+          "median": 0.5,
+          "suggested": 0.58,
+          "quantity": 163,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "PP-Bizon | Jungle Slipstream (Well-Worn)",
+        "price": {
+          "min": 0.37,
+          "max": 11.66,
+          "mean": 1.14,
+          "median": 0.43,
+          "suggested": 0.53,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "PP-Bizon | Jungle Slipstream (Battle-Scarred)",
+        "price": {
+          "min": 0.41,
+          "max": 8.34,
+          "mean": 2.67,
+          "median": 1.45,
+          "suggested": 0.39,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Jungle Slipstream (Factory New)",
+        "price": {
+          "min": 0.86,
+          "max": 9.8,
+          "mean": 2.17,
+          "median": 1.16,
+          "suggested": 1.14,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Jungle Slipstream (Minimal Wear)",
+        "price": {
+          "min": 0.43,
+          "max": 2.33,
+          "mean": 0.72,
+          "median": 0.6,
+          "suggested": 0.57,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Jungle Slipstream (Field-Tested)",
+        "price": {
+          "min": 0.32,
+          "max": 1.03,
+          "mean": 0.4,
+          "median": 0.39,
+          "suggested": 0.36,
+          "quantity": 55,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Jungle Slipstream (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Jungle Slipstream (Battle-Scarred)",
+        "price": {
+          "min": 0.34,
+          "max": 0.47,
+          "mean": 0.42,
+          "median": 0.46,
+          "suggested": 0.43,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir PP-Bizon | Jungle Slipstream (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir PP-Bizon | Jungle Slipstream (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir PP-Bizon | Jungle Slipstream (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir PP-Bizon | Jungle Slipstream (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir PP-Bizon | Jungle Slipstream (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:27.143Z"
+}

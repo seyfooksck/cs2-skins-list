@@ -1,0 +1,204 @@
+{
+  "id": "skin-c79f644ef9e1",
+  "name": "★ Driver Gloves | Plum Quill",
+  "paint_index": "1412",
+  "weapon": {
+    "id": "slick_gloves",
+    "weapon_id": 5031,
+    "name": "Driver Gloves",
+    "slug": "slick_gloves"
+  },
+  "pattern": {
+    "id": "glove_driver_ostrich_purple",
+    "name": "Plum Quill"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_gloves",
+    "name": "Gloves"
+  },
+  "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "These driving gloves offer protection from the elements while still maintaining tactile sensation.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 194.38,
+      "max": 250.91,
+      "mean": 215.85,
+      "median": 206.02,
+      "suggested": 289.98,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 122.52,
+      "max": 221.72,
+      "mean": 138.87,
+      "median": 126.92,
+      "suggested": 144.38,
+      "quantity": 32,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 111.79,
+      "max": 119.84,
+      "mean": 116.06,
+      "median": 115.82,
+      "suggested": 135.78,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 110.18,
+      "max": 137.76,
+      "mean": 122.27,
+      "median": 119.97,
+      "suggested": 128.46,
+      "quantity": 5,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Driver Gloves | Plum Quill (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Driver Gloves | Plum Quill (Minimal Wear)",
+      "price": {
+        "min": 194.38,
+        "max": 250.91,
+        "mean": 215.85,
+        "median": 206.02,
+        "suggested": 289.98,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Driver Gloves | Plum Quill (Field-Tested)",
+      "price": {
+        "min": 122.52,
+        "max": 221.72,
+        "mean": 138.87,
+        "median": 126.92,
+        "suggested": 144.38,
+        "quantity": 32,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Driver Gloves | Plum Quill (Well-Worn)",
+      "price": {
+        "min": 111.79,
+        "max": 119.84,
+        "mean": 116.06,
+        "median": 115.82,
+        "suggested": 135.78,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Driver Gloves | Plum Quill (Battle-Scarred)",
+      "price": {
+        "min": 110.18,
+        "max": 137.76,
+        "mean": 122.27,
+        "median": 119.97,
+        "suggested": 128.46,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Driver Gloves | Plum Quill (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Driver Gloves | Plum Quill (Minimal Wear)",
+        "price": {
+          "min": 194.38,
+          "max": 250.91,
+          "mean": 215.85,
+          "median": 206.02,
+          "suggested": 289.98,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Driver Gloves | Plum Quill (Field-Tested)",
+        "price": {
+          "min": 122.52,
+          "max": 221.72,
+          "mean": 138.87,
+          "median": 126.92,
+          "suggested": 144.38,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Driver Gloves | Plum Quill (Well-Worn)",
+        "price": {
+          "min": 111.79,
+          "max": 119.84,
+          "mean": 116.06,
+          "median": 115.82,
+          "suggested": 135.78,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Driver Gloves | Plum Quill (Battle-Scarred)",
+        "price": {
+          "min": 110.18,
+          "max": 137.76,
+          "mean": 122.27,
+          "median": 119.97,
+          "suggested": 128.46,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:23.389Z"
+}

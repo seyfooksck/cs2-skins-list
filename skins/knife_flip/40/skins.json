@@ -1,0 +1,193 @@
+{
+  "id": "skin-ba43884c26b8",
+  "name": "★ Flip Knife | Night",
+  "paint_index": "40",
+  "weapon": {
+    "id": "weapon_knife_flip",
+    "weapon_id": 505,
+    "name": "Flip Knife",
+    "slug": "knife_flip"
+  },
+  "pattern": {
+    "id": "so_night",
+    "name": "Night"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Flip knives sport a Persian-style back-swept blade with an acute point.  While the point itself may be fragile, the overall design of the flip knife's design is surprisingly durable. It has individual parts spray-painted solid colors in a night ops color scheme.\\n\\n<i>It's the whisper of the wind... it's the bite at your neck</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 178.6,
+      "max": 332.95,
+      "mean": 243.34,
+      "median": 227.39,
+      "suggested": 186.95,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 127.53,
+      "max": 207.49,
+      "mean": 148.74,
+      "median": 140.03,
+      "suggested": 174.45,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Flip Knife | Night (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Flip Knife | Night (Minimal Wear)",
+      "price": {
+        "min": 178.6,
+        "max": 332.95,
+        "mean": 243.34,
+        "median": 227.39,
+        "suggested": 186.95,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Flip Knife | Night (Field-Tested)",
+      "price": {
+        "min": 127.53,
+        "max": 207.49,
+        "mean": 148.74,
+        "median": 140.03,
+        "suggested": 174.45,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Flip Knife | Night (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Flip Knife | Night (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Flip Knife | Night (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Flip Knife | Night (Minimal Wear)",
+        "price": {
+          "min": 178.6,
+          "max": 332.95,
+          "mean": 243.34,
+          "median": 227.39,
+          "suggested": 186.95,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Flip Knife | Night (Field-Tested)",
+        "price": {
+          "min": 127.53,
+          "max": 207.49,
+          "mean": 148.74,
+          "median": 140.03,
+          "suggested": 174.45,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Flip Knife | Night (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ Flip Knife | Night (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Night (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Night (Minimal Wear)",
+        "price": {
+          "min": 186.71,
+          "max": 186.71,
+          "mean": 186.71,
+          "median": 186.71,
+          "suggested": 202.7,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Night (Field-Tested)",
+        "price": {
+          "min": 149.16,
+          "max": 219.94,
+          "mean": 184.55,
+          "median": 184.55,
+          "suggested": 147.03,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Night (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Night (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:34.832Z"
+}

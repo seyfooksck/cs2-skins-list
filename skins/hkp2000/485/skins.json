@@ -1,0 +1,310 @@
+{
+  "id": "skin-5b9aeeb9ad89",
+  "name": "P2000 | Handgun",
+  "paint_index": "485",
+  "weapon": {
+    "id": "weapon_hkp2000",
+    "weapon_id": 32,
+    "name": "P2000",
+    "slug": "hkp2000"
+  },
+  "pattern": {
+    "id": "aq_p2000_boom",
+    "name": "Handgun"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Accurate and controllable, the German-made P2000 is a serviceable first-round pistol that works best against unarmored opponents. It has been custom painted with a hand making an aiming gesture.\\n\\n<i>No more fun and games</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 26.84,
+      "max": 126.6,
+      "mean": 60.55,
+      "median": 52.51,
+      "suggested": 30.15,
+      "quantity": 13,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.36,
+      "max": 58.35,
+      "mean": 5.03,
+      "median": 2.92,
+      "suggested": 2.78,
+      "quantity": 43,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.99,
+      "max": 40.84,
+      "mean": 2.37,
+      "median": 1.18,
+      "suggested": 1.22,
+      "quantity": 65,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.71,
+      "max": 1.61,
+      "mean": 0.99,
+      "median": 1.1,
+      "suggested": 0.86,
+      "quantity": 22,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.64,
+      "max": 4.67,
+      "mean": 1.3,
+      "median": 0.95,
+      "suggested": 0.81,
+      "quantity": 30,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P2000 | Handgun (Factory New)",
+      "price": {
+        "min": 26.84,
+        "max": 126.6,
+        "mean": 60.55,
+        "median": 52.51,
+        "suggested": 30.15,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P2000 | Handgun (Minimal Wear)",
+      "price": {
+        "min": 2.36,
+        "max": 58.35,
+        "mean": 5.03,
+        "median": 2.92,
+        "suggested": 2.78,
+        "quantity": 43,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P2000 | Handgun (Field-Tested)",
+      "price": {
+        "min": 0.99,
+        "max": 40.84,
+        "mean": 2.37,
+        "median": 1.18,
+        "suggested": 1.22,
+        "quantity": 65,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P2000 | Handgun (Well-Worn)",
+      "price": {
+        "min": 0.71,
+        "max": 1.61,
+        "mean": 0.99,
+        "median": 1.1,
+        "suggested": 0.86,
+        "quantity": 22,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P2000 | Handgun (Battle-Scarred)",
+      "price": {
+        "min": 0.64,
+        "max": 4.67,
+        "mean": 1.3,
+        "median": 0.95,
+        "suggested": 0.81,
+        "quantity": 30,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P2000 | Handgun (Factory New)",
+        "price": {
+          "min": 26.84,
+          "max": 126.6,
+          "mean": 60.55,
+          "median": 52.51,
+          "suggested": 30.15,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P2000 | Handgun (Minimal Wear)",
+        "price": {
+          "min": 2.36,
+          "max": 58.35,
+          "mean": 5.03,
+          "median": 2.92,
+          "suggested": 2.78,
+          "quantity": 43,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P2000 | Handgun (Field-Tested)",
+        "price": {
+          "min": 0.99,
+          "max": 40.84,
+          "mean": 2.37,
+          "median": 1.18,
+          "suggested": 1.22,
+          "quantity": 65,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P2000 | Handgun (Well-Worn)",
+        "price": {
+          "min": 0.71,
+          "max": 1.61,
+          "mean": 0.99,
+          "median": 1.1,
+          "suggested": 0.86,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P2000 | Handgun (Battle-Scarred)",
+        "price": {
+          "min": 0.64,
+          "max": 4.67,
+          "mean": 1.3,
+          "median": 0.95,
+          "suggested": 0.81,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P2000 | Handgun (Factory New)",
+        "price": {
+          "min": 19.39,
+          "max": 61.46,
+          "mean": 39.24,
+          "median": 38.51,
+          "suggested": 21.72,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P2000 | Handgun (Minimal Wear)",
+        "price": {
+          "min": 4.42,
+          "max": 142.37,
+          "mean": 15.96,
+          "median": 11.66,
+          "suggested": 5.25,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P2000 | Handgun (Field-Tested)",
+        "price": {
+          "min": 1.97,
+          "max": 151.59,
+          "mean": 16.29,
+          "median": 2.65,
+          "suggested": 2.29,
+          "quantity": 43,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ P2000 | Handgun (Well-Worn)",
+        "price": {
+          "min": 1.77,
+          "max": 124.85,
+          "mean": 15.72,
+          "median": 2.38,
+          "suggested": 1.87,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ P2000 | Handgun (Battle-Scarred)",
+        "price": {
+          "min": 1.4,
+          "max": 17.49,
+          "mean": 3.29,
+          "median": 2.33,
+          "suggested": 1.76,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P2000 | Handgun (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P2000 | Handgun (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P2000 | Handgun (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P2000 | Handgun (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P2000 | Handgun (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:32.429Z"
+}

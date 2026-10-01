@@ -1,0 +1,185 @@
+{
+  "id": "skin-bb430e7deeba",
+  "name": "MP9 | Dark Age",
+  "paint_index": "329",
+  "weapon": {
+    "id": "weapon_mp9",
+    "weapon_id": 34,
+    "name": "MP9",
+    "slug": "mp9"
+  },
+  "pattern": {
+    "id": "am_metal_inlay",
+    "name": "Dark Age"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.22,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been painted with metallic paints to look as though it has been inlaid with metals in a medieval motif.\\n\\n<i>I could kill her paramour... perhaps that would buy you some time with Valeria - A Father's Love Part 2</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 69.83,
+      "max": 443.44,
+      "mean": 187.08,
+      "median": 124.72,
+      "suggested": 81.43,
+      "quantity": 22,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 58.98,
+      "max": 87.52,
+      "mean": 73.86,
+      "median": 75.06,
+      "suggested": 93.82,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 97.38,
+      "max": 97.38,
+      "mean": 97.38,
+      "median": 97.38,
+      "suggested": 101.91,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP9 | Dark Age (Factory New)",
+      "price": {
+        "min": 69.83,
+        "max": 443.44,
+        "mean": 187.08,
+        "median": 124.72,
+        "suggested": 81.43,
+        "quantity": 22,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP9 | Dark Age (Minimal Wear)",
+      "price": {
+        "min": 58.98,
+        "max": 87.52,
+        "mean": 73.86,
+        "median": 75.06,
+        "suggested": 93.82,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP9 | Dark Age (Field-Tested)",
+      "price": {
+        "min": 97.38,
+        "max": 97.38,
+        "mean": 97.38,
+        "median": 97.38,
+        "suggested": 101.91,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP9 | Dark Age (Factory New)",
+        "price": {
+          "min": 69.83,
+          "max": 443.44,
+          "mean": 187.08,
+          "median": 124.72,
+          "suggested": 81.43,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP9 | Dark Age (Minimal Wear)",
+        "price": {
+          "min": 58.98,
+          "max": 87.52,
+          "mean": 73.86,
+          "median": 75.06,
+          "suggested": 93.82,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP9 | Dark Age (Field-Tested)",
+        "price": {
+          "min": 97.38,
+          "max": 97.38,
+          "mean": 97.38,
+          "median": 97.38,
+          "suggested": 101.91,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP9 | Dark Age (Factory New)",
+        "price": {
+          "min": 75.85,
+          "max": 1742.16,
+          "mean": 588.65,
+          "median": 341.97,
+          "suggested": 70.15,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP9 | Dark Age (Minimal Wear)",
+        "price": {
+          "min": 45.14,
+          "max": 161.35,
+          "mean": 73.95,
+          "median": 58.35,
+          "suggested": 66.56,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP9 | Dark Age (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:43.511Z"
+}

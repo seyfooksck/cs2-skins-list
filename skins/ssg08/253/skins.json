@@ -1,0 +1,97 @@
+{
+  "id": "skin-8d85f69ac3c8",
+  "name": "SSG 08 | Acid Fade",
+  "paint_index": "253",
+  "weapon": {
+    "id": "weapon_ssg08",
+    "weapon_id": 40,
+    "name": "SSG 08",
+    "slug": "ssg08"
+  },
+  "pattern": {
+    "id": "aa_fade_grassland",
+    "name": "Acid Fade"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.03,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship. It has been painted by airbrushing transparent paints that fade together over a chrome base coat.\\n\\n<i>This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training</i>",
+  "images": {
+    "fn": "fn.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.05,
+      "max": 466.76,
+      "mean": 5.04,
+      "median": 2.32,
+      "suggested": 1.28,
+      "quantity": 2954,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SSG 08 | Acid Fade (Factory New)",
+      "price": {
+        "min": 1.05,
+        "max": 466.76,
+        "mean": 5.04,
+        "median": 2.32,
+        "suggested": 1.28,
+        "quantity": 2954,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SSG 08 | Acid Fade (Factory New)",
+        "price": {
+          "min": 1.05,
+          "max": 466.76,
+          "mean": 5.04,
+          "median": 2.32,
+          "suggested": 1.28,
+          "quantity": 2954,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SSG 08 | Acid Fade (Factory New)",
+        "price": {
+          "min": 20.67,
+          "max": 20.67,
+          "mean": 20.67,
+          "median": 20.67,
+          "suggested": 14,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:48.312Z"
+}

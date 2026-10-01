@@ -1,0 +1,249 @@
+{
+  "id": "skin-566d676ca07d",
+  "name": "P90 | Mustard Gas",
+  "paint_index": "1291",
+  "weapon": {
+    "id": "weapon_p90",
+    "weapon_id": 19,
+    "name": "P90",
+    "slug": "p90"
+  },
+  "pattern": {
+    "id": "hye_zoom",
+    "name": "Mustard Gas"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.63,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. A blue-green base coat has been finished with a yellow hydrographic \\\"ground smoke\\\" pattern.\\n\\n<i>Denying information is as important as obtaining it</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.19,
+      "max": 12.68,
+      "mean": 1.79,
+      "median": 1.69,
+      "suggested": 0.22,
+      "quantity": 95,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.08,
+      "max": 5.83,
+      "mean": 0.34,
+      "median": 0.11,
+      "suggested": 0.1,
+      "quantity": 79,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.02,
+      "max": 4.67,
+      "mean": 0.11,
+      "median": 0.05,
+      "suggested": 0.03,
+      "quantity": 295,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.02,
+      "max": 0.19,
+      "mean": 0.08,
+      "median": 0.08,
+      "suggested": 0.05,
+      "quantity": 17,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.04,
+      "max": 0.26,
+      "mean": 0.07,
+      "median": 0.06,
+      "suggested": 0.03,
+      "quantity": 46,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P90 | Mustard Gas (Factory New)",
+      "price": {
+        "min": 0.19,
+        "max": 12.68,
+        "mean": 1.79,
+        "median": 1.69,
+        "suggested": 0.22,
+        "quantity": 95,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P90 | Mustard Gas (Minimal Wear)",
+      "price": {
+        "min": 0.08,
+        "max": 5.83,
+        "mean": 0.34,
+        "median": 0.11,
+        "suggested": 0.1,
+        "quantity": 79,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P90 | Mustard Gas (Field-Tested)",
+      "price": {
+        "min": 0.02,
+        "max": 4.67,
+        "mean": 0.11,
+        "median": 0.05,
+        "suggested": 0.03,
+        "quantity": 295,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P90 | Mustard Gas (Well-Worn)",
+      "price": {
+        "min": 0.02,
+        "max": 0.19,
+        "mean": 0.08,
+        "median": 0.08,
+        "suggested": 0.05,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P90 | Mustard Gas (Battle-Scarred)",
+      "price": {
+        "min": 0.04,
+        "max": 0.26,
+        "mean": 0.07,
+        "median": 0.06,
+        "suggested": 0.03,
+        "quantity": 46,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P90 | Mustard Gas (Factory New)",
+        "price": {
+          "min": 0.19,
+          "max": 12.68,
+          "mean": 1.79,
+          "median": 1.69,
+          "suggested": 0.22,
+          "quantity": 95,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P90 | Mustard Gas (Minimal Wear)",
+        "price": {
+          "min": 0.08,
+          "max": 5.83,
+          "mean": 0.34,
+          "median": 0.11,
+          "suggested": 0.1,
+          "quantity": 79,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P90 | Mustard Gas (Field-Tested)",
+        "price": {
+          "min": 0.02,
+          "max": 4.67,
+          "mean": 0.11,
+          "median": 0.05,
+          "suggested": 0.03,
+          "quantity": 295,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P90 | Mustard Gas (Well-Worn)",
+        "price": {
+          "min": 0.02,
+          "max": 0.19,
+          "mean": 0.08,
+          "median": 0.08,
+          "suggested": 0.05,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P90 | Mustard Gas (Battle-Scarred)",
+        "price": {
+          "min": 0.04,
+          "max": 0.26,
+          "mean": 0.07,
+          "median": 0.06,
+          "suggested": 0.03,
+          "quantity": 46,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P90 | Mustard Gas (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P90 | Mustard Gas (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P90 | Mustard Gas (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P90 | Mustard Gas (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P90 | Mustard Gas (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:46.307Z"
+}

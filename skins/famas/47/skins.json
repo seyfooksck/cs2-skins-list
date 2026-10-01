@@ -1,0 +1,281 @@
+{
+  "id": "skin-e56f49876bdd",
+  "name": "FAMAS | Colony",
+  "paint_index": "47",
+  "weapon": {
+    "id": "weapon_famas",
+    "weapon_id": 10,
+    "name": "FAMAS",
+    "slug": "famas"
+  },
+  "pattern": {
+    "id": "so_space_marine",
+    "name": "Colony"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. It has individual parts spray-painted khaki and grey.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 3.84,
+      "max": 24.51,
+      "mean": 10.58,
+      "median": 7.77,
+      "suggested": 4.49,
+      "quantity": 35,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.04,
+      "max": 12.84,
+      "mean": 0.64,
+      "median": 0.08,
+      "suggested": 0.06,
+      "quantity": 276,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.02,
+      "max": 6.17,
+      "mean": 0.08,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 7142,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.02,
+      "max": 4.07,
+      "mean": 0.04,
+      "median": 0.02,
+      "suggested": 0.03,
+      "quantity": 1147,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.02,
+      "max": 4.07,
+      "mean": 0.05,
+      "median": 0.02,
+      "suggested": 0.03,
+      "quantity": 1732,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "FAMAS | Colony (Factory New)",
+      "price": {
+        "min": 3.84,
+        "max": 24.51,
+        "mean": 10.58,
+        "median": 7.77,
+        "suggested": 4.49,
+        "quantity": 35,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "FAMAS | Colony (Minimal Wear)",
+      "price": {
+        "min": 0.04,
+        "max": 12.84,
+        "mean": 0.64,
+        "median": 0.08,
+        "suggested": 0.06,
+        "quantity": 276,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "FAMAS | Colony (Field-Tested)",
+      "price": {
+        "min": 0.02,
+        "max": 6.17,
+        "mean": 0.08,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 7142,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "FAMAS | Colony (Well-Worn)",
+      "price": {
+        "min": 0.02,
+        "max": 4.07,
+        "mean": 0.04,
+        "median": 0.02,
+        "suggested": 0.03,
+        "quantity": 1147,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "FAMAS | Colony (Battle-Scarred)",
+      "price": {
+        "min": 0.02,
+        "max": 4.07,
+        "mean": 0.05,
+        "median": 0.02,
+        "suggested": 0.03,
+        "quantity": 1732,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "FAMAS | Colony (Factory New)",
+        "price": {
+          "min": 3.84,
+          "max": 24.51,
+          "mean": 10.58,
+          "median": 7.77,
+          "suggested": 4.49,
+          "quantity": 35,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "FAMAS | Colony (Minimal Wear)",
+        "price": {
+          "min": 0.04,
+          "max": 12.84,
+          "mean": 0.64,
+          "median": 0.08,
+          "suggested": 0.06,
+          "quantity": 276,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "FAMAS | Colony (Field-Tested)",
+        "price": {
+          "min": 0.02,
+          "max": 6.17,
+          "mean": 0.08,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 7142,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "FAMAS | Colony (Well-Worn)",
+        "price": {
+          "min": 0.02,
+          "max": 4.07,
+          "mean": 0.04,
+          "median": 0.02,
+          "suggested": 0.03,
+          "quantity": 1147,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "FAMAS | Colony (Battle-Scarred)",
+        "price": {
+          "min": 0.02,
+          "max": 4.07,
+          "mean": 0.05,
+          "median": 0.02,
+          "suggested": 0.03,
+          "quantity": 1732,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir FAMAS | Colony (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir FAMAS | Colony (Minimal Wear)",
+        "price": {
+          "min": 29.17,
+          "max": 68.86,
+          "mean": 46.68,
+          "median": 42,
+          "suggested": 3.17,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir FAMAS | Colony (Field-Tested)",
+        "price": {
+          "min": 18.03,
+          "max": 39.56,
+          "mean": 26.2,
+          "median": 21,
+          "suggested": 4.57,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir FAMAS | Colony (Well-Worn)",
+        "price": {
+          "min": 23.79,
+          "max": 23.79,
+          "mean": 23.79,
+          "median": 23.79,
+          "suggested": 2.92,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir FAMAS | Colony (Battle-Scarred)",
+        "price": {
+          "min": 227.59,
+          "max": 227.59,
+          "mean": 227.59,
+          "median": 227.59,
+          "suggested": 2.34,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:29.718Z"
+}

@@ -1,0 +1,249 @@
+{
+  "id": "skin-d77e177f35e2",
+  "name": "★ Shadow Daggers | Freehand",
+  "paint_index": "581",
+  "weapon": {
+    "id": "weapon_knife_push",
+    "weapon_id": 516,
+    "name": "Shadow Daggers",
+    "slug": "knife_push"
+  },
+  "pattern": {
+    "id": "am_marked_up_90",
+    "name": "Freehand"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.48,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Designed for efficient brutality, using a push dagger is as simple as throwing a punch or two. It has been painted black and purple, then decorated with a metallic marker.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 65.99,
+      "max": 233.39,
+      "mean": 92.49,
+      "median": 70.86,
+      "suggested": 75.97,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 57.25,
+      "max": 100.99,
+      "mean": 67.65,
+      "median": 62.38,
+      "suggested": 68.01,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 55.38,
+      "max": 93.35,
+      "mean": 63.26,
+      "median": 59.12,
+      "suggested": 64.93,
+      "quantity": 18,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 56.21,
+      "max": 56.21,
+      "mean": 56.21,
+      "median": 56.21,
+      "suggested": 62.89,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Shadow Daggers | Freehand (Factory New)",
+      "price": {
+        "min": 65.99,
+        "max": 233.39,
+        "mean": 92.49,
+        "median": 70.86,
+        "suggested": 75.97,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Shadow Daggers | Freehand (Minimal Wear)",
+      "price": {
+        "min": 57.25,
+        "max": 100.99,
+        "mean": 67.65,
+        "median": 62.38,
+        "suggested": 68.01,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Shadow Daggers | Freehand (Field-Tested)",
+      "price": {
+        "min": 55.38,
+        "max": 93.35,
+        "mean": 63.26,
+        "median": 59.12,
+        "suggested": 64.93,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Shadow Daggers | Freehand (Well-Worn)",
+      "price": {
+        "min": 56.21,
+        "max": 56.21,
+        "mean": 56.21,
+        "median": 56.21,
+        "suggested": 62.89,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Shadow Daggers | Freehand (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Shadow Daggers | Freehand (Factory New)",
+        "price": {
+          "min": 65.99,
+          "max": 233.39,
+          "mean": 92.49,
+          "median": 70.86,
+          "suggested": 75.97,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Shadow Daggers | Freehand (Minimal Wear)",
+        "price": {
+          "min": 57.25,
+          "max": 100.99,
+          "mean": 67.65,
+          "median": 62.38,
+          "suggested": 68.01,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Shadow Daggers | Freehand (Field-Tested)",
+        "price": {
+          "min": 55.38,
+          "max": 93.35,
+          "mean": 63.26,
+          "median": 59.12,
+          "suggested": 64.93,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Shadow Daggers | Freehand (Well-Worn)",
+        "price": {
+          "min": 56.21,
+          "max": 56.21,
+          "mean": 56.21,
+          "median": 56.21,
+          "suggested": 62.89,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Shadow Daggers | Freehand (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Shadow Daggers | Freehand (Factory New)",
+        "price": {
+          "min": 94.01,
+          "max": 96.04,
+          "mean": 95.02,
+          "median": 95.02,
+          "suggested": 103.04,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Shadow Daggers | Freehand (Minimal Wear)",
+        "price": {
+          "min": 69.81,
+          "max": 95,
+          "mean": 82.41,
+          "median": 82.41,
+          "suggested": 81.63,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Shadow Daggers | Freehand (Field-Tested)",
+        "price": {
+          "min": 67.67,
+          "max": 88.5,
+          "mean": 78.09,
+          "median": 78.09,
+          "suggested": 72.59,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Shadow Daggers | Freehand (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Shadow Daggers | Freehand (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:37.286Z"
+}

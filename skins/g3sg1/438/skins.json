@@ -1,0 +1,161 @@
+{
+  "id": "skin-89ea65b63946",
+  "name": "G3SG1 | Chronos",
+  "paint_index": "438",
+  "weapon": {
+    "id": "weapon_g3sg1",
+    "weapon_id": 11,
+    "name": "G3SG1",
+    "slug": "g3sg1"
+  },
+  "pattern": {
+    "id": "cu_chronos_g3sg1",
+    "name": "Chronos"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.4,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The pricy G3SG1 lowers movement speed considerably but compensates with a higher rate of fire than other sniper rifles. It has been decorated with a hydrographic of watch mechanisms in psychedelic colors and accented with heat transfer decals.\\n\\n<i>In time, all things are possible</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 419.19,
+      "max": 612.64,
+      "mean": 515.91,
+      "median": 515.91,
+      "suggested": 424.68,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "mw": null,
+    "ft": {
+      "min": 420.1,
+      "max": 420.1,
+      "mean": 420.1,
+      "median": 420.1,
+      "suggested": 342.11,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ww": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "G3SG1 | Chronos (Factory New)",
+      "price": {
+        "min": 419.19,
+        "max": 612.64,
+        "mean": 515.91,
+        "median": 515.91,
+        "suggested": 424.68,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "G3SG1 | Chronos (Minimal Wear)",
+      "price": null,
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "G3SG1 | Chronos (Field-Tested)",
+      "price": {
+        "min": 420.1,
+        "max": 420.1,
+        "mean": 420.1,
+        "median": 420.1,
+        "suggested": 342.11,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "G3SG1 | Chronos (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "G3SG1 | Chronos (Factory New)",
+        "price": {
+          "min": 419.19,
+          "max": 612.64,
+          "mean": 515.91,
+          "median": 515.91,
+          "suggested": 424.68,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "G3SG1 | Chronos (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "G3SG1 | Chronos (Field-Tested)",
+        "price": {
+          "min": 420.1,
+          "max": 420.1,
+          "mean": 420.1,
+          "median": 420.1,
+          "suggested": 342.11,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "G3SG1 | Chronos (Well-Worn)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir G3SG1 | Chronos (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir G3SG1 | Chronos (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir G3SG1 | Chronos (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir G3SG1 | Chronos (Well-Worn)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:30.475Z"
+}

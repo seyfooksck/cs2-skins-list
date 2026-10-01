@@ -1,0 +1,226 @@
+{
+  "id": "skin-f316468861b1",
+  "name": "MAG-7 | Hard Water",
+  "paint_index": "666",
+  "weapon": {
+    "id": "weapon_mag7",
+    "weapon_id": 27,
+    "name": "MAG-7",
+    "slug": "mag7"
+  },
+  "pattern": {
+    "id": "am_mag7_caustic",
+    "name": "Hard Water"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.45,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The CT-exclusive Mag-7 delivers a devastating amount of damage at close range. Its rapid magazine-style reloads make it a great tactical choice. It has been painted with a grey anodized pattern and finished with blue highlights.\\n\\n<i>\\\"I wouldn't drink that\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 8.25,
+      "max": 63.25,
+      "mean": 17.96,
+      "median": 12.4,
+      "suggested": 10.1,
+      "quantity": 17,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 6.38,
+      "max": 12.44,
+      "mean": 10.06,
+      "median": 10.48,
+      "suggested": 7.35,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 5.06,
+      "max": 12.51,
+      "mean": 7.57,
+      "median": 6.23,
+      "suggested": 6.02,
+      "quantity": 13,
+      "currency": "USD"
+    },
+    "ww": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAG-7 | Hard Water (Factory New)",
+      "price": {
+        "min": 8.25,
+        "max": 63.25,
+        "mean": 17.96,
+        "median": 12.4,
+        "suggested": 10.1,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAG-7 | Hard Water (Minimal Wear)",
+      "price": {
+        "min": 6.38,
+        "max": 12.44,
+        "mean": 10.06,
+        "median": 10.48,
+        "suggested": 7.35,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAG-7 | Hard Water (Field-Tested)",
+      "price": {
+        "min": 5.06,
+        "max": 12.51,
+        "mean": 7.57,
+        "median": 6.23,
+        "suggested": 6.02,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAG-7 | Hard Water (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAG-7 | Hard Water (Factory New)",
+        "price": {
+          "min": 8.25,
+          "max": 63.25,
+          "mean": 17.96,
+          "median": 12.4,
+          "suggested": 10.1,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAG-7 | Hard Water (Minimal Wear)",
+        "price": {
+          "min": 6.38,
+          "max": 12.44,
+          "mean": 10.06,
+          "median": 10.48,
+          "suggested": 7.35,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAG-7 | Hard Water (Field-Tested)",
+        "price": {
+          "min": 5.06,
+          "max": 12.51,
+          "mean": 7.57,
+          "median": 6.23,
+          "suggested": 6.02,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAG-7 | Hard Water (Well-Worn)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MAG-7 | Hard Water (Factory New)",
+        "price": {
+          "min": 9.72,
+          "max": 28.78,
+          "mean": 21.11,
+          "median": 26.84,
+          "suggested": 7.71,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MAG-7 | Hard Water (Minimal Wear)",
+        "price": {
+          "min": 6.84,
+          "max": 8.15,
+          "mean": 7.29,
+          "median": 6.88,
+          "suggested": 6.15,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MAG-7 | Hard Water (Field-Tested)",
+        "price": {
+          "min": 11.26,
+          "max": 11.26,
+          "mean": 11.26,
+          "median": 11.26,
+          "suggested": 6.46,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MAG-7 | Hard Water (Well-Worn)",
+        "price": null
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAG-7 | Hard Water (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAG-7 | Hard Water (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAG-7 | Hard Water (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAG-7 | Hard Water (Well-Worn)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.155Z"
+}

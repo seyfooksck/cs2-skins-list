@@ -1,0 +1,310 @@
+{
+  "id": "skin-d6cf8565026b",
+  "name": "AWP | Atheris",
+  "paint_index": "838",
+  "weapon": {
+    "id": "weapon_awp",
+    "weapon_id": 9,
+    "name": "AWP",
+    "slug": "awp"
+  },
+  "pattern": {
+    "id": "cu_awp_viper",
+    "name": "Atheris"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. A striking green and blue bush viper has been hand painted over a black base.\\n\\n<i>As deadly as it is beautiful</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 51.17,
+      "max": 7375.04,
+      "mean": 193.65,
+      "median": 70.02,
+      "suggested": 74.84,
+      "quantity": 88,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 8.81,
+      "max": 136.52,
+      "mean": 19.01,
+      "median": 12.52,
+      "suggested": 11.13,
+      "quantity": 185,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 5.15,
+      "max": 266.06,
+      "mean": 17.73,
+      "median": 6.09,
+      "suggested": 6.19,
+      "quantity": 362,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 3.84,
+      "max": 780.94,
+      "mean": 15.22,
+      "median": 4.47,
+      "suggested": 4.87,
+      "quantity": 178,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 3.59,
+      "max": 200.71,
+      "mean": 17.11,
+      "median": 4.36,
+      "suggested": 4.67,
+      "quantity": 98,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AWP | Atheris (Factory New)",
+      "price": {
+        "min": 51.17,
+        "max": 7375.04,
+        "mean": 193.65,
+        "median": 70.02,
+        "suggested": 74.84,
+        "quantity": 88,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AWP | Atheris (Minimal Wear)",
+      "price": {
+        "min": 8.81,
+        "max": 136.52,
+        "mean": 19.01,
+        "median": 12.52,
+        "suggested": 11.13,
+        "quantity": 185,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AWP | Atheris (Field-Tested)",
+      "price": {
+        "min": 5.15,
+        "max": 266.06,
+        "mean": 17.73,
+        "median": 6.09,
+        "suggested": 6.19,
+        "quantity": 362,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AWP | Atheris (Well-Worn)",
+      "price": {
+        "min": 3.84,
+        "max": 780.94,
+        "mean": 15.22,
+        "median": 4.47,
+        "suggested": 4.87,
+        "quantity": 178,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AWP | Atheris (Battle-Scarred)",
+      "price": {
+        "min": 3.59,
+        "max": 200.71,
+        "mean": 17.11,
+        "median": 4.36,
+        "suggested": 4.67,
+        "quantity": 98,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AWP | Atheris (Factory New)",
+        "price": {
+          "min": 51.17,
+          "max": 7375.04,
+          "mean": 193.65,
+          "median": 70.02,
+          "suggested": 74.84,
+          "quantity": 88,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AWP | Atheris (Minimal Wear)",
+        "price": {
+          "min": 8.81,
+          "max": 136.52,
+          "mean": 19.01,
+          "median": 12.52,
+          "suggested": 11.13,
+          "quantity": 185,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AWP | Atheris (Field-Tested)",
+        "price": {
+          "min": 5.15,
+          "max": 266.06,
+          "mean": 17.73,
+          "median": 6.09,
+          "suggested": 6.19,
+          "quantity": 362,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AWP | Atheris (Well-Worn)",
+        "price": {
+          "min": 3.84,
+          "max": 780.94,
+          "mean": 15.22,
+          "median": 4.47,
+          "suggested": 4.87,
+          "quantity": 178,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AWP | Atheris (Battle-Scarred)",
+        "price": {
+          "min": 3.59,
+          "max": 200.71,
+          "mean": 17.11,
+          "median": 4.36,
+          "suggested": 4.67,
+          "quantity": 98,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AWP | Atheris (Factory New)",
+        "price": {
+          "min": 45.27,
+          "max": 116.69,
+          "mean": 59.74,
+          "median": 55.04,
+          "suggested": 54.17,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AWP | Atheris (Minimal Wear)",
+        "price": {
+          "min": 17.92,
+          "max": 100.36,
+          "mean": 24.31,
+          "median": 21.18,
+          "suggested": 24.48,
+          "quantity": 59,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AWP | Atheris (Field-Tested)",
+        "price": {
+          "min": 9.34,
+          "max": 137.69,
+          "mean": 20.4,
+          "median": 11.6,
+          "suggested": 11.6,
+          "quantity": 72,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AWP | Atheris (Well-Worn)",
+        "price": {
+          "min": 7.01,
+          "max": 18.22,
+          "mean": 8.94,
+          "median": 8.06,
+          "suggested": 8,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ AWP | Atheris (Battle-Scarred)",
+        "price": {
+          "min": 8.03,
+          "max": 77.01,
+          "mean": 20.09,
+          "median": 10.68,
+          "suggested": 7.63,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AWP | Atheris (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AWP | Atheris (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AWP | Atheris (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AWP | Atheris (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AWP | Atheris (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:26.032Z"
+}

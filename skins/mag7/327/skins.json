@@ -1,0 +1,169 @@
+{
+  "id": "skin-a52d5df8a85b",
+  "name": "MAG-7 | Chainmail",
+  "paint_index": "327",
+  "weapon": {
+    "id": "weapon_mag7",
+    "weapon_id": 27,
+    "name": "MAG-7",
+    "slug": "mag7"
+  },
+  "pattern": {
+    "id": "am_chainmail",
+    "name": "Chainmail"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.22,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The CT-exclusive Mag-7 delivers a devastating amount of damage at close range. Its rapid magazine-style reloads make it a great tactical choice. It has been painted with a semi-transparent hydrographic in a chainmail pattern over a silver base coat.\\n\\n<i>Of all the members of The Phoenix, none are more loyal to Valeria than her bodyguard Naomi</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 20.77,
+      "max": 105.9,
+      "mean": 38.18,
+      "median": 30.83,
+      "suggested": 24.86,
+      "quantity": 42,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 15.91,
+      "max": 43.76,
+      "mean": 24.58,
+      "median": 20.67,
+      "suggested": 20.12,
+      "quantity": 13,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 15.96,
+      "max": 15.96,
+      "mean": 15.96,
+      "median": 15.96,
+      "suggested": 15.75,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAG-7 | Chainmail (Factory New)",
+      "price": {
+        "min": 20.77,
+        "max": 105.9,
+        "mean": 38.18,
+        "median": 30.83,
+        "suggested": 24.86,
+        "quantity": 42,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAG-7 | Chainmail (Minimal Wear)",
+      "price": {
+        "min": 15.91,
+        "max": 43.76,
+        "mean": 24.58,
+        "median": 20.67,
+        "suggested": 20.12,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAG-7 | Chainmail (Field-Tested)",
+      "price": {
+        "min": 15.96,
+        "max": 15.96,
+        "mean": 15.96,
+        "median": 15.96,
+        "suggested": 15.75,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAG-7 | Chainmail (Factory New)",
+        "price": {
+          "min": 20.77,
+          "max": 105.9,
+          "mean": 38.18,
+          "median": 30.83,
+          "suggested": 24.86,
+          "quantity": 42,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAG-7 | Chainmail (Minimal Wear)",
+        "price": {
+          "min": 15.91,
+          "max": 43.76,
+          "mean": 24.58,
+          "median": 20.67,
+          "suggested": 20.12,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAG-7 | Chainmail (Field-Tested)",
+        "price": {
+          "min": 15.96,
+          "max": 15.96,
+          "mean": 15.96,
+          "median": 15.96,
+          "suggested": 15.75,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAG-7 | Chainmail (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAG-7 | Chainmail (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAG-7 | Chainmail (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.139Z"
+}

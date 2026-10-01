@@ -1,0 +1,310 @@
+{
+  "id": "skin-47c5420fd212",
+  "name": "P2000 | Pulse",
+  "paint_index": "338",
+  "weapon": {
+    "id": "weapon_hkp2000",
+    "weapon_id": 32,
+    "name": "P2000",
+    "slug": "hkp2000"
+  },
+  "pattern": {
+    "id": "cu_p2000_pulse",
+    "name": "Pulse"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Accurate and controllable, the German-made P2000 is a serviceable first-round pistol that works best against unarmored opponents. It has been painted with a hydrographic of bold fuchsia fragments.\\n\\n<i>Striking colors for a striking weapon</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 14.59,
+      "max": 243.11,
+      "mean": 53.38,
+      "median": 21.73,
+      "suggested": 20.71,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.58,
+      "max": 85.07,
+      "mean": 7.27,
+      "median": 4.94,
+      "suggested": 2.01,
+      "quantity": 53,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1,
+      "max": 132.17,
+      "mean": 5.27,
+      "median": 2.44,
+      "suggested": 1.27,
+      "quantity": 74,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.27,
+      "max": 2.73,
+      "mean": 2.01,
+      "median": 1.93,
+      "suggested": 1.52,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.97,
+      "max": 51.28,
+      "mean": 5.81,
+      "median": 1.28,
+      "suggested": 1.13,
+      "quantity": 22,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P2000 | Pulse (Factory New)",
+      "price": {
+        "min": 14.59,
+        "max": 243.11,
+        "mean": 53.38,
+        "median": 21.73,
+        "suggested": 20.71,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P2000 | Pulse (Minimal Wear)",
+      "price": {
+        "min": 1.58,
+        "max": 85.07,
+        "mean": 7.27,
+        "median": 4.94,
+        "suggested": 2.01,
+        "quantity": 53,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P2000 | Pulse (Field-Tested)",
+      "price": {
+        "min": 1,
+        "max": 132.17,
+        "mean": 5.27,
+        "median": 2.44,
+        "suggested": 1.27,
+        "quantity": 74,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P2000 | Pulse (Well-Worn)",
+      "price": {
+        "min": 1.27,
+        "max": 2.73,
+        "mean": 2.01,
+        "median": 1.93,
+        "suggested": 1.52,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P2000 | Pulse (Battle-Scarred)",
+      "price": {
+        "min": 0.97,
+        "max": 51.28,
+        "mean": 5.81,
+        "median": 1.28,
+        "suggested": 1.13,
+        "quantity": 22,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P2000 | Pulse (Factory New)",
+        "price": {
+          "min": 14.59,
+          "max": 243.11,
+          "mean": 53.38,
+          "median": 21.73,
+          "suggested": 20.71,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P2000 | Pulse (Minimal Wear)",
+        "price": {
+          "min": 1.58,
+          "max": 85.07,
+          "mean": 7.27,
+          "median": 4.94,
+          "suggested": 2.01,
+          "quantity": 53,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P2000 | Pulse (Field-Tested)",
+        "price": {
+          "min": 1,
+          "max": 132.17,
+          "mean": 5.27,
+          "median": 2.44,
+          "suggested": 1.27,
+          "quantity": 74,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P2000 | Pulse (Well-Worn)",
+        "price": {
+          "min": 1.27,
+          "max": 2.73,
+          "mean": 2.01,
+          "median": 1.93,
+          "suggested": 1.52,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P2000 | Pulse (Battle-Scarred)",
+        "price": {
+          "min": 0.97,
+          "max": 51.28,
+          "mean": 5.81,
+          "median": 1.28,
+          "suggested": 1.13,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P2000 | Pulse (Factory New)",
+        "price": {
+          "min": 4.08,
+          "max": 185.54,
+          "mean": 17.96,
+          "median": 5.13,
+          "suggested": 5.2,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P2000 | Pulse (Minimal Wear)",
+        "price": {
+          "min": 2.4,
+          "max": 129.53,
+          "mean": 13.08,
+          "median": 7.75,
+          "suggested": 2.85,
+          "quantity": 39,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P2000 | Pulse (Field-Tested)",
+        "price": {
+          "min": 1.03,
+          "max": 124.85,
+          "mean": 12.49,
+          "median": 2.71,
+          "suggested": 1.38,
+          "quantity": 71,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ P2000 | Pulse (Well-Worn)",
+        "price": {
+          "min": 1.4,
+          "max": 121.36,
+          "mean": 17.25,
+          "median": 2.07,
+          "suggested": 1.64,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ P2000 | Pulse (Battle-Scarred)",
+        "price": {
+          "min": 1.23,
+          "max": 63.82,
+          "mean": 6.52,
+          "median": 1.54,
+          "suggested": 1.41,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P2000 | Pulse (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P2000 | Pulse (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P2000 | Pulse (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P2000 | Pulse (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P2000 | Pulse (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:32.562Z"
+}

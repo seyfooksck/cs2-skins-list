@@ -1,0 +1,289 @@
+{
+  "id": "skin-c6064f381a53",
+  "name": "★ Kukri Knife | Case Hardened",
+  "paint_index": "44",
+  "weapon": {
+    "id": "weapon_knife_kukri",
+    "weapon_id": 526,
+    "name": "Kukri Knife",
+    "slug": "knife_kukri"
+  },
+  "pattern": {
+    "id": "aq_oiled",
+    "name": "Case Hardened"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Used in traditional rituals, such as weddings or stabbings. It has been color case-hardened through the application of wood charcoal at high temperatures.\\n\\n<i>A little color never hurt anyone</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 203.04,
+      "max": 245.68,
+      "mean": 229.77,
+      "median": 235.2,
+      "suggested": 279.41,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 128.25,
+      "max": 2183.96,
+      "mean": 290.08,
+      "median": 162.93,
+      "suggested": 167.75,
+      "quantity": 32,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 110.31,
+      "max": 687.31,
+      "mean": 234.05,
+      "median": 139.83,
+      "suggested": 134.05,
+      "quantity": 37,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 89.66,
+      "max": 644.27,
+      "mean": 168.44,
+      "median": 117.22,
+      "suggested": 127.86,
+      "quantity": 22,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 96.87,
+      "max": 991.9,
+      "mean": 225.92,
+      "median": 115.6,
+      "suggested": 120.26,
+      "quantity": 18,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Kukri Knife | Case Hardened (Factory New)",
+      "price": {
+        "min": 203.04,
+        "max": 245.68,
+        "mean": 229.77,
+        "median": 235.2,
+        "suggested": 279.41,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Kukri Knife | Case Hardened (Minimal Wear)",
+      "price": {
+        "min": 128.25,
+        "max": 2183.96,
+        "mean": 290.08,
+        "median": 162.93,
+        "suggested": 167.75,
+        "quantity": 32,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Kukri Knife | Case Hardened (Field-Tested)",
+      "price": {
+        "min": 110.31,
+        "max": 687.31,
+        "mean": 234.05,
+        "median": 139.83,
+        "suggested": 134.05,
+        "quantity": 37,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Kukri Knife | Case Hardened (Well-Worn)",
+      "price": {
+        "min": 89.66,
+        "max": 644.27,
+        "mean": 168.44,
+        "median": 117.22,
+        "suggested": 127.86,
+        "quantity": 22,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Kukri Knife | Case Hardened (Battle-Scarred)",
+      "price": {
+        "min": 96.87,
+        "max": 991.9,
+        "mean": 225.92,
+        "median": 115.6,
+        "suggested": 120.26,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Kukri Knife | Case Hardened (Factory New)",
+        "price": {
+          "min": 203.04,
+          "max": 245.68,
+          "mean": 229.77,
+          "median": 235.2,
+          "suggested": 279.41,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Kukri Knife | Case Hardened (Minimal Wear)",
+        "price": {
+          "min": 128.25,
+          "max": 2183.96,
+          "mean": 290.08,
+          "median": 162.93,
+          "suggested": 167.75,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Kukri Knife | Case Hardened (Field-Tested)",
+        "price": {
+          "min": 110.31,
+          "max": 687.31,
+          "mean": 234.05,
+          "median": 139.83,
+          "suggested": 134.05,
+          "quantity": 37,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Kukri Knife | Case Hardened (Well-Worn)",
+        "price": {
+          "min": 89.66,
+          "max": 644.27,
+          "mean": 168.44,
+          "median": 117.22,
+          "suggested": 127.86,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Kukri Knife | Case Hardened (Battle-Scarred)",
+        "price": {
+          "min": 96.87,
+          "max": 991.9,
+          "mean": 225.92,
+          "median": 115.6,
+          "suggested": 120.26,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Kukri Knife | Case Hardened (Factory New)",
+        "price": {
+          "min": 316.18,
+          "max": 316.18,
+          "mean": 316.18,
+          "median": 316.18,
+          "suggested": 476.86,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Kukri Knife | Case Hardened (Minimal Wear)",
+        "price": {
+          "min": 189.46,
+          "max": 688.49,
+          "mean": 420.66,
+          "median": 402.34,
+          "suggested": 242.84,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Kukri Knife | Case Hardened (Field-Tested)",
+        "price": {
+          "min": 127.01,
+          "max": 6908.27,
+          "mean": 2119.59,
+          "median": 721.54,
+          "suggested": 160.75,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Kukri Knife | Case Hardened (Well-Worn)",
+        "price": {
+          "min": 108.92,
+          "max": 381.08,
+          "mean": 220.08,
+          "median": 195.17,
+          "suggested": 149.48,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Kukri Knife | Case Hardened (Battle-Scarred)",
+        "price": {
+          "min": 109.73,
+          "max": 117.55,
+          "mean": 113.64,
+          "median": 113.64,
+          "suggested": 132.68,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:36.176Z"
+}

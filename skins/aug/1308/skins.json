@@ -1,0 +1,249 @@
+{
+  "id": "skin-5dea0b69d286",
+  "name": "AUG | Commando Company",
+  "paint_index": "1308",
+  "weapon": {
+    "id": "weapon_aug",
+    "weapon_id": 8,
+    "name": "AUG",
+    "slug": "aug"
+  },
+  "pattern": {
+    "id": "hy_flecktarn",
+    "name": "Commando Company"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 0.65,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire. A green hydrographic flecktarn camo pattern has been applied.\\n\\n<i>Translated, Flecktarn means \\\"spot camouflage\\\", or exactly what you WON'T be doing</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.04,
+      "max": 25.37,
+      "mean": 0.81,
+      "median": 0.63,
+      "suggested": 0.05,
+      "quantity": 148,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.02,
+      "max": 1.75,
+      "mean": 0.09,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 485,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.02,
+      "max": 1.79,
+      "mean": 0.05,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 1251,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.02,
+      "max": 0.12,
+      "mean": 0.04,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 50,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.02,
+      "max": 1.54,
+      "mean": 0.06,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 193,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AUG | Commando Company (Factory New)",
+      "price": {
+        "min": 0.04,
+        "max": 25.37,
+        "mean": 0.81,
+        "median": 0.63,
+        "suggested": 0.05,
+        "quantity": 148,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AUG | Commando Company (Minimal Wear)",
+      "price": {
+        "min": 0.02,
+        "max": 1.75,
+        "mean": 0.09,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 485,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AUG | Commando Company (Field-Tested)",
+      "price": {
+        "min": 0.02,
+        "max": 1.79,
+        "mean": 0.05,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 1251,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AUG | Commando Company (Well-Worn)",
+      "price": {
+        "min": 0.02,
+        "max": 0.12,
+        "mean": 0.04,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 50,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AUG | Commando Company (Battle-Scarred)",
+      "price": {
+        "min": 0.02,
+        "max": 1.54,
+        "mean": 0.06,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 193,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AUG | Commando Company (Factory New)",
+        "price": {
+          "min": 0.04,
+          "max": 25.37,
+          "mean": 0.81,
+          "median": 0.63,
+          "suggested": 0.05,
+          "quantity": 148,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AUG | Commando Company (Minimal Wear)",
+        "price": {
+          "min": 0.02,
+          "max": 1.75,
+          "mean": 0.09,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 485,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AUG | Commando Company (Field-Tested)",
+        "price": {
+          "min": 0.02,
+          "max": 1.79,
+          "mean": 0.05,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 1251,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AUG | Commando Company (Well-Worn)",
+        "price": {
+          "min": 0.02,
+          "max": 0.12,
+          "mean": 0.04,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 50,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AUG | Commando Company (Battle-Scarred)",
+        "price": {
+          "min": 0.02,
+          "max": 1.54,
+          "mean": 0.06,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 193,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AUG | Commando Company (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AUG | Commando Company (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AUG | Commando Company (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AUG | Commando Company (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AUG | Commando Company (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.600Z"
+}

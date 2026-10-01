@@ -1,0 +1,249 @@
+{
+  "id": "skin-07884f77d452",
+  "name": "Desert Eagle | Night",
+  "paint_index": "40",
+  "weapon": {
+    "id": "weapon_deagle",
+    "weapon_id": 1,
+    "name": "Desert Eagle",
+    "slug": "deagle"
+  },
+  "pattern": {
+    "id": "so_night",
+    "name": "Night"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. It has individual parts spray-painted solid colors in a night ops color scheme.\\n\\n<i>It's the whisper of the wind... it's the bite at your neck</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 102.41,
+      "max": 315.06,
+      "mean": 149.15,
+      "median": 138.28,
+      "suggested": 129.18,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 34.7,
+      "max": 133.45,
+      "mean": 55.29,
+      "median": 52.4,
+      "suggested": 41.18,
+      "quantity": 49,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 11.35,
+      "max": 137.69,
+      "mean": 20.72,
+      "median": 15.19,
+      "suggested": 15.38,
+      "quantity": 79,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 11.2,
+      "max": 33.26,
+      "mean": 20.99,
+      "median": 20.56,
+      "suggested": 13.1,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 11.9,
+      "max": 66.52,
+      "mean": 24.67,
+      "median": 13.49,
+      "suggested": 12.71,
+      "quantity": 9,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Desert Eagle | Night (Factory New)",
+      "price": {
+        "min": 102.41,
+        "max": 315.06,
+        "mean": 149.15,
+        "median": 138.28,
+        "suggested": 129.18,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Desert Eagle | Night (Minimal Wear)",
+      "price": {
+        "min": 34.7,
+        "max": 133.45,
+        "mean": 55.29,
+        "median": 52.4,
+        "suggested": 41.18,
+        "quantity": 49,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Desert Eagle | Night (Field-Tested)",
+      "price": {
+        "min": 11.35,
+        "max": 137.69,
+        "mean": 20.72,
+        "median": 15.19,
+        "suggested": 15.38,
+        "quantity": 79,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Desert Eagle | Night (Well-Worn)",
+      "price": {
+        "min": 11.2,
+        "max": 33.26,
+        "mean": 20.99,
+        "median": 20.56,
+        "suggested": 13.1,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Desert Eagle | Night (Battle-Scarred)",
+      "price": {
+        "min": 11.9,
+        "max": 66.52,
+        "mean": 24.67,
+        "median": 13.49,
+        "suggested": 12.71,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Desert Eagle | Night (Factory New)",
+        "price": {
+          "min": 102.41,
+          "max": 315.06,
+          "mean": 149.15,
+          "median": 138.28,
+          "suggested": 129.18,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Desert Eagle | Night (Minimal Wear)",
+        "price": {
+          "min": 34.7,
+          "max": 133.45,
+          "mean": 55.29,
+          "median": 52.4,
+          "suggested": 41.18,
+          "quantity": 49,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Desert Eagle | Night (Field-Tested)",
+        "price": {
+          "min": 11.35,
+          "max": 137.69,
+          "mean": 20.72,
+          "median": 15.19,
+          "suggested": 15.38,
+          "quantity": 79,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Desert Eagle | Night (Well-Worn)",
+        "price": {
+          "min": 11.2,
+          "max": 33.26,
+          "mean": 20.99,
+          "median": 20.56,
+          "suggested": 13.1,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Desert Eagle | Night (Battle-Scarred)",
+        "price": {
+          "min": 11.9,
+          "max": 66.52,
+          "mean": 24.67,
+          "median": 13.49,
+          "suggested": 12.71,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Desert Eagle | Night (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Desert Eagle | Night (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Desert Eagle | Night (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Desert Eagle | Night (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Desert Eagle | Night (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:28.540Z"
+}

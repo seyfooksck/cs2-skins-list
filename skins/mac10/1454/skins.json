@@ -1,0 +1,249 @@
+{
+  "id": "skin-814d19013b18",
+  "name": "MAC-10 | Arabesque Mosaic",
+  "paint_index": "1454",
+  "weapon": {
+    "id": "weapon_mac10",
+    "weapon_id": 17,
+    "name": "MAC-10",
+    "slug": "mac10"
+  },
+  "pattern": {
+    "id": "mac10_arabesque_gold",
+    "name": "Arabesque Mosaic"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been custom painted with a moving pattern of Middle Eastern-inspired scenery.\\n\\n<i>Ever-shifting sands</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 6.71,
+      "max": 18.75,
+      "mean": 14.72,
+      "median": 18.67,
+      "suggested": 4.75,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.56,
+      "max": 8.17,
+      "mean": 6.29,
+      "median": 8.17,
+      "suggested": 1.66,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.41,
+      "max": 5.83,
+      "mean": 3.2,
+      "median": 3.22,
+      "suggested": 0.66,
+      "quantity": 18,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.16,
+      "max": 0.18,
+      "mean": 0.18,
+      "median": 0.18,
+      "suggested": 0.21,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.16,
+      "max": 0.18,
+      "mean": 0.18,
+      "median": 0.18,
+      "suggested": 0.21,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAC-10 | Arabesque Mosaic (Factory New)",
+      "price": {
+        "min": 6.71,
+        "max": 18.75,
+        "mean": 14.72,
+        "median": 18.67,
+        "suggested": 4.75,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAC-10 | Arabesque Mosaic (Minimal Wear)",
+      "price": {
+        "min": 1.56,
+        "max": 8.17,
+        "mean": 6.29,
+        "median": 8.17,
+        "suggested": 1.66,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAC-10 | Arabesque Mosaic (Field-Tested)",
+      "price": {
+        "min": 0.41,
+        "max": 5.83,
+        "mean": 3.2,
+        "median": 3.22,
+        "suggested": 0.66,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAC-10 | Arabesque Mosaic (Well-Worn)",
+      "price": {
+        "min": 0.16,
+        "max": 0.18,
+        "mean": 0.18,
+        "median": 0.18,
+        "suggested": 0.21,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAC-10 | Arabesque Mosaic (Battle-Scarred)",
+      "price": {
+        "min": 0.16,
+        "max": 0.18,
+        "mean": 0.18,
+        "median": 0.18,
+        "suggested": 0.21,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAC-10 | Arabesque Mosaic (Factory New)",
+        "price": {
+          "min": 6.71,
+          "max": 18.75,
+          "mean": 14.72,
+          "median": 18.67,
+          "suggested": 4.75,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAC-10 | Arabesque Mosaic (Minimal Wear)",
+        "price": {
+          "min": 1.56,
+          "max": 8.17,
+          "mean": 6.29,
+          "median": 8.17,
+          "suggested": 1.66,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAC-10 | Arabesque Mosaic (Field-Tested)",
+        "price": {
+          "min": 0.41,
+          "max": 5.83,
+          "mean": 3.2,
+          "median": 3.22,
+          "suggested": 0.66,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAC-10 | Arabesque Mosaic (Well-Worn)",
+        "price": {
+          "min": 0.16,
+          "max": 0.18,
+          "mean": 0.18,
+          "median": 0.18,
+          "suggested": 0.21,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MAC-10 | Arabesque Mosaic (Battle-Scarred)",
+        "price": {
+          "min": 0.16,
+          "max": 0.18,
+          "mean": 0.18,
+          "median": 0.18,
+          "suggested": 0.21,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAC-10 | Arabesque Mosaic (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAC-10 | Arabesque Mosaic (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAC-10 | Arabesque Mosaic (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAC-10 | Arabesque Mosaic (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAC-10 | Arabesque Mosaic (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.929Z"
+}

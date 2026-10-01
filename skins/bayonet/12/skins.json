@@ -1,0 +1,233 @@
+{
+  "id": "skin-974ea309f5e2",
+  "name": "★ Bayonet | Crimson Web",
+  "paint_index": "12",
+  "weapon": {
+    "id": "weapon_bayonet",
+    "weapon_id": 500,
+    "name": "Bayonet",
+    "slug": "bayonet"
+  },
+  "pattern": {
+    "id": "hy_webs",
+    "name": "Crimson Web"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Relatively unchanged in its design since World War II, the bayonet still retains a place in modern military strategy. Bayonet charges have continued to be effective as recently as the second Gulf War and the war in Afghanistan. It has been painted using a spider web-patterned hydrographic over a red base coat and finished with a semi-gloss topcoat.\\n\\n<i>Be careful where you walk, you never know where the web is spread</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 330.24,
+      "max": 2917.34,
+      "mean": 725.41,
+      "median": 406.32,
+      "suggested": 451.4,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 193.85,
+      "max": 350.08,
+      "mean": 245.51,
+      "median": 232.09,
+      "suggested": 285.05,
+      "quantity": 17,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 204.38,
+      "max": 255.34,
+      "mean": 229.86,
+      "median": 229.86,
+      "suggested": 258.56,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 215.17,
+      "max": 221.72,
+      "mean": 217.6,
+      "median": 215.9,
+      "suggested": 248.19,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Bayonet | Crimson Web (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Bayonet | Crimson Web (Minimal Wear)",
+      "price": {
+        "min": 330.24,
+        "max": 2917.34,
+        "mean": 725.41,
+        "median": 406.32,
+        "suggested": 451.4,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Bayonet | Crimson Web (Field-Tested)",
+      "price": {
+        "min": 193.85,
+        "max": 350.08,
+        "mean": 245.51,
+        "median": 232.09,
+        "suggested": 285.05,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Bayonet | Crimson Web (Well-Worn)",
+      "price": {
+        "min": 204.38,
+        "max": 255.34,
+        "mean": 229.86,
+        "median": 229.86,
+        "suggested": 258.56,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Bayonet | Crimson Web (Battle-Scarred)",
+      "price": {
+        "min": 215.17,
+        "max": 221.72,
+        "mean": 217.6,
+        "median": 215.9,
+        "suggested": 248.19,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Bayonet | Crimson Web (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Bayonet | Crimson Web (Minimal Wear)",
+        "price": {
+          "min": 330.24,
+          "max": 2917.34,
+          "mean": 725.41,
+          "median": 406.32,
+          "suggested": 451.4,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Bayonet | Crimson Web (Field-Tested)",
+        "price": {
+          "min": 193.85,
+          "max": 350.08,
+          "mean": 245.51,
+          "median": 232.09,
+          "suggested": 285.05,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Bayonet | Crimson Web (Well-Worn)",
+        "price": {
+          "min": 204.38,
+          "max": 255.34,
+          "mean": 229.86,
+          "median": 229.86,
+          "suggested": 258.56,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Bayonet | Crimson Web (Battle-Scarred)",
+        "price": {
+          "min": 215.17,
+          "max": 221.72,
+          "mean": 217.6,
+          "median": 215.9,
+          "suggested": 248.19,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Crimson Web (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Crimson Web (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Crimson Web (Field-Tested)",
+        "price": {
+          "min": 279.68,
+          "max": 581.72,
+          "mean": 364.13,
+          "median": 297.57,
+          "suggested": 332.59,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Crimson Web (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Crimson Web (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:26.799Z"
+}

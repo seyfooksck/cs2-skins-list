@@ -1,0 +1,310 @@
+{
+  "id": "skin-a29bf383aa7d",
+  "name": "P250 | Verdigris",
+  "paint_index": "848",
+  "weapon": {
+    "id": "weapon_p250",
+    "weapon_id": 36,
+    "name": "P250",
+    "slug": "p250"
+  },
+  "pattern": {
+    "id": "aq_p250_verdigris",
+    "name": "Verdigris"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A low-recoil firearm with a high rate of fire, the P250 is a relatively inexpensive choice against armored opponents. The green drips are the result of its copper base being exposed to the elements.\\n\\n<i>From the air you breathe</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 3.34,
+      "max": 51.35,
+      "mean": 9.66,
+      "median": 7.06,
+      "suggested": 5.21,
+      "quantity": 72,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.35,
+      "max": 11.66,
+      "mean": 0.61,
+      "median": 0.43,
+      "suggested": 0.48,
+      "quantity": 112,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.26,
+      "max": 2.36,
+      "mean": 0.39,
+      "median": 0.34,
+      "suggested": 0.4,
+      "quantity": 317,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.26,
+      "max": 1.07,
+      "mean": 0.36,
+      "median": 0.33,
+      "suggested": 0.35,
+      "quantity": 25,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.42,
+      "max": 22.06,
+      "mean": 2.93,
+      "median": 0.51,
+      "suggested": 0.44,
+      "quantity": 16,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P250 | Verdigris (Factory New)",
+      "price": {
+        "min": 3.34,
+        "max": 51.35,
+        "mean": 9.66,
+        "median": 7.06,
+        "suggested": 5.21,
+        "quantity": 72,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P250 | Verdigris (Minimal Wear)",
+      "price": {
+        "min": 0.35,
+        "max": 11.66,
+        "mean": 0.61,
+        "median": 0.43,
+        "suggested": 0.48,
+        "quantity": 112,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P250 | Verdigris (Field-Tested)",
+      "price": {
+        "min": 0.26,
+        "max": 2.36,
+        "mean": 0.39,
+        "median": 0.34,
+        "suggested": 0.4,
+        "quantity": 317,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P250 | Verdigris (Well-Worn)",
+      "price": {
+        "min": 0.26,
+        "max": 1.07,
+        "mean": 0.36,
+        "median": 0.33,
+        "suggested": 0.35,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P250 | Verdigris (Battle-Scarred)",
+      "price": {
+        "min": 0.42,
+        "max": 22.06,
+        "mean": 2.93,
+        "median": 0.51,
+        "suggested": 0.44,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P250 | Verdigris (Factory New)",
+        "price": {
+          "min": 3.34,
+          "max": 51.35,
+          "mean": 9.66,
+          "median": 7.06,
+          "suggested": 5.21,
+          "quantity": 72,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P250 | Verdigris (Minimal Wear)",
+        "price": {
+          "min": 0.35,
+          "max": 11.66,
+          "mean": 0.61,
+          "median": 0.43,
+          "suggested": 0.48,
+          "quantity": 112,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P250 | Verdigris (Field-Tested)",
+        "price": {
+          "min": 0.26,
+          "max": 2.36,
+          "mean": 0.39,
+          "median": 0.34,
+          "suggested": 0.4,
+          "quantity": 317,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P250 | Verdigris (Well-Worn)",
+        "price": {
+          "min": 0.26,
+          "max": 1.07,
+          "mean": 0.36,
+          "median": 0.33,
+          "suggested": 0.35,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P250 | Verdigris (Battle-Scarred)",
+        "price": {
+          "min": 0.42,
+          "max": 22.06,
+          "mean": 2.93,
+          "median": 0.51,
+          "suggested": 0.44,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P250 | Verdigris (Factory New)",
+        "price": {
+          "min": 2.3,
+          "max": 58.35,
+          "mean": 9.16,
+          "median": 3.34,
+          "suggested": 2.43,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P250 | Verdigris (Minimal Wear)",
+        "price": {
+          "min": 0.7,
+          "max": 27.63,
+          "mean": 3.31,
+          "median": 0.82,
+          "suggested": 0.82,
+          "quantity": 69,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P250 | Verdigris (Field-Tested)",
+        "price": {
+          "min": 0.29,
+          "max": 6.32,
+          "mean": 0.49,
+          "median": 0.4,
+          "suggested": 0.43,
+          "quantity": 139,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ P250 | Verdigris (Well-Worn)",
+        "price": {
+          "min": 0.39,
+          "max": 0.9,
+          "mean": 0.54,
+          "median": 0.53,
+          "suggested": 0.44,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ P250 | Verdigris (Battle-Scarred)",
+        "price": {
+          "min": 0.69,
+          "max": 35.07,
+          "mean": 9.04,
+          "median": 1.41,
+          "suggested": 0.81,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P250 | Verdigris (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P250 | Verdigris (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P250 | Verdigris (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P250 | Verdigris (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P250 | Verdigris (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:45.042Z"
+}

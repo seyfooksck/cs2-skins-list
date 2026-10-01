@@ -1,0 +1,249 @@
+{
+  "id": "skin-233856ab2e43",
+  "name": "Galil AR | Tornado",
+  "paint_index": "101",
+  "weapon": {
+    "id": "weapon_galilar",
+    "weapon_id": 13,
+    "name": "Galil AR",
+    "slug": "galilar"
+  },
+  "pattern": {
+    "id": "so_tornado",
+    "name": "Tornado"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat. It has individual parts spray-painted solid colors in a tornado color scheme.\\n\\n<i>Don't be fooled by its simplicity</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 34.94,
+      "max": 150.3,
+      "mean": 65.82,
+      "median": 40.22,
+      "suggested": 46.11,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 11.42,
+      "max": 35.01,
+      "mean": 15.84,
+      "median": 14.14,
+      "suggested": 13.05,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 7.14,
+      "max": 93.35,
+      "mean": 24.14,
+      "median": 11.65,
+      "suggested": 8.6,
+      "quantity": 55,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 9.01,
+      "max": 19.7,
+      "mean": 14.35,
+      "median": 14.35,
+      "suggested": 9.76,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 7.04,
+      "max": 39.94,
+      "mean": 12.32,
+      "median": 10.48,
+      "suggested": 8.31,
+      "quantity": 12,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Galil AR | Tornado (Factory New)",
+      "price": {
+        "min": 34.94,
+        "max": 150.3,
+        "mean": 65.82,
+        "median": 40.22,
+        "suggested": 46.11,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Galil AR | Tornado (Minimal Wear)",
+      "price": {
+        "min": 11.42,
+        "max": 35.01,
+        "mean": 15.84,
+        "median": 14.14,
+        "suggested": 13.05,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Galil AR | Tornado (Field-Tested)",
+      "price": {
+        "min": 7.14,
+        "max": 93.35,
+        "mean": 24.14,
+        "median": 11.65,
+        "suggested": 8.6,
+        "quantity": 55,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Galil AR | Tornado (Well-Worn)",
+      "price": {
+        "min": 9.01,
+        "max": 19.7,
+        "mean": 14.35,
+        "median": 14.35,
+        "suggested": 9.76,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Galil AR | Tornado (Battle-Scarred)",
+      "price": {
+        "min": 7.04,
+        "max": 39.94,
+        "mean": 12.32,
+        "median": 10.48,
+        "suggested": 8.31,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Galil AR | Tornado (Factory New)",
+        "price": {
+          "min": 34.94,
+          "max": 150.3,
+          "mean": 65.82,
+          "median": 40.22,
+          "suggested": 46.11,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Galil AR | Tornado (Minimal Wear)",
+        "price": {
+          "min": 11.42,
+          "max": 35.01,
+          "mean": 15.84,
+          "median": 14.14,
+          "suggested": 13.05,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Galil AR | Tornado (Field-Tested)",
+        "price": {
+          "min": 7.14,
+          "max": 93.35,
+          "mean": 24.14,
+          "median": 11.65,
+          "suggested": 8.6,
+          "quantity": 55,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Galil AR | Tornado (Well-Worn)",
+        "price": {
+          "min": 9.01,
+          "max": 19.7,
+          "mean": 14.35,
+          "median": 14.35,
+          "suggested": 9.76,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Galil AR | Tornado (Battle-Scarred)",
+        "price": {
+          "min": 7.04,
+          "max": 39.94,
+          "mean": 12.32,
+          "median": 10.48,
+          "suggested": 8.31,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Galil AR | Tornado (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Galil AR | Tornado (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Galil AR | Tornado (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Galil AR | Tornado (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Galil AR | Tornado (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:31.293Z"
+}

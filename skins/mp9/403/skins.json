@@ -1,0 +1,310 @@
+{
+  "id": "skin-f982be094874",
+  "name": "MP9 | Deadly Poison",
+  "paint_index": "403",
+  "weapon": {
+    "id": "weapon_mp9",
+    "weapon_id": 34,
+    "name": "MP9",
+    "slug": "mp9"
+  },
+  "pattern": {
+    "id": "cu_mp9_deadly_poison",
+    "name": "Deadly Poison"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been custom painted with dynamic, angular shapes and a stylized spider.\\n\\n<i>It's not the first bite that kills you, it's the 29 that come after</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 10.33,
+      "max": 134.19,
+      "mean": 33,
+      "median": 17.07,
+      "suggested": 12.11,
+      "quantity": 17,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.06,
+      "max": 8.05,
+      "mean": 1.82,
+      "median": 1.25,
+      "suggested": 1.42,
+      "quantity": 62,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.77,
+      "max": 5.83,
+      "mean": 1.47,
+      "median": 1.23,
+      "suggested": 1.11,
+      "quantity": 70,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.43,
+      "max": 2.87,
+      "mean": 0.71,
+      "median": 0.64,
+      "suggested": 0.67,
+      "quantity": 65,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.41,
+      "max": 0.71,
+      "mean": 0.58,
+      "median": 0.61,
+      "suggested": 0.58,
+      "quantity": 33,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP9 | Deadly Poison (Factory New)",
+      "price": {
+        "min": 10.33,
+        "max": 134.19,
+        "mean": 33,
+        "median": 17.07,
+        "suggested": 12.11,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP9 | Deadly Poison (Minimal Wear)",
+      "price": {
+        "min": 1.06,
+        "max": 8.05,
+        "mean": 1.82,
+        "median": 1.25,
+        "suggested": 1.42,
+        "quantity": 62,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP9 | Deadly Poison (Field-Tested)",
+      "price": {
+        "min": 0.77,
+        "max": 5.83,
+        "mean": 1.47,
+        "median": 1.23,
+        "suggested": 1.11,
+        "quantity": 70,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP9 | Deadly Poison (Well-Worn)",
+      "price": {
+        "min": 0.43,
+        "max": 2.87,
+        "mean": 0.71,
+        "median": 0.64,
+        "suggested": 0.67,
+        "quantity": 65,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP9 | Deadly Poison (Battle-Scarred)",
+      "price": {
+        "min": 0.41,
+        "max": 0.71,
+        "mean": 0.58,
+        "median": 0.61,
+        "suggested": 0.58,
+        "quantity": 33,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP9 | Deadly Poison (Factory New)",
+        "price": {
+          "min": 10.33,
+          "max": 134.19,
+          "mean": 33,
+          "median": 17.07,
+          "suggested": 12.11,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP9 | Deadly Poison (Minimal Wear)",
+        "price": {
+          "min": 1.06,
+          "max": 8.05,
+          "mean": 1.82,
+          "median": 1.25,
+          "suggested": 1.42,
+          "quantity": 62,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP9 | Deadly Poison (Field-Tested)",
+        "price": {
+          "min": 0.77,
+          "max": 5.83,
+          "mean": 1.47,
+          "median": 1.23,
+          "suggested": 1.11,
+          "quantity": 70,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP9 | Deadly Poison (Well-Worn)",
+        "price": {
+          "min": 0.43,
+          "max": 2.87,
+          "mean": 0.71,
+          "median": 0.64,
+          "suggested": 0.67,
+          "quantity": 65,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP9 | Deadly Poison (Battle-Scarred)",
+        "price": {
+          "min": 0.41,
+          "max": 0.71,
+          "mean": 0.58,
+          "median": 0.61,
+          "suggested": 0.58,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MP9 | Deadly Poison (Factory New)",
+        "price": {
+          "min": 5.89,
+          "max": 72.14,
+          "mean": 17.92,
+          "median": 12.19,
+          "suggested": 8.78,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MP9 | Deadly Poison (Minimal Wear)",
+        "price": {
+          "min": 1.76,
+          "max": 124.85,
+          "mean": 8.26,
+          "median": 2.25,
+          "suggested": 2.12,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MP9 | Deadly Poison (Field-Tested)",
+        "price": {
+          "min": 0.9,
+          "max": 41.32,
+          "mean": 2.46,
+          "median": 0.96,
+          "suggested": 1.12,
+          "quantity": 45,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MP9 | Deadly Poison (Well-Worn)",
+        "price": {
+          "min": 0.54,
+          "max": 2.33,
+          "mean": 0.79,
+          "median": 0.7,
+          "suggested": 0.69,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MP9 | Deadly Poison (Battle-Scarred)",
+        "price": {
+          "min": 0.53,
+          "max": 3.5,
+          "mean": 0.77,
+          "median": 0.6,
+          "suggested": 0.61,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP9 | Deadly Poison (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP9 | Deadly Poison (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP9 | Deadly Poison (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP9 | Deadly Poison (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP9 | Deadly Poison (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:43.622Z"
+}

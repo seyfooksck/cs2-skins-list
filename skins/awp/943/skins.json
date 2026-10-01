@@ -1,0 +1,310 @@
+{
+  "id": "skin-29f83d73bb6a",
+  "name": "AWP | Capillary",
+  "paint_index": "943",
+  "weapon": {
+    "id": "weapon_awp",
+    "weapon_id": 9,
+    "name": "AWP",
+    "slug": "awp"
+  },
+  "pattern": {
+    "id": "cu_awp_vein",
+    "name": "Capillary"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0.05,
+  "max_float": 0.7,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. A custom paint job comprised of intricate teal and coral veins has been applied.\\n\\n<i>The key to an agent's heart costs $4750</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 15.24,
+      "max": 1058.41,
+      "mean": 67.6,
+      "median": 20.79,
+      "suggested": 18.74,
+      "quantity": 24,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.19,
+      "max": 38.39,
+      "mean": 1.84,
+      "median": 1.39,
+      "suggested": 1.61,
+      "quantity": 275,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.68,
+      "max": 122.53,
+      "mean": 1.55,
+      "median": 0.82,
+      "suggested": 1,
+      "quantity": 600,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.79,
+      "max": 6.18,
+      "mean": 1.32,
+      "median": 1.1,
+      "suggested": 1.04,
+      "quantity": 77,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.69,
+      "max": 4.08,
+      "mean": 0.98,
+      "median": 0.79,
+      "suggested": 0.96,
+      "quantity": 123,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AWP | Capillary (Factory New)",
+      "price": {
+        "min": 15.24,
+        "max": 1058.41,
+        "mean": 67.6,
+        "median": 20.79,
+        "suggested": 18.74,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AWP | Capillary (Minimal Wear)",
+      "price": {
+        "min": 1.19,
+        "max": 38.39,
+        "mean": 1.84,
+        "median": 1.39,
+        "suggested": 1.61,
+        "quantity": 275,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AWP | Capillary (Field-Tested)",
+      "price": {
+        "min": 0.68,
+        "max": 122.53,
+        "mean": 1.55,
+        "median": 0.82,
+        "suggested": 1,
+        "quantity": 600,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AWP | Capillary (Well-Worn)",
+      "price": {
+        "min": 0.79,
+        "max": 6.18,
+        "mean": 1.32,
+        "median": 1.1,
+        "suggested": 1.04,
+        "quantity": 77,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AWP | Capillary (Battle-Scarred)",
+      "price": {
+        "min": 0.69,
+        "max": 4.08,
+        "mean": 0.98,
+        "median": 0.79,
+        "suggested": 0.96,
+        "quantity": 123,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AWP | Capillary (Factory New)",
+        "price": {
+          "min": 15.24,
+          "max": 1058.41,
+          "mean": 67.6,
+          "median": 20.79,
+          "suggested": 18.74,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AWP | Capillary (Minimal Wear)",
+        "price": {
+          "min": 1.19,
+          "max": 38.39,
+          "mean": 1.84,
+          "median": 1.39,
+          "suggested": 1.61,
+          "quantity": 275,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AWP | Capillary (Field-Tested)",
+        "price": {
+          "min": 0.68,
+          "max": 122.53,
+          "mean": 1.55,
+          "median": 0.82,
+          "suggested": 1,
+          "quantity": 600,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AWP | Capillary (Well-Worn)",
+        "price": {
+          "min": 0.79,
+          "max": 6.18,
+          "mean": 1.32,
+          "median": 1.1,
+          "suggested": 1.04,
+          "quantity": 77,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AWP | Capillary (Battle-Scarred)",
+        "price": {
+          "min": 0.69,
+          "max": 4.08,
+          "mean": 0.98,
+          "median": 0.79,
+          "suggested": 0.96,
+          "quantity": 123,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AWP | Capillary (Factory New)",
+        "price": {
+          "min": 11.51,
+          "max": 46.67,
+          "mean": 35.08,
+          "median": 41.08,
+          "suggested": 13.12,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AWP | Capillary (Minimal Wear)",
+        "price": {
+          "min": 3,
+          "max": 17.5,
+          "mean": 4.85,
+          "median": 3.8,
+          "suggested": 3.46,
+          "quantity": 54,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AWP | Capillary (Field-Tested)",
+        "price": {
+          "min": 1.79,
+          "max": 88.1,
+          "mean": 4.45,
+          "median": 2.39,
+          "suggested": 2.08,
+          "quantity": 208,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AWP | Capillary (Well-Worn)",
+        "price": {
+          "min": 2.1,
+          "max": 5.3,
+          "mean": 3.02,
+          "median": 3.16,
+          "suggested": 2.36,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ AWP | Capillary (Battle-Scarred)",
+        "price": {
+          "min": 1.68,
+          "max": 62.43,
+          "mean": 6.16,
+          "median": 2.49,
+          "suggested": 2.11,
+          "quantity": 44,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AWP | Capillary (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AWP | Capillary (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AWP | Capillary (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AWP | Capillary (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AWP | Capillary (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:26.018Z"
+}

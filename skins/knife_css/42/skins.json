@@ -1,0 +1,265 @@
+{
+  "id": "skin-13ba1eb95418",
+  "name": "★ Classic Knife | Blue Steel",
+  "paint_index": "42",
+  "weapon": {
+    "id": "weapon_knife_css",
+    "weapon_id": 503,
+    "name": "Classic Knife",
+    "slug": "knife_css"
+  },
+  "pattern": {
+    "id": "aq_blued",
+    "name": "Blue Steel"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A classic of the Counter-Strike series, the edge of this knife is press-fit Stellite perfectly held in place due to its precise fit with the titanium on the blade's cheek and spine. The handle is fossilized mastodon ivory held in a carbon fibre pocket. It has been cold blued.\\n\\n<i>This is the malbec of weapon design - Booth, Arms Dealer</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 227.55,
+      "max": 227.55,
+      "mean": 227.55,
+      "median": 227.55,
+      "suggested": 256.78,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 134.19,
+      "max": 172.71,
+      "mean": 149.39,
+      "median": 146.81,
+      "suggested": 167.79,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 125.74,
+      "max": 140.03,
+      "mean": 134.41,
+      "median": 137.47,
+      "suggested": 155.88,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 122.28,
+      "max": 220.82,
+      "mean": 157.76,
+      "median": 130.18,
+      "suggested": 144.89,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 133.58,
+      "max": 140.37,
+      "mean": 136.98,
+      "median": 136.98,
+      "suggested": 140.64,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Classic Knife | Blue Steel (Factory New)",
+      "price": {
+        "min": 227.55,
+        "max": 227.55,
+        "mean": 227.55,
+        "median": 227.55,
+        "suggested": 256.78,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Classic Knife | Blue Steel (Minimal Wear)",
+      "price": {
+        "min": 134.19,
+        "max": 172.71,
+        "mean": 149.39,
+        "median": 146.81,
+        "suggested": 167.79,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Classic Knife | Blue Steel (Field-Tested)",
+      "price": {
+        "min": 125.74,
+        "max": 140.03,
+        "mean": 134.41,
+        "median": 137.47,
+        "suggested": 155.88,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Classic Knife | Blue Steel (Well-Worn)",
+      "price": {
+        "min": 122.28,
+        "max": 220.82,
+        "mean": 157.76,
+        "median": 130.18,
+        "suggested": 144.89,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Classic Knife | Blue Steel (Battle-Scarred)",
+      "price": {
+        "min": 133.58,
+        "max": 140.37,
+        "mean": 136.98,
+        "median": 136.98,
+        "suggested": 140.64,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Classic Knife | Blue Steel (Factory New)",
+        "price": {
+          "min": 227.55,
+          "max": 227.55,
+          "mean": 227.55,
+          "median": 227.55,
+          "suggested": 256.78,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Classic Knife | Blue Steel (Minimal Wear)",
+        "price": {
+          "min": 134.19,
+          "max": 172.71,
+          "mean": 149.39,
+          "median": 146.81,
+          "suggested": 167.79,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Classic Knife | Blue Steel (Field-Tested)",
+        "price": {
+          "min": 125.74,
+          "max": 140.03,
+          "mean": 134.41,
+          "median": 137.47,
+          "suggested": 155.88,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Classic Knife | Blue Steel (Well-Worn)",
+        "price": {
+          "min": 122.28,
+          "max": 220.82,
+          "mean": 157.76,
+          "median": 130.18,
+          "suggested": 144.89,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Classic Knife | Blue Steel (Battle-Scarred)",
+        "price": {
+          "min": 133.58,
+          "max": 140.37,
+          "mean": 136.98,
+          "median": 136.98,
+          "suggested": 140.64,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Classic Knife | Blue Steel (Factory New)",
+        "price": {
+          "min": 735.94,
+          "max": 735.94,
+          "mean": 735.94,
+          "median": 735.94,
+          "suggested": 476.08,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Classic Knife | Blue Steel (Minimal Wear)",
+        "price": {
+          "min": 213.51,
+          "max": 213.51,
+          "mean": 213.51,
+          "median": 213.51,
+          "suggested": 208.99,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Classic Knife | Blue Steel (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Classic Knife | Blue Steel (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Classic Knife | Blue Steel (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:33.875Z"
+}

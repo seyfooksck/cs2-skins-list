@@ -1,0 +1,137 @@
+{
+  "id": "skin-5301f5924e2a",
+  "name": "★ Stiletto Knife | Tiger Tooth",
+  "paint_index": "409",
+  "weapon": {
+    "id": "weapon_knife_stiletto",
+    "weapon_id": 522,
+    "name": "Stiletto Knife",
+    "slug": "knife_stiletto"
+  },
+  "pattern": {
+    "id": "an_tiger_orange",
+    "name": "Tiger Tooth"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Historically a focal point of contention and even regulation, this Italian-style stiletto switchblade knife features a spring-loaded blade that can be deployed almost instantly with the push of a release catch. It has been anodized orange and hand-etched in a tiger stripe pattern.\\n\\n<i>Like the tiger it is rare... like the tiger it is deadly...</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 301.07,
+      "max": 671.13,
+      "mean": 356.21,
+      "median": 333.36,
+      "suggested": 392.77,
+      "quantity": 43,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 340.76,
+      "max": 495.95,
+      "mean": 418.36,
+      "median": 418.36,
+      "suggested": 396.46,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Stiletto Knife | Tiger Tooth (Factory New)",
+      "price": {
+        "min": 301.07,
+        "max": 671.13,
+        "mean": 356.21,
+        "median": 333.36,
+        "suggested": 392.77,
+        "quantity": 43,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Stiletto Knife | Tiger Tooth (Minimal Wear)",
+      "price": {
+        "min": 340.76,
+        "max": 495.95,
+        "mean": 418.36,
+        "median": 418.36,
+        "suggested": 396.46,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Stiletto Knife | Tiger Tooth (Factory New)",
+        "price": {
+          "min": 301.07,
+          "max": 671.13,
+          "mean": 356.21,
+          "median": 333.36,
+          "suggested": 392.77,
+          "quantity": 43,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Stiletto Knife | Tiger Tooth (Minimal Wear)",
+        "price": {
+          "min": 340.76,
+          "max": 495.95,
+          "mean": 418.36,
+          "median": 418.36,
+          "suggested": 396.46,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Stiletto Knife | Tiger Tooth (Factory New)",
+        "price": {
+          "min": 318.83,
+          "max": 506.16,
+          "mean": 403.69,
+          "median": 381.27,
+          "suggested": 404.13,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Stiletto Knife | Tiger Tooth (Minimal Wear)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:37.982Z"
+}

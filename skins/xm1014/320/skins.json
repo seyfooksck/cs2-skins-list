@@ -1,0 +1,234 @@
+{
+  "id": "skin-bfe288b0397e",
+  "name": "XM1014 | Red Python",
+  "paint_index": "320",
+  "weapon": {
+    "id": "weapon_xm1014",
+    "weapon_id": 25,
+    "name": "XM1014",
+    "slug": "xm1014"
+  },
+  "pattern": {
+    "id": "hy_snakeskin_red",
+    "name": "Red Python"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0.08,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The XM1014 is a powerful fully automatic shotgun that justifies its heftier price tag with the ability to paint a room with lead fast. It has been painted with a snakeskin patterned hydrographic.\\n\\n<i>I know you don't believe in the cause...and when I expose you, Valeria will have your head - The Shield and The Serpent Part 1</i>",
+  "images": {
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "mw": {
+      "min": 4.07,
+      "max": 39.94,
+      "mean": 11.35,
+      "median": 6.1,
+      "suggested": 4.57,
+      "quantity": 18,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.58,
+      "max": 17.52,
+      "mean": 4.39,
+      "median": 3.58,
+      "suggested": 3.48,
+      "quantity": 22,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 2.91,
+      "max": 5.69,
+      "mean": 3.94,
+      "median": 3.24,
+      "suggested": 3.09,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "XM1014 | Red Python (Minimal Wear)",
+      "price": {
+        "min": 4.07,
+        "max": 39.94,
+        "mean": 11.35,
+        "median": 6.1,
+        "suggested": 4.57,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "XM1014 | Red Python (Field-Tested)",
+      "price": {
+        "min": 2.58,
+        "max": 17.52,
+        "mean": 4.39,
+        "median": 3.58,
+        "suggested": 3.48,
+        "quantity": 22,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "XM1014 | Red Python (Well-Worn)",
+      "price": {
+        "min": 2.91,
+        "max": 5.69,
+        "mean": 3.94,
+        "median": 3.24,
+        "suggested": 3.09,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "XM1014 | Red Python (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "mw": {
+        "market_hash_name": "XM1014 | Red Python (Minimal Wear)",
+        "price": {
+          "min": 4.07,
+          "max": 39.94,
+          "mean": 11.35,
+          "median": 6.1,
+          "suggested": 4.57,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "XM1014 | Red Python (Field-Tested)",
+        "price": {
+          "min": 2.58,
+          "max": 17.52,
+          "mean": 4.39,
+          "median": 3.58,
+          "suggested": 3.48,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "XM1014 | Red Python (Well-Worn)",
+        "price": {
+          "min": 2.91,
+          "max": 5.69,
+          "mean": 3.94,
+          "median": 3.24,
+          "suggested": 3.09,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "XM1014 | Red Python (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "mw": {
+        "market_hash_name": "StatTrak™ XM1014 | Red Python (Minimal Wear)",
+        "price": {
+          "min": 4.13,
+          "max": 15.98,
+          "mean": 6.57,
+          "median": 4.99,
+          "suggested": 5.07,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ XM1014 | Red Python (Field-Tested)",
+        "price": {
+          "min": 2.49,
+          "max": 35.01,
+          "mean": 6.35,
+          "median": 2.71,
+          "suggested": 3.02,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ XM1014 | Red Python (Well-Worn)",
+        "price": {
+          "min": 2.6,
+          "max": 2.6,
+          "mean": 2.6,
+          "median": 2.6,
+          "suggested": 3.06,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ XM1014 | Red Python (Battle-Scarred)",
+        "price": {
+          "min": 2.91,
+          "max": 2.91,
+          "mean": 2.91,
+          "median": 2.91,
+          "suggested": 3.33,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "mw": {
+        "market_hash_name": "Souvenir XM1014 | Red Python (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir XM1014 | Red Python (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir XM1014 | Red Python (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir XM1014 | Red Python (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:51.327Z"
+}

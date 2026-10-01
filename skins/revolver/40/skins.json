@@ -1,0 +1,289 @@
+{
+  "id": "skin-2367a9c28a7f",
+  "name": "R8 Revolver | Night",
+  "paint_index": "40",
+  "weapon": {
+    "id": "weapon_revolver",
+    "weapon_id": 64,
+    "name": "R8 Revolver",
+    "slug": "revolver"
+  },
+  "pattern": {
+    "id": "so_night",
+    "name": "Night"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The R8 Revolver delivers a highly accurate and powerful round at the expense of a lengthy trigger-pull. Firing rapidly by fanning the hammer may be the best option when point-blank stopping power is required. It has individual parts spray-painted solid colors in a night ops color scheme.\\n\\n<i>It's the whisper of the wind... it's the bite at your neck</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 12.43,
+      "max": 105.02,
+      "mean": 24.51,
+      "median": 12.75,
+      "suggested": 17.23,
+      "quantity": 28,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.31,
+      "max": 123.7,
+      "mean": 10.32,
+      "median": 4.9,
+      "suggested": 1.63,
+      "quantity": 27,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.69,
+      "max": 30.34,
+      "mean": 3.27,
+      "median": 2.38,
+      "suggested": 0.68,
+      "quantity": 27,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 4.24,
+      "max": 5.12,
+      "mean": 4.68,
+      "median": 4.68,
+      "suggested": 6.32,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.14,
+      "max": 2.57,
+      "mean": 1.69,
+      "median": 1.69,
+      "suggested": 1.01,
+      "quantity": 11,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "R8 Revolver | Night (Factory New)",
+      "price": {
+        "min": 12.43,
+        "max": 105.02,
+        "mean": 24.51,
+        "median": 12.75,
+        "suggested": 17.23,
+        "quantity": 28,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "R8 Revolver | Night (Minimal Wear)",
+      "price": {
+        "min": 1.31,
+        "max": 123.7,
+        "mean": 10.32,
+        "median": 4.9,
+        "suggested": 1.63,
+        "quantity": 27,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "R8 Revolver | Night (Field-Tested)",
+      "price": {
+        "min": 0.69,
+        "max": 30.34,
+        "mean": 3.27,
+        "median": 2.38,
+        "suggested": 0.68,
+        "quantity": 27,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "R8 Revolver | Night (Well-Worn)",
+      "price": {
+        "min": 4.24,
+        "max": 5.12,
+        "mean": 4.68,
+        "median": 4.68,
+        "suggested": 6.32,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "R8 Revolver | Night (Battle-Scarred)",
+      "price": {
+        "min": 1.14,
+        "max": 2.57,
+        "mean": 1.69,
+        "median": 1.69,
+        "suggested": 1.01,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "R8 Revolver | Night (Factory New)",
+        "price": {
+          "min": 12.43,
+          "max": 105.02,
+          "mean": 24.51,
+          "median": 12.75,
+          "suggested": 17.23,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "R8 Revolver | Night (Minimal Wear)",
+        "price": {
+          "min": 1.31,
+          "max": 123.7,
+          "mean": 10.32,
+          "median": 4.9,
+          "suggested": 1.63,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "R8 Revolver | Night (Field-Tested)",
+        "price": {
+          "min": 0.69,
+          "max": 30.34,
+          "mean": 3.27,
+          "median": 2.38,
+          "suggested": 0.68,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "R8 Revolver | Night (Well-Worn)",
+        "price": {
+          "min": 4.24,
+          "max": 5.12,
+          "mean": 4.68,
+          "median": 4.68,
+          "suggested": 6.32,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "R8 Revolver | Night (Battle-Scarred)",
+        "price": {
+          "min": 1.14,
+          "max": 2.57,
+          "mean": 1.69,
+          "median": 1.69,
+          "suggested": 1.01,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir R8 Revolver | Night (Factory New)",
+        "price": {
+          "min": 4.07,
+          "max": 122.17,
+          "mean": 20.48,
+          "median": 13.64,
+          "suggested": 4.51,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir R8 Revolver | Night (Minimal Wear)",
+        "price": {
+          "min": 0.51,
+          "max": 11.66,
+          "mean": 4.56,
+          "median": 2.21,
+          "suggested": 0.59,
+          "quantity": 54,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir R8 Revolver | Night (Field-Tested)",
+        "price": {
+          "min": 0.2,
+          "max": 27.55,
+          "mean": 2.95,
+          "median": 0.3,
+          "suggested": 0.27,
+          "quantity": 408,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir R8 Revolver | Night (Well-Worn)",
+        "price": {
+          "min": 0.28,
+          "max": 15.46,
+          "mean": 1.52,
+          "median": 1.17,
+          "suggested": 0.27,
+          "quantity": 65,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir R8 Revolver | Night (Battle-Scarred)",
+        "price": {
+          "min": 0.3,
+          "max": 11.67,
+          "mean": 1.83,
+          "median": 0.42,
+          "suggested": 0.35,
+          "quantity": 56,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:46.775Z"
+}

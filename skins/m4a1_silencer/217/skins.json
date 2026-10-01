@@ -1,0 +1,206 @@
+{
+  "id": "skin-c0f5c14db9e0",
+  "name": "M4A1-S | Blood Tiger",
+  "paint_index": "217",
+  "weapon": {
+    "id": "weapon_m4a1_silencer",
+    "weapon_id": 60,
+    "name": "M4A1-S",
+    "slug": "m4a1_silencer"
+  },
+  "pattern": {
+    "id": "hy_redtiger",
+    "name": "Blood Tiger"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.3,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. It has been painted using a jungle tiger hydrographic.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 19.29,
+      "max": 1554.36,
+      "mean": 108.5,
+      "median": 35.03,
+      "suggested": 30.12,
+      "quantity": 89,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 6.29,
+      "max": 947.33,
+      "mean": 115.28,
+      "median": 35.85,
+      "suggested": 6.35,
+      "quantity": 29,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 5.39,
+      "max": 238.78,
+      "mean": 50.89,
+      "median": 20.82,
+      "suggested": 6.12,
+      "quantity": 13,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A1-S | Blood Tiger (Factory New)",
+      "price": {
+        "min": 19.29,
+        "max": 1554.36,
+        "mean": 108.5,
+        "median": 35.03,
+        "suggested": 30.12,
+        "quantity": 89,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A1-S | Blood Tiger (Minimal Wear)",
+      "price": {
+        "min": 6.29,
+        "max": 947.33,
+        "mean": 115.28,
+        "median": 35.85,
+        "suggested": 6.35,
+        "quantity": 29,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A1-S | Blood Tiger (Field-Tested)",
+      "price": {
+        "min": 5.39,
+        "max": 238.78,
+        "mean": 50.89,
+        "median": 20.82,
+        "suggested": 6.12,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A1-S | Blood Tiger (Factory New)",
+        "price": {
+          "min": 19.29,
+          "max": 1554.36,
+          "mean": 108.5,
+          "median": 35.03,
+          "suggested": 30.12,
+          "quantity": 89,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A1-S | Blood Tiger (Minimal Wear)",
+        "price": {
+          "min": 6.29,
+          "max": 947.33,
+          "mean": 115.28,
+          "median": 35.85,
+          "suggested": 6.35,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A1-S | Blood Tiger (Field-Tested)",
+        "price": {
+          "min": 5.39,
+          "max": 238.78,
+          "mean": 50.89,
+          "median": 20.82,
+          "suggested": 6.12,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ M4A1-S | Blood Tiger (Factory New)",
+        "price": {
+          "min": 20.14,
+          "max": 1165.77,
+          "mean": 183.4,
+          "median": 34.82,
+          "suggested": 23.51,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ M4A1-S | Blood Tiger (Minimal Wear)",
+        "price": {
+          "min": 13.08,
+          "max": 3500.81,
+          "mean": 318.13,
+          "median": 23.34,
+          "suggested": 15.92,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ M4A1-S | Blood Tiger (Field-Tested)",
+        "price": {
+          "min": 13.64,
+          "max": 40.84,
+          "mean": 24.02,
+          "median": 21,
+          "suggested": 15.67,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A1-S | Blood Tiger (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A1-S | Blood Tiger (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A1-S | Blood Tiger (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.139Z"
+}

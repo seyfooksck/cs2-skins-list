@@ -1,0 +1,249 @@
+{
+  "id": "skin-57bff25c9e87",
+  "name": "SCAR-20 | Arctic Camo Panels",
+  "paint_index": "1470",
+  "weapon": {
+    "id": "weapon_scar20",
+    "weapon_id": 38,
+    "name": "SCAR-20",
+    "slug": "scar20"
+  },
+  "pattern": {
+    "id": "scar_arctic_camo_panels",
+    "name": "Arctic Camo Panels"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The SCAR-20 is a semi-automatic sniper rifle that trades a high rate of fire and powerful long-distance damage for sluggish movement speed and big price tag. A green and grey camo pattern has been applied.\\n\\n<i>Calling all Arctic Avengers!</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.77,
+      "max": 2.18,
+      "mean": 1.98,
+      "median": 1.98,
+      "suggested": 0.63,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.09,
+      "max": 1.14,
+      "mean": 0.35,
+      "median": 0.11,
+      "suggested": 0.12,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.06,
+      "max": 0.06,
+      "mean": 0.06,
+      "median": 0.06,
+      "suggested": 0.07,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.02,
+      "max": 0.02,
+      "mean": 0.02,
+      "median": 0.02,
+      "suggested": 0.01,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.02,
+      "max": 1.17,
+      "mean": 0.41,
+      "median": 0.02,
+      "suggested": 0.01,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SCAR-20 | Arctic Camo Panels (Factory New)",
+      "price": {
+        "min": 1.77,
+        "max": 2.18,
+        "mean": 1.98,
+        "median": 1.98,
+        "suggested": 0.63,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SCAR-20 | Arctic Camo Panels (Minimal Wear)",
+      "price": {
+        "min": 0.09,
+        "max": 1.14,
+        "mean": 0.35,
+        "median": 0.11,
+        "suggested": 0.12,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "SCAR-20 | Arctic Camo Panels (Field-Tested)",
+      "price": {
+        "min": 0.06,
+        "max": 0.06,
+        "mean": 0.06,
+        "median": 0.06,
+        "suggested": 0.07,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "SCAR-20 | Arctic Camo Panels (Well-Worn)",
+      "price": {
+        "min": 0.02,
+        "max": 0.02,
+        "mean": 0.02,
+        "median": 0.02,
+        "suggested": 0.01,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "SCAR-20 | Arctic Camo Panels (Battle-Scarred)",
+      "price": {
+        "min": 0.02,
+        "max": 1.17,
+        "mean": 0.41,
+        "median": 0.02,
+        "suggested": 0.01,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SCAR-20 | Arctic Camo Panels (Factory New)",
+        "price": {
+          "min": 1.77,
+          "max": 2.18,
+          "mean": 1.98,
+          "median": 1.98,
+          "suggested": 0.63,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "SCAR-20 | Arctic Camo Panels (Minimal Wear)",
+        "price": {
+          "min": 0.09,
+          "max": 1.14,
+          "mean": 0.35,
+          "median": 0.11,
+          "suggested": 0.12,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "SCAR-20 | Arctic Camo Panels (Field-Tested)",
+        "price": {
+          "min": 0.06,
+          "max": 0.06,
+          "mean": 0.06,
+          "median": 0.06,
+          "suggested": 0.07,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "SCAR-20 | Arctic Camo Panels (Well-Worn)",
+        "price": {
+          "min": 0.02,
+          "max": 0.02,
+          "mean": 0.02,
+          "median": 0.02,
+          "suggested": 0.01,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "SCAR-20 | Arctic Camo Panels (Battle-Scarred)",
+        "price": {
+          "min": 0.02,
+          "max": 1.17,
+          "mean": 0.41,
+          "median": 0.02,
+          "suggested": 0.01,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SCAR-20 | Arctic Camo Panels (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir SCAR-20 | Arctic Camo Panels (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir SCAR-20 | Arctic Camo Panels (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir SCAR-20 | Arctic Camo Panels (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir SCAR-20 | Arctic Camo Panels (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:47.669Z"
+}

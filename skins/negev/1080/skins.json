@@ -1,0 +1,257 @@
+{
+  "id": "skin-58ad413e99d2",
+  "name": "Negev | Infrastructure",
+  "paint_index": "1080",
+  "weapon": {
+    "id": "weapon_negev",
+    "weapon_id": 28,
+    "name": "Negev",
+    "slug": "negev"
+  },
+  "pattern": {
+    "id": "hy_vertigospray",
+    "name": "Infrastructure"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.49,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. A hydrographic pattern of the 51st floor's construction, HVAC, and wiring plans has been applied.\\n\\n<i>All according to plan…</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 8.17,
+      "max": 62.31,
+      "mean": 22.5,
+      "median": 10.01,
+      "suggested": 9.47,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 8.9,
+      "max": 233.39,
+      "mean": 59.89,
+      "median": 17.5,
+      "suggested": 6.64,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 5.59,
+      "max": 15.57,
+      "mean": 10.26,
+      "median": 9.93,
+      "suggested": 6.72,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 29.17,
+      "max": 29.17,
+      "mean": 29.17,
+      "median": 29.17,
+      "suggested": 15.73,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Negev | Infrastructure (Factory New)",
+      "price": {
+        "min": 8.17,
+        "max": 62.31,
+        "mean": 22.5,
+        "median": 10.01,
+        "suggested": 9.47,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Negev | Infrastructure (Minimal Wear)",
+      "price": {
+        "min": 8.9,
+        "max": 233.39,
+        "mean": 59.89,
+        "median": 17.5,
+        "suggested": 6.64,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Negev | Infrastructure (Field-Tested)",
+      "price": {
+        "min": 5.59,
+        "max": 15.57,
+        "mean": 10.26,
+        "median": 9.93,
+        "suggested": 6.72,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Negev | Infrastructure (Well-Worn)",
+      "price": {
+        "min": 29.17,
+        "max": 29.17,
+        "mean": 29.17,
+        "median": 29.17,
+        "suggested": 15.73,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Negev | Infrastructure (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Negev | Infrastructure (Factory New)",
+        "price": {
+          "min": 8.17,
+          "max": 62.31,
+          "mean": 22.5,
+          "median": 10.01,
+          "suggested": 9.47,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Negev | Infrastructure (Minimal Wear)",
+        "price": {
+          "min": 8.9,
+          "max": 233.39,
+          "mean": 59.89,
+          "median": 17.5,
+          "suggested": 6.64,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Negev | Infrastructure (Field-Tested)",
+        "price": {
+          "min": 5.59,
+          "max": 15.57,
+          "mean": 10.26,
+          "median": 9.93,
+          "suggested": 6.72,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Negev | Infrastructure (Well-Worn)",
+        "price": {
+          "min": 29.17,
+          "max": 29.17,
+          "mean": 29.17,
+          "median": 29.17,
+          "suggested": 15.73,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Negev | Infrastructure (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Negev | Infrastructure (Factory New)",
+        "price": {
+          "min": 6.83,
+          "max": 79.9,
+          "mean": 15.19,
+          "median": 9.34,
+          "suggested": 7.7,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Negev | Infrastructure (Minimal Wear)",
+        "price": {
+          "min": 6.01,
+          "max": 6.01,
+          "mean": 6.01,
+          "median": 6.01,
+          "suggested": 5.1,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Negev | Infrastructure (Field-Tested)",
+        "price": {
+          "min": 4.21,
+          "max": 5.24,
+          "mean": 4.73,
+          "median": 4.73,
+          "suggested": 4.72,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Negev | Infrastructure (Well-Worn)",
+        "price": {
+          "min": 3.48,
+          "max": 79.9,
+          "mean": 41.69,
+          "median": 41.69,
+          "suggested": 3.94,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Negev | Infrastructure (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.256Z"
+}

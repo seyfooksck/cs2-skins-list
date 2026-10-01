@@ -1,0 +1,201 @@
+{
+  "id": "skin-ed43fbef2a5f",
+  "name": "MAC-10 | Red Filigree",
+  "paint_index": "742",
+  "weapon": {
+    "id": "weapon_mac10",
+    "weapon_id": 17,
+    "name": "MAC-10",
+    "slug": "mac10"
+  },
+  "pattern": {
+    "id": "am_ren_red",
+    "name": "Red Filigree"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. A red millefleur hydrographic has been applied.\\n\\n<i>Perhaps this is one piece of art better left in the past</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 163.37,
+      "max": 322.13,
+      "mean": 197.1,
+      "median": 181.16,
+      "suggested": 204.35,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 105.44,
+      "max": 215.88,
+      "mean": 181.6,
+      "median": 202.55,
+      "suggested": 123.7,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 210.05,
+      "max": 210.05,
+      "mean": 210.05,
+      "median": 210.05,
+      "suggested": 108.48,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAC-10 | Red Filigree (Factory New)",
+      "price": {
+        "min": 163.37,
+        "max": 322.13,
+        "mean": 197.1,
+        "median": 181.16,
+        "suggested": 204.35,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAC-10 | Red Filigree (Minimal Wear)",
+      "price": {
+        "min": 105.44,
+        "max": 215.88,
+        "mean": 181.6,
+        "median": 202.55,
+        "suggested": 123.7,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAC-10 | Red Filigree (Field-Tested)",
+      "price": {
+        "min": 210.05,
+        "max": 210.05,
+        "mean": 210.05,
+        "median": 210.05,
+        "suggested": 108.48,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAC-10 | Red Filigree (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAC-10 | Red Filigree (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAC-10 | Red Filigree (Factory New)",
+        "price": {
+          "min": 163.37,
+          "max": 322.13,
+          "mean": 197.1,
+          "median": 181.16,
+          "suggested": 204.35,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAC-10 | Red Filigree (Minimal Wear)",
+        "price": {
+          "min": 105.44,
+          "max": 215.88,
+          "mean": 181.6,
+          "median": 202.55,
+          "suggested": 123.7,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAC-10 | Red Filigree (Field-Tested)",
+        "price": {
+          "min": 210.05,
+          "max": 210.05,
+          "mean": 210.05,
+          "median": 210.05,
+          "suggested": 108.48,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAC-10 | Red Filigree (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "MAC-10 | Red Filigree (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAC-10 | Red Filigree (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAC-10 | Red Filigree (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAC-10 | Red Filigree (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAC-10 | Red Filigree (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAC-10 | Red Filigree (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.507Z"
+}

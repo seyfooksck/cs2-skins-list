@@ -1,0 +1,281 @@
+{
+  "id": "skin-91ecab26594d",
+  "name": "FAMAS | Styx",
+  "paint_index": "371",
+  "weapon": {
+    "id": "weapon_famas",
+    "weapon_id": 10,
+    "name": "FAMAS",
+    "slug": "famas"
+  },
+  "pattern": {
+    "id": "am_nuclear_skulls2_famas",
+    "name": "Styx"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. It has been chromed then overlayed with a semi transparent hydrographic pattern of nuclear skulls and bones.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 103.31,
+      "max": 466.77,
+      "mean": 191.03,
+      "median": 169.43,
+      "suggested": 122.11,
+      "quantity": 33,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 22.36,
+      "max": 58.35,
+      "mean": 37.2,
+      "median": 39.83,
+      "suggested": 27.07,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 14.36,
+      "max": 35.23,
+      "mean": 19.23,
+      "median": 16.45,
+      "suggested": 13.76,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 11.66,
+      "max": 14.94,
+      "mean": 13.52,
+      "median": 13.99,
+      "suggested": 13.65,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 12.8,
+      "max": 21.64,
+      "mean": 17.34,
+      "median": 17.6,
+      "suggested": 11.22,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "FAMAS | Styx (Factory New)",
+      "price": {
+        "min": 103.31,
+        "max": 466.77,
+        "mean": 191.03,
+        "median": 169.43,
+        "suggested": 122.11,
+        "quantity": 33,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "FAMAS | Styx (Minimal Wear)",
+      "price": {
+        "min": 22.36,
+        "max": 58.35,
+        "mean": 37.2,
+        "median": 39.83,
+        "suggested": 27.07,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "FAMAS | Styx (Field-Tested)",
+      "price": {
+        "min": 14.36,
+        "max": 35.23,
+        "mean": 19.23,
+        "median": 16.45,
+        "suggested": 13.76,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "FAMAS | Styx (Well-Worn)",
+      "price": {
+        "min": 11.66,
+        "max": 14.94,
+        "mean": 13.52,
+        "median": 13.99,
+        "suggested": 13.65,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "FAMAS | Styx (Battle-Scarred)",
+      "price": {
+        "min": 12.8,
+        "max": 21.64,
+        "mean": 17.34,
+        "median": 17.6,
+        "suggested": 11.22,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "FAMAS | Styx (Factory New)",
+        "price": {
+          "min": 103.31,
+          "max": 466.77,
+          "mean": 191.03,
+          "median": 169.43,
+          "suggested": 122.11,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "FAMAS | Styx (Minimal Wear)",
+        "price": {
+          "min": 22.36,
+          "max": 58.35,
+          "mean": 37.2,
+          "median": 39.83,
+          "suggested": 27.07,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "FAMAS | Styx (Field-Tested)",
+        "price": {
+          "min": 14.36,
+          "max": 35.23,
+          "mean": 19.23,
+          "median": 16.45,
+          "suggested": 13.76,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "FAMAS | Styx (Well-Worn)",
+        "price": {
+          "min": 11.66,
+          "max": 14.94,
+          "mean": 13.52,
+          "median": 13.99,
+          "suggested": 13.65,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "FAMAS | Styx (Battle-Scarred)",
+        "price": {
+          "min": 12.8,
+          "max": 21.64,
+          "mean": 17.34,
+          "median": 17.6,
+          "suggested": 11.22,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir FAMAS | Styx (Factory New)",
+        "price": {
+          "min": 76.64,
+          "max": 291.73,
+          "mean": 194.34,
+          "median": 206.61,
+          "suggested": 89.38,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir FAMAS | Styx (Minimal Wear)",
+        "price": {
+          "min": 70.02,
+          "max": 87.4,
+          "mean": 78.71,
+          "median": 78.71,
+          "suggested": 58.4,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir FAMAS | Styx (Field-Tested)",
+        "price": {
+          "min": 20.99,
+          "max": 21,
+          "mean": 21,
+          "median": 21,
+          "suggested": 23.37,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir FAMAS | Styx (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir FAMAS | Styx (Battle-Scarred)",
+        "price": {
+          "min": 23.01,
+          "max": 23.01,
+          "mean": 23.01,
+          "median": 23.01,
+          "suggested": 20.99,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:29.330Z"
+}

@@ -1,0 +1,201 @@
+{
+  "id": "skin-3efd2f4af3ac",
+  "name": "Desert Eagle | Emerald Jörmungandr",
+  "paint_index": "757",
+  "weapon": {
+    "id": "weapon_deagle",
+    "weapon_id": 1,
+    "name": "Desert Eagle",
+    "slug": "deagle"
+  },
+  "pattern": {
+    "id": "am_jorm_green",
+    "name": "Emerald Jörmungandr"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. A green pattern depicting Jörmungandr, the World Serpent, has been applied.\\n\\n<i>Wake the gods</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 641.82,
+      "max": 8133.19,
+      "mean": 1146.42,
+      "median": 1037.41,
+      "suggested": 684.3,
+      "quantity": 59,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 494.78,
+      "max": 1091.98,
+      "mean": 663.54,
+      "median": 617.65,
+      "suggested": 575.56,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 473.96,
+      "max": 473.96,
+      "mean": 473.96,
+      "median": 473.96,
+      "suggested": 564.82,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Desert Eagle | Emerald Jörmungandr (Factory New)",
+      "price": {
+        "min": 641.82,
+        "max": 8133.19,
+        "mean": 1146.42,
+        "median": 1037.41,
+        "suggested": 684.3,
+        "quantity": 59,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Desert Eagle | Emerald Jörmungandr (Minimal Wear)",
+      "price": {
+        "min": 494.78,
+        "max": 1091.98,
+        "mean": 663.54,
+        "median": 617.65,
+        "suggested": 575.56,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Desert Eagle | Emerald Jörmungandr (Field-Tested)",
+      "price": {
+        "min": 473.96,
+        "max": 473.96,
+        "mean": 473.96,
+        "median": 473.96,
+        "suggested": 564.82,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Desert Eagle | Emerald Jörmungandr (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Desert Eagle | Emerald Jörmungandr (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Desert Eagle | Emerald Jörmungandr (Factory New)",
+        "price": {
+          "min": 641.82,
+          "max": 8133.19,
+          "mean": 1146.42,
+          "median": 1037.41,
+          "suggested": 684.3,
+          "quantity": 59,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Desert Eagle | Emerald Jörmungandr (Minimal Wear)",
+        "price": {
+          "min": 494.78,
+          "max": 1091.98,
+          "mean": 663.54,
+          "median": 617.65,
+          "suggested": 575.56,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Desert Eagle | Emerald Jörmungandr (Field-Tested)",
+        "price": {
+          "min": 473.96,
+          "max": 473.96,
+          "mean": 473.96,
+          "median": 473.96,
+          "suggested": 564.82,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Desert Eagle | Emerald Jörmungandr (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Desert Eagle | Emerald Jörmungandr (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Desert Eagle | Emerald Jörmungandr (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Desert Eagle | Emerald Jörmungandr (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Desert Eagle | Emerald Jörmungandr (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Desert Eagle | Emerald Jörmungandr (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Desert Eagle | Emerald Jörmungandr (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:28.028Z"
+}

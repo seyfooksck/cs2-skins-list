@@ -1,0 +1,225 @@
+{
+  "id": "skin-8d75b8d5e231",
+  "name": "★ Ursus Knife | Safari Mesh",
+  "paint_index": "72",
+  "weapon": {
+    "id": "weapon_knife_ursus",
+    "weapon_id": 519,
+    "name": "Ursus Knife",
+    "slug": "knife_ursus"
+  },
+  "pattern": {
+    "id": "sp_mesh_tan",
+    "name": "Safari Mesh"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This tanto-style survival knife features a faceted blade and full tang, complete with impact pommel. No fuss, no moving parts - just a reliable blade that's ready to work. It has been spray-painted using mesh fencing and cardboard cutouts as stencils.\\n\\n<i>A predator is a predator, no matter the environment</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 331.47,
+      "max": 331.47,
+      "mean": 331.47,
+      "median": 331.47,
+      "suggested": 116.72,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 134.02,
+      "max": 134.02,
+      "mean": 134.02,
+      "median": 134.02,
+      "suggested": 73.46,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 62.35,
+      "max": 69.96,
+      "mean": 65.89,
+      "median": 65.34,
+      "suggested": 72.28,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 64.48,
+      "max": 74.32,
+      "mean": 69.41,
+      "median": 69.41,
+      "suggested": 69.69,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Ursus Knife | Safari Mesh (Factory New)",
+      "price": {
+        "min": 331.47,
+        "max": 331.47,
+        "mean": 331.47,
+        "median": 331.47,
+        "suggested": 116.72,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Ursus Knife | Safari Mesh (Minimal Wear)",
+      "price": {
+        "min": 134.02,
+        "max": 134.02,
+        "mean": 134.02,
+        "median": 134.02,
+        "suggested": 73.46,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Ursus Knife | Safari Mesh (Field-Tested)",
+      "price": {
+        "min": 62.35,
+        "max": 69.96,
+        "mean": 65.89,
+        "median": 65.34,
+        "suggested": 72.28,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Ursus Knife | Safari Mesh (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Ursus Knife | Safari Mesh (Battle-Scarred)",
+      "price": {
+        "min": 64.48,
+        "max": 74.32,
+        "mean": 69.41,
+        "median": 69.41,
+        "suggested": 69.69,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Ursus Knife | Safari Mesh (Factory New)",
+        "price": {
+          "min": 331.47,
+          "max": 331.47,
+          "mean": 331.47,
+          "median": 331.47,
+          "suggested": 116.72,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Ursus Knife | Safari Mesh (Minimal Wear)",
+        "price": {
+          "min": 134.02,
+          "max": 134.02,
+          "mean": 134.02,
+          "median": 134.02,
+          "suggested": 73.46,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Ursus Knife | Safari Mesh (Field-Tested)",
+        "price": {
+          "min": 62.35,
+          "max": 69.96,
+          "mean": 65.89,
+          "median": 65.34,
+          "suggested": 72.28,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Ursus Knife | Safari Mesh (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ Ursus Knife | Safari Mesh (Battle-Scarred)",
+        "price": {
+          "min": 64.48,
+          "max": 74.32,
+          "mean": 69.41,
+          "median": 69.41,
+          "suggested": 69.69,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Ursus Knife | Safari Mesh (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Ursus Knife | Safari Mesh (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Ursus Knife | Safari Mesh (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Ursus Knife | Safari Mesh (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Ursus Knife | Safari Mesh (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:39.315Z"
+}

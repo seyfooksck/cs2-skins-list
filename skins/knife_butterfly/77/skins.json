@@ -1,0 +1,233 @@
+{
+  "id": "skin-1471c201cd68",
+  "name": "★ Butterfly Knife | Boreal Forest",
+  "paint_index": "77",
+  "weapon": {
+    "id": "weapon_knife_butterfly",
+    "weapon_id": 515,
+    "name": "Butterfly Knife",
+    "slug": "knife_butterfly"
+  },
+  "pattern": {
+    "id": "hy_forest_boreal",
+    "name": "Boreal Forest"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This is a custom-designed balisong, commonly known as a butterfly knife. The defining characteristic of this weapon is the fan-like opening of a freely pivoting blade, allowing rapid deployment or concealment. As a result, butterfly knives are outlawed in many countries. It has been painted using a forest camouflage hydrographic.\\n\\n<i>The woods can be a dangerous place... never travel alone</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1051.96,
+      "max": 1051.96,
+      "mean": 1051.96,
+      "median": 1051.96,
+      "suggested": 1013.7,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 688.76,
+      "max": 720.78,
+      "mean": 704.77,
+      "median": 704.77,
+      "suggested": 598.04,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 476.1,
+      "max": 660.32,
+      "mean": 513.71,
+      "median": 493.38,
+      "suggested": 544.48,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 508.61,
+      "max": 508.61,
+      "mean": 508.61,
+      "median": 508.61,
+      "suggested": 501.13,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Butterfly Knife | Boreal Forest (Factory New)",
+      "price": {
+        "min": 1051.96,
+        "max": 1051.96,
+        "mean": 1051.96,
+        "median": 1051.96,
+        "suggested": 1013.7,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Butterfly Knife | Boreal Forest (Minimal Wear)",
+      "price": {
+        "min": 688.76,
+        "max": 720.78,
+        "mean": 704.77,
+        "median": 704.77,
+        "suggested": 598.04,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Butterfly Knife | Boreal Forest (Field-Tested)",
+      "price": {
+        "min": 476.1,
+        "max": 660.32,
+        "mean": 513.71,
+        "median": 493.38,
+        "suggested": 544.48,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Butterfly Knife | Boreal Forest (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Butterfly Knife | Boreal Forest (Battle-Scarred)",
+      "price": {
+        "min": 508.61,
+        "max": 508.61,
+        "mean": 508.61,
+        "median": 508.61,
+        "suggested": 501.13,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Butterfly Knife | Boreal Forest (Factory New)",
+        "price": {
+          "min": 1051.96,
+          "max": 1051.96,
+          "mean": 1051.96,
+          "median": 1051.96,
+          "suggested": 1013.7,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Butterfly Knife | Boreal Forest (Minimal Wear)",
+        "price": {
+          "min": 688.76,
+          "max": 720.78,
+          "mean": 704.77,
+          "median": 704.77,
+          "suggested": 598.04,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Butterfly Knife | Boreal Forest (Field-Tested)",
+        "price": {
+          "min": 476.1,
+          "max": 660.32,
+          "mean": 513.71,
+          "median": 493.38,
+          "suggested": 544.48,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Butterfly Knife | Boreal Forest (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ Butterfly Knife | Boreal Forest (Battle-Scarred)",
+        "price": {
+          "min": 508.61,
+          "max": 508.61,
+          "mean": 508.61,
+          "median": 508.61,
+          "suggested": 501.13,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Butterfly Knife | Boreal Forest (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Butterfly Knife | Boreal Forest (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Butterfly Knife | Boreal Forest (Field-Tested)",
+        "price": {
+          "min": 525.12,
+          "max": 525.12,
+          "mean": 525.12,
+          "median": 525.12,
+          "suggested": 561.63,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Butterfly Knife | Boreal Forest (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Butterfly Knife | Boreal Forest (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:33.139Z"
+}

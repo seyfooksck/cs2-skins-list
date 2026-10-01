@@ -1,0 +1,310 @@
+{
+  "id": "skin-3d7cafe33cee",
+  "name": "Galil AR | Stone Cold",
+  "paint_index": "494",
+  "weapon": {
+    "id": "weapon_galilar",
+    "weapon_id": 13,
+    "name": "Galil AR",
+    "slug": "galilar"
+  },
+  "pattern": {
+    "id": "gs_galil_nightwing",
+    "name": "Stone Cold"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.9,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat. It has been highlighted with metallic blue paint.  The stock and magazine bare its designer's mark.\\n\\n<i>Eventually you need to step outside of your mentor's shadow</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 38.33,
+      "max": 114.36,
+      "mean": 57.54,
+      "median": 51.01,
+      "suggested": 55.73,
+      "quantity": 27,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 6.53,
+      "max": 22.17,
+      "mean": 11.24,
+      "median": 10.22,
+      "suggested": 7.58,
+      "quantity": 60,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.96,
+      "max": 128.36,
+      "mean": 7.06,
+      "median": 3.45,
+      "suggested": 3.46,
+      "quantity": 104,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 2.71,
+      "max": 3.96,
+      "mean": 3.35,
+      "median": 3.4,
+      "suggested": 2.95,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 2.02,
+      "max": 67.45,
+      "mean": 12.14,
+      "median": 3.27,
+      "suggested": 2.4,
+      "quantity": 7,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Galil AR | Stone Cold (Factory New)",
+      "price": {
+        "min": 38.33,
+        "max": 114.36,
+        "mean": 57.54,
+        "median": 51.01,
+        "suggested": 55.73,
+        "quantity": 27,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Galil AR | Stone Cold (Minimal Wear)",
+      "price": {
+        "min": 6.53,
+        "max": 22.17,
+        "mean": 11.24,
+        "median": 10.22,
+        "suggested": 7.58,
+        "quantity": 60,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Galil AR | Stone Cold (Field-Tested)",
+      "price": {
+        "min": 2.96,
+        "max": 128.36,
+        "mean": 7.06,
+        "median": 3.45,
+        "suggested": 3.46,
+        "quantity": 104,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Galil AR | Stone Cold (Well-Worn)",
+      "price": {
+        "min": 2.71,
+        "max": 3.96,
+        "mean": 3.35,
+        "median": 3.4,
+        "suggested": 2.95,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Galil AR | Stone Cold (Battle-Scarred)",
+      "price": {
+        "min": 2.02,
+        "max": 67.45,
+        "mean": 12.14,
+        "median": 3.27,
+        "suggested": 2.4,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Galil AR | Stone Cold (Factory New)",
+        "price": {
+          "min": 38.33,
+          "max": 114.36,
+          "mean": 57.54,
+          "median": 51.01,
+          "suggested": 55.73,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Galil AR | Stone Cold (Minimal Wear)",
+        "price": {
+          "min": 6.53,
+          "max": 22.17,
+          "mean": 11.24,
+          "median": 10.22,
+          "suggested": 7.58,
+          "quantity": 60,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Galil AR | Stone Cold (Field-Tested)",
+        "price": {
+          "min": 2.96,
+          "max": 128.36,
+          "mean": 7.06,
+          "median": 3.45,
+          "suggested": 3.46,
+          "quantity": 104,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Galil AR | Stone Cold (Well-Worn)",
+        "price": {
+          "min": 2.71,
+          "max": 3.96,
+          "mean": 3.35,
+          "median": 3.4,
+          "suggested": 2.95,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Galil AR | Stone Cold (Battle-Scarred)",
+        "price": {
+          "min": 2.02,
+          "max": 67.45,
+          "mean": 12.14,
+          "median": 3.27,
+          "suggested": 2.4,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Galil AR | Stone Cold (Factory New)",
+        "price": {
+          "min": 30.64,
+          "max": 121.48,
+          "mean": 46.4,
+          "median": 33.08,
+          "suggested": 38.78,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Galil AR | Stone Cold (Minimal Wear)",
+        "price": {
+          "min": 10.69,
+          "max": 58.35,
+          "mean": 22.69,
+          "median": 20.42,
+          "suggested": 15.53,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Galil AR | Stone Cold (Field-Tested)",
+        "price": {
+          "min": 5.36,
+          "max": 24.51,
+          "mean": 10.67,
+          "median": 9.83,
+          "suggested": 6.17,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Galil AR | Stone Cold (Well-Worn)",
+        "price": {
+          "min": 4.68,
+          "max": 5.69,
+          "mean": 5.15,
+          "median": 5.11,
+          "suggested": 4.49,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Galil AR | Stone Cold (Battle-Scarred)",
+        "price": {
+          "min": 3.29,
+          "max": 9.45,
+          "mean": 5.15,
+          "median": 4.31,
+          "suggested": 3.79,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Galil AR | Stone Cold (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Galil AR | Stone Cold (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Galil AR | Stone Cold (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Galil AR | Stone Cold (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Galil AR | Stone Cold (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:31.038Z"
+}

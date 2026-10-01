@@ -1,0 +1,310 @@
+{
+  "id": "skin-ea4e27f0cd16",
+  "name": "AK-47 | Elite Build",
+  "paint_index": "422",
+  "weapon": {
+    "id": "weapon_ak47",
+    "weapon_id": 7,
+    "name": "AK-47",
+    "slug": "ak47"
+  },
+  "pattern": {
+    "id": "cu_ak47_mastery",
+    "name": "Elite Build"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. It has been custom painted using a combination of hydrographics and careful stenciling and detailed with heat-transfer decals.\\n\\n<i>Tread softly Naomi...people in your line of work aren't known for their longevity - The Shield and The Serpent Part 2</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 12.43,
+      "max": 629.56,
+      "mean": 46.3,
+      "median": 18.51,
+      "suggested": 16.66,
+      "quantity": 71,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 3.22,
+      "max": 175.04,
+      "mean": 10.96,
+      "median": 4.22,
+      "suggested": 4.09,
+      "quantity": 341,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.9,
+      "max": 338.4,
+      "mean": 7.99,
+      "median": 2.65,
+      "suggested": 2.57,
+      "quantity": 574,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.61,
+      "max": 221.71,
+      "mean": 6.39,
+      "median": 2.21,
+      "suggested": 2.06,
+      "quantity": 417,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.38,
+      "max": 129.82,
+      "mean": 6.83,
+      "median": 2.17,
+      "suggested": 2.01,
+      "quantity": 242,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AK-47 | Elite Build (Factory New)",
+      "price": {
+        "min": 12.43,
+        "max": 629.56,
+        "mean": 46.3,
+        "median": 18.51,
+        "suggested": 16.66,
+        "quantity": 71,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AK-47 | Elite Build (Minimal Wear)",
+      "price": {
+        "min": 3.22,
+        "max": 175.04,
+        "mean": 10.96,
+        "median": 4.22,
+        "suggested": 4.09,
+        "quantity": 341,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AK-47 | Elite Build (Field-Tested)",
+      "price": {
+        "min": 1.9,
+        "max": 338.4,
+        "mean": 7.99,
+        "median": 2.65,
+        "suggested": 2.57,
+        "quantity": 574,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AK-47 | Elite Build (Well-Worn)",
+      "price": {
+        "min": 1.61,
+        "max": 221.71,
+        "mean": 6.39,
+        "median": 2.21,
+        "suggested": 2.06,
+        "quantity": 417,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AK-47 | Elite Build (Battle-Scarred)",
+      "price": {
+        "min": 1.38,
+        "max": 129.82,
+        "mean": 6.83,
+        "median": 2.17,
+        "suggested": 2.01,
+        "quantity": 242,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AK-47 | Elite Build (Factory New)",
+        "price": {
+          "min": 12.43,
+          "max": 629.56,
+          "mean": 46.3,
+          "median": 18.51,
+          "suggested": 16.66,
+          "quantity": 71,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AK-47 | Elite Build (Minimal Wear)",
+        "price": {
+          "min": 3.22,
+          "max": 175.04,
+          "mean": 10.96,
+          "median": 4.22,
+          "suggested": 4.09,
+          "quantity": 341,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AK-47 | Elite Build (Field-Tested)",
+        "price": {
+          "min": 1.9,
+          "max": 338.4,
+          "mean": 7.99,
+          "median": 2.65,
+          "suggested": 2.57,
+          "quantity": 574,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AK-47 | Elite Build (Well-Worn)",
+        "price": {
+          "min": 1.61,
+          "max": 221.71,
+          "mean": 6.39,
+          "median": 2.21,
+          "suggested": 2.06,
+          "quantity": 417,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AK-47 | Elite Build (Battle-Scarred)",
+        "price": {
+          "min": 1.38,
+          "max": 129.82,
+          "mean": 6.83,
+          "median": 2.17,
+          "suggested": 2.01,
+          "quantity": 242,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AK-47 | Elite Build (Factory New)",
+        "price": {
+          "min": 31.02,
+          "max": 1457.35,
+          "mean": 102.74,
+          "median": 38.15,
+          "suggested": 39.32,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AK-47 | Elite Build (Minimal Wear)",
+        "price": {
+          "min": 9.52,
+          "max": 509.59,
+          "mean": 55.29,
+          "median": 26.84,
+          "suggested": 12.05,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AK-47 | Elite Build (Field-Tested)",
+        "price": {
+          "min": 5.71,
+          "max": 4087.61,
+          "mean": 53.22,
+          "median": 10.5,
+          "suggested": 7.01,
+          "quantity": 123,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AK-47 | Elite Build (Well-Worn)",
+        "price": {
+          "min": 4.27,
+          "max": 2713.98,
+          "mean": 52.66,
+          "median": 8.95,
+          "suggested": 4.87,
+          "quantity": 89,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ AK-47 | Elite Build (Battle-Scarred)",
+        "price": {
+          "min": 3.91,
+          "max": 81.69,
+          "mean": 12.46,
+          "median": 5.81,
+          "suggested": 4.57,
+          "quantity": 74,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AK-47 | Elite Build (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AK-47 | Elite Build (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AK-47 | Elite Build (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AK-47 | Elite Build (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AK-47 | Elite Build (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:20:20.538Z"
+}

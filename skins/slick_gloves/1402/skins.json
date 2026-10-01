@@ -1,0 +1,204 @@
+{
+  "id": "skin-2d7a4c354277",
+  "name": "★ Driver Gloves | Garden",
+  "paint_index": "1402",
+  "weapon": {
+    "id": "slick_gloves",
+    "weapon_id": 5031,
+    "name": "Driver Gloves",
+    "slug": "slick_gloves"
+  },
+  "pattern": {
+    "id": "glove_driver_embroidered_flowers_teal",
+    "name": "Garden"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_gloves",
+    "name": "Gloves"
+  },
+  "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "These driving gloves offer protection from the elements while still maintaining tactile sensation.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 571.67,
+      "max": 779.37,
+      "mean": 661.31,
+      "median": 655.19,
+      "suggested": 635.45,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 252.78,
+      "max": 507.38,
+      "mean": 320.57,
+      "median": 294.27,
+      "suggested": 341.58,
+      "quantity": 38,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 217.95,
+      "max": 292.87,
+      "mean": 243.41,
+      "median": 231.43,
+      "suggested": 301.69,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 208.01,
+      "max": 268.63,
+      "mean": 225.07,
+      "median": 216.98,
+      "suggested": 226.86,
+      "quantity": 8,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Driver Gloves | Garden (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Driver Gloves | Garden (Minimal Wear)",
+      "price": {
+        "min": 571.67,
+        "max": 779.37,
+        "mean": 661.31,
+        "median": 655.19,
+        "suggested": 635.45,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Driver Gloves | Garden (Field-Tested)",
+      "price": {
+        "min": 252.78,
+        "max": 507.38,
+        "mean": 320.57,
+        "median": 294.27,
+        "suggested": 341.58,
+        "quantity": 38,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Driver Gloves | Garden (Well-Worn)",
+      "price": {
+        "min": 217.95,
+        "max": 292.87,
+        "mean": 243.41,
+        "median": 231.43,
+        "suggested": 301.69,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Driver Gloves | Garden (Battle-Scarred)",
+      "price": {
+        "min": 208.01,
+        "max": 268.63,
+        "mean": 225.07,
+        "median": 216.98,
+        "suggested": 226.86,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Driver Gloves | Garden (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Driver Gloves | Garden (Minimal Wear)",
+        "price": {
+          "min": 571.67,
+          "max": 779.37,
+          "mean": 661.31,
+          "median": 655.19,
+          "suggested": 635.45,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Driver Gloves | Garden (Field-Tested)",
+        "price": {
+          "min": 252.78,
+          "max": 507.38,
+          "mean": 320.57,
+          "median": 294.27,
+          "suggested": 341.58,
+          "quantity": 38,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Driver Gloves | Garden (Well-Worn)",
+        "price": {
+          "min": 217.95,
+          "max": 292.87,
+          "mean": 243.41,
+          "median": 231.43,
+          "suggested": 301.69,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Driver Gloves | Garden (Battle-Scarred)",
+        "price": {
+          "min": 208.01,
+          "max": 268.63,
+          "mean": 225.07,
+          "median": 216.98,
+          "suggested": 226.86,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:23.363Z"
+}

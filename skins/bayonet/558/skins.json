@@ -1,0 +1,241 @@
+{
+  "id": "skin-41061f8a5cc4",
+  "name": "★ Bayonet | Lore",
+  "paint_index": "558",
+  "weapon": {
+    "id": "weapon_bayonet",
+    "weapon_id": 500,
+    "name": "Bayonet",
+    "slug": "bayonet"
+  },
+  "pattern": {
+    "id": "cu_bayonet_lore",
+    "name": "Lore"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.65,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Relatively unchanged in its design since World War II, the bayonet still retains a place in modern military strategy. Bayonet charges have continued to be effective as recently as the second Gulf War and the war in Afghanistan. It has been custom painted with knotwork.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 461.29,
+      "max": 956.89,
+      "mean": 639.78,
+      "median": 480.91,
+      "suggested": 545.65,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 346.66,
+      "max": 688.76,
+      "mean": 411.35,
+      "median": 380.19,
+      "suggested": 446.25,
+      "quantity": 19,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 245.06,
+      "max": 641.82,
+      "mean": 304.27,
+      "median": 284.28,
+      "suggested": 330.74,
+      "quantity": 41,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 245.19,
+      "max": 268.47,
+      "mean": 256.83,
+      "median": 256.83,
+      "suggested": 276.63,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Bayonet | Lore (Factory New)",
+      "price": {
+        "min": 461.29,
+        "max": 956.89,
+        "mean": 639.78,
+        "median": 480.91,
+        "suggested": 545.65,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Bayonet | Lore (Minimal Wear)",
+      "price": {
+        "min": 346.66,
+        "max": 688.76,
+        "mean": 411.35,
+        "median": 380.19,
+        "suggested": 446.25,
+        "quantity": 19,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Bayonet | Lore (Field-Tested)",
+      "price": {
+        "min": 245.06,
+        "max": 641.82,
+        "mean": 304.27,
+        "median": 284.28,
+        "suggested": 330.74,
+        "quantity": 41,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Bayonet | Lore (Well-Worn)",
+      "price": {
+        "min": 245.19,
+        "max": 268.47,
+        "mean": 256.83,
+        "median": 256.83,
+        "suggested": 276.63,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Bayonet | Lore (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Bayonet | Lore (Factory New)",
+        "price": {
+          "min": 461.29,
+          "max": 956.89,
+          "mean": 639.78,
+          "median": 480.91,
+          "suggested": 545.65,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Bayonet | Lore (Minimal Wear)",
+        "price": {
+          "min": 346.66,
+          "max": 688.76,
+          "mean": 411.35,
+          "median": 380.19,
+          "suggested": 446.25,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Bayonet | Lore (Field-Tested)",
+        "price": {
+          "min": 245.06,
+          "max": 641.82,
+          "mean": 304.27,
+          "median": 284.28,
+          "suggested": 330.74,
+          "quantity": 41,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Bayonet | Lore (Well-Worn)",
+        "price": {
+          "min": 245.19,
+          "max": 268.47,
+          "mean": 256.83,
+          "median": 256.83,
+          "suggested": 276.63,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Bayonet | Lore (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Lore (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Lore (Minimal Wear)",
+        "price": {
+          "min": 358.45,
+          "max": 639.82,
+          "mean": 466.94,
+          "median": 458.68,
+          "suggested": 440.03,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Lore (Field-Tested)",
+        "price": {
+          "min": 284.99,
+          "max": 333.36,
+          "mean": 309.18,
+          "median": 309.18,
+          "suggested": 342.23,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Lore (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Lore (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:26.717Z"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "skin-c70df63bf30b",
+  "name": "FAMAS | Commemoration",
+  "paint_index": "919",
+  "weapon": {
+    "id": "weapon_famas",
+    "weapon_id": 10,
+    "name": "FAMAS",
+    "slug": "famas"
+  },
+  "pattern": {
+    "id": "gs_famas_legacy_gold",
+    "name": "Commemoration"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. It has been custom painted gold and features various details celebrating 20 years of Counter-Strike.\\n\\n<i>Here's to 20 more</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 79.07,
+      "max": 43188.35,
+      "mean": 1007.07,
+      "median": 96.52,
+      "suggested": 100.71,
+      "quantity": 48,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 35.01,
+      "max": 777.18,
+      "mean": 53.22,
+      "median": 42.41,
+      "suggested": 46.18,
+      "quantity": 96,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 33.71,
+      "max": 64.18,
+      "mean": 39.33,
+      "median": 38.5,
+      "suggested": 41.6,
+      "quantity": 81,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 33.65,
+      "max": 55.41,
+      "mean": 39.55,
+      "median": 38.37,
+      "suggested": 39.15,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 35.6,
+      "max": 38.4,
+      "mean": 36.62,
+      "median": 35.85,
+      "suggested": 43.82,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "FAMAS | Commemoration (Factory New)",
+      "price": {
+        "min": 79.07,
+        "max": 43188.35,
+        "mean": 1007.07,
+        "median": 96.52,
+        "suggested": 100.71,
+        "quantity": 48,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "FAMAS | Commemoration (Minimal Wear)",
+      "price": {
+        "min": 35.01,
+        "max": 777.18,
+        "mean": 53.22,
+        "median": 42.41,
+        "suggested": 46.18,
+        "quantity": 96,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "FAMAS | Commemoration (Field-Tested)",
+      "price": {
+        "min": 33.71,
+        "max": 64.18,
+        "mean": 39.33,
+        "median": 38.5,
+        "suggested": 41.6,
+        "quantity": 81,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "FAMAS | Commemoration (Well-Worn)",
+      "price": {
+        "min": 33.65,
+        "max": 55.41,
+        "mean": 39.55,
+        "median": 38.37,
+        "suggested": 39.15,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "FAMAS | Commemoration (Battle-Scarred)",
+      "price": {
+        "min": 35.6,
+        "max": 38.4,
+        "mean": 36.62,
+        "median": 35.85,
+        "suggested": 43.82,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "FAMAS | Commemoration (Factory New)",
+        "price": {
+          "min": 79.07,
+          "max": 43188.35,
+          "mean": 1007.07,
+          "median": 96.52,
+          "suggested": 100.71,
+          "quantity": 48,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "FAMAS | Commemoration (Minimal Wear)",
+        "price": {
+          "min": 35.01,
+          "max": 777.18,
+          "mean": 53.22,
+          "median": 42.41,
+          "suggested": 46.18,
+          "quantity": 96,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "FAMAS | Commemoration (Field-Tested)",
+        "price": {
+          "min": 33.71,
+          "max": 64.18,
+          "mean": 39.33,
+          "median": 38.5,
+          "suggested": 41.6,
+          "quantity": 81,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "FAMAS | Commemoration (Well-Worn)",
+        "price": {
+          "min": 33.65,
+          "max": 55.41,
+          "mean": 39.55,
+          "median": 38.37,
+          "suggested": 39.15,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "FAMAS | Commemoration (Battle-Scarred)",
+        "price": {
+          "min": 35.6,
+          "max": 38.4,
+          "mean": 36.62,
+          "median": 35.85,
+          "suggested": 43.82,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ FAMAS | Commemoration (Factory New)",
+        "price": {
+          "min": 80.51,
+          "max": 140.02,
+          "mean": 103.05,
+          "median": 92.82,
+          "suggested": 95.67,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ FAMAS | Commemoration (Minimal Wear)",
+        "price": {
+          "min": 51.37,
+          "max": 88.09,
+          "mean": 72.5,
+          "median": 75.27,
+          "suggested": 59.9,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ FAMAS | Commemoration (Field-Tested)",
+        "price": {
+          "min": 41.3,
+          "max": 70.02,
+          "mean": 51.63,
+          "median": 49,
+          "suggested": 39.61,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ FAMAS | Commemoration (Well-Worn)",
+        "price": {
+          "min": 42.37,
+          "max": 48.3,
+          "mean": 44.39,
+          "median": 42.49,
+          "suggested": 46.71,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ FAMAS | Commemoration (Battle-Scarred)",
+        "price": {
+          "min": 41.96,
+          "max": 41.96,
+          "mean": 41.96,
+          "median": 41.96,
+          "suggested": 60.32,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir FAMAS | Commemoration (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir FAMAS | Commemoration (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir FAMAS | Commemoration (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir FAMAS | Commemoration (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir FAMAS | Commemoration (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:29.557Z"
+}

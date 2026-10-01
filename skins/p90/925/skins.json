@@ -1,0 +1,289 @@
+{
+  "id": "skin-d44eab1a62a7",
+  "name": "P90 | Desert DDPAT",
+  "paint_index": "925",
+  "weapon": {
+    "id": "weapon_p90",
+    "weapon_id": 19,
+    "name": "P90",
+    "slug": "p90"
+  },
+  "pattern": {
+    "id": "hy_ddpat_desert",
+    "name": "Desert DDPAT"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.\\n\\n<i>By the time you're close enough to notice the pixels it's already too late</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.56,
+      "max": 23.28,
+      "mean": 5.08,
+      "median": 3.21,
+      "suggested": 0.74,
+      "quantity": 125,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.33,
+      "max": 26.84,
+      "mean": 3.49,
+      "median": 1.21,
+      "suggested": 0.42,
+      "quantity": 46,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.19,
+      "max": 6.94,
+      "mean": 1.1,
+      "median": 0.91,
+      "suggested": 0.23,
+      "quantity": 58,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.42,
+      "max": 0.91,
+      "mean": 0.61,
+      "median": 0.56,
+      "suggested": 0.44,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.39,
+      "max": 1.44,
+      "mean": 0.63,
+      "median": 0.48,
+      "suggested": 0.45,
+      "quantity": 13,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P90 | Desert DDPAT (Factory New)",
+      "price": {
+        "min": 0.56,
+        "max": 23.28,
+        "mean": 5.08,
+        "median": 3.21,
+        "suggested": 0.74,
+        "quantity": 125,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P90 | Desert DDPAT (Minimal Wear)",
+      "price": {
+        "min": 0.33,
+        "max": 26.84,
+        "mean": 3.49,
+        "median": 1.21,
+        "suggested": 0.42,
+        "quantity": 46,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P90 | Desert DDPAT (Field-Tested)",
+      "price": {
+        "min": 0.19,
+        "max": 6.94,
+        "mean": 1.1,
+        "median": 0.91,
+        "suggested": 0.23,
+        "quantity": 58,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P90 | Desert DDPAT (Well-Worn)",
+      "price": {
+        "min": 0.42,
+        "max": 0.91,
+        "mean": 0.61,
+        "median": 0.56,
+        "suggested": 0.44,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P90 | Desert DDPAT (Battle-Scarred)",
+      "price": {
+        "min": 0.39,
+        "max": 1.44,
+        "mean": 0.63,
+        "median": 0.48,
+        "suggested": 0.45,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P90 | Desert DDPAT (Factory New)",
+        "price": {
+          "min": 0.56,
+          "max": 23.28,
+          "mean": 5.08,
+          "median": 3.21,
+          "suggested": 0.74,
+          "quantity": 125,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P90 | Desert DDPAT (Minimal Wear)",
+        "price": {
+          "min": 0.33,
+          "max": 26.84,
+          "mean": 3.49,
+          "median": 1.21,
+          "suggested": 0.42,
+          "quantity": 46,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P90 | Desert DDPAT (Field-Tested)",
+        "price": {
+          "min": 0.19,
+          "max": 6.94,
+          "mean": 1.1,
+          "median": 0.91,
+          "suggested": 0.23,
+          "quantity": 58,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P90 | Desert DDPAT (Well-Worn)",
+        "price": {
+          "min": 0.42,
+          "max": 0.91,
+          "mean": 0.61,
+          "median": 0.56,
+          "suggested": 0.44,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P90 | Desert DDPAT (Battle-Scarred)",
+        "price": {
+          "min": 0.39,
+          "max": 1.44,
+          "mean": 0.63,
+          "median": 0.48,
+          "suggested": 0.45,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P90 | Desert DDPAT (Factory New)",
+        "price": {
+          "min": 0.32,
+          "max": 71.01,
+          "mean": 2.07,
+          "median": 0.37,
+          "suggested": 0.37,
+          "quantity": 293,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P90 | Desert DDPAT (Minimal Wear)",
+        "price": {
+          "min": 0.14,
+          "max": 18.99,
+          "mean": 2.08,
+          "median": 0.39,
+          "suggested": 0.21,
+          "quantity": 401,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P90 | Desert DDPAT (Field-Tested)",
+        "price": {
+          "min": 0.07,
+          "max": 20.67,
+          "mean": 4.13,
+          "median": 1.17,
+          "suggested": 0.08,
+          "quantity": 705,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P90 | Desert DDPAT (Well-Worn)",
+        "price": {
+          "min": 0.08,
+          "max": 17.5,
+          "mean": 1.86,
+          "median": 1,
+          "suggested": 0.1,
+          "quantity": 72,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P90 | Desert DDPAT (Battle-Scarred)",
+        "price": {
+          "min": 0.08,
+          "max": 4.48,
+          "mean": 1.1,
+          "median": 1.45,
+          "suggested": 0.12,
+          "quantity": 91,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:46.178Z"
+}

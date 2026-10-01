@@ -1,0 +1,185 @@
+{
+  "id": "skin-fefcd20ccc3b",
+  "name": "Nova | Red Quartz",
+  "paint_index": "248",
+  "weapon": {
+    "id": "weapon_nova",
+    "weapon_id": 35,
+    "name": "Nova",
+    "slug": "nova"
+  },
+  "pattern": {
+    "id": "am_crystallized",
+    "name": "Red Quartz"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.4,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Nova's rock-bottom price tag makes it a great ambush weapon for a cash-strapped team. It has been painted with metallic paint and uses a crystallizing mask to create a pattern.\\n\\n<i>Everyone wants to make an impact</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 15.52,
+      "max": 484.28,
+      "mean": 57.1,
+      "median": 34.91,
+      "suggested": 20.29,
+      "quantity": 63,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 7.68,
+      "max": 19.84,
+      "mean": 12.24,
+      "median": 12.61,
+      "suggested": 10.54,
+      "quantity": 28,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 5.93,
+      "max": 58.35,
+      "mean": 13.82,
+      "median": 9.01,
+      "suggested": 8.22,
+      "quantity": 19,
+      "currency": "USD"
+    },
+    "ww": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Nova | Red Quartz (Factory New)",
+      "price": {
+        "min": 15.52,
+        "max": 484.28,
+        "mean": 57.1,
+        "median": 34.91,
+        "suggested": 20.29,
+        "quantity": 63,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Nova | Red Quartz (Minimal Wear)",
+      "price": {
+        "min": 7.68,
+        "max": 19.84,
+        "mean": 12.24,
+        "median": 12.61,
+        "suggested": 10.54,
+        "quantity": 28,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Nova | Red Quartz (Field-Tested)",
+      "price": {
+        "min": 5.93,
+        "max": 58.35,
+        "mean": 13.82,
+        "median": 9.01,
+        "suggested": 8.22,
+        "quantity": 19,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Nova | Red Quartz (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Nova | Red Quartz (Factory New)",
+        "price": {
+          "min": 15.52,
+          "max": 484.28,
+          "mean": 57.1,
+          "median": 34.91,
+          "suggested": 20.29,
+          "quantity": 63,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Nova | Red Quartz (Minimal Wear)",
+        "price": {
+          "min": 7.68,
+          "max": 19.84,
+          "mean": 12.24,
+          "median": 12.61,
+          "suggested": 10.54,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Nova | Red Quartz (Field-Tested)",
+        "price": {
+          "min": 5.93,
+          "max": 58.35,
+          "mean": 13.82,
+          "median": 9.01,
+          "suggested": 8.22,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Nova | Red Quartz (Well-Worn)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Nova | Red Quartz (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Nova | Red Quartz (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Nova | Red Quartz (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Nova | Red Quartz (Well-Worn)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.367Z"
+}

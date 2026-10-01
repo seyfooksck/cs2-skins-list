@@ -1,0 +1,289 @@
+{
+  "id": "skin-e86e226e8ee3",
+  "name": "XM1014 | Hieroglyph",
+  "paint_index": "1254",
+  "weapon": {
+    "id": "weapon_xm1014",
+    "weapon_id": 25,
+    "name": "XM1014",
+    "slug": "xm1014"
+  },
+  "pattern": {
+    "id": "cu_xm1014_pharaoh",
+    "name": "Hieroglyph"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The XM1014 is a powerful fully automatic shotgun that justifies its heftier price tag with the ability to paint a room with lead fast. It has been custom painted with Egyptian hieroglyphs and ornaments.\\n\\n<i>The moral of the story</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.7,
+      "max": 32.67,
+      "mean": 3.87,
+      "median": 2.65,
+      "suggested": 1.03,
+      "quantity": 112,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.14,
+      "max": 2.92,
+      "mean": 0.42,
+      "median": 0.28,
+      "suggested": 0.18,
+      "quantity": 149,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.06,
+      "max": 3.59,
+      "mean": 0.27,
+      "median": 0.11,
+      "suggested": 0.08,
+      "quantity": 341,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.02,
+      "max": 7.99,
+      "mean": 0.41,
+      "median": 0.16,
+      "suggested": 0.05,
+      "quantity": 291,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.04,
+      "max": 4.32,
+      "mean": 0.39,
+      "median": 0.07,
+      "suggested": 0.05,
+      "quantity": 114,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "XM1014 | Hieroglyph (Factory New)",
+      "price": {
+        "min": 0.7,
+        "max": 32.67,
+        "mean": 3.87,
+        "median": 2.65,
+        "suggested": 1.03,
+        "quantity": 112,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "XM1014 | Hieroglyph (Minimal Wear)",
+      "price": {
+        "min": 0.14,
+        "max": 2.92,
+        "mean": 0.42,
+        "median": 0.28,
+        "suggested": 0.18,
+        "quantity": 149,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "XM1014 | Hieroglyph (Field-Tested)",
+      "price": {
+        "min": 0.06,
+        "max": 3.59,
+        "mean": 0.27,
+        "median": 0.11,
+        "suggested": 0.08,
+        "quantity": 341,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "XM1014 | Hieroglyph (Well-Worn)",
+      "price": {
+        "min": 0.02,
+        "max": 7.99,
+        "mean": 0.41,
+        "median": 0.16,
+        "suggested": 0.05,
+        "quantity": 291,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "XM1014 | Hieroglyph (Battle-Scarred)",
+      "price": {
+        "min": 0.04,
+        "max": 4.32,
+        "mean": 0.39,
+        "median": 0.07,
+        "suggested": 0.05,
+        "quantity": 114,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "XM1014 | Hieroglyph (Factory New)",
+        "price": {
+          "min": 0.7,
+          "max": 32.67,
+          "mean": 3.87,
+          "median": 2.65,
+          "suggested": 1.03,
+          "quantity": 112,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "XM1014 | Hieroglyph (Minimal Wear)",
+        "price": {
+          "min": 0.14,
+          "max": 2.92,
+          "mean": 0.42,
+          "median": 0.28,
+          "suggested": 0.18,
+          "quantity": 149,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "XM1014 | Hieroglyph (Field-Tested)",
+        "price": {
+          "min": 0.06,
+          "max": 3.59,
+          "mean": 0.27,
+          "median": 0.11,
+          "suggested": 0.08,
+          "quantity": 341,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "XM1014 | Hieroglyph (Well-Worn)",
+        "price": {
+          "min": 0.02,
+          "max": 7.99,
+          "mean": 0.41,
+          "median": 0.16,
+          "suggested": 0.05,
+          "quantity": 291,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "XM1014 | Hieroglyph (Battle-Scarred)",
+        "price": {
+          "min": 0.04,
+          "max": 4.32,
+          "mean": 0.39,
+          "median": 0.07,
+          "suggested": 0.05,
+          "quantity": 114,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir XM1014 | Hieroglyph (Factory New)",
+        "price": {
+          "min": 0.9,
+          "max": 22.88,
+          "mean": 5.62,
+          "median": 4.9,
+          "suggested": 1.04,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir XM1014 | Hieroglyph (Minimal Wear)",
+        "price": {
+          "min": 0.32,
+          "max": 25.6,
+          "mean": 4.75,
+          "median": 3.61,
+          "suggested": 0.18,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir XM1014 | Hieroglyph (Field-Tested)",
+        "price": {
+          "min": 0.02,
+          "max": 18.99,
+          "mean": 2.32,
+          "median": 0.42,
+          "suggested": 0.06,
+          "quantity": 47,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir XM1014 | Hieroglyph (Well-Worn)",
+        "price": {
+          "min": 0.02,
+          "max": 18.99,
+          "mean": 1.79,
+          "median": 0.43,
+          "suggested": 0.06,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir XM1014 | Hieroglyph (Battle-Scarred)",
+        "price": {
+          "min": 0.06,
+          "max": 12.64,
+          "mean": 1.97,
+          "median": 0.82,
+          "suggested": 0.09,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:51.227Z"
+}

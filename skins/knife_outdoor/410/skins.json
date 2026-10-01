@@ -1,0 +1,249 @@
+{
+  "id": "skin-b7627ae71f87",
+  "name": "★ Nomad Knife | Damascus Steel",
+  "paint_index": "410",
+  "weapon": {
+    "id": "weapon_knife_outdoor",
+    "weapon_id": 521,
+    "name": "Nomad Knife",
+    "slug": "knife_outdoor"
+  },
+  "pattern": {
+    "id": "aq_damascus",
+    "name": "Damascus Steel"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This ergonomic tactical hunting lock-blade knife features composite handle inserts and a broad, sturdy blade, useful for cutting and prying apart material. It has some damascus steel parts.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 169.08,
+      "max": 171.57,
+      "mean": 170.52,
+      "median": 170.91,
+      "suggested": 208.42,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 136.29,
+      "max": 168.91,
+      "mean": 156.46,
+      "median": 156.45,
+      "suggested": 182.03,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 131.63,
+      "max": 178.25,
+      "mean": 146.89,
+      "median": 144.97,
+      "suggested": 167.08,
+      "quantity": 23,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 136.52,
+      "max": 136.52,
+      "mean": 136.52,
+      "median": 136.52,
+      "suggested": 170.13,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Nomad Knife | Damascus Steel (Factory New)",
+      "price": {
+        "min": 169.08,
+        "max": 171.57,
+        "mean": 170.52,
+        "median": 170.91,
+        "suggested": 208.42,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Nomad Knife | Damascus Steel (Minimal Wear)",
+      "price": {
+        "min": 136.29,
+        "max": 168.91,
+        "mean": 156.46,
+        "median": 156.45,
+        "suggested": 182.03,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Nomad Knife | Damascus Steel (Field-Tested)",
+      "price": {
+        "min": 131.63,
+        "max": 178.25,
+        "mean": 146.89,
+        "median": 144.97,
+        "suggested": 167.08,
+        "quantity": 23,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Nomad Knife | Damascus Steel (Well-Worn)",
+      "price": {
+        "min": 136.52,
+        "max": 136.52,
+        "mean": 136.52,
+        "median": 136.52,
+        "suggested": 170.13,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Nomad Knife | Damascus Steel (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Nomad Knife | Damascus Steel (Factory New)",
+        "price": {
+          "min": 169.08,
+          "max": 171.57,
+          "mean": 170.52,
+          "median": 170.91,
+          "suggested": 208.42,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Nomad Knife | Damascus Steel (Minimal Wear)",
+        "price": {
+          "min": 136.29,
+          "max": 168.91,
+          "mean": 156.46,
+          "median": 156.45,
+          "suggested": 182.03,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Nomad Knife | Damascus Steel (Field-Tested)",
+        "price": {
+          "min": 131.63,
+          "max": 178.25,
+          "mean": 146.89,
+          "median": 144.97,
+          "suggested": 167.08,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Nomad Knife | Damascus Steel (Well-Worn)",
+        "price": {
+          "min": 136.52,
+          "max": 136.52,
+          "mean": 136.52,
+          "median": 136.52,
+          "suggested": 170.13,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Nomad Knife | Damascus Steel (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Nomad Knife | Damascus Steel (Factory New)",
+        "price": {
+          "min": 224.6,
+          "max": 224.6,
+          "mean": 224.6,
+          "median": 224.6,
+          "suggested": 223.45,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Nomad Knife | Damascus Steel (Minimal Wear)",
+        "price": {
+          "min": 163.36,
+          "max": 163.7,
+          "mean": 163.53,
+          "median": 163.53,
+          "suggested": 204.84,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Nomad Knife | Damascus Steel (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Nomad Knife | Damascus Steel (Well-Worn)",
+        "price": {
+          "min": 165.17,
+          "max": 165.17,
+          "mean": 165.17,
+          "median": 165.17,
+          "suggested": 205.02,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Nomad Knife | Damascus Steel (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:36.984Z"
+}

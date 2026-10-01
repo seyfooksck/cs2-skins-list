@@ -1,0 +1,310 @@
+{
+  "id": "skin-a79b5b4ad623",
+  "name": "Desert Eagle | Mecha Industries",
+  "paint_index": "805",
+  "weapon": {
+    "id": "weapon_deagle",
+    "weapon_id": 1,
+    "name": "Desert Eagle",
+    "slug": "deagle"
+  },
+  "pattern": {
+    "id": "gs_deagle_mecha",
+    "name": "Mecha Industries"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. Its white and black design feels both sterile and futuristic.\\n\\n<i>Same technology, now available in a smaller form factor</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 26.26,
+      "max": 88.16,
+      "mean": 39,
+      "median": 29.17,
+      "suggested": 29.84,
+      "quantity": 53,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 7.99,
+      "max": 6016.74,
+      "mean": 80.41,
+      "median": 9.37,
+      "suggested": 10.57,
+      "quantity": 170,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 5.6,
+      "max": 128.35,
+      "mean": 8.85,
+      "median": 6.91,
+      "suggested": 7.25,
+      "quantity": 259,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 6.11,
+      "max": 116.69,
+      "mean": 10.97,
+      "median": 6.95,
+      "suggested": 7.05,
+      "quantity": 30,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 5.53,
+      "max": 18.3,
+      "mean": 6.73,
+      "median": 6.15,
+      "suggested": 6.57,
+      "quantity": 37,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Desert Eagle | Mecha Industries (Factory New)",
+      "price": {
+        "min": 26.26,
+        "max": 88.16,
+        "mean": 39,
+        "median": 29.17,
+        "suggested": 29.84,
+        "quantity": 53,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Desert Eagle | Mecha Industries (Minimal Wear)",
+      "price": {
+        "min": 7.99,
+        "max": 6016.74,
+        "mean": 80.41,
+        "median": 9.37,
+        "suggested": 10.57,
+        "quantity": 170,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Desert Eagle | Mecha Industries (Field-Tested)",
+      "price": {
+        "min": 5.6,
+        "max": 128.35,
+        "mean": 8.85,
+        "median": 6.91,
+        "suggested": 7.25,
+        "quantity": 259,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Desert Eagle | Mecha Industries (Well-Worn)",
+      "price": {
+        "min": 6.11,
+        "max": 116.69,
+        "mean": 10.97,
+        "median": 6.95,
+        "suggested": 7.05,
+        "quantity": 30,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Desert Eagle | Mecha Industries (Battle-Scarred)",
+      "price": {
+        "min": 5.53,
+        "max": 18.3,
+        "mean": 6.73,
+        "median": 6.15,
+        "suggested": 6.57,
+        "quantity": 37,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Desert Eagle | Mecha Industries (Factory New)",
+        "price": {
+          "min": 26.26,
+          "max": 88.16,
+          "mean": 39,
+          "median": 29.17,
+          "suggested": 29.84,
+          "quantity": 53,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Desert Eagle | Mecha Industries (Minimal Wear)",
+        "price": {
+          "min": 7.99,
+          "max": 6016.74,
+          "mean": 80.41,
+          "median": 9.37,
+          "suggested": 10.57,
+          "quantity": 170,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Desert Eagle | Mecha Industries (Field-Tested)",
+        "price": {
+          "min": 5.6,
+          "max": 128.35,
+          "mean": 8.85,
+          "median": 6.91,
+          "suggested": 7.25,
+          "quantity": 259,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Desert Eagle | Mecha Industries (Well-Worn)",
+        "price": {
+          "min": 6.11,
+          "max": 116.69,
+          "mean": 10.97,
+          "median": 6.95,
+          "suggested": 7.05,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Desert Eagle | Mecha Industries (Battle-Scarred)",
+        "price": {
+          "min": 5.53,
+          "max": 18.3,
+          "mean": 6.73,
+          "median": 6.15,
+          "suggested": 6.57,
+          "quantity": 37,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Mecha Industries (Factory New)",
+        "price": {
+          "min": 29.16,
+          "max": 174.92,
+          "mean": 40.46,
+          "median": 34.26,
+          "suggested": 36.95,
+          "quantity": 58,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Mecha Industries (Minimal Wear)",
+        "price": {
+          "min": 17.99,
+          "max": 121.5,
+          "mean": 26.87,
+          "median": 21.52,
+          "suggested": 23.82,
+          "quantity": 55,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Mecha Industries (Field-Tested)",
+        "price": {
+          "min": 13.5,
+          "max": 35,
+          "mean": 18.43,
+          "median": 15.92,
+          "suggested": 17.12,
+          "quantity": 64,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Mecha Industries (Well-Worn)",
+        "price": {
+          "min": 15.26,
+          "max": 21,
+          "mean": 17.6,
+          "median": 17.47,
+          "suggested": 18.4,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Mecha Industries (Battle-Scarred)",
+        "price": {
+          "min": 15.01,
+          "max": 19.38,
+          "mean": 16.82,
+          "median": 16.44,
+          "suggested": 17.11,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Desert Eagle | Mecha Industries (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Desert Eagle | Mecha Industries (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Desert Eagle | Mecha Industries (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Desert Eagle | Mecha Industries (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Desert Eagle | Mecha Industries (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:28.421Z"
+}

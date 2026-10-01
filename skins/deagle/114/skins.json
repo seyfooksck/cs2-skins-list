@@ -1,0 +1,310 @@
+{
+  "id": "skin-48039a85c871",
+  "name": "Desert Eagle | Calligraffiti",
+  "paint_index": "114",
+  "weapon": {
+    "id": "weapon_deagle",
+    "weapon_id": 1,
+    "name": "Desert Eagle",
+    "slug": "deagle"
+  },
+  "pattern": {
+    "id": "deagle_calligraff",
+    "name": "Calligraffiti"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. The slide of this Desert Eagle has been decorated with silver paint pen calligraphy.\\n\\n<i>These things take time</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 11.72,
+      "max": 634.23,
+      "mean": 40.85,
+      "median": 20.77,
+      "suggested": 15.14,
+      "quantity": 47,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.48,
+      "max": 10.01,
+      "mean": 0.64,
+      "median": 0.48,
+      "suggested": 0.73,
+      "quantity": 656,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.22,
+      "max": 11.66,
+      "mean": 0.54,
+      "median": 0.34,
+      "suggested": 0.33,
+      "quantity": 265,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.18,
+      "max": 12.25,
+      "mean": 0.43,
+      "median": 0.26,
+      "suggested": 0.25,
+      "quantity": 197,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.19,
+      "max": 13.48,
+      "mean": 0.88,
+      "median": 0.27,
+      "suggested": 0.22,
+      "quantity": 164,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Desert Eagle | Calligraffiti (Factory New)",
+      "price": {
+        "min": 11.72,
+        "max": 634.23,
+        "mean": 40.85,
+        "median": 20.77,
+        "suggested": 15.14,
+        "quantity": 47,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Desert Eagle | Calligraffiti (Minimal Wear)",
+      "price": {
+        "min": 0.48,
+        "max": 10.01,
+        "mean": 0.64,
+        "median": 0.48,
+        "suggested": 0.73,
+        "quantity": 656,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Desert Eagle | Calligraffiti (Field-Tested)",
+      "price": {
+        "min": 0.22,
+        "max": 11.66,
+        "mean": 0.54,
+        "median": 0.34,
+        "suggested": 0.33,
+        "quantity": 265,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Desert Eagle | Calligraffiti (Well-Worn)",
+      "price": {
+        "min": 0.18,
+        "max": 12.25,
+        "mean": 0.43,
+        "median": 0.26,
+        "suggested": 0.25,
+        "quantity": 197,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Desert Eagle | Calligraffiti (Battle-Scarred)",
+      "price": {
+        "min": 0.19,
+        "max": 13.48,
+        "mean": 0.88,
+        "median": 0.27,
+        "suggested": 0.22,
+        "quantity": 164,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Desert Eagle | Calligraffiti (Factory New)",
+        "price": {
+          "min": 11.72,
+          "max": 634.23,
+          "mean": 40.85,
+          "median": 20.77,
+          "suggested": 15.14,
+          "quantity": 47,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Desert Eagle | Calligraffiti (Minimal Wear)",
+        "price": {
+          "min": 0.48,
+          "max": 10.01,
+          "mean": 0.64,
+          "median": 0.48,
+          "suggested": 0.73,
+          "quantity": 656,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Desert Eagle | Calligraffiti (Field-Tested)",
+        "price": {
+          "min": 0.22,
+          "max": 11.66,
+          "mean": 0.54,
+          "median": 0.34,
+          "suggested": 0.33,
+          "quantity": 265,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Desert Eagle | Calligraffiti (Well-Worn)",
+        "price": {
+          "min": 0.18,
+          "max": 12.25,
+          "mean": 0.43,
+          "median": 0.26,
+          "suggested": 0.25,
+          "quantity": 197,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Desert Eagle | Calligraffiti (Battle-Scarred)",
+        "price": {
+          "min": 0.19,
+          "max": 13.48,
+          "mean": 0.88,
+          "median": 0.27,
+          "suggested": 0.22,
+          "quantity": 164,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Calligraffiti (Factory New)",
+        "price": {
+          "min": 7.04,
+          "max": 69.2,
+          "mean": 23.39,
+          "median": 12.6,
+          "suggested": 8,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Calligraffiti (Minimal Wear)",
+        "price": {
+          "min": 1.35,
+          "max": 128.35,
+          "mean": 5.5,
+          "median": 2.04,
+          "suggested": 1.74,
+          "quantity": 45,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Calligraffiti (Field-Tested)",
+        "price": {
+          "min": 0.63,
+          "max": 4.8,
+          "mean": 1.19,
+          "median": 0.83,
+          "suggested": 0.76,
+          "quantity": 67,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Calligraffiti (Well-Worn)",
+        "price": {
+          "min": 0.54,
+          "max": 2.53,
+          "mean": 0.83,
+          "median": 0.72,
+          "suggested": 0.65,
+          "quantity": 49,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Calligraffiti (Battle-Scarred)",
+        "price": {
+          "min": 0.51,
+          "max": 41.37,
+          "mean": 2.26,
+          "median": 0.88,
+          "suggested": 0.6,
+          "quantity": 38,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Desert Eagle | Calligraffiti (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Desert Eagle | Calligraffiti (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Desert Eagle | Calligraffiti (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Desert Eagle | Calligraffiti (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Desert Eagle | Calligraffiti (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:28.318Z"
+}

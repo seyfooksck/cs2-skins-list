@@ -1,0 +1,201 @@
+{
+  "id": "skin-bbc154da8876",
+  "name": "Five-SeveN | Neon Kimono",
+  "paint_index": "464",
+  "weapon": {
+    "id": "weapon_fiveseven",
+    "weapon_id": 3,
+    "name": "Five-SeveN",
+    "slug": "fiveseven"
+  },
+  "pattern": {
+    "id": "hy_kimono_diamonds",
+    "name": "Neon Kimono"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.8,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. It has been painted with a hydrographic in a geometric motif.\\n\\n<i>I know I'm asking a lot of you... Turner was like your son - The Paladin and The Teacher Part 1</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 647.65,
+      "max": 1264.82,
+      "mean": 876.45,
+      "median": 716.9,
+      "suggested": 609.53,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 580.95,
+      "max": 904.75,
+      "mean": 742.85,
+      "median": 742.85,
+      "suggested": 610.81,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 595.67,
+      "max": 758.33,
+      "mean": 677.01,
+      "median": 677.01,
+      "suggested": 564.3,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Five-SeveN | Neon Kimono (Factory New)",
+      "price": {
+        "min": 647.65,
+        "max": 1264.82,
+        "mean": 876.45,
+        "median": 716.9,
+        "suggested": 609.53,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Five-SeveN | Neon Kimono (Minimal Wear)",
+      "price": {
+        "min": 580.95,
+        "max": 904.75,
+        "mean": 742.85,
+        "median": 742.85,
+        "suggested": 610.81,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Five-SeveN | Neon Kimono (Field-Tested)",
+      "price": {
+        "min": 595.67,
+        "max": 758.33,
+        "mean": 677.01,
+        "median": 677.01,
+        "suggested": 564.3,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Five-SeveN | Neon Kimono (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Five-SeveN | Neon Kimono (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Five-SeveN | Neon Kimono (Factory New)",
+        "price": {
+          "min": 647.65,
+          "max": 1264.82,
+          "mean": 876.45,
+          "median": 716.9,
+          "suggested": 609.53,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Five-SeveN | Neon Kimono (Minimal Wear)",
+        "price": {
+          "min": 580.95,
+          "max": 904.75,
+          "mean": 742.85,
+          "median": 742.85,
+          "suggested": 610.81,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Five-SeveN | Neon Kimono (Field-Tested)",
+        "price": {
+          "min": 595.67,
+          "max": 758.33,
+          "mean": 677.01,
+          "median": 677.01,
+          "suggested": 564.3,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Five-SeveN | Neon Kimono (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Five-SeveN | Neon Kimono (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Five-SeveN | Neon Kimono (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Five-SeveN | Neon Kimono (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Five-SeveN | Neon Kimono (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Five-SeveN | Neon Kimono (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Five-SeveN | Neon Kimono (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:30.281Z"
+}

@@ -1,0 +1,204 @@
+{
+  "id": "skin-7b77498783da",
+  "name": "★ Specialist Gloves | Lime Polycam",
+  "paint_index": "1413",
+  "weapon": {
+    "id": "specialist_gloves",
+    "weapon_id": 5034,
+    "name": "Specialist Gloves",
+    "slug": "specialist_gloves"
+  },
+  "pattern": {
+    "id": "glove_specialist_abstract_green",
+    "name": "Lime Polycam"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_gloves",
+    "name": "Gloves"
+  },
+  "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Durable, breathable, and stylish; these gloves are designed to take (and give) a beating.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 674.22,
+      "max": 770.18,
+      "mean": 715.24,
+      "median": 710.65,
+      "suggested": 713.18,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 315.07,
+      "max": 578.56,
+      "mean": 390.34,
+      "median": 371.47,
+      "suggested": 450.16,
+      "quantity": 47,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 268.34,
+      "max": 445.77,
+      "mean": 311.58,
+      "median": 298.62,
+      "suggested": 367.59,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 230.05,
+      "max": 291.73,
+      "mean": 246.31,
+      "median": 231.72,
+      "suggested": 269.05,
+      "quantity": 4,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Specialist Gloves | Lime Polycam (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Specialist Gloves | Lime Polycam (Minimal Wear)",
+      "price": {
+        "min": 674.22,
+        "max": 770.18,
+        "mean": 715.24,
+        "median": 710.65,
+        "suggested": 713.18,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Specialist Gloves | Lime Polycam (Field-Tested)",
+      "price": {
+        "min": 315.07,
+        "max": 578.56,
+        "mean": 390.34,
+        "median": 371.47,
+        "suggested": 450.16,
+        "quantity": 47,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Specialist Gloves | Lime Polycam (Well-Worn)",
+      "price": {
+        "min": 268.34,
+        "max": 445.77,
+        "mean": 311.58,
+        "median": 298.62,
+        "suggested": 367.59,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Specialist Gloves | Lime Polycam (Battle-Scarred)",
+      "price": {
+        "min": 230.05,
+        "max": 291.73,
+        "mean": 246.31,
+        "median": 231.72,
+        "suggested": 269.05,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Specialist Gloves | Lime Polycam (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Specialist Gloves | Lime Polycam (Minimal Wear)",
+        "price": {
+          "min": 674.22,
+          "max": 770.18,
+          "mean": 715.24,
+          "median": 710.65,
+          "suggested": 713.18,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Specialist Gloves | Lime Polycam (Field-Tested)",
+        "price": {
+          "min": 315.07,
+          "max": 578.56,
+          "mean": 390.34,
+          "median": 371.47,
+          "suggested": 450.16,
+          "quantity": 47,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Specialist Gloves | Lime Polycam (Well-Worn)",
+        "price": {
+          "min": 268.34,
+          "max": 445.77,
+          "mean": 311.58,
+          "median": 298.62,
+          "suggested": 367.59,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Specialist Gloves | Lime Polycam (Battle-Scarred)",
+        "price": {
+          "min": 230.05,
+          "max": 291.73,
+          "mean": 246.31,
+          "median": 231.72,
+          "suggested": 269.05,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:23.591Z"
+}

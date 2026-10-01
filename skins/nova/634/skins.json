@@ -1,0 +1,206 @@
+{
+  "id": "skin-b935cdf1da4b",
+  "name": "Nova | Gila",
+  "paint_index": "634",
+  "weapon": {
+    "id": "weapon_nova",
+    "weapon_id": 35,
+    "name": "Nova",
+    "slug": "nova"
+  },
+  "pattern": {
+    "id": "am_nova_sand",
+    "name": "Gila"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.3,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Nova's rock-bottom price tag makes it a great ambush weapon for a cash-strapped team. It has been covered in a lizard skin decal.\\n\\n<i>You're acting like you've never been held captive by mercenaries before – The Oni and The Valkyrie Part 1</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 9.51,
+      "max": 52.43,
+      "mean": 17.25,
+      "median": 11.77,
+      "suggested": 12.86,
+      "quantity": 25,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 4.04,
+      "max": 44.24,
+      "mean": 7.27,
+      "median": 4.62,
+      "suggested": 5.1,
+      "quantity": 43,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 3.87,
+      "max": 5.99,
+      "mean": 4.82,
+      "median": 4.7,
+      "suggested": 4.53,
+      "quantity": 24,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Nova | Gila (Factory New)",
+      "price": {
+        "min": 9.51,
+        "max": 52.43,
+        "mean": 17.25,
+        "median": 11.77,
+        "suggested": 12.86,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Nova | Gila (Minimal Wear)",
+      "price": {
+        "min": 4.04,
+        "max": 44.24,
+        "mean": 7.27,
+        "median": 4.62,
+        "suggested": 5.1,
+        "quantity": 43,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Nova | Gila (Field-Tested)",
+      "price": {
+        "min": 3.87,
+        "max": 5.99,
+        "mean": 4.82,
+        "median": 4.7,
+        "suggested": 4.53,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Nova | Gila (Factory New)",
+        "price": {
+          "min": 9.51,
+          "max": 52.43,
+          "mean": 17.25,
+          "median": 11.77,
+          "suggested": 12.86,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Nova | Gila (Minimal Wear)",
+        "price": {
+          "min": 4.04,
+          "max": 44.24,
+          "mean": 7.27,
+          "median": 4.62,
+          "suggested": 5.1,
+          "quantity": 43,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Nova | Gila (Field-Tested)",
+        "price": {
+          "min": 3.87,
+          "max": 5.99,
+          "mean": 4.82,
+          "median": 4.7,
+          "suggested": 4.53,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Nova | Gila (Factory New)",
+        "price": {
+          "min": 3.99,
+          "max": 15.44,
+          "mean": 6.8,
+          "median": 6.31,
+          "suggested": 5.06,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Nova | Gila (Minimal Wear)",
+        "price": {
+          "min": 1.53,
+          "max": 4.07,
+          "mean": 2.31,
+          "median": 2.05,
+          "suggested": 2.05,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Nova | Gila (Field-Tested)",
+        "price": {
+          "min": 1.75,
+          "max": 2.21,
+          "mean": 1.93,
+          "median": 1.87,
+          "suggested": 1.87,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Nova | Gila (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Nova | Gila (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Nova | Gila (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.380Z"
+}

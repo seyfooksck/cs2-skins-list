@@ -1,0 +1,137 @@
+{
+  "id": "skin-fd0df2c42b00",
+  "name": "★ Talon Knife | Doppler",
+  "paint_index": "854",
+  "weapon": {
+    "id": "weapon_knife_widowmaker",
+    "weapon_id": 523,
+    "name": "Talon Knife",
+    "slug": "knife_widowmaker"
+  },
+  "pattern": {
+    "id": "am_doppler_phase3_widow",
+    "name": "Doppler"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This ivory-handled karambit features brass rivets and saw-tooth ridges, so it cuts on the way in, and tears on the way out. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2882.94,
+      "max": 2948.99,
+      "mean": 2915.97,
+      "median": 2915.97,
+      "suggested": 2967.72,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2567.26,
+      "max": 2567.26,
+      "mean": 2567.26,
+      "median": 2567.26,
+      "suggested": 2548.96,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Talon Knife | Doppler (Factory New)",
+      "price": {
+        "min": 2882.94,
+        "max": 2948.99,
+        "mean": 2915.97,
+        "median": 2915.97,
+        "suggested": 2967.72,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Talon Knife | Doppler (Minimal Wear)",
+      "price": {
+        "min": 2567.26,
+        "max": 2567.26,
+        "mean": 2567.26,
+        "median": 2567.26,
+        "suggested": 2548.96,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Talon Knife | Doppler (Factory New)",
+        "price": {
+          "min": 2882.94,
+          "max": 2948.99,
+          "mean": 2915.97,
+          "median": 2915.97,
+          "suggested": 2967.72,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Talon Knife | Doppler (Minimal Wear)",
+        "price": {
+          "min": 2567.26,
+          "max": 2567.26,
+          "mean": 2567.26,
+          "median": 2567.26,
+          "suggested": 2548.96,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Talon Knife | Doppler (Factory New)",
+        "price": {
+          "min": 3227.06,
+          "max": 3227.06,
+          "mean": 3227.06,
+          "median": 3227.06,
+          "suggested": 2609.65,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Talon Knife | Doppler (Minimal Wear)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:39.411Z"
+}

@@ -1,0 +1,258 @@
+{
+  "id": "skin-b10fdec34656",
+  "name": "P250 | Asiimov",
+  "paint_index": "551",
+  "weapon": {
+    "id": "weapon_p250",
+    "weapon_id": 36,
+    "name": "P250",
+    "slug": "p250"
+  },
+  "pattern": {
+    "id": "cu_p250_asiimov",
+    "name": "Asiimov"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0.1,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A low-recoil firearm with a high rate of fire, the P250 is a relatively inexpensive choice against armored opponents. It has been custom painted with a sci-fi design.\\n\\n<i>If you think I need a rifle to kill a man, you have no idea who you're talking to... - Mikha Biton, Phoenix Sniper</i>",
+  "images": {
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "mw": {
+      "min": 44.51,
+      "max": 180.34,
+      "mean": 70.65,
+      "median": 59.71,
+      "suggested": 54.63,
+      "quantity": 46,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 11.54,
+      "max": 128.36,
+      "mean": 17.42,
+      "median": 13.48,
+      "suggested": 14.99,
+      "quantity": 325,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 11.55,
+      "max": 19.84,
+      "mean": 13.01,
+      "median": 12.53,
+      "suggested": 13.93,
+      "quantity": 40,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 11.21,
+      "max": 118.22,
+      "mean": 14.24,
+      "median": 11.79,
+      "suggested": 13.34,
+      "quantity": 66,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P250 | Asiimov (Minimal Wear)",
+      "price": {
+        "min": 44.51,
+        "max": 180.34,
+        "mean": 70.65,
+        "median": 59.71,
+        "suggested": 54.63,
+        "quantity": 46,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P250 | Asiimov (Field-Tested)",
+      "price": {
+        "min": 11.54,
+        "max": 128.36,
+        "mean": 17.42,
+        "median": 13.48,
+        "suggested": 14.99,
+        "quantity": 325,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P250 | Asiimov (Well-Worn)",
+      "price": {
+        "min": 11.55,
+        "max": 19.84,
+        "mean": 13.01,
+        "median": 12.53,
+        "suggested": 13.93,
+        "quantity": 40,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P250 | Asiimov (Battle-Scarred)",
+      "price": {
+        "min": 11.21,
+        "max": 118.22,
+        "mean": 14.24,
+        "median": 11.79,
+        "suggested": 13.34,
+        "quantity": 66,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "mw": {
+        "market_hash_name": "P250 | Asiimov (Minimal Wear)",
+        "price": {
+          "min": 44.51,
+          "max": 180.34,
+          "mean": 70.65,
+          "median": 59.71,
+          "suggested": 54.63,
+          "quantity": 46,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P250 | Asiimov (Field-Tested)",
+        "price": {
+          "min": 11.54,
+          "max": 128.36,
+          "mean": 17.42,
+          "median": 13.48,
+          "suggested": 14.99,
+          "quantity": 325,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P250 | Asiimov (Well-Worn)",
+        "price": {
+          "min": 11.55,
+          "max": 19.84,
+          "mean": 13.01,
+          "median": 12.53,
+          "suggested": 13.93,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P250 | Asiimov (Battle-Scarred)",
+        "price": {
+          "min": 11.21,
+          "max": 118.22,
+          "mean": 14.24,
+          "median": 11.79,
+          "suggested": 13.34,
+          "quantity": 66,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "mw": {
+        "market_hash_name": "StatTrak™ P250 | Asiimov (Minimal Wear)",
+        "price": {
+          "min": 67.3,
+          "max": 80.52,
+          "mean": 76.66,
+          "median": 78.02,
+          "suggested": 90.96,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P250 | Asiimov (Field-Tested)",
+        "price": {
+          "min": 15.78,
+          "max": 80.52,
+          "mean": 26.02,
+          "median": 23.33,
+          "suggested": 18.08,
+          "quantity": 56,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ P250 | Asiimov (Well-Worn)",
+        "price": {
+          "min": 12.42,
+          "max": 23.33,
+          "mean": 15.77,
+          "median": 14.4,
+          "suggested": 14.45,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ P250 | Asiimov (Battle-Scarred)",
+        "price": {
+          "min": 10.26,
+          "max": 24.25,
+          "mean": 12.66,
+          "median": 11.28,
+          "suggested": 12.58,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "mw": {
+        "market_hash_name": "Souvenir P250 | Asiimov (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P250 | Asiimov (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P250 | Asiimov (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P250 | Asiimov (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:45.093Z"
+}

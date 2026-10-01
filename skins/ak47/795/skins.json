@@ -1,0 +1,281 @@
+{
+  "id": "skin-d721d2a6a01c",
+  "name": "AK-47 | Safety Net",
+  "paint_index": "795",
+  "weapon": {
+    "id": "weapon_ak47",
+    "weapon_id": 7,
+    "name": "AK-47",
+    "slug": "ak47"
+  },
+  "pattern": {
+    "id": "hy_mesh_safetyorange",
+    "name": "Safety Net"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. An orange mesh pattern has been applied over a white base.\\n\\n<i>Your loadout; now with high visibility</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 20.81,
+      "max": 1684.47,
+      "mean": 93.82,
+      "median": 42.25,
+      "suggested": 32.63,
+      "quantity": 71,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 4.75,
+      "max": 27.49,
+      "mean": 10.05,
+      "median": 10,
+      "suggested": 5.53,
+      "quantity": 20,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 3.02,
+      "max": 54.78,
+      "mean": 6.14,
+      "median": 4.4,
+      "suggested": 3.66,
+      "quantity": 67,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 3.27,
+      "max": 11.67,
+      "mean": 4.91,
+      "median": 4.13,
+      "suggested": 3.78,
+      "quantity": 19,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 2.68,
+      "max": 101.57,
+      "mean": 9.08,
+      "median": 4.5,
+      "suggested": 3.52,
+      "quantity": 29,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AK-47 | Safety Net (Factory New)",
+      "price": {
+        "min": 20.81,
+        "max": 1684.47,
+        "mean": 93.82,
+        "median": 42.25,
+        "suggested": 32.63,
+        "quantity": 71,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AK-47 | Safety Net (Minimal Wear)",
+      "price": {
+        "min": 4.75,
+        "max": 27.49,
+        "mean": 10.05,
+        "median": 10,
+        "suggested": 5.53,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AK-47 | Safety Net (Field-Tested)",
+      "price": {
+        "min": 3.02,
+        "max": 54.78,
+        "mean": 6.14,
+        "median": 4.4,
+        "suggested": 3.66,
+        "quantity": 67,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AK-47 | Safety Net (Well-Worn)",
+      "price": {
+        "min": 3.27,
+        "max": 11.67,
+        "mean": 4.91,
+        "median": 4.13,
+        "suggested": 3.78,
+        "quantity": 19,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AK-47 | Safety Net (Battle-Scarred)",
+      "price": {
+        "min": 2.68,
+        "max": 101.57,
+        "mean": 9.08,
+        "median": 4.5,
+        "suggested": 3.52,
+        "quantity": 29,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AK-47 | Safety Net (Factory New)",
+        "price": {
+          "min": 20.81,
+          "max": 1684.47,
+          "mean": 93.82,
+          "median": 42.25,
+          "suggested": 32.63,
+          "quantity": 71,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AK-47 | Safety Net (Minimal Wear)",
+        "price": {
+          "min": 4.75,
+          "max": 27.49,
+          "mean": 10.05,
+          "median": 10,
+          "suggested": 5.53,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AK-47 | Safety Net (Field-Tested)",
+        "price": {
+          "min": 3.02,
+          "max": 54.78,
+          "mean": 6.14,
+          "median": 4.4,
+          "suggested": 3.66,
+          "quantity": 67,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AK-47 | Safety Net (Well-Worn)",
+        "price": {
+          "min": 3.27,
+          "max": 11.67,
+          "mean": 4.91,
+          "median": 4.13,
+          "suggested": 3.78,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AK-47 | Safety Net (Battle-Scarred)",
+        "price": {
+          "min": 2.68,
+          "max": 101.57,
+          "mean": 9.08,
+          "median": 4.5,
+          "suggested": 3.52,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AK-47 | Safety Net (Factory New)",
+        "price": {
+          "min": 63,
+          "max": 116.68,
+          "mean": 82.15,
+          "median": 66.76,
+          "suggested": 50.41,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AK-47 | Safety Net (Minimal Wear)",
+        "price": {
+          "min": 22.63,
+          "max": 38.51,
+          "mean": 30.64,
+          "median": 29.69,
+          "suggested": 26.94,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AK-47 | Safety Net (Field-Tested)",
+        "price": {
+          "min": 16.86,
+          "max": 38.51,
+          "mean": 23.39,
+          "median": 21.3,
+          "suggested": 19.72,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AK-47 | Safety Net (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AK-47 | Safety Net (Battle-Scarred)",
+        "price": {
+          "min": 16.48,
+          "max": 31.5,
+          "mean": 23.99,
+          "median": 23.99,
+          "suggested": 18.65,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:20:21.010Z"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "skin-70f8ab3bec6b",
+  "name": "P2000 | Ivory",
+  "paint_index": "357",
+  "weapon": {
+    "id": "weapon_hkp2000",
+    "weapon_id": 32,
+    "name": "P2000",
+    "slug": "hkp2000"
+  },
+  "pattern": {
+    "id": "cu_p2000_ivory",
+    "name": "Ivory"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Accurate and controllable, the German-made P2000 is a serviceable first-round pistol that works best against unarmored opponents. It has faux ivory parts.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 13.9,
+      "max": 348.91,
+      "mean": 37.37,
+      "median": 18.89,
+      "suggested": 16.66,
+      "quantity": 23,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.54,
+      "max": 3.5,
+      "mean": 0.99,
+      "median": 0.74,
+      "suggested": 0.82,
+      "quantity": 42,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.62,
+      "max": 9.34,
+      "mean": 0.98,
+      "median": 0.81,
+      "suggested": 0.93,
+      "quantity": 85,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.35,
+      "max": 4.61,
+      "mean": 0.68,
+      "median": 0.46,
+      "suggested": 0.5,
+      "quantity": 82,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.29,
+      "max": 6.34,
+      "mean": 0.95,
+      "median": 0.43,
+      "suggested": 0.43,
+      "quantity": 36,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P2000 | Ivory (Factory New)",
+      "price": {
+        "min": 13.9,
+        "max": 348.91,
+        "mean": 37.37,
+        "median": 18.89,
+        "suggested": 16.66,
+        "quantity": 23,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P2000 | Ivory (Minimal Wear)",
+      "price": {
+        "min": 0.54,
+        "max": 3.5,
+        "mean": 0.99,
+        "median": 0.74,
+        "suggested": 0.82,
+        "quantity": 42,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P2000 | Ivory (Field-Tested)",
+      "price": {
+        "min": 0.62,
+        "max": 9.34,
+        "mean": 0.98,
+        "median": 0.81,
+        "suggested": 0.93,
+        "quantity": 85,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P2000 | Ivory (Well-Worn)",
+      "price": {
+        "min": 0.35,
+        "max": 4.61,
+        "mean": 0.68,
+        "median": 0.46,
+        "suggested": 0.5,
+        "quantity": 82,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P2000 | Ivory (Battle-Scarred)",
+      "price": {
+        "min": 0.29,
+        "max": 6.34,
+        "mean": 0.95,
+        "median": 0.43,
+        "suggested": 0.43,
+        "quantity": 36,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P2000 | Ivory (Factory New)",
+        "price": {
+          "min": 13.9,
+          "max": 348.91,
+          "mean": 37.37,
+          "median": 18.89,
+          "suggested": 16.66,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P2000 | Ivory (Minimal Wear)",
+        "price": {
+          "min": 0.54,
+          "max": 3.5,
+          "mean": 0.99,
+          "median": 0.74,
+          "suggested": 0.82,
+          "quantity": 42,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P2000 | Ivory (Field-Tested)",
+        "price": {
+          "min": 0.62,
+          "max": 9.34,
+          "mean": 0.98,
+          "median": 0.81,
+          "suggested": 0.93,
+          "quantity": 85,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P2000 | Ivory (Well-Worn)",
+        "price": {
+          "min": 0.35,
+          "max": 4.61,
+          "mean": 0.68,
+          "median": 0.46,
+          "suggested": 0.5,
+          "quantity": 82,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P2000 | Ivory (Battle-Scarred)",
+        "price": {
+          "min": 0.29,
+          "max": 6.34,
+          "mean": 0.95,
+          "median": 0.43,
+          "suggested": 0.43,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P2000 | Ivory (Factory New)",
+        "price": {
+          "min": 4,
+          "max": 28.86,
+          "mean": 9.79,
+          "median": 7.71,
+          "suggested": 5.41,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P2000 | Ivory (Minimal Wear)",
+        "price": {
+          "min": 0.69,
+          "max": 124.86,
+          "mean": 9.73,
+          "median": 2.53,
+          "suggested": 0.88,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P2000 | Ivory (Field-Tested)",
+        "price": {
+          "min": 0.37,
+          "max": 19.72,
+          "mean": 2.32,
+          "median": 1.84,
+          "suggested": 0.51,
+          "quantity": 90,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ P2000 | Ivory (Well-Worn)",
+        "price": {
+          "min": 0.33,
+          "max": 6.87,
+          "mean": 0.71,
+          "median": 0.4,
+          "suggested": 0.47,
+          "quantity": 46,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ P2000 | Ivory (Battle-Scarred)",
+        "price": {
+          "min": 0.3,
+          "max": 19.22,
+          "mean": 1.69,
+          "median": 0.4,
+          "suggested": 0.43,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P2000 | Ivory (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P2000 | Ivory (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P2000 | Ivory (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P2000 | Ivory (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P2000 | Ivory (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:32.535Z"
+}

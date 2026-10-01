@@ -1,0 +1,193 @@
+{
+  "id": "skin-0808024a639a",
+  "name": "★ Kukri Knife | Slaughter",
+  "paint_index": "59",
+  "weapon": {
+    "id": "weapon_knife_kukri",
+    "weapon_id": 526,
+    "name": "Kukri Knife",
+    "slug": "knife_kukri"
+  },
+  "pattern": {
+    "id": "am_zebra",
+    "name": "Slaughter"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.01,
+  "max_float": 0.26,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Used in traditional rituals, such as weddings or stabbings. It has been painted in a zebra-stripe pattern with aluminum and chrome paints with various reflectivities, and has then been covered with a tomato red candy coat.\\n\\n<i>Valeria doesn't pay Javier to ask questions... she pays him to pry out answers</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 155.2,
+      "max": 536.88,
+      "mean": 221.23,
+      "median": 166.76,
+      "suggested": 190.69,
+      "quantity": 27,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 139.75,
+      "max": 384.05,
+      "mean": 167.06,
+      "median": 152.32,
+      "suggested": 174.88,
+      "quantity": 30,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 135.46,
+      "max": 1126.76,
+      "mean": 212.01,
+      "median": 147.27,
+      "suggested": 172.87,
+      "quantity": 16,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Kukri Knife | Slaughter (Factory New)",
+      "price": {
+        "min": 155.2,
+        "max": 536.88,
+        "mean": 221.23,
+        "median": 166.76,
+        "suggested": 190.69,
+        "quantity": 27,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Kukri Knife | Slaughter (Minimal Wear)",
+      "price": {
+        "min": 139.75,
+        "max": 384.05,
+        "mean": 167.06,
+        "median": 152.32,
+        "suggested": 174.88,
+        "quantity": 30,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Kukri Knife | Slaughter (Field-Tested)",
+      "price": {
+        "min": 135.46,
+        "max": 1126.76,
+        "mean": 212.01,
+        "median": 147.27,
+        "suggested": 172.87,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Kukri Knife | Slaughter (Factory New)",
+        "price": {
+          "min": 155.2,
+          "max": 536.88,
+          "mean": 221.23,
+          "median": 166.76,
+          "suggested": 190.69,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Kukri Knife | Slaughter (Minimal Wear)",
+        "price": {
+          "min": 139.75,
+          "max": 384.05,
+          "mean": 167.06,
+          "median": 152.32,
+          "suggested": 174.88,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Kukri Knife | Slaughter (Field-Tested)",
+        "price": {
+          "min": 135.46,
+          "max": 1126.76,
+          "mean": 212.01,
+          "median": 147.27,
+          "suggested": 172.87,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Kukri Knife | Slaughter (Factory New)",
+        "price": {
+          "min": 180.13,
+          "max": 348.91,
+          "mean": 232.22,
+          "median": 199.92,
+          "suggested": 221.05,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Kukri Knife | Slaughter (Minimal Wear)",
+        "price": {
+          "min": 176.06,
+          "max": 180.64,
+          "mean": 178.96,
+          "median": 180.19,
+          "suggested": 169.25,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Kukri Knife | Slaughter (Field-Tested)",
+        "price": {
+          "min": 165.34,
+          "max": 180.88,
+          "mean": 173.12,
+          "median": 173.12,
+          "suggested": 175.69,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:36.132Z"
+}

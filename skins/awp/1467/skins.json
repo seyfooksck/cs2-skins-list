@@ -1,0 +1,249 @@
+{
+  "id": "skin-fb4c997d4376",
+  "name": "AWP | Black Box",
+  "paint_index": "1467",
+  "weapon": {
+    "id": "weapon_awp",
+    "weapon_id": 9,
+    "name": "AWP",
+    "slug": "awp"
+  },
+  "pattern": {
+    "id": "awp_black_box",
+    "name": "Black Box"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted using matte black paint and finished with an orange stripe.\\n\\n<i>\\\"Nothing fancy, you hear me?\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 57.53,
+      "max": 90.17,
+      "mean": 68.5,
+      "median": 57.79,
+      "suggested": 71.25,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 27.39,
+      "max": 32.46,
+      "mean": 29.16,
+      "median": 28.4,
+      "suggested": 14.97,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 20.2,
+      "max": 20.2,
+      "mean": 20.2,
+      "median": 20.2,
+      "suggested": 8.33,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 11.67,
+      "max": 11.67,
+      "mean": 11.67,
+      "median": 11.67,
+      "suggested": 8.76,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 4.07,
+      "max": 9.34,
+      "mean": 6.71,
+      "median": 6.71,
+      "suggested": 4.73,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AWP | Black Box (Factory New)",
+      "price": {
+        "min": 57.53,
+        "max": 90.17,
+        "mean": 68.5,
+        "median": 57.79,
+        "suggested": 71.25,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AWP | Black Box (Minimal Wear)",
+      "price": {
+        "min": 27.39,
+        "max": 32.46,
+        "mean": 29.16,
+        "median": 28.4,
+        "suggested": 14.97,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AWP | Black Box (Field-Tested)",
+      "price": {
+        "min": 20.2,
+        "max": 20.2,
+        "mean": 20.2,
+        "median": 20.2,
+        "suggested": 8.33,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AWP | Black Box (Well-Worn)",
+      "price": {
+        "min": 11.67,
+        "max": 11.67,
+        "mean": 11.67,
+        "median": 11.67,
+        "suggested": 8.76,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AWP | Black Box (Battle-Scarred)",
+      "price": {
+        "min": 4.07,
+        "max": 9.34,
+        "mean": 6.71,
+        "median": 6.71,
+        "suggested": 4.73,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AWP | Black Box (Factory New)",
+        "price": {
+          "min": 57.53,
+          "max": 90.17,
+          "mean": 68.5,
+          "median": 57.79,
+          "suggested": 71.25,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AWP | Black Box (Minimal Wear)",
+        "price": {
+          "min": 27.39,
+          "max": 32.46,
+          "mean": 29.16,
+          "median": 28.4,
+          "suggested": 14.97,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AWP | Black Box (Field-Tested)",
+        "price": {
+          "min": 20.2,
+          "max": 20.2,
+          "mean": 20.2,
+          "median": 20.2,
+          "suggested": 8.33,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AWP | Black Box (Well-Worn)",
+        "price": {
+          "min": 11.67,
+          "max": 11.67,
+          "mean": 11.67,
+          "median": 11.67,
+          "suggested": 8.76,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AWP | Black Box (Battle-Scarred)",
+        "price": {
+          "min": 4.07,
+          "max": 9.34,
+          "mean": 6.71,
+          "median": 6.71,
+          "suggested": 4.73,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AWP | Black Box (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AWP | Black Box (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AWP | Black Box (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AWP | Black Box (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AWP | Black Box (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.829Z"
+}

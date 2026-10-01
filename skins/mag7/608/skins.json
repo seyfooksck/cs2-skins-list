@@ -1,0 +1,258 @@
+{
+  "id": "skin-18a6943d8cc2",
+  "name": "MAG-7 | Petroglyph",
+  "paint_index": "608",
+  "weapon": {
+    "id": "weapon_mag7",
+    "weapon_id": 27,
+    "name": "MAG-7",
+    "slug": "mag7"
+  },
+  "pattern": {
+    "id": "cu_mag7_tribal",
+    "name": "Petroglyph"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.44,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The CT-exclusive Mag-7 delivers a devastating amount of damage at close range. Its rapid magazine-style reloads make it a great tactical choice. It has been custom painted to give the illusion of a rock craving.\\n\\n<i>Conflict existed since the first caveman learned how to pick up a rock – Booth, Arms Dealer</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.71,
+      "max": 16.34,
+      "mean": 4.61,
+      "median": 4.08,
+      "suggested": 3.79,
+      "quantity": 36,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.18,
+      "max": 51.47,
+      "mean": 2.67,
+      "median": 1.48,
+      "suggested": 1.64,
+      "quantity": 70,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.07,
+      "max": 3.5,
+      "mean": 1.51,
+      "median": 1.44,
+      "suggested": 1.51,
+      "quantity": 57,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.32,
+      "max": 6.49,
+      "mean": 2.25,
+      "median": 1.32,
+      "suggested": 1.42,
+      "quantity": 6,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAG-7 | Petroglyph (Factory New)",
+      "price": {
+        "min": 2.71,
+        "max": 16.34,
+        "mean": 4.61,
+        "median": 4.08,
+        "suggested": 3.79,
+        "quantity": 36,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAG-7 | Petroglyph (Minimal Wear)",
+      "price": {
+        "min": 1.18,
+        "max": 51.47,
+        "mean": 2.67,
+        "median": 1.48,
+        "suggested": 1.64,
+        "quantity": 70,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAG-7 | Petroglyph (Field-Tested)",
+      "price": {
+        "min": 1.07,
+        "max": 3.5,
+        "mean": 1.51,
+        "median": 1.44,
+        "suggested": 1.51,
+        "quantity": 57,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAG-7 | Petroglyph (Well-Worn)",
+      "price": {
+        "min": 1.32,
+        "max": 6.49,
+        "mean": 2.25,
+        "median": 1.32,
+        "suggested": 1.42,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAG-7 | Petroglyph (Factory New)",
+        "price": {
+          "min": 2.71,
+          "max": 16.34,
+          "mean": 4.61,
+          "median": 4.08,
+          "suggested": 3.79,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAG-7 | Petroglyph (Minimal Wear)",
+        "price": {
+          "min": 1.18,
+          "max": 51.47,
+          "mean": 2.67,
+          "median": 1.48,
+          "suggested": 1.64,
+          "quantity": 70,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAG-7 | Petroglyph (Field-Tested)",
+        "price": {
+          "min": 1.07,
+          "max": 3.5,
+          "mean": 1.51,
+          "median": 1.44,
+          "suggested": 1.51,
+          "quantity": 57,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAG-7 | Petroglyph (Well-Worn)",
+        "price": {
+          "min": 1.32,
+          "max": 6.49,
+          "mean": 2.25,
+          "median": 1.32,
+          "suggested": 1.42,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MAG-7 | Petroglyph (Factory New)",
+        "price": {
+          "min": 2.85,
+          "max": 64.06,
+          "mean": 11.2,
+          "median": 4.03,
+          "suggested": 3.69,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MAG-7 | Petroglyph (Minimal Wear)",
+        "price": {
+          "min": 1.23,
+          "max": 41.89,
+          "mean": 2.65,
+          "median": 1.76,
+          "suggested": 1.66,
+          "quantity": 60,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MAG-7 | Petroglyph (Field-Tested)",
+        "price": {
+          "min": 1.06,
+          "max": 3.13,
+          "mean": 1.46,
+          "median": 1.2,
+          "suggested": 1.27,
+          "quantity": 48,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MAG-7 | Petroglyph (Well-Worn)",
+        "price": {
+          "min": 1.53,
+          "max": 1.94,
+          "mean": 1.76,
+          "median": 1.8,
+          "suggested": 1.74,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAG-7 | Petroglyph (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAG-7 | Petroglyph (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAG-7 | Petroglyph (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAG-7 | Petroglyph (Well-Worn)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.345Z"
+}

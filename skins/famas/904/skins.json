@@ -1,0 +1,310 @@
+{
+  "id": "skin-5f1459fc89ae",
+  "name": "FAMAS | Decommissioned",
+  "paint_index": "904",
+  "weapon": {
+    "id": "weapon_famas",
+    "weapon_id": 10,
+    "name": "FAMAS",
+    "slug": "famas"
+  },
+  "pattern": {
+    "id": "cu_famas_nuke_tension",
+    "name": "Decommissioned"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. This custom paint job is inspired by elements found on de_nuke from Counter-Strike 1.6.\\n\\n<i>If found please return to Cedar Creek Nuclear Power Plant</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 14.29,
+      "max": 21.52,
+      "mean": 17.91,
+      "median": 16.7,
+      "suggested": 17.88,
+      "quantity": 19,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.49,
+      "max": 15.17,
+      "mean": 1.2,
+      "median": 0.6,
+      "suggested": 0.67,
+      "quantity": 51,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.4,
+      "max": 11.66,
+      "mean": 0.86,
+      "median": 0.55,
+      "suggested": 0.63,
+      "quantity": 138,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.26,
+      "max": 11.66,
+      "mean": 1.13,
+      "median": 0.39,
+      "suggested": 0.39,
+      "quantity": 107,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.27,
+      "max": 10.5,
+      "mean": 0.63,
+      "median": 0.34,
+      "suggested": 0.39,
+      "quantity": 54,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "FAMAS | Decommissioned (Factory New)",
+      "price": {
+        "min": 14.29,
+        "max": 21.52,
+        "mean": 17.91,
+        "median": 16.7,
+        "suggested": 17.88,
+        "quantity": 19,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "FAMAS | Decommissioned (Minimal Wear)",
+      "price": {
+        "min": 0.49,
+        "max": 15.17,
+        "mean": 1.2,
+        "median": 0.6,
+        "suggested": 0.67,
+        "quantity": 51,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "FAMAS | Decommissioned (Field-Tested)",
+      "price": {
+        "min": 0.4,
+        "max": 11.66,
+        "mean": 0.86,
+        "median": 0.55,
+        "suggested": 0.63,
+        "quantity": 138,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "FAMAS | Decommissioned (Well-Worn)",
+      "price": {
+        "min": 0.26,
+        "max": 11.66,
+        "mean": 1.13,
+        "median": 0.39,
+        "suggested": 0.39,
+        "quantity": 107,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "FAMAS | Decommissioned (Battle-Scarred)",
+      "price": {
+        "min": 0.27,
+        "max": 10.5,
+        "mean": 0.63,
+        "median": 0.34,
+        "suggested": 0.39,
+        "quantity": 54,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "FAMAS | Decommissioned (Factory New)",
+        "price": {
+          "min": 14.29,
+          "max": 21.52,
+          "mean": 17.91,
+          "median": 16.7,
+          "suggested": 17.88,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "FAMAS | Decommissioned (Minimal Wear)",
+        "price": {
+          "min": 0.49,
+          "max": 15.17,
+          "mean": 1.2,
+          "median": 0.6,
+          "suggested": 0.67,
+          "quantity": 51,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "FAMAS | Decommissioned (Field-Tested)",
+        "price": {
+          "min": 0.4,
+          "max": 11.66,
+          "mean": 0.86,
+          "median": 0.55,
+          "suggested": 0.63,
+          "quantity": 138,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "FAMAS | Decommissioned (Well-Worn)",
+        "price": {
+          "min": 0.26,
+          "max": 11.66,
+          "mean": 1.13,
+          "median": 0.39,
+          "suggested": 0.39,
+          "quantity": 107,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "FAMAS | Decommissioned (Battle-Scarred)",
+        "price": {
+          "min": 0.27,
+          "max": 10.5,
+          "mean": 0.63,
+          "median": 0.34,
+          "suggested": 0.39,
+          "quantity": 54,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ FAMAS | Decommissioned (Factory New)",
+        "price": {
+          "min": 4.12,
+          "max": 28.86,
+          "mean": 9.43,
+          "median": 6.46,
+          "suggested": 5.1,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ FAMAS | Decommissioned (Minimal Wear)",
+        "price": {
+          "min": 0.98,
+          "max": 3.78,
+          "mean": 1.76,
+          "median": 1.24,
+          "suggested": 1.21,
+          "quantity": 48,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ FAMAS | Decommissioned (Field-Tested)",
+        "price": {
+          "min": 0.46,
+          "max": 5.83,
+          "mean": 0.95,
+          "median": 0.57,
+          "suggested": 0.57,
+          "quantity": 72,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ FAMAS | Decommissioned (Well-Worn)",
+        "price": {
+          "min": 0.32,
+          "max": 7.5,
+          "mean": 0.57,
+          "median": 0.4,
+          "suggested": 0.42,
+          "quantity": 41,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ FAMAS | Decommissioned (Battle-Scarred)",
+        "price": {
+          "min": 0.33,
+          "max": 2.33,
+          "mean": 0.5,
+          "median": 0.41,
+          "suggested": 0.43,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir FAMAS | Decommissioned (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir FAMAS | Decommissioned (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir FAMAS | Decommissioned (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir FAMAS | Decommissioned (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir FAMAS | Decommissioned (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:29.451Z"
+}

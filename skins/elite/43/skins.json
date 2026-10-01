@@ -1,0 +1,257 @@
+{
+  "id": "skin-c4a250807703",
+  "name": "Dual Berettas | Stained",
+  "paint_index": "43",
+  "weapon": {
+    "id": "weapon_elite",
+    "weapon_id": 2,
+    "name": "Dual Berettas",
+    "slug": "elite"
+  },
+  "pattern": {
+    "id": "aq_forced",
+    "name": "Stained"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. It has been given a forced patina using lemon and mustard dripped onto the surface.\\n\\n<i>If you think it's messy now, wait until you see it under a blacklight</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.66,
+      "max": 28.86,
+      "mean": 4.67,
+      "median": 3.55,
+      "suggested": 2.16,
+      "quantity": 61,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.19,
+      "max": 8.75,
+      "mean": 0.39,
+      "median": 0.27,
+      "suggested": 0.25,
+      "quantity": 113,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.09,
+      "max": 4.67,
+      "mean": 0.37,
+      "median": 0.15,
+      "suggested": 0.15,
+      "quantity": 89,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.09,
+      "max": 1.2,
+      "mean": 0.3,
+      "median": 0.15,
+      "suggested": 0.14,
+      "quantity": 69,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.11,
+      "max": 4.67,
+      "mean": 0.35,
+      "median": 0.16,
+      "suggested": 0.14,
+      "quantity": 48,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Dual Berettas | Stained (Factory New)",
+      "price": {
+        "min": 1.66,
+        "max": 28.86,
+        "mean": 4.67,
+        "median": 3.55,
+        "suggested": 2.16,
+        "quantity": 61,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Dual Berettas | Stained (Minimal Wear)",
+      "price": {
+        "min": 0.19,
+        "max": 8.75,
+        "mean": 0.39,
+        "median": 0.27,
+        "suggested": 0.25,
+        "quantity": 113,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Dual Berettas | Stained (Field-Tested)",
+      "price": {
+        "min": 0.09,
+        "max": 4.67,
+        "mean": 0.37,
+        "median": 0.15,
+        "suggested": 0.15,
+        "quantity": 89,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Dual Berettas | Stained (Well-Worn)",
+      "price": {
+        "min": 0.09,
+        "max": 1.2,
+        "mean": 0.3,
+        "median": 0.15,
+        "suggested": 0.14,
+        "quantity": 69,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Dual Berettas | Stained (Battle-Scarred)",
+      "price": {
+        "min": 0.11,
+        "max": 4.67,
+        "mean": 0.35,
+        "median": 0.16,
+        "suggested": 0.14,
+        "quantity": 48,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Dual Berettas | Stained (Factory New)",
+        "price": {
+          "min": 1.66,
+          "max": 28.86,
+          "mean": 4.67,
+          "median": 3.55,
+          "suggested": 2.16,
+          "quantity": 61,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Dual Berettas | Stained (Minimal Wear)",
+        "price": {
+          "min": 0.19,
+          "max": 8.75,
+          "mean": 0.39,
+          "median": 0.27,
+          "suggested": 0.25,
+          "quantity": 113,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Dual Berettas | Stained (Field-Tested)",
+        "price": {
+          "min": 0.09,
+          "max": 4.67,
+          "mean": 0.37,
+          "median": 0.15,
+          "suggested": 0.15,
+          "quantity": 89,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Dual Berettas | Stained (Well-Worn)",
+        "price": {
+          "min": 0.09,
+          "max": 1.2,
+          "mean": 0.3,
+          "median": 0.15,
+          "suggested": 0.14,
+          "quantity": 69,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Dual Berettas | Stained (Battle-Scarred)",
+        "price": {
+          "min": 0.11,
+          "max": 4.67,
+          "mean": 0.35,
+          "median": 0.16,
+          "suggested": 0.14,
+          "quantity": 48,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Dual Berettas | Stained (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Dual Berettas | Stained (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Dual Berettas | Stained (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Dual Berettas | Stained (Well-Worn)",
+        "price": {
+          "min": 153.63,
+          "max": 153.63,
+          "mean": 153.63,
+          "median": 153.63,
+          "suggested": 3.89,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Dual Berettas | Stained (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:28.674Z"
+}

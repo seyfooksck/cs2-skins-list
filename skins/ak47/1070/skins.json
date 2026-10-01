@@ -1,0 +1,217 @@
+{
+  "id": "skin-f4a679a04e0b",
+  "name": "AK-47 | Green Laminate",
+  "paint_index": "1070",
+  "weapon": {
+    "id": "weapon_ak47",
+    "weapon_id": 7,
+    "name": "AK-47",
+    "slug": "ak47"
+  },
+  "pattern": {
+    "id": "hy_ak47lam_green",
+    "name": "Green Laminate"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0.02,
+  "max_float": 0.4,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. An green laminate has been applied to this AK's stock, grip, and handguard.\\n\\n<i>It's the simple things</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 62.52,
+      "max": 214.66,
+      "mean": 107.81,
+      "median": 91.16,
+      "suggested": 88.35,
+      "quantity": 47,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 22.74,
+      "max": 70.02,
+      "mean": 44.43,
+      "median": 36.93,
+      "suggested": 28.62,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 21.26,
+      "max": 116.68,
+      "mean": 36.77,
+      "median": 26.76,
+      "suggested": 27.79,
+      "quantity": 25,
+      "currency": "USD"
+    },
+    "ww": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AK-47 | Green Laminate (Factory New)",
+      "price": {
+        "min": 62.52,
+        "max": 214.66,
+        "mean": 107.81,
+        "median": 91.16,
+        "suggested": 88.35,
+        "quantity": 47,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AK-47 | Green Laminate (Minimal Wear)",
+      "price": {
+        "min": 22.74,
+        "max": 70.02,
+        "mean": 44.43,
+        "median": 36.93,
+        "suggested": 28.62,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AK-47 | Green Laminate (Field-Tested)",
+      "price": {
+        "min": 21.26,
+        "max": 116.68,
+        "mean": 36.77,
+        "median": 26.76,
+        "suggested": 27.79,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AK-47 | Green Laminate (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AK-47 | Green Laminate (Factory New)",
+        "price": {
+          "min": 62.52,
+          "max": 214.66,
+          "mean": 107.81,
+          "median": 91.16,
+          "suggested": 88.35,
+          "quantity": 47,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AK-47 | Green Laminate (Minimal Wear)",
+        "price": {
+          "min": 22.74,
+          "max": 70.02,
+          "mean": 44.43,
+          "median": 36.93,
+          "suggested": 28.62,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AK-47 | Green Laminate (Field-Tested)",
+        "price": {
+          "min": 21.26,
+          "max": 116.68,
+          "mean": 36.77,
+          "median": 26.76,
+          "suggested": 27.79,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AK-47 | Green Laminate (Well-Worn)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AK-47 | Green Laminate (Factory New)",
+        "price": {
+          "min": 34.72,
+          "max": 105.01,
+          "mean": 57.83,
+          "median": 50.74,
+          "suggested": 41.71,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AK-47 | Green Laminate (Minimal Wear)",
+        "price": {
+          "min": 18.78,
+          "max": 82.97,
+          "mean": 47.05,
+          "median": 41.32,
+          "suggested": 23.77,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AK-47 | Green Laminate (Field-Tested)",
+        "price": {
+          "min": 18.96,
+          "max": 79.9,
+          "mean": 39.1,
+          "median": 35,
+          "suggested": 21.41,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AK-47 | Green Laminate (Well-Worn)",
+        "price": {
+          "min": 50.47,
+          "max": 50.47,
+          "mean": 50.47,
+          "median": 50.47,
+          "suggested": 23.35,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:20:20.981Z"
+}

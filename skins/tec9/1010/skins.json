@@ -1,0 +1,249 @@
+{
+  "id": "skin-0963c34fee78",
+  "name": "Tec-9 | Phoenix Chalk",
+  "paint_index": "1010",
+  "weapon": {
+    "id": "weapon_tec9",
+    "weapon_id": 30,
+    "name": "Tec-9",
+    "slug": "tec9"
+  },
+  "pattern": {
+    "id": "hy_phoenix_tags_lilac",
+    "name": "Phoenix Chalk"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 0.8,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity. A multicolored pattern of various Phoenix Connexion graffiti has been applied.\\n\\n<i>\\\"You are stupid to think you will win!\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 26.16,
+      "max": 175.03,
+      "mean": 48.54,
+      "median": 30.82,
+      "suggested": 25.37,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2,
+      "max": 46.67,
+      "mean": 7.94,
+      "median": 7.7,
+      "suggested": 1.88,
+      "quantity": 110,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.09,
+      "max": 23.33,
+      "mean": 4.99,
+      "median": 2.74,
+      "suggested": 1.34,
+      "quantity": 61,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 18.66,
+      "max": 18.66,
+      "mean": 18.66,
+      "median": 18.66,
+      "suggested": 21.92,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.92,
+      "max": 5.82,
+      "mean": 2.43,
+      "median": 1.42,
+      "suggested": 1.05,
+      "quantity": 45,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Tec-9 | Phoenix Chalk (Factory New)",
+      "price": {
+        "min": 26.16,
+        "max": 175.03,
+        "mean": 48.54,
+        "median": 30.82,
+        "suggested": 25.37,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Tec-9 | Phoenix Chalk (Minimal Wear)",
+      "price": {
+        "min": 2,
+        "max": 46.67,
+        "mean": 7.94,
+        "median": 7.7,
+        "suggested": 1.88,
+        "quantity": 110,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Tec-9 | Phoenix Chalk (Field-Tested)",
+      "price": {
+        "min": 1.09,
+        "max": 23.33,
+        "mean": 4.99,
+        "median": 2.74,
+        "suggested": 1.34,
+        "quantity": 61,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Tec-9 | Phoenix Chalk (Well-Worn)",
+      "price": {
+        "min": 18.66,
+        "max": 18.66,
+        "mean": 18.66,
+        "median": 18.66,
+        "suggested": 21.92,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Tec-9 | Phoenix Chalk (Battle-Scarred)",
+      "price": {
+        "min": 0.92,
+        "max": 5.82,
+        "mean": 2.43,
+        "median": 1.42,
+        "suggested": 1.05,
+        "quantity": 45,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Tec-9 | Phoenix Chalk (Factory New)",
+        "price": {
+          "min": 26.16,
+          "max": 175.03,
+          "mean": 48.54,
+          "median": 30.82,
+          "suggested": 25.37,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Tec-9 | Phoenix Chalk (Minimal Wear)",
+        "price": {
+          "min": 2,
+          "max": 46.67,
+          "mean": 7.94,
+          "median": 7.7,
+          "suggested": 1.88,
+          "quantity": 110,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Tec-9 | Phoenix Chalk (Field-Tested)",
+        "price": {
+          "min": 1.09,
+          "max": 23.33,
+          "mean": 4.99,
+          "median": 2.74,
+          "suggested": 1.34,
+          "quantity": 61,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Tec-9 | Phoenix Chalk (Well-Worn)",
+        "price": {
+          "min": 18.66,
+          "max": 18.66,
+          "mean": 18.66,
+          "median": 18.66,
+          "suggested": 21.92,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Tec-9 | Phoenix Chalk (Battle-Scarred)",
+        "price": {
+          "min": 0.92,
+          "max": 5.82,
+          "mean": 2.43,
+          "median": 1.42,
+          "suggested": 1.05,
+          "quantity": 45,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Tec-9 | Phoenix Chalk (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Tec-9 | Phoenix Chalk (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Tec-9 | Phoenix Chalk (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Tec-9 | Phoenix Chalk (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Tec-9 | Phoenix Chalk (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.459Z"
+}

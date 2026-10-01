@@ -1,0 +1,249 @@
+{
+  "id": "skin-d73f5bc23efd",
+  "name": "FAMAS | Prime Conspiracy",
+  "paint_index": "999",
+  "weapon": {
+    "id": "weapon_famas",
+    "weapon_id": 10,
+    "name": "FAMAS",
+    "slug": "famas"
+  },
+  "pattern": {
+    "id": "am_numbers_magenta",
+    "name": "Prime Conspiracy"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.55,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. A multicolored pattern of randomized numbers has been applied.\\n\\n<i>Numbers don't lie, but I do</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 110.45,
+      "max": 777.18,
+      "mean": 200.9,
+      "median": 175.04,
+      "suggested": 136.12,
+      "quantity": 24,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 80.75,
+      "max": 133.14,
+      "mean": 108.28,
+      "median": 112.56,
+      "suggested": 105.9,
+      "quantity": 18,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 87.7,
+      "max": 252.48,
+      "mean": 125.87,
+      "median": 111.24,
+      "suggested": 114.27,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 92.79,
+      "max": 154.12,
+      "mean": 123.46,
+      "median": 123.46,
+      "suggested": 113.28,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 73.24,
+      "max": 103.01,
+      "mean": 88.13,
+      "median": 88.13,
+      "suggested": 85.7,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "FAMAS | Prime Conspiracy (Factory New)",
+      "price": {
+        "min": 110.45,
+        "max": 777.18,
+        "mean": 200.9,
+        "median": 175.04,
+        "suggested": 136.12,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "FAMAS | Prime Conspiracy (Minimal Wear)",
+      "price": {
+        "min": 80.75,
+        "max": 133.14,
+        "mean": 108.28,
+        "median": 112.56,
+        "suggested": 105.9,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "FAMAS | Prime Conspiracy (Field-Tested)",
+      "price": {
+        "min": 87.7,
+        "max": 252.48,
+        "mean": 125.87,
+        "median": 111.24,
+        "suggested": 114.27,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "FAMAS | Prime Conspiracy (Well-Worn)",
+      "price": {
+        "min": 92.79,
+        "max": 154.12,
+        "mean": 123.46,
+        "median": 123.46,
+        "suggested": 113.28,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "FAMAS | Prime Conspiracy (Battle-Scarred)",
+      "price": {
+        "min": 73.24,
+        "max": 103.01,
+        "mean": 88.13,
+        "median": 88.13,
+        "suggested": 85.7,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "FAMAS | Prime Conspiracy (Factory New)",
+        "price": {
+          "min": 110.45,
+          "max": 777.18,
+          "mean": 200.9,
+          "median": 175.04,
+          "suggested": 136.12,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "FAMAS | Prime Conspiracy (Minimal Wear)",
+        "price": {
+          "min": 80.75,
+          "max": 133.14,
+          "mean": 108.28,
+          "median": 112.56,
+          "suggested": 105.9,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "FAMAS | Prime Conspiracy (Field-Tested)",
+        "price": {
+          "min": 87.7,
+          "max": 252.48,
+          "mean": 125.87,
+          "median": 111.24,
+          "suggested": 114.27,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "FAMAS | Prime Conspiracy (Well-Worn)",
+        "price": {
+          "min": 92.79,
+          "max": 154.12,
+          "mean": 123.46,
+          "median": 123.46,
+          "suggested": 113.28,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "FAMAS | Prime Conspiracy (Battle-Scarred)",
+        "price": {
+          "min": 73.24,
+          "max": 103.01,
+          "mean": 88.13,
+          "median": 88.13,
+          "suggested": 85.7,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir FAMAS | Prime Conspiracy (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir FAMAS | Prime Conspiracy (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir FAMAS | Prime Conspiracy (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir FAMAS | Prime Conspiracy (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir FAMAS | Prime Conspiracy (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:29.345Z"
+}

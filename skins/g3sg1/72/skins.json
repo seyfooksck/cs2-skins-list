@@ -1,0 +1,289 @@
+{
+  "id": "skin-c2fe14e6707a",
+  "name": "G3SG1 | Safari Mesh",
+  "paint_index": "72",
+  "weapon": {
+    "id": "weapon_g3sg1",
+    "weapon_id": 11,
+    "name": "G3SG1",
+    "slug": "g3sg1"
+  },
+  "pattern": {
+    "id": "sp_mesh_tan",
+    "name": "Safari Mesh"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The pricy G3SG1 lowers movement speed considerably but compensates with a higher rate of fire than other sniper rifles. It has been spray-painted using mesh fencing and cardboard cutouts as stencils.\\n\\n<i>A predator is a predator, no matter the environment</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 21.81,
+      "max": 30.31,
+      "mean": 26.06,
+      "median": 26.06,
+      "suggested": 24.66,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.71,
+      "max": 39.94,
+      "mean": 11.82,
+      "median": 6.76,
+      "suggested": 1.75,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.62,
+      "max": 39.94,
+      "mean": 6.42,
+      "median": 3.22,
+      "suggested": 1.88,
+      "quantity": 20,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 3.09,
+      "max": 3.3,
+      "mean": 3.2,
+      "median": 3.2,
+      "suggested": 3.29,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 2.75,
+      "max": 6.87,
+      "mean": 3.97,
+      "median": 3.59,
+      "suggested": 2.01,
+      "quantity": 6,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "G3SG1 | Safari Mesh (Factory New)",
+      "price": {
+        "min": 21.81,
+        "max": 30.31,
+        "mean": 26.06,
+        "median": 26.06,
+        "suggested": 24.66,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "G3SG1 | Safari Mesh (Minimal Wear)",
+      "price": {
+        "min": 2.71,
+        "max": 39.94,
+        "mean": 11.82,
+        "median": 6.76,
+        "suggested": 1.75,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "G3SG1 | Safari Mesh (Field-Tested)",
+      "price": {
+        "min": 1.62,
+        "max": 39.94,
+        "mean": 6.42,
+        "median": 3.22,
+        "suggested": 1.88,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "G3SG1 | Safari Mesh (Well-Worn)",
+      "price": {
+        "min": 3.09,
+        "max": 3.3,
+        "mean": 3.2,
+        "median": 3.2,
+        "suggested": 3.29,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "G3SG1 | Safari Mesh (Battle-Scarred)",
+      "price": {
+        "min": 2.75,
+        "max": 6.87,
+        "mean": 3.97,
+        "median": 3.59,
+        "suggested": 2.01,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "G3SG1 | Safari Mesh (Factory New)",
+        "price": {
+          "min": 21.81,
+          "max": 30.31,
+          "mean": 26.06,
+          "median": 26.06,
+          "suggested": 24.66,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "G3SG1 | Safari Mesh (Minimal Wear)",
+        "price": {
+          "min": 2.71,
+          "max": 39.94,
+          "mean": 11.82,
+          "median": 6.76,
+          "suggested": 1.75,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "G3SG1 | Safari Mesh (Field-Tested)",
+        "price": {
+          "min": 1.62,
+          "max": 39.94,
+          "mean": 6.42,
+          "median": 3.22,
+          "suggested": 1.88,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "G3SG1 | Safari Mesh (Well-Worn)",
+        "price": {
+          "min": 3.09,
+          "max": 3.3,
+          "mean": 3.2,
+          "median": 3.2,
+          "suggested": 3.29,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "G3SG1 | Safari Mesh (Battle-Scarred)",
+        "price": {
+          "min": 2.75,
+          "max": 6.87,
+          "mean": 3.97,
+          "median": 3.59,
+          "suggested": 2.01,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir G3SG1 | Safari Mesh (Factory New)",
+        "price": {
+          "min": 39.5,
+          "max": 152.41,
+          "mean": 92.37,
+          "median": 79.9,
+          "suggested": 14.22,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir G3SG1 | Safari Mesh (Minimal Wear)",
+        "price": {
+          "min": 5.83,
+          "max": 92.18,
+          "mean": 59.48,
+          "median": 79.9,
+          "suggested": 2.17,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir G3SG1 | Safari Mesh (Field-Tested)",
+        "price": {
+          "min": 2.31,
+          "max": 64.18,
+          "mean": 15.12,
+          "median": 7.99,
+          "suggested": 1.86,
+          "quantity": 45,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir G3SG1 | Safari Mesh (Well-Worn)",
+        "price": {
+          "min": 1.86,
+          "max": 198.38,
+          "mean": 31.05,
+          "median": 7.99,
+          "suggested": 1.81,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir G3SG1 | Safari Mesh (Battle-Scarred)",
+        "price": {
+          "min": 2.33,
+          "max": 204.83,
+          "mean": 33.67,
+          "median": 7.99,
+          "suggested": 1.6,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:30.778Z"
+}

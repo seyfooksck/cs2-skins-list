@@ -1,0 +1,310 @@
+{
+  "id": "skin-f098f9b83e8b",
+  "name": "FAMAS | Bad Trip",
+  "paint_index": "1184",
+  "weapon": {
+    "id": "weapon_famas",
+    "weapon_id": 10,
+    "name": "FAMAS",
+    "slug": "famas"
+  },
+  "pattern": {
+    "id": "famas_badtrip",
+    "name": "Bad Trip"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. It has been custom painted with brightly colored monsters.\\n\\n<i>When you've had too much</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 75.09,
+      "max": 404.29,
+      "mean": 158.06,
+      "median": 102.53,
+      "suggested": 105.7,
+      "quantity": 22,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 51.38,
+      "max": 3168.23,
+      "mean": 96.62,
+      "median": 62.33,
+      "suggested": 72.91,
+      "quantity": 96,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 44.29,
+      "max": 290.57,
+      "mean": 59.47,
+      "median": 56.84,
+      "suggested": 55.59,
+      "quantity": 268,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 45.18,
+      "max": 103.86,
+      "mean": 53.89,
+      "median": 53.32,
+      "suggested": 60.35,
+      "quantity": 106,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 44.81,
+      "max": 71.52,
+      "mean": 53.75,
+      "median": 52.17,
+      "suggested": 58.13,
+      "quantity": 40,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "FAMAS | Bad Trip (Factory New)",
+      "price": {
+        "min": 75.09,
+        "max": 404.29,
+        "mean": 158.06,
+        "median": 102.53,
+        "suggested": 105.7,
+        "quantity": 22,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "FAMAS | Bad Trip (Minimal Wear)",
+      "price": {
+        "min": 51.38,
+        "max": 3168.23,
+        "mean": 96.62,
+        "median": 62.33,
+        "suggested": 72.91,
+        "quantity": 96,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "FAMAS | Bad Trip (Field-Tested)",
+      "price": {
+        "min": 44.29,
+        "max": 290.57,
+        "mean": 59.47,
+        "median": 56.84,
+        "suggested": 55.59,
+        "quantity": 268,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "FAMAS | Bad Trip (Well-Worn)",
+      "price": {
+        "min": 45.18,
+        "max": 103.86,
+        "mean": 53.89,
+        "median": 53.32,
+        "suggested": 60.35,
+        "quantity": 106,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "FAMAS | Bad Trip (Battle-Scarred)",
+      "price": {
+        "min": 44.81,
+        "max": 71.52,
+        "mean": 53.75,
+        "median": 52.17,
+        "suggested": 58.13,
+        "quantity": 40,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "FAMAS | Bad Trip (Factory New)",
+        "price": {
+          "min": 75.09,
+          "max": 404.29,
+          "mean": 158.06,
+          "median": 102.53,
+          "suggested": 105.7,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "FAMAS | Bad Trip (Minimal Wear)",
+        "price": {
+          "min": 51.38,
+          "max": 3168.23,
+          "mean": 96.62,
+          "median": 62.33,
+          "suggested": 72.91,
+          "quantity": 96,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "FAMAS | Bad Trip (Field-Tested)",
+        "price": {
+          "min": 44.29,
+          "max": 290.57,
+          "mean": 59.47,
+          "median": 56.84,
+          "suggested": 55.59,
+          "quantity": 268,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "FAMAS | Bad Trip (Well-Worn)",
+        "price": {
+          "min": 45.18,
+          "max": 103.86,
+          "mean": 53.89,
+          "median": 53.32,
+          "suggested": 60.35,
+          "quantity": 106,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "FAMAS | Bad Trip (Battle-Scarred)",
+        "price": {
+          "min": 44.81,
+          "max": 71.52,
+          "mean": 53.75,
+          "median": 52.17,
+          "suggested": 58.13,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ FAMAS | Bad Trip (Factory New)",
+        "price": {
+          "min": 83.72,
+          "max": 172.19,
+          "mean": 112.62,
+          "median": 104.23,
+          "suggested": 109.93,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ FAMAS | Bad Trip (Minimal Wear)",
+        "price": {
+          "min": 54.45,
+          "max": 105.01,
+          "mean": 71.92,
+          "median": 63.68,
+          "suggested": 72.14,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ FAMAS | Bad Trip (Field-Tested)",
+        "price": {
+          "min": 45.73,
+          "max": 67.93,
+          "mean": 53.62,
+          "median": 54.33,
+          "suggested": 63.29,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ FAMAS | Bad Trip (Well-Worn)",
+        "price": {
+          "min": 42.7,
+          "max": 64.44,
+          "mean": 52.83,
+          "median": 51.1,
+          "suggested": 59.49,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ FAMAS | Bad Trip (Battle-Scarred)",
+        "price": {
+          "min": 46.95,
+          "max": 67.66,
+          "mean": 52.94,
+          "median": 51.24,
+          "suggested": 61.18,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir FAMAS | Bad Trip (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir FAMAS | Bad Trip (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir FAMAS | Bad Trip (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir FAMAS | Bad Trip (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir FAMAS | Bad Trip (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:29.507Z"
+}

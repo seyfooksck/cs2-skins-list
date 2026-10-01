@@ -1,0 +1,265 @@
+{
+  "id": "skin-33383206120a",
+  "name": "P250 | Contamination",
+  "paint_index": "373",
+  "weapon": {
+    "id": "weapon_p250",
+    "weapon_id": 36,
+    "name": "P250",
+    "slug": "p250"
+  },
+  "pattern": {
+    "id": "hy_nuclear_skulls4_p250",
+    "name": "Contamination"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.83,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A low-recoil firearm with a high rate of fire, the P250 is a relatively inexpensive choice against armored opponents. It has been painted with a hydrographic pattern of nuclear skulls and bones.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 10.76,
+      "max": 32.67,
+      "mean": 20.08,
+      "median": 15.51,
+      "suggested": 13.95,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 4.11,
+      "max": 413.26,
+      "mean": 39,
+      "median": 9.9,
+      "suggested": 5.33,
+      "quantity": 17,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.17,
+      "max": 23.33,
+      "mean": 6.25,
+      "median": 3.66,
+      "suggested": 2.74,
+      "quantity": 21,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 3.09,
+      "max": 3.5,
+      "mean": 3.24,
+      "median": 3.14,
+      "suggested": 2.42,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P250 | Contamination (Factory New)",
+      "price": {
+        "min": 10.76,
+        "max": 32.67,
+        "mean": 20.08,
+        "median": 15.51,
+        "suggested": 13.95,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P250 | Contamination (Minimal Wear)",
+      "price": {
+        "min": 4.11,
+        "max": 413.26,
+        "mean": 39,
+        "median": 9.9,
+        "suggested": 5.33,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P250 | Contamination (Field-Tested)",
+      "price": {
+        "min": 2.17,
+        "max": 23.33,
+        "mean": 6.25,
+        "median": 3.66,
+        "suggested": 2.74,
+        "quantity": 21,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P250 | Contamination (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P250 | Contamination (Battle-Scarred)",
+      "price": {
+        "min": 3.09,
+        "max": 3.5,
+        "mean": 3.24,
+        "median": 3.14,
+        "suggested": 2.42,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P250 | Contamination (Factory New)",
+        "price": {
+          "min": 10.76,
+          "max": 32.67,
+          "mean": 20.08,
+          "median": 15.51,
+          "suggested": 13.95,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P250 | Contamination (Minimal Wear)",
+        "price": {
+          "min": 4.11,
+          "max": 413.26,
+          "mean": 39,
+          "median": 9.9,
+          "suggested": 5.33,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P250 | Contamination (Field-Tested)",
+        "price": {
+          "min": 2.17,
+          "max": 23.33,
+          "mean": 6.25,
+          "median": 3.66,
+          "suggested": 2.74,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P250 | Contamination (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "P250 | Contamination (Battle-Scarred)",
+        "price": {
+          "min": 3.09,
+          "max": 3.5,
+          "mean": 3.24,
+          "median": 3.14,
+          "suggested": 2.42,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P250 | Contamination (Factory New)",
+        "price": {
+          "min": 11.39,
+          "max": 66,
+          "mean": 27.18,
+          "median": 21.82,
+          "suggested": 14.96,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P250 | Contamination (Minimal Wear)",
+        "price": {
+          "min": 7.34,
+          "max": 665.13,
+          "mean": 45.37,
+          "median": 11.67,
+          "suggested": 5.86,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P250 | Contamination (Field-Tested)",
+        "price": {
+          "min": 2.37,
+          "max": 542.63,
+          "mean": 35.26,
+          "median": 5.29,
+          "suggested": 2.49,
+          "quantity": 38,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P250 | Contamination (Well-Worn)",
+        "price": {
+          "min": 3.77,
+          "max": 123.68,
+          "mean": 18.41,
+          "median": 8.86,
+          "suggested": 3.77,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P250 | Contamination (Battle-Scarred)",
+        "price": {
+          "min": 2.07,
+          "max": 13.76,
+          "mean": 4.92,
+          "median": 3.5,
+          "suggested": 2.35,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:45.407Z"
+}

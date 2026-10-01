@@ -1,0 +1,249 @@
+{
+  "id": "skin-968b010d42f7",
+  "name": "PP-Bizon | Wood Block Camo",
+  "paint_index": "1325",
+  "weapon": {
+    "id": "weapon_bizon",
+    "weapon_id": 26,
+    "name": "PP-Bizon",
+    "slug": "bizon"
+  },
+  "pattern": {
+    "id": "hy_wood_grain_camo_red",
+    "name": "Wood Block Camo"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly. A grey and maroon woodgrain pattern has been applied.\\n\\n<i>Re-staining is recommended every 3 to 4 years</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.04,
+      "max": 4.96,
+      "mean": 0.55,
+      "median": 0.63,
+      "suggested": 0.05,
+      "quantity": 238,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.02,
+      "max": 1.77,
+      "mean": 0.09,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 480,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.02,
+      "max": 1.18,
+      "mean": 0.05,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 974,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.02,
+      "max": 0.2,
+      "mean": 0.06,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 22,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.02,
+      "max": 0.16,
+      "mean": 0.04,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 122,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "PP-Bizon | Wood Block Camo (Factory New)",
+      "price": {
+        "min": 0.04,
+        "max": 4.96,
+        "mean": 0.55,
+        "median": 0.63,
+        "suggested": 0.05,
+        "quantity": 238,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "PP-Bizon | Wood Block Camo (Minimal Wear)",
+      "price": {
+        "min": 0.02,
+        "max": 1.77,
+        "mean": 0.09,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 480,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "PP-Bizon | Wood Block Camo (Field-Tested)",
+      "price": {
+        "min": 0.02,
+        "max": 1.18,
+        "mean": 0.05,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 974,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "PP-Bizon | Wood Block Camo (Well-Worn)",
+      "price": {
+        "min": 0.02,
+        "max": 0.2,
+        "mean": 0.06,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 22,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "PP-Bizon | Wood Block Camo (Battle-Scarred)",
+      "price": {
+        "min": 0.02,
+        "max": 0.16,
+        "mean": 0.04,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 122,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "PP-Bizon | Wood Block Camo (Factory New)",
+        "price": {
+          "min": 0.04,
+          "max": 4.96,
+          "mean": 0.55,
+          "median": 0.63,
+          "suggested": 0.05,
+          "quantity": 238,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "PP-Bizon | Wood Block Camo (Minimal Wear)",
+        "price": {
+          "min": 0.02,
+          "max": 1.77,
+          "mean": 0.09,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 480,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "PP-Bizon | Wood Block Camo (Field-Tested)",
+        "price": {
+          "min": 0.02,
+          "max": 1.18,
+          "mean": 0.05,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 974,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "PP-Bizon | Wood Block Camo (Well-Worn)",
+        "price": {
+          "min": 0.02,
+          "max": 0.2,
+          "mean": 0.06,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "PP-Bizon | Wood Block Camo (Battle-Scarred)",
+        "price": {
+          "min": 0.02,
+          "max": 0.16,
+          "mean": 0.04,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 122,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir PP-Bizon | Wood Block Camo (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir PP-Bizon | Wood Block Camo (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir PP-Bizon | Wood Block Camo (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir PP-Bizon | Wood Block Camo (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir PP-Bizon | Wood Block Camo (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:27.245Z"
+}

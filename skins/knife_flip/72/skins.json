@@ -1,0 +1,177 @@
+{
+  "id": "skin-60b115694045",
+  "name": "★ Flip Knife | Safari Mesh",
+  "paint_index": "72",
+  "weapon": {
+    "id": "weapon_knife_flip",
+    "weapon_id": 505,
+    "name": "Flip Knife",
+    "slug": "knife_flip"
+  },
+  "pattern": {
+    "id": "sp_mesh_tan",
+    "name": "Safari Mesh"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Flip knives sport a Persian-style back-swept blade with an acute point.  While the point itself may be fragile, the overall design of the flip knife's design is surprisingly durable. It has been spray-painted using mesh fencing and cardboard cutouts as stencils.\\n\\n<i>A predator is a predator, no matter the environment</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": null,
+    "ft": {
+      "min": 119.23,
+      "max": 119.74,
+      "mean": 119.48,
+      "median": 119.48,
+      "suggested": 139.18,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 140.03,
+      "max": 140.03,
+      "mean": 140.03,
+      "median": 140.03,
+      "suggested": 140.22,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Flip Knife | Safari Mesh (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Flip Knife | Safari Mesh (Minimal Wear)",
+      "price": null,
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Flip Knife | Safari Mesh (Field-Tested)",
+      "price": {
+        "min": 119.23,
+        "max": 119.74,
+        "mean": 119.48,
+        "median": 119.48,
+        "suggested": 139.18,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Flip Knife | Safari Mesh (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Flip Knife | Safari Mesh (Battle-Scarred)",
+      "price": {
+        "min": 140.03,
+        "max": 140.03,
+        "mean": 140.03,
+        "median": 140.03,
+        "suggested": 140.22,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Flip Knife | Safari Mesh (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Flip Knife | Safari Mesh (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ Flip Knife | Safari Mesh (Field-Tested)",
+        "price": {
+          "min": 119.23,
+          "max": 119.74,
+          "mean": 119.48,
+          "median": 119.48,
+          "suggested": 139.18,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Flip Knife | Safari Mesh (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ Flip Knife | Safari Mesh (Battle-Scarred)",
+        "price": {
+          "min": 140.03,
+          "max": 140.03,
+          "mean": 140.03,
+          "median": 140.03,
+          "suggested": 140.22,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Safari Mesh (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Safari Mesh (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Safari Mesh (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Safari Mesh (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Safari Mesh (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:34.870Z"
+}

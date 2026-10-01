@@ -1,0 +1,204 @@
+{
+  "id": "skin-635fbb080d7c",
+  "name": "★ Sport Gloves | Ultra Violent",
+  "paint_index": "1410",
+  "weapon": {
+    "id": "sporty_gloves",
+    "weapon_id": 5030,
+    "name": "Sport Gloves",
+    "slug": "sporty_gloves"
+  },
+  "pattern": {
+    "id": "glove_sport_tech_gradient_bright",
+    "name": "Ultra Violent"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_gloves",
+    "name": "Gloves"
+  },
+  "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Synthetic fabrics make these athletic gloves durable and eye-catching.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 2392.22,
+      "max": 3034.04,
+      "mean": 2611,
+      "median": 2406.74,
+      "suggested": 2389.18,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1050.24,
+      "max": 2100.71,
+      "mean": 1415.81,
+      "median": 1340.16,
+      "suggested": 1211.25,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 793.52,
+      "max": 1166.94,
+      "mean": 974.86,
+      "median": 980.15,
+      "suggested": 1021,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 641.55,
+      "max": 849.79,
+      "mean": 718.35,
+      "median": 663.72,
+      "suggested": 678.92,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Sport Gloves | Ultra Violent (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Sport Gloves | Ultra Violent (Minimal Wear)",
+      "price": {
+        "min": 2392.22,
+        "max": 3034.04,
+        "mean": 2611,
+        "median": 2406.74,
+        "suggested": 2389.18,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Sport Gloves | Ultra Violent (Field-Tested)",
+      "price": {
+        "min": 1050.24,
+        "max": 2100.71,
+        "mean": 1415.81,
+        "median": 1340.16,
+        "suggested": 1211.25,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Sport Gloves | Ultra Violent (Well-Worn)",
+      "price": {
+        "min": 793.52,
+        "max": 1166.94,
+        "mean": 974.86,
+        "median": 980.15,
+        "suggested": 1021,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Sport Gloves | Ultra Violent (Battle-Scarred)",
+      "price": {
+        "min": 641.55,
+        "max": 849.79,
+        "mean": 718.35,
+        "median": 663.72,
+        "suggested": 678.92,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Sport Gloves | Ultra Violent (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Sport Gloves | Ultra Violent (Minimal Wear)",
+        "price": {
+          "min": 2392.22,
+          "max": 3034.04,
+          "mean": 2611,
+          "median": 2406.74,
+          "suggested": 2389.18,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Sport Gloves | Ultra Violent (Field-Tested)",
+        "price": {
+          "min": 1050.24,
+          "max": 2100.71,
+          "mean": 1415.81,
+          "median": 1340.16,
+          "suggested": 1211.25,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Sport Gloves | Ultra Violent (Well-Worn)",
+        "price": {
+          "min": 793.52,
+          "max": 1166.94,
+          "mean": 974.86,
+          "median": 980.15,
+          "suggested": 1021,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Sport Gloves | Ultra Violent (Battle-Scarred)",
+        "price": {
+          "min": 641.55,
+          "max": 849.79,
+          "mean": 718.35,
+          "median": 663.72,
+          "suggested": 678.92,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:23.925Z"
+}

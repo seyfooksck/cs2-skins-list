@@ -1,0 +1,310 @@
+{
+  "id": "skin-fb7ae83c1e81",
+  "name": "MP9 | Broken Record",
+  "paint_index": "1341",
+  "weapon": {
+    "id": "weapon_mp9",
+    "weapon_id": 34,
+    "name": "MP9",
+    "slug": "mp9"
+  },
+  "pattern": {
+    "id": "mp9_vinyl",
+    "name": "Broken Record"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been custom painted to resemble a vinyl record, grooves and all.\\n\\n<i>Instant classic</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.14,
+      "max": 14.35,
+      "mean": 3.42,
+      "median": 1.75,
+      "suggested": 1.31,
+      "quantity": 25,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.27,
+      "max": 0.67,
+      "mean": 0.48,
+      "median": 0.49,
+      "suggested": 0.31,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.11,
+      "max": 0.33,
+      "mean": 0.15,
+      "median": 0.15,
+      "suggested": 0.14,
+      "quantity": 57,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.09,
+      "max": 0.15,
+      "mean": 0.11,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 31,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.08,
+      "max": 6.49,
+      "mean": 0.33,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 31,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP9 | Broken Record (Factory New)",
+      "price": {
+        "min": 1.14,
+        "max": 14.35,
+        "mean": 3.42,
+        "median": 1.75,
+        "suggested": 1.31,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP9 | Broken Record (Minimal Wear)",
+      "price": {
+        "min": 0.27,
+        "max": 0.67,
+        "mean": 0.48,
+        "median": 0.49,
+        "suggested": 0.31,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP9 | Broken Record (Field-Tested)",
+      "price": {
+        "min": 0.11,
+        "max": 0.33,
+        "mean": 0.15,
+        "median": 0.15,
+        "suggested": 0.14,
+        "quantity": 57,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP9 | Broken Record (Well-Worn)",
+      "price": {
+        "min": 0.09,
+        "max": 0.15,
+        "mean": 0.11,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 31,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP9 | Broken Record (Battle-Scarred)",
+      "price": {
+        "min": 0.08,
+        "max": 6.49,
+        "mean": 0.33,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 31,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP9 | Broken Record (Factory New)",
+        "price": {
+          "min": 1.14,
+          "max": 14.35,
+          "mean": 3.42,
+          "median": 1.75,
+          "suggested": 1.31,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP9 | Broken Record (Minimal Wear)",
+        "price": {
+          "min": 0.27,
+          "max": 0.67,
+          "mean": 0.48,
+          "median": 0.49,
+          "suggested": 0.31,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP9 | Broken Record (Field-Tested)",
+        "price": {
+          "min": 0.11,
+          "max": 0.33,
+          "mean": 0.15,
+          "median": 0.15,
+          "suggested": 0.14,
+          "quantity": 57,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP9 | Broken Record (Well-Worn)",
+        "price": {
+          "min": 0.09,
+          "max": 0.15,
+          "mean": 0.11,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP9 | Broken Record (Battle-Scarred)",
+        "price": {
+          "min": 0.08,
+          "max": 6.49,
+          "mean": 0.33,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MP9 | Broken Record (Factory New)",
+        "price": {
+          "min": 2.58,
+          "max": 92.77,
+          "mean": 20.22,
+          "median": 4.6,
+          "suggested": 2.17,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MP9 | Broken Record (Minimal Wear)",
+        "price": {
+          "min": 0.58,
+          "max": 1.82,
+          "mean": 1.35,
+          "median": 1.66,
+          "suggested": 0.66,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MP9 | Broken Record (Field-Tested)",
+        "price": {
+          "min": 0.26,
+          "max": 0.42,
+          "mean": 0.32,
+          "median": 0.3,
+          "suggested": 0.32,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MP9 | Broken Record (Well-Worn)",
+        "price": {
+          "min": 0.21,
+          "max": 1.75,
+          "mean": 0.53,
+          "median": 0.58,
+          "suggested": 0.27,
+          "quantity": 51,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MP9 | Broken Record (Battle-Scarred)",
+        "price": {
+          "min": 0.13,
+          "max": 0.25,
+          "mean": 0.21,
+          "median": 0.22,
+          "suggested": 0.16,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP9 | Broken Record (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP9 | Broken Record (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP9 | Broken Record (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP9 | Broken Record (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP9 | Broken Record (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:43.910Z"
+}

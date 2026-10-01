@@ -1,0 +1,193 @@
+{
+  "id": "skin-1a861a1ce86e",
+  "name": "Nova | Rain Station",
+  "paint_index": "1337",
+  "weapon": {
+    "id": "weapon_nova",
+    "weapon_id": 35,
+    "name": "Nova",
+    "slug": "nova"
+  },
+  "pattern": {
+    "id": "train_shapes_01",
+    "name": "Rain Station"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.35,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Nova's rock-bottom price tag makes it a great ambush weapon for a cash-strapped team. It has been painted with a pattern using different shades of blue.\\n\\n<i>The steady drizzle adds to the ambiance</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.41,
+      "max": 19.84,
+      "mean": 1.45,
+      "median": 1.1,
+      "suggested": 0.42,
+      "quantity": 1115,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.06,
+      "max": 6.53,
+      "mean": 0.6,
+      "median": 0.55,
+      "suggested": 0.08,
+      "quantity": 535,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.08,
+      "max": 3.91,
+      "mean": 0.92,
+      "median": 0.56,
+      "suggested": 0.05,
+      "quantity": 349,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Nova | Rain Station (Factory New)",
+      "price": {
+        "min": 0.41,
+        "max": 19.84,
+        "mean": 1.45,
+        "median": 1.1,
+        "suggested": 0.42,
+        "quantity": 1115,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Nova | Rain Station (Minimal Wear)",
+      "price": {
+        "min": 0.06,
+        "max": 6.53,
+        "mean": 0.6,
+        "median": 0.55,
+        "suggested": 0.08,
+        "quantity": 535,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Nova | Rain Station (Field-Tested)",
+      "price": {
+        "min": 0.08,
+        "max": 3.91,
+        "mean": 0.92,
+        "median": 0.56,
+        "suggested": 0.05,
+        "quantity": 349,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Nova | Rain Station (Factory New)",
+        "price": {
+          "min": 0.41,
+          "max": 19.84,
+          "mean": 1.45,
+          "median": 1.1,
+          "suggested": 0.42,
+          "quantity": 1115,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Nova | Rain Station (Minimal Wear)",
+        "price": {
+          "min": 0.06,
+          "max": 6.53,
+          "mean": 0.6,
+          "median": 0.55,
+          "suggested": 0.08,
+          "quantity": 535,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Nova | Rain Station (Field-Tested)",
+        "price": {
+          "min": 0.08,
+          "max": 3.91,
+          "mean": 0.92,
+          "median": 0.56,
+          "suggested": 0.05,
+          "quantity": 349,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Nova | Rain Station (Factory New)",
+        "price": {
+          "min": 0.42,
+          "max": 6.34,
+          "mean": 1.98,
+          "median": 0.79,
+          "suggested": 0.47,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Nova | Rain Station (Minimal Wear)",
+        "price": {
+          "min": 0.09,
+          "max": 17.85,
+          "mean": 1.17,
+          "median": 0.39,
+          "suggested": 0.1,
+          "quantity": 51,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Nova | Rain Station (Field-Tested)",
+        "price": {
+          "min": 0.07,
+          "max": 1.98,
+          "mean": 0.95,
+          "median": 0.3,
+          "suggested": 0.09,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.918Z"
+}

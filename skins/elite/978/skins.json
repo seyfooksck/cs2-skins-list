@@ -1,0 +1,310 @@
+{
+  "id": "skin-f6e2834cc427",
+  "name": "Dual Berettas | Dezastre",
+  "paint_index": "978",
+  "weapon": {
+    "id": "weapon_elite",
+    "weapon_id": 2,
+    "name": "Dual Berettas",
+    "slug": "elite"
+  },
+  "pattern": {
+    "id": "gs_dual_elites_dezastre",
+    "name": "Dezastre"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. It has been custom painted with a high tech black, white, and red design.\\n\\n<i>Always follow manufacturer guidelines for safe use</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 31.75,
+      "max": 93.35,
+      "mean": 50.87,
+      "median": 37.65,
+      "suggested": 24.86,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 11.34,
+      "max": 21.64,
+      "mean": 15.23,
+      "median": 15,
+      "suggested": 13.64,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 5.01,
+      "max": 248.56,
+      "mean": 47.89,
+      "median": 7.32,
+      "suggested": 5.75,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 3.63,
+      "max": 4.8,
+      "mean": 4,
+      "median": 4.04,
+      "suggested": 3.76,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 3,
+      "max": 12.49,
+      "mean": 4.19,
+      "median": 3.17,
+      "suggested": 3.42,
+      "quantity": 13,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Dual Berettas | Dezastre (Factory New)",
+      "price": {
+        "min": 31.75,
+        "max": 93.35,
+        "mean": 50.87,
+        "median": 37.65,
+        "suggested": 24.86,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Dual Berettas | Dezastre (Minimal Wear)",
+      "price": {
+        "min": 11.34,
+        "max": 21.64,
+        "mean": 15.23,
+        "median": 15,
+        "suggested": 13.64,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Dual Berettas | Dezastre (Field-Tested)",
+      "price": {
+        "min": 5.01,
+        "max": 248.56,
+        "mean": 47.89,
+        "median": 7.32,
+        "suggested": 5.75,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Dual Berettas | Dezastre (Well-Worn)",
+      "price": {
+        "min": 3.63,
+        "max": 4.8,
+        "mean": 4,
+        "median": 4.04,
+        "suggested": 3.76,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Dual Berettas | Dezastre (Battle-Scarred)",
+      "price": {
+        "min": 3,
+        "max": 12.49,
+        "mean": 4.19,
+        "median": 3.17,
+        "suggested": 3.42,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Dual Berettas | Dezastre (Factory New)",
+        "price": {
+          "min": 31.75,
+          "max": 93.35,
+          "mean": 50.87,
+          "median": 37.65,
+          "suggested": 24.86,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Dual Berettas | Dezastre (Minimal Wear)",
+        "price": {
+          "min": 11.34,
+          "max": 21.64,
+          "mean": 15.23,
+          "median": 15,
+          "suggested": 13.64,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Dual Berettas | Dezastre (Field-Tested)",
+        "price": {
+          "min": 5.01,
+          "max": 248.56,
+          "mean": 47.89,
+          "median": 7.32,
+          "suggested": 5.75,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Dual Berettas | Dezastre (Well-Worn)",
+        "price": {
+          "min": 3.63,
+          "max": 4.8,
+          "mean": 4,
+          "median": 4.04,
+          "suggested": 3.76,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Dual Berettas | Dezastre (Battle-Scarred)",
+        "price": {
+          "min": 3,
+          "max": 12.49,
+          "mean": 4.19,
+          "median": 3.17,
+          "suggested": 3.42,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Dual Berettas | Dezastre (Factory New)",
+        "price": {
+          "min": 40.84,
+          "max": 40.84,
+          "mean": 40.84,
+          "median": 40.84,
+          "suggested": 30.68,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Dual Berettas | Dezastre (Minimal Wear)",
+        "price": {
+          "min": 12.81,
+          "max": 17.5,
+          "mean": 15.25,
+          "median": 15.44,
+          "suggested": 14.91,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Dual Berettas | Dezastre (Field-Tested)",
+        "price": {
+          "min": 6.02,
+          "max": 9.84,
+          "mean": 8.19,
+          "median": 8.85,
+          "suggested": 6.9,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Dual Berettas | Dezastre (Well-Worn)",
+        "price": {
+          "min": 4.1,
+          "max": 7.04,
+          "mean": 5.18,
+          "median": 4.78,
+          "suggested": 4.77,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Dual Berettas | Dezastre (Battle-Scarred)",
+        "price": {
+          "min": 3.31,
+          "max": 4.54,
+          "mean": 3.83,
+          "median": 3.68,
+          "suggested": 3.87,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Dual Berettas | Dezastre (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Dual Berettas | Dezastre (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Dual Berettas | Dezastre (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Dual Berettas | Dezastre (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Dual Berettas | Dezastre (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:28.901Z"
+}

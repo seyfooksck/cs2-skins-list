@@ -1,0 +1,209 @@
+{
+  "id": "skin-26cdcb9587dd",
+  "name": "★ Karambit | Ultraviolet",
+  "paint_index": "98",
+  "weapon": {
+    "id": "weapon_knife_karambit",
+    "weapon_id": 507,
+    "name": "Karambit",
+    "slug": "knife_karambit"
+  },
+  "pattern": {
+    "id": "so_purple",
+    "name": "Ultraviolet"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat. The knife is typically used with a reverse grip, with the finger ring on the index finger. It has individual parts spray-painted solid colors in a black and purple color scheme.\\n\\n<i>Elegant design paired with brutal intent</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 703.66,
+      "max": 1400.32,
+      "mean": 948.08,
+      "median": 933.55,
+      "suggested": 776.65,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 535.61,
+      "max": 1091.6,
+      "mean": 725.83,
+      "median": 588.95,
+      "suggested": 608.48,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 570.11,
+      "max": 647.65,
+      "mean": 606.71,
+      "median": 602.38,
+      "suggested": 593.09,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Karambit | Ultraviolet (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Karambit | Ultraviolet (Minimal Wear)",
+      "price": {
+        "min": 703.66,
+        "max": 1400.32,
+        "mean": 948.08,
+        "median": 933.55,
+        "suggested": 776.65,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Karambit | Ultraviolet (Field-Tested)",
+      "price": {
+        "min": 535.61,
+        "max": 1091.6,
+        "mean": 725.83,
+        "median": 588.95,
+        "suggested": 608.48,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Karambit | Ultraviolet (Well-Worn)",
+      "price": {
+        "min": 570.11,
+        "max": 647.65,
+        "mean": 606.71,
+        "median": 602.38,
+        "suggested": 593.09,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Karambit | Ultraviolet (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Karambit | Ultraviolet (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Karambit | Ultraviolet (Minimal Wear)",
+        "price": {
+          "min": 703.66,
+          "max": 1400.32,
+          "mean": 948.08,
+          "median": 933.55,
+          "suggested": 776.65,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Karambit | Ultraviolet (Field-Tested)",
+        "price": {
+          "min": 535.61,
+          "max": 1091.6,
+          "mean": 725.83,
+          "median": 588.95,
+          "suggested": 608.48,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Karambit | Ultraviolet (Well-Worn)",
+        "price": {
+          "min": 570.11,
+          "max": 647.65,
+          "mean": 606.71,
+          "median": 602.38,
+          "suggested": 593.09,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Karambit | Ultraviolet (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Karambit | Ultraviolet (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Karambit | Ultraviolet (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Karambit | Ultraviolet (Field-Tested)",
+        "price": {
+          "min": 805.19,
+          "max": 805.19,
+          "mean": 805.19,
+          "median": 805.19,
+          "suggested": 617.63,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Karambit | Ultraviolet (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Karambit | Ultraviolet (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:36.059Z"
+}

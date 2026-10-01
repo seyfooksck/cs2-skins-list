@@ -1,0 +1,310 @@
+{
+  "id": "skin-038541568496",
+  "name": "MP9 | Nexus",
+  "paint_index": "1193",
+  "weapon": {
+    "id": "weapon_mp9",
+    "weapon_id": 34,
+    "name": "MP9",
+    "slug": "mp9"
+  },
+  "pattern": {
+    "id": "mp9_nexus",
+    "name": "Nexus"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been custom painted in silver, black, and blue with contemporary designs inlaid in the silver paint.\\n\\n<i>A personal, yet understated touch</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.16,
+      "max": 19.35,
+      "mean": 3.26,
+      "median": 2.98,
+      "suggested": 1.38,
+      "quantity": 104,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.21,
+      "max": 2.04,
+      "mean": 0.28,
+      "median": 0.26,
+      "suggested": 0.28,
+      "quantity": 400,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.07,
+      "max": 5.25,
+      "mean": 0.18,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 723,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.06,
+      "max": 4.67,
+      "mean": 0.16,
+      "median": 0.09,
+      "suggested": 0.09,
+      "quantity": 488,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.07,
+      "max": 4.67,
+      "mean": 0.15,
+      "median": 0.09,
+      "suggested": 0.09,
+      "quantity": 367,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP9 | Nexus (Factory New)",
+      "price": {
+        "min": 1.16,
+        "max": 19.35,
+        "mean": 3.26,
+        "median": 2.98,
+        "suggested": 1.38,
+        "quantity": 104,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP9 | Nexus (Minimal Wear)",
+      "price": {
+        "min": 0.21,
+        "max": 2.04,
+        "mean": 0.28,
+        "median": 0.26,
+        "suggested": 0.28,
+        "quantity": 400,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP9 | Nexus (Field-Tested)",
+      "price": {
+        "min": 0.07,
+        "max": 5.25,
+        "mean": 0.18,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 723,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP9 | Nexus (Well-Worn)",
+      "price": {
+        "min": 0.06,
+        "max": 4.67,
+        "mean": 0.16,
+        "median": 0.09,
+        "suggested": 0.09,
+        "quantity": 488,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP9 | Nexus (Battle-Scarred)",
+      "price": {
+        "min": 0.07,
+        "max": 4.67,
+        "mean": 0.15,
+        "median": 0.09,
+        "suggested": 0.09,
+        "quantity": 367,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP9 | Nexus (Factory New)",
+        "price": {
+          "min": 1.16,
+          "max": 19.35,
+          "mean": 3.26,
+          "median": 2.98,
+          "suggested": 1.38,
+          "quantity": 104,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP9 | Nexus (Minimal Wear)",
+        "price": {
+          "min": 0.21,
+          "max": 2.04,
+          "mean": 0.28,
+          "median": 0.26,
+          "suggested": 0.28,
+          "quantity": 400,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP9 | Nexus (Field-Tested)",
+        "price": {
+          "min": 0.07,
+          "max": 5.25,
+          "mean": 0.18,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 723,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP9 | Nexus (Well-Worn)",
+        "price": {
+          "min": 0.06,
+          "max": 4.67,
+          "mean": 0.16,
+          "median": 0.09,
+          "suggested": 0.09,
+          "quantity": 488,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP9 | Nexus (Battle-Scarred)",
+        "price": {
+          "min": 0.07,
+          "max": 4.67,
+          "mean": 0.15,
+          "median": 0.09,
+          "suggested": 0.09,
+          "quantity": 367,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MP9 | Nexus (Factory New)",
+        "price": {
+          "min": 1.83,
+          "max": 38.33,
+          "mean": 5.44,
+          "median": 3.49,
+          "suggested": 2.44,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MP9 | Nexus (Minimal Wear)",
+        "price": {
+          "min": 0.37,
+          "max": 12.43,
+          "mean": 0.68,
+          "median": 0.44,
+          "suggested": 0.44,
+          "quantity": 144,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MP9 | Nexus (Field-Tested)",
+        "price": {
+          "min": 0.09,
+          "max": 8.75,
+          "mean": 0.2,
+          "median": 0.15,
+          "suggested": 0.16,
+          "quantity": 272,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MP9 | Nexus (Well-Worn)",
+        "price": {
+          "min": 0.07,
+          "max": 5.83,
+          "mean": 0.14,
+          "median": 0.12,
+          "suggested": 0.1,
+          "quantity": 241,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MP9 | Nexus (Battle-Scarred)",
+        "price": {
+          "min": 0.07,
+          "max": 0.26,
+          "mean": 0.12,
+          "median": 0.12,
+          "suggested": 0.1,
+          "quantity": 185,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP9 | Nexus (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP9 | Nexus (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP9 | Nexus (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP9 | Nexus (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP9 | Nexus (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:43.873Z"
+}

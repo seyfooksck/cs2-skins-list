@@ -1,0 +1,238 @@
+{
+  "id": "skin-da401ae2ca2e",
+  "name": "P90 | Emerald Dragon",
+  "paint_index": "182",
+  "weapon": {
+    "id": "weapon_p90",
+    "weapon_id": 19,
+    "name": "P90",
+    "slug": "p90"
+  },
+  "pattern": {
+    "id": "cu_dragon_p90_bravo",
+    "name": "Emerald Dragon"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0.06,
+  "max_float": 0.52,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. This memento from Chinatown has been painted with a dragon motif.\\n\\n<i>Tradition can be dangerous</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 481.19,
+      "max": 714.75,
+      "mean": 566.97,
+      "median": 510.11,
+      "suggested": 580.18,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 126.41,
+      "max": 279.05,
+      "mean": 162.48,
+      "median": 155.03,
+      "suggested": 166.44,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 101.48,
+      "max": 140.02,
+      "mean": 128.5,
+      "median": 127.73,
+      "suggested": 144.61,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P90 | Emerald Dragon (Factory New)",
+      "price": {
+        "min": 481.19,
+        "max": 714.75,
+        "mean": 566.97,
+        "median": 510.11,
+        "suggested": 580.18,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P90 | Emerald Dragon (Minimal Wear)",
+      "price": {
+        "min": 126.41,
+        "max": 279.05,
+        "mean": 162.48,
+        "median": 155.03,
+        "suggested": 166.44,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P90 | Emerald Dragon (Field-Tested)",
+      "price": {
+        "min": 101.48,
+        "max": 140.02,
+        "mean": 128.5,
+        "median": 127.73,
+        "suggested": 144.61,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P90 | Emerald Dragon (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P90 | Emerald Dragon (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P90 | Emerald Dragon (Factory New)",
+        "price": {
+          "min": 481.19,
+          "max": 714.75,
+          "mean": 566.97,
+          "median": 510.11,
+          "suggested": 580.18,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P90 | Emerald Dragon (Minimal Wear)",
+        "price": {
+          "min": 126.41,
+          "max": 279.05,
+          "mean": 162.48,
+          "median": 155.03,
+          "suggested": 166.44,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P90 | Emerald Dragon (Field-Tested)",
+        "price": {
+          "min": 101.48,
+          "max": 140.02,
+          "mean": 128.5,
+          "median": 127.73,
+          "suggested": 144.61,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P90 | Emerald Dragon (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "P90 | Emerald Dragon (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P90 | Emerald Dragon (Factory New)",
+        "price": {
+          "min": 700.16,
+          "max": 700.16,
+          "mean": 700.16,
+          "median": 700.16,
+          "suggested": 740.36,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P90 | Emerald Dragon (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P90 | Emerald Dragon (Field-Tested)",
+        "price": {
+          "min": 210.15,
+          "max": 338.41,
+          "mean": 306.34,
+          "median": 338.4,
+          "suggested": 204.68,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ P90 | Emerald Dragon (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ P90 | Emerald Dragon (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P90 | Emerald Dragon (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P90 | Emerald Dragon (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P90 | Emerald Dragon (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P90 | Emerald Dragon (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P90 | Emerald Dragon (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:45.889Z"
+}

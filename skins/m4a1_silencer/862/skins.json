@@ -1,0 +1,233 @@
+{
+  "id": "skin-da38a63696ab",
+  "name": "M4A1-S | Moss Quartz",
+  "paint_index": "862",
+  "weapon": {
+    "id": "weapon_m4a1_silencer",
+    "weapon_id": 60,
+    "name": "M4A1-S",
+    "slug": "m4a1_silencer"
+  },
+  "pattern": {
+    "id": "am_crystallized_dark_green",
+    "name": "Moss Quartz"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. It has been painted with dark green metallic paint and uses a crystallizing mask to create a pattern.\\n\\n<i>Everyone wants to make an impact</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 107.36,
+      "max": 350.08,
+      "mean": 198.81,
+      "median": 188.66,
+      "suggested": 148.05,
+      "quantity": 76,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 43.06,
+      "max": 4396.44,
+      "mean": 218.89,
+      "median": 75.76,
+      "suggested": 58.2,
+      "quantity": 31,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 28.26,
+      "max": 81.32,
+      "mean": 50.74,
+      "median": 53.62,
+      "suggested": 32.4,
+      "quantity": 28,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 25.25,
+      "max": 140.03,
+      "mean": 82.64,
+      "median": 82.64,
+      "suggested": 30.13,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A1-S | Moss Quartz (Factory New)",
+      "price": {
+        "min": 107.36,
+        "max": 350.08,
+        "mean": 198.81,
+        "median": 188.66,
+        "suggested": 148.05,
+        "quantity": 76,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A1-S | Moss Quartz (Minimal Wear)",
+      "price": {
+        "min": 43.06,
+        "max": 4396.44,
+        "mean": 218.89,
+        "median": 75.76,
+        "suggested": 58.2,
+        "quantity": 31,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A1-S | Moss Quartz (Field-Tested)",
+      "price": {
+        "min": 28.26,
+        "max": 81.32,
+        "mean": 50.74,
+        "median": 53.62,
+        "suggested": 32.4,
+        "quantity": 28,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M4A1-S | Moss Quartz (Well-Worn)",
+      "price": {
+        "min": 25.25,
+        "max": 140.03,
+        "mean": 82.64,
+        "median": 82.64,
+        "suggested": 30.13,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M4A1-S | Moss Quartz (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A1-S | Moss Quartz (Factory New)",
+        "price": {
+          "min": 107.36,
+          "max": 350.08,
+          "mean": 198.81,
+          "median": 188.66,
+          "suggested": 148.05,
+          "quantity": 76,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A1-S | Moss Quartz (Minimal Wear)",
+        "price": {
+          "min": 43.06,
+          "max": 4396.44,
+          "mean": 218.89,
+          "median": 75.76,
+          "suggested": 58.2,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A1-S | Moss Quartz (Field-Tested)",
+        "price": {
+          "min": 28.26,
+          "max": 81.32,
+          "mean": 50.74,
+          "median": 53.62,
+          "suggested": 32.4,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M4A1-S | Moss Quartz (Well-Worn)",
+        "price": {
+          "min": 25.25,
+          "max": 140.03,
+          "mean": 82.64,
+          "median": 82.64,
+          "suggested": 30.13,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M4A1-S | Moss Quartz (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A1-S | Moss Quartz (Factory New)",
+        "price": {
+          "min": 193.9,
+          "max": 193.9,
+          "mean": 193.9,
+          "median": 193.9,
+          "suggested": 228.09,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A1-S | Moss Quartz (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A1-S | Moss Quartz (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M4A1-S | Moss Quartz (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M4A1-S | Moss Quartz (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:40.698Z"
+}

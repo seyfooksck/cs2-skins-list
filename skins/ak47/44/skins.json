@@ -1,0 +1,310 @@
+{
+  "id": "skin-5fd3ee42a6c4",
+  "name": "AK-47 | Case Hardened",
+  "paint_index": "44",
+  "weapon": {
+    "id": "weapon_ak47",
+    "weapon_id": 7,
+    "name": "AK-47",
+    "slug": "ak47"
+  },
+  "pattern": {
+    "id": "aq_oiled",
+    "name": "Case Hardened"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. It has been color case-hardened through the application of wood charcoal at high temperatures.\\n\\n<i>A little color never hurt anyone</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 413.1,
+      "max": 7169.01,
+      "mean": 1124.23,
+      "median": 855.75,
+      "suggested": 492.77,
+      "quantity": 24,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 289.39,
+      "max": 11381.58,
+      "mean": 728.71,
+      "median": 389.17,
+      "suggested": 364,
+      "quantity": 73,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 233.39,
+      "max": 5325.55,
+      "mean": 474.71,
+      "median": 317.99,
+      "suggested": 291.28,
+      "quantity": 58,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 225.65,
+      "max": 525.11,
+      "mean": 293.47,
+      "median": 277.46,
+      "suggested": 261.92,
+      "quantity": 30,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 215.88,
+      "max": 1036.24,
+      "mean": 447.87,
+      "median": 285.37,
+      "suggested": 240.85,
+      "quantity": 13,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AK-47 | Case Hardened (Factory New)",
+      "price": {
+        "min": 413.1,
+        "max": 7169.01,
+        "mean": 1124.23,
+        "median": 855.75,
+        "suggested": 492.77,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AK-47 | Case Hardened (Minimal Wear)",
+      "price": {
+        "min": 289.39,
+        "max": 11381.58,
+        "mean": 728.71,
+        "median": 389.17,
+        "suggested": 364,
+        "quantity": 73,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AK-47 | Case Hardened (Field-Tested)",
+      "price": {
+        "min": 233.39,
+        "max": 5325.55,
+        "mean": 474.71,
+        "median": 317.99,
+        "suggested": 291.28,
+        "quantity": 58,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AK-47 | Case Hardened (Well-Worn)",
+      "price": {
+        "min": 225.65,
+        "max": 525.11,
+        "mean": 293.47,
+        "median": 277.46,
+        "suggested": 261.92,
+        "quantity": 30,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AK-47 | Case Hardened (Battle-Scarred)",
+      "price": {
+        "min": 215.88,
+        "max": 1036.24,
+        "mean": 447.87,
+        "median": 285.37,
+        "suggested": 240.85,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AK-47 | Case Hardened (Factory New)",
+        "price": {
+          "min": 413.1,
+          "max": 7169.01,
+          "mean": 1124.23,
+          "median": 855.75,
+          "suggested": 492.77,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AK-47 | Case Hardened (Minimal Wear)",
+        "price": {
+          "min": 289.39,
+          "max": 11381.58,
+          "mean": 728.71,
+          "median": 389.17,
+          "suggested": 364,
+          "quantity": 73,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AK-47 | Case Hardened (Field-Tested)",
+        "price": {
+          "min": 233.39,
+          "max": 5325.55,
+          "mean": 474.71,
+          "median": 317.99,
+          "suggested": 291.28,
+          "quantity": 58,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AK-47 | Case Hardened (Well-Worn)",
+        "price": {
+          "min": 225.65,
+          "max": 525.11,
+          "mean": 293.47,
+          "median": 277.46,
+          "suggested": 261.92,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AK-47 | Case Hardened (Battle-Scarred)",
+        "price": {
+          "min": 215.88,
+          "max": 1036.24,
+          "mean": 447.87,
+          "median": 285.37,
+          "suggested": 240.85,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AK-47 | Case Hardened (Factory New)",
+        "price": {
+          "min": 951.87,
+          "max": 14025.13,
+          "mean": 3634.65,
+          "median": 1300.38,
+          "suggested": 1074.9,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AK-47 | Case Hardened (Minimal Wear)",
+        "price": {
+          "min": 610.13,
+          "max": 1400.32,
+          "mean": 851.42,
+          "median": 788.59,
+          "suggested": 735.1,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AK-47 | Case Hardened (Field-Tested)",
+        "price": {
+          "min": 458.64,
+          "max": 606.1,
+          "mean": 508.81,
+          "median": 495.9,
+          "suggested": 574.97,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AK-47 | Case Hardened (Well-Worn)",
+        "price": {
+          "min": 410.19,
+          "max": 1749.24,
+          "mean": 797.16,
+          "median": 571.8,
+          "suggested": 503.62,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ AK-47 | Case Hardened (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AK-47 | Case Hardened (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AK-47 | Case Hardened (Minimal Wear)",
+        "price": {
+          "min": 417.39,
+          "max": 417.39,
+          "mean": 417.39,
+          "median": 417.39,
+          "suggested": 489.81,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AK-47 | Case Hardened (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AK-47 | Case Hardened (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AK-47 | Case Hardened (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:20:20.407Z"
+}

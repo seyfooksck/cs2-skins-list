@@ -1,0 +1,302 @@
+{
+  "id": "skin-6649e8ef90bf",
+  "name": "CZ75-Auto | Twist",
+  "paint_index": "334",
+  "weapon": {
+    "id": "weapon_cz75a",
+    "weapon_id": 63,
+    "name": "CZ75-Auto",
+    "slug": "cz75a"
+  },
+  "pattern": {
+    "id": "am_gyrate",
+    "name": "Twist"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fully automatic variant of the CZ75, the CZ75-Auto is the ideal short-term choice for turning the tables and gaining your opponents weapon. But with very little ammo in the magazine, strong trigger discipline is required. It has been painted with a spiral design leaving the handle white.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 5.37,
+      "max": 46.67,
+      "mean": 19.45,
+      "median": 19.67,
+      "suggested": 6.62,
+      "quantity": 13,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.14,
+      "max": 18.61,
+      "mean": 4.39,
+      "median": 2.99,
+      "suggested": 1.88,
+      "quantity": 31,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.96,
+      "max": 40.71,
+      "mean": 3.15,
+      "median": 1.89,
+      "suggested": 1.2,
+      "quantity": 87,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.91,
+      "max": 7.99,
+      "mean": 2,
+      "median": 1.44,
+      "suggested": 1.04,
+      "quantity": 47,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.98,
+      "max": 112.61,
+      "mean": 6.38,
+      "median": 2.07,
+      "suggested": 1.19,
+      "quantity": 29,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "CZ75-Auto | Twist (Factory New)",
+      "price": {
+        "min": 5.37,
+        "max": 46.67,
+        "mean": 19.45,
+        "median": 19.67,
+        "suggested": 6.62,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "CZ75-Auto | Twist (Minimal Wear)",
+      "price": {
+        "min": 2.14,
+        "max": 18.61,
+        "mean": 4.39,
+        "median": 2.99,
+        "suggested": 1.88,
+        "quantity": 31,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "CZ75-Auto | Twist (Field-Tested)",
+      "price": {
+        "min": 0.96,
+        "max": 40.71,
+        "mean": 3.15,
+        "median": 1.89,
+        "suggested": 1.2,
+        "quantity": 87,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "CZ75-Auto | Twist (Well-Worn)",
+      "price": {
+        "min": 0.91,
+        "max": 7.99,
+        "mean": 2,
+        "median": 1.44,
+        "suggested": 1.04,
+        "quantity": 47,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "CZ75-Auto | Twist (Battle-Scarred)",
+      "price": {
+        "min": 0.98,
+        "max": 112.61,
+        "mean": 6.38,
+        "median": 2.07,
+        "suggested": 1.19,
+        "quantity": 29,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "CZ75-Auto | Twist (Factory New)",
+        "price": {
+          "min": 5.37,
+          "max": 46.67,
+          "mean": 19.45,
+          "median": 19.67,
+          "suggested": 6.62,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "CZ75-Auto | Twist (Minimal Wear)",
+        "price": {
+          "min": 2.14,
+          "max": 18.61,
+          "mean": 4.39,
+          "median": 2.99,
+          "suggested": 1.88,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "CZ75-Auto | Twist (Field-Tested)",
+        "price": {
+          "min": 0.96,
+          "max": 40.71,
+          "mean": 3.15,
+          "median": 1.89,
+          "suggested": 1.2,
+          "quantity": 87,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "CZ75-Auto | Twist (Well-Worn)",
+        "price": {
+          "min": 0.91,
+          "max": 7.99,
+          "mean": 2,
+          "median": 1.44,
+          "suggested": 1.04,
+          "quantity": 47,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "CZ75-Auto | Twist (Battle-Scarred)",
+        "price": {
+          "min": 0.98,
+          "max": 112.61,
+          "mean": 6.38,
+          "median": 2.07,
+          "suggested": 1.19,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Twist (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Twist (Minimal Wear)",
+        "price": {
+          "min": 1.61,
+          "max": 136.36,
+          "mean": 8.33,
+          "median": 4.98,
+          "suggested": 1.91,
+          "quantity": 38,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Twist (Field-Tested)",
+        "price": {
+          "min": 1.09,
+          "max": 134.08,
+          "mean": 8.92,
+          "median": 1.59,
+          "suggested": 1.27,
+          "quantity": 38,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Twist (Well-Worn)",
+        "price": {
+          "min": 0.9,
+          "max": 15.05,
+          "mean": 4.04,
+          "median": 2.38,
+          "suggested": 1.04,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Twist (Battle-Scarred)",
+        "price": {
+          "min": 1.11,
+          "max": 29.17,
+          "mean": 4.42,
+          "median": 1.55,
+          "suggested": 1.08,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir CZ75-Auto | Twist (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir CZ75-Auto | Twist (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir CZ75-Auto | Twist (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir CZ75-Auto | Twist (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir CZ75-Auto | Twist (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:27.475Z"
+}

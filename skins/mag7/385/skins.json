@@ -1,0 +1,310 @@
+{
+  "id": "skin-1e54f68f29a6",
+  "name": "MAG-7 | Firestarter",
+  "paint_index": "385",
+  "weapon": {
+    "id": "weapon_mag7",
+    "weapon_id": 27,
+    "name": "MAG-7",
+    "slug": "mag7"
+  },
+  "pattern": {
+    "id": "sp_mag7_firebitten",
+    "name": "Firestarter"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0.06,
+  "max_float": 0.49,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The CT-exclusive Mag-7 delivers a devastating amount of damage at close range. Its rapid magazine-style reloads make it a great tactical choice. It has been spray-painted in layers then distressed to give the appearance of burning edges.\\n\\n<i>It always begins with a tiny spark</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 10.04,
+      "max": 126.24,
+      "mean": 42.65,
+      "median": 21.58,
+      "suggested": 11.68,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 4.34,
+      "max": 27,
+      "mean": 6.92,
+      "median": 5.94,
+      "suggested": 5.32,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.84,
+      "max": 3.27,
+      "mean": 1.33,
+      "median": 1.25,
+      "suggested": 1.31,
+      "quantity": 41,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.83,
+      "max": 1.18,
+      "mean": 1.02,
+      "median": 1.02,
+      "suggested": 1.26,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.85,
+      "max": 31.39,
+      "mean": 7.11,
+      "median": 1.07,
+      "suggested": 1.04,
+      "quantity": 5,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAG-7 | Firestarter (Factory New)",
+      "price": {
+        "min": 10.04,
+        "max": 126.24,
+        "mean": 42.65,
+        "median": 21.58,
+        "suggested": 11.68,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAG-7 | Firestarter (Minimal Wear)",
+      "price": {
+        "min": 4.34,
+        "max": 27,
+        "mean": 6.92,
+        "median": 5.94,
+        "suggested": 5.32,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAG-7 | Firestarter (Field-Tested)",
+      "price": {
+        "min": 0.84,
+        "max": 3.27,
+        "mean": 1.33,
+        "median": 1.25,
+        "suggested": 1.31,
+        "quantity": 41,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAG-7 | Firestarter (Well-Worn)",
+      "price": {
+        "min": 0.83,
+        "max": 1.18,
+        "mean": 1.02,
+        "median": 1.02,
+        "suggested": 1.26,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAG-7 | Firestarter (Battle-Scarred)",
+      "price": {
+        "min": 0.85,
+        "max": 31.39,
+        "mean": 7.11,
+        "median": 1.07,
+        "suggested": 1.04,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAG-7 | Firestarter (Factory New)",
+        "price": {
+          "min": 10.04,
+          "max": 126.24,
+          "mean": 42.65,
+          "median": 21.58,
+          "suggested": 11.68,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAG-7 | Firestarter (Minimal Wear)",
+        "price": {
+          "min": 4.34,
+          "max": 27,
+          "mean": 6.92,
+          "median": 5.94,
+          "suggested": 5.32,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAG-7 | Firestarter (Field-Tested)",
+        "price": {
+          "min": 0.84,
+          "max": 3.27,
+          "mean": 1.33,
+          "median": 1.25,
+          "suggested": 1.31,
+          "quantity": 41,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAG-7 | Firestarter (Well-Worn)",
+        "price": {
+          "min": 0.83,
+          "max": 1.18,
+          "mean": 1.02,
+          "median": 1.02,
+          "suggested": 1.26,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MAG-7 | Firestarter (Battle-Scarred)",
+        "price": {
+          "min": 0.85,
+          "max": 31.39,
+          "mean": 7.11,
+          "median": 1.07,
+          "suggested": 1.04,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MAG-7 | Firestarter (Factory New)",
+        "price": {
+          "min": 35,
+          "max": 42.88,
+          "mean": 38.94,
+          "median": 38.94,
+          "suggested": 20.86,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MAG-7 | Firestarter (Minimal Wear)",
+        "price": {
+          "min": 2.38,
+          "max": 6.08,
+          "mean": 3.71,
+          "median": 3.33,
+          "suggested": 2.91,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MAG-7 | Firestarter (Field-Tested)",
+        "price": {
+          "min": 1.24,
+          "max": 4.67,
+          "mean": 1.98,
+          "median": 1.52,
+          "suggested": 1.56,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MAG-7 | Firestarter (Well-Worn)",
+        "price": {
+          "min": 68.42,
+          "max": 87.4,
+          "mean": 77.92,
+          "median": 77.92,
+          "suggested": 1.84,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MAG-7 | Firestarter (Battle-Scarred)",
+        "price": {
+          "min": 1.35,
+          "max": 73.74,
+          "mean": 22.35,
+          "median": 7.14,
+          "suggested": 1.95,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAG-7 | Firestarter (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAG-7 | Firestarter (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAG-7 | Firestarter (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAG-7 | Firestarter (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAG-7 | Firestarter (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.609Z"
+}

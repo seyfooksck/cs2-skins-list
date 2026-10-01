@@ -1,0 +1,302 @@
+{
+  "id": "skin-ee1ab67b6434",
+  "name": "AK-47 | Wasteland Rebel",
+  "paint_index": "380",
+  "weapon": {
+    "id": "weapon_ak47",
+    "weapon_id": 7,
+    "name": "AK-47",
+    "slug": "ak47"
+  },
+  "pattern": {
+    "id": "cu_tribute_ak47",
+    "name": "Wasteland Rebel"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.05,
+  "max_float": 0.7,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. It has been distressed, block printed, and painted with graffiti.\\n\\n<i>One day they will ask why we fight, and when they do they will understand - Naomi, Bodyguard to Valeria Jenner</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 503.25,
+      "max": 631.95,
+      "mean": 554.23,
+      "median": 540.84,
+      "suggested": 454.49,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 94.51,
+      "max": 1166.94,
+      "mean": 176.79,
+      "median": 130.15,
+      "suggested": 121.17,
+      "quantity": 26,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 75.85,
+      "max": 216.41,
+      "mean": 96.89,
+      "median": 84.81,
+      "suggested": 96.64,
+      "quantity": 73,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 82.7,
+      "max": 87.52,
+      "mean": 85.12,
+      "median": 85.12,
+      "suggested": 95.27,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 75.76,
+      "max": 87.21,
+      "mean": 82.08,
+      "median": 82.68,
+      "suggested": 88.35,
+      "quantity": 4,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AK-47 | Wasteland Rebel (Factory New)",
+      "price": {
+        "min": 503.25,
+        "max": 631.95,
+        "mean": 554.23,
+        "median": 540.84,
+        "suggested": 454.49,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AK-47 | Wasteland Rebel (Minimal Wear)",
+      "price": {
+        "min": 94.51,
+        "max": 1166.94,
+        "mean": 176.79,
+        "median": 130.15,
+        "suggested": 121.17,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AK-47 | Wasteland Rebel (Field-Tested)",
+      "price": {
+        "min": 75.85,
+        "max": 216.41,
+        "mean": 96.89,
+        "median": 84.81,
+        "suggested": 96.64,
+        "quantity": 73,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AK-47 | Wasteland Rebel (Well-Worn)",
+      "price": {
+        "min": 82.7,
+        "max": 87.52,
+        "mean": 85.12,
+        "median": 85.12,
+        "suggested": 95.27,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AK-47 | Wasteland Rebel (Battle-Scarred)",
+      "price": {
+        "min": 75.76,
+        "max": 87.21,
+        "mean": 82.08,
+        "median": 82.68,
+        "suggested": 88.35,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AK-47 | Wasteland Rebel (Factory New)",
+        "price": {
+          "min": 503.25,
+          "max": 631.95,
+          "mean": 554.23,
+          "median": 540.84,
+          "suggested": 454.49,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AK-47 | Wasteland Rebel (Minimal Wear)",
+        "price": {
+          "min": 94.51,
+          "max": 1166.94,
+          "mean": 176.79,
+          "median": 130.15,
+          "suggested": 121.17,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AK-47 | Wasteland Rebel (Field-Tested)",
+        "price": {
+          "min": 75.85,
+          "max": 216.41,
+          "mean": 96.89,
+          "median": 84.81,
+          "suggested": 96.64,
+          "quantity": 73,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AK-47 | Wasteland Rebel (Well-Worn)",
+        "price": {
+          "min": 82.7,
+          "max": 87.52,
+          "mean": 85.12,
+          "median": 85.12,
+          "suggested": 95.27,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AK-47 | Wasteland Rebel (Battle-Scarred)",
+        "price": {
+          "min": 75.76,
+          "max": 87.21,
+          "mean": 82.08,
+          "median": 82.68,
+          "suggested": 88.35,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AK-47 | Wasteland Rebel (Factory New)",
+        "price": {
+          "min": 1522.47,
+          "max": 1522.47,
+          "mean": 1522.47,
+          "median": 1522.47,
+          "suggested": 1822.87,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AK-47 | Wasteland Rebel (Minimal Wear)",
+        "price": {
+          "min": 201.16,
+          "max": 453.94,
+          "mean": 266.72,
+          "median": 240.95,
+          "suggested": 244.47,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AK-47 | Wasteland Rebel (Field-Tested)",
+        "price": {
+          "min": 110.86,
+          "max": 231.05,
+          "mean": 147.48,
+          "median": 135.35,
+          "suggested": 142.23,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AK-47 | Wasteland Rebel (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ AK-47 | Wasteland Rebel (Battle-Scarred)",
+        "price": {
+          "min": 104.95,
+          "max": 104.95,
+          "mean": 104.95,
+          "median": 104.95,
+          "suggested": 120.99,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AK-47 | Wasteland Rebel (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AK-47 | Wasteland Rebel (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AK-47 | Wasteland Rebel (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AK-47 | Wasteland Rebel (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AK-47 | Wasteland Rebel (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:20:20.761Z"
+}

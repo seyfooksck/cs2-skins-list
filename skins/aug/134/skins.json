@@ -1,0 +1,281 @@
+{
+  "id": "skin-0e56be318449",
+  "name": "AUG | Eye of Zapems",
+  "paint_index": "134",
+  "weapon": {
+    "id": "weapon_aug",
+    "weapon_id": 8,
+    "name": "AUG",
+    "slug": "aug"
+  },
+  "pattern": {
+    "id": "cu_overpass_graf_aug",
+    "name": "Eye of Zapems"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.85,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire. It has been painted with custom graffiti from Zapems, the infamous street graffiti artist from Overpass.\\n\\n<i>\\\"Check the cameras, we need to find who's doing this\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 11.07,
+      "max": 233.39,
+      "mean": 42.49,
+      "median": 32.86,
+      "suggested": 15.5,
+      "quantity": 116,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 4.56,
+      "max": 261.64,
+      "mean": 15.39,
+      "median": 8.81,
+      "suggested": 6.15,
+      "quantity": 121,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.16,
+      "max": 31.76,
+      "mean": 5.6,
+      "median": 2.94,
+      "suggested": 2.99,
+      "quantity": 230,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 2.38,
+      "max": 18.67,
+      "mean": 5.55,
+      "median": 3.76,
+      "suggested": 2.8,
+      "quantity": 21,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.72,
+      "max": 11.67,
+      "mean": 3.85,
+      "median": 2.42,
+      "suggested": 2.21,
+      "quantity": 46,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AUG | Eye of Zapems (Factory New)",
+      "price": {
+        "min": 11.07,
+        "max": 233.39,
+        "mean": 42.49,
+        "median": 32.86,
+        "suggested": 15.5,
+        "quantity": 116,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AUG | Eye of Zapems (Minimal Wear)",
+      "price": {
+        "min": 4.56,
+        "max": 261.64,
+        "mean": 15.39,
+        "median": 8.81,
+        "suggested": 6.15,
+        "quantity": 121,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AUG | Eye of Zapems (Field-Tested)",
+      "price": {
+        "min": 2.16,
+        "max": 31.76,
+        "mean": 5.6,
+        "median": 2.94,
+        "suggested": 2.99,
+        "quantity": 230,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AUG | Eye of Zapems (Well-Worn)",
+      "price": {
+        "min": 2.38,
+        "max": 18.67,
+        "mean": 5.55,
+        "median": 3.76,
+        "suggested": 2.8,
+        "quantity": 21,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AUG | Eye of Zapems (Battle-Scarred)",
+      "price": {
+        "min": 1.72,
+        "max": 11.67,
+        "mean": 3.85,
+        "median": 2.42,
+        "suggested": 2.21,
+        "quantity": 46,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AUG | Eye of Zapems (Factory New)",
+        "price": {
+          "min": 11.07,
+          "max": 233.39,
+          "mean": 42.49,
+          "median": 32.86,
+          "suggested": 15.5,
+          "quantity": 116,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AUG | Eye of Zapems (Minimal Wear)",
+        "price": {
+          "min": 4.56,
+          "max": 261.64,
+          "mean": 15.39,
+          "median": 8.81,
+          "suggested": 6.15,
+          "quantity": 121,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AUG | Eye of Zapems (Field-Tested)",
+        "price": {
+          "min": 2.16,
+          "max": 31.76,
+          "mean": 5.6,
+          "median": 2.94,
+          "suggested": 2.99,
+          "quantity": 230,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AUG | Eye of Zapems (Well-Worn)",
+        "price": {
+          "min": 2.38,
+          "max": 18.67,
+          "mean": 5.55,
+          "median": 3.76,
+          "suggested": 2.8,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AUG | Eye of Zapems (Battle-Scarred)",
+        "price": {
+          "min": 1.72,
+          "max": 11.67,
+          "mean": 3.85,
+          "median": 2.42,
+          "suggested": 2.21,
+          "quantity": 46,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AUG | Eye of Zapems (Factory New)",
+        "price": {
+          "min": 37.87,
+          "max": 97.21,
+          "mean": 57.54,
+          "median": 47.54,
+          "suggested": 29.69,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AUG | Eye of Zapems (Minimal Wear)",
+        "price": {
+          "min": 8.2,
+          "max": 19.45,
+          "mean": 14.19,
+          "median": 13.31,
+          "suggested": 8.56,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AUG | Eye of Zapems (Field-Tested)",
+        "price": {
+          "min": 3.23,
+          "max": 16.92,
+          "mean": 5.92,
+          "median": 4.6,
+          "suggested": 3.93,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AUG | Eye of Zapems (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AUG | Eye of Zapems (Battle-Scarred)",
+        "price": {
+          "min": 3.5,
+          "max": 9.93,
+          "mean": 4.78,
+          "median": 3.72,
+          "suggested": 3.89,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.435Z"
+}

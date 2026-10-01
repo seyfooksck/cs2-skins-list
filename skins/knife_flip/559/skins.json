@@ -1,0 +1,257 @@
+{
+  "id": "skin-eaed0ca35456",
+  "name": "★ Flip Knife | Lore",
+  "paint_index": "559",
+  "weapon": {
+    "id": "weapon_knife_flip",
+    "weapon_id": 505,
+    "name": "Flip Knife",
+    "slug": "knife_flip"
+  },
+  "pattern": {
+    "id": "cu_flip_lore",
+    "name": "Lore"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.65,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Flip knives sport a Persian-style back-swept blade with an acute point.  While the point itself may be fragile, the overall design of the flip knife's design is surprisingly durable. It has been custom painted with knotwork.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 272.28,
+      "max": 691.29,
+      "mean": 351.68,
+      "median": 309.23,
+      "suggested": 382.08,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 225.9,
+      "max": 524.82,
+      "mean": 273.39,
+      "median": 253.09,
+      "suggested": 287.35,
+      "quantity": 16,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 185.96,
+      "max": 466.77,
+      "mean": 219.14,
+      "median": 202.57,
+      "suggested": 217.91,
+      "quantity": 16,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 168.2,
+      "max": 168.2,
+      "mean": 168.2,
+      "median": 168.2,
+      "suggested": 196.28,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Flip Knife | Lore (Factory New)",
+      "price": {
+        "min": 272.28,
+        "max": 691.29,
+        "mean": 351.68,
+        "median": 309.23,
+        "suggested": 382.08,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Flip Knife | Lore (Minimal Wear)",
+      "price": {
+        "min": 225.9,
+        "max": 524.82,
+        "mean": 273.39,
+        "median": 253.09,
+        "suggested": 287.35,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Flip Knife | Lore (Field-Tested)",
+      "price": {
+        "min": 185.96,
+        "max": 466.77,
+        "mean": 219.14,
+        "median": 202.57,
+        "suggested": 217.91,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Flip Knife | Lore (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Flip Knife | Lore (Battle-Scarred)",
+      "price": {
+        "min": 168.2,
+        "max": 168.2,
+        "mean": 168.2,
+        "median": 168.2,
+        "suggested": 196.28,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Flip Knife | Lore (Factory New)",
+        "price": {
+          "min": 272.28,
+          "max": 691.29,
+          "mean": 351.68,
+          "median": 309.23,
+          "suggested": 382.08,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Flip Knife | Lore (Minimal Wear)",
+        "price": {
+          "min": 225.9,
+          "max": 524.82,
+          "mean": 273.39,
+          "median": 253.09,
+          "suggested": 287.35,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Flip Knife | Lore (Field-Tested)",
+        "price": {
+          "min": 185.96,
+          "max": 466.77,
+          "mean": 219.14,
+          "median": 202.57,
+          "suggested": 217.91,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Flip Knife | Lore (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ Flip Knife | Lore (Battle-Scarred)",
+        "price": {
+          "min": 168.2,
+          "max": 168.2,
+          "mean": 168.2,
+          "median": 168.2,
+          "suggested": 196.28,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Lore (Factory New)",
+        "price": {
+          "min": 539.76,
+          "max": 539.76,
+          "mean": 539.76,
+          "median": 539.76,
+          "suggested": 448.07,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Lore (Minimal Wear)",
+        "price": {
+          "min": 256.01,
+          "max": 275.95,
+          "mean": 265.98,
+          "median": 265.98,
+          "suggested": 336.88,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Lore (Field-Tested)",
+        "price": {
+          "min": 194.48,
+          "max": 430.14,
+          "mean": 312.32,
+          "median": 312.32,
+          "suggested": 247.42,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Lore (Well-Worn)",
+        "price": {
+          "min": 256.04,
+          "max": 256.04,
+          "mean": 256.04,
+          "median": 256.04,
+          "suggested": 234.41,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Lore (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:34.745Z"
+}

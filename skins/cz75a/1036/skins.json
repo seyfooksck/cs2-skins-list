@@ -1,0 +1,310 @@
+{
+  "id": "skin-feea98c5ab41",
+  "name": "CZ75-Auto | Circaetus",
+  "paint_index": "1036",
+  "weapon": {
+    "id": "weapon_cz75a",
+    "weapon_id": 63,
+    "name": "CZ75-Auto",
+    "slug": "cz75a"
+  },
+  "pattern": {
+    "id": "cu_cz75_whirlwind",
+    "name": "Circaetus"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.9,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fully automatic variant of the CZ75, the CZ75-Auto is the ideal short-term choice for turning the tables and gaining your opponents weapon. But with very little ammo in the magazine, strong trigger discipline is required. A bird of prey carrying a snake has been custom painted on this CZ75.\\n\\n<i>A snake eater, minus the catchy theme song</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.97,
+      "max": 251.94,
+      "mean": 14.38,
+      "median": 5.61,
+      "suggested": 2.94,
+      "quantity": 34,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.3,
+      "max": 7.81,
+      "mean": 0.56,
+      "median": 0.4,
+      "suggested": 0.42,
+      "quantity": 206,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.19,
+      "max": 11.66,
+      "mean": 0.41,
+      "median": 0.3,
+      "suggested": 0.28,
+      "quantity": 554,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.18,
+      "max": 5.25,
+      "mean": 0.34,
+      "median": 0.26,
+      "suggested": 0.28,
+      "quantity": 119,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.18,
+      "max": 6.3,
+      "mean": 0.46,
+      "median": 0.25,
+      "suggested": 0.27,
+      "quantity": 167,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "CZ75-Auto | Circaetus (Factory New)",
+      "price": {
+        "min": 1.97,
+        "max": 251.94,
+        "mean": 14.38,
+        "median": 5.61,
+        "suggested": 2.94,
+        "quantity": 34,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "CZ75-Auto | Circaetus (Minimal Wear)",
+      "price": {
+        "min": 0.3,
+        "max": 7.81,
+        "mean": 0.56,
+        "median": 0.4,
+        "suggested": 0.42,
+        "quantity": 206,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "CZ75-Auto | Circaetus (Field-Tested)",
+      "price": {
+        "min": 0.19,
+        "max": 11.66,
+        "mean": 0.41,
+        "median": 0.3,
+        "suggested": 0.28,
+        "quantity": 554,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "CZ75-Auto | Circaetus (Well-Worn)",
+      "price": {
+        "min": 0.18,
+        "max": 5.25,
+        "mean": 0.34,
+        "median": 0.26,
+        "suggested": 0.28,
+        "quantity": 119,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "CZ75-Auto | Circaetus (Battle-Scarred)",
+      "price": {
+        "min": 0.18,
+        "max": 6.3,
+        "mean": 0.46,
+        "median": 0.25,
+        "suggested": 0.27,
+        "quantity": 167,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "CZ75-Auto | Circaetus (Factory New)",
+        "price": {
+          "min": 1.97,
+          "max": 251.94,
+          "mean": 14.38,
+          "median": 5.61,
+          "suggested": 2.94,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "CZ75-Auto | Circaetus (Minimal Wear)",
+        "price": {
+          "min": 0.3,
+          "max": 7.81,
+          "mean": 0.56,
+          "median": 0.4,
+          "suggested": 0.42,
+          "quantity": 206,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "CZ75-Auto | Circaetus (Field-Tested)",
+        "price": {
+          "min": 0.19,
+          "max": 11.66,
+          "mean": 0.41,
+          "median": 0.3,
+          "suggested": 0.28,
+          "quantity": 554,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "CZ75-Auto | Circaetus (Well-Worn)",
+        "price": {
+          "min": 0.18,
+          "max": 5.25,
+          "mean": 0.34,
+          "median": 0.26,
+          "suggested": 0.28,
+          "quantity": 119,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "CZ75-Auto | Circaetus (Battle-Scarred)",
+        "price": {
+          "min": 0.18,
+          "max": 6.3,
+          "mean": 0.46,
+          "median": 0.25,
+          "suggested": 0.27,
+          "quantity": 167,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Circaetus (Factory New)",
+        "price": {
+          "min": 2.67,
+          "max": 22.36,
+          "mean": 5.03,
+          "median": 4.01,
+          "suggested": 3.15,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Circaetus (Minimal Wear)",
+        "price": {
+          "min": 0.74,
+          "max": 2.47,
+          "mean": 0.97,
+          "median": 0.9,
+          "suggested": 1.05,
+          "quantity": 58,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Circaetus (Field-Tested)",
+        "price": {
+          "min": 0.34,
+          "max": 4.32,
+          "mean": 0.54,
+          "median": 0.48,
+          "suggested": 0.51,
+          "quantity": 125,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Circaetus (Well-Worn)",
+        "price": {
+          "min": 0.36,
+          "max": 2.33,
+          "mean": 0.55,
+          "median": 0.43,
+          "suggested": 0.44,
+          "quantity": 86,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Circaetus (Battle-Scarred)",
+        "price": {
+          "min": 0.3,
+          "max": 10.82,
+          "mean": 0.68,
+          "median": 0.42,
+          "suggested": 0.4,
+          "quantity": 68,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir CZ75-Auto | Circaetus (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir CZ75-Auto | Circaetus (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir CZ75-Auto | Circaetus (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir CZ75-Auto | Circaetus (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir CZ75-Auto | Circaetus (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:27.648Z"
+}

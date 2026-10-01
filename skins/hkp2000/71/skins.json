@@ -1,0 +1,105 @@
+{
+  "id": "skin-6d947a849473",
+  "name": "P2000 | Scorpion",
+  "paint_index": "71",
+  "weapon": {
+    "id": "weapon_hkp2000",
+    "weapon_id": 32,
+    "name": "P2000",
+    "slug": "hkp2000"
+  },
+  "pattern": {
+    "id": "am_scorpion_p2000",
+    "name": "Scorpion"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Accurate and controllable, the German-made P2000 is a serviceable first-round pistol that works best against unarmored opponents. It has been painted using anodized-effect paints in a rippled fade pattern with a red scorpion decal on the grip.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 103.86,
+      "max": 580.69,
+      "mean": 166.42,
+      "median": 163.37,
+      "suggested": 146.14,
+      "quantity": 48,
+      "currency": "USD"
+    },
+    "mw": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P2000 | Scorpion (Factory New)",
+      "price": {
+        "min": 103.86,
+        "max": 580.69,
+        "mean": 166.42,
+        "median": 163.37,
+        "suggested": 146.14,
+        "quantity": 48,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P2000 | Scorpion (Minimal Wear)",
+      "price": null,
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P2000 | Scorpion (Factory New)",
+        "price": {
+          "min": 103.86,
+          "max": 580.69,
+          "mean": 166.42,
+          "median": 163.37,
+          "suggested": 146.14,
+          "quantity": 48,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P2000 | Scorpion (Minimal Wear)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P2000 | Scorpion (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P2000 | Scorpion (Minimal Wear)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:32.389Z"
+}

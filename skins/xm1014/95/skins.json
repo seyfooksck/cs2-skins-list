@@ -1,0 +1,225 @@
+{
+  "id": "skin-71febc1239fb",
+  "name": "XM1014 | Grassland",
+  "paint_index": "95",
+  "weapon": {
+    "id": "weapon_xm1014",
+    "weapon_id": 25,
+    "name": "XM1014",
+    "slug": "xm1014"
+  },
+  "pattern": {
+    "id": "so_grassland",
+    "name": "Grassland"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The XM1014 is a powerful fully automatic shotgun that justifies its heftier price tag with the ability to paint a room with lead fast. It has individual parts spray-painted solid colors in a grassland color scheme.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 7.16,
+      "max": 244.78,
+      "mean": 77.57,
+      "median": 29.16,
+      "suggested": 5.8,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 3,
+      "max": 23.33,
+      "mean": 9.42,
+      "median": 7.55,
+      "suggested": 3.53,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 4.35,
+      "max": 4.35,
+      "mean": 4.35,
+      "median": 4.35,
+      "suggested": 3.9,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 7.99,
+      "max": 7.99,
+      "mean": 7.99,
+      "median": 7.99,
+      "suggested": 2.69,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "XM1014 | Grassland (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "XM1014 | Grassland (Minimal Wear)",
+      "price": {
+        "min": 7.16,
+        "max": 244.78,
+        "mean": 77.57,
+        "median": 29.16,
+        "suggested": 5.8,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "XM1014 | Grassland (Field-Tested)",
+      "price": {
+        "min": 3,
+        "max": 23.33,
+        "mean": 9.42,
+        "median": 7.55,
+        "suggested": 3.53,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "XM1014 | Grassland (Well-Worn)",
+      "price": {
+        "min": 4.35,
+        "max": 4.35,
+        "mean": 4.35,
+        "median": 4.35,
+        "suggested": 3.9,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "XM1014 | Grassland (Battle-Scarred)",
+      "price": {
+        "min": 7.99,
+        "max": 7.99,
+        "mean": 7.99,
+        "median": 7.99,
+        "suggested": 2.69,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "XM1014 | Grassland (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "XM1014 | Grassland (Minimal Wear)",
+        "price": {
+          "min": 7.16,
+          "max": 244.78,
+          "mean": 77.57,
+          "median": 29.16,
+          "suggested": 5.8,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "XM1014 | Grassland (Field-Tested)",
+        "price": {
+          "min": 3,
+          "max": 23.33,
+          "mean": 9.42,
+          "median": 7.55,
+          "suggested": 3.53,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "XM1014 | Grassland (Well-Worn)",
+        "price": {
+          "min": 4.35,
+          "max": 4.35,
+          "mean": 4.35,
+          "median": 4.35,
+          "suggested": 3.9,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "XM1014 | Grassland (Battle-Scarred)",
+        "price": {
+          "min": 7.99,
+          "max": 7.99,
+          "mean": 7.99,
+          "median": 7.99,
+          "suggested": 2.69,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir XM1014 | Grassland (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir XM1014 | Grassland (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir XM1014 | Grassland (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir XM1014 | Grassland (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir XM1014 | Grassland (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:51.391Z"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "skin-1b8d8987488f",
+  "name": "R8 Revolver | Reboot",
+  "paint_index": "595",
+  "weapon": {
+    "id": "weapon_revolver",
+    "weapon_id": 64,
+    "name": "R8 Revolver",
+    "slug": "revolver"
+  },
+  "pattern": {
+    "id": "cu_r8_cybersport",
+    "name": "Reboot"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The R8 Revolver delivers a highly accurate and powerful round at the expense of a lengthy trigger-pull. Firing rapidly by fanning the hammer may be the best option when point-blank stopping power is required. It has been decorated with red accents over silver and black panels.\\n\\n<i>\\\"Have you tried turning it off and on again?\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 9.21,
+      "max": 50.49,
+      "mean": 17.22,
+      "median": 14.62,
+      "suggested": 14.75,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.7,
+      "max": 7.33,
+      "mean": 5.08,
+      "median": 3.82,
+      "suggested": 3.26,
+      "quantity": 52,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.23,
+      "max": 2.16,
+      "mean": 1.61,
+      "median": 1.55,
+      "suggested": 1.57,
+      "quantity": 63,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.33,
+      "max": 2.43,
+      "mean": 1.75,
+      "median": 1.66,
+      "suggested": 1.34,
+      "quantity": 20,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.04,
+      "max": 15.53,
+      "mean": 2.49,
+      "median": 1.48,
+      "suggested": 1.27,
+      "quantity": 14,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "R8 Revolver | Reboot (Factory New)",
+      "price": {
+        "min": 9.21,
+        "max": 50.49,
+        "mean": 17.22,
+        "median": 14.62,
+        "suggested": 14.75,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "R8 Revolver | Reboot (Minimal Wear)",
+      "price": {
+        "min": 2.7,
+        "max": 7.33,
+        "mean": 5.08,
+        "median": 3.82,
+        "suggested": 3.26,
+        "quantity": 52,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "R8 Revolver | Reboot (Field-Tested)",
+      "price": {
+        "min": 1.23,
+        "max": 2.16,
+        "mean": 1.61,
+        "median": 1.55,
+        "suggested": 1.57,
+        "quantity": 63,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "R8 Revolver | Reboot (Well-Worn)",
+      "price": {
+        "min": 1.33,
+        "max": 2.43,
+        "mean": 1.75,
+        "median": 1.66,
+        "suggested": 1.34,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "R8 Revolver | Reboot (Battle-Scarred)",
+      "price": {
+        "min": 1.04,
+        "max": 15.53,
+        "mean": 2.49,
+        "median": 1.48,
+        "suggested": 1.27,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "R8 Revolver | Reboot (Factory New)",
+        "price": {
+          "min": 9.21,
+          "max": 50.49,
+          "mean": 17.22,
+          "median": 14.62,
+          "suggested": 14.75,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "R8 Revolver | Reboot (Minimal Wear)",
+        "price": {
+          "min": 2.7,
+          "max": 7.33,
+          "mean": 5.08,
+          "median": 3.82,
+          "suggested": 3.26,
+          "quantity": 52,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "R8 Revolver | Reboot (Field-Tested)",
+        "price": {
+          "min": 1.23,
+          "max": 2.16,
+          "mean": 1.61,
+          "median": 1.55,
+          "suggested": 1.57,
+          "quantity": 63,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "R8 Revolver | Reboot (Well-Worn)",
+        "price": {
+          "min": 1.33,
+          "max": 2.43,
+          "mean": 1.75,
+          "median": 1.66,
+          "suggested": 1.34,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "R8 Revolver | Reboot (Battle-Scarred)",
+        "price": {
+          "min": 1.04,
+          "max": 15.53,
+          "mean": 2.49,
+          "median": 1.48,
+          "suggested": 1.27,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Reboot (Factory New)",
+        "price": {
+          "min": 24.06,
+          "max": 24.06,
+          "mean": 24.06,
+          "median": 24.06,
+          "suggested": 24.33,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Reboot (Minimal Wear)",
+        "price": {
+          "min": 5.54,
+          "max": 24.9,
+          "mean": 8.52,
+          "median": 5.82,
+          "suggested": 6.95,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Reboot (Field-Tested)",
+        "price": {
+          "min": 2.1,
+          "max": 3.06,
+          "mean": 2.59,
+          "median": 2.6,
+          "suggested": 2.88,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Reboot (Well-Worn)",
+        "price": {
+          "min": 1.65,
+          "max": 11.55,
+          "mean": 2.73,
+          "median": 1.86,
+          "suggested": 1.93,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ R8 Revolver | Reboot (Battle-Scarred)",
+        "price": {
+          "min": 1.54,
+          "max": 2.11,
+          "mean": 1.83,
+          "median": 1.89,
+          "suggested": 1.71,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir R8 Revolver | Reboot (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir R8 Revolver | Reboot (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir R8 Revolver | Reboot (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir R8 Revolver | Reboot (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir R8 Revolver | Reboot (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:46.573Z"
+}

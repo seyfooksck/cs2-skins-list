@@ -1,0 +1,241 @@
+{
+  "id": "skin-272730bdda4c",
+  "name": "★ Navaja Knife | Ultraviolet",
+  "paint_index": "98",
+  "weapon": {
+    "id": "weapon_knife_gypsy_jackknife",
+    "weapon_id": 520,
+    "name": "Navaja Knife",
+    "slug": "knife_gypsy_jackknife"
+  },
+  "pattern": {
+    "id": "so_purple",
+    "name": "Ultraviolet"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This marble-enamel-handled flip knife conceals a small but viciously tapered blade. It has individual parts spray-painted solid colors in a black and purple color scheme.\\n\\n<i>Elegant design paired with brutal intent</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 68.85,
+      "max": 193.28,
+      "mean": 95.08,
+      "median": 84.6,
+      "suggested": 79.49,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 49.31,
+      "max": 163.36,
+      "mean": 80.04,
+      "median": 64.92,
+      "suggested": 62.65,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 46.68,
+      "max": 62.26,
+      "mean": 52.98,
+      "median": 51.49,
+      "suggested": 63.06,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 47.84,
+      "max": 64.18,
+      "mean": 55.7,
+      "median": 55.38,
+      "suggested": 57.36,
+      "quantity": 4,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Navaja Knife | Ultraviolet (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Navaja Knife | Ultraviolet (Minimal Wear)",
+      "price": {
+        "min": 68.85,
+        "max": 193.28,
+        "mean": 95.08,
+        "median": 84.6,
+        "suggested": 79.49,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Navaja Knife | Ultraviolet (Field-Tested)",
+      "price": {
+        "min": 49.31,
+        "max": 163.36,
+        "mean": 80.04,
+        "median": 64.92,
+        "suggested": 62.65,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Navaja Knife | Ultraviolet (Well-Worn)",
+      "price": {
+        "min": 46.68,
+        "max": 62.26,
+        "mean": 52.98,
+        "median": 51.49,
+        "suggested": 63.06,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Navaja Knife | Ultraviolet (Battle-Scarred)",
+      "price": {
+        "min": 47.84,
+        "max": 64.18,
+        "mean": 55.7,
+        "median": 55.38,
+        "suggested": 57.36,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Navaja Knife | Ultraviolet (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Navaja Knife | Ultraviolet (Minimal Wear)",
+        "price": {
+          "min": 68.85,
+          "max": 193.28,
+          "mean": 95.08,
+          "median": 84.6,
+          "suggested": 79.49,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Navaja Knife | Ultraviolet (Field-Tested)",
+        "price": {
+          "min": 49.31,
+          "max": 163.36,
+          "mean": 80.04,
+          "median": 64.92,
+          "suggested": 62.65,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Navaja Knife | Ultraviolet (Well-Worn)",
+        "price": {
+          "min": 46.68,
+          "max": 62.26,
+          "mean": 52.98,
+          "median": 51.49,
+          "suggested": 63.06,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Navaja Knife | Ultraviolet (Battle-Scarred)",
+        "price": {
+          "min": 47.84,
+          "max": 64.18,
+          "mean": 55.7,
+          "median": 55.38,
+          "suggested": 57.36,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Navaja Knife | Ultraviolet (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Navaja Knife | Ultraviolet (Minimal Wear)",
+        "price": {
+          "min": 233.38,
+          "max": 233.38,
+          "mean": 233.38,
+          "median": 233.38,
+          "suggested": 99.55,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Navaja Knife | Ultraviolet (Field-Tested)",
+        "price": {
+          "min": 61.93,
+          "max": 61.93,
+          "mean": 61.93,
+          "median": 61.93,
+          "suggested": 76.98,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Navaja Knife | Ultraviolet (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Navaja Knife | Ultraviolet (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:35.600Z"
+}

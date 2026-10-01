@@ -1,0 +1,201 @@
+{
+  "id": "skin-148a2a524ba9",
+  "name": "G3SG1 | Violet Murano",
+  "paint_index": "739",
+  "weapon": {
+    "id": "weapon_g3sg1",
+    "weapon_id": 11,
+    "name": "G3SG1",
+    "slug": "g3sg1"
+  },
+  "pattern": {
+    "id": "am_murano_violet",
+    "name": "Violet Murano"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The pricy G3SG1 lowers movement speed considerably but compensates with a higher rate of fire than other sniper rifles. A pattern of orange and blue Murano beads has been applied.\\n\\n<i>Death by a thousand beads</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 36.78,
+      "max": 60.23,
+      "mean": 44.68,
+      "median": 40.05,
+      "suggested": 33.52,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 27.66,
+      "max": 30.39,
+      "mean": 29.02,
+      "median": 29.02,
+      "suggested": 36.18,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 28.09,
+      "max": 40.84,
+      "mean": 32.85,
+      "median": 32.67,
+      "suggested": 32.29,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "G3SG1 | Violet Murano (Factory New)",
+      "price": {
+        "min": 36.78,
+        "max": 60.23,
+        "mean": 44.68,
+        "median": 40.05,
+        "suggested": 33.52,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "G3SG1 | Violet Murano (Minimal Wear)",
+      "price": {
+        "min": 27.66,
+        "max": 30.39,
+        "mean": 29.02,
+        "median": 29.02,
+        "suggested": 36.18,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "G3SG1 | Violet Murano (Field-Tested)",
+      "price": {
+        "min": 28.09,
+        "max": 40.84,
+        "mean": 32.85,
+        "median": 32.67,
+        "suggested": 32.29,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "G3SG1 | Violet Murano (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "G3SG1 | Violet Murano (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "G3SG1 | Violet Murano (Factory New)",
+        "price": {
+          "min": 36.78,
+          "max": 60.23,
+          "mean": 44.68,
+          "median": 40.05,
+          "suggested": 33.52,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "G3SG1 | Violet Murano (Minimal Wear)",
+        "price": {
+          "min": 27.66,
+          "max": 30.39,
+          "mean": 29.02,
+          "median": 29.02,
+          "suggested": 36.18,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "G3SG1 | Violet Murano (Field-Tested)",
+        "price": {
+          "min": 28.09,
+          "max": 40.84,
+          "mean": 32.85,
+          "median": 32.67,
+          "suggested": 32.29,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "G3SG1 | Violet Murano (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "G3SG1 | Violet Murano (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir G3SG1 | Violet Murano (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir G3SG1 | Violet Murano (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir G3SG1 | Violet Murano (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir G3SG1 | Violet Murano (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir G3SG1 | Violet Murano (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:30.464Z"
+}

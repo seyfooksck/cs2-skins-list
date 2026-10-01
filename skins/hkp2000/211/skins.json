@@ -1,0 +1,146 @@
+{
+  "id": "skin-b4a45f1fac9d",
+  "name": "P2000 | Ocean Foam",
+  "paint_index": "211",
+  "weapon": {
+    "id": "weapon_hkp2000",
+    "weapon_id": 32,
+    "name": "P2000",
+    "slug": "hkp2000"
+  },
+  "pattern": {
+    "id": "am_ossify_blue_p2000_bravo",
+    "name": "Ocean Foam"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.12,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Accurate and controllable, the German-made P2000 is a serviceable first-round pistol that works best against unarmored opponents. This memento from Seaside has been painted using a transparent blue abstract hydrographic over a metallic base coat.\\n\\n<i>Waves break, our resolve doesn't - Kotaro Izaki, Breach Expert</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 106.51,
+      "max": 1091.98,
+      "mean": 324.69,
+      "median": 199.27,
+      "suggested": 168.09,
+      "quantity": 16,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 144.61,
+      "max": 153.57,
+      "mean": 149.09,
+      "median": 149.09,
+      "suggested": 199.39,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P2000 | Ocean Foam (Factory New)",
+      "price": {
+        "min": 106.51,
+        "max": 1091.98,
+        "mean": 324.69,
+        "median": 199.27,
+        "suggested": 168.09,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P2000 | Ocean Foam (Minimal Wear)",
+      "price": {
+        "min": 144.61,
+        "max": 153.57,
+        "mean": 149.09,
+        "median": 149.09,
+        "suggested": 199.39,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P2000 | Ocean Foam (Factory New)",
+        "price": {
+          "min": 106.51,
+          "max": 1091.98,
+          "mean": 324.69,
+          "median": 199.27,
+          "suggested": 168.09,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P2000 | Ocean Foam (Minimal Wear)",
+        "price": {
+          "min": 144.61,
+          "max": 153.57,
+          "mean": 149.09,
+          "median": 149.09,
+          "suggested": 199.39,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P2000 | Ocean Foam (Factory New)",
+        "price": {
+          "min": 291.72,
+          "max": 107568.36,
+          "mean": 16514.09,
+          "median": 442.27,
+          "suggested": 372.96,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P2000 | Ocean Foam (Minimal Wear)",
+        "price": null
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P2000 | Ocean Foam (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P2000 | Ocean Foam (Minimal Wear)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:32.364Z"
+}

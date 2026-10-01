@@ -1,0 +1,249 @@
+{
+  "id": "skin-a060f0657eb4",
+  "name": "USP-S | Sleeping Potion",
+  "paint_index": "1377",
+  "weapon": {
+    "id": "weapon_usp_silencer",
+    "weapon_id": 61,
+    "name": "USP-S",
+    "slug": "usp_silencer"
+  },
+  "pattern": {
+    "id": "soe_purple",
+    "name": "Sleeping Potion"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise. A purple camo pattern with a pearlescent finish has been applied.\\n\\n<i>A new brew!</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 11.23,
+      "max": 90.75,
+      "mean": 44.79,
+      "median": 46.68,
+      "suggested": 13.09,
+      "quantity": 68,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 4.74,
+      "max": 291.73,
+      "mean": 8.99,
+      "median": 6.41,
+      "suggested": 6.11,
+      "quantity": 111,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.58,
+      "max": 19.6,
+      "mean": 3.41,
+      "median": 2.45,
+      "suggested": 1.91,
+      "quantity": 53,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 7.42,
+      "max": 29.45,
+      "mean": 18.44,
+      "median": 18.44,
+      "suggested": 1.52,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.09,
+      "max": 3.52,
+      "mean": 1.97,
+      "median": 1.6,
+      "suggested": 1.37,
+      "quantity": 8,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "USP-S | Sleeping Potion (Factory New)",
+      "price": {
+        "min": 11.23,
+        "max": 90.75,
+        "mean": 44.79,
+        "median": 46.68,
+        "suggested": 13.09,
+        "quantity": 68,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "USP-S | Sleeping Potion (Minimal Wear)",
+      "price": {
+        "min": 4.74,
+        "max": 291.73,
+        "mean": 8.99,
+        "median": 6.41,
+        "suggested": 6.11,
+        "quantity": 111,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "USP-S | Sleeping Potion (Field-Tested)",
+      "price": {
+        "min": 1.58,
+        "max": 19.6,
+        "mean": 3.41,
+        "median": 2.45,
+        "suggested": 1.91,
+        "quantity": 53,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "USP-S | Sleeping Potion (Well-Worn)",
+      "price": {
+        "min": 7.42,
+        "max": 29.45,
+        "mean": 18.44,
+        "median": 18.44,
+        "suggested": 1.52,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "USP-S | Sleeping Potion (Battle-Scarred)",
+      "price": {
+        "min": 1.09,
+        "max": 3.52,
+        "mean": 1.97,
+        "median": 1.6,
+        "suggested": 1.37,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "USP-S | Sleeping Potion (Factory New)",
+        "price": {
+          "min": 11.23,
+          "max": 90.75,
+          "mean": 44.79,
+          "median": 46.68,
+          "suggested": 13.09,
+          "quantity": 68,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "USP-S | Sleeping Potion (Minimal Wear)",
+        "price": {
+          "min": 4.74,
+          "max": 291.73,
+          "mean": 8.99,
+          "median": 6.41,
+          "suggested": 6.11,
+          "quantity": 111,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "USP-S | Sleeping Potion (Field-Tested)",
+        "price": {
+          "min": 1.58,
+          "max": 19.6,
+          "mean": 3.41,
+          "median": 2.45,
+          "suggested": 1.91,
+          "quantity": 53,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "USP-S | Sleeping Potion (Well-Worn)",
+        "price": {
+          "min": 7.42,
+          "max": 29.45,
+          "mean": 18.44,
+          "median": 18.44,
+          "suggested": 1.52,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "USP-S | Sleeping Potion (Battle-Scarred)",
+        "price": {
+          "min": 1.09,
+          "max": 3.52,
+          "mean": 1.97,
+          "median": 1.6,
+          "suggested": 1.37,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir USP-S | Sleeping Potion (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir USP-S | Sleeping Potion (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir USP-S | Sleeping Potion (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir USP-S | Sleeping Potion (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir USP-S | Sleeping Potion (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:50.810Z"
+}

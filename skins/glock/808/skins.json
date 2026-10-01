@@ -1,0 +1,310 @@
+{
+  "id": "skin-0b23f3cc7633",
+  "name": "Glock-18 | Oxide Blaze",
+  "paint_index": "808",
+  "weapon": {
+    "id": "weapon_glock",
+    "weapon_id": 4,
+    "name": "Glock-18",
+    "slug": "glock"
+  },
+  "pattern": {
+    "id": "cu_glock18_corroden",
+    "name": "Oxide Blaze"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.85,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. A custom paint job has been applied with a rust-colored base and white detailing.\\n\\n<i>\\\"The subject claims this washed up on shore\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 7.78,
+      "max": 29.17,
+      "mean": 11.61,
+      "median": 9.34,
+      "suggested": 10.52,
+      "quantity": 26,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.41,
+      "max": 11.66,
+      "mean": 0.75,
+      "median": 0.48,
+      "suggested": 0.58,
+      "quantity": 68,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.18,
+      "max": 8.47,
+      "mean": 0.39,
+      "median": 0.28,
+      "suggested": 0.28,
+      "quantity": 562,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.23,
+      "max": 2.28,
+      "mean": 0.37,
+      "median": 0.3,
+      "suggested": 0.28,
+      "quantity": 46,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.18,
+      "max": 5.12,
+      "mean": 0.34,
+      "median": 0.23,
+      "suggested": 0.27,
+      "quantity": 129,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Glock-18 | Oxide Blaze (Factory New)",
+      "price": {
+        "min": 7.78,
+        "max": 29.17,
+        "mean": 11.61,
+        "median": 9.34,
+        "suggested": 10.52,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Glock-18 | Oxide Blaze (Minimal Wear)",
+      "price": {
+        "min": 0.41,
+        "max": 11.66,
+        "mean": 0.75,
+        "median": 0.48,
+        "suggested": 0.58,
+        "quantity": 68,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Glock-18 | Oxide Blaze (Field-Tested)",
+      "price": {
+        "min": 0.18,
+        "max": 8.47,
+        "mean": 0.39,
+        "median": 0.28,
+        "suggested": 0.28,
+        "quantity": 562,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Glock-18 | Oxide Blaze (Well-Worn)",
+      "price": {
+        "min": 0.23,
+        "max": 2.28,
+        "mean": 0.37,
+        "median": 0.3,
+        "suggested": 0.28,
+        "quantity": 46,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Glock-18 | Oxide Blaze (Battle-Scarred)",
+      "price": {
+        "min": 0.18,
+        "max": 5.12,
+        "mean": 0.34,
+        "median": 0.23,
+        "suggested": 0.27,
+        "quantity": 129,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Glock-18 | Oxide Blaze (Factory New)",
+        "price": {
+          "min": 7.78,
+          "max": 29.17,
+          "mean": 11.61,
+          "median": 9.34,
+          "suggested": 10.52,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Glock-18 | Oxide Blaze (Minimal Wear)",
+        "price": {
+          "min": 0.41,
+          "max": 11.66,
+          "mean": 0.75,
+          "median": 0.48,
+          "suggested": 0.58,
+          "quantity": 68,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Glock-18 | Oxide Blaze (Field-Tested)",
+        "price": {
+          "min": 0.18,
+          "max": 8.47,
+          "mean": 0.39,
+          "median": 0.28,
+          "suggested": 0.28,
+          "quantity": 562,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Glock-18 | Oxide Blaze (Well-Worn)",
+        "price": {
+          "min": 0.23,
+          "max": 2.28,
+          "mean": 0.37,
+          "median": 0.3,
+          "suggested": 0.28,
+          "quantity": 46,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Glock-18 | Oxide Blaze (Battle-Scarred)",
+        "price": {
+          "min": 0.18,
+          "max": 5.12,
+          "mean": 0.34,
+          "median": 0.23,
+          "suggested": 0.27,
+          "quantity": 129,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Glock-18 | Oxide Blaze (Factory New)",
+        "price": {
+          "min": 4.73,
+          "max": 36.07,
+          "mean": 10.27,
+          "median": 5.86,
+          "suggested": 3.33,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Glock-18 | Oxide Blaze (Minimal Wear)",
+        "price": {
+          "min": 0.75,
+          "max": 5.99,
+          "mean": 1.07,
+          "median": 0.86,
+          "suggested": 0.88,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Glock-18 | Oxide Blaze (Field-Tested)",
+        "price": {
+          "min": 0.25,
+          "max": 16.12,
+          "mean": 0.61,
+          "median": 0.44,
+          "suggested": 0.37,
+          "quantity": 295,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Glock-18 | Oxide Blaze (Well-Worn)",
+        "price": {
+          "min": 0.4,
+          "max": 1.17,
+          "mean": 0.63,
+          "median": 0.63,
+          "suggested": 0.46,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Glock-18 | Oxide Blaze (Battle-Scarred)",
+        "price": {
+          "min": 0.25,
+          "max": 1.49,
+          "mean": 0.44,
+          "median": 0.37,
+          "suggested": 0.32,
+          "quantity": 87,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Glock-18 | Oxide Blaze (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Glock-18 | Oxide Blaze (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Glock-18 | Oxide Blaze (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Glock-18 | Oxide Blaze (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Glock-18 | Oxide Blaze (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:31.707Z"
+}

@@ -1,0 +1,249 @@
+{
+  "id": "skin-17a447e64559",
+  "name": "Glock-18 | Ifrit Lattice",
+  "paint_index": "1460",
+  "weapon": {
+    "id": "weapon_glock",
+    "weapon_id": 4,
+    "name": "Glock-18",
+    "slug": "glock"
+  },
+  "pattern": {
+    "id": "glock_ifrit_lattice",
+    "name": "Ifrit Lattice"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. It has been custom painted with a tan and black design.\\n\\n<i>Outdated intel is still intel, ya know...</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 20.69,
+      "max": 28.86,
+      "mean": 23.68,
+      "median": 21.47,
+      "suggested": 23.81,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 7.18,
+      "max": 20.48,
+      "mean": 10.49,
+      "median": 9.91,
+      "suggested": 8.53,
+      "quantity": 24,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 3.08,
+      "max": 14.81,
+      "mean": 4.69,
+      "median": 4.67,
+      "suggested": 5.74,
+      "quantity": 21,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.93,
+      "max": 11.17,
+      "mean": 3.15,
+      "median": 1.95,
+      "suggested": 2.24,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.6,
+      "max": 2.92,
+      "mean": 1.84,
+      "median": 1.72,
+      "suggested": 1.98,
+      "quantity": 11,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Glock-18 | Ifrit Lattice (Factory New)",
+      "price": {
+        "min": 20.69,
+        "max": 28.86,
+        "mean": 23.68,
+        "median": 21.47,
+        "suggested": 23.81,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Glock-18 | Ifrit Lattice (Minimal Wear)",
+      "price": {
+        "min": 7.18,
+        "max": 20.48,
+        "mean": 10.49,
+        "median": 9.91,
+        "suggested": 8.53,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Glock-18 | Ifrit Lattice (Field-Tested)",
+      "price": {
+        "min": 3.08,
+        "max": 14.81,
+        "mean": 4.69,
+        "median": 4.67,
+        "suggested": 5.74,
+        "quantity": 21,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Glock-18 | Ifrit Lattice (Well-Worn)",
+      "price": {
+        "min": 1.93,
+        "max": 11.17,
+        "mean": 3.15,
+        "median": 1.95,
+        "suggested": 2.24,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Glock-18 | Ifrit Lattice (Battle-Scarred)",
+      "price": {
+        "min": 1.6,
+        "max": 2.92,
+        "mean": 1.84,
+        "median": 1.72,
+        "suggested": 1.98,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Glock-18 | Ifrit Lattice (Factory New)",
+        "price": {
+          "min": 20.69,
+          "max": 28.86,
+          "mean": 23.68,
+          "median": 21.47,
+          "suggested": 23.81,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Glock-18 | Ifrit Lattice (Minimal Wear)",
+        "price": {
+          "min": 7.18,
+          "max": 20.48,
+          "mean": 10.49,
+          "median": 9.91,
+          "suggested": 8.53,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Glock-18 | Ifrit Lattice (Field-Tested)",
+        "price": {
+          "min": 3.08,
+          "max": 14.81,
+          "mean": 4.69,
+          "median": 4.67,
+          "suggested": 5.74,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Glock-18 | Ifrit Lattice (Well-Worn)",
+        "price": {
+          "min": 1.93,
+          "max": 11.17,
+          "mean": 3.15,
+          "median": 1.95,
+          "suggested": 2.24,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Glock-18 | Ifrit Lattice (Battle-Scarred)",
+        "price": {
+          "min": 1.6,
+          "max": 2.92,
+          "mean": 1.84,
+          "median": 1.72,
+          "suggested": 1.98,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Glock-18 | Ifrit Lattice (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Glock-18 | Ifrit Lattice (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Glock-18 | Ifrit Lattice (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Glock-18 | Ifrit Lattice (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Glock-18 | Ifrit Lattice (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:31.948Z"
+}

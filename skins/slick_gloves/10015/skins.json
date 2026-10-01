@@ -1,0 +1,204 @@
+{
+  "id": "skin-6875abfca574",
+  "name": "★ Driver Gloves | Convoy",
+  "paint_index": "10015",
+  "weapon": {
+    "id": "slick_gloves",
+    "weapon_id": 5031,
+    "name": "Driver Gloves",
+    "slug": "slick_gloves"
+  },
+  "pattern": {
+    "id": "slick_military",
+    "name": "Convoy"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_gloves",
+    "name": "Gloves"
+  },
+  "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "These driving gloves offer protection from the elements while still maintaining tactile sensation. It has been made with a mix of brown soft leather and dyed suede.\\n\\n<i>Sometimes discretion is called for</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 933.55,
+      "max": 1125.53,
+      "mean": 1010.43,
+      "median": 991.31,
+      "suggested": 683.78,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 560.47,
+      "max": 887.27,
+      "mean": 723.87,
+      "median": 723.87,
+      "suggested": 622.43,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 530.34,
+      "max": 530.34,
+      "mean": 530.34,
+      "median": 530.34,
+      "suggested": 125.69,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 77.83,
+      "max": 77.83,
+      "mean": 77.83,
+      "median": 77.83,
+      "suggested": 92.4,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Driver Gloves | Convoy (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Driver Gloves | Convoy (Minimal Wear)",
+      "price": {
+        "min": 933.55,
+        "max": 1125.53,
+        "mean": 1010.43,
+        "median": 991.31,
+        "suggested": 683.78,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Driver Gloves | Convoy (Field-Tested)",
+      "price": {
+        "min": 560.47,
+        "max": 887.27,
+        "mean": 723.87,
+        "median": 723.87,
+        "suggested": 622.43,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Driver Gloves | Convoy (Well-Worn)",
+      "price": {
+        "min": 530.34,
+        "max": 530.34,
+        "mean": 530.34,
+        "median": 530.34,
+        "suggested": 125.69,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Driver Gloves | Convoy (Battle-Scarred)",
+      "price": {
+        "min": 77.83,
+        "max": 77.83,
+        "mean": 77.83,
+        "median": 77.83,
+        "suggested": 92.4,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Driver Gloves | Convoy (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Driver Gloves | Convoy (Minimal Wear)",
+        "price": {
+          "min": 933.55,
+          "max": 1125.53,
+          "mean": 1010.43,
+          "median": 991.31,
+          "suggested": 683.78,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Driver Gloves | Convoy (Field-Tested)",
+        "price": {
+          "min": 560.47,
+          "max": 887.27,
+          "mean": 723.87,
+          "median": 723.87,
+          "suggested": 622.43,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Driver Gloves | Convoy (Well-Worn)",
+        "price": {
+          "min": 530.34,
+          "max": 530.34,
+          "mean": 530.34,
+          "median": 530.34,
+          "suggested": 125.69,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Driver Gloves | Convoy (Battle-Scarred)",
+        "price": {
+          "min": 77.83,
+          "max": 77.83,
+          "mean": 77.83,
+          "median": 77.83,
+          "suggested": 92.4,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:23.466Z"
+}

@@ -1,0 +1,302 @@
+{
+  "id": "skin-9d723cee972d",
+  "name": "Sawed-Off | Devourer",
+  "paint_index": "720",
+  "weapon": {
+    "id": "weapon_sawedoff",
+    "weapon_id": 29,
+    "name": "Sawed-Off",
+    "slug": "sawedoff"
+  },
+  "pattern": {
+    "id": "cu_sawedoff_devourer",
+    "name": "Devourer"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.8,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit. It has been hand painted to resemble a creature eating its words.\\n\\n<i>It's rude to talk with food in your mouth</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 27.85,
+      "max": 116.69,
+      "mean": 49.78,
+      "median": 35.01,
+      "suggested": 24.25,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 7.69,
+      "max": 233.39,
+      "mean": 17.54,
+      "median": 9.14,
+      "suggested": 9.12,
+      "quantity": 30,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 4.67,
+      "max": 22.62,
+      "mean": 6.27,
+      "median": 5.57,
+      "suggested": 6.27,
+      "quantity": 113,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 5.18,
+      "max": 6,
+      "mean": 5.55,
+      "median": 5.55,
+      "suggested": 6.32,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 4.7,
+      "max": 216.41,
+      "mean": 14.95,
+      "median": 5.12,
+      "suggested": 5.5,
+      "quantity": 31,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Sawed-Off | Devourer (Factory New)",
+      "price": {
+        "min": 27.85,
+        "max": 116.69,
+        "mean": 49.78,
+        "median": 35.01,
+        "suggested": 24.25,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Sawed-Off | Devourer (Minimal Wear)",
+      "price": {
+        "min": 7.69,
+        "max": 233.39,
+        "mean": 17.54,
+        "median": 9.14,
+        "suggested": 9.12,
+        "quantity": 30,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Sawed-Off | Devourer (Field-Tested)",
+      "price": {
+        "min": 4.67,
+        "max": 22.62,
+        "mean": 6.27,
+        "median": 5.57,
+        "suggested": 6.27,
+        "quantity": 113,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Sawed-Off | Devourer (Well-Worn)",
+      "price": {
+        "min": 5.18,
+        "max": 6,
+        "mean": 5.55,
+        "median": 5.55,
+        "suggested": 6.32,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Sawed-Off | Devourer (Battle-Scarred)",
+      "price": {
+        "min": 4.7,
+        "max": 216.41,
+        "mean": 14.95,
+        "median": 5.12,
+        "suggested": 5.5,
+        "quantity": 31,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Sawed-Off | Devourer (Factory New)",
+        "price": {
+          "min": 27.85,
+          "max": 116.69,
+          "mean": 49.78,
+          "median": 35.01,
+          "suggested": 24.25,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Sawed-Off | Devourer (Minimal Wear)",
+        "price": {
+          "min": 7.69,
+          "max": 233.39,
+          "mean": 17.54,
+          "median": 9.14,
+          "suggested": 9.12,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Sawed-Off | Devourer (Field-Tested)",
+        "price": {
+          "min": 4.67,
+          "max": 22.62,
+          "mean": 6.27,
+          "median": 5.57,
+          "suggested": 6.27,
+          "quantity": 113,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Sawed-Off | Devourer (Well-Worn)",
+        "price": {
+          "min": 5.18,
+          "max": 6,
+          "mean": 5.55,
+          "median": 5.55,
+          "suggested": 6.32,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Sawed-Off | Devourer (Battle-Scarred)",
+        "price": {
+          "min": 4.7,
+          "max": 216.41,
+          "mean": 14.95,
+          "median": 5.12,
+          "suggested": 5.5,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Devourer (Factory New)",
+        "price": {
+          "min": 32.46,
+          "max": 64.99,
+          "mean": 41.53,
+          "median": 35.81,
+          "suggested": 39.14,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Devourer (Minimal Wear)",
+        "price": {
+          "min": 15.53,
+          "max": 19.46,
+          "mean": 16.63,
+          "median": 15.92,
+          "suggested": 19.75,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Devourer (Field-Tested)",
+        "price": {
+          "min": 8.16,
+          "max": 13.08,
+          "mean": 9.56,
+          "median": 8.58,
+          "suggested": 9.72,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Devourer (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Devourer (Battle-Scarred)",
+        "price": {
+          "min": 6.95,
+          "max": 233.39,
+          "mean": 53.31,
+          "median": 8.09,
+          "suggested": 7.7,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Sawed-Off | Devourer (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Sawed-Off | Devourer (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Sawed-Off | Devourer (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Sawed-Off | Devourer (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Sawed-Off | Devourer (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:47.063Z"
+}

@@ -1,0 +1,318 @@
+{
+  "id": "skin-8e45a15cf7f5",
+  "name": "M4A1-S | Printstream",
+  "paint_index": "984",
+  "weapon": {
+    "id": "weapon_m4a1_silencer",
+    "weapon_id": 60,
+    "name": "M4A1-S",
+    "slug": "m4a1_silencer"
+  },
+  "pattern": {
+    "id": "cu_m4a1s_printstream",
+    "name": "Printstream"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.8,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. It has been custom painted with a stark black and white design and finished with pearlescent highlights.\\n\\n<i>WHITE_1; BLACK_1; PEARLESCENT_1; SILENCED_1;</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 455.11,
+      "max": 4667.75,
+      "mean": 865.96,
+      "median": 700.16,
+      "suggested": 538.11,
+      "quantity": 30,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 296.01,
+      "max": 816.84,
+      "mean": 380.21,
+      "median": 346.7,
+      "suggested": 398.58,
+      "quantity": 102,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 202.93,
+      "max": 933.55,
+      "mean": 273.93,
+      "median": 237.88,
+      "suggested": 262.85,
+      "quantity": 118,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 186.39,
+      "max": 247.52,
+      "mean": 205.45,
+      "median": 203.28,
+      "suggested": 232.8,
+      "quantity": 13,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 154.01,
+      "max": 1166.94,
+      "mean": 223.54,
+      "median": 179.97,
+      "suggested": 201.54,
+      "quantity": 28,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A1-S | Printstream (Factory New)",
+      "price": {
+        "min": 455.11,
+        "max": 4667.75,
+        "mean": 865.96,
+        "median": 700.16,
+        "suggested": 538.11,
+        "quantity": 30,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A1-S | Printstream (Minimal Wear)",
+      "price": {
+        "min": 296.01,
+        "max": 816.84,
+        "mean": 380.21,
+        "median": 346.7,
+        "suggested": 398.58,
+        "quantity": 102,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A1-S | Printstream (Field-Tested)",
+      "price": {
+        "min": 202.93,
+        "max": 933.55,
+        "mean": 273.93,
+        "median": 237.88,
+        "suggested": 262.85,
+        "quantity": 118,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M4A1-S | Printstream (Well-Worn)",
+      "price": {
+        "min": 186.39,
+        "max": 247.52,
+        "mean": 205.45,
+        "median": 203.28,
+        "suggested": 232.8,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M4A1-S | Printstream (Battle-Scarred)",
+      "price": {
+        "min": 154.01,
+        "max": 1166.94,
+        "mean": 223.54,
+        "median": 179.97,
+        "suggested": 201.54,
+        "quantity": 28,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A1-S | Printstream (Factory New)",
+        "price": {
+          "min": 455.11,
+          "max": 4667.75,
+          "mean": 865.96,
+          "median": 700.16,
+          "suggested": 538.11,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A1-S | Printstream (Minimal Wear)",
+        "price": {
+          "min": 296.01,
+          "max": 816.84,
+          "mean": 380.21,
+          "median": 346.7,
+          "suggested": 398.58,
+          "quantity": 102,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A1-S | Printstream (Field-Tested)",
+        "price": {
+          "min": 202.93,
+          "max": 933.55,
+          "mean": 273.93,
+          "median": 237.88,
+          "suggested": 262.85,
+          "quantity": 118,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M4A1-S | Printstream (Well-Worn)",
+        "price": {
+          "min": 186.39,
+          "max": 247.52,
+          "mean": 205.45,
+          "median": 203.28,
+          "suggested": 232.8,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M4A1-S | Printstream (Battle-Scarred)",
+        "price": {
+          "min": 154.01,
+          "max": 1166.94,
+          "mean": 223.54,
+          "median": 179.97,
+          "suggested": 201.54,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ M4A1-S | Printstream (Factory New)",
+        "price": {
+          "min": 1091.09,
+          "max": 2333.86,
+          "mean": 1446.91,
+          "median": 1394.01,
+          "suggested": 1232.77,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ M4A1-S | Printstream (Minimal Wear)",
+        "price": {
+          "min": 576.54,
+          "max": 1296.47,
+          "mean": 839.88,
+          "median": 705.32,
+          "suggested": 669.54,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ M4A1-S | Printstream (Field-Tested)",
+        "price": {
+          "min": 351.17,
+          "max": 700.15,
+          "mean": 424.67,
+          "median": 402.82,
+          "suggested": 451.31,
+          "quantity": 39,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ M4A1-S | Printstream (Well-Worn)",
+        "price": {
+          "min": 371.67,
+          "max": 371.67,
+          "mean": 371.67,
+          "median": 371.67,
+          "suggested": 379.83,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ M4A1-S | Printstream (Battle-Scarred)",
+        "price": {
+          "min": 252.34,
+          "max": 364,
+          "mean": 320.79,
+          "median": 332.58,
+          "suggested": 317.47,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A1-S | Printstream (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A1-S | Printstream (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A1-S | Printstream (Field-Tested)",
+        "price": {
+          "min": 326.73,
+          "max": 326.73,
+          "mean": 326.73,
+          "median": 326.73,
+          "suggested": 250.57,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M4A1-S | Printstream (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M4A1-S | Printstream (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:40.918Z"
+}

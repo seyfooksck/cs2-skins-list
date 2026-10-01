@@ -1,0 +1,289 @@
+{
+  "id": "skin-a57c016a2f7d",
+  "name": "FAMAS | 2A2F",
+  "paint_index": "1202",
+  "weapon": {
+    "id": "weapon_famas",
+    "weapon_id": 10,
+    "name": "FAMAS",
+    "slug": "famas"
+  },
+  "pattern": {
+    "id": "gs_train_car_famas",
+    "name": "2A2F"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.86,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. It has been custom painted with a tread plate pattern and \\\"2A2F\\\" on the handguard.\\n\\n<i>\\\"2A2F—reliable shipping in an unreliable world\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 7.69,
+      "max": 87.89,
+      "mean": 18.09,
+      "median": 11.67,
+      "suggested": 10.12,
+      "quantity": 48,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.51,
+      "max": 93.94,
+      "mean": 5.34,
+      "median": 2.16,
+      "suggested": 1.75,
+      "quantity": 96,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.34,
+      "max": 24.51,
+      "mean": 2.85,
+      "median": 0.98,
+      "suggested": 0.4,
+      "quantity": 157,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.32,
+      "max": 7.99,
+      "mean": 2.94,
+      "median": 0.55,
+      "suggested": 0.39,
+      "quantity": 23,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.26,
+      "max": 14.59,
+      "mean": 4.74,
+      "median": 7.99,
+      "suggested": 0.27,
+      "quantity": 53,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "FAMAS | 2A2F (Factory New)",
+      "price": {
+        "min": 7.69,
+        "max": 87.89,
+        "mean": 18.09,
+        "median": 11.67,
+        "suggested": 10.12,
+        "quantity": 48,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "FAMAS | 2A2F (Minimal Wear)",
+      "price": {
+        "min": 1.51,
+        "max": 93.94,
+        "mean": 5.34,
+        "median": 2.16,
+        "suggested": 1.75,
+        "quantity": 96,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "FAMAS | 2A2F (Field-Tested)",
+      "price": {
+        "min": 0.34,
+        "max": 24.51,
+        "mean": 2.85,
+        "median": 0.98,
+        "suggested": 0.4,
+        "quantity": 157,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "FAMAS | 2A2F (Well-Worn)",
+      "price": {
+        "min": 0.32,
+        "max": 7.99,
+        "mean": 2.94,
+        "median": 0.55,
+        "suggested": 0.39,
+        "quantity": 23,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "FAMAS | 2A2F (Battle-Scarred)",
+      "price": {
+        "min": 0.26,
+        "max": 14.59,
+        "mean": 4.74,
+        "median": 7.99,
+        "suggested": 0.27,
+        "quantity": 53,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "FAMAS | 2A2F (Factory New)",
+        "price": {
+          "min": 7.69,
+          "max": 87.89,
+          "mean": 18.09,
+          "median": 11.67,
+          "suggested": 10.12,
+          "quantity": 48,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "FAMAS | 2A2F (Minimal Wear)",
+        "price": {
+          "min": 1.51,
+          "max": 93.94,
+          "mean": 5.34,
+          "median": 2.16,
+          "suggested": 1.75,
+          "quantity": 96,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "FAMAS | 2A2F (Field-Tested)",
+        "price": {
+          "min": 0.34,
+          "max": 24.51,
+          "mean": 2.85,
+          "median": 0.98,
+          "suggested": 0.4,
+          "quantity": 157,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "FAMAS | 2A2F (Well-Worn)",
+        "price": {
+          "min": 0.32,
+          "max": 7.99,
+          "mean": 2.94,
+          "median": 0.55,
+          "suggested": 0.39,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "FAMAS | 2A2F (Battle-Scarred)",
+        "price": {
+          "min": 0.26,
+          "max": 14.59,
+          "mean": 4.74,
+          "median": 7.99,
+          "suggested": 0.27,
+          "quantity": 53,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir FAMAS | 2A2F (Factory New)",
+        "price": {
+          "min": 10.25,
+          "max": 12.84,
+          "mean": 11.67,
+          "median": 11.94,
+          "suggested": 13.38,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir FAMAS | 2A2F (Minimal Wear)",
+        "price": {
+          "min": 2.35,
+          "max": 38.51,
+          "mean": 6.24,
+          "median": 3.47,
+          "suggested": 2.95,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir FAMAS | 2A2F (Field-Tested)",
+        "price": {
+          "min": 0.74,
+          "max": 6.24,
+          "mean": 1.77,
+          "median": 1.13,
+          "suggested": 0.85,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir FAMAS | 2A2F (Well-Worn)",
+        "price": {
+          "min": 1.05,
+          "max": 1.21,
+          "mean": 1.13,
+          "median": 1.13,
+          "suggested": 0.88,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir FAMAS | 2A2F (Battle-Scarred)",
+        "price": {
+          "min": 1.27,
+          "max": 7.99,
+          "mean": 4.63,
+          "median": 4.63,
+          "suggested": 0.43,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:29.626Z"
+}

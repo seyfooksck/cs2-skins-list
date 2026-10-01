@@ -1,0 +1,294 @@
+{
+  "id": "skin-06e2ad662c73",
+  "name": "Five-SeveN | Hyper Beast",
+  "paint_index": "660",
+  "weapon": {
+    "id": "weapon_fiveseven",
+    "weapon_id": 3,
+    "name": "Five-SeveN",
+    "slug": "fiveseven"
+  },
+  "pattern": {
+    "id": "cu_fiveseven_hyperbeast",
+    "name": "Hyper Beast"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. It has been custom painted with a beastly creature in psychedelic colors.\\n\\n<i>We're all monsters</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 525.12,
+      "max": 875.2,
+      "mean": 667.18,
+      "median": 616.96,
+      "suggested": 537.97,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 381.27,
+      "max": 1166.94,
+      "mean": 530.57,
+      "median": 447.77,
+      "suggested": 466.52,
+      "quantity": 29,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 308.06,
+      "max": 548.46,
+      "mean": 398.37,
+      "median": 372.26,
+      "suggested": 422.21,
+      "quantity": 25,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 266.9,
+      "max": 413.26,
+      "mean": 330.76,
+      "median": 347.08,
+      "suggested": 313.38,
+      "quantity": 13,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 297.07,
+      "max": 358.45,
+      "mean": 327.76,
+      "median": 327.76,
+      "suggested": 326.45,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Five-SeveN | Hyper Beast (Factory New)",
+      "price": {
+        "min": 525.12,
+        "max": 875.2,
+        "mean": 667.18,
+        "median": 616.96,
+        "suggested": 537.97,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Five-SeveN | Hyper Beast (Minimal Wear)",
+      "price": {
+        "min": 381.27,
+        "max": 1166.94,
+        "mean": 530.57,
+        "median": 447.77,
+        "suggested": 466.52,
+        "quantity": 29,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Five-SeveN | Hyper Beast (Field-Tested)",
+      "price": {
+        "min": 308.06,
+        "max": 548.46,
+        "mean": 398.37,
+        "median": 372.26,
+        "suggested": 422.21,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Five-SeveN | Hyper Beast (Well-Worn)",
+      "price": {
+        "min": 266.9,
+        "max": 413.26,
+        "mean": 330.76,
+        "median": 347.08,
+        "suggested": 313.38,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Five-SeveN | Hyper Beast (Battle-Scarred)",
+      "price": {
+        "min": 297.07,
+        "max": 358.45,
+        "mean": 327.76,
+        "median": 327.76,
+        "suggested": 326.45,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Five-SeveN | Hyper Beast (Factory New)",
+        "price": {
+          "min": 525.12,
+          "max": 875.2,
+          "mean": 667.18,
+          "median": 616.96,
+          "suggested": 537.97,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Five-SeveN | Hyper Beast (Minimal Wear)",
+        "price": {
+          "min": 381.27,
+          "max": 1166.94,
+          "mean": 530.57,
+          "median": 447.77,
+          "suggested": 466.52,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Five-SeveN | Hyper Beast (Field-Tested)",
+        "price": {
+          "min": 308.06,
+          "max": 548.46,
+          "mean": 398.37,
+          "median": 372.26,
+          "suggested": 422.21,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Five-SeveN | Hyper Beast (Well-Worn)",
+        "price": {
+          "min": 266.9,
+          "max": 413.26,
+          "mean": 330.76,
+          "median": 347.08,
+          "suggested": 313.38,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Five-SeveN | Hyper Beast (Battle-Scarred)",
+        "price": {
+          "min": 297.07,
+          "max": 358.45,
+          "mean": 327.76,
+          "median": 327.76,
+          "suggested": 326.45,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Hyper Beast (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Hyper Beast (Minimal Wear)",
+        "price": {
+          "min": 246.46,
+          "max": 288.55,
+          "mean": 263.69,
+          "median": 256.08,
+          "suggested": 330.99,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Hyper Beast (Field-Tested)",
+        "price": {
+          "min": 221.71,
+          "max": 361.75,
+          "mean": 279.92,
+          "median": 268.12,
+          "suggested": 188.85,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Hyper Beast (Well-Worn)",
+        "price": {
+          "min": 150.7,
+          "max": 210.05,
+          "mean": 180.37,
+          "median": 180.37,
+          "suggested": 178.3,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Hyper Beast (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Five-SeveN | Hyper Beast (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Five-SeveN | Hyper Beast (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Five-SeveN | Hyper Beast (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Five-SeveN | Hyper Beast (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Five-SeveN | Hyper Beast (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:30.084Z"
+}

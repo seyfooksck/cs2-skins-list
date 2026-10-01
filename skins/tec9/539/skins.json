@@ -1,0 +1,310 @@
+{
+  "id": "skin-f62914cda55c",
+  "name": "Tec-9 | Jambiya",
+  "paint_index": "539",
+  "weapon": {
+    "id": "weapon_tec9",
+    "weapon_id": 30,
+    "name": "Tec-9",
+    "slug": "tec9"
+  },
+  "pattern": {
+    "id": "gs_tec9_jambiya",
+    "name": "Jambiya"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity. It has been hand painted and laser-etched with middle eastern patterns.\\n\\n<i>Shahrazad told 1000 tales... this is the last one you'll hear</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 17.5,
+      "max": 51.21,
+      "mean": 27.2,
+      "median": 24.56,
+      "suggested": 21.94,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.23,
+      "max": 9.55,
+      "mean": 3.23,
+      "median": 2.64,
+      "suggested": 3.02,
+      "quantity": 23,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.81,
+      "max": 50.18,
+      "mean": 1.7,
+      "median": 1.17,
+      "suggested": 1.23,
+      "quantity": 115,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.44,
+      "max": 4.28,
+      "mean": 0.76,
+      "median": 0.6,
+      "suggested": 0.73,
+      "quantity": 89,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.39,
+      "max": 16.92,
+      "mean": 1.3,
+      "median": 0.55,
+      "suggested": 0.6,
+      "quantity": 56,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Tec-9 | Jambiya (Factory New)",
+      "price": {
+        "min": 17.5,
+        "max": 51.21,
+        "mean": 27.2,
+        "median": 24.56,
+        "suggested": 21.94,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Tec-9 | Jambiya (Minimal Wear)",
+      "price": {
+        "min": 2.23,
+        "max": 9.55,
+        "mean": 3.23,
+        "median": 2.64,
+        "suggested": 3.02,
+        "quantity": 23,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Tec-9 | Jambiya (Field-Tested)",
+      "price": {
+        "min": 0.81,
+        "max": 50.18,
+        "mean": 1.7,
+        "median": 1.17,
+        "suggested": 1.23,
+        "quantity": 115,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Tec-9 | Jambiya (Well-Worn)",
+      "price": {
+        "min": 0.44,
+        "max": 4.28,
+        "mean": 0.76,
+        "median": 0.6,
+        "suggested": 0.73,
+        "quantity": 89,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Tec-9 | Jambiya (Battle-Scarred)",
+      "price": {
+        "min": 0.39,
+        "max": 16.92,
+        "mean": 1.3,
+        "median": 0.55,
+        "suggested": 0.6,
+        "quantity": 56,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Tec-9 | Jambiya (Factory New)",
+        "price": {
+          "min": 17.5,
+          "max": 51.21,
+          "mean": 27.2,
+          "median": 24.56,
+          "suggested": 21.94,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Tec-9 | Jambiya (Minimal Wear)",
+        "price": {
+          "min": 2.23,
+          "max": 9.55,
+          "mean": 3.23,
+          "median": 2.64,
+          "suggested": 3.02,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Tec-9 | Jambiya (Field-Tested)",
+        "price": {
+          "min": 0.81,
+          "max": 50.18,
+          "mean": 1.7,
+          "median": 1.17,
+          "suggested": 1.23,
+          "quantity": 115,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Tec-9 | Jambiya (Well-Worn)",
+        "price": {
+          "min": 0.44,
+          "max": 4.28,
+          "mean": 0.76,
+          "median": 0.6,
+          "suggested": 0.73,
+          "quantity": 89,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Tec-9 | Jambiya (Battle-Scarred)",
+        "price": {
+          "min": 0.39,
+          "max": 16.92,
+          "mean": 1.3,
+          "median": 0.55,
+          "suggested": 0.6,
+          "quantity": 56,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Tec-9 | Jambiya (Factory New)",
+        "price": {
+          "min": 8.24,
+          "max": 43.28,
+          "mean": 14.18,
+          "median": 10.89,
+          "suggested": 8.78,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Tec-9 | Jambiya (Minimal Wear)",
+        "price": {
+          "min": 2.12,
+          "max": 40.71,
+          "mean": 5.37,
+          "median": 2.74,
+          "suggested": 2.68,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Tec-9 | Jambiya (Field-Tested)",
+        "price": {
+          "min": 0.93,
+          "max": 8.22,
+          "mean": 1.41,
+          "median": 1.06,
+          "suggested": 1.25,
+          "quantity": 45,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Tec-9 | Jambiya (Well-Worn)",
+        "price": {
+          "min": 0.54,
+          "max": 2.44,
+          "mean": 0.75,
+          "median": 0.63,
+          "suggested": 0.68,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Tec-9 | Jambiya (Battle-Scarred)",
+        "price": {
+          "min": 0.43,
+          "max": 14,
+          "mean": 1.39,
+          "median": 0.6,
+          "suggested": 0.65,
+          "quantity": 37,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Tec-9 | Jambiya (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Tec-9 | Jambiya (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Tec-9 | Jambiya (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Tec-9 | Jambiya (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Tec-9 | Jambiya (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.314Z"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "skin-87386812a8f9",
+  "name": "P2000 | Urban Hazard",
+  "paint_index": "700",
+  "weapon": {
+    "id": "weapon_hkp2000",
+    "weapon_id": 32,
+    "name": "P2000",
+    "slug": "hkp2000"
+  },
+  "pattern": {
+    "id": "cu_p2000_urban_hazard",
+    "name": "Urban Hazard"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Accurate and controllable, the German-made P2000 is a serviceable first-round pistol that works best against unarmored opponents. It has been custom painted with a grayscale camo grip and a red slide.\\n\\n<i>Hard hats required beyond this point</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 4.11,
+      "max": 46.89,
+      "mean": 11.73,
+      "median": 5.79,
+      "suggested": 6.34,
+      "quantity": 27,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.19,
+      "max": 242.34,
+      "mean": 3.15,
+      "median": 0.28,
+      "suggested": 0.31,
+      "quantity": 88,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.15,
+      "max": 239.51,
+      "mean": 1.32,
+      "median": 0.22,
+      "suggested": 0.22,
+      "quantity": 240,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.09,
+      "max": 2.33,
+      "mean": 0.21,
+      "median": 0.15,
+      "suggested": 0.15,
+      "quantity": 163,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.11,
+      "max": 3.83,
+      "mean": 0.53,
+      "median": 0.15,
+      "suggested": 0.16,
+      "quantity": 58,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P2000 | Urban Hazard (Factory New)",
+      "price": {
+        "min": 4.11,
+        "max": 46.89,
+        "mean": 11.73,
+        "median": 5.79,
+        "suggested": 6.34,
+        "quantity": 27,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P2000 | Urban Hazard (Minimal Wear)",
+      "price": {
+        "min": 0.19,
+        "max": 242.34,
+        "mean": 3.15,
+        "median": 0.28,
+        "suggested": 0.31,
+        "quantity": 88,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P2000 | Urban Hazard (Field-Tested)",
+      "price": {
+        "min": 0.15,
+        "max": 239.51,
+        "mean": 1.32,
+        "median": 0.22,
+        "suggested": 0.22,
+        "quantity": 240,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P2000 | Urban Hazard (Well-Worn)",
+      "price": {
+        "min": 0.09,
+        "max": 2.33,
+        "mean": 0.21,
+        "median": 0.15,
+        "suggested": 0.15,
+        "quantity": 163,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P2000 | Urban Hazard (Battle-Scarred)",
+      "price": {
+        "min": 0.11,
+        "max": 3.83,
+        "mean": 0.53,
+        "median": 0.15,
+        "suggested": 0.16,
+        "quantity": 58,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P2000 | Urban Hazard (Factory New)",
+        "price": {
+          "min": 4.11,
+          "max": 46.89,
+          "mean": 11.73,
+          "median": 5.79,
+          "suggested": 6.34,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P2000 | Urban Hazard (Minimal Wear)",
+        "price": {
+          "min": 0.19,
+          "max": 242.34,
+          "mean": 3.15,
+          "median": 0.28,
+          "suggested": 0.31,
+          "quantity": 88,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P2000 | Urban Hazard (Field-Tested)",
+        "price": {
+          "min": 0.15,
+          "max": 239.51,
+          "mean": 1.32,
+          "median": 0.22,
+          "suggested": 0.22,
+          "quantity": 240,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P2000 | Urban Hazard (Well-Worn)",
+        "price": {
+          "min": 0.09,
+          "max": 2.33,
+          "mean": 0.21,
+          "median": 0.15,
+          "suggested": 0.15,
+          "quantity": 163,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P2000 | Urban Hazard (Battle-Scarred)",
+        "price": {
+          "min": 0.11,
+          "max": 3.83,
+          "mean": 0.53,
+          "median": 0.15,
+          "suggested": 0.16,
+          "quantity": 58,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P2000 | Urban Hazard (Factory New)",
+        "price": {
+          "min": 1.3,
+          "max": 72.34,
+          "mean": 7.8,
+          "median": 2.01,
+          "suggested": 1.55,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P2000 | Urban Hazard (Minimal Wear)",
+        "price": {
+          "min": 0.22,
+          "max": 2.96,
+          "mean": 0.51,
+          "median": 0.29,
+          "suggested": 0.33,
+          "quantity": 41,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P2000 | Urban Hazard (Field-Tested)",
+        "price": {
+          "min": 0.12,
+          "max": 3.51,
+          "mean": 0.35,
+          "median": 0.2,
+          "suggested": 0.17,
+          "quantity": 79,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ P2000 | Urban Hazard (Well-Worn)",
+        "price": {
+          "min": 0.12,
+          "max": 2.23,
+          "mean": 0.32,
+          "median": 0.15,
+          "suggested": 0.15,
+          "quantity": 81,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ P2000 | Urban Hazard (Battle-Scarred)",
+        "price": {
+          "min": 0.11,
+          "max": 41.32,
+          "mean": 1.47,
+          "median": 0.14,
+          "suggested": 0.12,
+          "quantity": 43,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P2000 | Urban Hazard (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P2000 | Urban Hazard (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P2000 | Urban Hazard (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P2000 | Urban Hazard (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P2000 | Urban Hazard (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:32.576Z"
+}

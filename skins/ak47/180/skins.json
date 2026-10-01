@@ -1,0 +1,286 @@
+{
+  "id": "skin-2599a8720f89",
+  "name": "AK-47 | Fire Serpent",
+  "paint_index": "180",
+  "weapon": {
+    "id": "weapon_ak47",
+    "weapon_id": 7,
+    "name": "AK-47",
+    "slug": "ak47"
+  },
+  "pattern": {
+    "id": "cu_fireserpent_ak47_bravo",
+    "name": "Fire Serpent"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.76,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. This memento from Ruins has been painted with a fire serpent motif.\\n\\n<i>If you want to survive in the streets, learn to spit fire</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2705.05,
+      "max": 3320.8,
+      "mean": 2956.86,
+      "median": 2900.78,
+      "suggested": 2838.91,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1122.41,
+      "max": 1865.93,
+      "mean": 1412.25,
+      "median": 1340.46,
+      "suggested": 1271.56,
+      "quantity": 22,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 776.52,
+      "max": 13773.73,
+      "mean": 1344.7,
+      "median": 978.05,
+      "suggested": 881.54,
+      "quantity": 41,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 519.95,
+      "max": 519.95,
+      "mean": 519.95,
+      "median": 519.95,
+      "suggested": 639.26,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AK-47 | Fire Serpent (Factory New)",
+      "price": {
+        "min": 2705.05,
+        "max": 3320.8,
+        "mean": 2956.86,
+        "median": 2900.78,
+        "suggested": 2838.91,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AK-47 | Fire Serpent (Minimal Wear)",
+      "price": {
+        "min": 1122.41,
+        "max": 1865.93,
+        "mean": 1412.25,
+        "median": 1340.46,
+        "suggested": 1271.56,
+        "quantity": 22,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AK-47 | Fire Serpent (Field-Tested)",
+      "price": {
+        "min": 776.52,
+        "max": 13773.73,
+        "mean": 1344.7,
+        "median": 978.05,
+        "suggested": 881.54,
+        "quantity": 41,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AK-47 | Fire Serpent (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AK-47 | Fire Serpent (Battle-Scarred)",
+      "price": {
+        "min": 519.95,
+        "max": 519.95,
+        "mean": 519.95,
+        "median": 519.95,
+        "suggested": 639.26,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AK-47 | Fire Serpent (Factory New)",
+        "price": {
+          "min": 2705.05,
+          "max": 3320.8,
+          "mean": 2956.86,
+          "median": 2900.78,
+          "suggested": 2838.91,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AK-47 | Fire Serpent (Minimal Wear)",
+        "price": {
+          "min": 1122.41,
+          "max": 1865.93,
+          "mean": 1412.25,
+          "median": 1340.46,
+          "suggested": 1271.56,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AK-47 | Fire Serpent (Field-Tested)",
+        "price": {
+          "min": 776.52,
+          "max": 13773.73,
+          "mean": 1344.7,
+          "median": 978.05,
+          "suggested": 881.54,
+          "quantity": 41,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AK-47 | Fire Serpent (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "AK-47 | Fire Serpent (Battle-Scarred)",
+        "price": {
+          "min": 519.95,
+          "max": 519.95,
+          "mean": 519.95,
+          "median": 519.95,
+          "suggested": 639.26,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AK-47 | Fire Serpent (Factory New)",
+        "price": {
+          "min": 5120.72,
+          "max": 5120.72,
+          "mean": 5120.72,
+          "median": 5120.72,
+          "suggested": 6389.42,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AK-47 | Fire Serpent (Minimal Wear)",
+        "price": {
+          "min": 3054.69,
+          "max": 3617.51,
+          "mean": 3336.1,
+          "median": 3336.1,
+          "suggested": 3381.39,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AK-47 | Fire Serpent (Field-Tested)",
+        "price": {
+          "min": 1785.09,
+          "max": 1785.09,
+          "mean": 1785.09,
+          "median": 1785.09,
+          "suggested": 2079.56,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AK-47 | Fire Serpent (Well-Worn)",
+        "price": {
+          "min": 2332.71,
+          "max": 2332.71,
+          "mean": 2332.71,
+          "median": 2332.71,
+          "suggested": 2093.74,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ AK-47 | Fire Serpent (Battle-Scarred)",
+        "price": {
+          "min": 1517.01,
+          "max": 1517.01,
+          "mean": 1517.01,
+          "median": 1517.01,
+          "suggested": 1572.31,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AK-47 | Fire Serpent (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AK-47 | Fire Serpent (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AK-47 | Fire Serpent (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AK-47 | Fire Serpent (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AK-47 | Fire Serpent (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:20:20.682Z"
+}

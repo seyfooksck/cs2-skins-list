@@ -1,0 +1,310 @@
+{
+  "id": "skin-52971a3886a2",
+  "name": "Glock-18 | Moonrise",
+  "paint_index": "694",
+  "weapon": {
+    "id": "weapon_glock",
+    "weapon_id": 4,
+    "name": "Glock-18",
+    "slug": "glock"
+  },
+  "pattern": {
+    "id": "aa_glock_18_urban_moon_fever",
+    "name": "Moonrise"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.65,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. A randomized city landscape in the foreground gives way to a full moon and purple night sky.\\n\\n<i>Look for the North Star</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 4.48,
+      "max": 128.35,
+      "mean": 16.83,
+      "median": 12.51,
+      "suggested": 5.66,
+      "quantity": 186,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.7,
+      "max": 126.02,
+      "mean": 8.24,
+      "median": 3.52,
+      "suggested": 2.05,
+      "quantity": 194,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.93,
+      "max": 40.84,
+      "mean": 4.08,
+      "median": 2.4,
+      "suggested": 1.21,
+      "quantity": 245,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.96,
+      "max": 26.9,
+      "mean": 3.75,
+      "median": 1.19,
+      "suggested": 1.25,
+      "quantity": 33,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.96,
+      "max": 47.84,
+      "mean": 5.2,
+      "median": 1.1,
+      "suggested": 1.16,
+      "quantity": 20,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Glock-18 | Moonrise (Factory New)",
+      "price": {
+        "min": 4.48,
+        "max": 128.35,
+        "mean": 16.83,
+        "median": 12.51,
+        "suggested": 5.66,
+        "quantity": 186,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Glock-18 | Moonrise (Minimal Wear)",
+      "price": {
+        "min": 1.7,
+        "max": 126.02,
+        "mean": 8.24,
+        "median": 3.52,
+        "suggested": 2.05,
+        "quantity": 194,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Glock-18 | Moonrise (Field-Tested)",
+      "price": {
+        "min": 0.93,
+        "max": 40.84,
+        "mean": 4.08,
+        "median": 2.4,
+        "suggested": 1.21,
+        "quantity": 245,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Glock-18 | Moonrise (Well-Worn)",
+      "price": {
+        "min": 0.96,
+        "max": 26.9,
+        "mean": 3.75,
+        "median": 1.19,
+        "suggested": 1.25,
+        "quantity": 33,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Glock-18 | Moonrise (Battle-Scarred)",
+      "price": {
+        "min": 0.96,
+        "max": 47.84,
+        "mean": 5.2,
+        "median": 1.1,
+        "suggested": 1.16,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Glock-18 | Moonrise (Factory New)",
+        "price": {
+          "min": 4.48,
+          "max": 128.35,
+          "mean": 16.83,
+          "median": 12.51,
+          "suggested": 5.66,
+          "quantity": 186,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Glock-18 | Moonrise (Minimal Wear)",
+        "price": {
+          "min": 1.7,
+          "max": 126.02,
+          "mean": 8.24,
+          "median": 3.52,
+          "suggested": 2.05,
+          "quantity": 194,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Glock-18 | Moonrise (Field-Tested)",
+        "price": {
+          "min": 0.93,
+          "max": 40.84,
+          "mean": 4.08,
+          "median": 2.4,
+          "suggested": 1.21,
+          "quantity": 245,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Glock-18 | Moonrise (Well-Worn)",
+        "price": {
+          "min": 0.96,
+          "max": 26.9,
+          "mean": 3.75,
+          "median": 1.19,
+          "suggested": 1.25,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Glock-18 | Moonrise (Battle-Scarred)",
+        "price": {
+          "min": 0.96,
+          "max": 47.84,
+          "mean": 5.2,
+          "median": 1.1,
+          "suggested": 1.16,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Glock-18 | Moonrise (Factory New)",
+        "price": {
+          "min": 7.25,
+          "max": 133.02,
+          "mean": 28.37,
+          "median": 21.4,
+          "suggested": 8.37,
+          "quantity": 54,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Glock-18 | Moonrise (Minimal Wear)",
+        "price": {
+          "min": 3.47,
+          "max": 70.02,
+          "mean": 15.04,
+          "median": 8.75,
+          "suggested": 4.09,
+          "quantity": 73,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Glock-18 | Moonrise (Field-Tested)",
+        "price": {
+          "min": 2.09,
+          "max": 126.02,
+          "mean": 9.01,
+          "median": 4.96,
+          "suggested": 2.79,
+          "quantity": 82,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Glock-18 | Moonrise (Well-Worn)",
+        "price": {
+          "min": 2.16,
+          "max": 4.08,
+          "mean": 2.77,
+          "median": 2.71,
+          "suggested": 2.51,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Glock-18 | Moonrise (Battle-Scarred)",
+        "price": {
+          "min": 1.89,
+          "max": 46.89,
+          "mean": 8.48,
+          "median": 2.17,
+          "suggested": 2.34,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Glock-18 | Moonrise (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Glock-18 | Moonrise (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Glock-18 | Moonrise (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Glock-18 | Moonrise (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Glock-18 | Moonrise (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:31.458Z"
+}

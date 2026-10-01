@@ -1,0 +1,258 @@
+{
+  "id": "skin-ee5f48068381",
+  "name": "XM1014 | Incinegator",
+  "paint_index": "850",
+  "weapon": {
+    "id": "weapon_xm1014",
+    "weapon_id": 25,
+    "name": "XM1014",
+    "slug": "xm1014"
+  },
+  "pattern": {
+    "id": "cu_xm1014_incinerator",
+    "name": "Incinegator"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0.14,
+  "max_float": 0.65,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The XM1014 is a powerful fully automatic shotgun that justifies its heftier price tag with the ability to paint a room with lead fast. A custom paint job resembling a gator spitting fire has been applied.\\n\\n<i>Boom. Bam. Bop... Pow.</i>",
+  "images": {
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "mw": {
+      "min": 41.48,
+      "max": 324.61,
+      "mean": 83.86,
+      "median": 54.38,
+      "suggested": 50.66,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 5.88,
+      "max": 320.56,
+      "mean": 9.44,
+      "median": 6.37,
+      "suggested": 7.6,
+      "quantity": 256,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 5.5,
+      "max": 12.29,
+      "mean": 9.27,
+      "median": 9.64,
+      "suggested": 6.63,
+      "quantity": 22,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 5.31,
+      "max": 56.36,
+      "mean": 14.1,
+      "median": 5.94,
+      "suggested": 6.32,
+      "quantity": 18,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "XM1014 | Incinegator (Minimal Wear)",
+      "price": {
+        "min": 41.48,
+        "max": 324.61,
+        "mean": 83.86,
+        "median": 54.38,
+        "suggested": 50.66,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "XM1014 | Incinegator (Field-Tested)",
+      "price": {
+        "min": 5.88,
+        "max": 320.56,
+        "mean": 9.44,
+        "median": 6.37,
+        "suggested": 7.6,
+        "quantity": 256,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "XM1014 | Incinegator (Well-Worn)",
+      "price": {
+        "min": 5.5,
+        "max": 12.29,
+        "mean": 9.27,
+        "median": 9.64,
+        "suggested": 6.63,
+        "quantity": 22,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "XM1014 | Incinegator (Battle-Scarred)",
+      "price": {
+        "min": 5.31,
+        "max": 56.36,
+        "mean": 14.1,
+        "median": 5.94,
+        "suggested": 6.32,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "mw": {
+        "market_hash_name": "XM1014 | Incinegator (Minimal Wear)",
+        "price": {
+          "min": 41.48,
+          "max": 324.61,
+          "mean": 83.86,
+          "median": 54.38,
+          "suggested": 50.66,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "XM1014 | Incinegator (Field-Tested)",
+        "price": {
+          "min": 5.88,
+          "max": 320.56,
+          "mean": 9.44,
+          "median": 6.37,
+          "suggested": 7.6,
+          "quantity": 256,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "XM1014 | Incinegator (Well-Worn)",
+        "price": {
+          "min": 5.5,
+          "max": 12.29,
+          "mean": 9.27,
+          "median": 9.64,
+          "suggested": 6.63,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "XM1014 | Incinegator (Battle-Scarred)",
+        "price": {
+          "min": 5.31,
+          "max": 56.36,
+          "mean": 14.1,
+          "median": 5.94,
+          "suggested": 6.32,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "mw": {
+        "market_hash_name": "StatTrak™ XM1014 | Incinegator (Minimal Wear)",
+        "price": {
+          "min": 75.49,
+          "max": 75.49,
+          "mean": 75.49,
+          "median": 75.49,
+          "suggested": 61.23,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ XM1014 | Incinegator (Field-Tested)",
+        "price": {
+          "min": 7.07,
+          "max": 13.84,
+          "mean": 9.22,
+          "median": 8.33,
+          "suggested": 8.46,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ XM1014 | Incinegator (Well-Worn)",
+        "price": {
+          "min": 6.39,
+          "max": 12.49,
+          "mean": 8.66,
+          "median": 7.09,
+          "suggested": 7.46,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ XM1014 | Incinegator (Battle-Scarred)",
+        "price": {
+          "min": 5.45,
+          "max": 36.07,
+          "mean": 8.94,
+          "median": 5.96,
+          "suggested": 6.78,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "mw": {
+        "market_hash_name": "Souvenir XM1014 | Incinegator (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir XM1014 | Incinegator (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir XM1014 | Incinegator (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir XM1014 | Incinegator (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:51.202Z"
+}

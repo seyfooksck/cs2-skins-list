@@ -1,0 +1,234 @@
+{
+  "id": "skin-011747eede4b",
+  "name": "Dual Berettas | Retribution",
+  "paint_index": "307",
+  "weapon": {
+    "id": "weapon_elite",
+    "weapon_id": 2,
+    "name": "Dual Berettas",
+    "slug": "elite"
+  },
+  "pattern": {
+    "id": "cu_retribution",
+    "name": "Retribution"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.45,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. It has been custom painted in a military themed design.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 6.17,
+      "max": 46.67,
+      "mean": 17.36,
+      "median": 9.15,
+      "suggested": 7.32,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 3.69,
+      "max": 3.75,
+      "mean": 3.72,
+      "median": 3.72,
+      "suggested": 4.23,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 7.08,
+      "max": 7.08,
+      "mean": 7.08,
+      "median": 7.08,
+      "suggested": 3.34,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ww": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Dual Berettas | Retribution (Factory New)",
+      "price": {
+        "min": 6.17,
+        "max": 46.67,
+        "mean": 17.36,
+        "median": 9.15,
+        "suggested": 7.32,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Dual Berettas | Retribution (Minimal Wear)",
+      "price": {
+        "min": 3.69,
+        "max": 3.75,
+        "mean": 3.72,
+        "median": 3.72,
+        "suggested": 4.23,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Dual Berettas | Retribution (Field-Tested)",
+      "price": {
+        "min": 7.08,
+        "max": 7.08,
+        "mean": 7.08,
+        "median": 7.08,
+        "suggested": 3.34,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Dual Berettas | Retribution (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Dual Berettas | Retribution (Factory New)",
+        "price": {
+          "min": 6.17,
+          "max": 46.67,
+          "mean": 17.36,
+          "median": 9.15,
+          "suggested": 7.32,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Dual Berettas | Retribution (Minimal Wear)",
+        "price": {
+          "min": 3.69,
+          "max": 3.75,
+          "mean": 3.72,
+          "median": 3.72,
+          "suggested": 4.23,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Dual Berettas | Retribution (Field-Tested)",
+        "price": {
+          "min": 7.08,
+          "max": 7.08,
+          "mean": 7.08,
+          "median": 7.08,
+          "suggested": 3.34,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Dual Berettas | Retribution (Well-Worn)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Dual Berettas | Retribution (Factory New)",
+        "price": {
+          "min": 6.92,
+          "max": 38.5,
+          "mean": 16,
+          "median": 9.3,
+          "suggested": 7.59,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Dual Berettas | Retribution (Minimal Wear)",
+        "price": {
+          "min": 4.5,
+          "max": 9.24,
+          "mean": 6.87,
+          "median": 6.87,
+          "suggested": 4.59,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Dual Berettas | Retribution (Field-Tested)",
+        "price": {
+          "min": 4.07,
+          "max": 121.36,
+          "mean": 28.05,
+          "median": 11.83,
+          "suggested": 5.18,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Dual Berettas | Retribution (Well-Worn)",
+        "price": {
+          "min": 11.45,
+          "max": 11.45,
+          "mean": 11.45,
+          "median": 11.45,
+          "suggested": 8.53,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Dual Berettas | Retribution (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Dual Berettas | Retribution (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Dual Berettas | Retribution (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Dual Berettas | Retribution (Well-Worn)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:28.785Z"
+}

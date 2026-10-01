@@ -1,0 +1,225 @@
+{
+  "id": "skin-5f88639ccf1f",
+  "name": "★ Stiletto Knife | Urban Masked",
+  "paint_index": "143",
+  "weapon": {
+    "id": "weapon_knife_stiletto",
+    "weapon_id": 522,
+    "name": "Stiletto Knife",
+    "slug": "knife_stiletto"
+  },
+  "pattern": {
+    "id": "sp_tape_urban",
+    "name": "Urban Masked"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Historically a focal point of contention and even regulation, this Italian-style stiletto switchblade knife features a spring-loaded blade that can be deployed almost instantly with the push of a release catch. It has been spray-painted using a tangle of masking tape as a stencil.\\n\\n<i>True power is demonstrated with subtle application</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 480.32,
+      "max": 480.32,
+      "mean": 480.32,
+      "median": 480.32,
+      "suggested": 256.32,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 155.55,
+      "max": 233.39,
+      "mean": 184.83,
+      "median": 178.39,
+      "suggested": 203.65,
+      "quantity": 13,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 155.09,
+      "max": 252.34,
+      "mean": 189.92,
+      "median": 162.34,
+      "suggested": 189.45,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 127.2,
+      "max": 153.95,
+      "mean": 140.58,
+      "median": 140.58,
+      "suggested": 183.84,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Stiletto Knife | Urban Masked (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Stiletto Knife | Urban Masked (Minimal Wear)",
+      "price": {
+        "min": 480.32,
+        "max": 480.32,
+        "mean": 480.32,
+        "median": 480.32,
+        "suggested": 256.32,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Stiletto Knife | Urban Masked (Field-Tested)",
+      "price": {
+        "min": 155.55,
+        "max": 233.39,
+        "mean": 184.83,
+        "median": 178.39,
+        "suggested": 203.65,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Stiletto Knife | Urban Masked (Well-Worn)",
+      "price": {
+        "min": 155.09,
+        "max": 252.34,
+        "mean": 189.92,
+        "median": 162.34,
+        "suggested": 189.45,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Stiletto Knife | Urban Masked (Battle-Scarred)",
+      "price": {
+        "min": 127.2,
+        "max": 153.95,
+        "mean": 140.58,
+        "median": 140.58,
+        "suggested": 183.84,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Stiletto Knife | Urban Masked (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Stiletto Knife | Urban Masked (Minimal Wear)",
+        "price": {
+          "min": 480.32,
+          "max": 480.32,
+          "mean": 480.32,
+          "median": 480.32,
+          "suggested": 256.32,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Stiletto Knife | Urban Masked (Field-Tested)",
+        "price": {
+          "min": 155.55,
+          "max": 233.39,
+          "mean": 184.83,
+          "median": 178.39,
+          "suggested": 203.65,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Stiletto Knife | Urban Masked (Well-Worn)",
+        "price": {
+          "min": 155.09,
+          "max": 252.34,
+          "mean": 189.92,
+          "median": 162.34,
+          "suggested": 189.45,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Stiletto Knife | Urban Masked (Battle-Scarred)",
+        "price": {
+          "min": 127.2,
+          "max": 153.95,
+          "mean": 140.58,
+          "median": 140.58,
+          "suggested": 183.84,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Stiletto Knife | Urban Masked (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Stiletto Knife | Urban Masked (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Stiletto Knife | Urban Masked (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Stiletto Knife | Urban Masked (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Stiletto Knife | Urban Masked (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:38.142Z"
+}

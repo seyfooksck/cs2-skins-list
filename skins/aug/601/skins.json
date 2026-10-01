@@ -1,0 +1,310 @@
+{
+  "id": "skin-ba00fd57f9ef",
+  "name": "AUG | Syd Mead",
+  "paint_index": "601",
+  "weapon": {
+    "id": "weapon_aug",
+    "weapon_id": 8,
+    "name": "AUG",
+    "slug": "aug"
+  },
+  "pattern": {
+    "id": "gs_aug_syd_mead",
+    "name": "Syd Mead"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.8,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire. It has been custom designed by renowned artist Syd Mead.\\n\\n<i>In the past he gave us visions of the future; in the present he placed the future in our hands...</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 28.15,
+      "max": 288.55,
+      "mean": 69.81,
+      "median": 42.32,
+      "suggested": 37.35,
+      "quantity": 25,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 12.11,
+      "max": 180.25,
+      "mean": 17.24,
+      "median": 13.55,
+      "suggested": 15,
+      "quantity": 66,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 11.6,
+      "max": 135.36,
+      "mean": 15.25,
+      "median": 12.29,
+      "suggested": 14.67,
+      "quantity": 99,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 11.4,
+      "max": 15.94,
+      "mean": 12.99,
+      "median": 11.98,
+      "suggested": 13.23,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 10.92,
+      "max": 13.24,
+      "mean": 11.73,
+      "median": 11.59,
+      "suggested": 12.73,
+      "quantity": 13,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AUG | Syd Mead (Factory New)",
+      "price": {
+        "min": 28.15,
+        "max": 288.55,
+        "mean": 69.81,
+        "median": 42.32,
+        "suggested": 37.35,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AUG | Syd Mead (Minimal Wear)",
+      "price": {
+        "min": 12.11,
+        "max": 180.25,
+        "mean": 17.24,
+        "median": 13.55,
+        "suggested": 15,
+        "quantity": 66,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AUG | Syd Mead (Field-Tested)",
+      "price": {
+        "min": 11.6,
+        "max": 135.36,
+        "mean": 15.25,
+        "median": 12.29,
+        "suggested": 14.67,
+        "quantity": 99,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AUG | Syd Mead (Well-Worn)",
+      "price": {
+        "min": 11.4,
+        "max": 15.94,
+        "mean": 12.99,
+        "median": 11.98,
+        "suggested": 13.23,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AUG | Syd Mead (Battle-Scarred)",
+      "price": {
+        "min": 10.92,
+        "max": 13.24,
+        "mean": 11.73,
+        "median": 11.59,
+        "suggested": 12.73,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AUG | Syd Mead (Factory New)",
+        "price": {
+          "min": 28.15,
+          "max": 288.55,
+          "mean": 69.81,
+          "median": 42.32,
+          "suggested": 37.35,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AUG | Syd Mead (Minimal Wear)",
+        "price": {
+          "min": 12.11,
+          "max": 180.25,
+          "mean": 17.24,
+          "median": 13.55,
+          "suggested": 15,
+          "quantity": 66,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AUG | Syd Mead (Field-Tested)",
+        "price": {
+          "min": 11.6,
+          "max": 135.36,
+          "mean": 15.25,
+          "median": 12.29,
+          "suggested": 14.67,
+          "quantity": 99,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AUG | Syd Mead (Well-Worn)",
+        "price": {
+          "min": 11.4,
+          "max": 15.94,
+          "mean": 12.99,
+          "median": 11.98,
+          "suggested": 13.23,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AUG | Syd Mead (Battle-Scarred)",
+        "price": {
+          "min": 10.92,
+          "max": 13.24,
+          "mean": 11.73,
+          "median": 11.59,
+          "suggested": 12.73,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AUG | Syd Mead (Factory New)",
+        "price": {
+          "min": 23.42,
+          "max": 33.54,
+          "mean": 28.08,
+          "median": 26.66,
+          "suggested": 31.32,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AUG | Syd Mead (Minimal Wear)",
+        "price": {
+          "min": 13.5,
+          "max": 22.72,
+          "mean": 17.55,
+          "median": 17.74,
+          "suggested": 14.83,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AUG | Syd Mead (Field-Tested)",
+        "price": {
+          "min": 9.29,
+          "max": 135.35,
+          "mean": 16.71,
+          "median": 10.51,
+          "suggested": 12.3,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AUG | Syd Mead (Well-Worn)",
+        "price": {
+          "min": 8.89,
+          "max": 10,
+          "mean": 9.45,
+          "median": 9.45,
+          "suggested": 11.76,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ AUG | Syd Mead (Battle-Scarred)",
+        "price": {
+          "min": 9.22,
+          "max": 25.61,
+          "mean": 15.1,
+          "median": 14.95,
+          "suggested": 11.89,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AUG | Syd Mead (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AUG | Syd Mead (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AUG | Syd Mead (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AUG | Syd Mead (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AUG | Syd Mead (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.502Z"
+}

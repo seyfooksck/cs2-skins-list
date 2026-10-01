@@ -1,0 +1,225 @@
+{
+  "id": "skin-a0876f0e4bab",
+  "name": "★ Stiletto Knife | Damascus Steel",
+  "paint_index": "857",
+  "weapon": {
+    "id": "weapon_knife_stiletto",
+    "weapon_id": 522,
+    "name": "Stiletto Knife",
+    "slug": "knife_stiletto"
+  },
+  "pattern": {
+    "id": "aq_damascus_prisma",
+    "name": "Damascus Steel"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Historically a focal point of contention and even regulation, this Italian-style stiletto switchblade knife features a spring-loaded blade that can be deployed almost instantly with the push of a release catch. It has some damascus steel parts.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 228.72,
+      "max": 326.74,
+      "mean": 259.24,
+      "median": 253.3,
+      "suggested": 291.15,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 204.21,
+      "max": 347.19,
+      "mean": 238.04,
+      "median": 228.66,
+      "suggested": 264.14,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 200.69,
+      "max": 379.8,
+      "mean": 225.38,
+      "median": 215.61,
+      "suggested": 250.25,
+      "quantity": 18,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Stiletto Knife | Damascus Steel (Factory New)",
+      "price": {
+        "min": 228.72,
+        "max": 326.74,
+        "mean": 259.24,
+        "median": 253.3,
+        "suggested": 291.15,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Stiletto Knife | Damascus Steel (Minimal Wear)",
+      "price": {
+        "min": 204.21,
+        "max": 347.19,
+        "mean": 238.04,
+        "median": 228.66,
+        "suggested": 264.14,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Stiletto Knife | Damascus Steel (Field-Tested)",
+      "price": {
+        "min": 200.69,
+        "max": 379.8,
+        "mean": 225.38,
+        "median": 215.61,
+        "suggested": 250.25,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Stiletto Knife | Damascus Steel (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Stiletto Knife | Damascus Steel (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Stiletto Knife | Damascus Steel (Factory New)",
+        "price": {
+          "min": 228.72,
+          "max": 326.74,
+          "mean": 259.24,
+          "median": 253.3,
+          "suggested": 291.15,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Stiletto Knife | Damascus Steel (Minimal Wear)",
+        "price": {
+          "min": 204.21,
+          "max": 347.19,
+          "mean": 238.04,
+          "median": 228.66,
+          "suggested": 264.14,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Stiletto Knife | Damascus Steel (Field-Tested)",
+        "price": {
+          "min": 200.69,
+          "max": 379.8,
+          "mean": 225.38,
+          "median": 215.61,
+          "suggested": 250.25,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Stiletto Knife | Damascus Steel (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ Stiletto Knife | Damascus Steel (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Stiletto Knife | Damascus Steel (Factory New)",
+        "price": {
+          "min": 270.6,
+          "max": 350.08,
+          "mean": 297.39,
+          "median": 271.51,
+          "suggested": 306.69,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Stiletto Knife | Damascus Steel (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Stiletto Knife | Damascus Steel (Field-Tested)",
+        "price": {
+          "min": 222.02,
+          "max": 350.08,
+          "mean": 286.05,
+          "median": 286.05,
+          "suggested": 256.54,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Stiletto Knife | Damascus Steel (Well-Worn)",
+        "price": {
+          "min": 220.62,
+          "max": 220.62,
+          "mean": 220.62,
+          "median": 220.62,
+          "suggested": 253.38,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Stiletto Knife | Damascus Steel (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:38.006Z"
+}

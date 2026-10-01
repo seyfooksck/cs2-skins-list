@@ -1,0 +1,265 @@
+{
+  "id": "skin-3f663fae062e",
+  "name": "★ Survival Knife | Night Stripe",
+  "paint_index": "735",
+  "weapon": {
+    "id": "weapon_knife_canis",
+    "weapon_id": 518,
+    "name": "Survival Knife",
+    "slug": "knife_canis"
+  },
+  "pattern": {
+    "id": "sp_nightstripe",
+    "name": "Night Stripe"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been spray-painted with a tape mask pattern in a night ops color scheme.\\n\\n<i>Spray... Pray... Paint... Stab.</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 128.35,
+      "max": 128.35,
+      "mean": 128.35,
+      "median": 128.35,
+      "suggested": 169.06,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 63,
+      "max": 65.21,
+      "mean": 63.88,
+      "median": 63.43,
+      "suggested": 74.18,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 55.25,
+      "max": 134.29,
+      "mean": 74.58,
+      "median": 60,
+      "suggested": 65.09,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 68.29,
+      "max": 73.65,
+      "mean": 70.97,
+      "median": 70.97,
+      "suggested": 64.7,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 56.86,
+      "max": 70.02,
+      "mean": 61.82,
+      "median": 61.47,
+      "suggested": 61.17,
+      "quantity": 6,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Survival Knife | Night Stripe (Factory New)",
+      "price": {
+        "min": 128.35,
+        "max": 128.35,
+        "mean": 128.35,
+        "median": 128.35,
+        "suggested": 169.06,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Survival Knife | Night Stripe (Minimal Wear)",
+      "price": {
+        "min": 63,
+        "max": 65.21,
+        "mean": 63.88,
+        "median": 63.43,
+        "suggested": 74.18,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Survival Knife | Night Stripe (Field-Tested)",
+      "price": {
+        "min": 55.25,
+        "max": 134.29,
+        "mean": 74.58,
+        "median": 60,
+        "suggested": 65.09,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Survival Knife | Night Stripe (Well-Worn)",
+      "price": {
+        "min": 68.29,
+        "max": 73.65,
+        "mean": 70.97,
+        "median": 70.97,
+        "suggested": 64.7,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Survival Knife | Night Stripe (Battle-Scarred)",
+      "price": {
+        "min": 56.86,
+        "max": 70.02,
+        "mean": 61.82,
+        "median": 61.47,
+        "suggested": 61.17,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Survival Knife | Night Stripe (Factory New)",
+        "price": {
+          "min": 128.35,
+          "max": 128.35,
+          "mean": 128.35,
+          "median": 128.35,
+          "suggested": 169.06,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Survival Knife | Night Stripe (Minimal Wear)",
+        "price": {
+          "min": 63,
+          "max": 65.21,
+          "mean": 63.88,
+          "median": 63.43,
+          "suggested": 74.18,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Survival Knife | Night Stripe (Field-Tested)",
+        "price": {
+          "min": 55.25,
+          "max": 134.29,
+          "mean": 74.58,
+          "median": 60,
+          "suggested": 65.09,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Survival Knife | Night Stripe (Well-Worn)",
+        "price": {
+          "min": 68.29,
+          "max": 73.65,
+          "mean": 70.97,
+          "median": 70.97,
+          "suggested": 64.7,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Survival Knife | Night Stripe (Battle-Scarred)",
+        "price": {
+          "min": 56.86,
+          "max": 70.02,
+          "mean": 61.82,
+          "median": 61.47,
+          "suggested": 61.17,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Night Stripe (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Night Stripe (Minimal Wear)",
+        "price": {
+          "min": 98.34,
+          "max": 98.34,
+          "mean": 98.34,
+          "median": 98.34,
+          "suggested": 108.41,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Night Stripe (Field-Tested)",
+        "price": {
+          "min": 63.82,
+          "max": 72.35,
+          "mean": 68.09,
+          "median": 68.09,
+          "suggested": 78.17,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Night Stripe (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Night Stripe (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:33.532Z"
+}

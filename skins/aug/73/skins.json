@@ -1,0 +1,154 @@
+{
+  "id": "skin-b4a128e52d9e",
+  "name": "AUG | Wings",
+  "paint_index": "73",
+  "weapon": {
+    "id": "weapon_aug",
+    "weapon_id": 8,
+    "name": "AUG",
+    "slug": "aug"
+  },
+  "pattern": {
+    "id": "hy_feathers_aug",
+    "name": "Wings"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.14,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire. It has been decorated with dry-transfer decals of eagle feathers.\\n\\n<i>An eagle looks majestic until it's clawing your eyes out</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 17,
+      "max": 291.73,
+      "mean": 39.34,
+      "median": 31.33,
+      "suggested": 20.57,
+      "quantity": 66,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 15.75,
+      "max": 58.35,
+      "mean": 25.35,
+      "median": 19.88,
+      "suggested": 20.47,
+      "quantity": 12,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AUG | Wings (Factory New)",
+      "price": {
+        "min": 17,
+        "max": 291.73,
+        "mean": 39.34,
+        "median": 31.33,
+        "suggested": 20.57,
+        "quantity": 66,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AUG | Wings (Minimal Wear)",
+      "price": {
+        "min": 15.75,
+        "max": 58.35,
+        "mean": 25.35,
+        "median": 19.88,
+        "suggested": 20.47,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AUG | Wings (Factory New)",
+        "price": {
+          "min": 17,
+          "max": 291.73,
+          "mean": 39.34,
+          "median": 31.33,
+          "suggested": 20.57,
+          "quantity": 66,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AUG | Wings (Minimal Wear)",
+        "price": {
+          "min": 15.75,
+          "max": 58.35,
+          "mean": 25.35,
+          "median": 19.88,
+          "suggested": 20.47,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AUG | Wings (Factory New)",
+        "price": {
+          "min": 18.12,
+          "max": 8168.56,
+          "mean": 185.81,
+          "median": 35.65,
+          "suggested": 24.22,
+          "quantity": 80,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AUG | Wings (Minimal Wear)",
+        "price": {
+          "min": 21.59,
+          "max": 482.13,
+          "mean": 138.96,
+          "median": 33.65,
+          "suggested": 19.3,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AUG | Wings (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AUG | Wings (Minimal Wear)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.587Z"
+}

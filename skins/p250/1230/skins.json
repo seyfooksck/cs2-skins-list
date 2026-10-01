@@ -1,0 +1,310 @@
+{
+  "id": "skin-db200bb3a1ef",
+  "name": "P250 | Re.built",
+  "paint_index": "1230",
+  "weapon": {
+    "id": "weapon_p250",
+    "weapon_id": 36,
+    "name": "P250",
+    "slug": "p250"
+  },
+  "pattern": {
+    "id": "cu_p250_rebuilt",
+    "name": "Re.built"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.9,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A low-recoil firearm with a high rate of fire, the P250 is a relatively inexpensive choice against armored opponents. Interlocking triangles and other clean, minimal designs have been custom painted on this P250.\\n\\n<i>Ninth time's the charm</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.86,
+      "max": 19.83,
+      "mean": 3.57,
+      "median": 2.61,
+      "suggested": 1.19,
+      "quantity": 176,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.13,
+      "max": 32.67,
+      "mean": 0.44,
+      "median": 0.21,
+      "suggested": 0.23,
+      "quantity": 378,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.06,
+      "max": 4.1,
+      "mean": 0.19,
+      "median": 0.09,
+      "suggested": 0.09,
+      "quantity": 1203,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.06,
+      "max": 3.5,
+      "mean": 0.13,
+      "median": 0.09,
+      "suggested": 0.09,
+      "quantity": 329,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.07,
+      "max": 3.5,
+      "mean": 0.12,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 426,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P250 | Re.built (Factory New)",
+      "price": {
+        "min": 0.86,
+        "max": 19.83,
+        "mean": 3.57,
+        "median": 2.61,
+        "suggested": 1.19,
+        "quantity": 176,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P250 | Re.built (Minimal Wear)",
+      "price": {
+        "min": 0.13,
+        "max": 32.67,
+        "mean": 0.44,
+        "median": 0.21,
+        "suggested": 0.23,
+        "quantity": 378,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P250 | Re.built (Field-Tested)",
+      "price": {
+        "min": 0.06,
+        "max": 4.1,
+        "mean": 0.19,
+        "median": 0.09,
+        "suggested": 0.09,
+        "quantity": 1203,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P250 | Re.built (Well-Worn)",
+      "price": {
+        "min": 0.06,
+        "max": 3.5,
+        "mean": 0.13,
+        "median": 0.09,
+        "suggested": 0.09,
+        "quantity": 329,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P250 | Re.built (Battle-Scarred)",
+      "price": {
+        "min": 0.07,
+        "max": 3.5,
+        "mean": 0.12,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 426,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P250 | Re.built (Factory New)",
+        "price": {
+          "min": 0.86,
+          "max": 19.83,
+          "mean": 3.57,
+          "median": 2.61,
+          "suggested": 1.19,
+          "quantity": 176,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P250 | Re.built (Minimal Wear)",
+        "price": {
+          "min": 0.13,
+          "max": 32.67,
+          "mean": 0.44,
+          "median": 0.21,
+          "suggested": 0.23,
+          "quantity": 378,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P250 | Re.built (Field-Tested)",
+        "price": {
+          "min": 0.06,
+          "max": 4.1,
+          "mean": 0.19,
+          "median": 0.09,
+          "suggested": 0.09,
+          "quantity": 1203,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P250 | Re.built (Well-Worn)",
+        "price": {
+          "min": 0.06,
+          "max": 3.5,
+          "mean": 0.13,
+          "median": 0.09,
+          "suggested": 0.09,
+          "quantity": 329,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P250 | Re.built (Battle-Scarred)",
+        "price": {
+          "min": 0.07,
+          "max": 3.5,
+          "mean": 0.12,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 426,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P250 | Re.built (Factory New)",
+        "price": {
+          "min": 0.97,
+          "max": 18.66,
+          "mean": 4.24,
+          "median": 3.48,
+          "suggested": 1.11,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P250 | Re.built (Minimal Wear)",
+        "price": {
+          "min": 0.16,
+          "max": 18.85,
+          "mean": 0.57,
+          "median": 0.25,
+          "suggested": 0.23,
+          "quantity": 160,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P250 | Re.built (Field-Tested)",
+        "price": {
+          "min": 0.08,
+          "max": 2.11,
+          "mean": 0.22,
+          "median": 0.13,
+          "suggested": 0.1,
+          "quantity": 308,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ P250 | Re.built (Well-Worn)",
+        "price": {
+          "min": 0.08,
+          "max": 1.66,
+          "mean": 0.15,
+          "median": 0.12,
+          "suggested": 0.1,
+          "quantity": 105,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ P250 | Re.built (Battle-Scarred)",
+        "price": {
+          "min": 0.08,
+          "max": 9.21,
+          "mean": 0.22,
+          "median": 0.12,
+          "suggested": 0.1,
+          "quantity": 117,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P250 | Re.built (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P250 | Re.built (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P250 | Re.built (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P250 | Re.built (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P250 | Re.built (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:45.167Z"
+}

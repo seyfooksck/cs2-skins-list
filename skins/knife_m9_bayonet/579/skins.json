@@ -1,0 +1,209 @@
+{
+  "id": "skin-26b0b871b60f",
+  "name": "★ M9 Bayonet | Bright Water",
+  "paint_index": "579",
+  "weapon": {
+    "id": "weapon_knife_m9_bayonet",
+    "weapon_id": 508,
+    "name": "M9 Bayonet",
+    "slug": "knife_m9_bayonet"
+  },
+  "pattern": {
+    "id": "hy_ocean_knife_90",
+    "name": "Bright Water"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This is the M-9 bayonet.  Originally intended to be mounted on a rifle, it is also well suited to close-quarters combat. It has been painted using a blue camo hydrographic.\\n\\n<i>Ours is a world of intrigue...but sometimes camouflage is meant to be seen - Booth, Arms Dealer</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 463.95,
+      "max": 1216.68,
+      "mean": 740.85,
+      "median": 525.12,
+      "suggested": 497.97,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 436.67,
+      "max": 583.47,
+      "mean": 485.91,
+      "median": 437.6,
+      "suggested": 453.64,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 367.98,
+      "max": 583.47,
+      "mean": 412.05,
+      "median": 388.98,
+      "suggested": 464.48,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ M9 Bayonet | Bright Water (Factory New)",
+      "price": {
+        "min": 463.95,
+        "max": 1216.68,
+        "mean": 740.85,
+        "median": 525.12,
+        "suggested": 497.97,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ M9 Bayonet | Bright Water (Minimal Wear)",
+      "price": {
+        "min": 436.67,
+        "max": 583.47,
+        "mean": 485.91,
+        "median": 437.6,
+        "suggested": 453.64,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ M9 Bayonet | Bright Water (Field-Tested)",
+      "price": {
+        "min": 367.98,
+        "max": 583.47,
+        "mean": 412.05,
+        "median": 388.98,
+        "suggested": 464.48,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ M9 Bayonet | Bright Water (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ M9 Bayonet | Bright Water (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ M9 Bayonet | Bright Water (Factory New)",
+        "price": {
+          "min": 463.95,
+          "max": 1216.68,
+          "mean": 740.85,
+          "median": 525.12,
+          "suggested": 497.97,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ M9 Bayonet | Bright Water (Minimal Wear)",
+        "price": {
+          "min": 436.67,
+          "max": 583.47,
+          "mean": 485.91,
+          "median": 437.6,
+          "suggested": 453.64,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ M9 Bayonet | Bright Water (Field-Tested)",
+        "price": {
+          "min": 367.98,
+          "max": 583.47,
+          "mean": 412.05,
+          "median": 388.98,
+          "suggested": 464.48,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ M9 Bayonet | Bright Water (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ M9 Bayonet | Bright Water (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Bright Water (Factory New)",
+        "price": {
+          "min": 548.46,
+          "max": 921.73,
+          "mean": 722.72,
+          "median": 697.96,
+          "suggested": 552.4,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Bright Water (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Bright Water (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Bright Water (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Bright Water (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:36.718Z"
+}

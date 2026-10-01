@@ -1,0 +1,310 @@
+{
+  "id": "skin-be0f8a429ce6",
+  "name": "Nova | Clear Polymer",
+  "paint_index": "987",
+  "weapon": {
+    "id": "weapon_nova",
+    "weapon_id": 35,
+    "name": "Nova",
+    "slug": "nova"
+  },
+  "pattern": {
+    "id": "cu_nova_polymer",
+    "name": "Clear Polymer"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Nova's rock-bottom price tag makes it a great ambush weapon for a cash-strapped team. It has been custom painted to look like its casing is transparent, allowing you to see inside the weapon.\\n\\n<i>Your goals are clear</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 20.58,
+      "max": 72.14,
+      "mean": 33.16,
+      "median": 30.8,
+      "suggested": 23.87,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 10.4,
+      "max": 93.35,
+      "mean": 21.32,
+      "median": 12.56,
+      "suggested": 12.6,
+      "quantity": 13,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 3.66,
+      "max": 6.29,
+      "mean": 4.75,
+      "median": 4.78,
+      "suggested": 4.95,
+      "quantity": 28,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 2.91,
+      "max": 5.51,
+      "mean": 3.69,
+      "median": 3.26,
+      "suggested": 3.6,
+      "quantity": 16,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 2.57,
+      "max": 8.17,
+      "mean": 3.48,
+      "median": 2.96,
+      "suggested": 3.19,
+      "quantity": 19,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Nova | Clear Polymer (Factory New)",
+      "price": {
+        "min": 20.58,
+        "max": 72.14,
+        "mean": 33.16,
+        "median": 30.8,
+        "suggested": 23.87,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Nova | Clear Polymer (Minimal Wear)",
+      "price": {
+        "min": 10.4,
+        "max": 93.35,
+        "mean": 21.32,
+        "median": 12.56,
+        "suggested": 12.6,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Nova | Clear Polymer (Field-Tested)",
+      "price": {
+        "min": 3.66,
+        "max": 6.29,
+        "mean": 4.75,
+        "median": 4.78,
+        "suggested": 4.95,
+        "quantity": 28,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Nova | Clear Polymer (Well-Worn)",
+      "price": {
+        "min": 2.91,
+        "max": 5.51,
+        "mean": 3.69,
+        "median": 3.26,
+        "suggested": 3.6,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Nova | Clear Polymer (Battle-Scarred)",
+      "price": {
+        "min": 2.57,
+        "max": 8.17,
+        "mean": 3.48,
+        "median": 2.96,
+        "suggested": 3.19,
+        "quantity": 19,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Nova | Clear Polymer (Factory New)",
+        "price": {
+          "min": 20.58,
+          "max": 72.14,
+          "mean": 33.16,
+          "median": 30.8,
+          "suggested": 23.87,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Nova | Clear Polymer (Minimal Wear)",
+        "price": {
+          "min": 10.4,
+          "max": 93.35,
+          "mean": 21.32,
+          "median": 12.56,
+          "suggested": 12.6,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Nova | Clear Polymer (Field-Tested)",
+        "price": {
+          "min": 3.66,
+          "max": 6.29,
+          "mean": 4.75,
+          "median": 4.78,
+          "suggested": 4.95,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Nova | Clear Polymer (Well-Worn)",
+        "price": {
+          "min": 2.91,
+          "max": 5.51,
+          "mean": 3.69,
+          "median": 3.26,
+          "suggested": 3.6,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Nova | Clear Polymer (Battle-Scarred)",
+        "price": {
+          "min": 2.57,
+          "max": 8.17,
+          "mean": 3.48,
+          "median": 2.96,
+          "suggested": 3.19,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Nova | Clear Polymer (Factory New)",
+        "price": {
+          "min": 26.64,
+          "max": 35.01,
+          "mean": 31.05,
+          "median": 31.51,
+          "suggested": 25.85,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Nova | Clear Polymer (Minimal Wear)",
+        "price": {
+          "min": 12.18,
+          "max": 17.5,
+          "mean": 14.62,
+          "median": 14.18,
+          "suggested": 10.84,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Nova | Clear Polymer (Field-Tested)",
+        "price": {
+          "min": 4.6,
+          "max": 13.99,
+          "mean": 5.73,
+          "median": 4.67,
+          "suggested": 5.36,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Nova | Clear Polymer (Well-Worn)",
+        "price": {
+          "min": 3.94,
+          "max": 4.62,
+          "mean": 4.18,
+          "median": 4.07,
+          "suggested": 3.85,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Nova | Clear Polymer (Battle-Scarred)",
+        "price": {
+          "min": 3.22,
+          "max": 3.77,
+          "mean": 3.37,
+          "median": 3.31,
+          "suggested": 3.79,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Nova | Clear Polymer (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Nova | Clear Polymer (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Nova | Clear Polymer (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Nova | Clear Polymer (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Nova | Clear Polymer (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.491Z"
+}

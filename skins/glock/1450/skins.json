@@ -1,0 +1,225 @@
+{
+  "id": "skin-59c755307d22",
+  "name": "Glock-18 | Ghost Protocol",
+  "paint_index": "1450",
+  "weapon": {
+    "id": "weapon_glock",
+    "weapon_id": 4,
+    "name": "Glock-18",
+    "slug": "glock"
+  },
+  "pattern": {
+    "id": "glock_ghost_protocol_red",
+    "name": "Ghost Protocol"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.9,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. It has been custom painted with red paint in varying sheens.\\n\\n<i>I don't care if you were followed, you're here now - Valeria Jenner, Revolutionary</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 728.17,
+      "max": 915.81,
+      "mean": 821.99,
+      "median": 821.99,
+      "suggested": 880.86,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 348.21,
+      "max": 468.35,
+      "mean": 405.09,
+      "median": 385.75,
+      "suggested": 298.13,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 198.2,
+      "max": 373.42,
+      "mean": 246.03,
+      "median": 239.22,
+      "suggested": 303.63,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 169.86,
+      "max": 183.89,
+      "mean": 176.87,
+      "median": 176.87,
+      "suggested": 95.89,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Glock-18 | Ghost Protocol (Factory New)",
+      "price": {
+        "min": 728.17,
+        "max": 915.81,
+        "mean": 821.99,
+        "median": 821.99,
+        "suggested": 880.86,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Glock-18 | Ghost Protocol (Minimal Wear)",
+      "price": {
+        "min": 348.21,
+        "max": 468.35,
+        "mean": 405.09,
+        "median": 385.75,
+        "suggested": 298.13,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Glock-18 | Ghost Protocol (Field-Tested)",
+      "price": {
+        "min": 198.2,
+        "max": 373.42,
+        "mean": 246.03,
+        "median": 239.22,
+        "suggested": 303.63,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Glock-18 | Ghost Protocol (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Glock-18 | Ghost Protocol (Battle-Scarred)",
+      "price": {
+        "min": 169.86,
+        "max": 183.89,
+        "mean": 176.87,
+        "median": 176.87,
+        "suggested": 95.89,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Glock-18 | Ghost Protocol (Factory New)",
+        "price": {
+          "min": 728.17,
+          "max": 915.81,
+          "mean": 821.99,
+          "median": 821.99,
+          "suggested": 880.86,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Glock-18 | Ghost Protocol (Minimal Wear)",
+        "price": {
+          "min": 348.21,
+          "max": 468.35,
+          "mean": 405.09,
+          "median": 385.75,
+          "suggested": 298.13,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Glock-18 | Ghost Protocol (Field-Tested)",
+        "price": {
+          "min": 198.2,
+          "max": 373.42,
+          "mean": 246.03,
+          "median": 239.22,
+          "suggested": 303.63,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Glock-18 | Ghost Protocol (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Glock-18 | Ghost Protocol (Battle-Scarred)",
+        "price": {
+          "min": 169.86,
+          "max": 183.89,
+          "mean": 176.87,
+          "median": 176.87,
+          "suggested": 95.89,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Glock-18 | Ghost Protocol (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Glock-18 | Ghost Protocol (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Glock-18 | Ghost Protocol (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Glock-18 | Ghost Protocol (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Glock-18 | Ghost Protocol (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:31.937Z"
+}

@@ -1,0 +1,233 @@
+{
+  "id": "skin-a2359eb57d47",
+  "name": "★ Survival Knife | Safari Mesh",
+  "paint_index": "72",
+  "weapon": {
+    "id": "weapon_knife_canis",
+    "weapon_id": 518,
+    "name": "Survival Knife",
+    "slug": "knife_canis"
+  },
+  "pattern": {
+    "id": "sp_mesh_tan",
+    "name": "Safari Mesh"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been spray-painted using mesh fencing and cardboard cutouts as stencils.\\n\\n<i>A predator is a predator, no matter the environment</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 112.75,
+      "max": 331.47,
+      "mean": 222.11,
+      "median": 222.11,
+      "suggested": 103.64,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 47.4,
+      "max": 64.17,
+      "mean": 54.83,
+      "median": 53.89,
+      "suggested": 55.57,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 48.23,
+      "max": 109.2,
+      "mean": 68.3,
+      "median": 59.22,
+      "suggested": 54.55,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 46.16,
+      "max": 105.01,
+      "mean": 66.68,
+      "median": 57.78,
+      "suggested": 53.88,
+      "quantity": 4,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Survival Knife | Safari Mesh (Factory New)",
+      "price": {
+        "min": 112.75,
+        "max": 331.47,
+        "mean": 222.11,
+        "median": 222.11,
+        "suggested": 103.64,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Survival Knife | Safari Mesh (Minimal Wear)",
+      "price": {
+        "min": 47.4,
+        "max": 64.17,
+        "mean": 54.83,
+        "median": 53.89,
+        "suggested": 55.57,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Survival Knife | Safari Mesh (Field-Tested)",
+      "price": {
+        "min": 48.23,
+        "max": 109.2,
+        "mean": 68.3,
+        "median": 59.22,
+        "suggested": 54.55,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Survival Knife | Safari Mesh (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Survival Knife | Safari Mesh (Battle-Scarred)",
+      "price": {
+        "min": 46.16,
+        "max": 105.01,
+        "mean": 66.68,
+        "median": 57.78,
+        "suggested": 53.88,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Survival Knife | Safari Mesh (Factory New)",
+        "price": {
+          "min": 112.75,
+          "max": 331.47,
+          "mean": 222.11,
+          "median": 222.11,
+          "suggested": 103.64,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Survival Knife | Safari Mesh (Minimal Wear)",
+        "price": {
+          "min": 47.4,
+          "max": 64.17,
+          "mean": 54.83,
+          "median": 53.89,
+          "suggested": 55.57,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Survival Knife | Safari Mesh (Field-Tested)",
+        "price": {
+          "min": 48.23,
+          "max": 109.2,
+          "mean": 68.3,
+          "median": 59.22,
+          "suggested": 54.55,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Survival Knife | Safari Mesh (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ Survival Knife | Safari Mesh (Battle-Scarred)",
+        "price": {
+          "min": 46.16,
+          "max": 105.01,
+          "mean": 66.68,
+          "median": 57.78,
+          "suggested": 53.88,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Safari Mesh (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Safari Mesh (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Safari Mesh (Field-Tested)",
+        "price": {
+          "min": 53.2,
+          "max": 81.16,
+          "mean": 67.18,
+          "median": 67.18,
+          "suggested": 60.34,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Safari Mesh (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Safari Mesh (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:33.519Z"
+}

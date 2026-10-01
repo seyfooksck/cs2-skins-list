@@ -1,0 +1,233 @@
+{
+  "id": "skin-69b29694ef39",
+  "name": "★ Ursus Knife | Urban Masked",
+  "paint_index": "143",
+  "weapon": {
+    "id": "weapon_knife_ursus",
+    "weapon_id": 519,
+    "name": "Ursus Knife",
+    "slug": "knife_ursus"
+  },
+  "pattern": {
+    "id": "sp_tape_urban",
+    "name": "Urban Masked"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This tanto-style survival knife features a faceted blade and full tang, complete with impact pommel. No fuss, no moving parts - just a reliable blade that's ready to work. It has been spray-painted using a tangle of masking tape as a stencil.\\n\\n<i>True power is demonstrated with subtle application</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 490.11,
+      "max": 490.11,
+      "mean": 490.11,
+      "median": 490.11,
+      "suggested": 226.33,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 115.29,
+      "max": 145.21,
+      "mean": 126.34,
+      "median": 118.51,
+      "suggested": 131.55,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 89.46,
+      "max": 317.4,
+      "mean": 152.24,
+      "median": 101.05,
+      "suggested": 95.1,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 72.35,
+      "max": 88.16,
+      "mean": 79.41,
+      "median": 77.73,
+      "suggested": 90.68,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Ursus Knife | Urban Masked (Factory New)",
+      "price": {
+        "min": 490.11,
+        "max": 490.11,
+        "mean": 490.11,
+        "median": 490.11,
+        "suggested": 226.33,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Ursus Knife | Urban Masked (Minimal Wear)",
+      "price": {
+        "min": 115.29,
+        "max": 145.21,
+        "mean": 126.34,
+        "median": 118.51,
+        "suggested": 131.55,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Ursus Knife | Urban Masked (Field-Tested)",
+      "price": {
+        "min": 89.46,
+        "max": 317.4,
+        "mean": 152.24,
+        "median": 101.05,
+        "suggested": 95.1,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Ursus Knife | Urban Masked (Well-Worn)",
+      "price": {
+        "min": 72.35,
+        "max": 88.16,
+        "mean": 79.41,
+        "median": 77.73,
+        "suggested": 90.68,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Ursus Knife | Urban Masked (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Ursus Knife | Urban Masked (Factory New)",
+        "price": {
+          "min": 490.11,
+          "max": 490.11,
+          "mean": 490.11,
+          "median": 490.11,
+          "suggested": 226.33,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Ursus Knife | Urban Masked (Minimal Wear)",
+        "price": {
+          "min": 115.29,
+          "max": 145.21,
+          "mean": 126.34,
+          "median": 118.51,
+          "suggested": 131.55,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Ursus Knife | Urban Masked (Field-Tested)",
+        "price": {
+          "min": 89.46,
+          "max": 317.4,
+          "mean": 152.24,
+          "median": 101.05,
+          "suggested": 95.1,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Ursus Knife | Urban Masked (Well-Worn)",
+        "price": {
+          "min": 72.35,
+          "max": 88.16,
+          "mean": 79.41,
+          "median": 77.73,
+          "suggested": 90.68,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Ursus Knife | Urban Masked (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Ursus Knife | Urban Masked (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Ursus Knife | Urban Masked (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Ursus Knife | Urban Masked (Field-Tested)",
+        "price": {
+          "min": 105.76,
+          "max": 105.76,
+          "mean": 105.76,
+          "median": 105.76,
+          "suggested": 110.11,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Ursus Knife | Urban Masked (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Ursus Knife | Urban Masked (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:39.341Z"
+}

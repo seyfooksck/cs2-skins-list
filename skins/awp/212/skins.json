@@ -1,0 +1,154 @@
+{
+  "id": "skin-278adf18c50e",
+  "name": "AWP | Graphite",
+  "paint_index": "212",
+  "weapon": {
+    "id": "weapon_awp",
+    "weapon_id": 9,
+    "name": "AWP",
+    "slug": "awp"
+  },
+  "pattern": {
+    "id": "am_crumple_bravo",
+    "name": "Graphite"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.12,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. This memento from Agency has been painted in a polygon pattern with metallic paints of various reflectivities over a chrome base coat.\\n\\n<i>Pencils down, hands up</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 168.98,
+      "max": 3380.63,
+      "mean": 451.44,
+      "median": 282.77,
+      "suggested": 234.59,
+      "quantity": 93,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 185.54,
+      "max": 1368.69,
+      "mean": 390.98,
+      "median": 267.3,
+      "suggested": 225,
+      "quantity": 9,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AWP | Graphite (Factory New)",
+      "price": {
+        "min": 168.98,
+        "max": 3380.63,
+        "mean": 451.44,
+        "median": 282.77,
+        "suggested": 234.59,
+        "quantity": 93,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AWP | Graphite (Minimal Wear)",
+      "price": {
+        "min": 185.54,
+        "max": 1368.69,
+        "mean": 390.98,
+        "median": 267.3,
+        "suggested": 225,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AWP | Graphite (Factory New)",
+        "price": {
+          "min": 168.98,
+          "max": 3380.63,
+          "mean": 451.44,
+          "median": 282.77,
+          "suggested": 234.59,
+          "quantity": 93,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AWP | Graphite (Minimal Wear)",
+        "price": {
+          "min": 185.54,
+          "max": 1368.69,
+          "mean": 390.98,
+          "median": 267.3,
+          "suggested": 225,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AWP | Graphite (Factory New)",
+        "price": {
+          "min": 330.85,
+          "max": 2813.31,
+          "mean": 750.47,
+          "median": 490.11,
+          "suggested": 476.73,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AWP | Graphite (Minimal Wear)",
+        "price": {
+          "min": 1166.94,
+          "max": 1166.94,
+          "mean": 1166.94,
+          "median": 1166.94,
+          "suggested": 412.68,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AWP | Graphite (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AWP | Graphite (Minimal Wear)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.778Z"
+}

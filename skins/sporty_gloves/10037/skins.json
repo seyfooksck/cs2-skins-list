@@ -1,0 +1,180 @@
+{
+  "id": "skin-e506270deff6",
+  "name": "★ Sport Gloves | Pandora's Box",
+  "paint_index": "10037",
+  "weapon": {
+    "id": "sporty_gloves",
+    "weapon_id": 5030,
+    "name": "Sport Gloves",
+    "slug": "sporty_gloves"
+  },
+  "pattern": {
+    "id": "sporty_purple",
+    "name": "Pandora's Box"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_gloves",
+    "name": "Gloves"
+  },
+  "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Synthetic fabrics make these athletic gloves durable and eye-catching. The black and purple gloves have a subtle pattern printed on the palms.\\n\\n<i>A must have for any demolitions expert with sweaty palms</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": null,
+    "ft": {
+      "min": 4082.21,
+      "max": 11443.45,
+      "mean": 6904.73,
+      "median": 6278.05,
+      "suggested": 4260.47,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 3533.3,
+      "max": 4061.1,
+      "mean": 3806.08,
+      "median": 3734.2,
+      "suggested": 4126.81,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 2465.75,
+      "max": 4084.28,
+      "mean": 3062.69,
+      "median": 3028.86,
+      "suggested": 2570.27,
+      "quantity": 5,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Sport Gloves | Pandora's Box (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Sport Gloves | Pandora's Box (Minimal Wear)",
+      "price": null,
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Sport Gloves | Pandora's Box (Field-Tested)",
+      "price": {
+        "min": 4082.21,
+        "max": 11443.45,
+        "mean": 6904.73,
+        "median": 6278.05,
+        "suggested": 4260.47,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Sport Gloves | Pandora's Box (Well-Worn)",
+      "price": {
+        "min": 3533.3,
+        "max": 4061.1,
+        "mean": 3806.08,
+        "median": 3734.2,
+        "suggested": 4126.81,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Sport Gloves | Pandora's Box (Battle-Scarred)",
+      "price": {
+        "min": 2465.75,
+        "max": 4084.28,
+        "mean": 3062.69,
+        "median": 3028.86,
+        "suggested": 2570.27,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Sport Gloves | Pandora's Box (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Sport Gloves | Pandora's Box (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ Sport Gloves | Pandora's Box (Field-Tested)",
+        "price": {
+          "min": 4082.21,
+          "max": 11443.45,
+          "mean": 6904.73,
+          "median": 6278.05,
+          "suggested": 4260.47,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Sport Gloves | Pandora's Box (Well-Worn)",
+        "price": {
+          "min": 3533.3,
+          "max": 4061.1,
+          "mean": 3806.08,
+          "median": 3734.2,
+          "suggested": 4126.81,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Sport Gloves | Pandora's Box (Battle-Scarred)",
+        "price": {
+          "min": 2465.75,
+          "max": 4084.28,
+          "mean": 3062.69,
+          "median": 3028.86,
+          "suggested": 2570.27,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:24.115Z"
+}

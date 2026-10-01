@@ -1,0 +1,241 @@
+{
+  "id": "skin-9d5772347e88",
+  "name": "★ Shadow Daggers | Crimson Web",
+  "paint_index": "12",
+  "weapon": {
+    "id": "weapon_knife_push",
+    "weapon_id": 516,
+    "name": "Shadow Daggers",
+    "slug": "knife_push"
+  },
+  "pattern": {
+    "id": "hy_webs",
+    "name": "Crimson Web"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Designed for efficient brutality, using a push dagger is as simple as throwing a punch or two. It has been painted using a spider web-patterned hydrographic over a red base coat and finished with a semi-gloss topcoat.\\n\\n<i>Be careful where you walk, you never know where the web is spread</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 109.82,
+      "max": 204.21,
+      "mean": 144.37,
+      "median": 122.6,
+      "suggested": 118.35,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 70.02,
+      "max": 148.78,
+      "mean": 96.96,
+      "median": 82.74,
+      "suggested": 88.85,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 80.18,
+      "max": 89.19,
+      "mean": 85.86,
+      "median": 88.21,
+      "suggested": 90.45,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 81.99,
+      "max": 81.99,
+      "mean": 81.99,
+      "median": 81.99,
+      "suggested": 79.33,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Shadow Daggers | Crimson Web (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Shadow Daggers | Crimson Web (Minimal Wear)",
+      "price": {
+        "min": 109.82,
+        "max": 204.21,
+        "mean": 144.37,
+        "median": 122.6,
+        "suggested": 118.35,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Shadow Daggers | Crimson Web (Field-Tested)",
+      "price": {
+        "min": 70.02,
+        "max": 148.78,
+        "mean": 96.96,
+        "median": 82.74,
+        "suggested": 88.85,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Shadow Daggers | Crimson Web (Well-Worn)",
+      "price": {
+        "min": 80.18,
+        "max": 89.19,
+        "mean": 85.86,
+        "median": 88.21,
+        "suggested": 90.45,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Shadow Daggers | Crimson Web (Battle-Scarred)",
+      "price": {
+        "min": 81.99,
+        "max": 81.99,
+        "mean": 81.99,
+        "median": 81.99,
+        "suggested": 79.33,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Shadow Daggers | Crimson Web (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Shadow Daggers | Crimson Web (Minimal Wear)",
+        "price": {
+          "min": 109.82,
+          "max": 204.21,
+          "mean": 144.37,
+          "median": 122.6,
+          "suggested": 118.35,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Shadow Daggers | Crimson Web (Field-Tested)",
+        "price": {
+          "min": 70.02,
+          "max": 148.78,
+          "mean": 96.96,
+          "median": 82.74,
+          "suggested": 88.85,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Shadow Daggers | Crimson Web (Well-Worn)",
+        "price": {
+          "min": 80.18,
+          "max": 89.19,
+          "mean": 85.86,
+          "median": 88.21,
+          "suggested": 90.45,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Shadow Daggers | Crimson Web (Battle-Scarred)",
+        "price": {
+          "min": 81.99,
+          "max": 81.99,
+          "mean": 81.99,
+          "median": 81.99,
+          "suggested": 79.33,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Shadow Daggers | Crimson Web (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Shadow Daggers | Crimson Web (Minimal Wear)",
+        "price": {
+          "min": 190.79,
+          "max": 230.44,
+          "mean": 210.62,
+          "median": 210.62,
+          "suggested": 190.61,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Shadow Daggers | Crimson Web (Field-Tested)",
+        "price": {
+          "min": 108.83,
+          "max": 336.03,
+          "mean": 185.83,
+          "median": 112.66,
+          "suggested": 101.57,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Shadow Daggers | Crimson Web (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Shadow Daggers | Crimson Web (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:37.488Z"
+}

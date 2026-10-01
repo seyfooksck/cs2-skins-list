@@ -1,0 +1,241 @@
+{
+  "id": "skin-87e3087a80d2",
+  "name": "★ Talon Knife | Boreal Forest",
+  "paint_index": "77",
+  "weapon": {
+    "id": "weapon_knife_widowmaker",
+    "weapon_id": 523,
+    "name": "Talon Knife",
+    "slug": "knife_widowmaker"
+  },
+  "pattern": {
+    "id": "hy_forest_boreal",
+    "name": "Boreal Forest"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This ivory-handled karambit features brass rivets and saw-tooth ridges, so it cuts on the way in, and tears on the way out. It has been painted using a forest camouflage hydrographic.\\n\\n<i>The woods can be a dangerous place... never travel alone</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 248.55,
+      "max": 292.73,
+      "mean": 271.42,
+      "median": 272.36,
+      "suggested": 315.43,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 217.47,
+      "max": 403.9,
+      "mean": 282.81,
+      "median": 235.52,
+      "suggested": 266.35,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 215.88,
+      "max": 237.62,
+      "mean": 228.52,
+      "median": 232.07,
+      "suggested": 273.26,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 219.07,
+      "max": 314.71,
+      "mean": 251.84,
+      "median": 221.72,
+      "suggested": 254.88,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Talon Knife | Boreal Forest (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Talon Knife | Boreal Forest (Minimal Wear)",
+      "price": {
+        "min": 248.55,
+        "max": 292.73,
+        "mean": 271.42,
+        "median": 272.36,
+        "suggested": 315.43,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Talon Knife | Boreal Forest (Field-Tested)",
+      "price": {
+        "min": 217.47,
+        "max": 403.9,
+        "mean": 282.81,
+        "median": 235.52,
+        "suggested": 266.35,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Talon Knife | Boreal Forest (Well-Worn)",
+      "price": {
+        "min": 215.88,
+        "max": 237.62,
+        "mean": 228.52,
+        "median": 232.07,
+        "suggested": 273.26,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Talon Knife | Boreal Forest (Battle-Scarred)",
+      "price": {
+        "min": 219.07,
+        "max": 314.71,
+        "mean": 251.84,
+        "median": 221.72,
+        "suggested": 254.88,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Talon Knife | Boreal Forest (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Talon Knife | Boreal Forest (Minimal Wear)",
+        "price": {
+          "min": 248.55,
+          "max": 292.73,
+          "mean": 271.42,
+          "median": 272.36,
+          "suggested": 315.43,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Talon Knife | Boreal Forest (Field-Tested)",
+        "price": {
+          "min": 217.47,
+          "max": 403.9,
+          "mean": 282.81,
+          "median": 235.52,
+          "suggested": 266.35,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Talon Knife | Boreal Forest (Well-Worn)",
+        "price": {
+          "min": 215.88,
+          "max": 237.62,
+          "mean": 228.52,
+          "median": 232.07,
+          "suggested": 273.26,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Talon Knife | Boreal Forest (Battle-Scarred)",
+        "price": {
+          "min": 219.07,
+          "max": 314.71,
+          "mean": 251.84,
+          "median": 221.72,
+          "suggested": 254.88,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Talon Knife | Boreal Forest (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Talon Knife | Boreal Forest (Minimal Wear)",
+        "price": {
+          "min": 315.07,
+          "max": 315.07,
+          "mean": 315.07,
+          "median": 315.07,
+          "suggested": 380.4,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Talon Knife | Boreal Forest (Field-Tested)",
+        "price": {
+          "min": 491.16,
+          "max": 491.16,
+          "mean": 491.16,
+          "median": 491.16,
+          "suggested": 274.62,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Talon Knife | Boreal Forest (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Talon Knife | Boreal Forest (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:39.599Z"
+}

@@ -1,0 +1,278 @@
+{
+  "id": "skin-72470f196aad",
+  "name": "FAMAS | Macabre",
+  "paint_index": "659",
+  "weapon": {
+    "id": "weapon_famas",
+    "weapon_id": 10,
+    "name": "FAMAS",
+    "slug": "famas"
+  },
+  "pattern": {
+    "id": "sp_famas_macabre",
+    "name": "Macabre"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. It has been spray painted with a green design over a yellow undercoat.\\n\\n<i>A gruesome discovery</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 22.48,
+      "max": 64.18,
+      "mean": 28.32,
+      "median": 23.16,
+      "suggested": 22.52,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 6.53,
+      "max": 10.72,
+      "mean": 8.48,
+      "median": 7.74,
+      "suggested": 8.68,
+      "quantity": 13,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 5.03,
+      "max": 9.34,
+      "mean": 6.56,
+      "median": 6.32,
+      "suggested": 5.75,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 4.52,
+      "max": 5.11,
+      "mean": 4.82,
+      "median": 4.82,
+      "suggested": 5.43,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "FAMAS | Macabre (Factory New)",
+      "price": {
+        "min": 22.48,
+        "max": 64.18,
+        "mean": 28.32,
+        "median": 23.16,
+        "suggested": 22.52,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "FAMAS | Macabre (Minimal Wear)",
+      "price": {
+        "min": 6.53,
+        "max": 10.72,
+        "mean": 8.48,
+        "median": 7.74,
+        "suggested": 8.68,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "FAMAS | Macabre (Field-Tested)",
+      "price": {
+        "min": 5.03,
+        "max": 9.34,
+        "mean": 6.56,
+        "median": 6.32,
+        "suggested": 5.75,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "FAMAS | Macabre (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "FAMAS | Macabre (Battle-Scarred)",
+      "price": {
+        "min": 4.52,
+        "max": 5.11,
+        "mean": 4.82,
+        "median": 4.82,
+        "suggested": 5.43,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "FAMAS | Macabre (Factory New)",
+        "price": {
+          "min": 22.48,
+          "max": 64.18,
+          "mean": 28.32,
+          "median": 23.16,
+          "suggested": 22.52,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "FAMAS | Macabre (Minimal Wear)",
+        "price": {
+          "min": 6.53,
+          "max": 10.72,
+          "mean": 8.48,
+          "median": 7.74,
+          "suggested": 8.68,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "FAMAS | Macabre (Field-Tested)",
+        "price": {
+          "min": 5.03,
+          "max": 9.34,
+          "mean": 6.56,
+          "median": 6.32,
+          "suggested": 5.75,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "FAMAS | Macabre (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "FAMAS | Macabre (Battle-Scarred)",
+        "price": {
+          "min": 4.52,
+          "max": 5.11,
+          "mean": 4.82,
+          "median": 4.82,
+          "suggested": 5.43,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ FAMAS | Macabre (Factory New)",
+        "price": {
+          "min": 10.04,
+          "max": 16.72,
+          "mean": 12.45,
+          "median": 11.77,
+          "suggested": 13.35,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ FAMAS | Macabre (Minimal Wear)",
+        "price": {
+          "min": 5.19,
+          "max": 6.65,
+          "mean": 5.83,
+          "median": 5.67,
+          "suggested": 6.5,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ FAMAS | Macabre (Field-Tested)",
+        "price": {
+          "min": 4.84,
+          "max": 6.71,
+          "mean": 5.47,
+          "median": 5.18,
+          "suggested": 4.84,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ FAMAS | Macabre (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ FAMAS | Macabre (Battle-Scarred)",
+        "price": {
+          "min": 4.35,
+          "max": 5.13,
+          "mean": 4.66,
+          "median": 4.57,
+          "suggested": 5.43,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir FAMAS | Macabre (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir FAMAS | Macabre (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir FAMAS | Macabre (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir FAMAS | Macabre (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir FAMAS | Macabre (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:29.781Z"
+}

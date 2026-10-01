@@ -1,0 +1,177 @@
+{
+  "id": "skin-b12cfa4dc16f",
+  "name": "SSG 08 | Sand Dune",
+  "paint_index": "99",
+  "weapon": {
+    "id": "weapon_ssg08",
+    "weapon_id": 40,
+    "name": "SSG 08",
+    "slug": "ssg08"
+  },
+  "pattern": {
+    "id": "so_sand",
+    "name": "Sand Dune"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship. It has individual parts spray-painted solid colors in a sand dune color scheme.\\n\\n<i>With Turner dead, we have a new priority: rescue Alex Kincaide - Felix Riley, Commanding Officer</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 25.26,
+      "max": 112.66,
+      "mean": 41.32,
+      "median": 29.17,
+      "suggested": 20.38,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 11.66,
+      "max": 58.34,
+      "mean": 20.12,
+      "median": 11.67,
+      "suggested": 6.95,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SSG 08 | Sand Dune (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SSG 08 | Sand Dune (Minimal Wear)",
+      "price": {
+        "min": 25.26,
+        "max": 112.66,
+        "mean": 41.32,
+        "median": 29.17,
+        "suggested": 20.38,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "SSG 08 | Sand Dune (Field-Tested)",
+      "price": {
+        "min": 11.66,
+        "max": 58.34,
+        "mean": 20.12,
+        "median": 11.67,
+        "suggested": 6.95,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "SSG 08 | Sand Dune (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "SSG 08 | Sand Dune (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SSG 08 | Sand Dune (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "SSG 08 | Sand Dune (Minimal Wear)",
+        "price": {
+          "min": 25.26,
+          "max": 112.66,
+          "mean": 41.32,
+          "median": 29.17,
+          "suggested": 20.38,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "SSG 08 | Sand Dune (Field-Tested)",
+        "price": {
+          "min": 11.66,
+          "max": 58.34,
+          "mean": 20.12,
+          "median": 11.67,
+          "suggested": 6.95,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "SSG 08 | Sand Dune (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "SSG 08 | Sand Dune (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SSG 08 | Sand Dune (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir SSG 08 | Sand Dune (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir SSG 08 | Sand Dune (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir SSG 08 | Sand Dune (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir SSG 08 | Sand Dune (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:48.750Z"
+}

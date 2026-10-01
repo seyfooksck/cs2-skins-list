@@ -1,0 +1,310 @@
+{
+  "id": "skin-f1e676fd36be",
+  "name": "PP-Bizon | Photic Zone",
+  "paint_index": "526",
+  "weapon": {
+    "id": "weapon_bizon",
+    "weapon_id": 26,
+    "name": "PP-Bizon",
+    "slug": "bizon"
+  },
+  "pattern": {
+    "id": "cu_bizon_citizen",
+    "name": "Photic Zone"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly. It has been given a custom camouflage pattern accented with florescent paint.\\n\\n<i>That's not crashing waves you hear...</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 7.04,
+      "max": 41.11,
+      "mean": 18.25,
+      "median": 15.87,
+      "suggested": 7.23,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.04,
+      "max": 5.45,
+      "mean": 2.84,
+      "median": 2.52,
+      "suggested": 2.84,
+      "quantity": 31,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.83,
+      "max": 47.26,
+      "mean": 1.8,
+      "median": 1.05,
+      "suggested": 1.25,
+      "quantity": 97,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.49,
+      "max": 1.46,
+      "mean": 0.75,
+      "median": 0.69,
+      "suggested": 0.81,
+      "quantity": 75,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.39,
+      "max": 25.67,
+      "mean": 1.05,
+      "median": 0.53,
+      "suggested": 0.54,
+      "quantity": 63,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "PP-Bizon | Photic Zone (Factory New)",
+      "price": {
+        "min": 7.04,
+        "max": 41.11,
+        "mean": 18.25,
+        "median": 15.87,
+        "suggested": 7.23,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "PP-Bizon | Photic Zone (Minimal Wear)",
+      "price": {
+        "min": 2.04,
+        "max": 5.45,
+        "mean": 2.84,
+        "median": 2.52,
+        "suggested": 2.84,
+        "quantity": 31,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "PP-Bizon | Photic Zone (Field-Tested)",
+      "price": {
+        "min": 0.83,
+        "max": 47.26,
+        "mean": 1.8,
+        "median": 1.05,
+        "suggested": 1.25,
+        "quantity": 97,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "PP-Bizon | Photic Zone (Well-Worn)",
+      "price": {
+        "min": 0.49,
+        "max": 1.46,
+        "mean": 0.75,
+        "median": 0.69,
+        "suggested": 0.81,
+        "quantity": 75,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "PP-Bizon | Photic Zone (Battle-Scarred)",
+      "price": {
+        "min": 0.39,
+        "max": 25.67,
+        "mean": 1.05,
+        "median": 0.53,
+        "suggested": 0.54,
+        "quantity": 63,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "PP-Bizon | Photic Zone (Factory New)",
+        "price": {
+          "min": 7.04,
+          "max": 41.11,
+          "mean": 18.25,
+          "median": 15.87,
+          "suggested": 7.23,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "PP-Bizon | Photic Zone (Minimal Wear)",
+        "price": {
+          "min": 2.04,
+          "max": 5.45,
+          "mean": 2.84,
+          "median": 2.52,
+          "suggested": 2.84,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "PP-Bizon | Photic Zone (Field-Tested)",
+        "price": {
+          "min": 0.83,
+          "max": 47.26,
+          "mean": 1.8,
+          "median": 1.05,
+          "suggested": 1.25,
+          "quantity": 97,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "PP-Bizon | Photic Zone (Well-Worn)",
+        "price": {
+          "min": 0.49,
+          "max": 1.46,
+          "mean": 0.75,
+          "median": 0.69,
+          "suggested": 0.81,
+          "quantity": 75,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "PP-Bizon | Photic Zone (Battle-Scarred)",
+        "price": {
+          "min": 0.39,
+          "max": 25.67,
+          "mean": 1.05,
+          "median": 0.53,
+          "suggested": 0.54,
+          "quantity": 63,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Photic Zone (Factory New)",
+        "price": {
+          "min": 5.09,
+          "max": 68.53,
+          "mean": 19.39,
+          "median": 11.09,
+          "suggested": 5.7,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Photic Zone (Minimal Wear)",
+        "price": {
+          "min": 1.54,
+          "max": 24.95,
+          "mean": 2.46,
+          "median": 1.65,
+          "suggested": 1.78,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Photic Zone (Field-Tested)",
+        "price": {
+          "min": 0.79,
+          "max": 3.56,
+          "mean": 1.83,
+          "median": 1.31,
+          "suggested": 0.99,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Photic Zone (Well-Worn)",
+        "price": {
+          "min": 0.47,
+          "max": 28.75,
+          "mean": 1.35,
+          "median": 0.55,
+          "suggested": 0.65,
+          "quantity": 35,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Photic Zone (Battle-Scarred)",
+        "price": {
+          "min": 0.48,
+          "max": 2.03,
+          "mean": 0.63,
+          "median": 0.51,
+          "suggested": 0.59,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir PP-Bizon | Photic Zone (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir PP-Bizon | Photic Zone (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir PP-Bizon | Photic Zone (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir PP-Bizon | Photic Zone (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir PP-Bizon | Photic Zone (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:27.012Z"
+}

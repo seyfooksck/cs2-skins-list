@@ -1,0 +1,310 @@
+{
+  "id": "skin-ff75c4a68dbd",
+  "name": "P90 | Wave Breaker",
+  "paint_index": "1190",
+  "weapon": {
+    "id": "weapon_p90",
+    "weapon_id": 19,
+    "name": "P90",
+    "slug": "p90"
+  },
+  "pattern": {
+    "id": "p90_boost_blue",
+    "name": "Wave Breaker"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.950549,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been custom painted using an angular blue and green design.\\n\\n<i>You look how you feel</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 4.75,
+      "max": 115.53,
+      "mean": 17.68,
+      "median": 10.57,
+      "suggested": 5.55,
+      "quantity": 74,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.13,
+      "max": 78.27,
+      "mean": 3.44,
+      "median": 1.53,
+      "suggested": 1.33,
+      "quantity": 225,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.5,
+      "max": 30.12,
+      "mean": 0.76,
+      "median": 0.65,
+      "suggested": 0.67,
+      "quantity": 948,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.42,
+      "max": 25.12,
+      "mean": 0.68,
+      "median": 0.55,
+      "suggested": 0.58,
+      "quantity": 445,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.43,
+      "max": 5.83,
+      "mean": 0.61,
+      "median": 0.55,
+      "suggested": 0.55,
+      "quantity": 309,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P90 | Wave Breaker (Factory New)",
+      "price": {
+        "min": 4.75,
+        "max": 115.53,
+        "mean": 17.68,
+        "median": 10.57,
+        "suggested": 5.55,
+        "quantity": 74,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P90 | Wave Breaker (Minimal Wear)",
+      "price": {
+        "min": 1.13,
+        "max": 78.27,
+        "mean": 3.44,
+        "median": 1.53,
+        "suggested": 1.33,
+        "quantity": 225,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P90 | Wave Breaker (Field-Tested)",
+      "price": {
+        "min": 0.5,
+        "max": 30.12,
+        "mean": 0.76,
+        "median": 0.65,
+        "suggested": 0.67,
+        "quantity": 948,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P90 | Wave Breaker (Well-Worn)",
+      "price": {
+        "min": 0.42,
+        "max": 25.12,
+        "mean": 0.68,
+        "median": 0.55,
+        "suggested": 0.58,
+        "quantity": 445,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P90 | Wave Breaker (Battle-Scarred)",
+      "price": {
+        "min": 0.43,
+        "max": 5.83,
+        "mean": 0.61,
+        "median": 0.55,
+        "suggested": 0.55,
+        "quantity": 309,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P90 | Wave Breaker (Factory New)",
+        "price": {
+          "min": 4.75,
+          "max": 115.53,
+          "mean": 17.68,
+          "median": 10.57,
+          "suggested": 5.55,
+          "quantity": 74,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P90 | Wave Breaker (Minimal Wear)",
+        "price": {
+          "min": 1.13,
+          "max": 78.27,
+          "mean": 3.44,
+          "median": 1.53,
+          "suggested": 1.33,
+          "quantity": 225,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P90 | Wave Breaker (Field-Tested)",
+        "price": {
+          "min": 0.5,
+          "max": 30.12,
+          "mean": 0.76,
+          "median": 0.65,
+          "suggested": 0.67,
+          "quantity": 948,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P90 | Wave Breaker (Well-Worn)",
+        "price": {
+          "min": 0.42,
+          "max": 25.12,
+          "mean": 0.68,
+          "median": 0.55,
+          "suggested": 0.58,
+          "quantity": 445,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P90 | Wave Breaker (Battle-Scarred)",
+        "price": {
+          "min": 0.43,
+          "max": 5.83,
+          "mean": 0.61,
+          "median": 0.55,
+          "suggested": 0.55,
+          "quantity": 309,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P90 | Wave Breaker (Factory New)",
+        "price": {
+          "min": 6,
+          "max": 58.34,
+          "mean": 22.44,
+          "median": 20.47,
+          "suggested": 6.98,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P90 | Wave Breaker (Minimal Wear)",
+        "price": {
+          "min": 1.54,
+          "max": 71.63,
+          "mean": 3.68,
+          "median": 1.82,
+          "suggested": 2.01,
+          "quantity": 90,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P90 | Wave Breaker (Field-Tested)",
+        "price": {
+          "min": 0.65,
+          "max": 11.67,
+          "mean": 1.23,
+          "median": 0.97,
+          "suggested": 0.93,
+          "quantity": 305,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ P90 | Wave Breaker (Well-Worn)",
+        "price": {
+          "min": 0.68,
+          "max": 3.5,
+          "mean": 0.98,
+          "median": 0.82,
+          "suggested": 0.86,
+          "quantity": 90,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ P90 | Wave Breaker (Battle-Scarred)",
+        "price": {
+          "min": 0.55,
+          "max": 1.24,
+          "mean": 0.72,
+          "median": 0.7,
+          "suggested": 0.69,
+          "quantity": 44,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P90 | Wave Breaker (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P90 | Wave Breaker (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P90 | Wave Breaker (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P90 | Wave Breaker (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P90 | Wave Breaker (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:46.321Z"
+}

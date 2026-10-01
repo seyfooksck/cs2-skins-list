@@ -1,0 +1,310 @@
+{
+  "id": "skin-b0c874f3f971",
+  "name": "UMP-45 | Scaffold",
+  "paint_index": "652",
+  "weapon": {
+    "id": "weapon_ump45",
+    "weapon_id": 24,
+    "name": "UMP-45",
+    "slug": "ump45"
+  },
+  "pattern": {
+    "id": "gs_ump_abyss",
+    "name": "Scaffold"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic. It has been hand painted teal and given a convincing depth effect.\\n\\n<i>Brick by brick</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 6.91,
+      "max": 159.29,
+      "mean": 28.6,
+      "median": 13.2,
+      "suggested": 9.34,
+      "quantity": 21,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.36,
+      "max": 17.5,
+      "mean": 4.8,
+      "median": 4.88,
+      "suggested": 3.18,
+      "quantity": 31,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.48,
+      "max": 41.41,
+      "mean": 2.73,
+      "median": 2.02,
+      "suggested": 1.88,
+      "quantity": 109,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.19,
+      "max": 3.98,
+      "mean": 1.65,
+      "median": 1.54,
+      "suggested": 1.57,
+      "quantity": 64,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.31,
+      "max": 6.2,
+      "mean": 2.09,
+      "median": 1.63,
+      "suggested": 1.57,
+      "quantity": 41,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "UMP-45 | Scaffold (Factory New)",
+      "price": {
+        "min": 6.91,
+        "max": 159.29,
+        "mean": 28.6,
+        "median": 13.2,
+        "suggested": 9.34,
+        "quantity": 21,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "UMP-45 | Scaffold (Minimal Wear)",
+      "price": {
+        "min": 2.36,
+        "max": 17.5,
+        "mean": 4.8,
+        "median": 4.88,
+        "suggested": 3.18,
+        "quantity": 31,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "UMP-45 | Scaffold (Field-Tested)",
+      "price": {
+        "min": 1.48,
+        "max": 41.41,
+        "mean": 2.73,
+        "median": 2.02,
+        "suggested": 1.88,
+        "quantity": 109,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "UMP-45 | Scaffold (Well-Worn)",
+      "price": {
+        "min": 1.19,
+        "max": 3.98,
+        "mean": 1.65,
+        "median": 1.54,
+        "suggested": 1.57,
+        "quantity": 64,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "UMP-45 | Scaffold (Battle-Scarred)",
+      "price": {
+        "min": 1.31,
+        "max": 6.2,
+        "mean": 2.09,
+        "median": 1.63,
+        "suggested": 1.57,
+        "quantity": 41,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "UMP-45 | Scaffold (Factory New)",
+        "price": {
+          "min": 6.91,
+          "max": 159.29,
+          "mean": 28.6,
+          "median": 13.2,
+          "suggested": 9.34,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "UMP-45 | Scaffold (Minimal Wear)",
+        "price": {
+          "min": 2.36,
+          "max": 17.5,
+          "mean": 4.8,
+          "median": 4.88,
+          "suggested": 3.18,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "UMP-45 | Scaffold (Field-Tested)",
+        "price": {
+          "min": 1.48,
+          "max": 41.41,
+          "mean": 2.73,
+          "median": 2.02,
+          "suggested": 1.88,
+          "quantity": 109,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "UMP-45 | Scaffold (Well-Worn)",
+        "price": {
+          "min": 1.19,
+          "max": 3.98,
+          "mean": 1.65,
+          "median": 1.54,
+          "suggested": 1.57,
+          "quantity": 64,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "UMP-45 | Scaffold (Battle-Scarred)",
+        "price": {
+          "min": 1.31,
+          "max": 6.2,
+          "mean": 2.09,
+          "median": 1.63,
+          "suggested": 1.57,
+          "quantity": 41,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ UMP-45 | Scaffold (Factory New)",
+        "price": {
+          "min": 9.28,
+          "max": 35.01,
+          "mean": 18.58,
+          "median": 20.83,
+          "suggested": 10.68,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ UMP-45 | Scaffold (Minimal Wear)",
+        "price": {
+          "min": 3.75,
+          "max": 58.23,
+          "mean": 8.83,
+          "median": 4.34,
+          "suggested": 4.49,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ UMP-45 | Scaffold (Field-Tested)",
+        "price": {
+          "min": 2.36,
+          "max": 408.43,
+          "mean": 23.44,
+          "median": 2.99,
+          "suggested": 2.91,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ UMP-45 | Scaffold (Well-Worn)",
+        "price": {
+          "min": 2.24,
+          "max": 11.55,
+          "mean": 3.22,
+          "median": 2.53,
+          "suggested": 2.51,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ UMP-45 | Scaffold (Battle-Scarred)",
+        "price": {
+          "min": 2.1,
+          "max": 68.57,
+          "mean": 8.59,
+          "median": 2.65,
+          "suggested": 2.74,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir UMP-45 | Scaffold (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir UMP-45 | Scaffold (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir UMP-45 | Scaffold (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir UMP-45 | Scaffold (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir UMP-45 | Scaffold (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.953Z"
+}

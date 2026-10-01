@@ -1,0 +1,185 @@
+{
+  "id": "skin-028e0476ad38",
+  "name": "Glock-18 | Franklin",
+  "paint_index": "1016",
+  "weapon": {
+    "id": "weapon_glock",
+    "weapon_id": 4,
+    "name": "Glock-18",
+    "slug": "glock"
+  },
+  "pattern": {
+    "id": "cu_money_glock",
+    "name": "Franklin"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.4,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. It has been painted using a hydrographic of American hundred-dollar bills.\\n\\n<i>Money doesn't talk... it kills</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 172.19,
+      "max": 116693.71,
+      "mean": 3699.26,
+      "median": 251.83,
+      "suggested": 232.12,
+      "quantity": 34,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 106.48,
+      "max": 210.39,
+      "mean": 131.42,
+      "median": 118.84,
+      "suggested": 139.64,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 117.56,
+      "max": 231.45,
+      "mean": 148.24,
+      "median": 121.98,
+      "suggested": 127.04,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ww": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Glock-18 | Franklin (Factory New)",
+      "price": {
+        "min": 172.19,
+        "max": 116693.71,
+        "mean": 3699.26,
+        "median": 251.83,
+        "suggested": 232.12,
+        "quantity": 34,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Glock-18 | Franklin (Minimal Wear)",
+      "price": {
+        "min": 106.48,
+        "max": 210.39,
+        "mean": 131.42,
+        "median": 118.84,
+        "suggested": 139.64,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Glock-18 | Franklin (Field-Tested)",
+      "price": {
+        "min": 117.56,
+        "max": 231.45,
+        "mean": 148.24,
+        "median": 121.98,
+        "suggested": 127.04,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Glock-18 | Franklin (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Glock-18 | Franklin (Factory New)",
+        "price": {
+          "min": 172.19,
+          "max": 116693.71,
+          "mean": 3699.26,
+          "median": 251.83,
+          "suggested": 232.12,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Glock-18 | Franklin (Minimal Wear)",
+        "price": {
+          "min": 106.48,
+          "max": 210.39,
+          "mean": 131.42,
+          "median": 118.84,
+          "suggested": 139.64,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Glock-18 | Franklin (Field-Tested)",
+        "price": {
+          "min": 117.56,
+          "max": 231.45,
+          "mean": 148.24,
+          "median": 121.98,
+          "suggested": 127.04,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Glock-18 | Franklin (Well-Worn)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Glock-18 | Franklin (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Glock-18 | Franklin (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Glock-18 | Franklin (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Glock-18 | Franklin (Well-Worn)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:31.899Z"
+}

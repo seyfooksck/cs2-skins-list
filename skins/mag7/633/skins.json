@@ -1,0 +1,258 @@
+{
+  "id": "skin-cc6ec471ea94",
+  "name": "MAG-7 | Sonar",
+  "paint_index": "633",
+  "weapon": {
+    "id": "weapon_mag7",
+    "weapon_id": 27,
+    "name": "MAG-7",
+    "slug": "mag7"
+  },
+  "pattern": {
+    "id": "am_mag7_malform",
+    "name": "Sonar"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.45,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The CT-exclusive Mag-7 delivers a devastating amount of damage at close range. Its rapid magazine-style reloads make it a great tactical choice. It has been lightly stenciled in turquoise.\\n\\n<i>You're right, losing is a new experience for me – The Oni and The Valkyrie Part 2</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 5.17,
+      "max": 224.13,
+      "mean": 15.43,
+      "median": 9.62,
+      "suggested": 7.53,
+      "quantity": 52,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.4,
+      "max": 11.67,
+      "mean": 2.66,
+      "median": 1.91,
+      "suggested": 1.71,
+      "quantity": 17,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.74,
+      "max": 11.66,
+      "mean": 1.46,
+      "median": 0.96,
+      "suggested": 0.99,
+      "quantity": 82,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.57,
+      "max": 11.67,
+      "mean": 1.81,
+      "median": 0.7,
+      "suggested": 0.7,
+      "quantity": 13,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAG-7 | Sonar (Factory New)",
+      "price": {
+        "min": 5.17,
+        "max": 224.13,
+        "mean": 15.43,
+        "median": 9.62,
+        "suggested": 7.53,
+        "quantity": 52,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAG-7 | Sonar (Minimal Wear)",
+      "price": {
+        "min": 1.4,
+        "max": 11.67,
+        "mean": 2.66,
+        "median": 1.91,
+        "suggested": 1.71,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAG-7 | Sonar (Field-Tested)",
+      "price": {
+        "min": 0.74,
+        "max": 11.66,
+        "mean": 1.46,
+        "median": 0.96,
+        "suggested": 0.99,
+        "quantity": 82,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAG-7 | Sonar (Well-Worn)",
+      "price": {
+        "min": 0.57,
+        "max": 11.67,
+        "mean": 1.81,
+        "median": 0.7,
+        "suggested": 0.7,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAG-7 | Sonar (Factory New)",
+        "price": {
+          "min": 5.17,
+          "max": 224.13,
+          "mean": 15.43,
+          "median": 9.62,
+          "suggested": 7.53,
+          "quantity": 52,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAG-7 | Sonar (Minimal Wear)",
+        "price": {
+          "min": 1.4,
+          "max": 11.67,
+          "mean": 2.66,
+          "median": 1.91,
+          "suggested": 1.71,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAG-7 | Sonar (Field-Tested)",
+        "price": {
+          "min": 0.74,
+          "max": 11.66,
+          "mean": 1.46,
+          "median": 0.96,
+          "suggested": 0.99,
+          "quantity": 82,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAG-7 | Sonar (Well-Worn)",
+        "price": {
+          "min": 0.57,
+          "max": 11.67,
+          "mean": 1.81,
+          "median": 0.7,
+          "suggested": 0.7,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MAG-7 | Sonar (Factory New)",
+        "price": {
+          "min": 1.24,
+          "max": 16.93,
+          "mean": 4.45,
+          "median": 2.65,
+          "suggested": 1.61,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MAG-7 | Sonar (Minimal Wear)",
+        "price": {
+          "min": 0.58,
+          "max": 9.32,
+          "mean": 1.23,
+          "median": 0.78,
+          "suggested": 0.81,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MAG-7 | Sonar (Field-Tested)",
+        "price": {
+          "min": 0.37,
+          "max": 0.69,
+          "mean": 0.46,
+          "median": 0.41,
+          "suggested": 0.46,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MAG-7 | Sonar (Well-Worn)",
+        "price": {
+          "min": 0.37,
+          "max": 1.21,
+          "mean": 0.61,
+          "median": 0.46,
+          "suggested": 0.55,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAG-7 | Sonar (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAG-7 | Sonar (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAG-7 | Sonar (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAG-7 | Sonar (Well-Worn)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.170Z"
+}

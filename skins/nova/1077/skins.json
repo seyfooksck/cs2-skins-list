@@ -1,0 +1,257 @@
+{
+  "id": "skin-8ef9f19f48fd",
+  "name": "Nova | Interlock",
+  "paint_index": "1077",
+  "weapon": {
+    "id": "weapon_nova",
+    "weapon_id": 35,
+    "name": "Nova",
+    "slug": "nova"
+  },
+  "pattern": {
+    "id": "hy_vertigoillusion_yellow",
+    "name": "Interlock"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Nova's rock-bottom price tag makes it a great ambush weapon for a cash-strapped team. A yellow and blue optical illusion hydrographic pattern has been applied.\\n\\n<i>Did you get a good look?</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 19.98,
+      "max": 220.19,
+      "mean": 62.16,
+      "median": 31.51,
+      "suggested": 9.05,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 6.71,
+      "max": 19.95,
+      "mean": 16.1,
+      "median": 18.88,
+      "suggested": 8.51,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 8.71,
+      "max": 18.09,
+      "mean": 14.68,
+      "median": 15.98,
+      "suggested": 8.5,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 58.36,
+      "max": 58.36,
+      "mean": 58.36,
+      "median": 58.36,
+      "suggested": 17.12,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Nova | Interlock (Factory New)",
+      "price": {
+        "min": 19.98,
+        "max": 220.19,
+        "mean": 62.16,
+        "median": 31.51,
+        "suggested": 9.05,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Nova | Interlock (Minimal Wear)",
+      "price": {
+        "min": 6.71,
+        "max": 19.95,
+        "mean": 16.1,
+        "median": 18.88,
+        "suggested": 8.51,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Nova | Interlock (Field-Tested)",
+      "price": {
+        "min": 8.71,
+        "max": 18.09,
+        "mean": 14.68,
+        "median": 15.98,
+        "suggested": 8.5,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Nova | Interlock (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Nova | Interlock (Battle-Scarred)",
+      "price": {
+        "min": 58.36,
+        "max": 58.36,
+        "mean": 58.36,
+        "median": 58.36,
+        "suggested": 17.12,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Nova | Interlock (Factory New)",
+        "price": {
+          "min": 19.98,
+          "max": 220.19,
+          "mean": 62.16,
+          "median": 31.51,
+          "suggested": 9.05,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Nova | Interlock (Minimal Wear)",
+        "price": {
+          "min": 6.71,
+          "max": 19.95,
+          "mean": 16.1,
+          "median": 18.88,
+          "suggested": 8.51,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Nova | Interlock (Field-Tested)",
+        "price": {
+          "min": 8.71,
+          "max": 18.09,
+          "mean": 14.68,
+          "median": 15.98,
+          "suggested": 8.5,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Nova | Interlock (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Nova | Interlock (Battle-Scarred)",
+        "price": {
+          "min": 58.36,
+          "max": 58.36,
+          "mean": 58.36,
+          "median": 58.36,
+          "suggested": 17.12,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Nova | Interlock (Factory New)",
+        "price": {
+          "min": 7.12,
+          "max": 79.9,
+          "mean": 61.31,
+          "median": 79.9,
+          "suggested": 8.37,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Nova | Interlock (Minimal Wear)",
+        "price": {
+          "min": 11.4,
+          "max": 12.6,
+          "mean": 11.9,
+          "median": 11.72,
+          "suggested": 6.35,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Nova | Interlock (Field-Tested)",
+        "price": {
+          "min": 5.66,
+          "max": 8.04,
+          "mean": 6.03,
+          "median": 5.67,
+          "suggested": 4.49,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Nova | Interlock (Well-Worn)",
+        "price": {
+          "min": 3.26,
+          "max": 12.84,
+          "mean": 9.51,
+          "median": 12.44,
+          "suggested": 3.41,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Nova | Interlock (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.698Z"
+}

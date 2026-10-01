@@ -1,0 +1,249 @@
+{
+  "id": "skin-6aaf237dc6ae",
+  "name": "SSG 08 | Zeno",
+  "paint_index": "513",
+  "weapon": {
+    "id": "weapon_ssg08",
+    "weapon_id": 40,
+    "name": "SSG 08",
+    "slug": "ssg08"
+  },
+  "pattern": {
+    "id": "gsch_zeno_ssg08",
+    "name": "Zeno"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship. It has been custom painted using grayscale metallic flake paint and features red diamond accents.\\n\\n<i>When a LOT of chrome just isn't enough</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.62,
+      "max": 124.28,
+      "mean": 6.13,
+      "median": 6.07,
+      "suggested": 2.03,
+      "quantity": 406,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.77,
+      "max": 87.52,
+      "mean": 6.5,
+      "median": 1.49,
+      "suggested": 0.96,
+      "quantity": 172,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.36,
+      "max": 115.53,
+      "mean": 5.31,
+      "median": 0.88,
+      "suggested": 0.44,
+      "quantity": 425,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.39,
+      "max": 5.32,
+      "mean": 0.82,
+      "median": 0.63,
+      "suggested": 0.44,
+      "quantity": 31,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.3,
+      "max": 13.52,
+      "mean": 1.27,
+      "median": 0.85,
+      "suggested": 0.43,
+      "quantity": 42,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SSG 08 | Zeno (Factory New)",
+      "price": {
+        "min": 1.62,
+        "max": 124.28,
+        "mean": 6.13,
+        "median": 6.07,
+        "suggested": 2.03,
+        "quantity": 406,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SSG 08 | Zeno (Minimal Wear)",
+      "price": {
+        "min": 0.77,
+        "max": 87.52,
+        "mean": 6.5,
+        "median": 1.49,
+        "suggested": 0.96,
+        "quantity": 172,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "SSG 08 | Zeno (Field-Tested)",
+      "price": {
+        "min": 0.36,
+        "max": 115.53,
+        "mean": 5.31,
+        "median": 0.88,
+        "suggested": 0.44,
+        "quantity": 425,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "SSG 08 | Zeno (Well-Worn)",
+      "price": {
+        "min": 0.39,
+        "max": 5.32,
+        "mean": 0.82,
+        "median": 0.63,
+        "suggested": 0.44,
+        "quantity": 31,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "SSG 08 | Zeno (Battle-Scarred)",
+      "price": {
+        "min": 0.3,
+        "max": 13.52,
+        "mean": 1.27,
+        "median": 0.85,
+        "suggested": 0.43,
+        "quantity": 42,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SSG 08 | Zeno (Factory New)",
+        "price": {
+          "min": 1.62,
+          "max": 124.28,
+          "mean": 6.13,
+          "median": 6.07,
+          "suggested": 2.03,
+          "quantity": 406,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "SSG 08 | Zeno (Minimal Wear)",
+        "price": {
+          "min": 0.77,
+          "max": 87.52,
+          "mean": 6.5,
+          "median": 1.49,
+          "suggested": 0.96,
+          "quantity": 172,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "SSG 08 | Zeno (Field-Tested)",
+        "price": {
+          "min": 0.36,
+          "max": 115.53,
+          "mean": 5.31,
+          "median": 0.88,
+          "suggested": 0.44,
+          "quantity": 425,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "SSG 08 | Zeno (Well-Worn)",
+        "price": {
+          "min": 0.39,
+          "max": 5.32,
+          "mean": 0.82,
+          "median": 0.63,
+          "suggested": 0.44,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "SSG 08 | Zeno (Battle-Scarred)",
+        "price": {
+          "min": 0.3,
+          "max": 13.52,
+          "mean": 1.27,
+          "median": 0.85,
+          "suggested": 0.43,
+          "quantity": 42,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SSG 08 | Zeno (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir SSG 08 | Zeno (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir SSG 08 | Zeno (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir SSG 08 | Zeno (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir SSG 08 | Zeno (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:48.579Z"
+}

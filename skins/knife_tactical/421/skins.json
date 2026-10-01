@@ -1,0 +1,137 @@
+{
+  "id": "skin-500ce7426a18",
+  "name": "★ Huntsman Knife | Doppler",
+  "paint_index": "421",
+  "weapon": {
+    "id": "weapon_knife_tactical",
+    "weapon_id": 509,
+    "name": "Huntsman Knife",
+    "slug": "knife_tactical"
+  },
+  "pattern": {
+    "id": "am_doppler_phase4",
+    "name": "Doppler"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A knife designed for modern tactical uses, the blade is well suited for a range of both combat and utilitarian needs.  The unique Tanto point allows for maximum penetration through even the toughest of surfaces. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1282.46,
+      "max": 1649.55,
+      "mean": 1427.04,
+      "median": 1349.1,
+      "suggested": 1304.64,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 947.33,
+      "max": 947.33,
+      "mean": 947.33,
+      "median": 947.33,
+      "suggested": 1021.38,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Huntsman Knife | Doppler (Factory New)",
+      "price": {
+        "min": 1282.46,
+        "max": 1649.55,
+        "mean": 1427.04,
+        "median": 1349.1,
+        "suggested": 1304.64,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Huntsman Knife | Doppler (Minimal Wear)",
+      "price": {
+        "min": 947.33,
+        "max": 947.33,
+        "mean": 947.33,
+        "median": 947.33,
+        "suggested": 1021.38,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Huntsman Knife | Doppler (Factory New)",
+        "price": {
+          "min": 1282.46,
+          "max": 1649.55,
+          "mean": 1427.04,
+          "median": 1349.1,
+          "suggested": 1304.64,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Huntsman Knife | Doppler (Minimal Wear)",
+        "price": {
+          "min": 947.33,
+          "max": 947.33,
+          "mean": 947.33,
+          "median": 947.33,
+          "suggested": 1021.38,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Huntsman Knife | Doppler (Factory New)",
+        "price": {
+          "min": 974.39,
+          "max": 2892.78,
+          "mean": 1564.85,
+          "median": 1196.11,
+          "suggested": 993.33,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Huntsman Knife | Doppler (Minimal Wear)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:38.669Z"
+}

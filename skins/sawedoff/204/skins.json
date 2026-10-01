@@ -1,0 +1,225 @@
+{
+  "id": "skin-f0876073bc4d",
+  "name": "Sawed-Off | Mosaico",
+  "paint_index": "204",
+  "weapon": {
+    "id": "weapon_sawedoff",
+    "weapon_id": 29,
+    "name": "Sawed-Off",
+    "slug": "sawedoff"
+  },
+  "pattern": {
+    "id": "hy_ali_tile_bravo",
+    "name": "Mosaico"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit. This memento from Ali has been painted with a mosaic hydrographic.\\n\\n<i>Patience is a virtue</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 35,
+      "max": 35,
+      "mean": 35,
+      "median": 35,
+      "suggested": 8.53,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 5.6,
+      "max": 5.67,
+      "mean": 5.64,
+      "median": 5.64,
+      "suggested": 6.52,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 39.94,
+      "max": 39.94,
+      "mean": 39.94,
+      "median": 39.94,
+      "suggested": 5.81,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 47.84,
+      "max": 47.84,
+      "mean": 47.84,
+      "median": 47.84,
+      "suggested": 6.08,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Sawed-Off | Mosaico (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Sawed-Off | Mosaico (Minimal Wear)",
+      "price": {
+        "min": 35,
+        "max": 35,
+        "mean": 35,
+        "median": 35,
+        "suggested": 8.53,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Sawed-Off | Mosaico (Field-Tested)",
+      "price": {
+        "min": 5.6,
+        "max": 5.67,
+        "mean": 5.64,
+        "median": 5.64,
+        "suggested": 6.52,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Sawed-Off | Mosaico (Well-Worn)",
+      "price": {
+        "min": 39.94,
+        "max": 39.94,
+        "mean": 39.94,
+        "median": 39.94,
+        "suggested": 5.81,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Sawed-Off | Mosaico (Battle-Scarred)",
+      "price": {
+        "min": 47.84,
+        "max": 47.84,
+        "mean": 47.84,
+        "median": 47.84,
+        "suggested": 6.08,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Sawed-Off | Mosaico (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Sawed-Off | Mosaico (Minimal Wear)",
+        "price": {
+          "min": 35,
+          "max": 35,
+          "mean": 35,
+          "median": 35,
+          "suggested": 8.53,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Sawed-Off | Mosaico (Field-Tested)",
+        "price": {
+          "min": 5.6,
+          "max": 5.67,
+          "mean": 5.64,
+          "median": 5.64,
+          "suggested": 6.52,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Sawed-Off | Mosaico (Well-Worn)",
+        "price": {
+          "min": 39.94,
+          "max": 39.94,
+          "mean": 39.94,
+          "median": 39.94,
+          "suggested": 5.81,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Sawed-Off | Mosaico (Battle-Scarred)",
+        "price": {
+          "min": 47.84,
+          "max": 47.84,
+          "mean": 47.84,
+          "median": 47.84,
+          "suggested": 6.08,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Sawed-Off | Mosaico (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Sawed-Off | Mosaico (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Sawed-Off | Mosaico (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Sawed-Off | Mosaico (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Sawed-Off | Mosaico (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:47.182Z"
+}

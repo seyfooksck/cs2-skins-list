@@ -1,0 +1,302 @@
+{
+  "id": "skin-7cfcd56e9168",
+  "name": "PP-Bizon | Antique",
+  "paint_index": "306",
+  "weapon": {
+    "id": "weapon_bizon",
+    "weapon_id": 26,
+    "name": "PP-Bizon",
+    "slug": "bizon"
+  },
+  "pattern": {
+    "id": "cu_bizon_antique",
+    "name": "Antique"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly. It has been painted using a combination of hydrographics and dry-transfer decals to create the look of a wood stock and gold inlay.\\n\\n<i>With age comes wisdom and stopping power</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 11.55,
+      "max": 127.18,
+      "mean": 25.8,
+      "median": 14.34,
+      "suggested": 14.94,
+      "quantity": 21,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 7.08,
+      "max": 35.01,
+      "mean": 12.17,
+      "median": 9.32,
+      "suggested": 8.78,
+      "quantity": 33,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 4.83,
+      "max": 12.84,
+      "mean": 7.85,
+      "median": 7.39,
+      "suggested": 6.28,
+      "quantity": 25,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 5.43,
+      "max": 5.43,
+      "mean": 5.43,
+      "median": 5.43,
+      "suggested": 5.86,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 6.22,
+      "max": 6.22,
+      "mean": 6.22,
+      "median": 6.22,
+      "suggested": 6.01,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "PP-Bizon | Antique (Factory New)",
+      "price": {
+        "min": 11.55,
+        "max": 127.18,
+        "mean": 25.8,
+        "median": 14.34,
+        "suggested": 14.94,
+        "quantity": 21,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "PP-Bizon | Antique (Minimal Wear)",
+      "price": {
+        "min": 7.08,
+        "max": 35.01,
+        "mean": 12.17,
+        "median": 9.32,
+        "suggested": 8.78,
+        "quantity": 33,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "PP-Bizon | Antique (Field-Tested)",
+      "price": {
+        "min": 4.83,
+        "max": 12.84,
+        "mean": 7.85,
+        "median": 7.39,
+        "suggested": 6.28,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "PP-Bizon | Antique (Well-Worn)",
+      "price": {
+        "min": 5.43,
+        "max": 5.43,
+        "mean": 5.43,
+        "median": 5.43,
+        "suggested": 5.86,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "PP-Bizon | Antique (Battle-Scarred)",
+      "price": {
+        "min": 6.22,
+        "max": 6.22,
+        "mean": 6.22,
+        "median": 6.22,
+        "suggested": 6.01,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "PP-Bizon | Antique (Factory New)",
+        "price": {
+          "min": 11.55,
+          "max": 127.18,
+          "mean": 25.8,
+          "median": 14.34,
+          "suggested": 14.94,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "PP-Bizon | Antique (Minimal Wear)",
+        "price": {
+          "min": 7.08,
+          "max": 35.01,
+          "mean": 12.17,
+          "median": 9.32,
+          "suggested": 8.78,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "PP-Bizon | Antique (Field-Tested)",
+        "price": {
+          "min": 4.83,
+          "max": 12.84,
+          "mean": 7.85,
+          "median": 7.39,
+          "suggested": 6.28,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "PP-Bizon | Antique (Well-Worn)",
+        "price": {
+          "min": 5.43,
+          "max": 5.43,
+          "mean": 5.43,
+          "median": 5.43,
+          "suggested": 5.86,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "PP-Bizon | Antique (Battle-Scarred)",
+        "price": {
+          "min": 6.22,
+          "max": 6.22,
+          "mean": 6.22,
+          "median": 6.22,
+          "suggested": 6.01,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Antique (Factory New)",
+        "price": {
+          "min": 13.59,
+          "max": 31.65,
+          "mean": 20.79,
+          "median": 20.98,
+          "suggested": 16.09,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Antique (Minimal Wear)",
+        "price": {
+          "min": 8.82,
+          "max": 39.94,
+          "mean": 13.42,
+          "median": 11.18,
+          "suggested": 10.09,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Antique (Field-Tested)",
+        "price": {
+          "min": 6.49,
+          "max": 39.94,
+          "mean": 10.91,
+          "median": 7.95,
+          "suggested": 7.37,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Antique (Well-Worn)",
+        "price": {
+          "min": 9.86,
+          "max": 39.94,
+          "mean": 24.9,
+          "median": 24.9,
+          "suggested": 7.48,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Antique (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir PP-Bizon | Antique (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir PP-Bizon | Antique (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir PP-Bizon | Antique (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir PP-Bizon | Antique (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir PP-Bizon | Antique (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:27.000Z"
+}

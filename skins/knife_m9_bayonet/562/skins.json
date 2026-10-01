@@ -1,0 +1,273 @@
+{
+  "id": "skin-56ef5fcd4d5e",
+  "name": "★ M9 Bayonet | Lore",
+  "paint_index": "562",
+  "weapon": {
+    "id": "weapon_knife_m9_bayonet",
+    "weapon_id": 508,
+    "name": "M9 Bayonet",
+    "slug": "knife_m9_bayonet"
+  },
+  "pattern": {
+    "id": "cu_m9_bay_lore",
+    "name": "Lore"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.65,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This is the M-9 bayonet.  Originally intended to be mounted on a rifle, it is also well suited to close-quarters combat. It has been custom painted with knotwork.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1220.58,
+      "max": 1341.98,
+      "mean": 1266.23,
+      "median": 1236.12,
+      "suggested": 1437.5,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 875.19,
+      "max": 1400.32,
+      "mean": 1141.29,
+      "median": 1142.43,
+      "suggested": 1002.26,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 486.47,
+      "max": 1075.68,
+      "mean": 643.05,
+      "median": 513.44,
+      "suggested": 582,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 464.66,
+      "max": 875.2,
+      "mean": 669.94,
+      "median": 669.94,
+      "suggested": 550.01,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 500.97,
+      "max": 500.97,
+      "mean": 500.97,
+      "median": 500.97,
+      "suggested": 463.49,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ M9 Bayonet | Lore (Factory New)",
+      "price": {
+        "min": 1220.58,
+        "max": 1341.98,
+        "mean": 1266.23,
+        "median": 1236.12,
+        "suggested": 1437.5,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ M9 Bayonet | Lore (Minimal Wear)",
+      "price": {
+        "min": 875.19,
+        "max": 1400.32,
+        "mean": 1141.29,
+        "median": 1142.43,
+        "suggested": 1002.26,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ M9 Bayonet | Lore (Field-Tested)",
+      "price": {
+        "min": 486.47,
+        "max": 1075.68,
+        "mean": 643.05,
+        "median": 513.44,
+        "suggested": 582,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ M9 Bayonet | Lore (Well-Worn)",
+      "price": {
+        "min": 464.66,
+        "max": 875.2,
+        "mean": 669.94,
+        "median": 669.94,
+        "suggested": 550.01,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ M9 Bayonet | Lore (Battle-Scarred)",
+      "price": {
+        "min": 500.97,
+        "max": 500.97,
+        "mean": 500.97,
+        "median": 500.97,
+        "suggested": 463.49,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ M9 Bayonet | Lore (Factory New)",
+        "price": {
+          "min": 1220.58,
+          "max": 1341.98,
+          "mean": 1266.23,
+          "median": 1236.12,
+          "suggested": 1437.5,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ M9 Bayonet | Lore (Minimal Wear)",
+        "price": {
+          "min": 875.19,
+          "max": 1400.32,
+          "mean": 1141.29,
+          "median": 1142.43,
+          "suggested": 1002.26,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ M9 Bayonet | Lore (Field-Tested)",
+        "price": {
+          "min": 486.47,
+          "max": 1075.68,
+          "mean": 643.05,
+          "median": 513.44,
+          "suggested": 582,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ M9 Bayonet | Lore (Well-Worn)",
+        "price": {
+          "min": 464.66,
+          "max": 875.2,
+          "mean": 669.94,
+          "median": 669.94,
+          "suggested": 550.01,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ M9 Bayonet | Lore (Battle-Scarred)",
+        "price": {
+          "min": 500.97,
+          "max": 500.97,
+          "mean": 500.97,
+          "median": 500.97,
+          "suggested": 463.49,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Lore (Factory New)",
+        "price": {
+          "min": 1440.2,
+          "max": 2217.18,
+          "mean": 1828.7,
+          "median": 1828.7,
+          "suggested": 1664.14,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Lore (Minimal Wear)",
+        "price": {
+          "min": 1792.25,
+          "max": 1792.25,
+          "mean": 1792.25,
+          "median": 1792.25,
+          "suggested": 1006.29,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Lore (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Lore (Well-Worn)",
+        "price": {
+          "min": 465.04,
+          "max": 465.04,
+          "mean": 465.04,
+          "median": 465.04,
+          "suggested": 571.14,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Lore (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:36.656Z"
+}

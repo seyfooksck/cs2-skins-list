@@ -1,0 +1,180 @@
+{
+  "id": "skin-71c8a21234d4",
+  "name": "★ Hand Wraps | Badlands",
+  "paint_index": "10036",
+  "weapon": {
+    "id": "leather_handwraps",
+    "weapon_id": 5032,
+    "name": "Hand Wraps",
+    "slug": "leather_handwraps"
+  },
+  "pattern": {
+    "id": "handwrap_fabric_orange_camo",
+    "name": "Badlands"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_gloves",
+    "name": "Gloves"
+  },
+  "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Preferred by hand-to-hand fighters, these wraps protect the knuckles and stabilize the wrist when punching. This DIY hand protection is made of scavenged materials.\\n\\n<i>Felix turns a blind eye towards the Colation Taskforce's unsanctioned boxing league</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 1024.14,
+      "max": 1024.14,
+      "mean": 1024.14,
+      "median": 1024.14,
+      "suggested": 568.02,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 399.38,
+      "max": 761.04,
+      "mean": 577.61,
+      "median": 575.25,
+      "suggested": 447.44,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 107.35,
+      "max": 107.35,
+      "mean": 107.35,
+      "median": 107.35,
+      "suggested": 121.78,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Hand Wraps | Badlands (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Hand Wraps | Badlands (Minimal Wear)",
+      "price": {
+        "min": 1024.14,
+        "max": 1024.14,
+        "mean": 1024.14,
+        "median": 1024.14,
+        "suggested": 568.02,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Hand Wraps | Badlands (Field-Tested)",
+      "price": {
+        "min": 399.38,
+        "max": 761.04,
+        "mean": 577.61,
+        "median": 575.25,
+        "suggested": 447.44,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Hand Wraps | Badlands (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Hand Wraps | Badlands (Battle-Scarred)",
+      "price": {
+        "min": 107.35,
+        "max": 107.35,
+        "mean": 107.35,
+        "median": 107.35,
+        "suggested": 121.78,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Hand Wraps | Badlands (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Hand Wraps | Badlands (Minimal Wear)",
+        "price": {
+          "min": 1024.14,
+          "max": 1024.14,
+          "mean": 1024.14,
+          "median": 1024.14,
+          "suggested": 568.02,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Hand Wraps | Badlands (Field-Tested)",
+        "price": {
+          "min": 399.38,
+          "max": 761.04,
+          "mean": 577.61,
+          "median": 575.25,
+          "suggested": 447.44,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Hand Wraps | Badlands (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ Hand Wraps | Badlands (Battle-Scarred)",
+        "price": {
+          "min": 107.35,
+          "max": 107.35,
+          "mean": 107.35,
+          "median": 107.35,
+          "suggested": 121.78,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:23.026Z"
+}

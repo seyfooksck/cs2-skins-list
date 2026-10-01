@@ -1,0 +1,185 @@
+{
+  "id": "skin-239162799f41",
+  "name": "★ Survival Knife | Slaughter",
+  "paint_index": "59",
+  "weapon": {
+    "id": "weapon_knife_canis",
+    "weapon_id": 518,
+    "name": "Survival Knife",
+    "slug": "knife_canis"
+  },
+  "pattern": {
+    "id": "am_zebra",
+    "name": "Slaughter"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.01,
+  "max_float": 0.26,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been painted in a zebra-stripe pattern with aluminum and chrome paints with various reflectivities, and has then been covered with a tomato red candy coat.\\n\\n<i>Valeria doesn't pay Javier to ask questions... she pays him to pry out answers</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 128.36,
+      "max": 327.72,
+      "mean": 191.63,
+      "median": 163.38,
+      "suggested": 163.07,
+      "quantity": 27,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 118.64,
+      "max": 320.91,
+      "mean": 155.27,
+      "median": 135.6,
+      "suggested": 153.84,
+      "quantity": 20,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 116.85,
+      "max": 159.79,
+      "mean": 136.03,
+      "median": 135.98,
+      "suggested": 144.62,
+      "quantity": 10,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Survival Knife | Slaughter (Factory New)",
+      "price": {
+        "min": 128.36,
+        "max": 327.72,
+        "mean": 191.63,
+        "median": 163.38,
+        "suggested": 163.07,
+        "quantity": 27,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Survival Knife | Slaughter (Minimal Wear)",
+      "price": {
+        "min": 118.64,
+        "max": 320.91,
+        "mean": 155.27,
+        "median": 135.6,
+        "suggested": 153.84,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Survival Knife | Slaughter (Field-Tested)",
+      "price": {
+        "min": 116.85,
+        "max": 159.79,
+        "mean": 136.03,
+        "median": 135.98,
+        "suggested": 144.62,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Survival Knife | Slaughter (Factory New)",
+        "price": {
+          "min": 128.36,
+          "max": 327.72,
+          "mean": 191.63,
+          "median": 163.38,
+          "suggested": 163.07,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Survival Knife | Slaughter (Minimal Wear)",
+        "price": {
+          "min": 118.64,
+          "max": 320.91,
+          "mean": 155.27,
+          "median": 135.6,
+          "suggested": 153.84,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Survival Knife | Slaughter (Field-Tested)",
+        "price": {
+          "min": 116.85,
+          "max": 159.79,
+          "mean": 136.03,
+          "median": 135.98,
+          "suggested": 144.62,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Slaughter (Factory New)",
+        "price": {
+          "min": 163.27,
+          "max": 583.47,
+          "mean": 266.82,
+          "median": 200.43,
+          "suggested": 218.95,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Slaughter (Minimal Wear)",
+        "price": {
+          "min": 232.22,
+          "max": 232.22,
+          "mean": 232.22,
+          "median": 232.22,
+          "suggested": 165.3,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Slaughter (Field-Tested)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:33.357Z"
+}

@@ -1,0 +1,217 @@
+{
+  "id": "skin-546d3bfe8243",
+  "name": "★ Flip Knife | Freehand",
+  "paint_index": "580",
+  "weapon": {
+    "id": "weapon_knife_flip",
+    "weapon_id": 505,
+    "name": "Flip Knife",
+    "slug": "knife_flip"
+  },
+  "pattern": {
+    "id": "am_marked_up",
+    "name": "Freehand"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.48,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Flip knives sport a Persian-style back-swept blade with an acute point.  While the point itself may be fragile, the overall design of the flip knife's design is surprisingly durable. It has been painted black and purple, then decorated with a metallic marker.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 170.28,
+      "max": 186.71,
+      "mean": 179.79,
+      "median": 182.37,
+      "suggested": 184.86,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 142.28,
+      "max": 151.52,
+      "mean": 148.41,
+      "median": 149.92,
+      "suggested": 170.21,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 137.69,
+      "max": 338.94,
+      "mean": 186.79,
+      "median": 144.61,
+      "suggested": 172.85,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Flip Knife | Freehand (Factory New)",
+      "price": {
+        "min": 170.28,
+        "max": 186.71,
+        "mean": 179.79,
+        "median": 182.37,
+        "suggested": 184.86,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Flip Knife | Freehand (Minimal Wear)",
+      "price": {
+        "min": 142.28,
+        "max": 151.52,
+        "mean": 148.41,
+        "median": 149.92,
+        "suggested": 170.21,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Flip Knife | Freehand (Field-Tested)",
+      "price": {
+        "min": 137.69,
+        "max": 338.94,
+        "mean": 186.79,
+        "median": 144.61,
+        "suggested": 172.85,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Flip Knife | Freehand (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Flip Knife | Freehand (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Flip Knife | Freehand (Factory New)",
+        "price": {
+          "min": 170.28,
+          "max": 186.71,
+          "mean": 179.79,
+          "median": 182.37,
+          "suggested": 184.86,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Flip Knife | Freehand (Minimal Wear)",
+        "price": {
+          "min": 142.28,
+          "max": 151.52,
+          "mean": 148.41,
+          "median": 149.92,
+          "suggested": 170.21,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Flip Knife | Freehand (Field-Tested)",
+        "price": {
+          "min": 137.69,
+          "max": 338.94,
+          "mean": 186.79,
+          "median": 144.61,
+          "suggested": 172.85,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Flip Knife | Freehand (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ Flip Knife | Freehand (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Freehand (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Freehand (Minimal Wear)",
+        "price": {
+          "min": 179.71,
+          "max": 201.75,
+          "mean": 190.74,
+          "median": 190.74,
+          "suggested": 175.56,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Freehand (Field-Tested)",
+        "price": {
+          "min": 140.21,
+          "max": 140.21,
+          "mean": 140.21,
+          "median": 140.21,
+          "suggested": 177.19,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Freehand (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Freehand (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:34.620Z"
+}

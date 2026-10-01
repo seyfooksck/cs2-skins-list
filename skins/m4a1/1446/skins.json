@@ -1,0 +1,249 @@
+{
+  "id": "skin-9a04113a9d7b",
+  "name": "M4A4 | Dark Operative",
+  "paint_index": "1446",
+  "weapon": {
+    "id": "weapon_m4a1",
+    "weapon_id": 16,
+    "name": "M4A4",
+    "slug": "m4a1"
+  },
+  "pattern": {
+    "id": "m4a4_black_side_matte",
+    "name": "Dark Operative"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted in matte black and silver and finished with white graphic designs.\\n\\n<i>Function before style</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 12.99,
+      "max": 23.34,
+      "mean": 19.32,
+      "median": 21.64,
+      "suggested": 8.98,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2,
+      "max": 5.82,
+      "mean": 2.98,
+      "median": 2.05,
+      "suggested": 2.34,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.74,
+      "max": 2.33,
+      "mean": 2.16,
+      "median": 2.33,
+      "suggested": 0.84,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.68,
+      "max": 0.68,
+      "mean": 0.68,
+      "median": 0.68,
+      "suggested": 0.77,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.56,
+      "max": 0.88,
+      "mean": 0.72,
+      "median": 0.72,
+      "suggested": 0.65,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A4 | Dark Operative (Factory New)",
+      "price": {
+        "min": 12.99,
+        "max": 23.34,
+        "mean": 19.32,
+        "median": 21.64,
+        "suggested": 8.98,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A4 | Dark Operative (Minimal Wear)",
+      "price": {
+        "min": 2,
+        "max": 5.82,
+        "mean": 2.98,
+        "median": 2.05,
+        "suggested": 2.34,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A4 | Dark Operative (Field-Tested)",
+      "price": {
+        "min": 0.74,
+        "max": 2.33,
+        "mean": 2.16,
+        "median": 2.33,
+        "suggested": 0.84,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M4A4 | Dark Operative (Well-Worn)",
+      "price": {
+        "min": 0.68,
+        "max": 0.68,
+        "mean": 0.68,
+        "median": 0.68,
+        "suggested": 0.77,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M4A4 | Dark Operative (Battle-Scarred)",
+      "price": {
+        "min": 0.56,
+        "max": 0.88,
+        "mean": 0.72,
+        "median": 0.72,
+        "suggested": 0.65,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A4 | Dark Operative (Factory New)",
+        "price": {
+          "min": 12.99,
+          "max": 23.34,
+          "mean": 19.32,
+          "median": 21.64,
+          "suggested": 8.98,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A4 | Dark Operative (Minimal Wear)",
+        "price": {
+          "min": 2,
+          "max": 5.82,
+          "mean": 2.98,
+          "median": 2.05,
+          "suggested": 2.34,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A4 | Dark Operative (Field-Tested)",
+        "price": {
+          "min": 0.74,
+          "max": 2.33,
+          "mean": 2.16,
+          "median": 2.33,
+          "suggested": 0.84,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M4A4 | Dark Operative (Well-Worn)",
+        "price": {
+          "min": 0.68,
+          "max": 0.68,
+          "mean": 0.68,
+          "median": 0.68,
+          "suggested": 0.77,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M4A4 | Dark Operative (Battle-Scarred)",
+        "price": {
+          "min": 0.56,
+          "max": 0.88,
+          "mean": 0.72,
+          "median": 0.72,
+          "suggested": 0.65,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A4 | Dark Operative (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A4 | Dark Operative (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A4 | Dark Operative (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M4A4 | Dark Operative (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M4A4 | Dark Operative (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:40.578Z"
+}

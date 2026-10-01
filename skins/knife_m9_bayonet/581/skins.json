@@ -1,0 +1,201 @@
+{
+  "id": "skin-acb2333c3cd8",
+  "name": "★ M9 Bayonet | Freehand",
+  "paint_index": "581",
+  "weapon": {
+    "id": "weapon_knife_m9_bayonet",
+    "weapon_id": 508,
+    "name": "M9 Bayonet",
+    "slug": "knife_m9_bayonet"
+  },
+  "pattern": {
+    "id": "am_marked_up_90",
+    "name": "Freehand"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.48,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This is the M-9 bayonet.  Originally intended to be mounted on a rifle, it is also well suited to close-quarters combat. It has been painted black and purple, then decorated with a metallic marker.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 443.07,
+      "max": 885.71,
+      "mean": 611.42,
+      "median": 615.56,
+      "suggested": 516.89,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 445.37,
+      "max": 445.5,
+      "mean": 445.44,
+      "median": 445.44,
+      "suggested": 481.75,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 390.92,
+      "max": 410.68,
+      "mean": 403.34,
+      "median": 408.42,
+      "suggested": 450.45,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ M9 Bayonet | Freehand (Factory New)",
+      "price": {
+        "min": 443.07,
+        "max": 885.71,
+        "mean": 611.42,
+        "median": 615.56,
+        "suggested": 516.89,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ M9 Bayonet | Freehand (Minimal Wear)",
+      "price": {
+        "min": 445.37,
+        "max": 445.5,
+        "mean": 445.44,
+        "median": 445.44,
+        "suggested": 481.75,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ M9 Bayonet | Freehand (Field-Tested)",
+      "price": {
+        "min": 390.92,
+        "max": 410.68,
+        "mean": 403.34,
+        "median": 408.42,
+        "suggested": 450.45,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ M9 Bayonet | Freehand (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ M9 Bayonet | Freehand (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ M9 Bayonet | Freehand (Factory New)",
+        "price": {
+          "min": 443.07,
+          "max": 885.71,
+          "mean": 611.42,
+          "median": 615.56,
+          "suggested": 516.89,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ M9 Bayonet | Freehand (Minimal Wear)",
+        "price": {
+          "min": 445.37,
+          "max": 445.5,
+          "mean": 445.44,
+          "median": 445.44,
+          "suggested": 481.75,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ M9 Bayonet | Freehand (Field-Tested)",
+        "price": {
+          "min": 390.92,
+          "max": 410.68,
+          "mean": 403.34,
+          "median": 408.42,
+          "suggested": 450.45,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ M9 Bayonet | Freehand (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ M9 Bayonet | Freehand (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Freehand (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Freehand (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Freehand (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Freehand (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Freehand (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:36.527Z"
+}

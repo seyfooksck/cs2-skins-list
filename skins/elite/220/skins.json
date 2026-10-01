@@ -1,0 +1,206 @@
+{
+  "id": "skin-5eadf3687ff5",
+  "name": "Dual Berettas | Hemoglobin",
+  "paint_index": "220",
+  "weapon": {
+    "id": "weapon_elite",
+    "weapon_id": 2,
+    "name": "Dual Berettas",
+    "slug": "elite"
+  },
+  "pattern": {
+    "id": "am_ossify_red",
+    "name": "Hemoglobin"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.2,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. It has been painted using a transparent red abstract hydrographic over a metallic base coat.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 20.91,
+      "max": 635.4,
+      "mean": 44.31,
+      "median": 25.93,
+      "suggested": 27.87,
+      "quantity": 47,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 17.47,
+      "max": 583.46,
+      "mean": 59.47,
+      "median": 28.64,
+      "suggested": 21.72,
+      "quantity": 20,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 17.49,
+      "max": 93.78,
+      "mean": 42.99,
+      "median": 17.7,
+      "suggested": 20.62,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Dual Berettas | Hemoglobin (Factory New)",
+      "price": {
+        "min": 20.91,
+        "max": 635.4,
+        "mean": 44.31,
+        "median": 25.93,
+        "suggested": 27.87,
+        "quantity": 47,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Dual Berettas | Hemoglobin (Minimal Wear)",
+      "price": {
+        "min": 17.47,
+        "max": 583.46,
+        "mean": 59.47,
+        "median": 28.64,
+        "suggested": 21.72,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Dual Berettas | Hemoglobin (Field-Tested)",
+      "price": {
+        "min": 17.49,
+        "max": 93.78,
+        "mean": 42.99,
+        "median": 17.7,
+        "suggested": 20.62,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Dual Berettas | Hemoglobin (Factory New)",
+        "price": {
+          "min": 20.91,
+          "max": 635.4,
+          "mean": 44.31,
+          "median": 25.93,
+          "suggested": 27.87,
+          "quantity": 47,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Dual Berettas | Hemoglobin (Minimal Wear)",
+        "price": {
+          "min": 17.47,
+          "max": 583.46,
+          "mean": 59.47,
+          "median": 28.64,
+          "suggested": 21.72,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Dual Berettas | Hemoglobin (Field-Tested)",
+        "price": {
+          "min": 17.49,
+          "max": 93.78,
+          "mean": 42.99,
+          "median": 17.7,
+          "suggested": 20.62,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Dual Berettas | Hemoglobin (Factory New)",
+        "price": {
+          "min": 36.07,
+          "max": 482.13,
+          "mean": 83.2,
+          "median": 45.49,
+          "suggested": 43.84,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Dual Berettas | Hemoglobin (Minimal Wear)",
+        "price": {
+          "min": 27.36,
+          "max": 46.7,
+          "mean": 32.88,
+          "median": 29.84,
+          "suggested": 32.6,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Dual Berettas | Hemoglobin (Field-Tested)",
+        "price": {
+          "min": 26.07,
+          "max": 26.07,
+          "mean": 26.07,
+          "median": 26.07,
+          "suggested": 30.67,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Dual Berettas | Hemoglobin (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Dual Berettas | Hemoglobin (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Dual Berettas | Hemoglobin (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:28.614Z"
+}

@@ -1,0 +1,204 @@
+{
+  "id": "skin-0ab789f2f54c",
+  "name": "★ Moto Gloves | Smoke Out",
+  "paint_index": "10078",
+  "weapon": {
+    "id": "motorcycle_gloves",
+    "weapon_id": 5033,
+    "name": "Moto Gloves",
+    "slug": "motorcycle_gloves"
+  },
+  "pattern": {
+    "id": "motorcycle_smoke",
+    "name": "Smoke Out"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_gloves",
+    "name": "Gloves"
+  },
+  "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "These bulky hard knuckled gloves can protect the wearers hands from road rash at 60 mph.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 228.71,
+      "max": 537.68,
+      "mean": 334.18,
+      "median": 305.81,
+      "suggested": 290.04,
+      "quantity": 25,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 126.87,
+      "max": 240.17,
+      "mean": 154.04,
+      "median": 141.57,
+      "suggested": 155.3,
+      "quantity": 43,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 105.02,
+      "max": 175.2,
+      "mean": 126.43,
+      "median": 121.31,
+      "suggested": 139.68,
+      "quantity": 21,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 82.74,
+      "max": 155.59,
+      "mean": 99.46,
+      "median": 94.24,
+      "suggested": 102.37,
+      "quantity": 7,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Moto Gloves | Smoke Out (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Moto Gloves | Smoke Out (Minimal Wear)",
+      "price": {
+        "min": 228.71,
+        "max": 537.68,
+        "mean": 334.18,
+        "median": 305.81,
+        "suggested": 290.04,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Moto Gloves | Smoke Out (Field-Tested)",
+      "price": {
+        "min": 126.87,
+        "max": 240.17,
+        "mean": 154.04,
+        "median": 141.57,
+        "suggested": 155.3,
+        "quantity": 43,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Moto Gloves | Smoke Out (Well-Worn)",
+      "price": {
+        "min": 105.02,
+        "max": 175.2,
+        "mean": 126.43,
+        "median": 121.31,
+        "suggested": 139.68,
+        "quantity": 21,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Moto Gloves | Smoke Out (Battle-Scarred)",
+      "price": {
+        "min": 82.74,
+        "max": 155.59,
+        "mean": 99.46,
+        "median": 94.24,
+        "suggested": 102.37,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Moto Gloves | Smoke Out (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Moto Gloves | Smoke Out (Minimal Wear)",
+        "price": {
+          "min": 228.71,
+          "max": 537.68,
+          "mean": 334.18,
+          "median": 305.81,
+          "suggested": 290.04,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Moto Gloves | Smoke Out (Field-Tested)",
+        "price": {
+          "min": 126.87,
+          "max": 240.17,
+          "mean": 154.04,
+          "median": 141.57,
+          "suggested": 155.3,
+          "quantity": 43,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Moto Gloves | Smoke Out (Well-Worn)",
+        "price": {
+          "min": 105.02,
+          "max": 175.2,
+          "mean": 126.43,
+          "median": 121.31,
+          "suggested": 139.68,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Moto Gloves | Smoke Out (Battle-Scarred)",
+        "price": {
+          "min": 82.74,
+          "max": 155.59,
+          "mean": 99.46,
+          "median": 94.24,
+          "suggested": 102.37,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:23.270Z"
+}

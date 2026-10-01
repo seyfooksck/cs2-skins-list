@@ -1,0 +1,310 @@
+{
+  "id": "skin-2a8ebacc14e8",
+  "name": "AK-47 | Cartel",
+  "paint_index": "394",
+  "weapon": {
+    "id": "weapon_ak47",
+    "weapon_id": 7,
+    "name": "AK-47",
+    "slug": "ak47"
+  },
+  "pattern": {
+    "id": "aq_ak47_cartel",
+    "name": "Cartel"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.75,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. It has been engraved with skeletons, flowers and serpents.\\n\\n<i>One little squeeze turns every morning into the Day of the Dead</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 66.5,
+      "max": 322.98,
+      "mean": 115.38,
+      "median": 94.03,
+      "suggested": 88.54,
+      "quantity": 39,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 22.66,
+      "max": 512.08,
+      "mean": 49.86,
+      "median": 25.6,
+      "suggested": 27.77,
+      "quantity": 74,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 17.49,
+      "max": 593.73,
+      "mean": 39.58,
+      "median": 21.73,
+      "suggested": 21.64,
+      "quantity": 74,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 20.29,
+      "max": 37.59,
+      "mean": 25.44,
+      "median": 23.98,
+      "suggested": 23.79,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 17.55,
+      "max": 204.21,
+      "mean": 33.29,
+      "median": 24.39,
+      "suggested": 20.88,
+      "quantity": 18,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AK-47 | Cartel (Factory New)",
+      "price": {
+        "min": 66.5,
+        "max": 322.98,
+        "mean": 115.38,
+        "median": 94.03,
+        "suggested": 88.54,
+        "quantity": 39,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AK-47 | Cartel (Minimal Wear)",
+      "price": {
+        "min": 22.66,
+        "max": 512.08,
+        "mean": 49.86,
+        "median": 25.6,
+        "suggested": 27.77,
+        "quantity": 74,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AK-47 | Cartel (Field-Tested)",
+      "price": {
+        "min": 17.49,
+        "max": 593.73,
+        "mean": 39.58,
+        "median": 21.73,
+        "suggested": 21.64,
+        "quantity": 74,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AK-47 | Cartel (Well-Worn)",
+      "price": {
+        "min": 20.29,
+        "max": 37.59,
+        "mean": 25.44,
+        "median": 23.98,
+        "suggested": 23.79,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AK-47 | Cartel (Battle-Scarred)",
+      "price": {
+        "min": 17.55,
+        "max": 204.21,
+        "mean": 33.29,
+        "median": 24.39,
+        "suggested": 20.88,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AK-47 | Cartel (Factory New)",
+        "price": {
+          "min": 66.5,
+          "max": 322.98,
+          "mean": 115.38,
+          "median": 94.03,
+          "suggested": 88.54,
+          "quantity": 39,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AK-47 | Cartel (Minimal Wear)",
+        "price": {
+          "min": 22.66,
+          "max": 512.08,
+          "mean": 49.86,
+          "median": 25.6,
+          "suggested": 27.77,
+          "quantity": 74,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AK-47 | Cartel (Field-Tested)",
+        "price": {
+          "min": 17.49,
+          "max": 593.73,
+          "mean": 39.58,
+          "median": 21.73,
+          "suggested": 21.64,
+          "quantity": 74,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AK-47 | Cartel (Well-Worn)",
+        "price": {
+          "min": 20.29,
+          "max": 37.59,
+          "mean": 25.44,
+          "median": 23.98,
+          "suggested": 23.79,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AK-47 | Cartel (Battle-Scarred)",
+        "price": {
+          "min": 17.55,
+          "max": 204.21,
+          "mean": 33.29,
+          "median": 24.39,
+          "suggested": 20.88,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AK-47 | Cartel (Factory New)",
+        "price": {
+          "min": 91.48,
+          "max": 356.88,
+          "mean": 150.76,
+          "median": 129.82,
+          "suggested": 136.03,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AK-47 | Cartel (Minimal Wear)",
+        "price": {
+          "min": 68.3,
+          "max": 118.33,
+          "mean": 86.46,
+          "median": 75.84,
+          "suggested": 80.29,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AK-47 | Cartel (Field-Tested)",
+        "price": {
+          "min": 45.63,
+          "max": 129.2,
+          "mean": 64.05,
+          "median": 53.69,
+          "suggested": 55.97,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AK-47 | Cartel (Well-Worn)",
+        "price": {
+          "min": 54.9,
+          "max": 54.9,
+          "mean": 54.9,
+          "median": 54.9,
+          "suggested": 56.21,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ AK-47 | Cartel (Battle-Scarred)",
+        "price": {
+          "min": 45.36,
+          "max": 145.87,
+          "mean": 79.96,
+          "median": 64.3,
+          "suggested": 53.69,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AK-47 | Cartel (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AK-47 | Cartel (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AK-47 | Cartel (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AK-47 | Cartel (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AK-47 | Cartel (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:20:20.392Z"
+}

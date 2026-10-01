@@ -1,0 +1,201 @@
+{
+  "id": "skin-68f3c97df6fb",
+  "name": "R8 Revolver | Monarch",
+  "paint_index": "1445",
+  "weapon": {
+    "id": "weapon_revolver",
+    "weapon_id": 64,
+    "name": "R8 Revolver",
+    "slug": "revolver"
+  },
+  "pattern": {
+    "id": "r8_monarch_extended",
+    "name": "Monarch"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The R8 Revolver delivers a highly accurate and powerful round at the expense of a lengthy trigger-pull. Firing rapidly by fanning the hammer may be the best option when point-blank stopping power is required. It has been custom painted in orange and grey and features brass-finished controls.\\n\\n<i>A symbol of status and authority</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 5.82,
+      "max": 5.82,
+      "mean": 5.82,
+      "median": 5.82,
+      "suggested": 3.94,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.16,
+      "max": 3.5,
+      "mean": 2.33,
+      "median": 2.33,
+      "suggested": 1.96,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.78,
+      "max": 1.17,
+      "mean": 1.07,
+      "median": 1.17,
+      "suggested": 0.9,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "R8 Revolver | Monarch (Factory New)",
+      "price": {
+        "min": 5.82,
+        "max": 5.82,
+        "mean": 5.82,
+        "median": 5.82,
+        "suggested": 3.94,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "R8 Revolver | Monarch (Minimal Wear)",
+      "price": {
+        "min": 1.16,
+        "max": 3.5,
+        "mean": 2.33,
+        "median": 2.33,
+        "suggested": 1.96,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "R8 Revolver | Monarch (Field-Tested)",
+      "price": {
+        "min": 0.78,
+        "max": 1.17,
+        "mean": 1.07,
+        "median": 1.17,
+        "suggested": 0.9,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "R8 Revolver | Monarch (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "R8 Revolver | Monarch (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "R8 Revolver | Monarch (Factory New)",
+        "price": {
+          "min": 5.82,
+          "max": 5.82,
+          "mean": 5.82,
+          "median": 5.82,
+          "suggested": 3.94,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "R8 Revolver | Monarch (Minimal Wear)",
+        "price": {
+          "min": 1.16,
+          "max": 3.5,
+          "mean": 2.33,
+          "median": 2.33,
+          "suggested": 1.96,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "R8 Revolver | Monarch (Field-Tested)",
+        "price": {
+          "min": 0.78,
+          "max": 1.17,
+          "mean": 1.07,
+          "median": 1.17,
+          "suggested": 0.9,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "R8 Revolver | Monarch (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "R8 Revolver | Monarch (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir R8 Revolver | Monarch (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir R8 Revolver | Monarch (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir R8 Revolver | Monarch (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir R8 Revolver | Monarch (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir R8 Revolver | Monarch (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:46.743Z"
+}

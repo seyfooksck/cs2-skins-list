@@ -1,0 +1,278 @@
+{
+  "id": "skin-c928639d51cb",
+  "name": "MAC-10 | Curse",
+  "paint_index": "310",
+  "weapon": {
+    "id": "weapon_mac10",
+    "weapon_id": 17,
+    "name": "MAC-10",
+    "slug": "mac10"
+  },
+  "pattern": {
+    "id": "cu_mac10_decay",
+    "name": "Curse"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been custom painted with a graphic image of a mummy.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 17.41,
+      "max": 1609.42,
+      "mean": 127.57,
+      "median": 22.35,
+      "suggested": 21.93,
+      "quantity": 16,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 8.17,
+      "max": 39.94,
+      "mean": 15.28,
+      "median": 13.48,
+      "suggested": 9.72,
+      "quantity": 21,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 8.04,
+      "max": 11.41,
+      "mean": 9.69,
+      "median": 9.77,
+      "suggested": 9.32,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 10.63,
+      "max": 19.99,
+      "mean": 16.36,
+      "median": 18.47,
+      "suggested": 10.64,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAC-10 | Curse (Factory New)",
+      "price": {
+        "min": 17.41,
+        "max": 1609.42,
+        "mean": 127.57,
+        "median": 22.35,
+        "suggested": 21.93,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAC-10 | Curse (Minimal Wear)",
+      "price": {
+        "min": 8.17,
+        "max": 39.94,
+        "mean": 15.28,
+        "median": 13.48,
+        "suggested": 9.72,
+        "quantity": 21,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAC-10 | Curse (Field-Tested)",
+      "price": {
+        "min": 8.04,
+        "max": 11.41,
+        "mean": 9.69,
+        "median": 9.77,
+        "suggested": 9.32,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAC-10 | Curse (Well-Worn)",
+      "price": {
+        "min": 10.63,
+        "max": 19.99,
+        "mean": 16.36,
+        "median": 18.47,
+        "suggested": 10.64,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAC-10 | Curse (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAC-10 | Curse (Factory New)",
+        "price": {
+          "min": 17.41,
+          "max": 1609.42,
+          "mean": 127.57,
+          "median": 22.35,
+          "suggested": 21.93,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAC-10 | Curse (Minimal Wear)",
+        "price": {
+          "min": 8.17,
+          "max": 39.94,
+          "mean": 15.28,
+          "median": 13.48,
+          "suggested": 9.72,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAC-10 | Curse (Field-Tested)",
+        "price": {
+          "min": 8.04,
+          "max": 11.41,
+          "mean": 9.69,
+          "median": 9.77,
+          "suggested": 9.32,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAC-10 | Curse (Well-Worn)",
+        "price": {
+          "min": 10.63,
+          "max": 19.99,
+          "mean": 16.36,
+          "median": 18.47,
+          "suggested": 10.64,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MAC-10 | Curse (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MAC-10 | Curse (Factory New)",
+        "price": {
+          "min": 28.24,
+          "max": 54.45,
+          "mean": 43.75,
+          "median": 44.27,
+          "suggested": 30.26,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MAC-10 | Curse (Minimal Wear)",
+        "price": {
+          "min": 12.91,
+          "max": 27.5,
+          "mean": 20.22,
+          "median": 20.51,
+          "suggested": 14.84,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MAC-10 | Curse (Field-Tested)",
+        "price": {
+          "min": 11.66,
+          "max": 24.49,
+          "mean": 16.89,
+          "median": 14.49,
+          "suggested": 14.52,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MAC-10 | Curse (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MAC-10 | Curse (Battle-Scarred)",
+        "price": {
+          "min": 27.98,
+          "max": 27.98,
+          "mean": 27.98,
+          "median": 27.98,
+          "suggested": 23.66,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAC-10 | Curse (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAC-10 | Curse (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAC-10 | Curse (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAC-10 | Curse (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAC-10 | Curse (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.613Z"
+}

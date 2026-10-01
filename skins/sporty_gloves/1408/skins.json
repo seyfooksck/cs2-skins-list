@@ -1,0 +1,204 @@
+{
+  "id": "skin-1cd6adc6787e",
+  "name": "★ Sport Gloves | Creme Pinstripe",
+  "paint_index": "1408",
+  "weapon": {
+    "id": "sporty_gloves",
+    "weapon_id": 5030,
+    "name": "Sport Gloves",
+    "slug": "sporty_gloves"
+  },
+  "pattern": {
+    "id": "glove_sport_pinstripe_black",
+    "name": "Creme Pinstripe"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_gloves",
+    "name": "Gloves"
+  },
+  "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Synthetic fabrics make these athletic gloves durable and eye-catching.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 233.27,
+      "max": 390.19,
+      "mean": 274.13,
+      "median": 245.38,
+      "suggested": 286.01,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 112.84,
+      "max": 430.14,
+      "mean": 151.12,
+      "median": 129.11,
+      "suggested": 148.75,
+      "quantity": 37,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 107.45,
+      "max": 108.51,
+      "mean": 107.8,
+      "median": 107.45,
+      "suggested": 127.92,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 96.42,
+      "max": 101.72,
+      "mean": 99.07,
+      "median": 99.07,
+      "suggested": 118.19,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Sport Gloves | Creme Pinstripe (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Sport Gloves | Creme Pinstripe (Minimal Wear)",
+      "price": {
+        "min": 233.27,
+        "max": 390.19,
+        "mean": 274.13,
+        "median": 245.38,
+        "suggested": 286.01,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Sport Gloves | Creme Pinstripe (Field-Tested)",
+      "price": {
+        "min": 112.84,
+        "max": 430.14,
+        "mean": 151.12,
+        "median": 129.11,
+        "suggested": 148.75,
+        "quantity": 37,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Sport Gloves | Creme Pinstripe (Well-Worn)",
+      "price": {
+        "min": 107.45,
+        "max": 108.51,
+        "mean": 107.8,
+        "median": 107.45,
+        "suggested": 127.92,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Sport Gloves | Creme Pinstripe (Battle-Scarred)",
+      "price": {
+        "min": 96.42,
+        "max": 101.72,
+        "mean": 99.07,
+        "median": 99.07,
+        "suggested": 118.19,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Sport Gloves | Creme Pinstripe (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Sport Gloves | Creme Pinstripe (Minimal Wear)",
+        "price": {
+          "min": 233.27,
+          "max": 390.19,
+          "mean": 274.13,
+          "median": 245.38,
+          "suggested": 286.01,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Sport Gloves | Creme Pinstripe (Field-Tested)",
+        "price": {
+          "min": 112.84,
+          "max": 430.14,
+          "mean": 151.12,
+          "median": 129.11,
+          "suggested": 148.75,
+          "quantity": 37,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Sport Gloves | Creme Pinstripe (Well-Worn)",
+        "price": {
+          "min": 107.45,
+          "max": 108.51,
+          "mean": 107.8,
+          "median": 107.45,
+          "suggested": 127.92,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Sport Gloves | Creme Pinstripe (Battle-Scarred)",
+        "price": {
+          "min": 96.42,
+          "max": 101.72,
+          "mean": 99.07,
+          "median": 99.07,
+          "suggested": 118.19,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:23.896Z"
+}

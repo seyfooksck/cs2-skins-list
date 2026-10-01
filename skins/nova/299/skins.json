@@ -1,0 +1,169 @@
+{
+  "id": "skin-9014d6daf0a4",
+  "name": "Nova | Caged Steel",
+  "paint_index": "299",
+  "weapon": {
+    "id": "weapon_nova",
+    "weapon_id": 35,
+    "name": "Nova",
+    "slug": "nova"
+  },
+  "pattern": {
+    "id": "am_oval_hex",
+    "name": "Caged Steel"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.2,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Nova's rock-bottom price tag makes it a great ambush weapon for a cash-strapped team. It has been painted with a hex pattern using stencilled metal flake paint, then covered in an oval cutout hydrographic.\\n\\n<i>Say matte!</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.16,
+      "max": 81.69,
+      "mean": 1.48,
+      "median": 0.57,
+      "suggested": 0.22,
+      "quantity": 271,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.08,
+      "max": 5.19,
+      "mean": 0.25,
+      "median": 0.13,
+      "suggested": 0.13,
+      "quantity": 224,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.11,
+      "max": 3.99,
+      "mean": 0.32,
+      "median": 0.18,
+      "suggested": 0.15,
+      "quantity": 70,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Nova | Caged Steel (Factory New)",
+      "price": {
+        "min": 0.16,
+        "max": 81.69,
+        "mean": 1.48,
+        "median": 0.57,
+        "suggested": 0.22,
+        "quantity": 271,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Nova | Caged Steel (Minimal Wear)",
+      "price": {
+        "min": 0.08,
+        "max": 5.19,
+        "mean": 0.25,
+        "median": 0.13,
+        "suggested": 0.13,
+        "quantity": 224,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Nova | Caged Steel (Field-Tested)",
+      "price": {
+        "min": 0.11,
+        "max": 3.99,
+        "mean": 0.32,
+        "median": 0.18,
+        "suggested": 0.15,
+        "quantity": 70,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Nova | Caged Steel (Factory New)",
+        "price": {
+          "min": 0.16,
+          "max": 81.69,
+          "mean": 1.48,
+          "median": 0.57,
+          "suggested": 0.22,
+          "quantity": 271,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Nova | Caged Steel (Minimal Wear)",
+        "price": {
+          "min": 0.08,
+          "max": 5.19,
+          "mean": 0.25,
+          "median": 0.13,
+          "suggested": 0.13,
+          "quantity": 224,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Nova | Caged Steel (Field-Tested)",
+        "price": {
+          "min": 0.11,
+          "max": 3.99,
+          "mean": 0.32,
+          "median": 0.18,
+          "suggested": 0.15,
+          "quantity": 70,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Nova | Caged Steel (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Nova | Caged Steel (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Nova | Caged Steel (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.392Z"
+}

@@ -1,0 +1,289 @@
+{
+  "id": "skin-0c162dc3dadb",
+  "name": "P90 | Straight Dimes",
+  "paint_index": "1199",
+  "weapon": {
+    "id": "weapon_p90",
+    "weapon_id": 19,
+    "name": "P90",
+    "slug": "p90"
+  },
+  "pattern": {
+    "id": "p90_steelcraft",
+    "name": "Straight Dimes"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been custom painted to look like it's been crudely welded together.\\n\\n<i>\\\"That'll hold\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.51,
+      "max": 133.61,
+      "mean": 9.03,
+      "median": 5.83,
+      "suggested": 3.18,
+      "quantity": 119,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.16,
+      "max": 3.5,
+      "mean": 0.77,
+      "median": 0.5,
+      "suggested": 0.2,
+      "quantity": 67,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.06,
+      "max": 7.99,
+      "mean": 0.72,
+      "median": 0.19,
+      "suggested": 0.06,
+      "quantity": 244,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.08,
+      "max": 2.39,
+      "mean": 0.72,
+      "median": 0.16,
+      "suggested": 0.05,
+      "quantity": 200,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.06,
+      "max": 2.6,
+      "mean": 0.84,
+      "median": 0.16,
+      "suggested": 0.05,
+      "quantity": 126,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P90 | Straight Dimes (Factory New)",
+      "price": {
+        "min": 2.51,
+        "max": 133.61,
+        "mean": 9.03,
+        "median": 5.83,
+        "suggested": 3.18,
+        "quantity": 119,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P90 | Straight Dimes (Minimal Wear)",
+      "price": {
+        "min": 0.16,
+        "max": 3.5,
+        "mean": 0.77,
+        "median": 0.5,
+        "suggested": 0.2,
+        "quantity": 67,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P90 | Straight Dimes (Field-Tested)",
+      "price": {
+        "min": 0.06,
+        "max": 7.99,
+        "mean": 0.72,
+        "median": 0.19,
+        "suggested": 0.06,
+        "quantity": 244,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P90 | Straight Dimes (Well-Worn)",
+      "price": {
+        "min": 0.08,
+        "max": 2.39,
+        "mean": 0.72,
+        "median": 0.16,
+        "suggested": 0.05,
+        "quantity": 200,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P90 | Straight Dimes (Battle-Scarred)",
+      "price": {
+        "min": 0.06,
+        "max": 2.6,
+        "mean": 0.84,
+        "median": 0.16,
+        "suggested": 0.05,
+        "quantity": 126,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P90 | Straight Dimes (Factory New)",
+        "price": {
+          "min": 2.51,
+          "max": 133.61,
+          "mean": 9.03,
+          "median": 5.83,
+          "suggested": 3.18,
+          "quantity": 119,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P90 | Straight Dimes (Minimal Wear)",
+        "price": {
+          "min": 0.16,
+          "max": 3.5,
+          "mean": 0.77,
+          "median": 0.5,
+          "suggested": 0.2,
+          "quantity": 67,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P90 | Straight Dimes (Field-Tested)",
+        "price": {
+          "min": 0.06,
+          "max": 7.99,
+          "mean": 0.72,
+          "median": 0.19,
+          "suggested": 0.06,
+          "quantity": 244,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P90 | Straight Dimes (Well-Worn)",
+        "price": {
+          "min": 0.08,
+          "max": 2.39,
+          "mean": 0.72,
+          "median": 0.16,
+          "suggested": 0.05,
+          "quantity": 200,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P90 | Straight Dimes (Battle-Scarred)",
+        "price": {
+          "min": 0.06,
+          "max": 2.6,
+          "mean": 0.84,
+          "median": 0.16,
+          "suggested": 0.05,
+          "quantity": 126,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P90 | Straight Dimes (Factory New)",
+        "price": {
+          "min": 2.31,
+          "max": 35.01,
+          "mean": 9.91,
+          "median": 3.85,
+          "suggested": 3.59,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P90 | Straight Dimes (Minimal Wear)",
+        "price": {
+          "min": 0.21,
+          "max": 1.03,
+          "mean": 0.43,
+          "median": 0.36,
+          "suggested": 0.24,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P90 | Straight Dimes (Field-Tested)",
+        "price": {
+          "min": 0.07,
+          "max": 1.2,
+          "mean": 0.34,
+          "median": 0.26,
+          "suggested": 0.08,
+          "quantity": 73,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P90 | Straight Dimes (Well-Worn)",
+        "price": {
+          "min": 0.09,
+          "max": 2.33,
+          "mean": 0.64,
+          "median": 0.33,
+          "suggested": 0.09,
+          "quantity": 81,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P90 | Straight Dimes (Battle-Scarred)",
+        "price": {
+          "min": 0.26,
+          "max": 16.06,
+          "mean": 0.9,
+          "median": 0.26,
+          "suggested": 0.08,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:46.368Z"
+}

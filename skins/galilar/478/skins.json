@@ -1,0 +1,318 @@
+{
+  "id": "skin-8ba4193b0479",
+  "name": "Galil AR | Rocket Pop",
+  "paint_index": "478",
+  "weapon": {
+    "id": "weapon_galilar",
+    "weapon_id": 13,
+    "name": "Galil AR",
+    "slug": "galilar"
+  },
+  "pattern": {
+    "id": "cu_galilar_particles",
+    "name": "Rocket Pop"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat. It has been custom painted with a graphic design of stripes and pixellated particles.\\n\\n<i>The perfect thing for a hot summer's day</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 14.89,
+      "max": 187.92,
+      "mean": 28.85,
+      "median": 19.83,
+      "suggested": 21.3,
+      "quantity": 42,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 3.12,
+      "max": 133.02,
+      "mean": 6.81,
+      "median": 3.61,
+      "suggested": 4.08,
+      "quantity": 80,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.21,
+      "max": 42.01,
+      "mean": 2.85,
+      "median": 1.35,
+      "suggested": 1.64,
+      "quantity": 78,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.75,
+      "max": 5.79,
+      "mean": 1.07,
+      "median": 0.86,
+      "suggested": 0.97,
+      "quantity": 54,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.58,
+      "max": 38.28,
+      "mean": 2,
+      "median": 0.76,
+      "suggested": 0.85,
+      "quantity": 57,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Galil AR | Rocket Pop (Factory New)",
+      "price": {
+        "min": 14.89,
+        "max": 187.92,
+        "mean": 28.85,
+        "median": 19.83,
+        "suggested": 21.3,
+        "quantity": 42,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Galil AR | Rocket Pop (Minimal Wear)",
+      "price": {
+        "min": 3.12,
+        "max": 133.02,
+        "mean": 6.81,
+        "median": 3.61,
+        "suggested": 4.08,
+        "quantity": 80,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Galil AR | Rocket Pop (Field-Tested)",
+      "price": {
+        "min": 1.21,
+        "max": 42.01,
+        "mean": 2.85,
+        "median": 1.35,
+        "suggested": 1.64,
+        "quantity": 78,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Galil AR | Rocket Pop (Well-Worn)",
+      "price": {
+        "min": 0.75,
+        "max": 5.79,
+        "mean": 1.07,
+        "median": 0.86,
+        "suggested": 0.97,
+        "quantity": 54,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Galil AR | Rocket Pop (Battle-Scarred)",
+      "price": {
+        "min": 0.58,
+        "max": 38.28,
+        "mean": 2,
+        "median": 0.76,
+        "suggested": 0.85,
+        "quantity": 57,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Galil AR | Rocket Pop (Factory New)",
+        "price": {
+          "min": 14.89,
+          "max": 187.92,
+          "mean": 28.85,
+          "median": 19.83,
+          "suggested": 21.3,
+          "quantity": 42,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Galil AR | Rocket Pop (Minimal Wear)",
+        "price": {
+          "min": 3.12,
+          "max": 133.02,
+          "mean": 6.81,
+          "median": 3.61,
+          "suggested": 4.08,
+          "quantity": 80,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Galil AR | Rocket Pop (Field-Tested)",
+        "price": {
+          "min": 1.21,
+          "max": 42.01,
+          "mean": 2.85,
+          "median": 1.35,
+          "suggested": 1.64,
+          "quantity": 78,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Galil AR | Rocket Pop (Well-Worn)",
+        "price": {
+          "min": 0.75,
+          "max": 5.79,
+          "mean": 1.07,
+          "median": 0.86,
+          "suggested": 0.97,
+          "quantity": 54,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Galil AR | Rocket Pop (Battle-Scarred)",
+        "price": {
+          "min": 0.58,
+          "max": 38.28,
+          "mean": 2,
+          "median": 0.76,
+          "suggested": 0.85,
+          "quantity": 57,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Galil AR | Rocket Pop (Factory New)",
+        "price": {
+          "min": 25.77,
+          "max": 145.87,
+          "mean": 50.59,
+          "median": 45.42,
+          "suggested": 30.13,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Galil AR | Rocket Pop (Minimal Wear)",
+        "price": {
+          "min": 5.72,
+          "max": 40.84,
+          "mean": 10.77,
+          "median": 6.22,
+          "suggested": 6.7,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Galil AR | Rocket Pop (Field-Tested)",
+        "price": {
+          "min": 2.03,
+          "max": 21.14,
+          "mean": 3.65,
+          "median": 2.31,
+          "suggested": 2.38,
+          "quantity": 61,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Galil AR | Rocket Pop (Well-Worn)",
+        "price": {
+          "min": 1.24,
+          "max": 30.42,
+          "mean": 2.86,
+          "median": 1.44,
+          "suggested": 1.55,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Galil AR | Rocket Pop (Battle-Scarred)",
+        "price": {
+          "min": 1.19,
+          "max": 38.8,
+          "mean": 3.89,
+          "median": 1.32,
+          "suggested": 1.48,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Galil AR | Rocket Pop (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Galil AR | Rocket Pop (Minimal Wear)",
+        "price": {
+          "min": 116.69,
+          "max": 116.69,
+          "mean": 116.69,
+          "median": 116.69,
+          "suggested": null,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Galil AR | Rocket Pop (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Galil AR | Rocket Pop (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Galil AR | Rocket Pop (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:30.972Z"
+}

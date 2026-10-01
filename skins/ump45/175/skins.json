@@ -1,0 +1,289 @@
+{
+  "id": "skin-ea40d0b778e0",
+  "name": "UMP-45 | Scorched",
+  "paint_index": "175",
+  "weapon": {
+    "id": "weapon_ump45",
+    "weapon_id": 24,
+    "name": "UMP-45",
+    "slug": "ump45"
+  },
+  "pattern": {
+    "id": "sp_dapple",
+    "name": "Scorched"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic. It has been spray-painted in a sun-dappled pattern.\\n\\n<i>The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 23.34,
+      "max": 29.17,
+      "mean": 26.06,
+      "median": 25.67,
+      "suggested": 12.29,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.74,
+      "max": 6.42,
+      "mean": 2.36,
+      "median": 1.4,
+      "suggested": 0.86,
+      "quantity": 19,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.33,
+      "max": 3.5,
+      "mean": 1.1,
+      "median": 0.96,
+      "suggested": 0.48,
+      "quantity": 46,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.5,
+      "max": 1.42,
+      "mean": 0.95,
+      "median": 0.85,
+      "suggested": 0.58,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.39,
+      "max": 0.9,
+      "mean": 0.69,
+      "median": 0.63,
+      "suggested": 0.44,
+      "quantity": 7,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "UMP-45 | Scorched (Factory New)",
+      "price": {
+        "min": 23.34,
+        "max": 29.17,
+        "mean": 26.06,
+        "median": 25.67,
+        "suggested": 12.29,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "UMP-45 | Scorched (Minimal Wear)",
+      "price": {
+        "min": 0.74,
+        "max": 6.42,
+        "mean": 2.36,
+        "median": 1.4,
+        "suggested": 0.86,
+        "quantity": 19,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "UMP-45 | Scorched (Field-Tested)",
+      "price": {
+        "min": 0.33,
+        "max": 3.5,
+        "mean": 1.1,
+        "median": 0.96,
+        "suggested": 0.48,
+        "quantity": 46,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "UMP-45 | Scorched (Well-Worn)",
+      "price": {
+        "min": 0.5,
+        "max": 1.42,
+        "mean": 0.95,
+        "median": 0.85,
+        "suggested": 0.58,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "UMP-45 | Scorched (Battle-Scarred)",
+      "price": {
+        "min": 0.39,
+        "max": 0.9,
+        "mean": 0.69,
+        "median": 0.63,
+        "suggested": 0.44,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "UMP-45 | Scorched (Factory New)",
+        "price": {
+          "min": 23.34,
+          "max": 29.17,
+          "mean": 26.06,
+          "median": 25.67,
+          "suggested": 12.29,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "UMP-45 | Scorched (Minimal Wear)",
+        "price": {
+          "min": 0.74,
+          "max": 6.42,
+          "mean": 2.36,
+          "median": 1.4,
+          "suggested": 0.86,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "UMP-45 | Scorched (Field-Tested)",
+        "price": {
+          "min": 0.33,
+          "max": 3.5,
+          "mean": 1.1,
+          "median": 0.96,
+          "suggested": 0.48,
+          "quantity": 46,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "UMP-45 | Scorched (Well-Worn)",
+        "price": {
+          "min": 0.5,
+          "max": 1.42,
+          "mean": 0.95,
+          "median": 0.85,
+          "suggested": 0.58,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "UMP-45 | Scorched (Battle-Scarred)",
+        "price": {
+          "min": 0.39,
+          "max": 0.9,
+          "mean": 0.69,
+          "median": 0.63,
+          "suggested": 0.44,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir UMP-45 | Scorched (Factory New)",
+        "price": {
+          "min": 3.87,
+          "max": 23.33,
+          "mean": 16.84,
+          "median": 23.33,
+          "suggested": 4.35,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir UMP-45 | Scorched (Minimal Wear)",
+        "price": {
+          "min": 0.58,
+          "max": 23.97,
+          "mean": 10.99,
+          "median": 1.97,
+          "suggested": 0.69,
+          "quantity": 97,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir UMP-45 | Scorched (Field-Tested)",
+        "price": {
+          "min": 0.2,
+          "max": 79.9,
+          "mean": 2.02,
+          "median": 0.34,
+          "suggested": 0.28,
+          "quantity": 296,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir UMP-45 | Scorched (Well-Worn)",
+        "price": {
+          "min": 0.28,
+          "max": 13.75,
+          "mean": 3.3,
+          "median": 1.84,
+          "suggested": 0.18,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir UMP-45 | Scorched (Battle-Scarred)",
+        "price": {
+          "min": 0.2,
+          "max": 17.5,
+          "mean": 5.95,
+          "median": 7.99,
+          "suggested": 0.15,
+          "quantity": 61,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:50.186Z"
+}

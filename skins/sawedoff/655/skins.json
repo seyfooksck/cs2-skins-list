@@ -1,0 +1,310 @@
+{
+  "id": "skin-68e37aff8fd3",
+  "name": "Sawed-Off | Zander",
+  "paint_index": "655",
+  "weapon": {
+    "id": "weapon_sawedoff",
+    "weapon_id": 29,
+    "name": "Sawed-Off",
+    "slug": "sawedoff"
+  },
+  "pattern": {
+    "id": "aq_sawedoff_zander2",
+    "name": "Zander"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0.05,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit. It has been hand painted to resemble a popular game fish.\\n\\n<i>This one's a keeper</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 4.2,
+      "max": 35.01,
+      "mean": 9.87,
+      "median": 4.62,
+      "suggested": 2.97,
+      "quantity": 28,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.76,
+      "max": 6.52,
+      "mean": 1.26,
+      "median": 0.96,
+      "suggested": 0.88,
+      "quantity": 23,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.43,
+      "max": 11.66,
+      "mean": 0.81,
+      "median": 0.54,
+      "suggested": 0.61,
+      "quantity": 120,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.34,
+      "max": 9.17,
+      "mean": 0.69,
+      "median": 0.41,
+      "suggested": 0.48,
+      "quantity": 54,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.29,
+      "max": 2.33,
+      "mean": 0.53,
+      "median": 0.41,
+      "suggested": 0.45,
+      "quantity": 49,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Sawed-Off | Zander (Factory New)",
+      "price": {
+        "min": 4.2,
+        "max": 35.01,
+        "mean": 9.87,
+        "median": 4.62,
+        "suggested": 2.97,
+        "quantity": 28,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Sawed-Off | Zander (Minimal Wear)",
+      "price": {
+        "min": 0.76,
+        "max": 6.52,
+        "mean": 1.26,
+        "median": 0.96,
+        "suggested": 0.88,
+        "quantity": 23,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Sawed-Off | Zander (Field-Tested)",
+      "price": {
+        "min": 0.43,
+        "max": 11.66,
+        "mean": 0.81,
+        "median": 0.54,
+        "suggested": 0.61,
+        "quantity": 120,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Sawed-Off | Zander (Well-Worn)",
+      "price": {
+        "min": 0.34,
+        "max": 9.17,
+        "mean": 0.69,
+        "median": 0.41,
+        "suggested": 0.48,
+        "quantity": 54,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Sawed-Off | Zander (Battle-Scarred)",
+      "price": {
+        "min": 0.29,
+        "max": 2.33,
+        "mean": 0.53,
+        "median": 0.41,
+        "suggested": 0.45,
+        "quantity": 49,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Sawed-Off | Zander (Factory New)",
+        "price": {
+          "min": 4.2,
+          "max": 35.01,
+          "mean": 9.87,
+          "median": 4.62,
+          "suggested": 2.97,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Sawed-Off | Zander (Minimal Wear)",
+        "price": {
+          "min": 0.76,
+          "max": 6.52,
+          "mean": 1.26,
+          "median": 0.96,
+          "suggested": 0.88,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Sawed-Off | Zander (Field-Tested)",
+        "price": {
+          "min": 0.43,
+          "max": 11.66,
+          "mean": 0.81,
+          "median": 0.54,
+          "suggested": 0.61,
+          "quantity": 120,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Sawed-Off | Zander (Well-Worn)",
+        "price": {
+          "min": 0.34,
+          "max": 9.17,
+          "mean": 0.69,
+          "median": 0.41,
+          "suggested": 0.48,
+          "quantity": 54,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Sawed-Off | Zander (Battle-Scarred)",
+        "price": {
+          "min": 0.29,
+          "max": 2.33,
+          "mean": 0.53,
+          "median": 0.41,
+          "suggested": 0.45,
+          "quantity": 49,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Zander (Factory New)",
+        "price": {
+          "min": 3.48,
+          "max": 52.51,
+          "mean": 25.25,
+          "median": 23.34,
+          "suggested": 3.54,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Zander (Minimal Wear)",
+        "price": {
+          "min": 0.93,
+          "max": 1.23,
+          "mean": 1.09,
+          "median": 1.09,
+          "suggested": 0.99,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Zander (Field-Tested)",
+        "price": {
+          "min": 0.36,
+          "max": 0.61,
+          "mean": 0.44,
+          "median": 0.42,
+          "suggested": 0.43,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Zander (Well-Worn)",
+        "price": {
+          "min": 0.25,
+          "max": 3.75,
+          "mean": 0.53,
+          "median": 0.35,
+          "suggested": 0.36,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Zander (Battle-Scarred)",
+        "price": {
+          "min": 0.25,
+          "max": 1.51,
+          "mean": 0.43,
+          "median": 0.37,
+          "suggested": 0.29,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Sawed-Off | Zander (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Sawed-Off | Zander (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Sawed-Off | Zander (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Sawed-Off | Zander (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Sawed-Off | Zander (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:46.961Z"
+}

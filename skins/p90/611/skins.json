@@ -1,0 +1,310 @@
+{
+  "id": "skin-b15a3a34433b",
+  "name": "P90 | Grim",
+  "paint_index": "611",
+  "weapon": {
+    "id": "weapon_p90",
+    "weapon_id": 19,
+    "name": "P90",
+    "slug": "p90"
+  },
+  "pattern": {
+    "id": "cu_p90_grimm",
+    "name": "Grim"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been given a hydrographic of murderous specters, then dry brushed with green accents.\\n\\n<i>Imogen... are you selling me a gun or a velvet poster? – Rona Sabri, Rising Star</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.51,
+      "max": 46.67,
+      "mean": 9.66,
+      "median": 3.61,
+      "suggested": 2.03,
+      "quantity": 61,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.35,
+      "max": 137.69,
+      "mean": 1.47,
+      "median": 0.5,
+      "suggested": 0.46,
+      "quantity": 203,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.32,
+      "max": 14,
+      "mean": 0.58,
+      "median": 0.41,
+      "suggested": 0.51,
+      "quantity": 315,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.28,
+      "max": 1.17,
+      "mean": 0.42,
+      "median": 0.37,
+      "suggested": 0.42,
+      "quantity": 16,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.22,
+      "max": 105.02,
+      "mean": 1.88,
+      "median": 0.33,
+      "suggested": 0.29,
+      "quantity": 76,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P90 | Grim (Factory New)",
+      "price": {
+        "min": 1.51,
+        "max": 46.67,
+        "mean": 9.66,
+        "median": 3.61,
+        "suggested": 2.03,
+        "quantity": 61,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P90 | Grim (Minimal Wear)",
+      "price": {
+        "min": 0.35,
+        "max": 137.69,
+        "mean": 1.47,
+        "median": 0.5,
+        "suggested": 0.46,
+        "quantity": 203,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P90 | Grim (Field-Tested)",
+      "price": {
+        "min": 0.32,
+        "max": 14,
+        "mean": 0.58,
+        "median": 0.41,
+        "suggested": 0.51,
+        "quantity": 315,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P90 | Grim (Well-Worn)",
+      "price": {
+        "min": 0.28,
+        "max": 1.17,
+        "mean": 0.42,
+        "median": 0.37,
+        "suggested": 0.42,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P90 | Grim (Battle-Scarred)",
+      "price": {
+        "min": 0.22,
+        "max": 105.02,
+        "mean": 1.88,
+        "median": 0.33,
+        "suggested": 0.29,
+        "quantity": 76,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P90 | Grim (Factory New)",
+        "price": {
+          "min": 1.51,
+          "max": 46.67,
+          "mean": 9.66,
+          "median": 3.61,
+          "suggested": 2.03,
+          "quantity": 61,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P90 | Grim (Minimal Wear)",
+        "price": {
+          "min": 0.35,
+          "max": 137.69,
+          "mean": 1.47,
+          "median": 0.5,
+          "suggested": 0.46,
+          "quantity": 203,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P90 | Grim (Field-Tested)",
+        "price": {
+          "min": 0.32,
+          "max": 14,
+          "mean": 0.58,
+          "median": 0.41,
+          "suggested": 0.51,
+          "quantity": 315,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P90 | Grim (Well-Worn)",
+        "price": {
+          "min": 0.28,
+          "max": 1.17,
+          "mean": 0.42,
+          "median": 0.37,
+          "suggested": 0.42,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P90 | Grim (Battle-Scarred)",
+        "price": {
+          "min": 0.22,
+          "max": 105.02,
+          "mean": 1.88,
+          "median": 0.33,
+          "suggested": 0.29,
+          "quantity": 76,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P90 | Grim (Factory New)",
+        "price": {
+          "min": 2.14,
+          "max": 61.31,
+          "mean": 11.09,
+          "median": 3.35,
+          "suggested": 2.49,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P90 | Grim (Minimal Wear)",
+        "price": {
+          "min": 0.54,
+          "max": 19.56,
+          "mean": 2.43,
+          "median": 0.67,
+          "suggested": 0.65,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P90 | Grim (Field-Tested)",
+        "price": {
+          "min": 0.27,
+          "max": 24.51,
+          "mean": 1.07,
+          "median": 0.34,
+          "suggested": 0.32,
+          "quantity": 93,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ P90 | Grim (Well-Worn)",
+        "price": {
+          "min": 0.43,
+          "max": 1.39,
+          "mean": 0.68,
+          "median": 0.64,
+          "suggested": 0.5,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ P90 | Grim (Battle-Scarred)",
+        "price": {
+          "min": 0.26,
+          "max": 12.26,
+          "mean": 1.39,
+          "median": 0.36,
+          "suggested": 0.3,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P90 | Grim (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P90 | Grim (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P90 | Grim (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P90 | Grim (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P90 | Grim (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:45.936Z"
+}

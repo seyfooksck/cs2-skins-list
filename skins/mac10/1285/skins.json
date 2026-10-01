@@ -1,0 +1,249 @@
+{
+  "id": "skin-efe243521c5e",
+  "name": "MAC-10 | Poplar Thicket",
+  "paint_index": "1285",
+  "weapon": {
+    "id": "weapon_mac10",
+    "weapon_id": 17,
+    "name": "MAC-10",
+    "slug": "mac10"
+  },
+  "pattern": {
+    "id": "hye_green_forest",
+    "name": "Poplar Thicket"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.68,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. A green forest pattern has been applied.\\n\\n<i>In the thick of it</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.03,
+      "max": 85.12,
+      "mean": 8.55,
+      "median": 6.14,
+      "suggested": 1.07,
+      "quantity": 46,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.34,
+      "max": 3.61,
+      "mean": 1.37,
+      "median": 1.16,
+      "suggested": 0.38,
+      "quantity": 43,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.09,
+      "max": 1.67,
+      "mean": 0.84,
+      "median": 0.48,
+      "suggested": 0.14,
+      "quantity": 162,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.12,
+      "max": 0.19,
+      "mean": 0.15,
+      "median": 0.15,
+      "suggested": 0.14,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.09,
+      "max": 0.14,
+      "mean": 0.12,
+      "median": 0.12,
+      "suggested": 0.12,
+      "quantity": 9,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAC-10 | Poplar Thicket (Factory New)",
+      "price": {
+        "min": 1.03,
+        "max": 85.12,
+        "mean": 8.55,
+        "median": 6.14,
+        "suggested": 1.07,
+        "quantity": 46,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAC-10 | Poplar Thicket (Minimal Wear)",
+      "price": {
+        "min": 0.34,
+        "max": 3.61,
+        "mean": 1.37,
+        "median": 1.16,
+        "suggested": 0.38,
+        "quantity": 43,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAC-10 | Poplar Thicket (Field-Tested)",
+      "price": {
+        "min": 0.09,
+        "max": 1.67,
+        "mean": 0.84,
+        "median": 0.48,
+        "suggested": 0.14,
+        "quantity": 162,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAC-10 | Poplar Thicket (Well-Worn)",
+      "price": {
+        "min": 0.12,
+        "max": 0.19,
+        "mean": 0.15,
+        "median": 0.15,
+        "suggested": 0.14,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAC-10 | Poplar Thicket (Battle-Scarred)",
+      "price": {
+        "min": 0.09,
+        "max": 0.14,
+        "mean": 0.12,
+        "median": 0.12,
+        "suggested": 0.12,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAC-10 | Poplar Thicket (Factory New)",
+        "price": {
+          "min": 1.03,
+          "max": 85.12,
+          "mean": 8.55,
+          "median": 6.14,
+          "suggested": 1.07,
+          "quantity": 46,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAC-10 | Poplar Thicket (Minimal Wear)",
+        "price": {
+          "min": 0.34,
+          "max": 3.61,
+          "mean": 1.37,
+          "median": 1.16,
+          "suggested": 0.38,
+          "quantity": 43,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAC-10 | Poplar Thicket (Field-Tested)",
+        "price": {
+          "min": 0.09,
+          "max": 1.67,
+          "mean": 0.84,
+          "median": 0.48,
+          "suggested": 0.14,
+          "quantity": 162,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAC-10 | Poplar Thicket (Well-Worn)",
+        "price": {
+          "min": 0.12,
+          "max": 0.19,
+          "mean": 0.15,
+          "median": 0.15,
+          "suggested": 0.14,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MAC-10 | Poplar Thicket (Battle-Scarred)",
+        "price": {
+          "min": 0.09,
+          "max": 0.14,
+          "mean": 0.12,
+          "median": 0.12,
+          "suggested": 0.12,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAC-10 | Poplar Thicket (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAC-10 | Poplar Thicket (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAC-10 | Poplar Thicket (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAC-10 | Poplar Thicket (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAC-10 | Poplar Thicket (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.915Z"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "skin-aa2d649aeaf6",
+  "name": "MP5-SD | Phosphor",
+  "paint_index": "810",
+  "weapon": {
+    "id": "weapon_mp5sd",
+    "weapon_id": 23,
+    "name": "MP5-SD",
+    "slug": "mp5sd"
+  },
+  "pattern": {
+    "id": "gs_mp5_festival_drip",
+    "name": "Phosphor"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. It has been custom painted by dripping neon pink, green, and teal paint onto its dark base.\\n\\n<i>Stand out from the crowd</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 17.54,
+      "max": 69.9,
+      "mean": 29.64,
+      "median": 26.72,
+      "suggested": 20.16,
+      "quantity": 17,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 6.32,
+      "max": 35.02,
+      "mean": 8.76,
+      "median": 7.66,
+      "suggested": 8.48,
+      "quantity": 75,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 4.42,
+      "max": 209.47,
+      "mean": 6.43,
+      "median": 5.29,
+      "suggested": 6.22,
+      "quantity": 305,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 4.63,
+      "max": 8.16,
+      "mean": 5.43,
+      "median": 5.18,
+      "suggested": 5.8,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 4.5,
+      "max": 17.5,
+      "mean": 5.3,
+      "median": 4.88,
+      "suggested": 5.29,
+      "quantity": 42,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP5-SD | Phosphor (Factory New)",
+      "price": {
+        "min": 17.54,
+        "max": 69.9,
+        "mean": 29.64,
+        "median": 26.72,
+        "suggested": 20.16,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP5-SD | Phosphor (Minimal Wear)",
+      "price": {
+        "min": 6.32,
+        "max": 35.02,
+        "mean": 8.76,
+        "median": 7.66,
+        "suggested": 8.48,
+        "quantity": 75,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP5-SD | Phosphor (Field-Tested)",
+      "price": {
+        "min": 4.42,
+        "max": 209.47,
+        "mean": 6.43,
+        "median": 5.29,
+        "suggested": 6.22,
+        "quantity": 305,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP5-SD | Phosphor (Well-Worn)",
+      "price": {
+        "min": 4.63,
+        "max": 8.16,
+        "mean": 5.43,
+        "median": 5.18,
+        "suggested": 5.8,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP5-SD | Phosphor (Battle-Scarred)",
+      "price": {
+        "min": 4.5,
+        "max": 17.5,
+        "mean": 5.3,
+        "median": 4.88,
+        "suggested": 5.29,
+        "quantity": 42,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP5-SD | Phosphor (Factory New)",
+        "price": {
+          "min": 17.54,
+          "max": 69.9,
+          "mean": 29.64,
+          "median": 26.72,
+          "suggested": 20.16,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP5-SD | Phosphor (Minimal Wear)",
+        "price": {
+          "min": 6.32,
+          "max": 35.02,
+          "mean": 8.76,
+          "median": 7.66,
+          "suggested": 8.48,
+          "quantity": 75,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP5-SD | Phosphor (Field-Tested)",
+        "price": {
+          "min": 4.42,
+          "max": 209.47,
+          "mean": 6.43,
+          "median": 5.29,
+          "suggested": 6.22,
+          "quantity": 305,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP5-SD | Phosphor (Well-Worn)",
+        "price": {
+          "min": 4.63,
+          "max": 8.16,
+          "mean": 5.43,
+          "median": 5.18,
+          "suggested": 5.8,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP5-SD | Phosphor (Battle-Scarred)",
+        "price": {
+          "min": 4.5,
+          "max": 17.5,
+          "mean": 5.3,
+          "median": 4.88,
+          "suggested": 5.29,
+          "quantity": 42,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MP5-SD | Phosphor (Factory New)",
+        "price": {
+          "min": 32.43,
+          "max": 56.21,
+          "mean": 38.93,
+          "median": 33.6,
+          "suggested": 38.19,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MP5-SD | Phosphor (Minimal Wear)",
+        "price": {
+          "min": 12.84,
+          "max": 29.17,
+          "mean": 19.08,
+          "median": 17.22,
+          "suggested": 15.59,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MP5-SD | Phosphor (Field-Tested)",
+        "price": {
+          "min": 6.15,
+          "max": 35,
+          "mean": 8.53,
+          "median": 7.12,
+          "suggested": 7.97,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MP5-SD | Phosphor (Well-Worn)",
+        "price": {
+          "min": 7.29,
+          "max": 18.66,
+          "mean": 10.63,
+          "median": 8.05,
+          "suggested": 8.28,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MP5-SD | Phosphor (Battle-Scarred)",
+        "price": {
+          "min": 6.11,
+          "max": 17.36,
+          "mean": 8.12,
+          "median": 6.6,
+          "suggested": 7.24,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP5-SD | Phosphor (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP5-SD | Phosphor (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP5-SD | Phosphor (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP5-SD | Phosphor (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP5-SD | Phosphor (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.712Z"
+}

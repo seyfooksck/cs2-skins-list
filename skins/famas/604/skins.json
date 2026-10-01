@@ -1,0 +1,310 @@
+{
+  "id": "skin-0305a5aaa4eb",
+  "name": "FAMAS | Roll Cage",
+  "paint_index": "604",
+  "weapon": {
+    "id": "weapon_famas",
+    "weapon_id": 10,
+    "name": "FAMAS",
+    "slug": "famas"
+  },
+  "pattern": {
+    "id": "gs_famas_rally",
+    "name": "Roll Cage"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. It has been given custom decals that resemble a mud-splattered car chassis.\\n\\n<i>Safety first</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 170.36,
+      "max": 360.79,
+      "mean": 233.63,
+      "median": 230.09,
+      "suggested": 230.42,
+      "quantity": 22,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 112.66,
+      "max": 262.56,
+      "mean": 134.23,
+      "median": 130.78,
+      "suggested": 153.62,
+      "quantity": 66,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 114.13,
+      "max": 5853.36,
+      "mean": 194.93,
+      "median": 121.76,
+      "suggested": 142.43,
+      "quantity": 86,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 108.51,
+      "max": 363.99,
+      "mean": 125.99,
+      "median": 113.4,
+      "suggested": 135.57,
+      "quantity": 30,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 102.21,
+      "max": 525.12,
+      "mean": 123.72,
+      "median": 113.55,
+      "suggested": 133.43,
+      "quantity": 42,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "FAMAS | Roll Cage (Factory New)",
+      "price": {
+        "min": 170.36,
+        "max": 360.79,
+        "mean": 233.63,
+        "median": 230.09,
+        "suggested": 230.42,
+        "quantity": 22,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "FAMAS | Roll Cage (Minimal Wear)",
+      "price": {
+        "min": 112.66,
+        "max": 262.56,
+        "mean": 134.23,
+        "median": 130.78,
+        "suggested": 153.62,
+        "quantity": 66,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "FAMAS | Roll Cage (Field-Tested)",
+      "price": {
+        "min": 114.13,
+        "max": 5853.36,
+        "mean": 194.93,
+        "median": 121.76,
+        "suggested": 142.43,
+        "quantity": 86,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "FAMAS | Roll Cage (Well-Worn)",
+      "price": {
+        "min": 108.51,
+        "max": 363.99,
+        "mean": 125.99,
+        "median": 113.4,
+        "suggested": 135.57,
+        "quantity": 30,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "FAMAS | Roll Cage (Battle-Scarred)",
+      "price": {
+        "min": 102.21,
+        "max": 525.12,
+        "mean": 123.72,
+        "median": 113.55,
+        "suggested": 133.43,
+        "quantity": 42,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "FAMAS | Roll Cage (Factory New)",
+        "price": {
+          "min": 170.36,
+          "max": 360.79,
+          "mean": 233.63,
+          "median": 230.09,
+          "suggested": 230.42,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "FAMAS | Roll Cage (Minimal Wear)",
+        "price": {
+          "min": 112.66,
+          "max": 262.56,
+          "mean": 134.23,
+          "median": 130.78,
+          "suggested": 153.62,
+          "quantity": 66,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "FAMAS | Roll Cage (Field-Tested)",
+        "price": {
+          "min": 114.13,
+          "max": 5853.36,
+          "mean": 194.93,
+          "median": 121.76,
+          "suggested": 142.43,
+          "quantity": 86,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "FAMAS | Roll Cage (Well-Worn)",
+        "price": {
+          "min": 108.51,
+          "max": 363.99,
+          "mean": 125.99,
+          "median": 113.4,
+          "suggested": 135.57,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "FAMAS | Roll Cage (Battle-Scarred)",
+        "price": {
+          "min": 102.21,
+          "max": 525.12,
+          "mean": 123.72,
+          "median": 113.55,
+          "suggested": 133.43,
+          "quantity": 42,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ FAMAS | Roll Cage (Factory New)",
+        "price": {
+          "min": 185.39,
+          "max": 198.74,
+          "mean": 192.07,
+          "median": 192.07,
+          "suggested": 231.93,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ FAMAS | Roll Cage (Minimal Wear)",
+        "price": {
+          "min": 109.1,
+          "max": 157.54,
+          "mean": 130.08,
+          "median": 128.63,
+          "suggested": 134.05,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ FAMAS | Roll Cage (Field-Tested)",
+        "price": {
+          "min": 102.97,
+          "max": 133.14,
+          "mean": 115.85,
+          "median": 114.51,
+          "suggested": 127.87,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ FAMAS | Roll Cage (Well-Worn)",
+        "price": {
+          "min": 108.02,
+          "max": 119.87,
+          "mean": 113.26,
+          "median": 112.57,
+          "suggested": 126.51,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ FAMAS | Roll Cage (Battle-Scarred)",
+        "price": {
+          "min": 241,
+          "max": 241,
+          "mean": 241,
+          "median": 241,
+          "suggested": 123.27,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir FAMAS | Roll Cage (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir FAMAS | Roll Cage (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir FAMAS | Roll Cage (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir FAMAS | Roll Cage (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir FAMAS | Roll Cage (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:29.587Z"
+}

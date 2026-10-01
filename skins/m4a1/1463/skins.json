@@ -1,0 +1,249 @@
+{
+  "id": "skin-ba6fb75e8368",
+  "name": "M4A4 | Falak",
+  "paint_index": "1463",
+  "weapon": {
+    "id": "weapon_m4a1",
+    "weapon_id": 16,
+    "name": "M4A4",
+    "slug": "m4a1"
+  },
+  "pattern": {
+    "id": "m4a4_falak",
+    "name": "Falak"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been custom painted with a red serpent over a tan-colored base.\\n\\n<i>The power you hold requires restraint</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 285.9,
+      "max": 424.35,
+      "mean": 350.56,
+      "median": 346.58,
+      "suggested": 389.37,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 151.92,
+      "max": 151.92,
+      "mean": 151.92,
+      "median": 151.92,
+      "suggested": 83.3,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 49.44,
+      "max": 79.73,
+      "mean": 66.25,
+      "median": 72.14,
+      "suggested": 52.1,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 14.48,
+      "max": 58.35,
+      "mean": 34.98,
+      "median": 34.42,
+      "suggested": 16.84,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 19.71,
+      "max": 23.85,
+      "mean": 21.78,
+      "median": 22.02,
+      "suggested": 25.73,
+      "quantity": 5,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A4 | Falak (Factory New)",
+      "price": {
+        "min": 285.9,
+        "max": 424.35,
+        "mean": 350.56,
+        "median": 346.58,
+        "suggested": 389.37,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A4 | Falak (Minimal Wear)",
+      "price": {
+        "min": 151.92,
+        "max": 151.92,
+        "mean": 151.92,
+        "median": 151.92,
+        "suggested": 83.3,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A4 | Falak (Field-Tested)",
+      "price": {
+        "min": 49.44,
+        "max": 79.73,
+        "mean": 66.25,
+        "median": 72.14,
+        "suggested": 52.1,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M4A4 | Falak (Well-Worn)",
+      "price": {
+        "min": 14.48,
+        "max": 58.35,
+        "mean": 34.98,
+        "median": 34.42,
+        "suggested": 16.84,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M4A4 | Falak (Battle-Scarred)",
+      "price": {
+        "min": 19.71,
+        "max": 23.85,
+        "mean": 21.78,
+        "median": 22.02,
+        "suggested": 25.73,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A4 | Falak (Factory New)",
+        "price": {
+          "min": 285.9,
+          "max": 424.35,
+          "mean": 350.56,
+          "median": 346.58,
+          "suggested": 389.37,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A4 | Falak (Minimal Wear)",
+        "price": {
+          "min": 151.92,
+          "max": 151.92,
+          "mean": 151.92,
+          "median": 151.92,
+          "suggested": 83.3,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A4 | Falak (Field-Tested)",
+        "price": {
+          "min": 49.44,
+          "max": 79.73,
+          "mean": 66.25,
+          "median": 72.14,
+          "suggested": 52.1,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M4A4 | Falak (Well-Worn)",
+        "price": {
+          "min": 14.48,
+          "max": 58.35,
+          "mean": 34.98,
+          "median": 34.42,
+          "suggested": 16.84,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M4A4 | Falak (Battle-Scarred)",
+        "price": {
+          "min": 19.71,
+          "max": 23.85,
+          "mean": 21.78,
+          "median": 22.02,
+          "suggested": 25.73,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A4 | Falak (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A4 | Falak (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A4 | Falak (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M4A4 | Falak (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M4A4 | Falak (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:40.592Z"
+}

@@ -1,0 +1,225 @@
+{
+  "id": "skin-584e1dbd3391",
+  "name": "AWP | Silk Tiger",
+  "paint_index": "1029",
+  "weapon": {
+    "id": "weapon_awp",
+    "weapon_id": 9,
+    "name": "AWP",
+    "slug": "awp"
+  },
+  "pattern": {
+    "id": "am_tigers_blue",
+    "name": "Silk Tiger"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. A hydrographic tiger pattern has been applied over a blue base.\\n\\n<i>A national treasure—the tiger, not the AWP</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 716.9,
+      "max": 4809.03,
+      "mean": 1528.41,
+      "median": 1137.82,
+      "suggested": 713.54,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 357.61,
+      "max": 649.23,
+      "mean": 531.77,
+      "median": 560.13,
+      "suggested": 416.51,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 256.6,
+      "max": 379.9,
+      "mean": 318.25,
+      "median": 318.25,
+      "suggested": 254.95,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 187.14,
+      "max": 187.14,
+      "mean": 187.14,
+      "median": 187.14,
+      "suggested": 244.69,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AWP | Silk Tiger (Factory New)",
+      "price": {
+        "min": 716.9,
+        "max": 4809.03,
+        "mean": 1528.41,
+        "median": 1137.82,
+        "suggested": 713.54,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AWP | Silk Tiger (Minimal Wear)",
+      "price": {
+        "min": 357.61,
+        "max": 649.23,
+        "mean": 531.77,
+        "median": 560.13,
+        "suggested": 416.51,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AWP | Silk Tiger (Field-Tested)",
+      "price": {
+        "min": 256.6,
+        "max": 379.9,
+        "mean": 318.25,
+        "median": 318.25,
+        "suggested": 254.95,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AWP | Silk Tiger (Well-Worn)",
+      "price": {
+        "min": 187.14,
+        "max": 187.14,
+        "mean": 187.14,
+        "median": 187.14,
+        "suggested": 244.69,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AWP | Silk Tiger (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AWP | Silk Tiger (Factory New)",
+        "price": {
+          "min": 716.9,
+          "max": 4809.03,
+          "mean": 1528.41,
+          "median": 1137.82,
+          "suggested": 713.54,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AWP | Silk Tiger (Minimal Wear)",
+        "price": {
+          "min": 357.61,
+          "max": 649.23,
+          "mean": 531.77,
+          "median": 560.13,
+          "suggested": 416.51,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AWP | Silk Tiger (Field-Tested)",
+        "price": {
+          "min": 256.6,
+          "max": 379.9,
+          "mean": 318.25,
+          "median": 318.25,
+          "suggested": 254.95,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AWP | Silk Tiger (Well-Worn)",
+        "price": {
+          "min": 187.14,
+          "max": 187.14,
+          "mean": 187.14,
+          "median": 187.14,
+          "suggested": 244.69,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AWP | Silk Tiger (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AWP | Silk Tiger (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AWP | Silk Tiger (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AWP | Silk Tiger (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AWP | Silk Tiger (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AWP | Silk Tiger (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.803Z"
+}

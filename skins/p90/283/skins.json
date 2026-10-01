@@ -1,0 +1,250 @@
+{
+  "id": "skin-91abb2db43b7",
+  "name": "P90 | Trigon",
+  "paint_index": "283",
+  "weapon": {
+    "id": "weapon_p90",
+    "weapon_id": 19,
+    "name": "P90",
+    "slug": "p90"
+  },
+  "pattern": {
+    "id": "cu_p90_trigon",
+    "name": "Trigon"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0.08,
+  "max_float": 0.75,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been custom painted in contrasting orange, grey and black.\\n\\n<i>Become a human typhoon</i>",
+  "images": {
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "mw": {
+      "min": 13.42,
+      "max": 121.87,
+      "mean": 28.81,
+      "median": 18.34,
+      "suggested": 18.1,
+      "quantity": 29,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 8.83,
+      "max": 798.96,
+      "mean": 33.41,
+      "median": 10.77,
+      "suggested": 12.17,
+      "quantity": 73,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 9.41,
+      "max": 10.5,
+      "mean": 9.91,
+      "median": 9.81,
+      "suggested": 12.75,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 11.31,
+      "max": 12.16,
+      "mean": 11.6,
+      "median": 11.46,
+      "suggested": 13.49,
+      "quantity": 4,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P90 | Trigon (Minimal Wear)",
+      "price": {
+        "min": 13.42,
+        "max": 121.87,
+        "mean": 28.81,
+        "median": 18.34,
+        "suggested": 18.1,
+        "quantity": 29,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P90 | Trigon (Field-Tested)",
+      "price": {
+        "min": 8.83,
+        "max": 798.96,
+        "mean": 33.41,
+        "median": 10.77,
+        "suggested": 12.17,
+        "quantity": 73,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P90 | Trigon (Well-Worn)",
+      "price": {
+        "min": 9.41,
+        "max": 10.5,
+        "mean": 9.91,
+        "median": 9.81,
+        "suggested": 12.75,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P90 | Trigon (Battle-Scarred)",
+      "price": {
+        "min": 11.31,
+        "max": 12.16,
+        "mean": 11.6,
+        "median": 11.46,
+        "suggested": 13.49,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "mw": {
+        "market_hash_name": "P90 | Trigon (Minimal Wear)",
+        "price": {
+          "min": 13.42,
+          "max": 121.87,
+          "mean": 28.81,
+          "median": 18.34,
+          "suggested": 18.1,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P90 | Trigon (Field-Tested)",
+        "price": {
+          "min": 8.83,
+          "max": 798.96,
+          "mean": 33.41,
+          "median": 10.77,
+          "suggested": 12.17,
+          "quantity": 73,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P90 | Trigon (Well-Worn)",
+        "price": {
+          "min": 9.41,
+          "max": 10.5,
+          "mean": 9.91,
+          "median": 9.81,
+          "suggested": 12.75,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P90 | Trigon (Battle-Scarred)",
+        "price": {
+          "min": 11.31,
+          "max": 12.16,
+          "mean": 11.6,
+          "median": 11.46,
+          "suggested": 13.49,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "mw": {
+        "market_hash_name": "StatTrak™ P90 | Trigon (Minimal Wear)",
+        "price": {
+          "min": 21.72,
+          "max": 76.24,
+          "mean": 36.28,
+          "median": 29.09,
+          "suggested": 27.71,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P90 | Trigon (Field-Tested)",
+        "price": {
+          "min": 18.29,
+          "max": 138.75,
+          "mean": 32.27,
+          "median": 24.49,
+          "suggested": 21.51,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ P90 | Trigon (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ P90 | Trigon (Battle-Scarred)",
+        "price": {
+          "min": 32.53,
+          "max": 32.53,
+          "mean": 32.53,
+          "median": 32.53,
+          "suggested": 24.99,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "mw": {
+        "market_hash_name": "Souvenir P90 | Trigon (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P90 | Trigon (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P90 | Trigon (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P90 | Trigon (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:46.037Z"
+}

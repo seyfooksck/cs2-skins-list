@@ -1,0 +1,225 @@
+{
+  "id": "skin-d23df8a148c2",
+  "name": "Tec-9 | Sultan",
+  "paint_index": "1462",
+  "weapon": {
+    "id": "weapon_tec9",
+    "weapon_id": 30,
+    "name": "Tec-9",
+    "slug": "tec9"
+  },
+  "pattern": {
+    "id": "tec9_sultan",
+    "name": "Sultan"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity. It has been custom painted with arabesque-inspired mosaic designs.\\n\\n<i>Ceasefire through increased fire</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 11.61,
+      "max": 29.22,
+      "mean": 16.99,
+      "median": 15.11,
+      "suggested": 6.13,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "mw": null,
+    "ft": {
+      "min": 0.82,
+      "max": 2.33,
+      "mean": 1.76,
+      "median": 2.33,
+      "suggested": 0.96,
+      "quantity": 13,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.41,
+      "max": 2.33,
+      "mean": 0.88,
+      "median": 0.42,
+      "suggested": 0.53,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.32,
+      "max": 1.17,
+      "mean": 0.62,
+      "median": 0.41,
+      "suggested": 0.44,
+      "quantity": 16,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Tec-9 | Sultan (Factory New)",
+      "price": {
+        "min": 11.61,
+        "max": 29.22,
+        "mean": 16.99,
+        "median": 15.11,
+        "suggested": 6.13,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Tec-9 | Sultan (Minimal Wear)",
+      "price": null,
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Tec-9 | Sultan (Field-Tested)",
+      "price": {
+        "min": 0.82,
+        "max": 2.33,
+        "mean": 1.76,
+        "median": 2.33,
+        "suggested": 0.96,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Tec-9 | Sultan (Well-Worn)",
+      "price": {
+        "min": 0.41,
+        "max": 2.33,
+        "mean": 0.88,
+        "median": 0.42,
+        "suggested": 0.53,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Tec-9 | Sultan (Battle-Scarred)",
+      "price": {
+        "min": 0.32,
+        "max": 1.17,
+        "mean": 0.62,
+        "median": 0.41,
+        "suggested": 0.44,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Tec-9 | Sultan (Factory New)",
+        "price": {
+          "min": 11.61,
+          "max": 29.22,
+          "mean": 16.99,
+          "median": 15.11,
+          "suggested": 6.13,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Tec-9 | Sultan (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Tec-9 | Sultan (Field-Tested)",
+        "price": {
+          "min": 0.82,
+          "max": 2.33,
+          "mean": 1.76,
+          "median": 2.33,
+          "suggested": 0.96,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Tec-9 | Sultan (Well-Worn)",
+        "price": {
+          "min": 0.41,
+          "max": 2.33,
+          "mean": 0.88,
+          "median": 0.42,
+          "suggested": 0.53,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Tec-9 | Sultan (Battle-Scarred)",
+        "price": {
+          "min": 0.32,
+          "max": 1.17,
+          "mean": 0.62,
+          "median": 0.41,
+          "suggested": 0.44,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Tec-9 | Sultan (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Tec-9 | Sultan (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Tec-9 | Sultan (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Tec-9 | Sultan (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Tec-9 | Sultan (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.673Z"
+}

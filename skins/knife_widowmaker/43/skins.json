@@ -1,0 +1,249 @@
+{
+  "id": "skin-0788e11cab11",
+  "name": "★ Talon Knife | Stained",
+  "paint_index": "43",
+  "weapon": {
+    "id": "weapon_knife_widowmaker",
+    "weapon_id": 523,
+    "name": "Talon Knife",
+    "slug": "knife_widowmaker"
+  },
+  "pattern": {
+    "id": "aq_forced",
+    "name": "Stained"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This ivory-handled karambit features brass rivets and saw-tooth ridges, so it cuts on the way in, and tears on the way out. It has been given a forced patina using lemon and mustard dripped onto the surface.\\n\\n<i>If you think it's messy now, wait until you see it under a blacklight</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 390.1,
+      "max": 474.55,
+      "mean": 419.21,
+      "median": 392.98,
+      "suggested": 457.53,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 325.56,
+      "max": 373.42,
+      "mean": 351.39,
+      "median": 353.92,
+      "suggested": 411.78,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 318.15,
+      "max": 1283.63,
+      "mean": 561.23,
+      "median": 370.28,
+      "suggested": 395.24,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 308.15,
+      "max": 308.15,
+      "mean": 308.15,
+      "median": 308.15,
+      "suggested": 381.64,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Talon Knife | Stained (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Talon Knife | Stained (Minimal Wear)",
+      "price": {
+        "min": 390.1,
+        "max": 474.55,
+        "mean": 419.21,
+        "median": 392.98,
+        "suggested": 457.53,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Talon Knife | Stained (Field-Tested)",
+      "price": {
+        "min": 325.56,
+        "max": 373.42,
+        "mean": 351.39,
+        "median": 353.92,
+        "suggested": 411.78,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Talon Knife | Stained (Well-Worn)",
+      "price": {
+        "min": 318.15,
+        "max": 1283.63,
+        "mean": 561.23,
+        "median": 370.28,
+        "suggested": 395.24,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Talon Knife | Stained (Battle-Scarred)",
+      "price": {
+        "min": 308.15,
+        "max": 308.15,
+        "mean": 308.15,
+        "median": 308.15,
+        "suggested": 381.64,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Talon Knife | Stained (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Talon Knife | Stained (Minimal Wear)",
+        "price": {
+          "min": 390.1,
+          "max": 474.55,
+          "mean": 419.21,
+          "median": 392.98,
+          "suggested": 457.53,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Talon Knife | Stained (Field-Tested)",
+        "price": {
+          "min": 325.56,
+          "max": 373.42,
+          "mean": 351.39,
+          "median": 353.92,
+          "suggested": 411.78,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Talon Knife | Stained (Well-Worn)",
+        "price": {
+          "min": 318.15,
+          "max": 1283.63,
+          "mean": 561.23,
+          "median": 370.28,
+          "suggested": 395.24,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Talon Knife | Stained (Battle-Scarred)",
+        "price": {
+          "min": 308.15,
+          "max": 308.15,
+          "mean": 308.15,
+          "median": 308.15,
+          "suggested": 381.64,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Talon Knife | Stained (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Talon Knife | Stained (Minimal Wear)",
+        "price": {
+          "min": 388.15,
+          "max": 388.15,
+          "mean": 388.15,
+          "median": 388.15,
+          "suggested": 429.41,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Talon Knife | Stained (Field-Tested)",
+        "price": {
+          "min": 348.03,
+          "max": 490.11,
+          "mean": 419.07,
+          "median": 419.07,
+          "suggested": 392.94,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Talon Knife | Stained (Well-Worn)",
+        "price": {
+          "min": 348.19,
+          "max": 349.09,
+          "mean": 348.65,
+          "median": 348.65,
+          "suggested": 407.08,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Talon Knife | Stained (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:39.541Z"
+}

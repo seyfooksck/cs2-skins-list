@@ -1,0 +1,302 @@
+{
+  "id": "skin-23f9c7c6a6d9",
+  "name": "Desert Eagle | Crimson Web",
+  "paint_index": "232",
+  "weapon": {
+    "id": "weapon_deagle",
+    "weapon_id": 1,
+    "name": "Desert Eagle",
+    "slug": "deagle"
+  },
+  "pattern": {
+    "id": "hy_webs_darker",
+    "name": "Crimson Web"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. It has been painted using a spider web-patterned hydrographic over a red base coat and finished with a semi-gloss topcoat.\\n\\n<i>Be careful where you walk, you never know where the web is spread</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 186.71,
+      "max": 489.75,
+      "mean": 298.81,
+      "median": 286.34,
+      "suggested": 236.45,
+      "quantity": 13,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 30.73,
+      "max": 1197.28,
+      "mean": 86.11,
+      "median": 60.6,
+      "suggested": 45.02,
+      "quantity": 61,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 11.66,
+      "max": 116.69,
+      "mean": 26.01,
+      "median": 20.53,
+      "suggested": 14.59,
+      "quantity": 173,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 11.68,
+      "max": 12.72,
+      "mean": 12.23,
+      "median": 12.46,
+      "suggested": 14.19,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 11.6,
+      "max": 12.22,
+      "mean": 11.91,
+      "median": 11.91,
+      "suggested": 14.25,
+      "quantity": 4,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Desert Eagle | Crimson Web (Factory New)",
+      "price": {
+        "min": 186.71,
+        "max": 489.75,
+        "mean": 298.81,
+        "median": 286.34,
+        "suggested": 236.45,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Desert Eagle | Crimson Web (Minimal Wear)",
+      "price": {
+        "min": 30.73,
+        "max": 1197.28,
+        "mean": 86.11,
+        "median": 60.6,
+        "suggested": 45.02,
+        "quantity": 61,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Desert Eagle | Crimson Web (Field-Tested)",
+      "price": {
+        "min": 11.66,
+        "max": 116.69,
+        "mean": 26.01,
+        "median": 20.53,
+        "suggested": 14.59,
+        "quantity": 173,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Desert Eagle | Crimson Web (Well-Worn)",
+      "price": {
+        "min": 11.68,
+        "max": 12.72,
+        "mean": 12.23,
+        "median": 12.46,
+        "suggested": 14.19,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Desert Eagle | Crimson Web (Battle-Scarred)",
+      "price": {
+        "min": 11.6,
+        "max": 12.22,
+        "mean": 11.91,
+        "median": 11.91,
+        "suggested": 14.25,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Desert Eagle | Crimson Web (Factory New)",
+        "price": {
+          "min": 186.71,
+          "max": 489.75,
+          "mean": 298.81,
+          "median": 286.34,
+          "suggested": 236.45,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Desert Eagle | Crimson Web (Minimal Wear)",
+        "price": {
+          "min": 30.73,
+          "max": 1197.28,
+          "mean": 86.11,
+          "median": 60.6,
+          "suggested": 45.02,
+          "quantity": 61,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Desert Eagle | Crimson Web (Field-Tested)",
+        "price": {
+          "min": 11.66,
+          "max": 116.69,
+          "mean": 26.01,
+          "median": 20.53,
+          "suggested": 14.59,
+          "quantity": 173,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Desert Eagle | Crimson Web (Well-Worn)",
+        "price": {
+          "min": 11.68,
+          "max": 12.72,
+          "mean": 12.23,
+          "median": 12.46,
+          "suggested": 14.19,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Desert Eagle | Crimson Web (Battle-Scarred)",
+        "price": {
+          "min": 11.6,
+          "max": 12.22,
+          "mean": 11.91,
+          "median": 11.91,
+          "suggested": 14.25,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Crimson Web (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Crimson Web (Minimal Wear)",
+        "price": {
+          "min": 82.19,
+          "max": 291.73,
+          "mean": 124.65,
+          "median": 102.41,
+          "suggested": 97.19,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Crimson Web (Field-Tested)",
+        "price": {
+          "min": 20.41,
+          "max": 159.87,
+          "mean": 40.68,
+          "median": 35.93,
+          "suggested": 25.55,
+          "quantity": 46,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Crimson Web (Well-Worn)",
+        "price": {
+          "min": 24.75,
+          "max": 43.18,
+          "mean": 34.2,
+          "median": 34.73,
+          "suggested": 26.34,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Crimson Web (Battle-Scarred)",
+        "price": {
+          "min": 26.84,
+          "max": 98.02,
+          "mean": 52.05,
+          "median": 31.27,
+          "suggested": 23.71,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Desert Eagle | Crimson Web (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Desert Eagle | Crimson Web (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Desert Eagle | Crimson Web (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Desert Eagle | Crimson Web (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Desert Eagle | Crimson Web (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:28.509Z"
+}

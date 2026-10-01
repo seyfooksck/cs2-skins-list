@@ -1,0 +1,154 @@
+{
+  "id": "skin-0596698b2488",
+  "name": "MP7 | Ocean Foam",
+  "paint_index": "213",
+  "weapon": {
+    "id": "weapon_mp7",
+    "weapon_id": 33,
+    "name": "MP7",
+    "slug": "mp7"
+  },
+  "pattern": {
+    "id": "am_ossify_blue",
+    "name": "Ocean Foam"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been painted using a transparent blue abstract hydrographic over a metallic base coat.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 23.11,
+      "max": 80.52,
+      "mean": 36.84,
+      "median": 33.91,
+      "suggested": 30.87,
+      "quantity": 41,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 18.44,
+      "max": 50.49,
+      "mean": 25.87,
+      "median": 21.34,
+      "suggested": 22.8,
+      "quantity": 6,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP7 | Ocean Foam (Factory New)",
+      "price": {
+        "min": 23.11,
+        "max": 80.52,
+        "mean": 36.84,
+        "median": 33.91,
+        "suggested": 30.87,
+        "quantity": 41,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP7 | Ocean Foam (Minimal Wear)",
+      "price": {
+        "min": 18.44,
+        "max": 50.49,
+        "mean": 25.87,
+        "median": 21.34,
+        "suggested": 22.8,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP7 | Ocean Foam (Factory New)",
+        "price": {
+          "min": 23.11,
+          "max": 80.52,
+          "mean": 36.84,
+          "median": 33.91,
+          "suggested": 30.87,
+          "quantity": 41,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP7 | Ocean Foam (Minimal Wear)",
+        "price": {
+          "min": 18.44,
+          "max": 50.49,
+          "mean": 25.87,
+          "median": 21.34,
+          "suggested": 22.8,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MP7 | Ocean Foam (Factory New)",
+        "price": {
+          "min": 14.13,
+          "max": 57.18,
+          "mean": 27.61,
+          "median": 30.31,
+          "suggested": 17.87,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MP7 | Ocean Foam (Minimal Wear)",
+        "price": {
+          "min": 14.4,
+          "max": 79.35,
+          "mean": 36.11,
+          "median": 14.58,
+          "suggested": 16.79,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP7 | Ocean Foam (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP7 | Ocean Foam (Minimal Wear)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.969Z"
+}

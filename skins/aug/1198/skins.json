@@ -1,0 +1,289 @@
+{
+  "id": "skin-6305d7d593bd",
+  "name": "AUG | Steel Sentinel",
+  "paint_index": "1198",
+  "weapon": {
+    "id": "weapon_aug",
+    "weapon_id": 8,
+    "name": "AUG",
+    "slug": "aug"
+  },
+  "pattern": {
+    "id": "aug_cold_sentinel",
+    "name": "Steel Sentinel"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire. It has been custom painted in gunmetal grey.\\n\\n<i>Solid steel and cold as death</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.33,
+      "max": 46.68,
+      "mean": 8.04,
+      "median": 5.12,
+      "suggested": 3.49,
+      "quantity": 128,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.18,
+      "max": 11.67,
+      "mean": 0.96,
+      "median": 0.58,
+      "suggested": 0.23,
+      "quantity": 94,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.06,
+      "max": 3.59,
+      "mean": 0.3,
+      "median": 0.18,
+      "suggested": 0.08,
+      "quantity": 213,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.06,
+      "max": 2.39,
+      "mean": 0.76,
+      "median": 0.14,
+      "suggested": 0.05,
+      "quantity": 192,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.07,
+      "max": 2.39,
+      "mean": 1.24,
+      "median": 1.6,
+      "suggested": 0.05,
+      "quantity": 100,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AUG | Steel Sentinel (Factory New)",
+      "price": {
+        "min": 2.33,
+        "max": 46.68,
+        "mean": 8.04,
+        "median": 5.12,
+        "suggested": 3.49,
+        "quantity": 128,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AUG | Steel Sentinel (Minimal Wear)",
+      "price": {
+        "min": 0.18,
+        "max": 11.67,
+        "mean": 0.96,
+        "median": 0.58,
+        "suggested": 0.23,
+        "quantity": 94,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AUG | Steel Sentinel (Field-Tested)",
+      "price": {
+        "min": 0.06,
+        "max": 3.59,
+        "mean": 0.3,
+        "median": 0.18,
+        "suggested": 0.08,
+        "quantity": 213,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AUG | Steel Sentinel (Well-Worn)",
+      "price": {
+        "min": 0.06,
+        "max": 2.39,
+        "mean": 0.76,
+        "median": 0.14,
+        "suggested": 0.05,
+        "quantity": 192,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AUG | Steel Sentinel (Battle-Scarred)",
+      "price": {
+        "min": 0.07,
+        "max": 2.39,
+        "mean": 1.24,
+        "median": 1.6,
+        "suggested": 0.05,
+        "quantity": 100,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AUG | Steel Sentinel (Factory New)",
+        "price": {
+          "min": 2.33,
+          "max": 46.68,
+          "mean": 8.04,
+          "median": 5.12,
+          "suggested": 3.49,
+          "quantity": 128,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AUG | Steel Sentinel (Minimal Wear)",
+        "price": {
+          "min": 0.18,
+          "max": 11.67,
+          "mean": 0.96,
+          "median": 0.58,
+          "suggested": 0.23,
+          "quantity": 94,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AUG | Steel Sentinel (Field-Tested)",
+        "price": {
+          "min": 0.06,
+          "max": 3.59,
+          "mean": 0.3,
+          "median": 0.18,
+          "suggested": 0.08,
+          "quantity": 213,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AUG | Steel Sentinel (Well-Worn)",
+        "price": {
+          "min": 0.06,
+          "max": 2.39,
+          "mean": 0.76,
+          "median": 0.14,
+          "suggested": 0.05,
+          "quantity": 192,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AUG | Steel Sentinel (Battle-Scarred)",
+        "price": {
+          "min": 0.07,
+          "max": 2.39,
+          "mean": 1.24,
+          "median": 1.6,
+          "suggested": 0.05,
+          "quantity": 100,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AUG | Steel Sentinel (Factory New)",
+        "price": {
+          "min": 2.73,
+          "max": 27.55,
+          "mean": 9.37,
+          "median": 4.07,
+          "suggested": 3.34,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AUG | Steel Sentinel (Minimal Wear)",
+        "price": {
+          "min": 0.25,
+          "max": 17.5,
+          "mean": 1.06,
+          "median": 0.39,
+          "suggested": 0.29,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AUG | Steel Sentinel (Field-Tested)",
+        "price": {
+          "min": 0.09,
+          "max": 7.99,
+          "mean": 0.49,
+          "median": 0.26,
+          "suggested": 0.12,
+          "quantity": 41,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AUG | Steel Sentinel (Well-Worn)",
+        "price": {
+          "min": 0.07,
+          "max": 7.99,
+          "mean": 0.35,
+          "median": 0.15,
+          "suggested": 0.08,
+          "quantity": 48,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AUG | Steel Sentinel (Battle-Scarred)",
+        "price": {
+          "min": 0.09,
+          "max": 0.96,
+          "mean": 0.28,
+          "median": 0.26,
+          "suggested": 0.09,
+          "quantity": 35,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.278Z"
+}

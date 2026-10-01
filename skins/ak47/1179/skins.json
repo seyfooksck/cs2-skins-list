@@ -1,0 +1,257 @@
+{
+  "id": "skin-81d44fd69bbd",
+  "name": "AK-47 | Olive Polycam",
+  "paint_index": "1179",
+  "weapon": {
+    "id": "weapon_ak47",
+    "weapon_id": 7,
+    "name": "AK-47",
+    "slug": "ak47"
+  },
+  "pattern": {
+    "id": "ht_poly_camo_ak47",
+    "name": "Olive Polycam"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. It has been custom painted using a green and grey halftone pattern.\\n\\n<i>Attention to detail</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.55,
+      "max": 57.87,
+      "mean": 3.99,
+      "median": 2.53,
+      "suggested": 0.74,
+      "quantity": 1767,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.12,
+      "max": 115.53,
+      "mean": 0.92,
+      "median": 0.56,
+      "suggested": 0.17,
+      "quantity": 2181,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.07,
+      "max": 58.35,
+      "mean": 0.79,
+      "median": 0.26,
+      "suggested": 0.12,
+      "quantity": 550,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.09,
+      "max": 9.92,
+      "mean": 0.91,
+      "median": 0.26,
+      "suggested": 0.12,
+      "quantity": 48,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.09,
+      "max": 0.75,
+      "mean": 0.21,
+      "median": 0.13,
+      "suggested": 0.1,
+      "quantity": 28,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AK-47 | Olive Polycam (Factory New)",
+      "price": {
+        "min": 0.55,
+        "max": 57.87,
+        "mean": 3.99,
+        "median": 2.53,
+        "suggested": 0.74,
+        "quantity": 1767,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AK-47 | Olive Polycam (Minimal Wear)",
+      "price": {
+        "min": 0.12,
+        "max": 115.53,
+        "mean": 0.92,
+        "median": 0.56,
+        "suggested": 0.17,
+        "quantity": 2181,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AK-47 | Olive Polycam (Field-Tested)",
+      "price": {
+        "min": 0.07,
+        "max": 58.35,
+        "mean": 0.79,
+        "median": 0.26,
+        "suggested": 0.12,
+        "quantity": 550,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AK-47 | Olive Polycam (Well-Worn)",
+      "price": {
+        "min": 0.09,
+        "max": 9.92,
+        "mean": 0.91,
+        "median": 0.26,
+        "suggested": 0.12,
+        "quantity": 48,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AK-47 | Olive Polycam (Battle-Scarred)",
+      "price": {
+        "min": 0.09,
+        "max": 0.75,
+        "mean": 0.21,
+        "median": 0.13,
+        "suggested": 0.1,
+        "quantity": 28,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AK-47 | Olive Polycam (Factory New)",
+        "price": {
+          "min": 0.55,
+          "max": 57.87,
+          "mean": 3.99,
+          "median": 2.53,
+          "suggested": 0.74,
+          "quantity": 1767,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AK-47 | Olive Polycam (Minimal Wear)",
+        "price": {
+          "min": 0.12,
+          "max": 115.53,
+          "mean": 0.92,
+          "median": 0.56,
+          "suggested": 0.17,
+          "quantity": 2181,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AK-47 | Olive Polycam (Field-Tested)",
+        "price": {
+          "min": 0.07,
+          "max": 58.35,
+          "mean": 0.79,
+          "median": 0.26,
+          "suggested": 0.12,
+          "quantity": 550,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AK-47 | Olive Polycam (Well-Worn)",
+        "price": {
+          "min": 0.09,
+          "max": 9.92,
+          "mean": 0.91,
+          "median": 0.26,
+          "suggested": 0.12,
+          "quantity": 48,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AK-47 | Olive Polycam (Battle-Scarred)",
+        "price": {
+          "min": 0.09,
+          "max": 0.75,
+          "mean": 0.21,
+          "median": 0.13,
+          "suggested": 0.1,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AK-47 | Olive Polycam (Factory New)",
+        "price": {
+          "min": 20.48,
+          "max": 20.48,
+          "mean": 20.48,
+          "median": 20.48,
+          "suggested": 8.31,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AK-47 | Olive Polycam (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AK-47 | Olive Polycam (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AK-47 | Olive Polycam (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AK-47 | Olive Polycam (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:20:20.933Z"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "skin-4608abab8351",
+  "name": "AK-47 | The Oligarch",
+  "paint_index": "1352",
+  "weapon": {
+    "id": "weapon_ak47",
+    "weapon_id": 7,
+    "name": "AK-47",
+    "slug": "ak47"
+  },
+  "pattern": {
+    "id": "ak47_puffer_custom",
+    "name": "The Oligarch"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. It has been custom painted to replicate the look and feel of a luxury white and black puffer jacket and finished with gold accents.\\n\\n<i>Seek power, gain power, hold power</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 339.93,
+      "max": 824.78,
+      "mean": 635.5,
+      "median": 661.92,
+      "suggested": 391.34,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 115.53,
+      "max": 549.85,
+      "mean": 169.87,
+      "median": 135.38,
+      "suggested": 151.66,
+      "quantity": 43,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 52.23,
+      "max": 175.04,
+      "mean": 78.04,
+      "median": 70.86,
+      "suggested": 65.77,
+      "quantity": 70,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 38.22,
+      "max": 100.24,
+      "mean": 59.05,
+      "median": 47.97,
+      "suggested": 49.41,
+      "quantity": 22,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 26.84,
+      "max": 113.38,
+      "mean": 44.81,
+      "median": 34.98,
+      "suggested": 37.34,
+      "quantity": 29,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AK-47 | The Oligarch (Factory New)",
+      "price": {
+        "min": 339.93,
+        "max": 824.78,
+        "mean": 635.5,
+        "median": 661.92,
+        "suggested": 391.34,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AK-47 | The Oligarch (Minimal Wear)",
+      "price": {
+        "min": 115.53,
+        "max": 549.85,
+        "mean": 169.87,
+        "median": 135.38,
+        "suggested": 151.66,
+        "quantity": 43,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AK-47 | The Oligarch (Field-Tested)",
+      "price": {
+        "min": 52.23,
+        "max": 175.04,
+        "mean": 78.04,
+        "median": 70.86,
+        "suggested": 65.77,
+        "quantity": 70,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AK-47 | The Oligarch (Well-Worn)",
+      "price": {
+        "min": 38.22,
+        "max": 100.24,
+        "mean": 59.05,
+        "median": 47.97,
+        "suggested": 49.41,
+        "quantity": 22,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AK-47 | The Oligarch (Battle-Scarred)",
+      "price": {
+        "min": 26.84,
+        "max": 113.38,
+        "mean": 44.81,
+        "median": 34.98,
+        "suggested": 37.34,
+        "quantity": 29,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AK-47 | The Oligarch (Factory New)",
+        "price": {
+          "min": 339.93,
+          "max": 824.78,
+          "mean": 635.5,
+          "median": 661.92,
+          "suggested": 391.34,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AK-47 | The Oligarch (Minimal Wear)",
+        "price": {
+          "min": 115.53,
+          "max": 549.85,
+          "mean": 169.87,
+          "median": 135.38,
+          "suggested": 151.66,
+          "quantity": 43,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AK-47 | The Oligarch (Field-Tested)",
+        "price": {
+          "min": 52.23,
+          "max": 175.04,
+          "mean": 78.04,
+          "median": 70.86,
+          "suggested": 65.77,
+          "quantity": 70,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AK-47 | The Oligarch (Well-Worn)",
+        "price": {
+          "min": 38.22,
+          "max": 100.24,
+          "mean": 59.05,
+          "median": 47.97,
+          "suggested": 49.41,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AK-47 | The Oligarch (Battle-Scarred)",
+        "price": {
+          "min": 26.84,
+          "max": 113.38,
+          "mean": 44.81,
+          "median": 34.98,
+          "suggested": 37.34,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AK-47 | The Oligarch (Factory New)",
+        "price": {
+          "min": 576.56,
+          "max": 644.67,
+          "mean": 610.62,
+          "median": 610.62,
+          "suggested": 651.72,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AK-47 | The Oligarch (Minimal Wear)",
+        "price": {
+          "min": 232.61,
+          "max": 680.32,
+          "mean": 342.96,
+          "median": 325.1,
+          "suggested": 280.2,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AK-47 | The Oligarch (Field-Tested)",
+        "price": {
+          "min": 99.19,
+          "max": 134.41,
+          "mean": 118.55,
+          "median": 116.2,
+          "suggested": 138.69,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AK-47 | The Oligarch (Well-Worn)",
+        "price": {
+          "min": 93.03,
+          "max": 177.7,
+          "mean": 121.36,
+          "median": 93.35,
+          "suggested": 87.64,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ AK-47 | The Oligarch (Battle-Scarred)",
+        "price": {
+          "min": 58.71,
+          "max": 110.59,
+          "mean": 74.02,
+          "median": 66.62,
+          "suggested": 66.94,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AK-47 | The Oligarch (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AK-47 | The Oligarch (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AK-47 | The Oligarch (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AK-47 | The Oligarch (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AK-47 | The Oligarch (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:20:20.330Z"
+}

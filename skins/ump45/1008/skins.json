@@ -1,0 +1,249 @@
+{
+  "id": "skin-460eb201131c",
+  "name": "UMP-45 | Houndstooth",
+  "paint_index": "1008",
+  "weapon": {
+    "id": "weapon_ump45",
+    "weapon_id": 24,
+    "name": "UMP-45",
+    "slug": "ump45"
+  },
+  "pattern": {
+    "id": "hy_houndstooth_brown",
+    "name": "Houndstooth"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic. A brown houndstooth hydrographic pattern has been applied.\\n\\n<i>Equip for the role you want, not the role you have</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 8.24,
+      "max": 63.6,
+      "mean": 26.84,
+      "median": 16.57,
+      "suggested": 10.38,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 7.13,
+      "max": 48.43,
+      "mean": 11.94,
+      "median": 9.08,
+      "suggested": 9.05,
+      "quantity": 23,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 4.91,
+      "max": 19.24,
+      "mean": 6.81,
+      "median": 5.6,
+      "suggested": 6.1,
+      "quantity": 35,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 4.47,
+      "max": 4.47,
+      "mean": 4.47,
+      "median": 4.47,
+      "suggested": 5.04,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 3.62,
+      "max": 4.42,
+      "mean": 4.03,
+      "median": 4.03,
+      "suggested": 4.49,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "UMP-45 | Houndstooth (Factory New)",
+      "price": {
+        "min": 8.24,
+        "max": 63.6,
+        "mean": 26.84,
+        "median": 16.57,
+        "suggested": 10.38,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "UMP-45 | Houndstooth (Minimal Wear)",
+      "price": {
+        "min": 7.13,
+        "max": 48.43,
+        "mean": 11.94,
+        "median": 9.08,
+        "suggested": 9.05,
+        "quantity": 23,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "UMP-45 | Houndstooth (Field-Tested)",
+      "price": {
+        "min": 4.91,
+        "max": 19.24,
+        "mean": 6.81,
+        "median": 5.6,
+        "suggested": 6.1,
+        "quantity": 35,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "UMP-45 | Houndstooth (Well-Worn)",
+      "price": {
+        "min": 4.47,
+        "max": 4.47,
+        "mean": 4.47,
+        "median": 4.47,
+        "suggested": 5.04,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "UMP-45 | Houndstooth (Battle-Scarred)",
+      "price": {
+        "min": 3.62,
+        "max": 4.42,
+        "mean": 4.03,
+        "median": 4.03,
+        "suggested": 4.49,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "UMP-45 | Houndstooth (Factory New)",
+        "price": {
+          "min": 8.24,
+          "max": 63.6,
+          "mean": 26.84,
+          "median": 16.57,
+          "suggested": 10.38,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "UMP-45 | Houndstooth (Minimal Wear)",
+        "price": {
+          "min": 7.13,
+          "max": 48.43,
+          "mean": 11.94,
+          "median": 9.08,
+          "suggested": 9.05,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "UMP-45 | Houndstooth (Field-Tested)",
+        "price": {
+          "min": 4.91,
+          "max": 19.24,
+          "mean": 6.81,
+          "median": 5.6,
+          "suggested": 6.1,
+          "quantity": 35,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "UMP-45 | Houndstooth (Well-Worn)",
+        "price": {
+          "min": 4.47,
+          "max": 4.47,
+          "mean": 4.47,
+          "median": 4.47,
+          "suggested": 5.04,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "UMP-45 | Houndstooth (Battle-Scarred)",
+        "price": {
+          "min": 3.62,
+          "max": 4.42,
+          "mean": 4.03,
+          "median": 4.03,
+          "suggested": 4.49,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir UMP-45 | Houndstooth (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir UMP-45 | Houndstooth (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir UMP-45 | Houndstooth (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir UMP-45 | Houndstooth (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir UMP-45 | Houndstooth (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:50.072Z"
+}

@@ -1,0 +1,228 @@
+{
+  "id": "skin-b98ee789cd59",
+  "name": "★ Specialist Gloves | Field Agent",
+  "paint_index": "10068",
+  "weapon": {
+    "id": "specialist_gloves",
+    "weapon_id": 5034,
+    "name": "Specialist Gloves",
+    "slug": "specialist_gloves"
+  },
+  "pattern": {
+    "id": "specialist_fbi",
+    "name": "Field Agent"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_gloves",
+    "name": "Gloves"
+  },
+  "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Durable, breathable, and stylish; these gloves are designed to take (and give) a beating.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 956.89,
+      "max": 1068.67,
+      "mean": 1012.78,
+      "median": 1012.78,
+      "suggested": 1104.57,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 318.52,
+      "max": 653.48,
+      "mean": 387.49,
+      "median": 358.3,
+      "suggested": 422.54,
+      "quantity": 22,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 139.45,
+      "max": 759.61,
+      "mean": 200.01,
+      "median": 169.12,
+      "suggested": 176.72,
+      "quantity": 62,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 116.69,
+      "max": 182,
+      "mean": 135.41,
+      "median": 130.36,
+      "suggested": 148.01,
+      "quantity": 16,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 93.35,
+      "max": 177.39,
+      "mean": 129.19,
+      "median": 121.22,
+      "suggested": 120.56,
+      "quantity": 19,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Specialist Gloves | Field Agent (Factory New)",
+      "price": {
+        "min": 956.89,
+        "max": 1068.67,
+        "mean": 1012.78,
+        "median": 1012.78,
+        "suggested": 1104.57,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Specialist Gloves | Field Agent (Minimal Wear)",
+      "price": {
+        "min": 318.52,
+        "max": 653.48,
+        "mean": 387.49,
+        "median": 358.3,
+        "suggested": 422.54,
+        "quantity": 22,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Specialist Gloves | Field Agent (Field-Tested)",
+      "price": {
+        "min": 139.45,
+        "max": 759.61,
+        "mean": 200.01,
+        "median": 169.12,
+        "suggested": 176.72,
+        "quantity": 62,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Specialist Gloves | Field Agent (Well-Worn)",
+      "price": {
+        "min": 116.69,
+        "max": 182,
+        "mean": 135.41,
+        "median": 130.36,
+        "suggested": 148.01,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Specialist Gloves | Field Agent (Battle-Scarred)",
+      "price": {
+        "min": 93.35,
+        "max": 177.39,
+        "mean": 129.19,
+        "median": 121.22,
+        "suggested": 120.56,
+        "quantity": 19,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Specialist Gloves | Field Agent (Factory New)",
+        "price": {
+          "min": 956.89,
+          "max": 1068.67,
+          "mean": 1012.78,
+          "median": 1012.78,
+          "suggested": 1104.57,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Specialist Gloves | Field Agent (Minimal Wear)",
+        "price": {
+          "min": 318.52,
+          "max": 653.48,
+          "mean": 387.49,
+          "median": 358.3,
+          "suggested": 422.54,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Specialist Gloves | Field Agent (Field-Tested)",
+        "price": {
+          "min": 139.45,
+          "max": 759.61,
+          "mean": 200.01,
+          "median": 169.12,
+          "suggested": 176.72,
+          "quantity": 62,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Specialist Gloves | Field Agent (Well-Worn)",
+        "price": {
+          "min": 116.69,
+          "max": 182,
+          "mean": 135.41,
+          "median": 130.36,
+          "suggested": 148.01,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Specialist Gloves | Field Agent (Battle-Scarred)",
+        "price": {
+          "min": 93.35,
+          "max": 177.39,
+          "mean": 129.19,
+          "median": 121.22,
+          "suggested": 120.56,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:23.733Z"
+}

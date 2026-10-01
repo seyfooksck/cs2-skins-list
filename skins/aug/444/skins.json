@@ -1,0 +1,249 @@
+{
+  "id": "skin-bcf0f362fd01",
+  "name": "AUG | Daedalus",
+  "paint_index": "444",
+  "weapon": {
+    "id": "weapon_aug",
+    "weapon_id": 8,
+    "name": "AUG",
+    "slug": "aug"
+  },
+  "pattern": {
+    "id": "sp_labyrinth3",
+    "name": "Daedalus"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 0.55,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire. It has been spray-painted with a stencil of an isometric labyrinth.\\n\\n<i>Imogen... if they ever find out what you did, it may cost us everything - A Family Affair Part 1</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 7.4,
+      "max": 46.89,
+      "mean": 13.87,
+      "median": 10.44,
+      "suggested": 9.71,
+      "quantity": 34,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 5.55,
+      "max": 23.34,
+      "mean": 11.53,
+      "median": 10.27,
+      "suggested": 6.17,
+      "quantity": 22,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 4.61,
+      "max": 18.44,
+      "mean": 6.13,
+      "median": 5.29,
+      "suggested": 5.63,
+      "quantity": 45,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 39.94,
+      "max": 39.94,
+      "mean": 39.94,
+      "median": 39.94,
+      "suggested": 4.97,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 5.78,
+      "max": 5.78,
+      "mean": 5.78,
+      "median": 5.78,
+      "suggested": 5.03,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AUG | Daedalus (Factory New)",
+      "price": {
+        "min": 7.4,
+        "max": 46.89,
+        "mean": 13.87,
+        "median": 10.44,
+        "suggested": 9.71,
+        "quantity": 34,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AUG | Daedalus (Minimal Wear)",
+      "price": {
+        "min": 5.55,
+        "max": 23.34,
+        "mean": 11.53,
+        "median": 10.27,
+        "suggested": 6.17,
+        "quantity": 22,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AUG | Daedalus (Field-Tested)",
+      "price": {
+        "min": 4.61,
+        "max": 18.44,
+        "mean": 6.13,
+        "median": 5.29,
+        "suggested": 5.63,
+        "quantity": 45,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AUG | Daedalus (Well-Worn)",
+      "price": {
+        "min": 39.94,
+        "max": 39.94,
+        "mean": 39.94,
+        "median": 39.94,
+        "suggested": 4.97,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AUG | Daedalus (Battle-Scarred)",
+      "price": {
+        "min": 5.78,
+        "max": 5.78,
+        "mean": 5.78,
+        "median": 5.78,
+        "suggested": 5.03,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AUG | Daedalus (Factory New)",
+        "price": {
+          "min": 7.4,
+          "max": 46.89,
+          "mean": 13.87,
+          "median": 10.44,
+          "suggested": 9.71,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AUG | Daedalus (Minimal Wear)",
+        "price": {
+          "min": 5.55,
+          "max": 23.34,
+          "mean": 11.53,
+          "median": 10.27,
+          "suggested": 6.17,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AUG | Daedalus (Field-Tested)",
+        "price": {
+          "min": 4.61,
+          "max": 18.44,
+          "mean": 6.13,
+          "median": 5.29,
+          "suggested": 5.63,
+          "quantity": 45,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AUG | Daedalus (Well-Worn)",
+        "price": {
+          "min": 39.94,
+          "max": 39.94,
+          "mean": 39.94,
+          "median": 39.94,
+          "suggested": 4.97,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AUG | Daedalus (Battle-Scarred)",
+        "price": {
+          "min": 5.78,
+          "max": 5.78,
+          "mean": 5.78,
+          "median": 5.78,
+          "suggested": 5.03,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AUG | Daedalus (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AUG | Daedalus (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AUG | Daedalus (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AUG | Daedalus (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AUG | Daedalus (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.690Z"
+}

@@ -1,0 +1,249 @@
+{
+  "id": "skin-0b2ec5b2c5ef",
+  "name": "Sawed-Off | Crimson Batik",
+  "paint_index": "1391",
+  "weapon": {
+    "id": "weapon_sawedoff",
+    "weapon_id": 29,
+    "name": "Sawed-Off",
+    "slug": "sawedoff"
+  },
+  "pattern": {
+    "id": "hye_batik_eyes",
+    "name": "Crimson Batik"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit. A crimson and black banana leaf pattern has been applied.\\n\\n<i>Moving targets</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.04,
+      "max": 4.67,
+      "mean": 0.36,
+      "median": 0.08,
+      "suggested": 0.06,
+      "quantity": 99,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.02,
+      "max": 1.83,
+      "mean": 0.07,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 378,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.02,
+      "max": 5.83,
+      "mean": 0.05,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 908,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.02,
+      "max": 0.05,
+      "mean": 0.04,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 41,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.02,
+      "max": 0.15,
+      "mean": 0.04,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 132,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Sawed-Off | Crimson Batik (Factory New)",
+      "price": {
+        "min": 0.04,
+        "max": 4.67,
+        "mean": 0.36,
+        "median": 0.08,
+        "suggested": 0.06,
+        "quantity": 99,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Sawed-Off | Crimson Batik (Minimal Wear)",
+      "price": {
+        "min": 0.02,
+        "max": 1.83,
+        "mean": 0.07,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 378,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Sawed-Off | Crimson Batik (Field-Tested)",
+      "price": {
+        "min": 0.02,
+        "max": 5.83,
+        "mean": 0.05,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 908,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Sawed-Off | Crimson Batik (Well-Worn)",
+      "price": {
+        "min": 0.02,
+        "max": 0.05,
+        "mean": 0.04,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 41,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Sawed-Off | Crimson Batik (Battle-Scarred)",
+      "price": {
+        "min": 0.02,
+        "max": 0.15,
+        "mean": 0.04,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 132,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Sawed-Off | Crimson Batik (Factory New)",
+        "price": {
+          "min": 0.04,
+          "max": 4.67,
+          "mean": 0.36,
+          "median": 0.08,
+          "suggested": 0.06,
+          "quantity": 99,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Sawed-Off | Crimson Batik (Minimal Wear)",
+        "price": {
+          "min": 0.02,
+          "max": 1.83,
+          "mean": 0.07,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 378,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Sawed-Off | Crimson Batik (Field-Tested)",
+        "price": {
+          "min": 0.02,
+          "max": 5.83,
+          "mean": 0.05,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 908,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Sawed-Off | Crimson Batik (Well-Worn)",
+        "price": {
+          "min": 0.02,
+          "max": 0.05,
+          "mean": 0.04,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 41,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Sawed-Off | Crimson Batik (Battle-Scarred)",
+        "price": {
+          "min": 0.02,
+          "max": 0.15,
+          "mean": 0.04,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 132,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Sawed-Off | Crimson Batik (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Sawed-Off | Crimson Batik (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Sawed-Off | Crimson Batik (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Sawed-Off | Crimson Batik (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Sawed-Off | Crimson Batik (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:47.272Z"
+}

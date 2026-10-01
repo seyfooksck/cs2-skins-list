@@ -1,0 +1,249 @@
+{
+  "id": "skin-47bca40182d8",
+  "name": "USP-S | Whiteout",
+  "paint_index": "1065",
+  "weapon": {
+    "id": "weapon_usp_silencer",
+    "weapon_id": 61,
+    "name": "USP-S",
+    "slug": "usp_silencer"
+  },
+  "pattern": {
+    "id": "so_whiteout_riptide",
+    "name": "Whiteout"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise. It is spray-painted all white.\\n\\n<i>It looks pure, but looks can be deceiving</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 550.99,
+      "max": 1266.02,
+      "mean": 855.45,
+      "median": 852.16,
+      "suggested": 597.23,
+      "quantity": 16,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 119.03,
+      "max": 1484.11,
+      "mean": 278.92,
+      "median": 215.05,
+      "suggested": 162.2,
+      "quantity": 105,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 56.36,
+      "max": 991.8,
+      "mean": 139.41,
+      "median": 105.43,
+      "suggested": 81.22,
+      "quantity": 110,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 64.11,
+      "max": 171.96,
+      "mean": 96.93,
+      "median": 76.82,
+      "suggested": 55.54,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 32.01,
+      "max": 71.16,
+      "mean": 49.69,
+      "median": 51.26,
+      "suggested": 41.77,
+      "quantity": 8,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "USP-S | Whiteout (Factory New)",
+      "price": {
+        "min": 550.99,
+        "max": 1266.02,
+        "mean": 855.45,
+        "median": 852.16,
+        "suggested": 597.23,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "USP-S | Whiteout (Minimal Wear)",
+      "price": {
+        "min": 119.03,
+        "max": 1484.11,
+        "mean": 278.92,
+        "median": 215.05,
+        "suggested": 162.2,
+        "quantity": 105,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "USP-S | Whiteout (Field-Tested)",
+      "price": {
+        "min": 56.36,
+        "max": 991.8,
+        "mean": 139.41,
+        "median": 105.43,
+        "suggested": 81.22,
+        "quantity": 110,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "USP-S | Whiteout (Well-Worn)",
+      "price": {
+        "min": 64.11,
+        "max": 171.96,
+        "mean": 96.93,
+        "median": 76.82,
+        "suggested": 55.54,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "USP-S | Whiteout (Battle-Scarred)",
+      "price": {
+        "min": 32.01,
+        "max": 71.16,
+        "mean": 49.69,
+        "median": 51.26,
+        "suggested": 41.77,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "USP-S | Whiteout (Factory New)",
+        "price": {
+          "min": 550.99,
+          "max": 1266.02,
+          "mean": 855.45,
+          "median": 852.16,
+          "suggested": 597.23,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "USP-S | Whiteout (Minimal Wear)",
+        "price": {
+          "min": 119.03,
+          "max": 1484.11,
+          "mean": 278.92,
+          "median": 215.05,
+          "suggested": 162.2,
+          "quantity": 105,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "USP-S | Whiteout (Field-Tested)",
+        "price": {
+          "min": 56.36,
+          "max": 991.8,
+          "mean": 139.41,
+          "median": 105.43,
+          "suggested": 81.22,
+          "quantity": 110,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "USP-S | Whiteout (Well-Worn)",
+        "price": {
+          "min": 64.11,
+          "max": 171.96,
+          "mean": 96.93,
+          "median": 76.82,
+          "suggested": 55.54,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "USP-S | Whiteout (Battle-Scarred)",
+        "price": {
+          "min": 32.01,
+          "max": 71.16,
+          "mean": 49.69,
+          "median": 51.26,
+          "suggested": 41.77,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir USP-S | Whiteout (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir USP-S | Whiteout (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir USP-S | Whiteout (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir USP-S | Whiteout (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir USP-S | Whiteout (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:50.784Z"
+}

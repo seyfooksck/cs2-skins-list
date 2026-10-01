@@ -1,0 +1,310 @@
+{
+  "id": "skin-f2cdadd8b557",
+  "name": "AWP | Elite Build",
+  "paint_index": "525",
+  "weapon": {
+    "id": "weapon_awp",
+    "weapon_id": 9,
+    "name": "AWP",
+    "slug": "awp"
+  },
+  "pattern": {
+    "id": "cu_awp_mastery",
+    "name": "Elite Build"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been custom painted using a combination of hydrographics and careful stenciling and detailed with heat-transfer decals.\\n\\n<i>Chase Turner was a great man... you have big shoes to fill – The Phoenix and The Initiate, Part 1</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 108.06,
+      "max": 641.79,
+      "mean": 290.59,
+      "median": 279.27,
+      "suggested": 143.48,
+      "quantity": 25,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 21.68,
+      "max": 583.47,
+      "mean": 58.31,
+      "median": 48.05,
+      "suggested": 29.83,
+      "quantity": 52,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 12.53,
+      "max": 5378.43,
+      "mean": 121.12,
+      "median": 16.29,
+      "suggested": 16.85,
+      "quantity": 54,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 11.84,
+      "max": 70,
+      "mean": 22.38,
+      "median": 16.28,
+      "suggested": 15.66,
+      "quantity": 20,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 12.1,
+      "max": 35,
+      "mean": 21.54,
+      "median": 22.94,
+      "suggested": 15.43,
+      "quantity": 15,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AWP | Elite Build (Factory New)",
+      "price": {
+        "min": 108.06,
+        "max": 641.79,
+        "mean": 290.59,
+        "median": 279.27,
+        "suggested": 143.48,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AWP | Elite Build (Minimal Wear)",
+      "price": {
+        "min": 21.68,
+        "max": 583.47,
+        "mean": 58.31,
+        "median": 48.05,
+        "suggested": 29.83,
+        "quantity": 52,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AWP | Elite Build (Field-Tested)",
+      "price": {
+        "min": 12.53,
+        "max": 5378.43,
+        "mean": 121.12,
+        "median": 16.29,
+        "suggested": 16.85,
+        "quantity": 54,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AWP | Elite Build (Well-Worn)",
+      "price": {
+        "min": 11.84,
+        "max": 70,
+        "mean": 22.38,
+        "median": 16.28,
+        "suggested": 15.66,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AWP | Elite Build (Battle-Scarred)",
+      "price": {
+        "min": 12.1,
+        "max": 35,
+        "mean": 21.54,
+        "median": 22.94,
+        "suggested": 15.43,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AWP | Elite Build (Factory New)",
+        "price": {
+          "min": 108.06,
+          "max": 641.79,
+          "mean": 290.59,
+          "median": 279.27,
+          "suggested": 143.48,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AWP | Elite Build (Minimal Wear)",
+        "price": {
+          "min": 21.68,
+          "max": 583.47,
+          "mean": 58.31,
+          "median": 48.05,
+          "suggested": 29.83,
+          "quantity": 52,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AWP | Elite Build (Field-Tested)",
+        "price": {
+          "min": 12.53,
+          "max": 5378.43,
+          "mean": 121.12,
+          "median": 16.29,
+          "suggested": 16.85,
+          "quantity": 54,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AWP | Elite Build (Well-Worn)",
+        "price": {
+          "min": 11.84,
+          "max": 70,
+          "mean": 22.38,
+          "median": 16.28,
+          "suggested": 15.66,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AWP | Elite Build (Battle-Scarred)",
+        "price": {
+          "min": 12.1,
+          "max": 35,
+          "mean": 21.54,
+          "median": 22.94,
+          "suggested": 15.43,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AWP | Elite Build (Factory New)",
+        "price": {
+          "min": 97.88,
+          "max": 166.23,
+          "mean": 116.89,
+          "median": 108.34,
+          "suggested": 126.61,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AWP | Elite Build (Minimal Wear)",
+        "price": {
+          "min": 49.35,
+          "max": 81.93,
+          "mean": 62.14,
+          "median": 58.7,
+          "suggested": 57.34,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AWP | Elite Build (Field-Tested)",
+        "price": {
+          "min": 27.66,
+          "max": 58.35,
+          "mean": 39.91,
+          "median": 35.78,
+          "suggested": 37.43,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AWP | Elite Build (Well-Worn)",
+        "price": {
+          "min": 22.23,
+          "max": 36.33,
+          "mean": 29.08,
+          "median": 28.68,
+          "suggested": 29.08,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ AWP | Elite Build (Battle-Scarred)",
+        "price": {
+          "min": 101.4,
+          "max": 101.4,
+          "mean": 101.4,
+          "median": 101.4,
+          "suggested": 29.38,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AWP | Elite Build (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AWP | Elite Build (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AWP | Elite Build (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AWP | Elite Build (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AWP | Elite Build (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.981Z"
+}

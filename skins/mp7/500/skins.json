@@ -1,0 +1,302 @@
+{
+  "id": "skin-3994ae535237",
+  "name": "MP7 | Special Delivery",
+  "paint_index": "500",
+  "weapon": {
+    "id": "weapon_mp7",
+    "weapon_id": 33,
+    "name": "MP7",
+    "slug": "mp7"
+  },
+  "pattern": {
+    "id": "cu_mp7_classified",
+    "name": "Special Delivery"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.62,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been -REDACTED-\\n\\n<i>If I do what you want, will you let me go? - The Phoenix and The Storyteller Part 2</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 9.98,
+      "max": 259.64,
+      "mean": 29.33,
+      "median": 15.72,
+      "suggested": 13.39,
+      "quantity": 26,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.82,
+      "max": 10.26,
+      "mean": 2.81,
+      "median": 2.53,
+      "suggested": 2.49,
+      "quantity": 59,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.17,
+      "max": 39.79,
+      "mean": 2.75,
+      "median": 1.41,
+      "suggested": 1.65,
+      "quantity": 71,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 2.64,
+      "max": 51.21,
+      "mean": 9.79,
+      "median": 2.64,
+      "suggested": 1.75,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.11,
+      "max": 5.36,
+      "mean": 2.22,
+      "median": 1.44,
+      "suggested": 1.43,
+      "quantity": 23,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP7 | Special Delivery (Factory New)",
+      "price": {
+        "min": 9.98,
+        "max": 259.64,
+        "mean": 29.33,
+        "median": 15.72,
+        "suggested": 13.39,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP7 | Special Delivery (Minimal Wear)",
+      "price": {
+        "min": 1.82,
+        "max": 10.26,
+        "mean": 2.81,
+        "median": 2.53,
+        "suggested": 2.49,
+        "quantity": 59,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP7 | Special Delivery (Field-Tested)",
+      "price": {
+        "min": 1.17,
+        "max": 39.79,
+        "mean": 2.75,
+        "median": 1.41,
+        "suggested": 1.65,
+        "quantity": 71,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP7 | Special Delivery (Well-Worn)",
+      "price": {
+        "min": 2.64,
+        "max": 51.21,
+        "mean": 9.79,
+        "median": 2.64,
+        "suggested": 1.75,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP7 | Special Delivery (Battle-Scarred)",
+      "price": {
+        "min": 1.11,
+        "max": 5.36,
+        "mean": 2.22,
+        "median": 1.44,
+        "suggested": 1.43,
+        "quantity": 23,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP7 | Special Delivery (Factory New)",
+        "price": {
+          "min": 9.98,
+          "max": 259.64,
+          "mean": 29.33,
+          "median": 15.72,
+          "suggested": 13.39,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP7 | Special Delivery (Minimal Wear)",
+        "price": {
+          "min": 1.82,
+          "max": 10.26,
+          "mean": 2.81,
+          "median": 2.53,
+          "suggested": 2.49,
+          "quantity": 59,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP7 | Special Delivery (Field-Tested)",
+        "price": {
+          "min": 1.17,
+          "max": 39.79,
+          "mean": 2.75,
+          "median": 1.41,
+          "suggested": 1.65,
+          "quantity": 71,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP7 | Special Delivery (Well-Worn)",
+        "price": {
+          "min": 2.64,
+          "max": 51.21,
+          "mean": 9.79,
+          "median": 2.64,
+          "suggested": 1.75,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP7 | Special Delivery (Battle-Scarred)",
+        "price": {
+          "min": 1.11,
+          "max": 5.36,
+          "mean": 2.22,
+          "median": 1.44,
+          "suggested": 1.43,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MP7 | Special Delivery (Factory New)",
+        "price": {
+          "min": 6.93,
+          "max": 72.14,
+          "mean": 20.08,
+          "median": 9.36,
+          "suggested": 8.94,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MP7 | Special Delivery (Minimal Wear)",
+        "price": {
+          "min": 5.2,
+          "max": 235.72,
+          "mean": 25.23,
+          "median": 6.64,
+          "suggested": 5.38,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MP7 | Special Delivery (Field-Tested)",
+        "price": {
+          "min": 2.16,
+          "max": 9.34,
+          "mean": 3.24,
+          "median": 3.01,
+          "suggested": 2.64,
+          "quantity": 35,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MP7 | Special Delivery (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MP7 | Special Delivery (Battle-Scarred)",
+        "price": {
+          "min": 2.7,
+          "max": 3.62,
+          "mean": 3.02,
+          "median": 2.89,
+          "suggested": 2.62,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP7 | Special Delivery (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP7 | Special Delivery (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP7 | Special Delivery (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP7 | Special Delivery (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP7 | Special Delivery (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:43.018Z"
+}

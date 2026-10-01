@@ -1,0 +1,241 @@
+{
+  "id": "skin-ff8258cd7dac",
+  "name": "M4A4 | Converter",
+  "paint_index": "793",
+  "weapon": {
+    "id": "weapon_m4a1",
+    "weapon_id": 16,
+    "name": "M4A4",
+    "slug": "m4a1"
+  },
+  "pattern": {
+    "id": "hy_red_hex",
+    "name": "Converter"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.4,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. A red and black mesh hydrographic has been applied.\\n\\n<i>Not so harmful after all...</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.64,
+      "max": 139.92,
+      "mean": 9.52,
+      "median": 4.08,
+      "suggested": 3.07,
+      "quantity": 194,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.21,
+      "max": 25.09,
+      "mean": 2.72,
+      "median": 2.35,
+      "suggested": 1.6,
+      "quantity": 148,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.95,
+      "max": 10.25,
+      "mean": 2.33,
+      "median": 1.37,
+      "suggested": 1.11,
+      "quantity": 106,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.9,
+      "max": 81.57,
+      "mean": 14.97,
+      "median": 1.41,
+      "suggested": 1.27,
+      "quantity": 10,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A4 | Converter (Factory New)",
+      "price": {
+        "min": 2.64,
+        "max": 139.92,
+        "mean": 9.52,
+        "median": 4.08,
+        "suggested": 3.07,
+        "quantity": 194,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A4 | Converter (Minimal Wear)",
+      "price": {
+        "min": 1.21,
+        "max": 25.09,
+        "mean": 2.72,
+        "median": 2.35,
+        "suggested": 1.6,
+        "quantity": 148,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A4 | Converter (Field-Tested)",
+      "price": {
+        "min": 0.95,
+        "max": 10.25,
+        "mean": 2.33,
+        "median": 1.37,
+        "suggested": 1.11,
+        "quantity": 106,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M4A4 | Converter (Well-Worn)",
+      "price": {
+        "min": 0.9,
+        "max": 81.57,
+        "mean": 14.97,
+        "median": 1.41,
+        "suggested": 1.27,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A4 | Converter (Factory New)",
+        "price": {
+          "min": 2.64,
+          "max": 139.92,
+          "mean": 9.52,
+          "median": 4.08,
+          "suggested": 3.07,
+          "quantity": 194,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A4 | Converter (Minimal Wear)",
+        "price": {
+          "min": 1.21,
+          "max": 25.09,
+          "mean": 2.72,
+          "median": 2.35,
+          "suggested": 1.6,
+          "quantity": 148,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A4 | Converter (Field-Tested)",
+        "price": {
+          "min": 0.95,
+          "max": 10.25,
+          "mean": 2.33,
+          "median": 1.37,
+          "suggested": 1.11,
+          "quantity": 106,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M4A4 | Converter (Well-Worn)",
+        "price": {
+          "min": 0.9,
+          "max": 81.57,
+          "mean": 14.97,
+          "median": 1.41,
+          "suggested": 1.27,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A4 | Converter (Factory New)",
+        "price": {
+          "min": 9.45,
+          "max": 132.16,
+          "mean": 29.3,
+          "median": 18.59,
+          "suggested": 11.3,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A4 | Converter (Minimal Wear)",
+        "price": {
+          "min": 5.19,
+          "max": 2077.15,
+          "mean": 132.44,
+          "median": 15.11,
+          "suggested": 5.98,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A4 | Converter (Field-Tested)",
+        "price": {
+          "min": 3.8,
+          "max": 55.11,
+          "mean": 20.53,
+          "median": 18.1,
+          "suggested": 4.27,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M4A4 | Converter (Well-Worn)",
+        "price": {
+          "min": 8.64,
+          "max": 8.64,
+          "mean": 8.64,
+          "median": 8.64,
+          "suggested": 11.07,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:40.522Z"
+}

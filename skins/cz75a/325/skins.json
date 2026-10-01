@@ -1,0 +1,121 @@
+{
+  "id": "skin-eb5c3a076134",
+  "name": "CZ75-Auto | Chalice",
+  "paint_index": "325",
+  "weapon": {
+    "id": "weapon_cz75a",
+    "weapon_id": 63,
+    "name": "CZ75-Auto",
+    "slug": "cz75a"
+  },
+  "pattern": {
+    "id": "am_royal",
+    "name": "Chalice"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fully automatic variant of the CZ75, the CZ75-Auto is the ideal short-term choice for turning the tables and gaining your opponents weapon. But with very little ammo in the magazine, strong trigger discipline is required. It has been painted with a chrome base coat and candied in transparent royal blue and amber anodized effect paint.\\n\\n<i>You chose wisely</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 373.42,
+      "max": 1166.94,
+      "mean": 634.58,
+      "median": 467.88,
+      "suggested": 435.79,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "mw": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "CZ75-Auto | Chalice (Factory New)",
+      "price": {
+        "min": 373.42,
+        "max": 1166.94,
+        "mean": 634.58,
+        "median": 467.88,
+        "suggested": 435.79,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "CZ75-Auto | Chalice (Minimal Wear)",
+      "price": null,
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "CZ75-Auto | Chalice (Factory New)",
+        "price": {
+          "min": 373.42,
+          "max": 1166.94,
+          "mean": 634.58,
+          "median": 467.88,
+          "suggested": 435.79,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "CZ75-Auto | Chalice (Minimal Wear)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir CZ75-Auto | Chalice (Factory New)",
+        "price": {
+          "min": 291.73,
+          "max": 1050.24,
+          "mean": 530.87,
+          "median": 429.36,
+          "suggested": 371.33,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir CZ75-Auto | Chalice (Minimal Wear)",
+        "price": {
+          "min": 582.51,
+          "max": 582.51,
+          "mean": 582.51,
+          "median": 582.51,
+          "suggested": 156.39,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:27.504Z"
+}

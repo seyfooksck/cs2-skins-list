@@ -1,0 +1,289 @@
+{
+  "id": "skin-791e6727b6a9",
+  "name": "Nova | Wurst Hölle",
+  "paint_index": "145",
+  "weapon": {
+    "id": "weapon_nova",
+    "weapon_id": 35,
+    "name": "Nova",
+    "slug": "nova"
+  },
+  "pattern": {
+    "id": "cu_overpass_wurst_nova",
+    "name": "Wurst Hölle"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Nova's rock-bottom price tag makes it a great ambush weapon for a cash-strapped team. It has been custom painted using sausages from Wurst Hölle, the biergarten on Overpass.\\n\\n<i>Look no further, you've found the missing link</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.6,
+      "max": 253.81,
+      "mean": 15.93,
+      "median": 11.38,
+      "suggested": 3.61,
+      "quantity": 144,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.69,
+      "max": 79.94,
+      "mean": 5.46,
+      "median": 2.01,
+      "suggested": 0.81,
+      "quantity": 111,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.32,
+      "max": 27.42,
+      "mean": 2.95,
+      "median": 0.76,
+      "suggested": 0.39,
+      "quantity": 208,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.23,
+      "max": 18.67,
+      "mean": 2.8,
+      "median": 0.32,
+      "suggested": 0.32,
+      "quantity": 101,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.2,
+      "max": 18.67,
+      "mean": 1.4,
+      "median": 0.39,
+      "suggested": 0.28,
+      "quantity": 85,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Nova | Wurst Hölle (Factory New)",
+      "price": {
+        "min": 2.6,
+        "max": 253.81,
+        "mean": 15.93,
+        "median": 11.38,
+        "suggested": 3.61,
+        "quantity": 144,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Nova | Wurst Hölle (Minimal Wear)",
+      "price": {
+        "min": 0.69,
+        "max": 79.94,
+        "mean": 5.46,
+        "median": 2.01,
+        "suggested": 0.81,
+        "quantity": 111,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Nova | Wurst Hölle (Field-Tested)",
+      "price": {
+        "min": 0.32,
+        "max": 27.42,
+        "mean": 2.95,
+        "median": 0.76,
+        "suggested": 0.39,
+        "quantity": 208,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Nova | Wurst Hölle (Well-Worn)",
+      "price": {
+        "min": 0.23,
+        "max": 18.67,
+        "mean": 2.8,
+        "median": 0.32,
+        "suggested": 0.32,
+        "quantity": 101,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Nova | Wurst Hölle (Battle-Scarred)",
+      "price": {
+        "min": 0.2,
+        "max": 18.67,
+        "mean": 1.4,
+        "median": 0.39,
+        "suggested": 0.28,
+        "quantity": 85,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Nova | Wurst Hölle (Factory New)",
+        "price": {
+          "min": 2.6,
+          "max": 253.81,
+          "mean": 15.93,
+          "median": 11.38,
+          "suggested": 3.61,
+          "quantity": 144,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Nova | Wurst Hölle (Minimal Wear)",
+        "price": {
+          "min": 0.69,
+          "max": 79.94,
+          "mean": 5.46,
+          "median": 2.01,
+          "suggested": 0.81,
+          "quantity": 111,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Nova | Wurst Hölle (Field-Tested)",
+        "price": {
+          "min": 0.32,
+          "max": 27.42,
+          "mean": 2.95,
+          "median": 0.76,
+          "suggested": 0.39,
+          "quantity": 208,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Nova | Wurst Hölle (Well-Worn)",
+        "price": {
+          "min": 0.23,
+          "max": 18.67,
+          "mean": 2.8,
+          "median": 0.32,
+          "suggested": 0.32,
+          "quantity": 101,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Nova | Wurst Hölle (Battle-Scarred)",
+        "price": {
+          "min": 0.2,
+          "max": 18.67,
+          "mean": 1.4,
+          "median": 0.39,
+          "suggested": 0.28,
+          "quantity": 85,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Nova | Wurst Hölle (Factory New)",
+        "price": {
+          "min": 5.09,
+          "max": 79.9,
+          "mean": 21.33,
+          "median": 6.29,
+          "suggested": 5.93,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Nova | Wurst Hölle (Minimal Wear)",
+        "price": {
+          "min": 0.98,
+          "max": 12.84,
+          "mean": 4.15,
+          "median": 2.16,
+          "suggested": 1.14,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Nova | Wurst Hölle (Field-Tested)",
+        "price": {
+          "min": 0.55,
+          "max": 1.86,
+          "mean": 0.86,
+          "median": 0.68,
+          "suggested": 0.65,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Nova | Wurst Hölle (Well-Worn)",
+        "price": {
+          "min": 0.3,
+          "max": 11.67,
+          "mean": 2.18,
+          "median": 0.56,
+          "suggested": 0.37,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Nova | Wurst Hölle (Battle-Scarred)",
+        "price": {
+          "min": 0.26,
+          "max": 1.34,
+          "mean": 1.05,
+          "median": 1.27,
+          "suggested": 0.35,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.528Z"
+}

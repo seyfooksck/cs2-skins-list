@@ -1,0 +1,129 @@
+{
+  "id": "skin-ee40f2adf026",
+  "name": "MAC-10 | Fade",
+  "paint_index": "38",
+  "weapon": {
+    "id": "weapon_mac10",
+    "weapon_id": 17,
+    "name": "MAC-10",
+    "slug": "mac10"
+  },
+  "pattern": {
+    "id": "aa_fade",
+    "name": "Fade"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been painted by airbrushing transparent paints that fade together over a chrome base coat.\\n\\n<i>This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 58.92,
+      "max": 727.98,
+      "mean": 116.44,
+      "median": 95.13,
+      "suggested": 72.62,
+      "quantity": 144,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 91.02,
+      "max": 100.8,
+      "mean": 95.42,
+      "median": 94.43,
+      "suggested": 97.34,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAC-10 | Fade (Factory New)",
+      "price": {
+        "min": 58.92,
+        "max": 727.98,
+        "mean": 116.44,
+        "median": 95.13,
+        "suggested": 72.62,
+        "quantity": 144,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAC-10 | Fade (Minimal Wear)",
+      "price": {
+        "min": 91.02,
+        "max": 100.8,
+        "mean": 95.42,
+        "median": 94.43,
+        "suggested": 97.34,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAC-10 | Fade (Factory New)",
+        "price": {
+          "min": 58.92,
+          "max": 727.98,
+          "mean": 116.44,
+          "median": 95.13,
+          "suggested": 72.62,
+          "quantity": 144,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAC-10 | Fade (Minimal Wear)",
+        "price": {
+          "min": 91.02,
+          "max": 100.8,
+          "mean": 95.42,
+          "median": 94.43,
+          "suggested": 97.34,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAC-10 | Fade (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAC-10 | Fade (Minimal Wear)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.383Z"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "skin-d2ff95e10b1f",
+  "name": "USP-S | Blueprint",
+  "paint_index": "657",
+  "weapon": {
+    "id": "weapon_usp_silencer",
+    "weapon_id": 61,
+    "name": "USP-S",
+    "slug": "usp_silencer"
+  },
+  "pattern": {
+    "id": "cu_usps_blueprint",
+    "name": "Blueprint"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.86,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise. It has been hand painted using a blue theme to resemble an architect's blueprint.\\n\\n<i>Sometimes the best-laid plans go awry</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 123.96,
+      "max": 454.1,
+      "mean": 199.76,
+      "median": 209.71,
+      "suggested": 176.26,
+      "quantity": 29,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 19.83,
+      "max": 223.27,
+      "mean": 39.3,
+      "median": 30.19,
+      "suggested": 30.22,
+      "quantity": 77,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 6.13,
+      "max": 128.35,
+      "mean": 13.56,
+      "median": 9.43,
+      "suggested": 7.51,
+      "quantity": 90,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 4.9,
+      "max": 12.29,
+      "mean": 7.73,
+      "median": 6.58,
+      "suggested": 5.62,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 3.65,
+      "max": 83.77,
+      "mean": 13.45,
+      "median": 5.52,
+      "suggested": 4.13,
+      "quantity": 18,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "USP-S | Blueprint (Factory New)",
+      "price": {
+        "min": 123.96,
+        "max": 454.1,
+        "mean": 199.76,
+        "median": 209.71,
+        "suggested": 176.26,
+        "quantity": 29,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "USP-S | Blueprint (Minimal Wear)",
+      "price": {
+        "min": 19.83,
+        "max": 223.27,
+        "mean": 39.3,
+        "median": 30.19,
+        "suggested": 30.22,
+        "quantity": 77,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "USP-S | Blueprint (Field-Tested)",
+      "price": {
+        "min": 6.13,
+        "max": 128.35,
+        "mean": 13.56,
+        "median": 9.43,
+        "suggested": 7.51,
+        "quantity": 90,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "USP-S | Blueprint (Well-Worn)",
+      "price": {
+        "min": 4.9,
+        "max": 12.29,
+        "mean": 7.73,
+        "median": 6.58,
+        "suggested": 5.62,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "USP-S | Blueprint (Battle-Scarred)",
+      "price": {
+        "min": 3.65,
+        "max": 83.77,
+        "mean": 13.45,
+        "median": 5.52,
+        "suggested": 4.13,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "USP-S | Blueprint (Factory New)",
+        "price": {
+          "min": 123.96,
+          "max": 454.1,
+          "mean": 199.76,
+          "median": 209.71,
+          "suggested": 176.26,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "USP-S | Blueprint (Minimal Wear)",
+        "price": {
+          "min": 19.83,
+          "max": 223.27,
+          "mean": 39.3,
+          "median": 30.19,
+          "suggested": 30.22,
+          "quantity": 77,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "USP-S | Blueprint (Field-Tested)",
+        "price": {
+          "min": 6.13,
+          "max": 128.35,
+          "mean": 13.56,
+          "median": 9.43,
+          "suggested": 7.51,
+          "quantity": 90,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "USP-S | Blueprint (Well-Worn)",
+        "price": {
+          "min": 4.9,
+          "max": 12.29,
+          "mean": 7.73,
+          "median": 6.58,
+          "suggested": 5.62,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "USP-S | Blueprint (Battle-Scarred)",
+        "price": {
+          "min": 3.65,
+          "max": 83.77,
+          "mean": 13.45,
+          "median": 5.52,
+          "suggested": 4.13,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ USP-S | Blueprint (Factory New)",
+        "price": {
+          "min": 128.85,
+          "max": 303.05,
+          "mean": 201.95,
+          "median": 193.26,
+          "suggested": 140.26,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ USP-S | Blueprint (Minimal Wear)",
+        "price": {
+          "min": 31.32,
+          "max": 116.68,
+          "mean": 56.89,
+          "median": 56.78,
+          "suggested": 37.05,
+          "quantity": 44,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ USP-S | Blueprint (Field-Tested)",
+        "price": {
+          "min": 10.71,
+          "max": 44.76,
+          "mean": 18.25,
+          "median": 14.32,
+          "suggested": 12.1,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ USP-S | Blueprint (Well-Worn)",
+        "price": {
+          "min": 11.54,
+          "max": 29.17,
+          "mean": 16.05,
+          "median": 15.38,
+          "suggested": 10.69,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ USP-S | Blueprint (Battle-Scarred)",
+        "price": {
+          "min": 10.14,
+          "max": 23.34,
+          "mean": 13.12,
+          "median": 11.75,
+          "suggested": 12.29,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir USP-S | Blueprint (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir USP-S | Blueprint (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir USP-S | Blueprint (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir USP-S | Blueprint (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir USP-S | Blueprint (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:50.619Z"
+}

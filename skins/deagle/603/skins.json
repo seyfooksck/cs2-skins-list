@@ -1,0 +1,310 @@
+{
+  "id": "skin-02e5c0a4a714",
+  "name": "Desert Eagle | Directive",
+  "paint_index": "603",
+  "weapon": {
+    "id": "weapon_deagle",
+    "weapon_id": 1,
+    "name": "Desert Eagle",
+    "slug": "deagle"
+  },
+  "pattern": {
+    "id": "aq_desert_eagle_constable",
+    "name": "Directive"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0.06,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. It has been designed to help the future of law enforcement stop creeps.\\n\\n<i>Your move...</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 86.35,
+      "max": 342.65,
+      "mean": 168.84,
+      "median": 128.91,
+      "suggested": 108.71,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 7.92,
+      "max": 81.69,
+      "mean": 16.61,
+      "median": 16.23,
+      "suggested": 9.24,
+      "quantity": 49,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.21,
+      "max": 24.39,
+      "mean": 2.02,
+      "median": 1.42,
+      "suggested": 1.57,
+      "quantity": 172,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.17,
+      "max": 8.05,
+      "mean": 1.94,
+      "median": 1.41,
+      "suggested": 1.37,
+      "quantity": 38,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.99,
+      "max": 30.71,
+      "mean": 2.7,
+      "median": 1.17,
+      "suggested": 1.26,
+      "quantity": 53,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Desert Eagle | Directive (Factory New)",
+      "price": {
+        "min": 86.35,
+        "max": 342.65,
+        "mean": 168.84,
+        "median": 128.91,
+        "suggested": 108.71,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Desert Eagle | Directive (Minimal Wear)",
+      "price": {
+        "min": 7.92,
+        "max": 81.69,
+        "mean": 16.61,
+        "median": 16.23,
+        "suggested": 9.24,
+        "quantity": 49,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Desert Eagle | Directive (Field-Tested)",
+      "price": {
+        "min": 1.21,
+        "max": 24.39,
+        "mean": 2.02,
+        "median": 1.42,
+        "suggested": 1.57,
+        "quantity": 172,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Desert Eagle | Directive (Well-Worn)",
+      "price": {
+        "min": 1.17,
+        "max": 8.05,
+        "mean": 1.94,
+        "median": 1.41,
+        "suggested": 1.37,
+        "quantity": 38,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Desert Eagle | Directive (Battle-Scarred)",
+      "price": {
+        "min": 0.99,
+        "max": 30.71,
+        "mean": 2.7,
+        "median": 1.17,
+        "suggested": 1.26,
+        "quantity": 53,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Desert Eagle | Directive (Factory New)",
+        "price": {
+          "min": 86.35,
+          "max": 342.65,
+          "mean": 168.84,
+          "median": 128.91,
+          "suggested": 108.71,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Desert Eagle | Directive (Minimal Wear)",
+        "price": {
+          "min": 7.92,
+          "max": 81.69,
+          "mean": 16.61,
+          "median": 16.23,
+          "suggested": 9.24,
+          "quantity": 49,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Desert Eagle | Directive (Field-Tested)",
+        "price": {
+          "min": 1.21,
+          "max": 24.39,
+          "mean": 2.02,
+          "median": 1.42,
+          "suggested": 1.57,
+          "quantity": 172,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Desert Eagle | Directive (Well-Worn)",
+        "price": {
+          "min": 1.17,
+          "max": 8.05,
+          "mean": 1.94,
+          "median": 1.41,
+          "suggested": 1.37,
+          "quantity": 38,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Desert Eagle | Directive (Battle-Scarred)",
+        "price": {
+          "min": 0.99,
+          "max": 30.71,
+          "mean": 2.7,
+          "median": 1.17,
+          "suggested": 1.26,
+          "quantity": 53,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Directive (Factory New)",
+        "price": {
+          "min": 69.96,
+          "max": 252.48,
+          "mean": 118.88,
+          "median": 101.22,
+          "suggested": 60.77,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Directive (Minimal Wear)",
+        "price": {
+          "min": 8.8,
+          "max": 27.78,
+          "mean": 15.03,
+          "median": 14.7,
+          "suggested": 9.99,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Directive (Field-Tested)",
+        "price": {
+          "min": 2.28,
+          "max": 46.68,
+          "mean": 6.13,
+          "median": 3.31,
+          "suggested": 2.68,
+          "quantity": 76,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Directive (Well-Worn)",
+        "price": {
+          "min": 1.58,
+          "max": 52.51,
+          "mean": 4.38,
+          "median": 2.32,
+          "suggested": 2.02,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Directive (Battle-Scarred)",
+        "price": {
+          "min": 1.6,
+          "max": 38.85,
+          "mean": 4.7,
+          "median": 2.12,
+          "suggested": 1.93,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Desert Eagle | Directive (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Desert Eagle | Directive (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Desert Eagle | Directive (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Desert Eagle | Directive (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Desert Eagle | Directive (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:28.150Z"
+}

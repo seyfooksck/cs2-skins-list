@@ -1,0 +1,289 @@
+{
+  "id": "skin-a2c7bfcb6607",
+  "name": "USP-S | Check Engine",
+  "paint_index": "796",
+  "weapon": {
+    "id": "weapon_usp_silencer",
+    "weapon_id": 61,
+    "name": "USP-S",
+    "slug": "usp_silencer"
+  },
+  "pattern": {
+    "id": "sp_mesh_safetyred",
+    "name": "Check Engine"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise. It has been spray painted with a red mesh pattern.\\n\\n<i>\\\"You should have that looked at…\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.91,
+      "max": 431.77,
+      "mean": 11.59,
+      "median": 4.43,
+      "suggested": 3.61,
+      "quantity": 131,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.38,
+      "max": 29.06,
+      "mean": 4.41,
+      "median": 2.01,
+      "suggested": 1.6,
+      "quantity": 99,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.69,
+      "max": 13.99,
+      "mean": 1.33,
+      "median": 1.12,
+      "suggested": 1.05,
+      "quantity": 471,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.03,
+      "max": 13.05,
+      "mean": 2.81,
+      "median": 1.28,
+      "suggested": 0.96,
+      "quantity": 16,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.7,
+      "max": 8.15,
+      "mean": 1.28,
+      "median": 0.99,
+      "suggested": 0.85,
+      "quantity": 27,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "USP-S | Check Engine (Factory New)",
+      "price": {
+        "min": 2.91,
+        "max": 431.77,
+        "mean": 11.59,
+        "median": 4.43,
+        "suggested": 3.61,
+        "quantity": 131,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "USP-S | Check Engine (Minimal Wear)",
+      "price": {
+        "min": 1.38,
+        "max": 29.06,
+        "mean": 4.41,
+        "median": 2.01,
+        "suggested": 1.6,
+        "quantity": 99,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "USP-S | Check Engine (Field-Tested)",
+      "price": {
+        "min": 0.69,
+        "max": 13.99,
+        "mean": 1.33,
+        "median": 1.12,
+        "suggested": 1.05,
+        "quantity": 471,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "USP-S | Check Engine (Well-Worn)",
+      "price": {
+        "min": 1.03,
+        "max": 13.05,
+        "mean": 2.81,
+        "median": 1.28,
+        "suggested": 0.96,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "USP-S | Check Engine (Battle-Scarred)",
+      "price": {
+        "min": 0.7,
+        "max": 8.15,
+        "mean": 1.28,
+        "median": 0.99,
+        "suggested": 0.85,
+        "quantity": 27,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "USP-S | Check Engine (Factory New)",
+        "price": {
+          "min": 2.91,
+          "max": 431.77,
+          "mean": 11.59,
+          "median": 4.43,
+          "suggested": 3.61,
+          "quantity": 131,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "USP-S | Check Engine (Minimal Wear)",
+        "price": {
+          "min": 1.38,
+          "max": 29.06,
+          "mean": 4.41,
+          "median": 2.01,
+          "suggested": 1.6,
+          "quantity": 99,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "USP-S | Check Engine (Field-Tested)",
+        "price": {
+          "min": 0.69,
+          "max": 13.99,
+          "mean": 1.33,
+          "median": 1.12,
+          "suggested": 1.05,
+          "quantity": 471,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "USP-S | Check Engine (Well-Worn)",
+        "price": {
+          "min": 1.03,
+          "max": 13.05,
+          "mean": 2.81,
+          "median": 1.28,
+          "suggested": 0.96,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "USP-S | Check Engine (Battle-Scarred)",
+        "price": {
+          "min": 0.7,
+          "max": 8.15,
+          "mean": 1.28,
+          "median": 0.99,
+          "suggested": 0.85,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir USP-S | Check Engine (Factory New)",
+        "price": {
+          "min": 10.19,
+          "max": 120.19,
+          "mean": 21.33,
+          "median": 15.52,
+          "suggested": 11.72,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir USP-S | Check Engine (Minimal Wear)",
+        "price": {
+          "min": 5.53,
+          "max": 291.73,
+          "mean": 29.87,
+          "median": 17.5,
+          "suggested": 6.15,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir USP-S | Check Engine (Field-Tested)",
+        "price": {
+          "min": 4.45,
+          "max": 131.81,
+          "mean": 12.93,
+          "median": 8.55,
+          "suggested": 5.71,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir USP-S | Check Engine (Well-Worn)",
+        "price": {
+          "min": 4.57,
+          "max": 5.19,
+          "mean": 4.89,
+          "median": 4.89,
+          "suggested": 5.17,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir USP-S | Check Engine (Battle-Scarred)",
+        "price": {
+          "min": 4.52,
+          "max": 21,
+          "mean": 8.8,
+          "median": 4.84,
+          "suggested": 4.83,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:50.882Z"
+}

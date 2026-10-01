@@ -1,0 +1,154 @@
+{
+  "id": "skin-706c54974c2f",
+  "name": "Desert Eagle | Golden Koi",
+  "paint_index": "185",
+  "weapon": {
+    "id": "weapon_deagle",
+    "weapon_id": 1,
+    "name": "Desert Eagle",
+    "slug": "deagle"
+  },
+  "pattern": {
+    "id": "am_scales_bravo",
+    "name": "Golden Koi"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.12,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. This memento from Chinatown has been covered in a metallic foil with a scale pattern.\\n\\n<i>A loud gun in every sense of the word</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 291.73,
+      "max": 1165.77,
+      "mean": 474.73,
+      "median": 428.85,
+      "suggested": 382.45,
+      "quantity": 40,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 234.55,
+      "max": 260.87,
+      "mean": 249.77,
+      "median": 253.88,
+      "suggested": 275.94,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Desert Eagle | Golden Koi (Factory New)",
+      "price": {
+        "min": 291.73,
+        "max": 1165.77,
+        "mean": 474.73,
+        "median": 428.85,
+        "suggested": 382.45,
+        "quantity": 40,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Desert Eagle | Golden Koi (Minimal Wear)",
+      "price": {
+        "min": 234.55,
+        "max": 260.87,
+        "mean": 249.77,
+        "median": 253.88,
+        "suggested": 275.94,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Desert Eagle | Golden Koi (Factory New)",
+        "price": {
+          "min": 291.73,
+          "max": 1165.77,
+          "mean": 474.73,
+          "median": 428.85,
+          "suggested": 382.45,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Desert Eagle | Golden Koi (Minimal Wear)",
+        "price": {
+          "min": 234.55,
+          "max": 260.87,
+          "mean": 249.77,
+          "median": 253.88,
+          "suggested": 275.94,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Golden Koi (Factory New)",
+        "price": {
+          "min": 395.07,
+          "max": 641.82,
+          "mean": 454.27,
+          "median": 417.44,
+          "suggested": 469.44,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Golden Koi (Minimal Wear)",
+        "price": {
+          "min": 326.87,
+          "max": 343.14,
+          "mean": 335,
+          "median": 335,
+          "suggested": 388.48,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Desert Eagle | Golden Koi (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Desert Eagle | Golden Koi (Minimal Wear)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:28.054Z"
+}

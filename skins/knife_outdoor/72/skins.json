@@ -1,0 +1,217 @@
+{
+  "id": "skin-b3faa3a53934",
+  "name": "★ Nomad Knife | Safari Mesh",
+  "paint_index": "72",
+  "weapon": {
+    "id": "weapon_knife_outdoor",
+    "weapon_id": 521,
+    "name": "Nomad Knife",
+    "slug": "knife_outdoor"
+  },
+  "pattern": {
+    "id": "sp_mesh_tan",
+    "name": "Safari Mesh"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This ergonomic tactical hunting lock-blade knife features composite handle inserts and a broad, sturdy blade, useful for cutting and prying apart material. It has been spray-painted using mesh fencing and cardboard cutouts as stencils.\\n\\n<i>A predator is a predator, no matter the environment</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 442.33,
+      "max": 442.33,
+      "mean": 442.33,
+      "median": 442.33,
+      "suggested": 150.05,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "mw": null,
+    "ft": {
+      "min": 82.85,
+      "max": 114.63,
+      "mean": 96.68,
+      "median": 94.52,
+      "suggested": 98.75,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 93.34,
+      "max": 93.34,
+      "mean": 93.34,
+      "median": 93.34,
+      "suggested": 95.06,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Nomad Knife | Safari Mesh (Factory New)",
+      "price": {
+        "min": 442.33,
+        "max": 442.33,
+        "mean": 442.33,
+        "median": 442.33,
+        "suggested": 150.05,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Nomad Knife | Safari Mesh (Minimal Wear)",
+      "price": null,
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Nomad Knife | Safari Mesh (Field-Tested)",
+      "price": {
+        "min": 82.85,
+        "max": 114.63,
+        "mean": 96.68,
+        "median": 94.52,
+        "suggested": 98.75,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Nomad Knife | Safari Mesh (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Nomad Knife | Safari Mesh (Battle-Scarred)",
+      "price": {
+        "min": 93.34,
+        "max": 93.34,
+        "mean": 93.34,
+        "median": 93.34,
+        "suggested": 95.06,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Nomad Knife | Safari Mesh (Factory New)",
+        "price": {
+          "min": 442.33,
+          "max": 442.33,
+          "mean": 442.33,
+          "median": 442.33,
+          "suggested": 150.05,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Nomad Knife | Safari Mesh (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ Nomad Knife | Safari Mesh (Field-Tested)",
+        "price": {
+          "min": 82.85,
+          "max": 114.63,
+          "mean": 96.68,
+          "median": 94.52,
+          "suggested": 98.75,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Nomad Knife | Safari Mesh (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ Nomad Knife | Safari Mesh (Battle-Scarred)",
+        "price": {
+          "min": 93.34,
+          "max": 93.34,
+          "mean": 93.34,
+          "median": 93.34,
+          "suggested": 95.06,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Nomad Knife | Safari Mesh (Factory New)",
+        "price": {
+          "min": 393.04,
+          "max": 393.04,
+          "mean": 393.04,
+          "median": 393.04,
+          "suggested": 608.38,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Nomad Knife | Safari Mesh (Minimal Wear)",
+        "price": {
+          "min": 105.36,
+          "max": 105.36,
+          "mean": 105.36,
+          "median": 105.36,
+          "suggested": 105.53,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Nomad Knife | Safari Mesh (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Nomad Knife | Safari Mesh (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Nomad Knife | Safari Mesh (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:37.097Z"
+}

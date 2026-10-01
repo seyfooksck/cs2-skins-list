@@ -1,0 +1,201 @@
+{
+  "id": "skin-5b9bb3d791e6",
+  "name": "FAMAS | Sundown",
+  "paint_index": "869",
+  "weapon": {
+    "id": "weapon_famas",
+    "weapon_id": 10,
+    "name": "FAMAS",
+    "slug": "famas"
+  },
+  "pattern": {
+    "id": "sp_palm_sunset",
+    "name": "Sundown"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. Purple palm fronds have been spray-painted over a blue and pink camo.\\n\\n<i>A E S T H E T I C</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 128.35,
+      "max": 160.23,
+      "mean": 143.98,
+      "median": 145.79,
+      "suggested": 160.45,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 197.21,
+      "max": 197.21,
+      "mean": 197.21,
+      "median": 197.21,
+      "suggested": 106.34,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 74.52,
+      "max": 138.53,
+      "mean": 87.07,
+      "median": 77.43,
+      "suggested": 88.35,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "FAMAS | Sundown (Factory New)",
+      "price": {
+        "min": 128.35,
+        "max": 160.23,
+        "mean": 143.98,
+        "median": 145.79,
+        "suggested": 160.45,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "FAMAS | Sundown (Minimal Wear)",
+      "price": {
+        "min": 197.21,
+        "max": 197.21,
+        "mean": 197.21,
+        "median": 197.21,
+        "suggested": 106.34,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "FAMAS | Sundown (Field-Tested)",
+      "price": {
+        "min": 74.52,
+        "max": 138.53,
+        "mean": 87.07,
+        "median": 77.43,
+        "suggested": 88.35,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "FAMAS | Sundown (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "FAMAS | Sundown (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "FAMAS | Sundown (Factory New)",
+        "price": {
+          "min": 128.35,
+          "max": 160.23,
+          "mean": 143.98,
+          "median": 145.79,
+          "suggested": 160.45,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "FAMAS | Sundown (Minimal Wear)",
+        "price": {
+          "min": 197.21,
+          "max": 197.21,
+          "mean": 197.21,
+          "median": 197.21,
+          "suggested": 106.34,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "FAMAS | Sundown (Field-Tested)",
+        "price": {
+          "min": 74.52,
+          "max": 138.53,
+          "mean": 87.07,
+          "median": 77.43,
+          "suggested": 88.35,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "FAMAS | Sundown (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "FAMAS | Sundown (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir FAMAS | Sundown (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir FAMAS | Sundown (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir FAMAS | Sundown (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir FAMAS | Sundown (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir FAMAS | Sundown (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:29.819Z"
+}

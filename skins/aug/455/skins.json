@@ -1,0 +1,201 @@
+{
+  "id": "skin-6f4ba747e1a4",
+  "name": "AUG | Akihabara Accept",
+  "paint_index": "455",
+  "weapon": {
+    "id": "weapon_aug",
+    "weapon_id": 8,
+    "name": "AUG",
+    "slug": "aug"
+  },
+  "pattern": {
+    "id": "cu_anime_aug",
+    "name": "Akihabara Accept"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire. It has been decorated with a heat transfer vinyl of an anime magazine cover.\\n\\n<i>Yatta!</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 3849.73,
+      "max": 3849.73,
+      "mean": 3849.73,
+      "median": 3849.73,
+      "suggested": 3953.92,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1275.24,
+      "max": 1458.67,
+      "mean": 1366.96,
+      "median": 1366.96,
+      "suggested": 1151.15,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 591.52,
+      "max": 2333.87,
+      "mean": 1297.76,
+      "median": 1166.94,
+      "suggested": 573.97,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AUG | Akihabara Accept (Factory New)",
+      "price": {
+        "min": 3849.73,
+        "max": 3849.73,
+        "mean": 3849.73,
+        "median": 3849.73,
+        "suggested": 3953.92,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AUG | Akihabara Accept (Minimal Wear)",
+      "price": {
+        "min": 1275.24,
+        "max": 1458.67,
+        "mean": 1366.96,
+        "median": 1366.96,
+        "suggested": 1151.15,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AUG | Akihabara Accept (Field-Tested)",
+      "price": {
+        "min": 591.52,
+        "max": 2333.87,
+        "mean": 1297.76,
+        "median": 1166.94,
+        "suggested": 573.97,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AUG | Akihabara Accept (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AUG | Akihabara Accept (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AUG | Akihabara Accept (Factory New)",
+        "price": {
+          "min": 3849.73,
+          "max": 3849.73,
+          "mean": 3849.73,
+          "median": 3849.73,
+          "suggested": 3953.92,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AUG | Akihabara Accept (Minimal Wear)",
+        "price": {
+          "min": 1275.24,
+          "max": 1458.67,
+          "mean": 1366.96,
+          "median": 1366.96,
+          "suggested": 1151.15,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AUG | Akihabara Accept (Field-Tested)",
+        "price": {
+          "min": 591.52,
+          "max": 2333.87,
+          "mean": 1297.76,
+          "median": 1166.94,
+          "suggested": 573.97,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AUG | Akihabara Accept (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "AUG | Akihabara Accept (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AUG | Akihabara Accept (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AUG | Akihabara Accept (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AUG | Akihabara Accept (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AUG | Akihabara Accept (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AUG | Akihabara Accept (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.343Z"
+}

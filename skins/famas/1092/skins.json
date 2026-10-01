@@ -1,0 +1,310 @@
+{
+  "id": "skin-3a2e0cdd5472",
+  "name": "FAMAS | ZX Spectron",
+  "paint_index": "1092",
+  "weapon": {
+    "id": "weapon_famas",
+    "weapon_id": 10,
+    "name": "FAMAS",
+    "slug": "famas"
+  },
+  "pattern": {
+    "id": "cu_famas_spectron",
+    "name": "ZX Spectron"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. This custom paint job uses gaming PCs of old as inspiration. Its black base has been finished with multicolored accents.\\n\\n<i>Clive would be proud</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 40.97,
+      "max": 196.05,
+      "mean": 79.91,
+      "median": 73,
+      "suggested": 66.49,
+      "quantity": 31,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 6.88,
+      "max": 44.53,
+      "mean": 12.26,
+      "median": 8.33,
+      "suggested": 9.19,
+      "quantity": 51,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 4.24,
+      "max": 128.35,
+      "mean": 13.84,
+      "median": 8.81,
+      "suggested": 4.49,
+      "quantity": 35,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 3.09,
+      "max": 8.75,
+      "mean": 4.04,
+      "median": 3.8,
+      "suggested": 3.6,
+      "quantity": 25,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 3.1,
+      "max": 148.78,
+      "mean": 12.01,
+      "median": 4.05,
+      "suggested": 3.31,
+      "quantity": 23,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "FAMAS | ZX Spectron (Factory New)",
+      "price": {
+        "min": 40.97,
+        "max": 196.05,
+        "mean": 79.91,
+        "median": 73,
+        "suggested": 66.49,
+        "quantity": 31,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "FAMAS | ZX Spectron (Minimal Wear)",
+      "price": {
+        "min": 6.88,
+        "max": 44.53,
+        "mean": 12.26,
+        "median": 8.33,
+        "suggested": 9.19,
+        "quantity": 51,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "FAMAS | ZX Spectron (Field-Tested)",
+      "price": {
+        "min": 4.24,
+        "max": 128.35,
+        "mean": 13.84,
+        "median": 8.81,
+        "suggested": 4.49,
+        "quantity": 35,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "FAMAS | ZX Spectron (Well-Worn)",
+      "price": {
+        "min": 3.09,
+        "max": 8.75,
+        "mean": 4.04,
+        "median": 3.8,
+        "suggested": 3.6,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "FAMAS | ZX Spectron (Battle-Scarred)",
+      "price": {
+        "min": 3.1,
+        "max": 148.78,
+        "mean": 12.01,
+        "median": 4.05,
+        "suggested": 3.31,
+        "quantity": 23,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "FAMAS | ZX Spectron (Factory New)",
+        "price": {
+          "min": 40.97,
+          "max": 196.05,
+          "mean": 79.91,
+          "median": 73,
+          "suggested": 66.49,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "FAMAS | ZX Spectron (Minimal Wear)",
+        "price": {
+          "min": 6.88,
+          "max": 44.53,
+          "mean": 12.26,
+          "median": 8.33,
+          "suggested": 9.19,
+          "quantity": 51,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "FAMAS | ZX Spectron (Field-Tested)",
+        "price": {
+          "min": 4.24,
+          "max": 128.35,
+          "mean": 13.84,
+          "median": 8.81,
+          "suggested": 4.49,
+          "quantity": 35,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "FAMAS | ZX Spectron (Well-Worn)",
+        "price": {
+          "min": 3.09,
+          "max": 8.75,
+          "mean": 4.04,
+          "median": 3.8,
+          "suggested": 3.6,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "FAMAS | ZX Spectron (Battle-Scarred)",
+        "price": {
+          "min": 3.1,
+          "max": 148.78,
+          "mean": 12.01,
+          "median": 4.05,
+          "suggested": 3.31,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ FAMAS | ZX Spectron (Factory New)",
+        "price": {
+          "min": 33.08,
+          "max": 175.04,
+          "mean": 53.48,
+          "median": 37.4,
+          "suggested": 39.83,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ FAMAS | ZX Spectron (Minimal Wear)",
+        "price": {
+          "min": 13.21,
+          "max": 40.38,
+          "mean": 23.61,
+          "median": 22.21,
+          "suggested": 15.73,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ FAMAS | ZX Spectron (Field-Tested)",
+        "price": {
+          "min": 7.64,
+          "max": 58.74,
+          "mean": 18.1,
+          "median": 11.98,
+          "suggested": 8.78,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ FAMAS | ZX Spectron (Well-Worn)",
+        "price": {
+          "min": 6.08,
+          "max": 9.73,
+          "mean": 7.8,
+          "median": 8.45,
+          "suggested": 6.71,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ FAMAS | ZX Spectron (Battle-Scarred)",
+        "price": {
+          "min": 4.53,
+          "max": 9.34,
+          "mean": 5.9,
+          "median": 5.52,
+          "suggested": 6.08,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir FAMAS | ZX Spectron (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir FAMAS | ZX Spectron (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir FAMAS | ZX Spectron (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir FAMAS | ZX Spectron (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir FAMAS | ZX Spectron (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:29.492Z"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "skin-13af73ca7ca5",
+  "name": "PP-Bizon | Fuel Rod",
+  "paint_index": "508",
+  "weapon": {
+    "id": "weapon_bizon",
+    "weapon_id": 26,
+    "name": "PP-Bizon",
+    "slug": "bizon"
+  },
+  "pattern": {
+    "id": "cu_bizon_noxious",
+    "name": "Fuel Rod"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly. It has been custom painted to give the illusion of irradiated ammo.\\n\\n<i>Sometimes grunts have the upper hand</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 7.82,
+      "max": 63.31,
+      "mean": 19.18,
+      "median": 16.02,
+      "suggested": 10.62,
+      "quantity": 22,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.77,
+      "max": 123.98,
+      "mean": 12.68,
+      "median": 7,
+      "suggested": 3.17,
+      "quantity": 31,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.25,
+      "max": 42.59,
+      "mean": 3.06,
+      "median": 1.56,
+      "suggested": 1.7,
+      "quantity": 52,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.03,
+      "max": 12.37,
+      "mean": 1.84,
+      "median": 1.23,
+      "suggested": 1.25,
+      "quantity": 20,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.95,
+      "max": 6.02,
+      "mean": 1.59,
+      "median": 1.37,
+      "suggested": 1.22,
+      "quantity": 15,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "PP-Bizon | Fuel Rod (Factory New)",
+      "price": {
+        "min": 7.82,
+        "max": 63.31,
+        "mean": 19.18,
+        "median": 16.02,
+        "suggested": 10.62,
+        "quantity": 22,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "PP-Bizon | Fuel Rod (Minimal Wear)",
+      "price": {
+        "min": 2.77,
+        "max": 123.98,
+        "mean": 12.68,
+        "median": 7,
+        "suggested": 3.17,
+        "quantity": 31,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "PP-Bizon | Fuel Rod (Field-Tested)",
+      "price": {
+        "min": 1.25,
+        "max": 42.59,
+        "mean": 3.06,
+        "median": 1.56,
+        "suggested": 1.7,
+        "quantity": 52,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "PP-Bizon | Fuel Rod (Well-Worn)",
+      "price": {
+        "min": 1.03,
+        "max": 12.37,
+        "mean": 1.84,
+        "median": 1.23,
+        "suggested": 1.25,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "PP-Bizon | Fuel Rod (Battle-Scarred)",
+      "price": {
+        "min": 0.95,
+        "max": 6.02,
+        "mean": 1.59,
+        "median": 1.37,
+        "suggested": 1.22,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "PP-Bizon | Fuel Rod (Factory New)",
+        "price": {
+          "min": 7.82,
+          "max": 63.31,
+          "mean": 19.18,
+          "median": 16.02,
+          "suggested": 10.62,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "PP-Bizon | Fuel Rod (Minimal Wear)",
+        "price": {
+          "min": 2.77,
+          "max": 123.98,
+          "mean": 12.68,
+          "median": 7,
+          "suggested": 3.17,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "PP-Bizon | Fuel Rod (Field-Tested)",
+        "price": {
+          "min": 1.25,
+          "max": 42.59,
+          "mean": 3.06,
+          "median": 1.56,
+          "suggested": 1.7,
+          "quantity": 52,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "PP-Bizon | Fuel Rod (Well-Worn)",
+        "price": {
+          "min": 1.03,
+          "max": 12.37,
+          "mean": 1.84,
+          "median": 1.23,
+          "suggested": 1.25,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "PP-Bizon | Fuel Rod (Battle-Scarred)",
+        "price": {
+          "min": 0.95,
+          "max": 6.02,
+          "mean": 1.59,
+          "median": 1.37,
+          "suggested": 1.22,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Fuel Rod (Factory New)",
+        "price": {
+          "min": 10.16,
+          "max": 27.99,
+          "mean": 17.15,
+          "median": 18.43,
+          "suggested": 12.18,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Fuel Rod (Minimal Wear)",
+        "price": {
+          "min": 4.47,
+          "max": 126.13,
+          "mean": 21.82,
+          "median": 13.01,
+          "suggested": 5.02,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Fuel Rod (Field-Tested)",
+        "price": {
+          "min": 2.02,
+          "max": 20.89,
+          "mean": 4.95,
+          "median": 4.08,
+          "suggested": 2.48,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Fuel Rod (Well-Worn)",
+        "price": {
+          "min": 1.62,
+          "max": 2.26,
+          "mean": 1.84,
+          "median": 1.84,
+          "suggested": 2.06,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Fuel Rod (Battle-Scarred)",
+        "price": {
+          "min": 1.77,
+          "max": 6.14,
+          "mean": 3.03,
+          "median": 2.11,
+          "suggested": 1.86,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir PP-Bizon | Fuel Rod (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir PP-Bizon | Fuel Rod (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir PP-Bizon | Fuel Rod (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir PP-Bizon | Fuel Rod (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir PP-Bizon | Fuel Rod (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:27.039Z"
+}

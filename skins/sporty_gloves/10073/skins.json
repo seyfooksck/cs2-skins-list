@@ -1,0 +1,204 @@
+{
+  "id": "skin-41eeda7bb735",
+  "name": "★ Sport Gloves | Slingshot",
+  "paint_index": "10073",
+  "weapon": {
+    "id": "sporty_gloves",
+    "weapon_id": 5030,
+    "name": "Sport Gloves",
+    "slug": "sporty_gloves"
+  },
+  "pattern": {
+    "id": "sporty_slingshot",
+    "name": "Slingshot"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_gloves",
+    "name": "Gloves"
+  },
+  "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Synthetic fabrics make these athletic gloves durable and eye-catching.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 994.95,
+      "max": 2336.86,
+      "mean": 1515.45,
+      "median": 1429.1,
+      "suggested": 1131.51,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 406.3,
+      "max": 1512.08,
+      "mean": 562.88,
+      "median": 491.82,
+      "suggested": 574.82,
+      "quantity": 32,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 322.18,
+      "max": 815.69,
+      "mean": 412.68,
+      "median": 365.94,
+      "suggested": 402.71,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 204.21,
+      "max": 469.33,
+      "mean": 247.12,
+      "median": 225.3,
+      "suggested": 254.65,
+      "quantity": 19,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Sport Gloves | Slingshot (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Sport Gloves | Slingshot (Minimal Wear)",
+      "price": {
+        "min": 994.95,
+        "max": 2336.86,
+        "mean": 1515.45,
+        "median": 1429.1,
+        "suggested": 1131.51,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Sport Gloves | Slingshot (Field-Tested)",
+      "price": {
+        "min": 406.3,
+        "max": 1512.08,
+        "mean": 562.88,
+        "median": 491.82,
+        "suggested": 574.82,
+        "quantity": 32,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Sport Gloves | Slingshot (Well-Worn)",
+      "price": {
+        "min": 322.18,
+        "max": 815.69,
+        "mean": 412.68,
+        "median": 365.94,
+        "suggested": 402.71,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Sport Gloves | Slingshot (Battle-Scarred)",
+      "price": {
+        "min": 204.21,
+        "max": 469.33,
+        "mean": 247.12,
+        "median": 225.3,
+        "suggested": 254.65,
+        "quantity": 19,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Sport Gloves | Slingshot (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Sport Gloves | Slingshot (Minimal Wear)",
+        "price": {
+          "min": 994.95,
+          "max": 2336.86,
+          "mean": 1515.45,
+          "median": 1429.1,
+          "suggested": 1131.51,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Sport Gloves | Slingshot (Field-Tested)",
+        "price": {
+          "min": 406.3,
+          "max": 1512.08,
+          "mean": 562.88,
+          "median": 491.82,
+          "suggested": 574.82,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Sport Gloves | Slingshot (Well-Worn)",
+        "price": {
+          "min": 322.18,
+          "max": 815.69,
+          "mean": 412.68,
+          "median": 365.94,
+          "suggested": 402.71,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Sport Gloves | Slingshot (Battle-Scarred)",
+        "price": {
+          "min": 204.21,
+          "max": 469.33,
+          "mean": 247.12,
+          "median": 225.3,
+          "suggested": 254.65,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:24.129Z"
+}

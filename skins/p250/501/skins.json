@@ -1,0 +1,310 @@
+{
+  "id": "skin-aa792cc15a05",
+  "name": "P250 | Wingshot",
+  "paint_index": "501",
+  "weapon": {
+    "id": "weapon_p250",
+    "weapon_id": 36,
+    "name": "P250",
+    "slug": "p250"
+  },
+  "pattern": {
+    "id": "hy_p250_crackshot",
+    "name": "Wingshot"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.9,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A low-recoil firearm with a high rate of fire, the P250 is a relatively inexpensive choice against armored opponents. It has been custom painted with a vibrant hydrographic.\\n\\n<i>Sometimes a subtle nudge is all it takes to get what you want - Franz Kriegeld, Phoenix Tactician</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 14.18,
+      "max": 52.75,
+      "mean": 24.2,
+      "median": 22.71,
+      "suggested": 22.66,
+      "quantity": 26,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 3.15,
+      "max": 154.04,
+      "mean": 10.97,
+      "median": 3.69,
+      "suggested": 4.11,
+      "quantity": 23,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.61,
+      "max": 126.03,
+      "mean": 5.68,
+      "median": 1.88,
+      "suggested": 2.09,
+      "quantity": 80,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.46,
+      "max": 7.85,
+      "mean": 1.96,
+      "median": 1.62,
+      "suggested": 1.76,
+      "quantity": 33,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.38,
+      "max": 33.7,
+      "mean": 3.21,
+      "median": 1.65,
+      "suggested": 1.66,
+      "quantity": 36,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P250 | Wingshot (Factory New)",
+      "price": {
+        "min": 14.18,
+        "max": 52.75,
+        "mean": 24.2,
+        "median": 22.71,
+        "suggested": 22.66,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P250 | Wingshot (Minimal Wear)",
+      "price": {
+        "min": 3.15,
+        "max": 154.04,
+        "mean": 10.97,
+        "median": 3.69,
+        "suggested": 4.11,
+        "quantity": 23,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P250 | Wingshot (Field-Tested)",
+      "price": {
+        "min": 1.61,
+        "max": 126.03,
+        "mean": 5.68,
+        "median": 1.88,
+        "suggested": 2.09,
+        "quantity": 80,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P250 | Wingshot (Well-Worn)",
+      "price": {
+        "min": 1.46,
+        "max": 7.85,
+        "mean": 1.96,
+        "median": 1.62,
+        "suggested": 1.76,
+        "quantity": 33,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P250 | Wingshot (Battle-Scarred)",
+      "price": {
+        "min": 1.38,
+        "max": 33.7,
+        "mean": 3.21,
+        "median": 1.65,
+        "suggested": 1.66,
+        "quantity": 36,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P250 | Wingshot (Factory New)",
+        "price": {
+          "min": 14.18,
+          "max": 52.75,
+          "mean": 24.2,
+          "median": 22.71,
+          "suggested": 22.66,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P250 | Wingshot (Minimal Wear)",
+        "price": {
+          "min": 3.15,
+          "max": 154.04,
+          "mean": 10.97,
+          "median": 3.69,
+          "suggested": 4.11,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P250 | Wingshot (Field-Tested)",
+        "price": {
+          "min": 1.61,
+          "max": 126.03,
+          "mean": 5.68,
+          "median": 1.88,
+          "suggested": 2.09,
+          "quantity": 80,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P250 | Wingshot (Well-Worn)",
+        "price": {
+          "min": 1.46,
+          "max": 7.85,
+          "mean": 1.96,
+          "median": 1.62,
+          "suggested": 1.76,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P250 | Wingshot (Battle-Scarred)",
+        "price": {
+          "min": 1.38,
+          "max": 33.7,
+          "mean": 3.21,
+          "median": 1.65,
+          "suggested": 1.66,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P250 | Wingshot (Factory New)",
+        "price": {
+          "min": 15.87,
+          "max": 63.39,
+          "mean": 29.4,
+          "median": 27.08,
+          "suggested": 18.46,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P250 | Wingshot (Minimal Wear)",
+        "price": {
+          "min": 5.85,
+          "max": 129.52,
+          "mean": 18.29,
+          "median": 7.45,
+          "suggested": 7.4,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P250 | Wingshot (Field-Tested)",
+        "price": {
+          "min": 2.78,
+          "max": 160.45,
+          "mean": 19.42,
+          "median": 3.65,
+          "suggested": 3.68,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ P250 | Wingshot (Well-Worn)",
+        "price": {
+          "min": 2.85,
+          "max": 130.69,
+          "mean": 13.33,
+          "median": 3.55,
+          "suggested": 3.23,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ P250 | Wingshot (Battle-Scarred)",
+        "price": {
+          "min": 2.5,
+          "max": 43.76,
+          "mean": 5.26,
+          "median": 3.09,
+          "suggested": 3,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P250 | Wingshot (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P250 | Wingshot (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P250 | Wingshot (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P250 | Wingshot (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P250 | Wingshot (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:45.426Z"
+}

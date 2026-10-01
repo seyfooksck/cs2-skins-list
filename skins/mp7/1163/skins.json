@@ -1,0 +1,310 @@
+{
+  "id": "skin-48f9126df040",
+  "name": "MP7 | Just Smile",
+  "paint_index": "1163",
+  "weapon": {
+    "id": "weapon_mp7",
+    "weapon_id": 33,
+    "name": "MP7",
+    "slug": "mp7"
+  },
+  "pattern": {
+    "id": "mp7_just_smile",
+    "name": "Just Smile"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. The blue and purple base coat is finished with a smiley face and the words \\\"Just Smile\\\" in yellow.\\n\\n<i>\\\"Say cheeeeese\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 4.63,
+      "max": 40.84,
+      "mean": 11.6,
+      "median": 8.02,
+      "suggested": 5.45,
+      "quantity": 30,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.09,
+      "max": 30.66,
+      "mean": 2.57,
+      "median": 1.31,
+      "suggested": 1.29,
+      "quantity": 181,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.41,
+      "max": 33.28,
+      "mean": 0.92,
+      "median": 0.57,
+      "suggested": 0.59,
+      "quantity": 519,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.37,
+      "max": 19.84,
+      "mean": 0.6,
+      "median": 0.54,
+      "suggested": 0.51,
+      "quantity": 452,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.37,
+      "max": 25.6,
+      "mean": 0.82,
+      "median": 0.55,
+      "suggested": 0.5,
+      "quantity": 277,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP7 | Just Smile (Factory New)",
+      "price": {
+        "min": 4.63,
+        "max": 40.84,
+        "mean": 11.6,
+        "median": 8.02,
+        "suggested": 5.45,
+        "quantity": 30,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP7 | Just Smile (Minimal Wear)",
+      "price": {
+        "min": 1.09,
+        "max": 30.66,
+        "mean": 2.57,
+        "median": 1.31,
+        "suggested": 1.29,
+        "quantity": 181,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP7 | Just Smile (Field-Tested)",
+      "price": {
+        "min": 0.41,
+        "max": 33.28,
+        "mean": 0.92,
+        "median": 0.57,
+        "suggested": 0.59,
+        "quantity": 519,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP7 | Just Smile (Well-Worn)",
+      "price": {
+        "min": 0.37,
+        "max": 19.84,
+        "mean": 0.6,
+        "median": 0.54,
+        "suggested": 0.51,
+        "quantity": 452,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP7 | Just Smile (Battle-Scarred)",
+      "price": {
+        "min": 0.37,
+        "max": 25.6,
+        "mean": 0.82,
+        "median": 0.55,
+        "suggested": 0.5,
+        "quantity": 277,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP7 | Just Smile (Factory New)",
+        "price": {
+          "min": 4.63,
+          "max": 40.84,
+          "mean": 11.6,
+          "median": 8.02,
+          "suggested": 5.45,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP7 | Just Smile (Minimal Wear)",
+        "price": {
+          "min": 1.09,
+          "max": 30.66,
+          "mean": 2.57,
+          "median": 1.31,
+          "suggested": 1.29,
+          "quantity": 181,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP7 | Just Smile (Field-Tested)",
+        "price": {
+          "min": 0.41,
+          "max": 33.28,
+          "mean": 0.92,
+          "median": 0.57,
+          "suggested": 0.59,
+          "quantity": 519,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP7 | Just Smile (Well-Worn)",
+        "price": {
+          "min": 0.37,
+          "max": 19.84,
+          "mean": 0.6,
+          "median": 0.54,
+          "suggested": 0.51,
+          "quantity": 452,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP7 | Just Smile (Battle-Scarred)",
+        "price": {
+          "min": 0.37,
+          "max": 25.6,
+          "mean": 0.82,
+          "median": 0.55,
+          "suggested": 0.5,
+          "quantity": 277,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MP7 | Just Smile (Factory New)",
+        "price": {
+          "min": 5.61,
+          "max": 58.34,
+          "mean": 15.75,
+          "median": 7.63,
+          "suggested": 6.55,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MP7 | Just Smile (Minimal Wear)",
+        "price": {
+          "min": 1.94,
+          "max": 11.14,
+          "mean": 3.31,
+          "median": 2.54,
+          "suggested": 2.27,
+          "quantity": 64,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MP7 | Just Smile (Field-Tested)",
+        "price": {
+          "min": 0.86,
+          "max": 2.71,
+          "mean": 1.45,
+          "median": 1.31,
+          "suggested": 1.23,
+          "quantity": 188,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MP7 | Just Smile (Well-Worn)",
+        "price": {
+          "min": 0.82,
+          "max": 68.85,
+          "mean": 1.58,
+          "median": 1.05,
+          "suggested": 1.04,
+          "quantity": 149,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MP7 | Just Smile (Battle-Scarred)",
+        "price": {
+          "min": 0.75,
+          "max": 2.77,
+          "mean": 1.11,
+          "median": 1.03,
+          "suggested": 0.97,
+          "quantity": 92,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP7 | Just Smile (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP7 | Just Smile (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP7 | Just Smile (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP7 | Just Smile (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP7 | Just Smile (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:43.286Z"
+}

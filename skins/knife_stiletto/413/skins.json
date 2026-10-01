@@ -1,0 +1,145 @@
+{
+  "id": "skin-1c8f54fa853f",
+  "name": "★ Stiletto Knife | Marble Fade",
+  "paint_index": "413",
+  "weapon": {
+    "id": "weapon_knife_stiletto",
+    "weapon_id": 522,
+    "name": "Stiletto Knife",
+    "slug": "knife_stiletto"
+  },
+  "pattern": {
+    "id": "am_marble_fade",
+    "name": "Marble Fade"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Historically a focal point of contention and even regulation, this Italian-style stiletto switchblade knife features a spring-loaded blade that can be deployed almost instantly with the push of a release catch. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated in three colors.\\n\\n<i>The blade is made of many colors, but soon it all looks red</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 340.52,
+      "max": 5834.69,
+      "mean": 533.91,
+      "median": 370.67,
+      "suggested": 421.53,
+      "quantity": 49,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 396.76,
+      "max": 596.39,
+      "mean": 496.58,
+      "median": 496.58,
+      "suggested": 417.15,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Stiletto Knife | Marble Fade (Factory New)",
+      "price": {
+        "min": 340.52,
+        "max": 5834.69,
+        "mean": 533.91,
+        "median": 370.67,
+        "suggested": 421.53,
+        "quantity": 49,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Stiletto Knife | Marble Fade (Minimal Wear)",
+      "price": {
+        "min": 396.76,
+        "max": 596.39,
+        "mean": 496.58,
+        "median": 496.58,
+        "suggested": 417.15,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Stiletto Knife | Marble Fade (Factory New)",
+        "price": {
+          "min": 340.52,
+          "max": 5834.69,
+          "mean": 533.91,
+          "median": 370.67,
+          "suggested": 421.53,
+          "quantity": 49,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Stiletto Knife | Marble Fade (Minimal Wear)",
+        "price": {
+          "min": 396.76,
+          "max": 596.39,
+          "mean": 496.58,
+          "median": 496.58,
+          "suggested": 417.15,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Stiletto Knife | Marble Fade (Factory New)",
+        "price": {
+          "min": 385.09,
+          "max": 700.15,
+          "mean": 468.53,
+          "median": 394.42,
+          "suggested": 446.23,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Stiletto Knife | Marble Fade (Minimal Wear)",
+        "price": {
+          "min": 609.36,
+          "max": 614.49,
+          "mean": 611.93,
+          "median": 611.93,
+          "suggested": 541.22,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:37.933Z"
+}

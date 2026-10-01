@@ -1,0 +1,204 @@
+{
+  "id": "skin-3b7b8a6e12a6",
+  "name": "★ Specialist Gloves | Mogul",
+  "paint_index": "10064",
+  "weapon": {
+    "id": "specialist_gloves",
+    "weapon_id": 5034,
+    "name": "Specialist Gloves",
+    "slug": "specialist_gloves"
+  },
+  "pattern": {
+    "id": "specialist_winterhex",
+    "name": "Mogul"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_gloves",
+    "name": "Gloves"
+  },
+  "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Durable, breathable, and stylish; these gloves are designed to take (and give) a beating. These wintery gloves would be at home on the ski hill.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 170.82,
+      "max": 1082.04,
+      "mean": 248.23,
+      "median": 206.23,
+      "suggested": 217.23,
+      "quantity": 37,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 108.67,
+      "max": 700.15,
+      "mean": 174.85,
+      "median": 136.13,
+      "suggested": 138.27,
+      "quantity": 78,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 101.92,
+      "max": 214.03,
+      "mean": 123.77,
+      "median": 109.02,
+      "suggested": 123.76,
+      "quantity": 21,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 94.18,
+      "max": 176.87,
+      "mean": 121.19,
+      "median": 119.54,
+      "suggested": 108.46,
+      "quantity": 20,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Specialist Gloves | Mogul (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Specialist Gloves | Mogul (Minimal Wear)",
+      "price": {
+        "min": 170.82,
+        "max": 1082.04,
+        "mean": 248.23,
+        "median": 206.23,
+        "suggested": 217.23,
+        "quantity": 37,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Specialist Gloves | Mogul (Field-Tested)",
+      "price": {
+        "min": 108.67,
+        "max": 700.15,
+        "mean": 174.85,
+        "median": 136.13,
+        "suggested": 138.27,
+        "quantity": 78,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Specialist Gloves | Mogul (Well-Worn)",
+      "price": {
+        "min": 101.92,
+        "max": 214.03,
+        "mean": 123.77,
+        "median": 109.02,
+        "suggested": 123.76,
+        "quantity": 21,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Specialist Gloves | Mogul (Battle-Scarred)",
+      "price": {
+        "min": 94.18,
+        "max": 176.87,
+        "mean": 121.19,
+        "median": 119.54,
+        "suggested": 108.46,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Specialist Gloves | Mogul (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Specialist Gloves | Mogul (Minimal Wear)",
+        "price": {
+          "min": 170.82,
+          "max": 1082.04,
+          "mean": 248.23,
+          "median": 206.23,
+          "suggested": 217.23,
+          "quantity": 37,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Specialist Gloves | Mogul (Field-Tested)",
+        "price": {
+          "min": 108.67,
+          "max": 700.15,
+          "mean": 174.85,
+          "median": 136.13,
+          "suggested": 138.27,
+          "quantity": 78,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Specialist Gloves | Mogul (Well-Worn)",
+        "price": {
+          "min": 101.92,
+          "max": 214.03,
+          "mean": 123.77,
+          "median": 109.02,
+          "suggested": 123.76,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Specialist Gloves | Mogul (Battle-Scarred)",
+        "price": {
+          "min": 94.18,
+          "max": 176.87,
+          "mean": 121.19,
+          "median": 119.54,
+          "suggested": 108.46,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:23.842Z"
+}

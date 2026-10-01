@@ -1,0 +1,206 @@
+{
+  "id": "skin-d20050bb0d48",
+  "name": "Glock-18 | Grinder",
+  "paint_index": "381",
+  "weapon": {
+    "id": "weapon_glock",
+    "weapon_id": 4,
+    "name": "Glock-18",
+    "slug": "glock"
+  },
+  "pattern": {
+    "id": "aq_glock_coiled",
+    "name": "Grinder"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0.02,
+  "max_float": 0.25,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. The steel slide has been painted using a combination of stenciling and hand-painting using oil paints.\\n\\n<i>The only way to make diamonds is by applying pressure</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 17.49,
+      "max": 326.74,
+      "mean": 47.9,
+      "median": 26.1,
+      "suggested": 27.62,
+      "quantity": 54,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.96,
+      "max": 551,
+      "mean": 23.28,
+      "median": 3.9,
+      "suggested": 3.83,
+      "quantity": 54,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 3.14,
+      "max": 136.52,
+      "mean": 11.79,
+      "median": 3.72,
+      "suggested": 3.64,
+      "quantity": 21,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Glock-18 | Grinder (Factory New)",
+      "price": {
+        "min": 17.49,
+        "max": 326.74,
+        "mean": 47.9,
+        "median": 26.1,
+        "suggested": 27.62,
+        "quantity": 54,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Glock-18 | Grinder (Minimal Wear)",
+      "price": {
+        "min": 2.96,
+        "max": 551,
+        "mean": 23.28,
+        "median": 3.9,
+        "suggested": 3.83,
+        "quantity": 54,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Glock-18 | Grinder (Field-Tested)",
+      "price": {
+        "min": 3.14,
+        "max": 136.52,
+        "mean": 11.79,
+        "median": 3.72,
+        "suggested": 3.64,
+        "quantity": 21,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Glock-18 | Grinder (Factory New)",
+        "price": {
+          "min": 17.49,
+          "max": 326.74,
+          "mean": 47.9,
+          "median": 26.1,
+          "suggested": 27.62,
+          "quantity": 54,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Glock-18 | Grinder (Minimal Wear)",
+        "price": {
+          "min": 2.96,
+          "max": 551,
+          "mean": 23.28,
+          "median": 3.9,
+          "suggested": 3.83,
+          "quantity": 54,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Glock-18 | Grinder (Field-Tested)",
+        "price": {
+          "min": 3.14,
+          "max": 136.52,
+          "mean": 11.79,
+          "median": 3.72,
+          "suggested": 3.64,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Glock-18 | Grinder (Factory New)",
+        "price": {
+          "min": 9.57,
+          "max": 102.41,
+          "mean": 31.65,
+          "median": 11.12,
+          "suggested": 11.98,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Glock-18 | Grinder (Minimal Wear)",
+        "price": {
+          "min": 7.41,
+          "max": 175.03,
+          "mean": 40.2,
+          "median": 17.24,
+          "suggested": 9.37,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Glock-18 | Grinder (Field-Tested)",
+        "price": {
+          "min": 8.25,
+          "max": 130.41,
+          "mean": 32.13,
+          "median": 10.91,
+          "suggested": 9.28,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Glock-18 | Grinder (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Glock-18 | Grinder (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Glock-18 | Grinder (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:31.663Z"
+}

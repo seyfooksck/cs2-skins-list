@@ -1,0 +1,249 @@
+{
+  "id": "skin-181c7ea71c0b",
+  "name": "AK-47 | Nouveau Rouge",
+  "paint_index": "1309",
+  "weapon": {
+    "id": "weapon_ak47",
+    "weapon_id": 7,
+    "name": "AK-47",
+    "slug": "ak47"
+  },
+  "pattern": {
+    "id": "hye_ak47_nouveau",
+    "name": "Nouveau Rouge"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. It has been custom painted with a wine and white-colored base and finished with gold accents.\\n\\n<i>\\\"Don't look at it that way—it's an art piece, not a tool for violence\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 71.68,
+      "max": 1166.93,
+      "mean": 213.65,
+      "median": 120.29,
+      "suggested": 109.36,
+      "quantity": 26,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 24.59,
+      "max": 1172.42,
+      "mean": 43.64,
+      "median": 25.74,
+      "suggested": 32.21,
+      "quantity": 168,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 9.42,
+      "max": 816.86,
+      "mean": 37.09,
+      "median": 18.94,
+      "suggested": 12.51,
+      "quantity": 85,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 7.4,
+      "max": 64.17,
+      "mean": 20.32,
+      "median": 13.98,
+      "suggested": 8.43,
+      "quantity": 21,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 6.34,
+      "max": 17.5,
+      "mean": 12.17,
+      "median": 12.42,
+      "suggested": 7.7,
+      "quantity": 4,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AK-47 | Nouveau Rouge (Factory New)",
+      "price": {
+        "min": 71.68,
+        "max": 1166.93,
+        "mean": 213.65,
+        "median": 120.29,
+        "suggested": 109.36,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AK-47 | Nouveau Rouge (Minimal Wear)",
+      "price": {
+        "min": 24.59,
+        "max": 1172.42,
+        "mean": 43.64,
+        "median": 25.74,
+        "suggested": 32.21,
+        "quantity": 168,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AK-47 | Nouveau Rouge (Field-Tested)",
+      "price": {
+        "min": 9.42,
+        "max": 816.86,
+        "mean": 37.09,
+        "median": 18.94,
+        "suggested": 12.51,
+        "quantity": 85,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AK-47 | Nouveau Rouge (Well-Worn)",
+      "price": {
+        "min": 7.4,
+        "max": 64.17,
+        "mean": 20.32,
+        "median": 13.98,
+        "suggested": 8.43,
+        "quantity": 21,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AK-47 | Nouveau Rouge (Battle-Scarred)",
+      "price": {
+        "min": 6.34,
+        "max": 17.5,
+        "mean": 12.17,
+        "median": 12.42,
+        "suggested": 7.7,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AK-47 | Nouveau Rouge (Factory New)",
+        "price": {
+          "min": 71.68,
+          "max": 1166.93,
+          "mean": 213.65,
+          "median": 120.29,
+          "suggested": 109.36,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AK-47 | Nouveau Rouge (Minimal Wear)",
+        "price": {
+          "min": 24.59,
+          "max": 1172.42,
+          "mean": 43.64,
+          "median": 25.74,
+          "suggested": 32.21,
+          "quantity": 168,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AK-47 | Nouveau Rouge (Field-Tested)",
+        "price": {
+          "min": 9.42,
+          "max": 816.86,
+          "mean": 37.09,
+          "median": 18.94,
+          "suggested": 12.51,
+          "quantity": 85,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AK-47 | Nouveau Rouge (Well-Worn)",
+        "price": {
+          "min": 7.4,
+          "max": 64.17,
+          "mean": 20.32,
+          "median": 13.98,
+          "suggested": 8.43,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AK-47 | Nouveau Rouge (Battle-Scarred)",
+        "price": {
+          "min": 6.34,
+          "max": 17.5,
+          "mean": 12.17,
+          "median": 12.42,
+          "suggested": 7.7,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AK-47 | Nouveau Rouge (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AK-47 | Nouveau Rouge (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AK-47 | Nouveau Rouge (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AK-47 | Nouveau Rouge (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AK-47 | Nouveau Rouge (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:20:21.040Z"
+}

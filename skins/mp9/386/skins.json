@@ -1,0 +1,302 @@
+{
+  "id": "skin-70901934962c",
+  "name": "MP9 | Dart",
+  "paint_index": "386",
+  "weapon": {
+    "id": "weapon_mp9",
+    "weapon_id": 34,
+    "name": "MP9",
+    "slug": "mp9"
+  },
+  "pattern": {
+    "id": "cu_mp9_chevron",
+    "name": "Dart"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.46,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms. It has been painted using a striped hydrographic arranged in a chevron pattern.\\n\\n<i>Throw enough downfield and you're bound to hit the bullseye eventually</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 6.14,
+      "max": 126.03,
+      "mean": 21.1,
+      "median": 8.45,
+      "suggested": 7.23,
+      "quantity": 26,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.25,
+      "max": 13.96,
+      "mean": 4.71,
+      "median": 2.82,
+      "suggested": 2.54,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.92,
+      "max": 25.67,
+      "mean": 2.58,
+      "median": 1.1,
+      "suggested": 1.23,
+      "quantity": 24,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.92,
+      "max": 1.63,
+      "mean": 1.13,
+      "median": 1.06,
+      "suggested": 1.25,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 3.33,
+      "max": 3.58,
+      "mean": 3.41,
+      "median": 3.33,
+      "suggested": 3.23,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP9 | Dart (Factory New)",
+      "price": {
+        "min": 6.14,
+        "max": 126.03,
+        "mean": 21.1,
+        "median": 8.45,
+        "suggested": 7.23,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP9 | Dart (Minimal Wear)",
+      "price": {
+        "min": 2.25,
+        "max": 13.96,
+        "mean": 4.71,
+        "median": 2.82,
+        "suggested": 2.54,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP9 | Dart (Field-Tested)",
+      "price": {
+        "min": 0.92,
+        "max": 25.67,
+        "mean": 2.58,
+        "median": 1.1,
+        "suggested": 1.23,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP9 | Dart (Well-Worn)",
+      "price": {
+        "min": 0.92,
+        "max": 1.63,
+        "mean": 1.13,
+        "median": 1.06,
+        "suggested": 1.25,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP9 | Dart (Battle-Scarred)",
+      "price": {
+        "min": 3.33,
+        "max": 3.58,
+        "mean": 3.41,
+        "median": 3.33,
+        "suggested": 3.23,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP9 | Dart (Factory New)",
+        "price": {
+          "min": 6.14,
+          "max": 126.03,
+          "mean": 21.1,
+          "median": 8.45,
+          "suggested": 7.23,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP9 | Dart (Minimal Wear)",
+        "price": {
+          "min": 2.25,
+          "max": 13.96,
+          "mean": 4.71,
+          "median": 2.82,
+          "suggested": 2.54,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP9 | Dart (Field-Tested)",
+        "price": {
+          "min": 0.92,
+          "max": 25.67,
+          "mean": 2.58,
+          "median": 1.1,
+          "suggested": 1.23,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP9 | Dart (Well-Worn)",
+        "price": {
+          "min": 0.92,
+          "max": 1.63,
+          "mean": 1.13,
+          "median": 1.06,
+          "suggested": 1.25,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP9 | Dart (Battle-Scarred)",
+        "price": {
+          "min": 3.33,
+          "max": 3.58,
+          "mean": 3.41,
+          "median": 3.33,
+          "suggested": 3.23,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MP9 | Dart (Factory New)",
+        "price": {
+          "min": 2.64,
+          "max": 128.36,
+          "mean": 11.53,
+          "median": 3.19,
+          "suggested": 3.3,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MP9 | Dart (Minimal Wear)",
+        "price": {
+          "min": 1.56,
+          "max": 7.48,
+          "mean": 2.37,
+          "median": 1.88,
+          "suggested": 2.14,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MP9 | Dart (Field-Tested)",
+        "price": {
+          "min": 1.26,
+          "max": 9.62,
+          "mean": 2.01,
+          "median": 1.52,
+          "suggested": 1.48,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MP9 | Dart (Well-Worn)",
+        "price": {
+          "min": 1.84,
+          "max": 2.53,
+          "mean": 2.02,
+          "median": 1.84,
+          "suggested": 1.91,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MP9 | Dart (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP9 | Dart (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP9 | Dart (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP9 | Dart (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP9 | Dart (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP9 | Dart (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:43.611Z"
+}

@@ -1,0 +1,249 @@
+{
+  "id": "skin-2cf756866c61",
+  "name": "Five-SeveN | Jungle",
+  "paint_index": "151",
+  "weapon": {
+    "id": "weapon_fiveseven",
+    "weapon_id": 3,
+    "name": "Five-SeveN",
+    "slug": "fiveseven"
+  },
+  "pattern": {
+    "id": "so_jungle",
+    "name": "Jungle"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. It has individual parts spray-painted solid colors in a jungle color scheme.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 86.05,
+      "max": 221.71,
+      "mean": 151.78,
+      "median": 139.23,
+      "suggested": 55.27,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 12.18,
+      "max": 35,
+      "mean": 21.33,
+      "median": 23.33,
+      "suggested": 10.11,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 3.91,
+      "max": 23.33,
+      "mean": 14.42,
+      "median": 13.99,
+      "suggested": 4.54,
+      "quantity": 35,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 11.66,
+      "max": 11.66,
+      "mean": 11.66,
+      "median": 11.66,
+      "suggested": 3.14,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 11.18,
+      "max": 23.33,
+      "mean": 18.64,
+      "median": 21.39,
+      "suggested": 3.3,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Five-SeveN | Jungle (Factory New)",
+      "price": {
+        "min": 86.05,
+        "max": 221.71,
+        "mean": 151.78,
+        "median": 139.23,
+        "suggested": 55.27,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Five-SeveN | Jungle (Minimal Wear)",
+      "price": {
+        "min": 12.18,
+        "max": 35,
+        "mean": 21.33,
+        "median": 23.33,
+        "suggested": 10.11,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Five-SeveN | Jungle (Field-Tested)",
+      "price": {
+        "min": 3.91,
+        "max": 23.33,
+        "mean": 14.42,
+        "median": 13.99,
+        "suggested": 4.54,
+        "quantity": 35,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Five-SeveN | Jungle (Well-Worn)",
+      "price": {
+        "min": 11.66,
+        "max": 11.66,
+        "mean": 11.66,
+        "median": 11.66,
+        "suggested": 3.14,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Five-SeveN | Jungle (Battle-Scarred)",
+      "price": {
+        "min": 11.18,
+        "max": 23.33,
+        "mean": 18.64,
+        "median": 21.39,
+        "suggested": 3.3,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Five-SeveN | Jungle (Factory New)",
+        "price": {
+          "min": 86.05,
+          "max": 221.71,
+          "mean": 151.78,
+          "median": 139.23,
+          "suggested": 55.27,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Five-SeveN | Jungle (Minimal Wear)",
+        "price": {
+          "min": 12.18,
+          "max": 35,
+          "mean": 21.33,
+          "median": 23.33,
+          "suggested": 10.11,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Five-SeveN | Jungle (Field-Tested)",
+        "price": {
+          "min": 3.91,
+          "max": 23.33,
+          "mean": 14.42,
+          "median": 13.99,
+          "suggested": 4.54,
+          "quantity": 35,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Five-SeveN | Jungle (Well-Worn)",
+        "price": {
+          "min": 11.66,
+          "max": 11.66,
+          "mean": 11.66,
+          "median": 11.66,
+          "suggested": 3.14,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Five-SeveN | Jungle (Battle-Scarred)",
+        "price": {
+          "min": 11.18,
+          "max": 23.33,
+          "mean": 18.64,
+          "median": 21.39,
+          "suggested": 3.3,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Five-SeveN | Jungle (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Five-SeveN | Jungle (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Five-SeveN | Jungle (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Five-SeveN | Jungle (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Five-SeveN | Jungle (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:30.319Z"
+}

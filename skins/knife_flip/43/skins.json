@@ -1,0 +1,185 @@
+{
+  "id": "skin-1b555a34a243",
+  "name": "★ Flip Knife | Stained",
+  "paint_index": "43",
+  "weapon": {
+    "id": "weapon_knife_flip",
+    "weapon_id": 505,
+    "name": "Flip Knife",
+    "slug": "knife_flip"
+  },
+  "pattern": {
+    "id": "aq_forced",
+    "name": "Stained"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Flip knives sport a Persian-style back-swept blade with an acute point.  While the point itself may be fragile, the overall design of the flip knife's design is surprisingly durable. It has been given a forced patina using lemon and mustard dripped onto the surface.\\n\\n<i>If you think it's messy now, wait until you see it under a blacklight</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 132.21,
+      "max": 145.47,
+      "mean": 138.84,
+      "median": 138.84,
+      "suggested": 169.61,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 130.58,
+      "max": 292.95,
+      "mean": 192.11,
+      "median": 172.45,
+      "suggested": 160.18,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Flip Knife | Stained (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Flip Knife | Stained (Minimal Wear)",
+      "price": {
+        "min": 132.21,
+        "max": 145.47,
+        "mean": 138.84,
+        "median": 138.84,
+        "suggested": 169.61,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Flip Knife | Stained (Field-Tested)",
+      "price": {
+        "min": 130.58,
+        "max": 292.95,
+        "mean": 192.11,
+        "median": 172.45,
+        "suggested": 160.18,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Flip Knife | Stained (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Flip Knife | Stained (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Flip Knife | Stained (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Flip Knife | Stained (Minimal Wear)",
+        "price": {
+          "min": 132.21,
+          "max": 145.47,
+          "mean": 138.84,
+          "median": 138.84,
+          "suggested": 169.61,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Flip Knife | Stained (Field-Tested)",
+        "price": {
+          "min": 130.58,
+          "max": 292.95,
+          "mean": 192.11,
+          "median": 172.45,
+          "suggested": 160.18,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Flip Knife | Stained (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ Flip Knife | Stained (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Stained (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Stained (Minimal Wear)",
+        "price": {
+          "min": 141.2,
+          "max": 141.2,
+          "mean": 141.2,
+          "median": 141.2,
+          "suggested": 167.98,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Stained (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Stained (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Stained (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:34.707Z"
+}

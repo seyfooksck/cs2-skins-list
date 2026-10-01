@@ -1,0 +1,273 @@
+{
+  "id": "skin-3f6a1c06a5b1",
+  "name": "AUG | Storm",
+  "paint_index": "100",
+  "weapon": {
+    "id": "weapon_aug",
+    "weapon_id": 8,
+    "name": "AUG",
+    "slug": "aug"
+  },
+  "pattern": {
+    "id": "so_stormfront",
+    "name": "Storm"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire. It has individual parts spray-painted solid colors in a stormy color scheme.\\n\\n<i>It will be waiting for you at the monorail</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.8,
+      "max": 36.99,
+      "mean": 5.92,
+      "median": 4.15,
+      "suggested": 2.26,
+      "quantity": 34,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.06,
+      "max": 23.01,
+      "mean": 0.41,
+      "median": 0.13,
+      "suggested": 0.09,
+      "quantity": 318,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.02,
+      "max": 10.5,
+      "mean": 0.06,
+      "median": 0.02,
+      "suggested": 0.05,
+      "quantity": 7692,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.02,
+      "max": 6.09,
+      "mean": 0.06,
+      "median": 0.04,
+      "suggested": 0.05,
+      "quantity": 972,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.02,
+      "max": 4.42,
+      "mean": 0.05,
+      "median": 0.02,
+      "suggested": 0.05,
+      "quantity": 1515,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AUG | Storm (Factory New)",
+      "price": {
+        "min": 1.8,
+        "max": 36.99,
+        "mean": 5.92,
+        "median": 4.15,
+        "suggested": 2.26,
+        "quantity": 34,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AUG | Storm (Minimal Wear)",
+      "price": {
+        "min": 0.06,
+        "max": 23.01,
+        "mean": 0.41,
+        "median": 0.13,
+        "suggested": 0.09,
+        "quantity": 318,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AUG | Storm (Field-Tested)",
+      "price": {
+        "min": 0.02,
+        "max": 10.5,
+        "mean": 0.06,
+        "median": 0.02,
+        "suggested": 0.05,
+        "quantity": 7692,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AUG | Storm (Well-Worn)",
+      "price": {
+        "min": 0.02,
+        "max": 6.09,
+        "mean": 0.06,
+        "median": 0.04,
+        "suggested": 0.05,
+        "quantity": 972,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AUG | Storm (Battle-Scarred)",
+      "price": {
+        "min": 0.02,
+        "max": 4.42,
+        "mean": 0.05,
+        "median": 0.02,
+        "suggested": 0.05,
+        "quantity": 1515,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AUG | Storm (Factory New)",
+        "price": {
+          "min": 1.8,
+          "max": 36.99,
+          "mean": 5.92,
+          "median": 4.15,
+          "suggested": 2.26,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AUG | Storm (Minimal Wear)",
+        "price": {
+          "min": 0.06,
+          "max": 23.01,
+          "mean": 0.41,
+          "median": 0.13,
+          "suggested": 0.09,
+          "quantity": 318,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AUG | Storm (Field-Tested)",
+        "price": {
+          "min": 0.02,
+          "max": 10.5,
+          "mean": 0.06,
+          "median": 0.02,
+          "suggested": 0.05,
+          "quantity": 7692,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AUG | Storm (Well-Worn)",
+        "price": {
+          "min": 0.02,
+          "max": 6.09,
+          "mean": 0.06,
+          "median": 0.04,
+          "suggested": 0.05,
+          "quantity": 972,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AUG | Storm (Battle-Scarred)",
+        "price": {
+          "min": 0.02,
+          "max": 4.42,
+          "mean": 0.05,
+          "median": 0.02,
+          "suggested": 0.05,
+          "quantity": 1515,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AUG | Storm (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AUG | Storm (Minimal Wear)",
+        "price": {
+          "min": 5.18,
+          "max": 5.82,
+          "mean": 5.51,
+          "median": 5.51,
+          "suggested": 3.6,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AUG | Storm (Field-Tested)",
+        "price": {
+          "min": 40.84,
+          "max": 280.06,
+          "mean": 191.76,
+          "median": 254.39,
+          "suggested": 4.16,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AUG | Storm (Well-Worn)",
+        "price": {
+          "min": 40.83,
+          "max": 79.9,
+          "mean": 61.64,
+          "median": 64.18,
+          "suggested": 2.49,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AUG | Storm (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.665Z"
+}

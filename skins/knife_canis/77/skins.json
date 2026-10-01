@@ -1,0 +1,265 @@
+{
+  "id": "skin-ab09205a25f2",
+  "name": "★ Survival Knife | Boreal Forest",
+  "paint_index": "77",
+  "weapon": {
+    "id": "weapon_knife_canis",
+    "weapon_id": 518,
+    "name": "Survival Knife",
+    "slug": "knife_canis"
+  },
+  "pattern": {
+    "id": "hy_forest_boreal",
+    "name": "Boreal Forest"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This multi-purpose tactical knife features a serrated edge for ripping through coarse material like bone or fiber, plus a sharp gutting hook. The composite material handle is bolted to the blade with hex nuts. It has been painted using a forest camouflage hydrographic.\\n\\n<i>The woods can be a dangerous place... never travel alone</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 140.03,
+      "max": 140.03,
+      "mean": 140.03,
+      "median": 140.03,
+      "suggested": 116.91,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 67.79,
+      "max": 123.75,
+      "mean": 86.98,
+      "median": 78.18,
+      "suggested": 61.82,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 48.15,
+      "max": 151.69,
+      "mean": 65.82,
+      "median": 51.8,
+      "suggested": 56.99,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 43.91,
+      "max": 45.81,
+      "mean": 44.87,
+      "median": 44.87,
+      "suggested": 52.35,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 48.18,
+      "max": 63.19,
+      "mean": 54.96,
+      "median": 53.52,
+      "suggested": 57.56,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Survival Knife | Boreal Forest (Factory New)",
+      "price": {
+        "min": 140.03,
+        "max": 140.03,
+        "mean": 140.03,
+        "median": 140.03,
+        "suggested": 116.91,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Survival Knife | Boreal Forest (Minimal Wear)",
+      "price": {
+        "min": 67.79,
+        "max": 123.75,
+        "mean": 86.98,
+        "median": 78.18,
+        "suggested": 61.82,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Survival Knife | Boreal Forest (Field-Tested)",
+      "price": {
+        "min": 48.15,
+        "max": 151.69,
+        "mean": 65.82,
+        "median": 51.8,
+        "suggested": 56.99,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Survival Knife | Boreal Forest (Well-Worn)",
+      "price": {
+        "min": 43.91,
+        "max": 45.81,
+        "mean": 44.87,
+        "median": 44.87,
+        "suggested": 52.35,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Survival Knife | Boreal Forest (Battle-Scarred)",
+      "price": {
+        "min": 48.18,
+        "max": 63.19,
+        "mean": 54.96,
+        "median": 53.52,
+        "suggested": 57.56,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Survival Knife | Boreal Forest (Factory New)",
+        "price": {
+          "min": 140.03,
+          "max": 140.03,
+          "mean": 140.03,
+          "median": 140.03,
+          "suggested": 116.91,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Survival Knife | Boreal Forest (Minimal Wear)",
+        "price": {
+          "min": 67.79,
+          "max": 123.75,
+          "mean": 86.98,
+          "median": 78.18,
+          "suggested": 61.82,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Survival Knife | Boreal Forest (Field-Tested)",
+        "price": {
+          "min": 48.15,
+          "max": 151.69,
+          "mean": 65.82,
+          "median": 51.8,
+          "suggested": 56.99,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Survival Knife | Boreal Forest (Well-Worn)",
+        "price": {
+          "min": 43.91,
+          "max": 45.81,
+          "mean": 44.87,
+          "median": 44.87,
+          "suggested": 52.35,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Survival Knife | Boreal Forest (Battle-Scarred)",
+        "price": {
+          "min": 48.18,
+          "max": 63.19,
+          "mean": 54.96,
+          "median": 53.52,
+          "suggested": 57.56,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Boreal Forest (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Boreal Forest (Minimal Wear)",
+        "price": {
+          "min": 89.25,
+          "max": 89.25,
+          "mean": 89.25,
+          "median": 89.25,
+          "suggested": 83.43,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Boreal Forest (Field-Tested)",
+        "price": {
+          "min": 71.59,
+          "max": 256.41,
+          "mean": 164,
+          "median": 164,
+          "suggested": 62.35,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Boreal Forest (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Survival Knife | Boreal Forest (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:33.458Z"
+}

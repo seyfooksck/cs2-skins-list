@@ -1,0 +1,129 @@
+{
+  "id": "skin-9556d6c4e652",
+  "name": "SG 553 | Anodized Navy",
+  "paint_index": "28",
+  "weapon": {
+    "id": "weapon_sg556",
+    "weapon_id": 39,
+    "name": "SG 553",
+    "slug": "sg556"
+  },
+  "pattern": {
+    "id": "an_navy",
+    "name": "Anodized Navy"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The terrorist-exclusive SG553 is a premium scoped alternative to the AK47 for effective long-range engagement. It has been painted with a chrome base coat and candied in transparent navy blue anodized effect paint.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.67,
+      "max": 4676.5,
+      "mean": 10.57,
+      "median": 2.74,
+      "suggested": 0.92,
+      "quantity": 824,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.31,
+      "max": 28.68,
+      "mean": 4.63,
+      "median": 3.38,
+      "suggested": 1.27,
+      "quantity": 51,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SG 553 | Anodized Navy (Factory New)",
+      "price": {
+        "min": 0.67,
+        "max": 4676.5,
+        "mean": 10.57,
+        "median": 2.74,
+        "suggested": 0.92,
+        "quantity": 824,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SG 553 | Anodized Navy (Minimal Wear)",
+      "price": {
+        "min": 1.31,
+        "max": 28.68,
+        "mean": 4.63,
+        "median": 3.38,
+        "suggested": 1.27,
+        "quantity": 51,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SG 553 | Anodized Navy (Factory New)",
+        "price": {
+          "min": 0.67,
+          "max": 4676.5,
+          "mean": 10.57,
+          "median": 2.74,
+          "suggested": 0.92,
+          "quantity": 824,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "SG 553 | Anodized Navy (Minimal Wear)",
+        "price": {
+          "min": 1.31,
+          "max": 28.68,
+          "mean": 4.63,
+          "median": 3.38,
+          "suggested": 1.27,
+          "quantity": 51,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SG 553 | Anodized Navy (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir SG 553 | Anodized Navy (Minimal Wear)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:47.861Z"
+}

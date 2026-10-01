@@ -1,0 +1,310 @@
+{
+  "id": "skin-4ef0fd14ae8f",
+  "name": "MAC-10 | Heat",
+  "paint_index": "284",
+  "weapon": {
+    "id": "weapon_mac10",
+    "weapon_id": 17,
+    "name": "MAC-10",
+    "slug": "mac10"
+  },
+  "pattern": {
+    "id": "cu_mac10_redhot",
+    "name": "Heat"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been custom painted to look as though it just came out of the forge.\\n\\n<i>Make some outlines of your own</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 15.32,
+      "max": 233.36,
+      "mean": 36.21,
+      "median": 22.9,
+      "suggested": 20.55,
+      "quantity": 34,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 5.83,
+      "max": 29.73,
+      "mean": 10.27,
+      "median": 6.46,
+      "suggested": 7.44,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 3.17,
+      "max": 179.23,
+      "mean": 9.42,
+      "median": 3.51,
+      "suggested": 3.92,
+      "quantity": 46,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 2.36,
+      "max": 17.5,
+      "mean": 4.08,
+      "median": 2.82,
+      "suggested": 3.02,
+      "quantity": 26,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 2.47,
+      "max": 30.1,
+      "mean": 5.12,
+      "median": 2.96,
+      "suggested": 2.92,
+      "quantity": 15,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAC-10 | Heat (Factory New)",
+      "price": {
+        "min": 15.32,
+        "max": 233.36,
+        "mean": 36.21,
+        "median": 22.9,
+        "suggested": 20.55,
+        "quantity": 34,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAC-10 | Heat (Minimal Wear)",
+      "price": {
+        "min": 5.83,
+        "max": 29.73,
+        "mean": 10.27,
+        "median": 6.46,
+        "suggested": 7.44,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAC-10 | Heat (Field-Tested)",
+      "price": {
+        "min": 3.17,
+        "max": 179.23,
+        "mean": 9.42,
+        "median": 3.51,
+        "suggested": 3.92,
+        "quantity": 46,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAC-10 | Heat (Well-Worn)",
+      "price": {
+        "min": 2.36,
+        "max": 17.5,
+        "mean": 4.08,
+        "median": 2.82,
+        "suggested": 3.02,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAC-10 | Heat (Battle-Scarred)",
+      "price": {
+        "min": 2.47,
+        "max": 30.1,
+        "mean": 5.12,
+        "median": 2.96,
+        "suggested": 2.92,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAC-10 | Heat (Factory New)",
+        "price": {
+          "min": 15.32,
+          "max": 233.36,
+          "mean": 36.21,
+          "median": 22.9,
+          "suggested": 20.55,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAC-10 | Heat (Minimal Wear)",
+        "price": {
+          "min": 5.83,
+          "max": 29.73,
+          "mean": 10.27,
+          "median": 6.46,
+          "suggested": 7.44,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAC-10 | Heat (Field-Tested)",
+        "price": {
+          "min": 3.17,
+          "max": 179.23,
+          "mean": 9.42,
+          "median": 3.51,
+          "suggested": 3.92,
+          "quantity": 46,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAC-10 | Heat (Well-Worn)",
+        "price": {
+          "min": 2.36,
+          "max": 17.5,
+          "mean": 4.08,
+          "median": 2.82,
+          "suggested": 3.02,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MAC-10 | Heat (Battle-Scarred)",
+        "price": {
+          "min": 2.47,
+          "max": 30.1,
+          "mean": 5.12,
+          "median": 2.96,
+          "suggested": 2.92,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MAC-10 | Heat (Factory New)",
+        "price": {
+          "min": 28.41,
+          "max": 86.49,
+          "mean": 48.29,
+          "median": 40.61,
+          "suggested": 31.76,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MAC-10 | Heat (Minimal Wear)",
+        "price": {
+          "min": 12.59,
+          "max": 38.51,
+          "mean": 22.32,
+          "median": 20.19,
+          "suggested": 15.44,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MAC-10 | Heat (Field-Tested)",
+        "price": {
+          "min": 5.82,
+          "max": 27.55,
+          "mean": 10.62,
+          "median": 9.99,
+          "suggested": 6.98,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MAC-10 | Heat (Well-Worn)",
+        "price": {
+          "min": 4.48,
+          "max": 35.5,
+          "mean": 11.73,
+          "median": 6.65,
+          "suggested": 5.19,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MAC-10 | Heat (Battle-Scarred)",
+        "price": {
+          "min": 4.29,
+          "max": 25.67,
+          "mean": 7.25,
+          "median": 4.5,
+          "suggested": 5.02,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAC-10 | Heat (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAC-10 | Heat (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAC-10 | Heat (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAC-10 | Heat (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAC-10 | Heat (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.724Z"
+}

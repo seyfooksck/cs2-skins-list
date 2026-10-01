@@ -1,0 +1,249 @@
+{
+  "id": "skin-97defdf0ce4c",
+  "name": "FAMAS | Yeti Camo",
+  "paint_index": "1219",
+  "weapon": {
+    "id": "weapon_famas",
+    "weapon_id": 10,
+    "name": "FAMAS",
+    "slug": "famas"
+  },
+  "pattern": {
+    "id": "soe_blue_famas",
+    "name": "Yeti Camo"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. A blue and grey camo pattern has been applied.\\n\\n<i>Arctic camo, eh?</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.38,
+      "max": 32.56,
+      "mean": 5.74,
+      "median": 4.67,
+      "suggested": 2.77,
+      "quantity": 145,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.31,
+      "max": 6.99,
+      "mean": 3.36,
+      "median": 2.79,
+      "suggested": 1.12,
+      "quantity": 126,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.26,
+      "max": 3.37,
+      "mean": 1.94,
+      "median": 2.28,
+      "suggested": 0.33,
+      "quantity": 147,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.2,
+      "max": 1.23,
+      "mean": 0.41,
+      "median": 0.3,
+      "suggested": 0.31,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.19,
+      "max": 0.27,
+      "mean": 0.23,
+      "median": 0.25,
+      "suggested": 0.22,
+      "quantity": 10,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "FAMAS | Yeti Camo (Factory New)",
+      "price": {
+        "min": 2.38,
+        "max": 32.56,
+        "mean": 5.74,
+        "median": 4.67,
+        "suggested": 2.77,
+        "quantity": 145,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "FAMAS | Yeti Camo (Minimal Wear)",
+      "price": {
+        "min": 1.31,
+        "max": 6.99,
+        "mean": 3.36,
+        "median": 2.79,
+        "suggested": 1.12,
+        "quantity": 126,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "FAMAS | Yeti Camo (Field-Tested)",
+      "price": {
+        "min": 0.26,
+        "max": 3.37,
+        "mean": 1.94,
+        "median": 2.28,
+        "suggested": 0.33,
+        "quantity": 147,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "FAMAS | Yeti Camo (Well-Worn)",
+      "price": {
+        "min": 0.2,
+        "max": 1.23,
+        "mean": 0.41,
+        "median": 0.3,
+        "suggested": 0.31,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "FAMAS | Yeti Camo (Battle-Scarred)",
+      "price": {
+        "min": 0.19,
+        "max": 0.27,
+        "mean": 0.23,
+        "median": 0.25,
+        "suggested": 0.22,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "FAMAS | Yeti Camo (Factory New)",
+        "price": {
+          "min": 2.38,
+          "max": 32.56,
+          "mean": 5.74,
+          "median": 4.67,
+          "suggested": 2.77,
+          "quantity": 145,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "FAMAS | Yeti Camo (Minimal Wear)",
+        "price": {
+          "min": 1.31,
+          "max": 6.99,
+          "mean": 3.36,
+          "median": 2.79,
+          "suggested": 1.12,
+          "quantity": 126,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "FAMAS | Yeti Camo (Field-Tested)",
+        "price": {
+          "min": 0.26,
+          "max": 3.37,
+          "mean": 1.94,
+          "median": 2.28,
+          "suggested": 0.33,
+          "quantity": 147,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "FAMAS | Yeti Camo (Well-Worn)",
+        "price": {
+          "min": 0.2,
+          "max": 1.23,
+          "mean": 0.41,
+          "median": 0.3,
+          "suggested": 0.31,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "FAMAS | Yeti Camo (Battle-Scarred)",
+        "price": {
+          "min": 0.19,
+          "max": 0.27,
+          "mean": 0.23,
+          "median": 0.25,
+          "suggested": 0.22,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir FAMAS | Yeti Camo (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir FAMAS | Yeti Camo (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir FAMAS | Yeti Camo (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir FAMAS | Yeti Camo (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir FAMAS | Yeti Camo (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:29.731Z"
+}

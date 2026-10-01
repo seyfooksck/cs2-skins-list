@@ -1,0 +1,249 @@
+{
+  "id": "skin-3c001e4d2e36",
+  "name": "MAG-7 | Wildwood",
+  "paint_index": "773",
+  "weapon": {
+    "id": "weapon_mag7",
+    "weapon_id": 27,
+    "name": "MAG-7",
+    "slug": "mag7"
+  },
+  "pattern": {
+    "id": "soch_wildwood_mag7",
+    "name": "Wildwood"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The CT-exclusive Mag-7 delivers a devastating amount of damage at close range. Its rapid magazine-style reloads make it a great tactical choice. A pattern of \\\"Wildwood\\\" branches and leaves has been applied.\\n\\n<i>\\\"Are you lost?\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.34,
+      "max": 23.05,
+      "mean": 2.23,
+      "median": 1.03,
+      "suggested": 0.39,
+      "quantity": 275,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.08,
+      "max": 9.34,
+      "mean": 1.07,
+      "median": 0.64,
+      "suggested": 0.12,
+      "quantity": 496,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.05,
+      "max": 4.67,
+      "mean": 0.75,
+      "median": 0.51,
+      "suggested": 0.06,
+      "quantity": 911,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.06,
+      "max": 3.99,
+      "mean": 0.27,
+      "median": 0.18,
+      "suggested": 0.06,
+      "quantity": 121,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.05,
+      "max": 5.83,
+      "mean": 0.47,
+      "median": 0.3,
+      "suggested": 0.06,
+      "quantity": 243,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAG-7 | Wildwood (Factory New)",
+      "price": {
+        "min": 0.34,
+        "max": 23.05,
+        "mean": 2.23,
+        "median": 1.03,
+        "suggested": 0.39,
+        "quantity": 275,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAG-7 | Wildwood (Minimal Wear)",
+      "price": {
+        "min": 0.08,
+        "max": 9.34,
+        "mean": 1.07,
+        "median": 0.64,
+        "suggested": 0.12,
+        "quantity": 496,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAG-7 | Wildwood (Field-Tested)",
+      "price": {
+        "min": 0.05,
+        "max": 4.67,
+        "mean": 0.75,
+        "median": 0.51,
+        "suggested": 0.06,
+        "quantity": 911,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAG-7 | Wildwood (Well-Worn)",
+      "price": {
+        "min": 0.06,
+        "max": 3.99,
+        "mean": 0.27,
+        "median": 0.18,
+        "suggested": 0.06,
+        "quantity": 121,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAG-7 | Wildwood (Battle-Scarred)",
+      "price": {
+        "min": 0.05,
+        "max": 5.83,
+        "mean": 0.47,
+        "median": 0.3,
+        "suggested": 0.06,
+        "quantity": 243,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAG-7 | Wildwood (Factory New)",
+        "price": {
+          "min": 0.34,
+          "max": 23.05,
+          "mean": 2.23,
+          "median": 1.03,
+          "suggested": 0.39,
+          "quantity": 275,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAG-7 | Wildwood (Minimal Wear)",
+        "price": {
+          "min": 0.08,
+          "max": 9.34,
+          "mean": 1.07,
+          "median": 0.64,
+          "suggested": 0.12,
+          "quantity": 496,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAG-7 | Wildwood (Field-Tested)",
+        "price": {
+          "min": 0.05,
+          "max": 4.67,
+          "mean": 0.75,
+          "median": 0.51,
+          "suggested": 0.06,
+          "quantity": 911,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAG-7 | Wildwood (Well-Worn)",
+        "price": {
+          "min": 0.06,
+          "max": 3.99,
+          "mean": 0.27,
+          "median": 0.18,
+          "suggested": 0.06,
+          "quantity": 121,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MAG-7 | Wildwood (Battle-Scarred)",
+        "price": {
+          "min": 0.05,
+          "max": 5.83,
+          "mean": 0.47,
+          "median": 0.3,
+          "suggested": 0.06,
+          "quantity": 243,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAG-7 | Wildwood (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAG-7 | Wildwood (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAG-7 | Wildwood (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAG-7 | Wildwood (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAG-7 | Wildwood (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.581Z"
+}

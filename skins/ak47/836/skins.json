@@ -1,0 +1,310 @@
+{
+  "id": "skin-9a7c16468868",
+  "name": "AK-47 | Uncharted",
+  "paint_index": "836",
+  "weapon": {
+    "id": "weapon_ak47",
+    "weapon_id": 7,
+    "name": "AK-47",
+    "slug": "ak47"
+  },
+  "pattern": {
+    "id": "cu_ak47_aztec",
+    "name": "Uncharted"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.75,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. A custom paint job of various tribal patterns has been applied.\\n\\n<i>We share the same canoe</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 3.71,
+      "max": 262.56,
+      "mean": 15.7,
+      "median": 7.19,
+      "suggested": 6.15,
+      "quantity": 96,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.89,
+      "max": 428.93,
+      "mean": 4.43,
+      "median": 1.26,
+      "suggested": 1.27,
+      "quantity": 304,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.57,
+      "max": 131.86,
+      "mean": 1.46,
+      "median": 0.91,
+      "suggested": 0.84,
+      "quantity": 667,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.65,
+      "max": 4.39,
+      "mean": 1.49,
+      "median": 1.53,
+      "suggested": 0.9,
+      "quantity": 93,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.54,
+      "max": 23.34,
+      "mean": 1.13,
+      "median": 0.84,
+      "suggested": 0.81,
+      "quantity": 173,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AK-47 | Uncharted (Factory New)",
+      "price": {
+        "min": 3.71,
+        "max": 262.56,
+        "mean": 15.7,
+        "median": 7.19,
+        "suggested": 6.15,
+        "quantity": 96,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AK-47 | Uncharted (Minimal Wear)",
+      "price": {
+        "min": 0.89,
+        "max": 428.93,
+        "mean": 4.43,
+        "median": 1.26,
+        "suggested": 1.27,
+        "quantity": 304,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AK-47 | Uncharted (Field-Tested)",
+      "price": {
+        "min": 0.57,
+        "max": 131.86,
+        "mean": 1.46,
+        "median": 0.91,
+        "suggested": 0.84,
+        "quantity": 667,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AK-47 | Uncharted (Well-Worn)",
+      "price": {
+        "min": 0.65,
+        "max": 4.39,
+        "mean": 1.49,
+        "median": 1.53,
+        "suggested": 0.9,
+        "quantity": 93,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AK-47 | Uncharted (Battle-Scarred)",
+      "price": {
+        "min": 0.54,
+        "max": 23.34,
+        "mean": 1.13,
+        "median": 0.84,
+        "suggested": 0.81,
+        "quantity": 173,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AK-47 | Uncharted (Factory New)",
+        "price": {
+          "min": 3.71,
+          "max": 262.56,
+          "mean": 15.7,
+          "median": 7.19,
+          "suggested": 6.15,
+          "quantity": 96,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AK-47 | Uncharted (Minimal Wear)",
+        "price": {
+          "min": 0.89,
+          "max": 428.93,
+          "mean": 4.43,
+          "median": 1.26,
+          "suggested": 1.27,
+          "quantity": 304,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AK-47 | Uncharted (Field-Tested)",
+        "price": {
+          "min": 0.57,
+          "max": 131.86,
+          "mean": 1.46,
+          "median": 0.91,
+          "suggested": 0.84,
+          "quantity": 667,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AK-47 | Uncharted (Well-Worn)",
+        "price": {
+          "min": 0.65,
+          "max": 4.39,
+          "mean": 1.49,
+          "median": 1.53,
+          "suggested": 0.9,
+          "quantity": 93,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AK-47 | Uncharted (Battle-Scarred)",
+        "price": {
+          "min": 0.54,
+          "max": 23.34,
+          "mean": 1.13,
+          "median": 0.84,
+          "suggested": 0.81,
+          "quantity": 173,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AK-47 | Uncharted (Factory New)",
+        "price": {
+          "min": 6.11,
+          "max": 55.9,
+          "mean": 16.47,
+          "median": 9.84,
+          "suggested": 6.91,
+          "quantity": 48,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AK-47 | Uncharted (Minimal Wear)",
+        "price": {
+          "min": 2.7,
+          "max": 123.68,
+          "mean": 10.98,
+          "median": 3.66,
+          "suggested": 3.57,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AK-47 | Uncharted (Field-Tested)",
+        "price": {
+          "min": 2.04,
+          "max": 23.34,
+          "mean": 3.85,
+          "median": 3.2,
+          "suggested": 2.77,
+          "quantity": 177,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AK-47 | Uncharted (Well-Worn)",
+        "price": {
+          "min": 2.49,
+          "max": 11.67,
+          "mean": 4.52,
+          "median": 3.79,
+          "suggested": 2.91,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ AK-47 | Uncharted (Battle-Scarred)",
+        "price": {
+          "min": 2.32,
+          "max": 1202.61,
+          "mean": 27.53,
+          "median": 3.01,
+          "suggested": 2.74,
+          "quantity": 51,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AK-47 | Uncharted (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AK-47 | Uncharted (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AK-47 | Uncharted (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AK-47 | Uncharted (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AK-47 | Uncharted (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:20:20.481Z"
+}

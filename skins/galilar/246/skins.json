@@ -1,0 +1,217 @@
+{
+  "id": "skin-dc1a0332945f",
+  "name": "Galil AR | Amber Fade",
+  "paint_index": "246",
+  "weapon": {
+    "id": "weapon_galilar",
+    "weapon_id": 13,
+    "name": "Galil AR",
+    "slug": "galilar"
+  },
+  "pattern": {
+    "id": "aa_fade_metallic",
+    "name": "Amber Fade"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.4,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat. It has been painted by airbrushing transparent paints that fade together over a chrome base coat.\\n\\n<i>This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 33.01,
+      "max": 1682.72,
+      "mean": 160.59,
+      "median": 107.99,
+      "suggested": 27.21,
+      "quantity": 26,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 6.06,
+      "max": 116.69,
+      "mean": 42.93,
+      "median": 25.98,
+      "suggested": 5.75,
+      "quantity": 13,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 6.64,
+      "max": 44.97,
+      "mean": 24.3,
+      "median": 22.78,
+      "suggested": 4.38,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ww": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Galil AR | Amber Fade (Factory New)",
+      "price": {
+        "min": 33.01,
+        "max": 1682.72,
+        "mean": 160.59,
+        "median": 107.99,
+        "suggested": 27.21,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Galil AR | Amber Fade (Minimal Wear)",
+      "price": {
+        "min": 6.06,
+        "max": 116.69,
+        "mean": 42.93,
+        "median": 25.98,
+        "suggested": 5.75,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Galil AR | Amber Fade (Field-Tested)",
+      "price": {
+        "min": 6.64,
+        "max": 44.97,
+        "mean": 24.3,
+        "median": 22.78,
+        "suggested": 4.38,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Galil AR | Amber Fade (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Galil AR | Amber Fade (Factory New)",
+        "price": {
+          "min": 33.01,
+          "max": 1682.72,
+          "mean": 160.59,
+          "median": 107.99,
+          "suggested": 27.21,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Galil AR | Amber Fade (Minimal Wear)",
+        "price": {
+          "min": 6.06,
+          "max": 116.69,
+          "mean": 42.93,
+          "median": 25.98,
+          "suggested": 5.75,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Galil AR | Amber Fade (Field-Tested)",
+        "price": {
+          "min": 6.64,
+          "max": 44.97,
+          "mean": 24.3,
+          "median": 22.78,
+          "suggested": 4.38,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Galil AR | Amber Fade (Well-Worn)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Galil AR | Amber Fade (Factory New)",
+        "price": {
+          "min": 7.66,
+          "max": 156.29,
+          "mean": 20.05,
+          "median": 12.05,
+          "suggested": 8.74,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Galil AR | Amber Fade (Minimal Wear)",
+        "price": {
+          "min": 5.27,
+          "max": 826.51,
+          "mean": 45.53,
+          "median": 7.9,
+          "suggested": 5.78,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Galil AR | Amber Fade (Field-Tested)",
+        "price": {
+          "min": 2.75,
+          "max": 23.34,
+          "mean": 8.45,
+          "median": 4.4,
+          "suggested": 3.76,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Galil AR | Amber Fade (Well-Worn)",
+        "price": {
+          "min": 3.23,
+          "max": 3.23,
+          "mean": 3.23,
+          "median": 3.23,
+          "suggested": 3.79,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:30.832Z"
+}

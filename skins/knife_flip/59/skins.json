@@ -1,0 +1,185 @@
+{
+  "id": "skin-66d8b7a8bda6",
+  "name": "★ Flip Knife | Slaughter",
+  "paint_index": "59",
+  "weapon": {
+    "id": "weapon_knife_flip",
+    "weapon_id": 505,
+    "name": "Flip Knife",
+    "slug": "knife_flip"
+  },
+  "pattern": {
+    "id": "am_zebra",
+    "name": "Slaughter"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.01,
+  "max_float": 0.26,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Flip knives sport a Persian-style back-swept blade with an acute point.  While the point itself may be fragile, the overall design of the flip knife's design is surprisingly durable. It has been painted in a zebra-stripe pattern with aluminum and chrome paints with various reflectivities, and has then been covered with a tomato red candy coat.\\n\\n<i>Valeria doesn't pay Javier to ask questions... she pays him to pry out answers</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 318.67,
+      "max": 419.96,
+      "mean": 349.58,
+      "median": 341.32,
+      "suggested": 415.93,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 283.5,
+      "max": 486.47,
+      "mean": 339.29,
+      "median": 325.23,
+      "suggested": 370.99,
+      "quantity": 13,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 304.14,
+      "max": 304.14,
+      "mean": 304.14,
+      "median": 304.14,
+      "suggested": 351.11,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Flip Knife | Slaughter (Factory New)",
+      "price": {
+        "min": 318.67,
+        "max": 419.96,
+        "mean": 349.58,
+        "median": 341.32,
+        "suggested": 415.93,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Flip Knife | Slaughter (Minimal Wear)",
+      "price": {
+        "min": 283.5,
+        "max": 486.47,
+        "mean": 339.29,
+        "median": 325.23,
+        "suggested": 370.99,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Flip Knife | Slaughter (Field-Tested)",
+      "price": {
+        "min": 304.14,
+        "max": 304.14,
+        "mean": 304.14,
+        "median": 304.14,
+        "suggested": 351.11,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Flip Knife | Slaughter (Factory New)",
+        "price": {
+          "min": 318.67,
+          "max": 419.96,
+          "mean": 349.58,
+          "median": 341.32,
+          "suggested": 415.93,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Flip Knife | Slaughter (Minimal Wear)",
+        "price": {
+          "min": 283.5,
+          "max": 486.47,
+          "mean": 339.29,
+          "median": 325.23,
+          "suggested": 370.99,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Flip Knife | Slaughter (Field-Tested)",
+        "price": {
+          "min": 304.14,
+          "max": 304.14,
+          "mean": 304.14,
+          "median": 304.14,
+          "suggested": 351.11,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Slaughter (Factory New)",
+        "price": {
+          "min": 501.77,
+          "max": 501.77,
+          "mean": 501.77,
+          "median": 501.77,
+          "suggested": 456.93,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Slaughter (Minimal Wear)",
+        "price": {
+          "min": 344.37,
+          "max": 344.37,
+          "mean": 344.37,
+          "median": 344.37,
+          "suggested": 355.93,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Slaughter (Field-Tested)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:34.655Z"
+}

@@ -1,0 +1,156 @@
+{
+  "id": "skin-e73d6e7e9004",
+  "name": "MP5-SD | Lab Rats",
+  "paint_index": "800",
+  "weapon": {
+    "id": "weapon_mp5sd",
+    "weapon_id": 23,
+    "name": "MP5-SD",
+    "slug": "mp5sd"
+  },
+  "pattern": {
+    "id": "hy_labrat_mp5",
+    "name": "Lab Rats"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.35,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": null,
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.49,
+      "max": 36.07,
+      "mean": 3.3,
+      "median": 2.53,
+      "suggested": 0.66,
+      "quantity": 315,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.29,
+      "max": 46.68,
+      "mean": 2.29,
+      "median": 1.96,
+      "suggested": 0.42,
+      "quantity": 366,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.29,
+      "max": 20.48,
+      "mean": 1.73,
+      "median": 0.63,
+      "suggested": 0.35,
+      "quantity": 215,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Souvenir MP5-SD | Lab Rats (Factory New)",
+      "price": {
+        "min": 0.49,
+        "max": 36.07,
+        "mean": 3.3,
+        "median": 2.53,
+        "suggested": 0.66,
+        "quantity": 315,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Souvenir MP5-SD | Lab Rats (Minimal Wear)",
+      "price": {
+        "min": 0.29,
+        "max": 46.68,
+        "mean": 2.29,
+        "median": 1.96,
+        "suggested": 0.42,
+        "quantity": 366,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Souvenir MP5-SD | Lab Rats (Field-Tested)",
+      "price": {
+        "min": 0.29,
+        "max": 20.48,
+        "mean": 1.73,
+        "median": 0.63,
+        "suggested": 0.35,
+        "quantity": 215,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {},
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP5-SD | Lab Rats (Factory New)",
+        "price": {
+          "min": 0.49,
+          "max": 36.07,
+          "mean": 3.3,
+          "median": 2.53,
+          "suggested": 0.66,
+          "quantity": 315,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP5-SD | Lab Rats (Minimal Wear)",
+        "price": {
+          "min": 0.29,
+          "max": 46.68,
+          "mean": 2.29,
+          "median": 1.96,
+          "suggested": 0.42,
+          "quantity": 366,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP5-SD | Lab Rats (Field-Tested)",
+        "price": {
+          "min": 0.29,
+          "max": 20.48,
+          "mean": 1.73,
+          "median": 0.63,
+          "suggested": 0.35,
+          "quantity": 215,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.798Z"
+}

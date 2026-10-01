@@ -1,0 +1,289 @@
+{
+  "id": "skin-c0a577a1a5b2",
+  "name": "SSG 08 | Hand Brake",
+  "paint_index": "751",
+  "weapon": {
+    "id": "weapon_ssg08",
+    "weapon_id": 40,
+    "name": "SSG 08",
+    "slug": "ssg08"
+  },
+  "pattern": {
+    "id": "gs_ssg08_checker",
+    "name": "Hand Brake"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship. It has been hand painted with blue and white checkerboard patterns.\\n\\n<i>Meant for oversteer, not parking</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 4.9,
+      "max": 60.94,
+      "mean": 11.02,
+      "median": 10.78,
+      "suggested": 6.58,
+      "quantity": 70,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.89,
+      "max": 6.08,
+      "mean": 2.75,
+      "median": 2.46,
+      "suggested": 2.25,
+      "quantity": 49,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.92,
+      "max": 25.67,
+      "mean": 2.07,
+      "median": 1.37,
+      "suggested": 1.27,
+      "quantity": 86,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.82,
+      "max": 1.9,
+      "mean": 1.24,
+      "median": 1.16,
+      "suggested": 1.07,
+      "quantity": 53,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.69,
+      "max": 39.94,
+      "mean": 2.79,
+      "median": 1.52,
+      "suggested": 0.97,
+      "quantity": 46,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SSG 08 | Hand Brake (Factory New)",
+      "price": {
+        "min": 4.9,
+        "max": 60.94,
+        "mean": 11.02,
+        "median": 10.78,
+        "suggested": 6.58,
+        "quantity": 70,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SSG 08 | Hand Brake (Minimal Wear)",
+      "price": {
+        "min": 1.89,
+        "max": 6.08,
+        "mean": 2.75,
+        "median": 2.46,
+        "suggested": 2.25,
+        "quantity": 49,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "SSG 08 | Hand Brake (Field-Tested)",
+      "price": {
+        "min": 0.92,
+        "max": 25.67,
+        "mean": 2.07,
+        "median": 1.37,
+        "suggested": 1.27,
+        "quantity": 86,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "SSG 08 | Hand Brake (Well-Worn)",
+      "price": {
+        "min": 0.82,
+        "max": 1.9,
+        "mean": 1.24,
+        "median": 1.16,
+        "suggested": 1.07,
+        "quantity": 53,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "SSG 08 | Hand Brake (Battle-Scarred)",
+      "price": {
+        "min": 0.69,
+        "max": 39.94,
+        "mean": 2.79,
+        "median": 1.52,
+        "suggested": 0.97,
+        "quantity": 46,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SSG 08 | Hand Brake (Factory New)",
+        "price": {
+          "min": 4.9,
+          "max": 60.94,
+          "mean": 11.02,
+          "median": 10.78,
+          "suggested": 6.58,
+          "quantity": 70,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "SSG 08 | Hand Brake (Minimal Wear)",
+        "price": {
+          "min": 1.89,
+          "max": 6.08,
+          "mean": 2.75,
+          "median": 2.46,
+          "suggested": 2.25,
+          "quantity": 49,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "SSG 08 | Hand Brake (Field-Tested)",
+        "price": {
+          "min": 0.92,
+          "max": 25.67,
+          "mean": 2.07,
+          "median": 1.37,
+          "suggested": 1.27,
+          "quantity": 86,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "SSG 08 | Hand Brake (Well-Worn)",
+        "price": {
+          "min": 0.82,
+          "max": 1.9,
+          "mean": 1.24,
+          "median": 1.16,
+          "suggested": 1.07,
+          "quantity": 53,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "SSG 08 | Hand Brake (Battle-Scarred)",
+        "price": {
+          "min": 0.69,
+          "max": 39.94,
+          "mean": 2.79,
+          "median": 1.52,
+          "suggested": 0.97,
+          "quantity": 46,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SSG 08 | Hand Brake (Factory New)",
+        "price": {
+          "min": 16.13,
+          "max": 10339.06,
+          "mean": 1321.18,
+          "median": 32.6,
+          "suggested": 18.32,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir SSG 08 | Hand Brake (Minimal Wear)",
+        "price": {
+          "min": 3.17,
+          "max": 37.34,
+          "mean": 15.96,
+          "median": 18.09,
+          "suggested": 4.29,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir SSG 08 | Hand Brake (Field-Tested)",
+        "price": {
+          "min": 2.33,
+          "max": 12.84,
+          "mean": 6.35,
+          "median": 4.08,
+          "suggested": 2.46,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir SSG 08 | Hand Brake (Well-Worn)",
+        "price": {
+          "min": 2.16,
+          "max": 9.34,
+          "mean": 4.49,
+          "median": 3.57,
+          "suggested": 2.01,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir SSG 08 | Hand Brake (Battle-Scarred)",
+        "price": {
+          "min": 1.87,
+          "max": 128.35,
+          "mean": 16.85,
+          "median": 5.18,
+          "suggested": 2.14,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:48.566Z"
+}

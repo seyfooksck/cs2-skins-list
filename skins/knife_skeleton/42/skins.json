@@ -1,0 +1,241 @@
+{
+  "id": "skin-2256804e0df0",
+  "name": "★ Skeleton Knife | Blue Steel",
+  "paint_index": "42",
+  "weapon": {
+    "id": "weapon_knife_skeleton",
+    "weapon_id": 525,
+    "name": "Skeleton Knife",
+    "slug": "knife_skeleton"
+  },
+  "pattern": {
+    "id": "aq_blued",
+    "name": "Blue Steel"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This skeletonized-tang knife has been taped at the handle for improved grip. The hole allows a finger to be threaded through for stability and safety. It has been cold blued.\\n\\n<i>This is the malbec of weapon design - Booth, Arms Dealer</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 288.23,
+      "max": 420.1,
+      "mean": 319.82,
+      "median": 305.68,
+      "suggested": 355.64,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 239.22,
+      "max": 582.3,
+      "mean": 308.14,
+      "median": 263.79,
+      "suggested": 306.86,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 239.19,
+      "max": 449.27,
+      "mean": 297.88,
+      "median": 251.53,
+      "suggested": 297.43,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 235.32,
+      "max": 249.72,
+      "mean": 242.52,
+      "median": 242.52,
+      "suggested": 285.54,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Skeleton Knife | Blue Steel (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Skeleton Knife | Blue Steel (Minimal Wear)",
+      "price": {
+        "min": 288.23,
+        "max": 420.1,
+        "mean": 319.82,
+        "median": 305.68,
+        "suggested": 355.64,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Skeleton Knife | Blue Steel (Field-Tested)",
+      "price": {
+        "min": 239.22,
+        "max": 582.3,
+        "mean": 308.14,
+        "median": 263.79,
+        "suggested": 306.86,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Skeleton Knife | Blue Steel (Well-Worn)",
+      "price": {
+        "min": 239.19,
+        "max": 449.27,
+        "mean": 297.88,
+        "median": 251.53,
+        "suggested": 297.43,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Skeleton Knife | Blue Steel (Battle-Scarred)",
+      "price": {
+        "min": 235.32,
+        "max": 249.72,
+        "mean": 242.52,
+        "median": 242.52,
+        "suggested": 285.54,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Skeleton Knife | Blue Steel (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Skeleton Knife | Blue Steel (Minimal Wear)",
+        "price": {
+          "min": 288.23,
+          "max": 420.1,
+          "mean": 319.82,
+          "median": 305.68,
+          "suggested": 355.64,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Skeleton Knife | Blue Steel (Field-Tested)",
+        "price": {
+          "min": 239.22,
+          "max": 582.3,
+          "mean": 308.14,
+          "median": 263.79,
+          "suggested": 306.86,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Skeleton Knife | Blue Steel (Well-Worn)",
+        "price": {
+          "min": 239.19,
+          "max": 449.27,
+          "mean": 297.88,
+          "median": 251.53,
+          "suggested": 297.43,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Skeleton Knife | Blue Steel (Battle-Scarred)",
+        "price": {
+          "min": 235.32,
+          "max": 249.72,
+          "mean": 242.52,
+          "median": 242.52,
+          "suggested": 285.54,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Skeleton Knife | Blue Steel (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Skeleton Knife | Blue Steel (Minimal Wear)",
+        "price": {
+          "min": 301.63,
+          "max": 338.63,
+          "mean": 315.83,
+          "median": 307.24,
+          "suggested": 368.22,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Skeleton Knife | Blue Steel (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Skeleton Knife | Blue Steel (Well-Worn)",
+        "price": {
+          "min": 286.13,
+          "max": 286.13,
+          "mean": 286.13,
+          "median": 286.13,
+          "suggested": 320.84,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Skeleton Knife | Blue Steel (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:37.698Z"
+}

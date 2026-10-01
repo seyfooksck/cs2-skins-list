@@ -1,0 +1,234 @@
+{
+  "id": "skin-4446c57d24ed",
+  "name": "UMP-45 | Labyrinth",
+  "paint_index": "362",
+  "weapon": {
+    "id": "weapon_ump45",
+    "weapon_id": 24,
+    "name": "UMP-45",
+    "slug": "ump45"
+  },
+  "pattern": {
+    "id": "hy_lines_orange",
+    "name": "Labyrinth"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.4,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic. It has been painted with subtle orange linework.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.09,
+      "max": 29.17,
+      "mean": 3.43,
+      "median": 1.58,
+      "suggested": 1.57,
+      "quantity": 97,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.33,
+      "max": 5.25,
+      "mean": 0.77,
+      "median": 0.49,
+      "suggested": 0.48,
+      "quantity": 88,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.39,
+      "max": 5.83,
+      "mean": 0.78,
+      "median": 0.47,
+      "suggested": 0.52,
+      "quantity": 76,
+      "currency": "USD"
+    },
+    "ww": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "UMP-45 | Labyrinth (Factory New)",
+      "price": {
+        "min": 1.09,
+        "max": 29.17,
+        "mean": 3.43,
+        "median": 1.58,
+        "suggested": 1.57,
+        "quantity": 97,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "UMP-45 | Labyrinth (Minimal Wear)",
+      "price": {
+        "min": 0.33,
+        "max": 5.25,
+        "mean": 0.77,
+        "median": 0.49,
+        "suggested": 0.48,
+        "quantity": 88,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "UMP-45 | Labyrinth (Field-Tested)",
+      "price": {
+        "min": 0.39,
+        "max": 5.83,
+        "mean": 0.78,
+        "median": 0.47,
+        "suggested": 0.52,
+        "quantity": 76,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "UMP-45 | Labyrinth (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "UMP-45 | Labyrinth (Factory New)",
+        "price": {
+          "min": 1.09,
+          "max": 29.17,
+          "mean": 3.43,
+          "median": 1.58,
+          "suggested": 1.57,
+          "quantity": 97,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "UMP-45 | Labyrinth (Minimal Wear)",
+        "price": {
+          "min": 0.33,
+          "max": 5.25,
+          "mean": 0.77,
+          "median": 0.49,
+          "suggested": 0.48,
+          "quantity": 88,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "UMP-45 | Labyrinth (Field-Tested)",
+        "price": {
+          "min": 0.39,
+          "max": 5.83,
+          "mean": 0.78,
+          "median": 0.47,
+          "suggested": 0.52,
+          "quantity": 76,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "UMP-45 | Labyrinth (Well-Worn)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ UMP-45 | Labyrinth (Factory New)",
+        "price": {
+          "min": 0.71,
+          "max": 40.84,
+          "mean": 4.33,
+          "median": 1.1,
+          "suggested": 1.04,
+          "quantity": 57,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ UMP-45 | Labyrinth (Minimal Wear)",
+        "price": {
+          "min": 0.4,
+          "max": 29.17,
+          "mean": 1.37,
+          "median": 0.81,
+          "suggested": 0.51,
+          "quantity": 134,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ UMP-45 | Labyrinth (Field-Tested)",
+        "price": {
+          "min": 0.27,
+          "max": 46.68,
+          "mean": 1.52,
+          "median": 0.47,
+          "suggested": 0.38,
+          "quantity": 50,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ UMP-45 | Labyrinth (Well-Worn)",
+        "price": {
+          "min": 10.82,
+          "max": 20.42,
+          "mean": 15.63,
+          "median": 15.63,
+          "suggested": 0.51,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir UMP-45 | Labyrinth (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir UMP-45 | Labyrinth (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir UMP-45 | Labyrinth (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir UMP-45 | Labyrinth (Well-Worn)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:50.084Z"
+}

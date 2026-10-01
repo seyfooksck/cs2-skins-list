@@ -1,0 +1,265 @@
+{
+  "id": "skin-169fc42e8d8a",
+  "name": "MP5-SD | Oxide Oasis",
+  "paint_index": "923",
+  "weapon": {
+    "id": "weapon_mp5sd",
+    "weapon_id": 23,
+    "name": "MP5-SD",
+    "slug": "mp5sd"
+  },
+  "pattern": {
+    "id": "gs_mp5_neon_flektarn",
+    "name": "Oxide Oasis"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.55,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. A brightly-colored orange and teal camouflage pattern has been applied. The weapon has been finished with gold accents.\\n\\n<i>A weapon this quiet shouldn't be so loud</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 268.64,
+      "max": 523.45,
+      "mean": 365.12,
+      "median": 348.61,
+      "suggested": 246.19,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 172.17,
+      "max": 547.29,
+      "mean": 355.78,
+      "median": 401.11,
+      "suggested": 199.9,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 144.42,
+      "max": 443.44,
+      "mean": 263.98,
+      "median": 267.79,
+      "suggested": 175.12,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 193,
+      "max": 210.05,
+      "mean": 201.53,
+      "median": 201.53,
+      "suggested": 202.16,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP5-SD | Oxide Oasis (Factory New)",
+      "price": {
+        "min": 268.64,
+        "max": 523.45,
+        "mean": 365.12,
+        "median": 348.61,
+        "suggested": 246.19,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP5-SD | Oxide Oasis (Minimal Wear)",
+      "price": {
+        "min": 172.17,
+        "max": 547.29,
+        "mean": 355.78,
+        "median": 401.11,
+        "suggested": 199.9,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP5-SD | Oxide Oasis (Field-Tested)",
+      "price": {
+        "min": 144.42,
+        "max": 443.44,
+        "mean": 263.98,
+        "median": 267.79,
+        "suggested": 175.12,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP5-SD | Oxide Oasis (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP5-SD | Oxide Oasis (Battle-Scarred)",
+      "price": {
+        "min": 193,
+        "max": 210.05,
+        "mean": 201.53,
+        "median": 201.53,
+        "suggested": 202.16,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP5-SD | Oxide Oasis (Factory New)",
+        "price": {
+          "min": 268.64,
+          "max": 523.45,
+          "mean": 365.12,
+          "median": 348.61,
+          "suggested": 246.19,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP5-SD | Oxide Oasis (Minimal Wear)",
+        "price": {
+          "min": 172.17,
+          "max": 547.29,
+          "mean": 355.78,
+          "median": 401.11,
+          "suggested": 199.9,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP5-SD | Oxide Oasis (Field-Tested)",
+        "price": {
+          "min": 144.42,
+          "max": 443.44,
+          "mean": 263.98,
+          "median": 267.79,
+          "suggested": 175.12,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP5-SD | Oxide Oasis (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "MP5-SD | Oxide Oasis (Battle-Scarred)",
+        "price": {
+          "min": 193,
+          "max": 210.05,
+          "mean": 201.53,
+          "median": 201.53,
+          "suggested": 202.16,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP5-SD | Oxide Oasis (Factory New)",
+        "price": {
+          "min": 181.96,
+          "max": 260.22,
+          "mean": 205.45,
+          "median": 198.38,
+          "suggested": 221.37,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP5-SD | Oxide Oasis (Minimal Wear)",
+        "price": {
+          "min": 173.79,
+          "max": 350.07,
+          "mean": 241.73,
+          "median": 266.83,
+          "suggested": 185.87,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP5-SD | Oxide Oasis (Field-Tested)",
+        "price": {
+          "min": 136.04,
+          "max": 193.62,
+          "mean": 152.53,
+          "median": 146.78,
+          "suggested": 177.98,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP5-SD | Oxide Oasis (Well-Worn)",
+        "price": {
+          "min": 128.36,
+          "max": 128.36,
+          "mean": 128.36,
+          "median": 128.36,
+          "suggested": 24.22,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP5-SD | Oxide Oasis (Battle-Scarred)",
+        "price": {
+          "min": 256.73,
+          "max": 256.73,
+          "mean": 256.73,
+          "median": 256.73,
+          "suggested": 18.76,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.736Z"
+}

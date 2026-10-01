@@ -1,0 +1,310 @@
+{
+  "id": "skin-c9be0566433c",
+  "name": "M4A1-S | Leaded Glass",
+  "paint_index": "681",
+  "weapon": {
+    "id": "weapon_m4a1_silencer",
+    "weapon_id": 60,
+    "name": "M4A1-S",
+    "slug": "m4a1_silencer"
+  },
+  "pattern": {
+    "id": "gs_m4a1_shatter",
+    "name": "Leaded Glass"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. It has been hand painted to resemble shattered blue and orange glass.\\n\\n<i>Lethal fragility</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 64.18,
+      "max": 398.1,
+      "mean": 136.15,
+      "median": 89.54,
+      "suggested": 82.62,
+      "quantity": 44,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 10.98,
+      "max": 72.35,
+      "mean": 17.27,
+      "median": 12.17,
+      "suggested": 13.79,
+      "quantity": 112,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 10.09,
+      "max": 135.66,
+      "mean": 14.87,
+      "median": 11.26,
+      "suggested": 13.15,
+      "quantity": 223,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 10.06,
+      "max": 17.5,
+      "mean": 12.87,
+      "median": 11.67,
+      "suggested": 12.2,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 9.69,
+      "max": 35.01,
+      "mean": 12.47,
+      "median": 10.88,
+      "suggested": 12.03,
+      "quantity": 25,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A1-S | Leaded Glass (Factory New)",
+      "price": {
+        "min": 64.18,
+        "max": 398.1,
+        "mean": 136.15,
+        "median": 89.54,
+        "suggested": 82.62,
+        "quantity": 44,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A1-S | Leaded Glass (Minimal Wear)",
+      "price": {
+        "min": 10.98,
+        "max": 72.35,
+        "mean": 17.27,
+        "median": 12.17,
+        "suggested": 13.79,
+        "quantity": 112,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A1-S | Leaded Glass (Field-Tested)",
+      "price": {
+        "min": 10.09,
+        "max": 135.66,
+        "mean": 14.87,
+        "median": 11.26,
+        "suggested": 13.15,
+        "quantity": 223,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M4A1-S | Leaded Glass (Well-Worn)",
+      "price": {
+        "min": 10.06,
+        "max": 17.5,
+        "mean": 12.87,
+        "median": 11.67,
+        "suggested": 12.2,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M4A1-S | Leaded Glass (Battle-Scarred)",
+      "price": {
+        "min": 9.69,
+        "max": 35.01,
+        "mean": 12.47,
+        "median": 10.88,
+        "suggested": 12.03,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A1-S | Leaded Glass (Factory New)",
+        "price": {
+          "min": 64.18,
+          "max": 398.1,
+          "mean": 136.15,
+          "median": 89.54,
+          "suggested": 82.62,
+          "quantity": 44,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A1-S | Leaded Glass (Minimal Wear)",
+        "price": {
+          "min": 10.98,
+          "max": 72.35,
+          "mean": 17.27,
+          "median": 12.17,
+          "suggested": 13.79,
+          "quantity": 112,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A1-S | Leaded Glass (Field-Tested)",
+        "price": {
+          "min": 10.09,
+          "max": 135.66,
+          "mean": 14.87,
+          "median": 11.26,
+          "suggested": 13.15,
+          "quantity": 223,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M4A1-S | Leaded Glass (Well-Worn)",
+        "price": {
+          "min": 10.06,
+          "max": 17.5,
+          "mean": 12.87,
+          "median": 11.67,
+          "suggested": 12.2,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M4A1-S | Leaded Glass (Battle-Scarred)",
+        "price": {
+          "min": 9.69,
+          "max": 35.01,
+          "mean": 12.47,
+          "median": 10.88,
+          "suggested": 12.03,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ M4A1-S | Leaded Glass (Factory New)",
+        "price": {
+          "min": 41.95,
+          "max": 191.79,
+          "mean": 79.13,
+          "median": 68.03,
+          "suggested": 51.3,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ M4A1-S | Leaded Glass (Minimal Wear)",
+        "price": {
+          "min": 20.54,
+          "max": 70,
+          "mean": 27.22,
+          "median": 23.91,
+          "suggested": 26.31,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ M4A1-S | Leaded Glass (Field-Tested)",
+        "price": {
+          "min": 11.9,
+          "max": 69.63,
+          "mean": 21.1,
+          "median": 17.52,
+          "suggested": 15.57,
+          "quantity": 54,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ M4A1-S | Leaded Glass (Well-Worn)",
+        "price": {
+          "min": 17.01,
+          "max": 1166.94,
+          "mean": 251.07,
+          "median": 23.46,
+          "suggested": 19.12,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ M4A1-S | Leaded Glass (Battle-Scarred)",
+        "price": {
+          "min": 13.98,
+          "max": 57.96,
+          "mean": 21.92,
+          "median": 16.49,
+          "suggested": 14,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A1-S | Leaded Glass (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A1-S | Leaded Glass (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A1-S | Leaded Glass (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M4A1-S | Leaded Glass (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M4A1-S | Leaded Glass (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:40.981Z"
+}

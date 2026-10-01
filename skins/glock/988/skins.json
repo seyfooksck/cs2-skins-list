@@ -1,0 +1,310 @@
+{
+  "id": "skin-7127818b09a6",
+  "name": "Glock-18 | Neo-Noir",
+  "paint_index": "988",
+  "weapon": {
+    "id": "weapon_glock",
+    "weapon_id": 4,
+    "name": "Glock-18",
+    "slug": "glock"
+  },
+  "pattern": {
+    "id": "cu_glock_noir",
+    "name": "Neo-Noir"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. It has been custom painted with a stylized blue-magenta woman over a grayscale background.\\n\\n<i>\\\"Things were starting to turn and she began to feel hope—then she looked up\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 247.41,
+      "max": 641.82,
+      "mean": 386.35,
+      "median": 382.57,
+      "suggested": 355.44,
+      "quantity": 16,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 60.1,
+      "max": 204.83,
+      "mean": 82.82,
+      "median": 71.08,
+      "suggested": 77.07,
+      "quantity": 48,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 36.7,
+      "max": 70.02,
+      "mean": 45.79,
+      "median": 44.54,
+      "suggested": 48.49,
+      "quantity": 102,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 33.65,
+      "max": 110.86,
+      "mean": 41.55,
+      "median": 38.49,
+      "suggested": 43.51,
+      "quantity": 51,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 31.27,
+      "max": 64.17,
+      "mean": 37,
+      "median": 35.8,
+      "suggested": 40.88,
+      "quantity": 17,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Glock-18 | Neo-Noir (Factory New)",
+      "price": {
+        "min": 247.41,
+        "max": 641.82,
+        "mean": 386.35,
+        "median": 382.57,
+        "suggested": 355.44,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Glock-18 | Neo-Noir (Minimal Wear)",
+      "price": {
+        "min": 60.1,
+        "max": 204.83,
+        "mean": 82.82,
+        "median": 71.08,
+        "suggested": 77.07,
+        "quantity": 48,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Glock-18 | Neo-Noir (Field-Tested)",
+      "price": {
+        "min": 36.7,
+        "max": 70.02,
+        "mean": 45.79,
+        "median": 44.54,
+        "suggested": 48.49,
+        "quantity": 102,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Glock-18 | Neo-Noir (Well-Worn)",
+      "price": {
+        "min": 33.65,
+        "max": 110.86,
+        "mean": 41.55,
+        "median": 38.49,
+        "suggested": 43.51,
+        "quantity": 51,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Glock-18 | Neo-Noir (Battle-Scarred)",
+      "price": {
+        "min": 31.27,
+        "max": 64.17,
+        "mean": 37,
+        "median": 35.8,
+        "suggested": 40.88,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Glock-18 | Neo-Noir (Factory New)",
+        "price": {
+          "min": 247.41,
+          "max": 641.82,
+          "mean": 386.35,
+          "median": 382.57,
+          "suggested": 355.44,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Glock-18 | Neo-Noir (Minimal Wear)",
+        "price": {
+          "min": 60.1,
+          "max": 204.83,
+          "mean": 82.82,
+          "median": 71.08,
+          "suggested": 77.07,
+          "quantity": 48,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Glock-18 | Neo-Noir (Field-Tested)",
+        "price": {
+          "min": 36.7,
+          "max": 70.02,
+          "mean": 45.79,
+          "median": 44.54,
+          "suggested": 48.49,
+          "quantity": 102,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Glock-18 | Neo-Noir (Well-Worn)",
+        "price": {
+          "min": 33.65,
+          "max": 110.86,
+          "mean": 41.55,
+          "median": 38.49,
+          "suggested": 43.51,
+          "quantity": 51,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Glock-18 | Neo-Noir (Battle-Scarred)",
+        "price": {
+          "min": 31.27,
+          "max": 64.17,
+          "mean": 37,
+          "median": 35.8,
+          "suggested": 40.88,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Glock-18 | Neo-Noir (Factory New)",
+        "price": {
+          "min": 252.63,
+          "max": 700.15,
+          "mean": 372.38,
+          "median": 293.9,
+          "suggested": 308,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Glock-18 | Neo-Noir (Minimal Wear)",
+        "price": {
+          "min": 91.02,
+          "max": 163.36,
+          "mean": 117.55,
+          "median": 113.18,
+          "suggested": 115.3,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Glock-18 | Neo-Noir (Field-Tested)",
+        "price": {
+          "min": 47.19,
+          "max": 1854.26,
+          "mean": 133.87,
+          "median": 56.5,
+          "suggested": 57.03,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Glock-18 | Neo-Noir (Well-Worn)",
+        "price": {
+          "min": 43.17,
+          "max": 70,
+          "mean": 51.14,
+          "median": 45.69,
+          "suggested": 46.14,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Glock-18 | Neo-Noir (Battle-Scarred)",
+        "price": {
+          "min": 50.65,
+          "max": 64.54,
+          "mean": 57.6,
+          "median": 57.6,
+          "suggested": 43.69,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Glock-18 | Neo-Noir (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Glock-18 | Neo-Noir (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Glock-18 | Neo-Noir (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Glock-18 | Neo-Noir (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Glock-18 | Neo-Noir (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:31.843Z"
+}

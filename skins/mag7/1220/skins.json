@@ -1,0 +1,310 @@
+{
+  "id": "skin-e6a7543c4187",
+  "name": "MAG-7 | Insomnia",
+  "paint_index": "1220",
+  "weapon": {
+    "id": "weapon_mag7",
+    "weapon_id": 27,
+    "name": "MAG-7",
+    "slug": "mag7"
+  },
+  "pattern": {
+    "id": "cu_mag7_insomnia",
+    "name": "Insomnia"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The CT-exclusive Mag-7 delivers a devastating amount of damage at close range. Its rapid magazine-style reloads make it a great tactical choice. It has been custom painted with a design depicting fish swimming into a person's mouth using an orange and black color palette.\\n\\n<i>Gulp, gulp, gulp</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.92,
+      "max": 46.67,
+      "mean": 5.43,
+      "median": 1.4,
+      "suggested": 1.25,
+      "quantity": 72,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.13,
+      "max": 107.03,
+      "mean": 0.51,
+      "median": 0.26,
+      "suggested": 0.24,
+      "quantity": 685,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.07,
+      "max": 5.24,
+      "mean": 0.25,
+      "median": 0.11,
+      "suggested": 0.12,
+      "quantity": 1153,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.06,
+      "max": 5.64,
+      "mean": 0.13,
+      "median": 0.09,
+      "suggested": 0.09,
+      "quantity": 746,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.06,
+      "max": 5.18,
+      "mean": 0.16,
+      "median": 0.09,
+      "suggested": 0.09,
+      "quantity": 522,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAG-7 | Insomnia (Factory New)",
+      "price": {
+        "min": 0.92,
+        "max": 46.67,
+        "mean": 5.43,
+        "median": 1.4,
+        "suggested": 1.25,
+        "quantity": 72,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAG-7 | Insomnia (Minimal Wear)",
+      "price": {
+        "min": 0.13,
+        "max": 107.03,
+        "mean": 0.51,
+        "median": 0.26,
+        "suggested": 0.24,
+        "quantity": 685,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAG-7 | Insomnia (Field-Tested)",
+      "price": {
+        "min": 0.07,
+        "max": 5.24,
+        "mean": 0.25,
+        "median": 0.11,
+        "suggested": 0.12,
+        "quantity": 1153,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAG-7 | Insomnia (Well-Worn)",
+      "price": {
+        "min": 0.06,
+        "max": 5.64,
+        "mean": 0.13,
+        "median": 0.09,
+        "suggested": 0.09,
+        "quantity": 746,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAG-7 | Insomnia (Battle-Scarred)",
+      "price": {
+        "min": 0.06,
+        "max": 5.18,
+        "mean": 0.16,
+        "median": 0.09,
+        "suggested": 0.09,
+        "quantity": 522,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAG-7 | Insomnia (Factory New)",
+        "price": {
+          "min": 0.92,
+          "max": 46.67,
+          "mean": 5.43,
+          "median": 1.4,
+          "suggested": 1.25,
+          "quantity": 72,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAG-7 | Insomnia (Minimal Wear)",
+        "price": {
+          "min": 0.13,
+          "max": 107.03,
+          "mean": 0.51,
+          "median": 0.26,
+          "suggested": 0.24,
+          "quantity": 685,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAG-7 | Insomnia (Field-Tested)",
+        "price": {
+          "min": 0.07,
+          "max": 5.24,
+          "mean": 0.25,
+          "median": 0.11,
+          "suggested": 0.12,
+          "quantity": 1153,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAG-7 | Insomnia (Well-Worn)",
+        "price": {
+          "min": 0.06,
+          "max": 5.64,
+          "mean": 0.13,
+          "median": 0.09,
+          "suggested": 0.09,
+          "quantity": 746,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MAG-7 | Insomnia (Battle-Scarred)",
+        "price": {
+          "min": 0.06,
+          "max": 5.18,
+          "mean": 0.16,
+          "median": 0.09,
+          "suggested": 0.09,
+          "quantity": 522,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MAG-7 | Insomnia (Factory New)",
+        "price": {
+          "min": 1.09,
+          "max": 33.23,
+          "mean": 5.78,
+          "median": 2.33,
+          "suggested": 1.26,
+          "quantity": 58,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MAG-7 | Insomnia (Minimal Wear)",
+        "price": {
+          "min": 0.16,
+          "max": 9.62,
+          "mean": 0.65,
+          "median": 0.28,
+          "suggested": 0.25,
+          "quantity": 160,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MAG-7 | Insomnia (Field-Tested)",
+        "price": {
+          "min": 0.09,
+          "max": 3.71,
+          "mean": 0.29,
+          "median": 0.14,
+          "suggested": 0.12,
+          "quantity": 259,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MAG-7 | Insomnia (Well-Worn)",
+        "price": {
+          "min": 0.08,
+          "max": 2.33,
+          "mean": 0.13,
+          "median": 0.12,
+          "suggested": 0.09,
+          "quantity": 198,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MAG-7 | Insomnia (Battle-Scarred)",
+        "price": {
+          "min": 0.08,
+          "max": 4.8,
+          "mean": 0.21,
+          "median": 0.12,
+          "suggested": 0.1,
+          "quantity": 128,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAG-7 | Insomnia (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAG-7 | Insomnia (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAG-7 | Insomnia (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAG-7 | Insomnia (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAG-7 | Insomnia (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.283Z"
+}

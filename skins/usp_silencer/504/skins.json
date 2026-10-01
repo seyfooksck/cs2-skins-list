@@ -1,0 +1,310 @@
+{
+  "id": "skin-cf4c11689014",
+  "name": "USP-S | Kill Confirmed",
+  "paint_index": "504",
+  "weapon": {
+    "id": "weapon_usp_silencer",
+    "weapon_id": 61,
+    "name": "USP-S",
+    "slug": "usp_silencer"
+  },
+  "pattern": {
+    "id": "cu_usp_kill_confirmed",
+    "name": "Kill Confirmed"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise. It has been custom painted with the image of a bullet shattering a skull.\\n\\n<i>2 in the chest, 1 in the head</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 267.23,
+      "max": 1283.62,
+      "mean": 428.5,
+      "median": 344.37,
+      "suggested": 376.14,
+      "quantity": 29,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 109.69,
+      "max": 291.73,
+      "mean": 150.78,
+      "median": 134.77,
+      "suggested": 140.01,
+      "quantity": 72,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 70.02,
+      "max": 1166.94,
+      "mean": 106.27,
+      "median": 80.45,
+      "suggested": 92.78,
+      "quantity": 61,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 61.11,
+      "max": 105.01,
+      "mean": 70.42,
+      "median": 64.17,
+      "suggested": 76.57,
+      "quantity": 26,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 57.17,
+      "max": 116.59,
+      "mean": 73.09,
+      "median": 63.98,
+      "suggested": 70.92,
+      "quantity": 17,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "USP-S | Kill Confirmed (Factory New)",
+      "price": {
+        "min": 267.23,
+        "max": 1283.62,
+        "mean": 428.5,
+        "median": 344.37,
+        "suggested": 376.14,
+        "quantity": 29,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "USP-S | Kill Confirmed (Minimal Wear)",
+      "price": {
+        "min": 109.69,
+        "max": 291.73,
+        "mean": 150.78,
+        "median": 134.77,
+        "suggested": 140.01,
+        "quantity": 72,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "USP-S | Kill Confirmed (Field-Tested)",
+      "price": {
+        "min": 70.02,
+        "max": 1166.94,
+        "mean": 106.27,
+        "median": 80.45,
+        "suggested": 92.78,
+        "quantity": 61,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "USP-S | Kill Confirmed (Well-Worn)",
+      "price": {
+        "min": 61.11,
+        "max": 105.01,
+        "mean": 70.42,
+        "median": 64.17,
+        "suggested": 76.57,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "USP-S | Kill Confirmed (Battle-Scarred)",
+      "price": {
+        "min": 57.17,
+        "max": 116.59,
+        "mean": 73.09,
+        "median": 63.98,
+        "suggested": 70.92,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "USP-S | Kill Confirmed (Factory New)",
+        "price": {
+          "min": 267.23,
+          "max": 1283.62,
+          "mean": 428.5,
+          "median": 344.37,
+          "suggested": 376.14,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "USP-S | Kill Confirmed (Minimal Wear)",
+        "price": {
+          "min": 109.69,
+          "max": 291.73,
+          "mean": 150.78,
+          "median": 134.77,
+          "suggested": 140.01,
+          "quantity": 72,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "USP-S | Kill Confirmed (Field-Tested)",
+        "price": {
+          "min": 70.02,
+          "max": 1166.94,
+          "mean": 106.27,
+          "median": 80.45,
+          "suggested": 92.78,
+          "quantity": 61,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "USP-S | Kill Confirmed (Well-Worn)",
+        "price": {
+          "min": 61.11,
+          "max": 105.01,
+          "mean": 70.42,
+          "median": 64.17,
+          "suggested": 76.57,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "USP-S | Kill Confirmed (Battle-Scarred)",
+        "price": {
+          "min": 57.17,
+          "max": 116.59,
+          "mean": 73.09,
+          "median": 63.98,
+          "suggested": 70.92,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ USP-S | Kill Confirmed (Factory New)",
+        "price": {
+          "min": 656.72,
+          "max": 758.51,
+          "mean": 697.35,
+          "median": 676.82,
+          "suggested": 761.69,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ USP-S | Kill Confirmed (Minimal Wear)",
+        "price": {
+          "min": 320.59,
+          "max": 700.15,
+          "mean": 467.36,
+          "median": 394.3,
+          "suggested": 418.68,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ USP-S | Kill Confirmed (Field-Tested)",
+        "price": {
+          "min": 200.26,
+          "max": 348.16,
+          "mean": 233.06,
+          "median": 225.46,
+          "suggested": 264.74,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ USP-S | Kill Confirmed (Well-Worn)",
+        "price": {
+          "min": 150.35,
+          "max": 220.4,
+          "mean": 174.92,
+          "median": 164.47,
+          "suggested": 173.56,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ USP-S | Kill Confirmed (Battle-Scarred)",
+        "price": {
+          "min": 142.35,
+          "max": 202.56,
+          "mean": 169.57,
+          "median": 162.93,
+          "suggested": 174,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir USP-S | Kill Confirmed (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir USP-S | Kill Confirmed (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir USP-S | Kill Confirmed (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir USP-S | Kill Confirmed (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir USP-S | Kill Confirmed (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:50.516Z"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "skin-f0c2d895b50d",
+  "name": "AUG | Luxe Trim",
+  "paint_index": "121",
+  "weapon": {
+    "id": "weapon_aug",
+    "weapon_id": 8,
+    "name": "AUG",
+    "slug": "aug"
+  },
+  "pattern": {
+    "id": "aug_puffer",
+    "name": "Luxe Trim"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.9,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire. It has been custom painted to replicate the look and feel of a puffer jacket and finished with bronze accents.\\n\\n<i>The premium package</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 11.61,
+      "max": 418.35,
+      "mean": 63.95,
+      "median": 21.89,
+      "suggested": 9.79,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.48,
+      "max": 11.79,
+      "mean": 0.82,
+      "median": 0.58,
+      "suggested": 0.61,
+      "quantity": 150,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.21,
+      "max": 3.03,
+      "mean": 0.36,
+      "median": 0.28,
+      "suggested": 0.31,
+      "quantity": 306,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.16,
+      "max": 3.5,
+      "mean": 0.25,
+      "median": 0.19,
+      "suggested": 0.27,
+      "quantity": 110,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.17,
+      "max": 9.09,
+      "mean": 3.62,
+      "median": 1.33,
+      "suggested": 1.35,
+      "quantity": 6,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AUG | Luxe Trim (Factory New)",
+      "price": {
+        "min": 11.61,
+        "max": 418.35,
+        "mean": 63.95,
+        "median": 21.89,
+        "suggested": 9.79,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AUG | Luxe Trim (Minimal Wear)",
+      "price": {
+        "min": 0.48,
+        "max": 11.79,
+        "mean": 0.82,
+        "median": 0.58,
+        "suggested": 0.61,
+        "quantity": 150,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AUG | Luxe Trim (Field-Tested)",
+      "price": {
+        "min": 0.21,
+        "max": 3.03,
+        "mean": 0.36,
+        "median": 0.28,
+        "suggested": 0.31,
+        "quantity": 306,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AUG | Luxe Trim (Well-Worn)",
+      "price": {
+        "min": 0.16,
+        "max": 3.5,
+        "mean": 0.25,
+        "median": 0.19,
+        "suggested": 0.27,
+        "quantity": 110,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AUG | Luxe Trim (Battle-Scarred)",
+      "price": {
+        "min": 1.17,
+        "max": 9.09,
+        "mean": 3.62,
+        "median": 1.33,
+        "suggested": 1.35,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AUG | Luxe Trim (Factory New)",
+        "price": {
+          "min": 11.61,
+          "max": 418.35,
+          "mean": 63.95,
+          "median": 21.89,
+          "suggested": 9.79,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AUG | Luxe Trim (Minimal Wear)",
+        "price": {
+          "min": 0.48,
+          "max": 11.79,
+          "mean": 0.82,
+          "median": 0.58,
+          "suggested": 0.61,
+          "quantity": 150,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AUG | Luxe Trim (Field-Tested)",
+        "price": {
+          "min": 0.21,
+          "max": 3.03,
+          "mean": 0.36,
+          "median": 0.28,
+          "suggested": 0.31,
+          "quantity": 306,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AUG | Luxe Trim (Well-Worn)",
+        "price": {
+          "min": 0.16,
+          "max": 3.5,
+          "mean": 0.25,
+          "median": 0.19,
+          "suggested": 0.27,
+          "quantity": 110,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AUG | Luxe Trim (Battle-Scarred)",
+        "price": {
+          "min": 1.17,
+          "max": 9.09,
+          "mean": 3.62,
+          "median": 1.33,
+          "suggested": 1.35,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AUG | Luxe Trim (Factory New)",
+        "price": {
+          "min": 4.8,
+          "max": 66.06,
+          "mean": 16.77,
+          "median": 8.33,
+          "suggested": 6.24,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AUG | Luxe Trim (Minimal Wear)",
+        "price": {
+          "min": 0.96,
+          "max": 9.03,
+          "mean": 1.49,
+          "median": 1.17,
+          "suggested": 1.26,
+          "quantity": 47,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AUG | Luxe Trim (Field-Tested)",
+        "price": {
+          "min": 0.3,
+          "max": 18.95,
+          "mean": 0.77,
+          "median": 0.4,
+          "suggested": 0.42,
+          "quantity": 80,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AUG | Luxe Trim (Well-Worn)",
+        "price": {
+          "min": 0.26,
+          "max": 6.52,
+          "mean": 0.65,
+          "median": 0.35,
+          "suggested": 0.35,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ AUG | Luxe Trim (Battle-Scarred)",
+        "price": {
+          "min": 0.23,
+          "max": 5.6,
+          "mean": 0.56,
+          "median": 0.32,
+          "suggested": 0.31,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AUG | Luxe Trim (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AUG | Luxe Trim (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AUG | Luxe Trim (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AUG | Luxe Trim (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AUG | Luxe Trim (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.315Z"
+}

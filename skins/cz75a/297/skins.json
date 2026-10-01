@@ -1,0 +1,249 @@
+{
+  "id": "skin-5fc8e75d4fa5",
+  "name": "CZ75-Auto | Tuxedo",
+  "paint_index": "297",
+  "weapon": {
+    "id": "weapon_cz75a",
+    "weapon_id": 63,
+    "name": "CZ75-Auto",
+    "slug": "cz75a"
+  },
+  "pattern": {
+    "id": "so_orca",
+    "name": "Tuxedo"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fully automatic variant of the CZ75, the CZ75-Auto is the ideal short-term choice for turning the tables and gaining your opponents weapon. But with very little ammo in the magazine, strong trigger discipline is required. It has individual parts spray-painted solid colors in a black and white color scheme.\\n\\n<i>For when combat is a black tie affair</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 3.28,
+      "max": 69.9,
+      "mean": 7.59,
+      "median": 6.7,
+      "suggested": 3.84,
+      "quantity": 161,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.27,
+      "max": 31.37,
+      "mean": 3.84,
+      "median": 3.43,
+      "suggested": 1.63,
+      "quantity": 153,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.33,
+      "max": 18.55,
+      "mean": 2,
+      "median": 2.24,
+      "suggested": 0.4,
+      "quantity": 262,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.3,
+      "max": 4.68,
+      "mean": 1.39,
+      "median": 1.05,
+      "suggested": 0.39,
+      "quantity": 21,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.29,
+      "max": 2.31,
+      "mean": 1.03,
+      "median": 0.65,
+      "suggested": 0.35,
+      "quantity": 64,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "CZ75-Auto | Tuxedo (Factory New)",
+      "price": {
+        "min": 3.28,
+        "max": 69.9,
+        "mean": 7.59,
+        "median": 6.7,
+        "suggested": 3.84,
+        "quantity": 161,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "CZ75-Auto | Tuxedo (Minimal Wear)",
+      "price": {
+        "min": 1.27,
+        "max": 31.37,
+        "mean": 3.84,
+        "median": 3.43,
+        "suggested": 1.63,
+        "quantity": 153,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "CZ75-Auto | Tuxedo (Field-Tested)",
+      "price": {
+        "min": 0.33,
+        "max": 18.55,
+        "mean": 2,
+        "median": 2.24,
+        "suggested": 0.4,
+        "quantity": 262,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "CZ75-Auto | Tuxedo (Well-Worn)",
+      "price": {
+        "min": 0.3,
+        "max": 4.68,
+        "mean": 1.39,
+        "median": 1.05,
+        "suggested": 0.39,
+        "quantity": 21,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "CZ75-Auto | Tuxedo (Battle-Scarred)",
+      "price": {
+        "min": 0.29,
+        "max": 2.31,
+        "mean": 1.03,
+        "median": 0.65,
+        "suggested": 0.35,
+        "quantity": 64,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "CZ75-Auto | Tuxedo (Factory New)",
+        "price": {
+          "min": 3.28,
+          "max": 69.9,
+          "mean": 7.59,
+          "median": 6.7,
+          "suggested": 3.84,
+          "quantity": 161,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "CZ75-Auto | Tuxedo (Minimal Wear)",
+        "price": {
+          "min": 1.27,
+          "max": 31.37,
+          "mean": 3.84,
+          "median": 3.43,
+          "suggested": 1.63,
+          "quantity": 153,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "CZ75-Auto | Tuxedo (Field-Tested)",
+        "price": {
+          "min": 0.33,
+          "max": 18.55,
+          "mean": 2,
+          "median": 2.24,
+          "suggested": 0.4,
+          "quantity": 262,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "CZ75-Auto | Tuxedo (Well-Worn)",
+        "price": {
+          "min": 0.3,
+          "max": 4.68,
+          "mean": 1.39,
+          "median": 1.05,
+          "suggested": 0.39,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "CZ75-Auto | Tuxedo (Battle-Scarred)",
+        "price": {
+          "min": 0.29,
+          "max": 2.31,
+          "mean": 1.03,
+          "median": 0.65,
+          "suggested": 0.35,
+          "quantity": 64,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir CZ75-Auto | Tuxedo (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir CZ75-Auto | Tuxedo (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir CZ75-Auto | Tuxedo (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir CZ75-Auto | Tuxedo (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir CZ75-Auto | Tuxedo (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:27.897Z"
+}

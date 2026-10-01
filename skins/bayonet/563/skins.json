@@ -1,0 +1,249 @@
+{
+  "id": "skin-1b399be1c5b6",
+  "name": "★ Bayonet | Black Laminate",
+  "paint_index": "563",
+  "weapon": {
+    "id": "weapon_bayonet",
+    "weapon_id": 500,
+    "name": "Bayonet",
+    "slug": "bayonet"
+  },
+  "pattern": {
+    "id": "cu_bayonet_stonewash",
+    "name": "Black Laminate"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Relatively unchanged in its design since World War II, the bayonet still retains a place in modern military strategy. Bayonet charges have continued to be effective as recently as the second Gulf War and the war in Afghanistan. It has been stonewashed and given a black laminate handle.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 199.49,
+      "max": 726.51,
+      "mean": 251.32,
+      "median": 218.51,
+      "suggested": 252.26,
+      "quantity": 18,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 189.08,
+      "max": 338.4,
+      "mean": 218.47,
+      "median": 198.01,
+      "suggested": 232.15,
+      "quantity": 16,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 186.73,
+      "max": 186.73,
+      "mean": 186.73,
+      "median": 186.73,
+      "suggested": 217.37,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 175.03,
+      "max": 256.73,
+      "mean": 190.15,
+      "median": 180.07,
+      "suggested": 224.22,
+      "quantity": 10,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Bayonet | Black Laminate (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Bayonet | Black Laminate (Minimal Wear)",
+      "price": {
+        "min": 199.49,
+        "max": 726.51,
+        "mean": 251.32,
+        "median": 218.51,
+        "suggested": 252.26,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Bayonet | Black Laminate (Field-Tested)",
+      "price": {
+        "min": 189.08,
+        "max": 338.4,
+        "mean": 218.47,
+        "median": 198.01,
+        "suggested": 232.15,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Bayonet | Black Laminate (Well-Worn)",
+      "price": {
+        "min": 186.73,
+        "max": 186.73,
+        "mean": 186.73,
+        "median": 186.73,
+        "suggested": 217.37,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Bayonet | Black Laminate (Battle-Scarred)",
+      "price": {
+        "min": 175.03,
+        "max": 256.73,
+        "mean": 190.15,
+        "median": 180.07,
+        "suggested": 224.22,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Bayonet | Black Laminate (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Bayonet | Black Laminate (Minimal Wear)",
+        "price": {
+          "min": 199.49,
+          "max": 726.51,
+          "mean": 251.32,
+          "median": 218.51,
+          "suggested": 252.26,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Bayonet | Black Laminate (Field-Tested)",
+        "price": {
+          "min": 189.08,
+          "max": 338.4,
+          "mean": 218.47,
+          "median": 198.01,
+          "suggested": 232.15,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Bayonet | Black Laminate (Well-Worn)",
+        "price": {
+          "min": 186.73,
+          "max": 186.73,
+          "mean": 186.73,
+          "median": 186.73,
+          "suggested": 217.37,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Bayonet | Black Laminate (Battle-Scarred)",
+        "price": {
+          "min": 175.03,
+          "max": 256.73,
+          "mean": 190.15,
+          "median": 180.07,
+          "suggested": 224.22,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Black Laminate (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Black Laminate (Minimal Wear)",
+        "price": {
+          "min": 408.42,
+          "max": 408.42,
+          "mean": 408.42,
+          "median": 408.42,
+          "suggested": 278.06,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Black Laminate (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Black Laminate (Well-Worn)",
+        "price": {
+          "min": 198.75,
+          "max": 198.75,
+          "mean": 198.75,
+          "median": 198.75,
+          "suggested": 224.88,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Black Laminate (Battle-Scarred)",
+        "price": {
+          "min": 188.88,
+          "max": 188.88,
+          "mean": 188.88,
+          "median": 188.88,
+          "suggested": 223.37,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:26.732Z"
+}

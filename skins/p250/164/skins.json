@@ -1,0 +1,177 @@
+{
+  "id": "skin-d2cc4d325a41",
+  "name": "P250 | Modern Hunter",
+  "paint_index": "164",
+  "weapon": {
+    "id": "weapon_p250",
+    "weapon_id": 36,
+    "name": "P250",
+    "slug": "p250"
+  },
+  "pattern": {
+    "id": "hy_hunter_modern",
+    "name": "Modern Hunter"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A low-recoil firearm with a high rate of fire, the P250 is a relatively inexpensive choice against armored opponents. It has been painted using a photographic hunting camo hydrographic.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 101.4,
+      "max": 101.4,
+      "mean": 101.4,
+      "median": 101.4,
+      "suggested": 46.16,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 37.38,
+      "max": 38.54,
+      "mean": 38.14,
+      "median": 38.5,
+      "suggested": 35.92,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P250 | Modern Hunter (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P250 | Modern Hunter (Minimal Wear)",
+      "price": {
+        "min": 101.4,
+        "max": 101.4,
+        "mean": 101.4,
+        "median": 101.4,
+        "suggested": 46.16,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P250 | Modern Hunter (Field-Tested)",
+      "price": {
+        "min": 37.38,
+        "max": 38.54,
+        "mean": 38.14,
+        "median": 38.5,
+        "suggested": 35.92,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P250 | Modern Hunter (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P250 | Modern Hunter (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P250 | Modern Hunter (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "P250 | Modern Hunter (Minimal Wear)",
+        "price": {
+          "min": 101.4,
+          "max": 101.4,
+          "mean": 101.4,
+          "median": 101.4,
+          "suggested": 46.16,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P250 | Modern Hunter (Field-Tested)",
+        "price": {
+          "min": 37.38,
+          "max": 38.54,
+          "mean": 38.14,
+          "median": 38.5,
+          "suggested": 35.92,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P250 | Modern Hunter (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "P250 | Modern Hunter (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P250 | Modern Hunter (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P250 | Modern Hunter (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P250 | Modern Hunter (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P250 | Modern Hunter (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P250 | Modern Hunter (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:45.378Z"
+}

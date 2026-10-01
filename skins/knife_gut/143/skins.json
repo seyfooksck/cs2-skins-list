@@ -1,0 +1,209 @@
+{
+  "id": "skin-5ce8a8a7844a",
+  "name": "★ Gut Knife | Urban Masked",
+  "paint_index": "143",
+  "weapon": {
+    "id": "weapon_knife_gut",
+    "weapon_id": 506,
+    "name": "Gut Knife",
+    "slug": "knife_gut"
+  },
+  "pattern": {
+    "id": "sp_tape_urban",
+    "name": "Urban Masked"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The most notable feature of a gut knife is the gut hook on the spine of the blade.  Originally popularized as an aid for field dressing game, the gut hook is also effective at  cutting through fibrous materials like rope, webbing, or safety belts with ease. It has been spray-painted using a tangle of masking tape as a stencil.\\n\\n<i>True power is demonstrated with subtle application</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 66.77,
+      "max": 67.66,
+      "mean": 67.22,
+      "median": 67.22,
+      "suggested": 75.89,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 57.96,
+      "max": 163.36,
+      "mean": 95.35,
+      "median": 80.03,
+      "suggested": 64.33,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 75.85,
+      "max": 85.9,
+      "mean": 80.88,
+      "median": 80.88,
+      "suggested": 61.05,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Gut Knife | Urban Masked (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Gut Knife | Urban Masked (Minimal Wear)",
+      "price": {
+        "min": 66.77,
+        "max": 67.66,
+        "mean": 67.22,
+        "median": 67.22,
+        "suggested": 75.89,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Gut Knife | Urban Masked (Field-Tested)",
+      "price": {
+        "min": 57.96,
+        "max": 163.36,
+        "mean": 95.35,
+        "median": 80.03,
+        "suggested": 64.33,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Gut Knife | Urban Masked (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Gut Knife | Urban Masked (Battle-Scarred)",
+      "price": {
+        "min": 75.85,
+        "max": 85.9,
+        "mean": 80.88,
+        "median": 80.88,
+        "suggested": 61.05,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Gut Knife | Urban Masked (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Gut Knife | Urban Masked (Minimal Wear)",
+        "price": {
+          "min": 66.77,
+          "max": 67.66,
+          "mean": 67.22,
+          "median": 67.22,
+          "suggested": 75.89,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Gut Knife | Urban Masked (Field-Tested)",
+        "price": {
+          "min": 57.96,
+          "max": 163.36,
+          "mean": 95.35,
+          "median": 80.03,
+          "suggested": 64.33,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Gut Knife | Urban Masked (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ Gut Knife | Urban Masked (Battle-Scarred)",
+        "price": {
+          "min": 75.85,
+          "max": 85.9,
+          "mean": 80.88,
+          "median": 80.88,
+          "suggested": 61.05,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Gut Knife | Urban Masked (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Gut Knife | Urban Masked (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Gut Knife | Urban Masked (Field-Tested)",
+        "price": {
+          "min": 80.62,
+          "max": 80.62,
+          "mean": 80.62,
+          "median": 80.62,
+          "suggested": 73.42,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Gut Knife | Urban Masked (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Gut Knife | Urban Masked (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:35.321Z"
+}

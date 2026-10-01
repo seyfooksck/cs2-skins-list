@@ -1,0 +1,249 @@
+{
+  "id": "skin-d269db65b6ea",
+  "name": "MAC-10 | Snow Splash",
+  "paint_index": "1367",
+  "weapon": {
+    "id": "weapon_mac10",
+    "weapon_id": 17,
+    "name": "MAC-10",
+    "slug": "mac10"
+  },
+  "pattern": {
+    "id": "hye_car_wrap4",
+    "name": "Snow Splash"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. A grayscale pattern featuring sharp, angular designs has been applied.\\n\\n<i>Unflinching</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.26,
+      "max": 12.84,
+      "mean": 3.55,
+      "median": 0.95,
+      "suggested": 0.24,
+      "quantity": 290,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.07,
+      "max": 4.67,
+      "mean": 0.34,
+      "median": 0.22,
+      "suggested": 0.09,
+      "quantity": 96,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.04,
+      "max": 2.56,
+      "mean": 0.13,
+      "median": 0.05,
+      "suggested": 0.03,
+      "quantity": 249,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.04,
+      "max": 4.1,
+      "mean": 0.37,
+      "median": 0.04,
+      "suggested": 0.05,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.04,
+      "max": 0.15,
+      "mean": 0.05,
+      "median": 0.05,
+      "suggested": 0.05,
+      "quantity": 20,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAC-10 | Snow Splash (Factory New)",
+      "price": {
+        "min": 0.26,
+        "max": 12.84,
+        "mean": 3.55,
+        "median": 0.95,
+        "suggested": 0.24,
+        "quantity": 290,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAC-10 | Snow Splash (Minimal Wear)",
+      "price": {
+        "min": 0.07,
+        "max": 4.67,
+        "mean": 0.34,
+        "median": 0.22,
+        "suggested": 0.09,
+        "quantity": 96,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAC-10 | Snow Splash (Field-Tested)",
+      "price": {
+        "min": 0.04,
+        "max": 2.56,
+        "mean": 0.13,
+        "median": 0.05,
+        "suggested": 0.03,
+        "quantity": 249,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAC-10 | Snow Splash (Well-Worn)",
+      "price": {
+        "min": 0.04,
+        "max": 4.1,
+        "mean": 0.37,
+        "median": 0.04,
+        "suggested": 0.05,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAC-10 | Snow Splash (Battle-Scarred)",
+      "price": {
+        "min": 0.04,
+        "max": 0.15,
+        "mean": 0.05,
+        "median": 0.05,
+        "suggested": 0.05,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAC-10 | Snow Splash (Factory New)",
+        "price": {
+          "min": 0.26,
+          "max": 12.84,
+          "mean": 3.55,
+          "median": 0.95,
+          "suggested": 0.24,
+          "quantity": 290,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAC-10 | Snow Splash (Minimal Wear)",
+        "price": {
+          "min": 0.07,
+          "max": 4.67,
+          "mean": 0.34,
+          "median": 0.22,
+          "suggested": 0.09,
+          "quantity": 96,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAC-10 | Snow Splash (Field-Tested)",
+        "price": {
+          "min": 0.04,
+          "max": 2.56,
+          "mean": 0.13,
+          "median": 0.05,
+          "suggested": 0.03,
+          "quantity": 249,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAC-10 | Snow Splash (Well-Worn)",
+        "price": {
+          "min": 0.04,
+          "max": 4.1,
+          "mean": 0.37,
+          "median": 0.04,
+          "suggested": 0.05,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MAC-10 | Snow Splash (Battle-Scarred)",
+        "price": {
+          "min": 0.04,
+          "max": 0.15,
+          "mean": 0.05,
+          "median": 0.05,
+          "suggested": 0.05,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAC-10 | Snow Splash (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAC-10 | Snow Splash (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAC-10 | Snow Splash (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAC-10 | Snow Splash (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAC-10 | Snow Splash (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.891Z"
+}

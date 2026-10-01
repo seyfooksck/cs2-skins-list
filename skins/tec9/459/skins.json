@@ -1,0 +1,249 @@
+{
+  "id": "skin-83ecd0dc05ee",
+  "name": "Tec-9 | Bamboo Forest",
+  "paint_index": "459",
+  "weapon": {
+    "id": "weapon_tec9",
+    "weapon_id": 30,
+    "name": "Tec-9",
+    "slug": "tec9"
+  },
+  "pattern": {
+    "id": "hy_bamboo_jungle",
+    "name": "Bamboo Forest"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity. It has been painted with a hydrographic of brush-painted bamboo.\\n\\n<i>I still think it should have a panda - Booth, Arms Dealer</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 42.01,
+      "max": 262.44,
+      "mean": 74.93,
+      "median": 67.23,
+      "suggested": 62.39,
+      "quantity": 73,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 12.24,
+      "max": 93.35,
+      "mean": 20.82,
+      "median": 17.13,
+      "suggested": 15.86,
+      "quantity": 38,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 10.41,
+      "max": 35.01,
+      "mean": 14.18,
+      "median": 12.33,
+      "suggested": 14.34,
+      "quantity": 45,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 12.8,
+      "max": 12.8,
+      "mean": 12.8,
+      "median": 12.8,
+      "suggested": 10.44,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 7.85,
+      "max": 11.67,
+      "mean": 9.02,
+      "median": 8.6,
+      "suggested": 9.11,
+      "quantity": 6,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Tec-9 | Bamboo Forest (Factory New)",
+      "price": {
+        "min": 42.01,
+        "max": 262.44,
+        "mean": 74.93,
+        "median": 67.23,
+        "suggested": 62.39,
+        "quantity": 73,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Tec-9 | Bamboo Forest (Minimal Wear)",
+      "price": {
+        "min": 12.24,
+        "max": 93.35,
+        "mean": 20.82,
+        "median": 17.13,
+        "suggested": 15.86,
+        "quantity": 38,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Tec-9 | Bamboo Forest (Field-Tested)",
+      "price": {
+        "min": 10.41,
+        "max": 35.01,
+        "mean": 14.18,
+        "median": 12.33,
+        "suggested": 14.34,
+        "quantity": 45,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Tec-9 | Bamboo Forest (Well-Worn)",
+      "price": {
+        "min": 12.8,
+        "max": 12.8,
+        "mean": 12.8,
+        "median": 12.8,
+        "suggested": 10.44,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Tec-9 | Bamboo Forest (Battle-Scarred)",
+      "price": {
+        "min": 7.85,
+        "max": 11.67,
+        "mean": 9.02,
+        "median": 8.6,
+        "suggested": 9.11,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Tec-9 | Bamboo Forest (Factory New)",
+        "price": {
+          "min": 42.01,
+          "max": 262.44,
+          "mean": 74.93,
+          "median": 67.23,
+          "suggested": 62.39,
+          "quantity": 73,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Tec-9 | Bamboo Forest (Minimal Wear)",
+        "price": {
+          "min": 12.24,
+          "max": 93.35,
+          "mean": 20.82,
+          "median": 17.13,
+          "suggested": 15.86,
+          "quantity": 38,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Tec-9 | Bamboo Forest (Field-Tested)",
+        "price": {
+          "min": 10.41,
+          "max": 35.01,
+          "mean": 14.18,
+          "median": 12.33,
+          "suggested": 14.34,
+          "quantity": 45,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Tec-9 | Bamboo Forest (Well-Worn)",
+        "price": {
+          "min": 12.8,
+          "max": 12.8,
+          "mean": 12.8,
+          "median": 12.8,
+          "suggested": 10.44,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Tec-9 | Bamboo Forest (Battle-Scarred)",
+        "price": {
+          "min": 7.85,
+          "max": 11.67,
+          "mean": 9.02,
+          "median": 8.6,
+          "suggested": 9.11,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Tec-9 | Bamboo Forest (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Tec-9 | Bamboo Forest (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Tec-9 | Bamboo Forest (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Tec-9 | Bamboo Forest (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Tec-9 | Bamboo Forest (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.360Z"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "skin-4bcbe71aa61d",
+  "name": "SSG 08 | Mainframe 001",
+  "paint_index": "967",
+  "weapon": {
+    "id": "weapon_ssg08",
+    "weapon_id": 40,
+    "name": "SSG 08",
+    "slug": "ssg08"
+  },
+  "pattern": {
+    "id": "cu_ssg08_mainframe",
+    "name": "Mainframe 001"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship. A high tech custom paint job of blues and purples has been applied.\\n\\n<i>What secrets does _001 hold?</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.07,
+      "max": 290.28,
+      "mean": 11.96,
+      "median": 2.79,
+      "suggested": 1.25,
+      "quantity": 82,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.18,
+      "max": 10.49,
+      "mean": 0.29,
+      "median": 0.22,
+      "suggested": 0.23,
+      "quantity": 506,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.08,
+      "max": 11669.37,
+      "mean": 12.45,
+      "median": 0.11,
+      "suggested": 0.12,
+      "quantity": 951,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.06,
+      "max": 5.12,
+      "mean": 0.14,
+      "median": 0.09,
+      "suggested": 0.09,
+      "quantity": 857,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.07,
+      "max": 5.83,
+      "mean": 0.2,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 593,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SSG 08 | Mainframe 001 (Factory New)",
+      "price": {
+        "min": 1.07,
+        "max": 290.28,
+        "mean": 11.96,
+        "median": 2.79,
+        "suggested": 1.25,
+        "quantity": 82,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SSG 08 | Mainframe 001 (Minimal Wear)",
+      "price": {
+        "min": 0.18,
+        "max": 10.49,
+        "mean": 0.29,
+        "median": 0.22,
+        "suggested": 0.23,
+        "quantity": 506,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "SSG 08 | Mainframe 001 (Field-Tested)",
+      "price": {
+        "min": 0.08,
+        "max": 11669.37,
+        "mean": 12.45,
+        "median": 0.11,
+        "suggested": 0.12,
+        "quantity": 951,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "SSG 08 | Mainframe 001 (Well-Worn)",
+      "price": {
+        "min": 0.06,
+        "max": 5.12,
+        "mean": 0.14,
+        "median": 0.09,
+        "suggested": 0.09,
+        "quantity": 857,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "SSG 08 | Mainframe 001 (Battle-Scarred)",
+      "price": {
+        "min": 0.07,
+        "max": 5.83,
+        "mean": 0.2,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 593,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SSG 08 | Mainframe 001 (Factory New)",
+        "price": {
+          "min": 1.07,
+          "max": 290.28,
+          "mean": 11.96,
+          "median": 2.79,
+          "suggested": 1.25,
+          "quantity": 82,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "SSG 08 | Mainframe 001 (Minimal Wear)",
+        "price": {
+          "min": 0.18,
+          "max": 10.49,
+          "mean": 0.29,
+          "median": 0.22,
+          "suggested": 0.23,
+          "quantity": 506,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "SSG 08 | Mainframe 001 (Field-Tested)",
+        "price": {
+          "min": 0.08,
+          "max": 11669.37,
+          "mean": 12.45,
+          "median": 0.11,
+          "suggested": 0.12,
+          "quantity": 951,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "SSG 08 | Mainframe 001 (Well-Worn)",
+        "price": {
+          "min": 0.06,
+          "max": 5.12,
+          "mean": 0.14,
+          "median": 0.09,
+          "suggested": 0.09,
+          "quantity": 857,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "SSG 08 | Mainframe 001 (Battle-Scarred)",
+        "price": {
+          "min": 0.07,
+          "max": 5.83,
+          "mean": 0.2,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 593,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ SSG 08 | Mainframe 001 (Factory New)",
+        "price": {
+          "min": 1.17,
+          "max": 30.42,
+          "mean": 5.32,
+          "median": 4.13,
+          "suggested": 1.46,
+          "quantity": 51,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ SSG 08 | Mainframe 001 (Minimal Wear)",
+        "price": {
+          "min": 0.23,
+          "max": 8.09,
+          "mean": 0.41,
+          "median": 0.28,
+          "suggested": 0.31,
+          "quantity": 223,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ SSG 08 | Mainframe 001 (Field-Tested)",
+        "price": {
+          "min": 0.08,
+          "max": 17.32,
+          "mean": 0.22,
+          "median": 0.15,
+          "suggested": 0.13,
+          "quantity": 473,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ SSG 08 | Mainframe 001 (Well-Worn)",
+        "price": {
+          "min": 0.07,
+          "max": 17.14,
+          "mean": 0.23,
+          "median": 0.13,
+          "suggested": 0.1,
+          "quantity": 313,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ SSG 08 | Mainframe 001 (Battle-Scarred)",
+        "price": {
+          "min": 0.07,
+          "max": 5.83,
+          "mean": 0.26,
+          "median": 0.13,
+          "suggested": 0.1,
+          "quantity": 253,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SSG 08 | Mainframe 001 (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir SSG 08 | Mainframe 001 (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir SSG 08 | Mainframe 001 (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir SSG 08 | Mainframe 001 (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir SSG 08 | Mainframe 001 (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:48.458Z"
+}

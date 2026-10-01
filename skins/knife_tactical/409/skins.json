@@ -1,0 +1,113 @@
+{
+  "id": "skin-243a437e4586",
+  "name": "★ Huntsman Knife | Tiger Tooth",
+  "paint_index": "409",
+  "weapon": {
+    "id": "weapon_knife_tactical",
+    "weapon_id": 509,
+    "name": "Huntsman Knife",
+    "slug": "knife_tactical"
+  },
+  "pattern": {
+    "id": "an_tiger_orange",
+    "name": "Tiger Tooth"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A knife designed for modern tactical uses, the blade is well suited for a range of both combat and utilitarian needs.  The unique Tanto point allows for maximum penetration through even the toughest of surfaces. It has been anodized orange and hand-etched in a tiger stripe pattern.\\n\\n<i>Like the tiger it is rare... like the tiger it is deadly...</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 162.33,
+      "max": 1024.14,
+      "mean": 266.21,
+      "median": 187.84,
+      "suggested": 202.67,
+      "quantity": 60,
+      "currency": "USD"
+    },
+    "mw": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Huntsman Knife | Tiger Tooth (Factory New)",
+      "price": {
+        "min": 162.33,
+        "max": 1024.14,
+        "mean": 266.21,
+        "median": 187.84,
+        "suggested": 202.67,
+        "quantity": 60,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Huntsman Knife | Tiger Tooth (Minimal Wear)",
+      "price": null,
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Huntsman Knife | Tiger Tooth (Factory New)",
+        "price": {
+          "min": 162.33,
+          "max": 1024.14,
+          "mean": 266.21,
+          "median": 187.84,
+          "suggested": 202.67,
+          "quantity": 60,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Huntsman Knife | Tiger Tooth (Minimal Wear)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Huntsman Knife | Tiger Tooth (Factory New)",
+        "price": {
+          "min": 188.72,
+          "max": 398.05,
+          "mean": 240.9,
+          "median": 212.58,
+          "suggested": 231.59,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Huntsman Knife | Tiger Tooth (Minimal Wear)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:38.803Z"
+}

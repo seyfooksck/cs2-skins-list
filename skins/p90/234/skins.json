@@ -1,0 +1,233 @@
+{
+  "id": "skin-6764c2686f68",
+  "name": "P90 | Ash Wood",
+  "paint_index": "234",
+  "weapon": {
+    "id": "weapon_p90",
+    "weapon_id": 19,
+    "name": "P90",
+    "slug": "p90"
+  },
+  "pattern": {
+    "id": "sp_twigs",
+    "name": "Ash Wood"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.45,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been spray-painted freehand using twigs as stencils.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.21,
+      "max": 81.69,
+      "mean": 2.36,
+      "median": 1.1,
+      "suggested": 0.31,
+      "quantity": 170,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.08,
+      "max": 6.39,
+      "mean": 0.34,
+      "median": 0.11,
+      "suggested": 0.12,
+      "quantity": 294,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.05,
+      "max": 7.67,
+      "mean": 0.23,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 212,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.08,
+      "max": 2.92,
+      "mean": 0.25,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 20,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P90 | Ash Wood (Factory New)",
+      "price": {
+        "min": 0.21,
+        "max": 81.69,
+        "mean": 2.36,
+        "median": 1.1,
+        "suggested": 0.31,
+        "quantity": 170,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P90 | Ash Wood (Minimal Wear)",
+      "price": {
+        "min": 0.08,
+        "max": 6.39,
+        "mean": 0.34,
+        "median": 0.11,
+        "suggested": 0.12,
+        "quantity": 294,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P90 | Ash Wood (Field-Tested)",
+      "price": {
+        "min": 0.05,
+        "max": 7.67,
+        "mean": 0.23,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 212,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P90 | Ash Wood (Well-Worn)",
+      "price": {
+        "min": 0.08,
+        "max": 2.92,
+        "mean": 0.25,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P90 | Ash Wood (Factory New)",
+        "price": {
+          "min": 0.21,
+          "max": 81.69,
+          "mean": 2.36,
+          "median": 1.1,
+          "suggested": 0.31,
+          "quantity": 170,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P90 | Ash Wood (Minimal Wear)",
+        "price": {
+          "min": 0.08,
+          "max": 6.39,
+          "mean": 0.34,
+          "median": 0.11,
+          "suggested": 0.12,
+          "quantity": 294,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P90 | Ash Wood (Field-Tested)",
+        "price": {
+          "min": 0.05,
+          "max": 7.67,
+          "mean": 0.23,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 212,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P90 | Ash Wood (Well-Worn)",
+        "price": {
+          "min": 0.08,
+          "max": 2.92,
+          "mean": 0.25,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P90 | Ash Wood (Factory New)",
+        "price": {
+          "min": 3.73,
+          "max": 15.93,
+          "mean": 13.85,
+          "median": 15.93,
+          "suggested": 4.09,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P90 | Ash Wood (Minimal Wear)",
+        "price": {
+          "min": 5.57,
+          "max": 10.46,
+          "mean": 8.08,
+          "median": 9.36,
+          "suggested": 2.21,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P90 | Ash Wood (Field-Tested)",
+        "price": {
+          "min": 2.01,
+          "max": 414.26,
+          "mean": 55.18,
+          "median": 3.4,
+          "suggested": 1.31,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P90 | Ash Wood (Well-Worn)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:46.495Z"
+}

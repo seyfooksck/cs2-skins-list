@@ -1,0 +1,249 @@
+{
+  "id": "skin-4c5471d1c87c",
+  "name": "Tec-9 | Hades",
+  "paint_index": "439",
+  "weapon": {
+    "id": "weapon_tec9",
+    "weapon_id": 30,
+    "name": "Tec-9",
+    "slug": "tec9"
+  },
+  "pattern": {
+    "id": "hy_hades",
+    "name": "Hades"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity. It has been painted with a hydrographic of ancient Greek helmets.\\n\\n<i>If she wanted me to conduct an interview, there was probably an easier way to book it - The Shield and The Storyteller Part 2</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 33.84,
+      "max": 239.28,
+      "mean": 64.51,
+      "median": 47.86,
+      "suggested": 45.97,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 16.91,
+      "max": 76.81,
+      "mean": 29.06,
+      "median": 21.71,
+      "suggested": 20.7,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 16.65,
+      "max": 35,
+      "mean": 25.15,
+      "median": 25.88,
+      "suggested": 19.44,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 16.61,
+      "max": 24.51,
+      "mean": 19.25,
+      "median": 18.18,
+      "suggested": 18.35,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 17.2,
+      "max": 58.35,
+      "mean": 25.74,
+      "median": 22.72,
+      "suggested": 19.63,
+      "quantity": 10,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Tec-9 | Hades (Factory New)",
+      "price": {
+        "min": 33.84,
+        "max": 239.28,
+        "mean": 64.51,
+        "median": 47.86,
+        "suggested": 45.97,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Tec-9 | Hades (Minimal Wear)",
+      "price": {
+        "min": 16.91,
+        "max": 76.81,
+        "mean": 29.06,
+        "median": 21.71,
+        "suggested": 20.7,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Tec-9 | Hades (Field-Tested)",
+      "price": {
+        "min": 16.65,
+        "max": 35,
+        "mean": 25.15,
+        "median": 25.88,
+        "suggested": 19.44,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Tec-9 | Hades (Well-Worn)",
+      "price": {
+        "min": 16.61,
+        "max": 24.51,
+        "mean": 19.25,
+        "median": 18.18,
+        "suggested": 18.35,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Tec-9 | Hades (Battle-Scarred)",
+      "price": {
+        "min": 17.2,
+        "max": 58.35,
+        "mean": 25.74,
+        "median": 22.72,
+        "suggested": 19.63,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Tec-9 | Hades (Factory New)",
+        "price": {
+          "min": 33.84,
+          "max": 239.28,
+          "mean": 64.51,
+          "median": 47.86,
+          "suggested": 45.97,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Tec-9 | Hades (Minimal Wear)",
+        "price": {
+          "min": 16.91,
+          "max": 76.81,
+          "mean": 29.06,
+          "median": 21.71,
+          "suggested": 20.7,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Tec-9 | Hades (Field-Tested)",
+        "price": {
+          "min": 16.65,
+          "max": 35,
+          "mean": 25.15,
+          "median": 25.88,
+          "suggested": 19.44,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Tec-9 | Hades (Well-Worn)",
+        "price": {
+          "min": 16.61,
+          "max": 24.51,
+          "mean": 19.25,
+          "median": 18.18,
+          "suggested": 18.35,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Tec-9 | Hades (Battle-Scarred)",
+        "price": {
+          "min": 17.2,
+          "max": 58.35,
+          "mean": 25.74,
+          "median": 22.72,
+          "suggested": 19.63,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Tec-9 | Hades (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Tec-9 | Hades (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Tec-9 | Hades (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Tec-9 | Hades (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Tec-9 | Hades (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.401Z"
+}

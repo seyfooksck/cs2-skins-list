@@ -1,0 +1,310 @@
+{
+  "id": "skin-ef297140e6ea",
+  "name": "Five-SeveN | Retrobution",
+  "paint_index": "510",
+  "weapon": {
+    "id": "weapon_fiveseven",
+    "weapon_id": 3,
+    "name": "Five-SeveN",
+    "slug": "fiveseven"
+  },
+  "pattern": {
+    "id": "cu_fiveseven_retrobution",
+    "name": "Retrobution"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. It was been custom painted with a retro hydrographic.\\n\\n<i>Some things never go out of style</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 22.53,
+      "max": 57.12,
+      "mean": 28.98,
+      "median": 26.36,
+      "suggested": 29.8,
+      "quantity": 17,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 3.54,
+      "max": 108.83,
+      "mean": 9.21,
+      "median": 4.36,
+      "suggested": 4.25,
+      "quantity": 33,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.4,
+      "max": 1.84,
+      "mean": 1.62,
+      "median": 1.62,
+      "suggested": 1.82,
+      "quantity": 23,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.12,
+      "max": 3.5,
+      "mean": 1.33,
+      "median": 1.19,
+      "suggested": 1.33,
+      "quantity": 42,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.05,
+      "max": 3.5,
+      "mean": 1.42,
+      "median": 1.26,
+      "suggested": 1.25,
+      "quantity": 30,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Five-SeveN | Retrobution (Factory New)",
+      "price": {
+        "min": 22.53,
+        "max": 57.12,
+        "mean": 28.98,
+        "median": 26.36,
+        "suggested": 29.8,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Five-SeveN | Retrobution (Minimal Wear)",
+      "price": {
+        "min": 3.54,
+        "max": 108.83,
+        "mean": 9.21,
+        "median": 4.36,
+        "suggested": 4.25,
+        "quantity": 33,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Five-SeveN | Retrobution (Field-Tested)",
+      "price": {
+        "min": 1.4,
+        "max": 1.84,
+        "mean": 1.62,
+        "median": 1.62,
+        "suggested": 1.82,
+        "quantity": 23,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Five-SeveN | Retrobution (Well-Worn)",
+      "price": {
+        "min": 1.12,
+        "max": 3.5,
+        "mean": 1.33,
+        "median": 1.19,
+        "suggested": 1.33,
+        "quantity": 42,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Five-SeveN | Retrobution (Battle-Scarred)",
+      "price": {
+        "min": 1.05,
+        "max": 3.5,
+        "mean": 1.42,
+        "median": 1.26,
+        "suggested": 1.25,
+        "quantity": 30,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Five-SeveN | Retrobution (Factory New)",
+        "price": {
+          "min": 22.53,
+          "max": 57.12,
+          "mean": 28.98,
+          "median": 26.36,
+          "suggested": 29.8,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Five-SeveN | Retrobution (Minimal Wear)",
+        "price": {
+          "min": 3.54,
+          "max": 108.83,
+          "mean": 9.21,
+          "median": 4.36,
+          "suggested": 4.25,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Five-SeveN | Retrobution (Field-Tested)",
+        "price": {
+          "min": 1.4,
+          "max": 1.84,
+          "mean": 1.62,
+          "median": 1.62,
+          "suggested": 1.82,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Five-SeveN | Retrobution (Well-Worn)",
+        "price": {
+          "min": 1.12,
+          "max": 3.5,
+          "mean": 1.33,
+          "median": 1.19,
+          "suggested": 1.33,
+          "quantity": 42,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Five-SeveN | Retrobution (Battle-Scarred)",
+        "price": {
+          "min": 1.05,
+          "max": 3.5,
+          "mean": 1.42,
+          "median": 1.26,
+          "suggested": 1.25,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Retrobution (Factory New)",
+        "price": {
+          "min": 15.35,
+          "max": 32.67,
+          "mean": 19.17,
+          "median": 16.58,
+          "suggested": 18.48,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Retrobution (Minimal Wear)",
+        "price": {
+          "min": 5.97,
+          "max": 40.84,
+          "mean": 12.81,
+          "median": 6.94,
+          "suggested": 8.04,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Retrobution (Field-Tested)",
+        "price": {
+          "min": 2.87,
+          "max": 6.15,
+          "mean": 3.52,
+          "median": 3,
+          "suggested": 3.36,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Retrobution (Well-Worn)",
+        "price": {
+          "min": 1.98,
+          "max": 4.69,
+          "mean": 2.65,
+          "median": 2.51,
+          "suggested": 2.31,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Retrobution (Battle-Scarred)",
+        "price": {
+          "min": 2,
+          "max": 5.83,
+          "mean": 2.91,
+          "median": 2.53,
+          "suggested": 2.21,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Five-SeveN | Retrobution (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Five-SeveN | Retrobution (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Five-SeveN | Retrobution (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Five-SeveN | Retrobution (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Five-SeveN | Retrobution (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:30.097Z"
+}

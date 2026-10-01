@@ -1,0 +1,281 @@
+{
+  "id": "skin-f0efb98b360e",
+  "name": "Tec-9 | VariCamo",
+  "paint_index": "235",
+  "weapon": {
+    "id": "weapon_tec9",
+    "weapon_id": 30,
+    "name": "Tec-9",
+    "slug": "tec9"
+  },
+  "pattern": {
+    "id": "hy_varicamo",
+    "name": "VariCamo"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity. It has been painted using a VariCamo patterned hydrographic.\\n\\n<i>Rebuilding only comes in the wake of destruction</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.54,
+      "max": 46.56,
+      "mean": 2.73,
+      "median": 1.52,
+      "suggested": 0.61,
+      "quantity": 109,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.07,
+      "max": 12.03,
+      "mean": 0.34,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 200,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.02,
+      "max": 2.92,
+      "mean": 0.07,
+      "median": 0.05,
+      "suggested": 0.05,
+      "quantity": 664,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.02,
+      "max": 3.44,
+      "mean": 0.14,
+      "median": 0.06,
+      "suggested": 0.03,
+      "quantity": 61,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.02,
+      "max": 0.35,
+      "mean": 0.08,
+      "median": 0.06,
+      "suggested": 0.05,
+      "quantity": 105,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Tec-9 | VariCamo (Factory New)",
+      "price": {
+        "min": 0.54,
+        "max": 46.56,
+        "mean": 2.73,
+        "median": 1.52,
+        "suggested": 0.61,
+        "quantity": 109,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Tec-9 | VariCamo (Minimal Wear)",
+      "price": {
+        "min": 0.07,
+        "max": 12.03,
+        "mean": 0.34,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 200,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Tec-9 | VariCamo (Field-Tested)",
+      "price": {
+        "min": 0.02,
+        "max": 2.92,
+        "mean": 0.07,
+        "median": 0.05,
+        "suggested": 0.05,
+        "quantity": 664,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Tec-9 | VariCamo (Well-Worn)",
+      "price": {
+        "min": 0.02,
+        "max": 3.44,
+        "mean": 0.14,
+        "median": 0.06,
+        "suggested": 0.03,
+        "quantity": 61,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Tec-9 | VariCamo (Battle-Scarred)",
+      "price": {
+        "min": 0.02,
+        "max": 0.35,
+        "mean": 0.08,
+        "median": 0.06,
+        "suggested": 0.05,
+        "quantity": 105,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Tec-9 | VariCamo (Factory New)",
+        "price": {
+          "min": 0.54,
+          "max": 46.56,
+          "mean": 2.73,
+          "median": 1.52,
+          "suggested": 0.61,
+          "quantity": 109,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Tec-9 | VariCamo (Minimal Wear)",
+        "price": {
+          "min": 0.07,
+          "max": 12.03,
+          "mean": 0.34,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 200,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Tec-9 | VariCamo (Field-Tested)",
+        "price": {
+          "min": 0.02,
+          "max": 2.92,
+          "mean": 0.07,
+          "median": 0.05,
+          "suggested": 0.05,
+          "quantity": 664,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Tec-9 | VariCamo (Well-Worn)",
+        "price": {
+          "min": 0.02,
+          "max": 3.44,
+          "mean": 0.14,
+          "median": 0.06,
+          "suggested": 0.03,
+          "quantity": 61,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Tec-9 | VariCamo (Battle-Scarred)",
+        "price": {
+          "min": 0.02,
+          "max": 0.35,
+          "mean": 0.08,
+          "median": 0.06,
+          "suggested": 0.05,
+          "quantity": 105,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Tec-9 | VariCamo (Factory New)",
+        "price": {
+          "min": 20.78,
+          "max": 116.69,
+          "mean": 58.41,
+          "median": 57.51,
+          "suggested": 5.58,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Tec-9 | VariCamo (Minimal Wear)",
+        "price": {
+          "min": 2.53,
+          "max": 1329.29,
+          "mean": 131.5,
+          "median": 9.48,
+          "suggested": 2.95,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Tec-9 | VariCamo (Field-Tested)",
+        "price": {
+          "min": 2.43,
+          "max": 22.17,
+          "mean": 8.12,
+          "median": 5.79,
+          "suggested": 2.14,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Tec-9 | VariCamo (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Tec-9 | VariCamo (Battle-Scarred)",
+        "price": {
+          "min": 5.15,
+          "max": 8.25,
+          "mean": 7.41,
+          "median": 8.13,
+          "suggested": 3.04,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.472Z"
+}

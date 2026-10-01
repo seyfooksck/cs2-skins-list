@@ -1,0 +1,137 @@
+{
+  "id": "skin-f0ba928c4c15",
+  "name": "UMP-45 | Fade",
+  "paint_index": "879",
+  "weapon": {
+    "id": "weapon_ump45",
+    "weapon_id": 24,
+    "name": "UMP-45",
+    "slug": "ump45"
+  },
+  "pattern": {
+    "id": "aa_fade_ump",
+    "name": "Fade"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic. It has been painted by airbrushing transparent paints that fade together over a chrome base coat.\\n\\n<i>This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 196.05,
+      "max": 1515.27,
+      "mean": 644.11,
+      "median": 541.18,
+      "suggested": 224.19,
+      "quantity": 20,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 391.51,
+      "max": 391.51,
+      "mean": 391.51,
+      "median": 391.51,
+      "suggested": 142.87,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "UMP-45 | Fade (Factory New)",
+      "price": {
+        "min": 196.05,
+        "max": 1515.27,
+        "mean": 644.11,
+        "median": 541.18,
+        "suggested": 224.19,
+        "quantity": 20,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "UMP-45 | Fade (Minimal Wear)",
+      "price": {
+        "min": 391.51,
+        "max": 391.51,
+        "mean": 391.51,
+        "median": 391.51,
+        "suggested": 142.87,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "UMP-45 | Fade (Factory New)",
+        "price": {
+          "min": 196.05,
+          "max": 1515.27,
+          "mean": 644.11,
+          "median": 541.18,
+          "suggested": 224.19,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "UMP-45 | Fade (Minimal Wear)",
+        "price": {
+          "min": 391.51,
+          "max": 391.51,
+          "mean": 391.51,
+          "median": 391.51,
+          "suggested": 142.87,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir UMP-45 | Fade (Factory New)",
+        "price": {
+          "min": 169.09,
+          "max": 921.73,
+          "mean": 269.06,
+          "median": 198.38,
+          "suggested": 227.09,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir UMP-45 | Fade (Minimal Wear)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.700Z"
+}

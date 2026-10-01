@@ -1,0 +1,137 @@
+{
+  "id": "skin-16a419afb52b",
+  "name": "★ M9 Bayonet | Doppler",
+  "paint_index": "415",
+  "weapon": {
+    "id": "weapon_knife_m9_bayonet",
+    "weapon_id": 508,
+    "name": "M9 Bayonet",
+    "slug": "knife_m9_bayonet"
+  },
+  "pattern": {
+    "id": "am_ruby_marbleized",
+    "name": "Doppler"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This is the M-9 bayonet.  Originally intended to be mounted on a rifle, it is also well suited to close-quarters combat. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n<i>Getting lost in its color can prove fatal</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 10114.95,
+      "max": 10114.95,
+      "mean": 10114.95,
+      "median": 10114.95,
+      "suggested": 9563.18,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1057.63,
+      "max": 1575.37,
+      "mean": 1316.5,
+      "median": 1316.5,
+      "suggested": 1017.02,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ M9 Bayonet | Doppler (Factory New)",
+      "price": {
+        "min": 10114.95,
+        "max": 10114.95,
+        "mean": 10114.95,
+        "median": 10114.95,
+        "suggested": 9563.18,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ M9 Bayonet | Doppler (Minimal Wear)",
+      "price": {
+        "min": 1057.63,
+        "max": 1575.37,
+        "mean": 1316.5,
+        "median": 1316.5,
+        "suggested": 1017.02,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ M9 Bayonet | Doppler (Factory New)",
+        "price": {
+          "min": 10114.95,
+          "max": 10114.95,
+          "mean": 10114.95,
+          "median": 10114.95,
+          "suggested": 9563.18,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ M9 Bayonet | Doppler (Minimal Wear)",
+        "price": {
+          "min": 1057.63,
+          "max": 1575.37,
+          "mean": 1316.5,
+          "median": 1316.5,
+          "suggested": 1017.02,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Doppler (Factory New)",
+        "price": {
+          "min": 8156.89,
+          "max": 8156.89,
+          "mean": 8156.89,
+          "median": 8156.89,
+          "suggested": 7072.04,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ M9 Bayonet | Doppler (Minimal Wear)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:36.540Z"
+}

@@ -1,0 +1,278 @@
+{
+  "id": "skin-88e63f9b34df",
+  "name": "Nova | Rising Skull",
+  "paint_index": "263",
+  "weapon": {
+    "id": "weapon_nova",
+    "weapon_id": 35,
+    "name": "Nova",
+    "slug": "nova"
+  },
+  "pattern": {
+    "id": "cu_skull_nova",
+    "name": "Rising Skull"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Nova's rock-bottom price tag makes it a great ambush weapon for a cash-strapped team. It has been customized with an image of a skull using matte paints and an oil-based paint marker.\\n\\n<i>Mr. Izaki, I'm not complaining... but how many shotguns do you need? - Imogen and The Oni, Part 1</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 10.5,
+      "max": 210.05,
+      "mean": 29.34,
+      "median": 13.29,
+      "suggested": 12.53,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 5.33,
+      "max": 10.22,
+      "mean": 6.65,
+      "median": 6.17,
+      "suggested": 6.8,
+      "quantity": 16,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 4.88,
+      "max": 6.39,
+      "mean": 5.41,
+      "median": 5.24,
+      "suggested": 6.08,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 6.15,
+      "max": 6.15,
+      "mean": 6.15,
+      "median": 6.15,
+      "suggested": 5.96,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Nova | Rising Skull (Factory New)",
+      "price": {
+        "min": 10.5,
+        "max": 210.05,
+        "mean": 29.34,
+        "median": 13.29,
+        "suggested": 12.53,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Nova | Rising Skull (Minimal Wear)",
+      "price": {
+        "min": 5.33,
+        "max": 10.22,
+        "mean": 6.65,
+        "median": 6.17,
+        "suggested": 6.8,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Nova | Rising Skull (Field-Tested)",
+      "price": {
+        "min": 4.88,
+        "max": 6.39,
+        "mean": 5.41,
+        "median": 5.24,
+        "suggested": 6.08,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Nova | Rising Skull (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Nova | Rising Skull (Battle-Scarred)",
+      "price": {
+        "min": 6.15,
+        "max": 6.15,
+        "mean": 6.15,
+        "median": 6.15,
+        "suggested": 5.96,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Nova | Rising Skull (Factory New)",
+        "price": {
+          "min": 10.5,
+          "max": 210.05,
+          "mean": 29.34,
+          "median": 13.29,
+          "suggested": 12.53,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Nova | Rising Skull (Minimal Wear)",
+        "price": {
+          "min": 5.33,
+          "max": 10.22,
+          "mean": 6.65,
+          "median": 6.17,
+          "suggested": 6.8,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Nova | Rising Skull (Field-Tested)",
+        "price": {
+          "min": 4.88,
+          "max": 6.39,
+          "mean": 5.41,
+          "median": 5.24,
+          "suggested": 6.08,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Nova | Rising Skull (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Nova | Rising Skull (Battle-Scarred)",
+        "price": {
+          "min": 6.15,
+          "max": 6.15,
+          "mean": 6.15,
+          "median": 6.15,
+          "suggested": 5.96,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Nova | Rising Skull (Factory New)",
+        "price": {
+          "min": 19.29,
+          "max": 38.88,
+          "mean": 26.01,
+          "median": 22.93,
+          "suggested": 14.67,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Nova | Rising Skull (Minimal Wear)",
+        "price": {
+          "min": 17.13,
+          "max": 17.13,
+          "mean": 17.13,
+          "median": 17.13,
+          "suggested": 11.72,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Nova | Rising Skull (Field-Tested)",
+        "price": {
+          "min": 7.16,
+          "max": 350.08,
+          "mean": 59.21,
+          "median": 7.99,
+          "suggested": 6.91,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Nova | Rising Skull (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Nova | Rising Skull (Battle-Scarred)",
+        "price": {
+          "min": 10.15,
+          "max": 10.15,
+          "mean": 10.15,
+          "median": 10.15,
+          "suggested": 7.09,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Nova | Rising Skull (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Nova | Rising Skull (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Nova | Rising Skull (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Nova | Rising Skull (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Nova | Rising Skull (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.541Z"
+}

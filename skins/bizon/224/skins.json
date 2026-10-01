@@ -1,0 +1,302 @@
+{
+  "id": "skin-e961fd7b877c",
+  "name": "PP-Bizon | Water Sigil",
+  "paint_index": "224",
+  "weapon": {
+    "id": "weapon_bizon",
+    "weapon_id": 26,
+    "name": "PP-Bizon",
+    "slug": "bizon"
+  },
+  "pattern": {
+    "id": "hy_water_crest",
+    "name": "Water Sigil"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly. It has been painted using a hydrographic with a Japanese inspired water pattern.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 5.72,
+      "max": 35.85,
+      "mean": 12.21,
+      "median": 9.03,
+      "suggested": 7.43,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 3.56,
+      "max": 62.91,
+      "mean": 16.37,
+      "median": 4.91,
+      "suggested": 3.55,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 3.02,
+      "max": 16.54,
+      "mean": 4.45,
+      "median": 3.36,
+      "suggested": 3.53,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 3.72,
+      "max": 4.32,
+      "mean": 4.03,
+      "median": 4.03,
+      "suggested": 3.21,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 3.24,
+      "max": 5.02,
+      "mean": 3.72,
+      "median": 3.33,
+      "suggested": 3.4,
+      "quantity": 4,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "PP-Bizon | Water Sigil (Factory New)",
+      "price": {
+        "min": 5.72,
+        "max": 35.85,
+        "mean": 12.21,
+        "median": 9.03,
+        "suggested": 7.43,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "PP-Bizon | Water Sigil (Minimal Wear)",
+      "price": {
+        "min": 3.56,
+        "max": 62.91,
+        "mean": 16.37,
+        "median": 4.91,
+        "suggested": 3.55,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "PP-Bizon | Water Sigil (Field-Tested)",
+      "price": {
+        "min": 3.02,
+        "max": 16.54,
+        "mean": 4.45,
+        "median": 3.36,
+        "suggested": 3.53,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "PP-Bizon | Water Sigil (Well-Worn)",
+      "price": {
+        "min": 3.72,
+        "max": 4.32,
+        "mean": 4.03,
+        "median": 4.03,
+        "suggested": 3.21,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "PP-Bizon | Water Sigil (Battle-Scarred)",
+      "price": {
+        "min": 3.24,
+        "max": 5.02,
+        "mean": 3.72,
+        "median": 3.33,
+        "suggested": 3.4,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "PP-Bizon | Water Sigil (Factory New)",
+        "price": {
+          "min": 5.72,
+          "max": 35.85,
+          "mean": 12.21,
+          "median": 9.03,
+          "suggested": 7.43,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "PP-Bizon | Water Sigil (Minimal Wear)",
+        "price": {
+          "min": 3.56,
+          "max": 62.91,
+          "mean": 16.37,
+          "median": 4.91,
+          "suggested": 3.55,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "PP-Bizon | Water Sigil (Field-Tested)",
+        "price": {
+          "min": 3.02,
+          "max": 16.54,
+          "mean": 4.45,
+          "median": 3.36,
+          "suggested": 3.53,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "PP-Bizon | Water Sigil (Well-Worn)",
+        "price": {
+          "min": 3.72,
+          "max": 4.32,
+          "mean": 4.03,
+          "median": 4.03,
+          "suggested": 3.21,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "PP-Bizon | Water Sigil (Battle-Scarred)",
+        "price": {
+          "min": 3.24,
+          "max": 5.02,
+          "mean": 3.72,
+          "median": 3.33,
+          "suggested": 3.4,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Water Sigil (Factory New)",
+        "price": {
+          "min": 5.17,
+          "max": 40.84,
+          "mean": 11.62,
+          "median": 8.88,
+          "suggested": 6.78,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Water Sigil (Minimal Wear)",
+        "price": {
+          "min": 6.3,
+          "max": 331.24,
+          "mean": 73.47,
+          "median": 10.5,
+          "suggested": 4.02,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Water Sigil (Field-Tested)",
+        "price": {
+          "min": 2.91,
+          "max": 16.22,
+          "mean": 4.97,
+          "median": 3.29,
+          "suggested": 3.53,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Water Sigil (Well-Worn)",
+        "price": {
+          "min": 8.17,
+          "max": 413.26,
+          "mean": 210.71,
+          "median": 210.71,
+          "suggested": 5.15,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ PP-Bizon | Water Sigil (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir PP-Bizon | Water Sigil (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir PP-Bizon | Water Sigil (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir PP-Bizon | Water Sigil (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir PP-Bizon | Water Sigil (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir PP-Bizon | Water Sigil (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:27.233Z"
+}

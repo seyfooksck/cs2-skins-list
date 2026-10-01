@@ -1,0 +1,310 @@
+{
+  "id": "skin-0ca39d6a9fe2",
+  "name": "M249 | Aztec",
+  "paint_index": "902",
+  "weapon": {
+    "id": "weapon_m249",
+    "weapon_id": 14,
+    "name": "M249",
+    "slug": "m249"
+  },
+  "pattern": {
+    "id": "aq_m249_aztec",
+    "name": "Aztec"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.75,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A strong open-area LMG, the M249 is the perfect choice for players willing to trade a slow fire rate for increased accuracy and a high ammo capacity. Excavated from Aztec ruins, parts of this M249 have rusted and been covered in moss.\\n\\n<i>Never trust a rope bridge</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 5.16,
+      "max": 40.84,
+      "mean": 15.54,
+      "median": 11.8,
+      "suggested": 5.15,
+      "quantity": 16,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.14,
+      "max": 33.84,
+      "mean": 2.98,
+      "median": 1.63,
+      "suggested": 1.35,
+      "quantity": 34,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.56,
+      "max": 2.52,
+      "mean": 0.88,
+      "median": 0.71,
+      "suggested": 0.84,
+      "quantity": 93,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.65,
+      "max": 1.81,
+      "mean": 0.91,
+      "median": 0.84,
+      "suggested": 0.77,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.65,
+      "max": 12.84,
+      "mean": 1.77,
+      "median": 0.93,
+      "suggested": 0.65,
+      "quantity": 16,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M249 | Aztec (Factory New)",
+      "price": {
+        "min": 5.16,
+        "max": 40.84,
+        "mean": 15.54,
+        "median": 11.8,
+        "suggested": 5.15,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M249 | Aztec (Minimal Wear)",
+      "price": {
+        "min": 1.14,
+        "max": 33.84,
+        "mean": 2.98,
+        "median": 1.63,
+        "suggested": 1.35,
+        "quantity": 34,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M249 | Aztec (Field-Tested)",
+      "price": {
+        "min": 0.56,
+        "max": 2.52,
+        "mean": 0.88,
+        "median": 0.71,
+        "suggested": 0.84,
+        "quantity": 93,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M249 | Aztec (Well-Worn)",
+      "price": {
+        "min": 0.65,
+        "max": 1.81,
+        "mean": 0.91,
+        "median": 0.84,
+        "suggested": 0.77,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M249 | Aztec (Battle-Scarred)",
+      "price": {
+        "min": 0.65,
+        "max": 12.84,
+        "mean": 1.77,
+        "median": 0.93,
+        "suggested": 0.65,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M249 | Aztec (Factory New)",
+        "price": {
+          "min": 5.16,
+          "max": 40.84,
+          "mean": 15.54,
+          "median": 11.8,
+          "suggested": 5.15,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M249 | Aztec (Minimal Wear)",
+        "price": {
+          "min": 1.14,
+          "max": 33.84,
+          "mean": 2.98,
+          "median": 1.63,
+          "suggested": 1.35,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M249 | Aztec (Field-Tested)",
+        "price": {
+          "min": 0.56,
+          "max": 2.52,
+          "mean": 0.88,
+          "median": 0.71,
+          "suggested": 0.84,
+          "quantity": 93,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M249 | Aztec (Well-Worn)",
+        "price": {
+          "min": 0.65,
+          "max": 1.81,
+          "mean": 0.91,
+          "median": 0.84,
+          "suggested": 0.77,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M249 | Aztec (Battle-Scarred)",
+        "price": {
+          "min": 0.65,
+          "max": 12.84,
+          "mean": 1.77,
+          "median": 0.93,
+          "suggested": 0.65,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ M249 | Aztec (Factory New)",
+        "price": {
+          "min": 4.82,
+          "max": 7.82,
+          "mean": 6.16,
+          "median": 6,
+          "suggested": 5.48,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ M249 | Aztec (Minimal Wear)",
+        "price": {
+          "min": 1.74,
+          "max": 4.9,
+          "mean": 2.29,
+          "median": 1.94,
+          "suggested": 2.23,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ M249 | Aztec (Field-Tested)",
+        "price": {
+          "min": 0.71,
+          "max": 1.66,
+          "mean": 1.05,
+          "median": 0.99,
+          "suggested": 1,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ M249 | Aztec (Well-Worn)",
+        "price": {
+          "min": 1.25,
+          "max": 2.91,
+          "mean": 1.67,
+          "median": 1.25,
+          "suggested": 1.27,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ M249 | Aztec (Battle-Scarred)",
+        "price": {
+          "min": 1.09,
+          "max": 2.73,
+          "mean": 1.56,
+          "median": 1.18,
+          "suggested": 1.26,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M249 | Aztec (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M249 | Aztec (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M249 | Aztec (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M249 | Aztec (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M249 | Aztec (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:39.697Z"
+}

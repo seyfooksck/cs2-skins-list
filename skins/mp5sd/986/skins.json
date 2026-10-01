@@ -1,0 +1,310 @@
+{
+  "id": "skin-c93ccd1731fc",
+  "name": "MP5-SD | Condition Zero",
+  "paint_index": "986",
+  "weapon": {
+    "id": "weapon_mp5sd",
+    "weapon_id": 23,
+    "name": "MP5-SD",
+    "slug": "mp5sd"
+  },
+  "pattern": {
+    "id": "gs_mp5_conditionzero",
+    "name": "Condition Zero"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. Its blue and yellow custom paint job pays homage to Counter-Strike: Condition Zero.\\n\\n<i>\\\"RPG from three o'clock! Evade!\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 9.42,
+      "max": 63.31,
+      "mean": 25.22,
+      "median": 18.66,
+      "suggested": 4.98,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.56,
+      "max": 3.23,
+      "mean": 2.31,
+      "median": 1.97,
+      "suggested": 1.8,
+      "quantity": 28,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.99,
+      "max": 3.8,
+      "mean": 1.84,
+      "median": 1.75,
+      "suggested": 1.28,
+      "quantity": 57,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.6,
+      "max": 2.53,
+      "mean": 1.09,
+      "median": 1.02,
+      "suggested": 0.76,
+      "quantity": 35,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.57,
+      "max": 1.28,
+      "mean": 0.84,
+      "median": 0.76,
+      "suggested": 0.67,
+      "quantity": 32,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP5-SD | Condition Zero (Factory New)",
+      "price": {
+        "min": 9.42,
+        "max": 63.31,
+        "mean": 25.22,
+        "median": 18.66,
+        "suggested": 4.98,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP5-SD | Condition Zero (Minimal Wear)",
+      "price": {
+        "min": 1.56,
+        "max": 3.23,
+        "mean": 2.31,
+        "median": 1.97,
+        "suggested": 1.8,
+        "quantity": 28,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP5-SD | Condition Zero (Field-Tested)",
+      "price": {
+        "min": 0.99,
+        "max": 3.8,
+        "mean": 1.84,
+        "median": 1.75,
+        "suggested": 1.28,
+        "quantity": 57,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP5-SD | Condition Zero (Well-Worn)",
+      "price": {
+        "min": 0.6,
+        "max": 2.53,
+        "mean": 1.09,
+        "median": 1.02,
+        "suggested": 0.76,
+        "quantity": 35,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP5-SD | Condition Zero (Battle-Scarred)",
+      "price": {
+        "min": 0.57,
+        "max": 1.28,
+        "mean": 0.84,
+        "median": 0.76,
+        "suggested": 0.67,
+        "quantity": 32,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP5-SD | Condition Zero (Factory New)",
+        "price": {
+          "min": 9.42,
+          "max": 63.31,
+          "mean": 25.22,
+          "median": 18.66,
+          "suggested": 4.98,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP5-SD | Condition Zero (Minimal Wear)",
+        "price": {
+          "min": 1.56,
+          "max": 3.23,
+          "mean": 2.31,
+          "median": 1.97,
+          "suggested": 1.8,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP5-SD | Condition Zero (Field-Tested)",
+        "price": {
+          "min": 0.99,
+          "max": 3.8,
+          "mean": 1.84,
+          "median": 1.75,
+          "suggested": 1.28,
+          "quantity": 57,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP5-SD | Condition Zero (Well-Worn)",
+        "price": {
+          "min": 0.6,
+          "max": 2.53,
+          "mean": 1.09,
+          "median": 1.02,
+          "suggested": 0.76,
+          "quantity": 35,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP5-SD | Condition Zero (Battle-Scarred)",
+        "price": {
+          "min": 0.57,
+          "max": 1.28,
+          "mean": 0.84,
+          "median": 0.76,
+          "suggested": 0.67,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MP5-SD | Condition Zero (Factory New)",
+        "price": {
+          "min": 6.6,
+          "max": 50.49,
+          "mean": 16.27,
+          "median": 11.48,
+          "suggested": 6.93,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MP5-SD | Condition Zero (Minimal Wear)",
+        "price": {
+          "min": 1.61,
+          "max": 3.15,
+          "mean": 1.97,
+          "median": 1.75,
+          "suggested": 1.91,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MP5-SD | Condition Zero (Field-Tested)",
+        "price": {
+          "min": 0.75,
+          "max": 2.46,
+          "mean": 1.23,
+          "median": 1,
+          "suggested": 0.93,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MP5-SD | Condition Zero (Well-Worn)",
+        "price": {
+          "min": 0.55,
+          "max": 1.1,
+          "mean": 0.67,
+          "median": 0.62,
+          "suggested": 0.68,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MP5-SD | Condition Zero (Battle-Scarred)",
+        "price": {
+          "min": 0.58,
+          "max": 1.16,
+          "mean": 0.75,
+          "median": 0.67,
+          "suggested": 0.71,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP5-SD | Condition Zero (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP5-SD | Condition Zero (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP5-SD | Condition Zero (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP5-SD | Condition Zero (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP5-SD | Condition Zero (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.673Z"
+}

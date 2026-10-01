@@ -1,0 +1,310 @@
+{
+  "id": "skin-e8ce6f07d5e7",
+  "name": "SCAR-20 | Caged",
+  "paint_index": "1343",
+  "weapon": {
+    "id": "weapon_scar20",
+    "weapon_id": 38,
+    "name": "SCAR-20",
+    "slug": "scar20"
+  },
+  "pattern": {
+    "id": "scar_refraction_v4",
+    "name": "Caged"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The SCAR-20 is a semi-automatic sniper rifle that trades a high rate of fire and powerful long-distance damage for sluggish movement speed and big price tag. A blue and purple gradient design has been applied.\\n\\n<i>\\\"That's a big weapon for such a small cage...\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.92,
+      "max": 17.5,
+      "mean": 4.11,
+      "median": 2.15,
+      "suggested": 1.33,
+      "quantity": 24,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.28,
+      "max": 1.17,
+      "mean": 0.39,
+      "median": 0.32,
+      "suggested": 0.29,
+      "quantity": 28,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.12,
+      "max": 0.58,
+      "mean": 0.16,
+      "median": 0.16,
+      "suggested": 0.15,
+      "quantity": 50,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.06,
+      "max": 1.07,
+      "mean": 0.19,
+      "median": 0.11,
+      "suggested": 0.1,
+      "quantity": 34,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.08,
+      "max": 2.33,
+      "mean": 0.26,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 25,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SCAR-20 | Caged (Factory New)",
+      "price": {
+        "min": 0.92,
+        "max": 17.5,
+        "mean": 4.11,
+        "median": 2.15,
+        "suggested": 1.33,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SCAR-20 | Caged (Minimal Wear)",
+      "price": {
+        "min": 0.28,
+        "max": 1.17,
+        "mean": 0.39,
+        "median": 0.32,
+        "suggested": 0.29,
+        "quantity": 28,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "SCAR-20 | Caged (Field-Tested)",
+      "price": {
+        "min": 0.12,
+        "max": 0.58,
+        "mean": 0.16,
+        "median": 0.16,
+        "suggested": 0.15,
+        "quantity": 50,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "SCAR-20 | Caged (Well-Worn)",
+      "price": {
+        "min": 0.06,
+        "max": 1.07,
+        "mean": 0.19,
+        "median": 0.11,
+        "suggested": 0.1,
+        "quantity": 34,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "SCAR-20 | Caged (Battle-Scarred)",
+      "price": {
+        "min": 0.08,
+        "max": 2.33,
+        "mean": 0.26,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SCAR-20 | Caged (Factory New)",
+        "price": {
+          "min": 0.92,
+          "max": 17.5,
+          "mean": 4.11,
+          "median": 2.15,
+          "suggested": 1.33,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "SCAR-20 | Caged (Minimal Wear)",
+        "price": {
+          "min": 0.28,
+          "max": 1.17,
+          "mean": 0.39,
+          "median": 0.32,
+          "suggested": 0.29,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "SCAR-20 | Caged (Field-Tested)",
+        "price": {
+          "min": 0.12,
+          "max": 0.58,
+          "mean": 0.16,
+          "median": 0.16,
+          "suggested": 0.15,
+          "quantity": 50,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "SCAR-20 | Caged (Well-Worn)",
+        "price": {
+          "min": 0.06,
+          "max": 1.07,
+          "mean": 0.19,
+          "median": 0.11,
+          "suggested": 0.1,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "SCAR-20 | Caged (Battle-Scarred)",
+        "price": {
+          "min": 0.08,
+          "max": 2.33,
+          "mean": 0.26,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ SCAR-20 | Caged (Factory New)",
+        "price": {
+          "min": 1.95,
+          "max": 21.06,
+          "mean": 9.83,
+          "median": 8.81,
+          "suggested": 2.1,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ SCAR-20 | Caged (Minimal Wear)",
+        "price": {
+          "min": 0.53,
+          "max": 1.17,
+          "mean": 0.68,
+          "median": 0.63,
+          "suggested": 0.65,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ SCAR-20 | Caged (Field-Tested)",
+        "price": {
+          "min": 0.23,
+          "max": 1.17,
+          "mean": 0.46,
+          "median": 0.34,
+          "suggested": 0.31,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ SCAR-20 | Caged (Well-Worn)",
+        "price": {
+          "min": 0.25,
+          "max": 0.3,
+          "mean": 0.28,
+          "median": 0.29,
+          "suggested": 0.24,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ SCAR-20 | Caged (Battle-Scarred)",
+        "price": {
+          "min": 0.12,
+          "max": 1.17,
+          "mean": 0.27,
+          "median": 0.19,
+          "suggested": 0.15,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SCAR-20 | Caged (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir SCAR-20 | Caged (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir SCAR-20 | Caged (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir SCAR-20 | Caged (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir SCAR-20 | Caged (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:47.682Z"
+}

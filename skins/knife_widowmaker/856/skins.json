@@ -1,0 +1,113 @@
+{
+  "id": "skin-e628ad554646",
+  "name": "★ Talon Knife | Marble Fade",
+  "paint_index": "856",
+  "weapon": {
+    "id": "weapon_knife_widowmaker",
+    "weapon_id": 523,
+    "name": "Talon Knife",
+    "slug": "knife_widowmaker"
+  },
+  "pattern": {
+    "id": "am_marble_fade_widow",
+    "name": "Marble Fade"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This ivory-handled karambit features brass rivets and saw-tooth ridges, so it cuts on the way in, and tears on the way out. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated in three colors.\\n\\n<i>The blade is made of many colors, but soon it all looks red</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 583.47,
+      "max": 1266.02,
+      "mean": 781.85,
+      "median": 700.16,
+      "suggested": 692.78,
+      "quantity": 39,
+      "currency": "USD"
+    },
+    "mw": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Talon Knife | Marble Fade (Factory New)",
+      "price": {
+        "min": 583.47,
+        "max": 1266.02,
+        "mean": 781.85,
+        "median": 700.16,
+        "suggested": 692.78,
+        "quantity": 39,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Talon Knife | Marble Fade (Minimal Wear)",
+      "price": null,
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Talon Knife | Marble Fade (Factory New)",
+        "price": {
+          "min": 583.47,
+          "max": 1266.02,
+          "mean": 781.85,
+          "median": 700.16,
+          "suggested": 692.78,
+          "quantity": 39,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Talon Knife | Marble Fade (Minimal Wear)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Talon Knife | Marble Fade (Factory New)",
+        "price": {
+          "min": 700.16,
+          "max": 5697.57,
+          "mean": 1939.69,
+          "median": 1088.6,
+          "suggested": 759.49,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Talon Knife | Marble Fade (Minimal Wear)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:39.437Z"
+}

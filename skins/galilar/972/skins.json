@@ -1,0 +1,310 @@
+{
+  "id": "skin-736275bed39d",
+  "name": "Galil AR | Connexion",
+  "paint_index": "972",
+  "weapon": {
+    "id": "weapon_galilar",
+    "weapon_id": 13,
+    "name": "Galil AR",
+    "slug": "galilar"
+  },
+  "pattern": {
+    "id": "gs_galil_phoenix",
+    "name": "Connexion"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.8,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat. Phoenix faction logos have been spray painted over its white and red base.\\n\\n<i>They're bringing in the big guns</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 4.7,
+      "max": 48.16,
+      "mean": 11,
+      "median": 6.25,
+      "suggested": 6.09,
+      "quantity": 44,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.88,
+      "max": 22.36,
+      "mean": 1.87,
+      "median": 1.1,
+      "suggested": 1.12,
+      "quantity": 229,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.39,
+      "max": 13.42,
+      "mean": 0.63,
+      "median": 0.57,
+      "suggested": 0.57,
+      "quantity": 1206,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.43,
+      "max": 0.67,
+      "mean": 0.57,
+      "median": 0.6,
+      "suggested": 0.54,
+      "quantity": 56,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.4,
+      "max": 22.76,
+      "mean": 0.85,
+      "median": 0.56,
+      "suggested": 0.53,
+      "quantity": 167,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Galil AR | Connexion (Factory New)",
+      "price": {
+        "min": 4.7,
+        "max": 48.16,
+        "mean": 11,
+        "median": 6.25,
+        "suggested": 6.09,
+        "quantity": 44,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Galil AR | Connexion (Minimal Wear)",
+      "price": {
+        "min": 0.88,
+        "max": 22.36,
+        "mean": 1.87,
+        "median": 1.1,
+        "suggested": 1.12,
+        "quantity": 229,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Galil AR | Connexion (Field-Tested)",
+      "price": {
+        "min": 0.39,
+        "max": 13.42,
+        "mean": 0.63,
+        "median": 0.57,
+        "suggested": 0.57,
+        "quantity": 1206,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Galil AR | Connexion (Well-Worn)",
+      "price": {
+        "min": 0.43,
+        "max": 0.67,
+        "mean": 0.57,
+        "median": 0.6,
+        "suggested": 0.54,
+        "quantity": 56,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Galil AR | Connexion (Battle-Scarred)",
+      "price": {
+        "min": 0.4,
+        "max": 22.76,
+        "mean": 0.85,
+        "median": 0.56,
+        "suggested": 0.53,
+        "quantity": 167,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Galil AR | Connexion (Factory New)",
+        "price": {
+          "min": 4.7,
+          "max": 48.16,
+          "mean": 11,
+          "median": 6.25,
+          "suggested": 6.09,
+          "quantity": 44,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Galil AR | Connexion (Minimal Wear)",
+        "price": {
+          "min": 0.88,
+          "max": 22.36,
+          "mean": 1.87,
+          "median": 1.1,
+          "suggested": 1.12,
+          "quantity": 229,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Galil AR | Connexion (Field-Tested)",
+        "price": {
+          "min": 0.39,
+          "max": 13.42,
+          "mean": 0.63,
+          "median": 0.57,
+          "suggested": 0.57,
+          "quantity": 1206,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Galil AR | Connexion (Well-Worn)",
+        "price": {
+          "min": 0.43,
+          "max": 0.67,
+          "mean": 0.57,
+          "median": 0.6,
+          "suggested": 0.54,
+          "quantity": 56,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Galil AR | Connexion (Battle-Scarred)",
+        "price": {
+          "min": 0.4,
+          "max": 22.76,
+          "mean": 0.85,
+          "median": 0.56,
+          "suggested": 0.53,
+          "quantity": 167,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Galil AR | Connexion (Factory New)",
+        "price": {
+          "min": 4.29,
+          "max": 209.47,
+          "mean": 16.84,
+          "median": 5.02,
+          "suggested": 5.17,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Galil AR | Connexion (Minimal Wear)",
+        "price": {
+          "min": 1.3,
+          "max": 17.5,
+          "mean": 1.9,
+          "median": 1.69,
+          "suggested": 1.86,
+          "quantity": 76,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Galil AR | Connexion (Field-Tested)",
+        "price": {
+          "min": 0.54,
+          "max": 5.18,
+          "mean": 0.88,
+          "median": 0.84,
+          "suggested": 0.76,
+          "quantity": 383,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Galil AR | Connexion (Well-Worn)",
+        "price": {
+          "min": 0.61,
+          "max": 2.36,
+          "mean": 0.95,
+          "median": 0.83,
+          "suggested": 0.78,
+          "quantity": 45,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Galil AR | Connexion (Battle-Scarred)",
+        "price": {
+          "min": 0.6,
+          "max": 8.39,
+          "mean": 1.2,
+          "median": 0.78,
+          "suggested": 0.68,
+          "quantity": 68,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Galil AR | Connexion (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Galil AR | Connexion (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Galil AR | Connexion (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Galil AR | Connexion (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Galil AR | Connexion (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:31.053Z"
+}

@@ -1,0 +1,225 @@
+{
+  "id": "skin-f489d119026b",
+  "name": "CZ75-Auto | Emerald Quartz",
+  "paint_index": "859",
+  "weapon": {
+    "id": "weapon_cz75a",
+    "weapon_id": 63,
+    "name": "CZ75-Auto",
+    "slug": "cz75a"
+  },
+  "pattern": {
+    "id": "am_crystallized_green",
+    "name": "Emerald Quartz"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fully automatic variant of the CZ75, the CZ75-Auto is the ideal short-term choice for turning the tables and gaining your opponents weapon. But with very little ammo in the magazine, strong trigger discipline is required. It has been painted with green metallic paint and uses a crystallizing mask to create a pattern.\\n\\n<i>Everyone wants to make an impact</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 140.37,
+      "max": 168.04,
+      "mean": 154.11,
+      "median": 155.16,
+      "suggested": 172.5,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 117.07,
+      "max": 174.11,
+      "mean": 134.24,
+      "median": 122.9,
+      "suggested": 120.26,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 116.69,
+      "max": 116.69,
+      "mean": 116.69,
+      "median": 116.69,
+      "suggested": 103.69,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 104.76,
+      "max": 104.76,
+      "mean": 104.76,
+      "median": 104.76,
+      "suggested": 80.95,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "CZ75-Auto | Emerald Quartz (Factory New)",
+      "price": {
+        "min": 140.37,
+        "max": 168.04,
+        "mean": 154.11,
+        "median": 155.16,
+        "suggested": 172.5,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "CZ75-Auto | Emerald Quartz (Minimal Wear)",
+      "price": {
+        "min": 117.07,
+        "max": 174.11,
+        "mean": 134.24,
+        "median": 122.9,
+        "suggested": 120.26,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "CZ75-Auto | Emerald Quartz (Field-Tested)",
+      "price": {
+        "min": 116.69,
+        "max": 116.69,
+        "mean": 116.69,
+        "median": 116.69,
+        "suggested": 103.69,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "CZ75-Auto | Emerald Quartz (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "CZ75-Auto | Emerald Quartz (Battle-Scarred)",
+      "price": {
+        "min": 104.76,
+        "max": 104.76,
+        "mean": 104.76,
+        "median": 104.76,
+        "suggested": 80.95,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "CZ75-Auto | Emerald Quartz (Factory New)",
+        "price": {
+          "min": 140.37,
+          "max": 168.04,
+          "mean": 154.11,
+          "median": 155.16,
+          "suggested": 172.5,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "CZ75-Auto | Emerald Quartz (Minimal Wear)",
+        "price": {
+          "min": 117.07,
+          "max": 174.11,
+          "mean": 134.24,
+          "median": 122.9,
+          "suggested": 120.26,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "CZ75-Auto | Emerald Quartz (Field-Tested)",
+        "price": {
+          "min": 116.69,
+          "max": 116.69,
+          "mean": 116.69,
+          "median": 116.69,
+          "suggested": 103.69,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "CZ75-Auto | Emerald Quartz (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "CZ75-Auto | Emerald Quartz (Battle-Scarred)",
+        "price": {
+          "min": 104.76,
+          "max": 104.76,
+          "mean": 104.76,
+          "median": 104.76,
+          "suggested": 80.95,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir CZ75-Auto | Emerald Quartz (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir CZ75-Auto | Emerald Quartz (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir CZ75-Auto | Emerald Quartz (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir CZ75-Auto | Emerald Quartz (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir CZ75-Auto | Emerald Quartz (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:27.422Z"
+}

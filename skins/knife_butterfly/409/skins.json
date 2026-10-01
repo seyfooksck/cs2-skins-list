@@ -1,0 +1,145 @@
+{
+  "id": "skin-9f5234d3821f",
+  "name": "★ Butterfly Knife | Tiger Tooth",
+  "paint_index": "409",
+  "weapon": {
+    "id": "weapon_knife_butterfly",
+    "weapon_id": 515,
+    "name": "Butterfly Knife",
+    "slug": "knife_butterfly"
+  },
+  "pattern": {
+    "id": "an_tiger_orange",
+    "name": "Tiger Tooth"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This is a custom-designed balisong, commonly known as a butterfly knife. The defining characteristic of this weapon is the fan-like opening of a freely pivoting blade, allowing rapid deployment or concealment. As a result, butterfly knives are outlawed in many countries. It has been anodized orange and hand-etched in a tiger stripe pattern.\\n\\n<i>Like the tiger it is rare... like the tiger it is deadly...</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1219.45,
+      "max": 12191.79,
+      "mean": 2209.3,
+      "median": 1630.05,
+      "suggested": 1389.38,
+      "quantity": 19,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1118.79,
+      "max": 1118.79,
+      "mean": 1118.79,
+      "median": 1118.79,
+      "suggested": 1415.35,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Butterfly Knife | Tiger Tooth (Factory New)",
+      "price": {
+        "min": 1219.45,
+        "max": 12191.79,
+        "mean": 2209.3,
+        "median": 1630.05,
+        "suggested": 1389.38,
+        "quantity": 19,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Butterfly Knife | Tiger Tooth (Minimal Wear)",
+      "price": {
+        "min": 1118.79,
+        "max": 1118.79,
+        "mean": 1118.79,
+        "median": 1118.79,
+        "suggested": 1415.35,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Butterfly Knife | Tiger Tooth (Factory New)",
+        "price": {
+          "min": 1219.45,
+          "max": 12191.79,
+          "mean": 2209.3,
+          "median": 1630.05,
+          "suggested": 1389.38,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Butterfly Knife | Tiger Tooth (Minimal Wear)",
+        "price": {
+          "min": 1118.79,
+          "max": 1118.79,
+          "mean": 1118.79,
+          "median": 1118.79,
+          "suggested": 1415.35,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Butterfly Knife | Tiger Tooth (Factory New)",
+        "price": {
+          "min": 1235.8,
+          "max": 1479.87,
+          "mean": 1381.15,
+          "median": 1418.91,
+          "suggested": 1438.73,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Butterfly Knife | Tiger Tooth (Minimal Wear)",
+        "price": {
+          "min": 1692.05,
+          "max": 1692.05,
+          "mean": 1692.05,
+          "median": 1692.05,
+          "suggested": 1465.42,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:33.013Z"
+}

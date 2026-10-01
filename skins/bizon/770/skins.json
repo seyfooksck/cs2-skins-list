@@ -1,0 +1,209 @@
+{
+  "id": "skin-578fd8494dd0",
+  "name": "PP-Bizon | Cold Cell",
+  "paint_index": "770",
+  "weapon": {
+    "id": "weapon_bizon",
+    "weapon_id": 26,
+    "name": "PP-Bizon",
+    "slug": "bizon"
+  },
+  "pattern": {
+    "id": "sp_wax_rub_bizon",
+    "name": "Cold Cell"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.4,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly. It has been spray painted with a blue pebble pattern.\\n\\n<i>Your intentions are clear</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.19,
+      "max": 22.76,
+      "mean": 1.96,
+      "median": 0.89,
+      "suggested": 0.25,
+      "quantity": 634,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.06,
+      "max": 10.5,
+      "mean": 0.67,
+      "median": 0.27,
+      "suggested": 0.08,
+      "quantity": 398,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.06,
+      "max": 7,
+      "mean": 0.57,
+      "median": 0.2,
+      "suggested": 0.07,
+      "quantity": 694,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.11,
+      "max": 2.68,
+      "mean": 0.48,
+      "median": 0.21,
+      "suggested": 0.18,
+      "quantity": 38,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "PP-Bizon | Cold Cell (Factory New)",
+      "price": {
+        "min": 0.19,
+        "max": 22.76,
+        "mean": 1.96,
+        "median": 0.89,
+        "suggested": 0.25,
+        "quantity": 634,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "PP-Bizon | Cold Cell (Minimal Wear)",
+      "price": {
+        "min": 0.06,
+        "max": 10.5,
+        "mean": 0.67,
+        "median": 0.27,
+        "suggested": 0.08,
+        "quantity": 398,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "PP-Bizon | Cold Cell (Field-Tested)",
+      "price": {
+        "min": 0.06,
+        "max": 7,
+        "mean": 0.57,
+        "median": 0.2,
+        "suggested": 0.07,
+        "quantity": 694,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "PP-Bizon | Cold Cell (Well-Worn)",
+      "price": {
+        "min": 0.11,
+        "max": 2.68,
+        "mean": 0.48,
+        "median": 0.21,
+        "suggested": 0.18,
+        "quantity": 38,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "PP-Bizon | Cold Cell (Factory New)",
+        "price": {
+          "min": 0.19,
+          "max": 22.76,
+          "mean": 1.96,
+          "median": 0.89,
+          "suggested": 0.25,
+          "quantity": 634,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "PP-Bizon | Cold Cell (Minimal Wear)",
+        "price": {
+          "min": 0.06,
+          "max": 10.5,
+          "mean": 0.67,
+          "median": 0.27,
+          "suggested": 0.08,
+          "quantity": 398,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "PP-Bizon | Cold Cell (Field-Tested)",
+        "price": {
+          "min": 0.06,
+          "max": 7,
+          "mean": 0.57,
+          "median": 0.2,
+          "suggested": 0.07,
+          "quantity": 694,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "PP-Bizon | Cold Cell (Well-Worn)",
+        "price": {
+          "min": 0.11,
+          "max": 2.68,
+          "mean": 0.48,
+          "median": 0.21,
+          "suggested": 0.18,
+          "quantity": 38,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir PP-Bizon | Cold Cell (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir PP-Bizon | Cold Cell (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir PP-Bizon | Cold Cell (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir PP-Bizon | Cold Cell (Well-Worn)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:27.383Z"
+}

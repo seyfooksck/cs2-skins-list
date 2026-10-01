@@ -1,0 +1,289 @@
+{
+  "id": "skin-a14dff866da7",
+  "name": "★ Huntsman Knife | Autotronic",
+  "paint_index": "1117",
+  "weapon": {
+    "id": "weapon_knife_tactical",
+    "weapon_id": 509,
+    "name": "Huntsman Knife",
+    "slug": "knife_tactical"
+  },
+  "pattern": {
+    "id": "gs_huntsman_autotronic",
+    "name": "Autotronic"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.85,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A knife designed for modern tactical uses, the blade is well suited for a range of both combat and utilitarian needs.  The unique Tanto point allows for maximum penetration through even the toughest of surfaces. It has been anodized red and uses steel mesh to lighten the weight.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 199.95,
+      "max": 373.41,
+      "mean": 247.08,
+      "median": 217.45,
+      "suggested": 237.6,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 140.03,
+      "max": 291.73,
+      "mean": 161.57,
+      "median": 145.49,
+      "suggested": 164.69,
+      "quantity": 19,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 107.93,
+      "max": 350.07,
+      "mean": 148.26,
+      "median": 119.31,
+      "suggested": 134.56,
+      "quantity": 37,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 100.8,
+      "max": 358.45,
+      "mean": 189.6,
+      "median": 162.45,
+      "suggested": 118.86,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 90.73,
+      "max": 107.74,
+      "mean": 100.23,
+      "median": 100.3,
+      "suggested": 121.95,
+      "quantity": 5,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Huntsman Knife | Autotronic (Factory New)",
+      "price": {
+        "min": 199.95,
+        "max": 373.41,
+        "mean": 247.08,
+        "median": 217.45,
+        "suggested": 237.6,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Huntsman Knife | Autotronic (Minimal Wear)",
+      "price": {
+        "min": 140.03,
+        "max": 291.73,
+        "mean": 161.57,
+        "median": 145.49,
+        "suggested": 164.69,
+        "quantity": 19,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Huntsman Knife | Autotronic (Field-Tested)",
+      "price": {
+        "min": 107.93,
+        "max": 350.07,
+        "mean": 148.26,
+        "median": 119.31,
+        "suggested": 134.56,
+        "quantity": 37,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Huntsman Knife | Autotronic (Well-Worn)",
+      "price": {
+        "min": 100.8,
+        "max": 358.45,
+        "mean": 189.6,
+        "median": 162.45,
+        "suggested": 118.86,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Huntsman Knife | Autotronic (Battle-Scarred)",
+      "price": {
+        "min": 90.73,
+        "max": 107.74,
+        "mean": 100.23,
+        "median": 100.3,
+        "suggested": 121.95,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Huntsman Knife | Autotronic (Factory New)",
+        "price": {
+          "min": 199.95,
+          "max": 373.41,
+          "mean": 247.08,
+          "median": 217.45,
+          "suggested": 237.6,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Huntsman Knife | Autotronic (Minimal Wear)",
+        "price": {
+          "min": 140.03,
+          "max": 291.73,
+          "mean": 161.57,
+          "median": 145.49,
+          "suggested": 164.69,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Huntsman Knife | Autotronic (Field-Tested)",
+        "price": {
+          "min": 107.93,
+          "max": 350.07,
+          "mean": 148.26,
+          "median": 119.31,
+          "suggested": 134.56,
+          "quantity": 37,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Huntsman Knife | Autotronic (Well-Worn)",
+        "price": {
+          "min": 100.8,
+          "max": 358.45,
+          "mean": 189.6,
+          "median": 162.45,
+          "suggested": 118.86,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Huntsman Knife | Autotronic (Battle-Scarred)",
+        "price": {
+          "min": 90.73,
+          "max": 107.74,
+          "mean": 100.23,
+          "median": 100.3,
+          "suggested": 121.95,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Huntsman Knife | Autotronic (Factory New)",
+        "price": {
+          "min": 525.12,
+          "max": 525.12,
+          "mean": 525.12,
+          "median": 525.12,
+          "suggested": 282.28,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Huntsman Knife | Autotronic (Minimal Wear)",
+        "price": {
+          "min": 219.8,
+          "max": 260.23,
+          "mean": 240.02,
+          "median": 240.02,
+          "suggested": 178.25,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Huntsman Knife | Autotronic (Field-Tested)",
+        "price": {
+          "min": 120.77,
+          "max": 431.41,
+          "mean": 203,
+          "median": 135.08,
+          "suggested": 139.03,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Huntsman Knife | Autotronic (Well-Worn)",
+        "price": {
+          "min": 116.43,
+          "max": 116.43,
+          "mean": 116.43,
+          "median": 116.43,
+          "suggested": 138.35,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Huntsman Knife | Autotronic (Battle-Scarred)",
+        "price": {
+          "min": 108.21,
+          "max": 108.21,
+          "mean": 108.21,
+          "median": 108.21,
+          "suggested": 125.62,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:38.902Z"
+}

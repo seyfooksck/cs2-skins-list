@@ -1,0 +1,310 @@
+{
+  "id": "skin-9ecc088bd04a",
+  "name": "AUG | Triqua",
+  "paint_index": "674",
+  "weapon": {
+    "id": "weapon_aug",
+    "weapon_id": 8,
+    "name": "AUG",
+    "slug": "aug"
+  },
+  "pattern": {
+    "id": "cu_aug_orange_triangle",
+    "name": "Triqua"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire. A custom paint job with gunmetal triangles and carbon fiber over a burnt orange base.\\n\\n<i>All things being equal</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 3.66,
+      "max": 39.09,
+      "mean": 9.01,
+      "median": 6.27,
+      "suggested": 4.54,
+      "quantity": 29,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.32,
+      "max": 9.37,
+      "mean": 0.68,
+      "median": 0.46,
+      "suggested": 0.52,
+      "quantity": 87,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.28,
+      "max": 14.34,
+      "mean": 0.54,
+      "median": 0.39,
+      "suggested": 0.43,
+      "quantity": 265,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.09,
+      "max": 4.36,
+      "mean": 0.4,
+      "median": 0.25,
+      "suggested": 0.1,
+      "quantity": 226,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.16,
+      "max": 3.58,
+      "mean": 0.5,
+      "median": 0.26,
+      "suggested": 0.21,
+      "quantity": 87,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AUG | Triqua (Factory New)",
+      "price": {
+        "min": 3.66,
+        "max": 39.09,
+        "mean": 9.01,
+        "median": 6.27,
+        "suggested": 4.54,
+        "quantity": 29,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AUG | Triqua (Minimal Wear)",
+      "price": {
+        "min": 0.32,
+        "max": 9.37,
+        "mean": 0.68,
+        "median": 0.46,
+        "suggested": 0.52,
+        "quantity": 87,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AUG | Triqua (Field-Tested)",
+      "price": {
+        "min": 0.28,
+        "max": 14.34,
+        "mean": 0.54,
+        "median": 0.39,
+        "suggested": 0.43,
+        "quantity": 265,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AUG | Triqua (Well-Worn)",
+      "price": {
+        "min": 0.09,
+        "max": 4.36,
+        "mean": 0.4,
+        "median": 0.25,
+        "suggested": 0.1,
+        "quantity": 226,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AUG | Triqua (Battle-Scarred)",
+      "price": {
+        "min": 0.16,
+        "max": 3.58,
+        "mean": 0.5,
+        "median": 0.26,
+        "suggested": 0.21,
+        "quantity": 87,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AUG | Triqua (Factory New)",
+        "price": {
+          "min": 3.66,
+          "max": 39.09,
+          "mean": 9.01,
+          "median": 6.27,
+          "suggested": 4.54,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AUG | Triqua (Minimal Wear)",
+        "price": {
+          "min": 0.32,
+          "max": 9.37,
+          "mean": 0.68,
+          "median": 0.46,
+          "suggested": 0.52,
+          "quantity": 87,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AUG | Triqua (Field-Tested)",
+        "price": {
+          "min": 0.28,
+          "max": 14.34,
+          "mean": 0.54,
+          "median": 0.39,
+          "suggested": 0.43,
+          "quantity": 265,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AUG | Triqua (Well-Worn)",
+        "price": {
+          "min": 0.09,
+          "max": 4.36,
+          "mean": 0.4,
+          "median": 0.25,
+          "suggested": 0.1,
+          "quantity": 226,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AUG | Triqua (Battle-Scarred)",
+        "price": {
+          "min": 0.16,
+          "max": 3.58,
+          "mean": 0.5,
+          "median": 0.26,
+          "suggested": 0.21,
+          "quantity": 87,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AUG | Triqua (Factory New)",
+        "price": {
+          "min": 2.89,
+          "max": 35.01,
+          "mean": 7.4,
+          "median": 4.48,
+          "suggested": 3.34,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AUG | Triqua (Minimal Wear)",
+        "price": {
+          "min": 0.44,
+          "max": 12.84,
+          "mean": 1.12,
+          "median": 0.5,
+          "suggested": 0.58,
+          "quantity": 37,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AUG | Triqua (Field-Tested)",
+        "price": {
+          "min": 0.21,
+          "max": 2.77,
+          "mean": 0.36,
+          "median": 0.25,
+          "suggested": 0.27,
+          "quantity": 72,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AUG | Triqua (Well-Worn)",
+        "price": {
+          "min": 0.16,
+          "max": 5.37,
+          "mean": 0.42,
+          "median": 0.22,
+          "suggested": 0.22,
+          "quantity": 53,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ AUG | Triqua (Battle-Scarred)",
+        "price": {
+          "min": 0.14,
+          "max": 4.67,
+          "mean": 0.39,
+          "median": 0.21,
+          "suggested": 0.22,
+          "quantity": 61,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AUG | Triqua (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AUG | Triqua (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AUG | Triqua (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AUG | Triqua (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AUG | Triqua (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.382Z"
+}

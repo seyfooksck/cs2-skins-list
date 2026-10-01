@@ -1,0 +1,258 @@
+{
+  "id": "skin-8defd7296615",
+  "name": "MP7 | Impire",
+  "paint_index": "536",
+  "weapon": {
+    "id": "weapon_mp7",
+    "weapon_id": 33,
+    "name": "MP7",
+    "slug": "mp7"
+  },
+  "pattern": {
+    "id": "sp_mp7_impire",
+    "name": "Impire"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.4,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been given a hydrographic of a mob of imps,\\n\\n<i>Decimation has never been so adorable</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 16.86,
+      "max": 41.89,
+      "mean": 26.66,
+      "median": 23.86,
+      "suggested": 24.9,
+      "quantity": 44,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.88,
+      "max": 87.07,
+      "mean": 7.18,
+      "median": 4.03,
+      "suggested": 3.89,
+      "quantity": 52,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.35,
+      "max": 63.42,
+      "mean": 4.59,
+      "median": 2.56,
+      "suggested": 2.73,
+      "quantity": 40,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 2.87,
+      "max": 21.64,
+      "mean": 7.92,
+      "median": 3.58,
+      "suggested": 2.34,
+      "quantity": 4,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP7 | Impire (Factory New)",
+      "price": {
+        "min": 16.86,
+        "max": 41.89,
+        "mean": 26.66,
+        "median": 23.86,
+        "suggested": 24.9,
+        "quantity": 44,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP7 | Impire (Minimal Wear)",
+      "price": {
+        "min": 2.88,
+        "max": 87.07,
+        "mean": 7.18,
+        "median": 4.03,
+        "suggested": 3.89,
+        "quantity": 52,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP7 | Impire (Field-Tested)",
+      "price": {
+        "min": 2.35,
+        "max": 63.42,
+        "mean": 4.59,
+        "median": 2.56,
+        "suggested": 2.73,
+        "quantity": 40,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP7 | Impire (Well-Worn)",
+      "price": {
+        "min": 2.87,
+        "max": 21.64,
+        "mean": 7.92,
+        "median": 3.58,
+        "suggested": 2.34,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP7 | Impire (Factory New)",
+        "price": {
+          "min": 16.86,
+          "max": 41.89,
+          "mean": 26.66,
+          "median": 23.86,
+          "suggested": 24.9,
+          "quantity": 44,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP7 | Impire (Minimal Wear)",
+        "price": {
+          "min": 2.88,
+          "max": 87.07,
+          "mean": 7.18,
+          "median": 4.03,
+          "suggested": 3.89,
+          "quantity": 52,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP7 | Impire (Field-Tested)",
+        "price": {
+          "min": 2.35,
+          "max": 63.42,
+          "mean": 4.59,
+          "median": 2.56,
+          "suggested": 2.73,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP7 | Impire (Well-Worn)",
+        "price": {
+          "min": 2.87,
+          "max": 21.64,
+          "mean": 7.92,
+          "median": 3.58,
+          "suggested": 2.34,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MP7 | Impire (Factory New)",
+        "price": {
+          "min": 12.77,
+          "max": 28.01,
+          "mean": 16.63,
+          "median": 14.18,
+          "suggested": 14.92,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MP7 | Impire (Minimal Wear)",
+        "price": {
+          "min": 5.9,
+          "max": 40.92,
+          "mean": 12.32,
+          "median": 7.39,
+          "suggested": 7.32,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MP7 | Impire (Field-Tested)",
+        "price": {
+          "min": 4.47,
+          "max": 8.68,
+          "mean": 6.34,
+          "median": 6.2,
+          "suggested": 5.56,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MP7 | Impire (Well-Worn)",
+        "price": {
+          "min": 108.2,
+          "max": 108.2,
+          "mean": 108.2,
+          "median": 108.2,
+          "suggested": 7.18,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP7 | Impire (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP7 | Impire (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP7 | Impire (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP7 | Impire (Well-Worn)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:43.386Z"
+}

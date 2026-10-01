@@ -1,0 +1,193 @@
+{
+  "id": "skin-7036be1d6dd2",
+  "name": "MP7 | Fade",
+  "paint_index": "752",
+  "weapon": {
+    "id": "weapon_mp7",
+    "weapon_id": 33,
+    "name": "MP7",
+    "slug": "mp7"
+  },
+  "pattern": {
+    "id": "aa_fade_mp7",
+    "name": "Fade"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.25,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been painted by airbrushing transparent paints that fade together over a chrome base coat.\\n\\n<i>This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 22.64,
+      "max": 1166.94,
+      "mean": 77.24,
+      "median": 65.9,
+      "suggested": 31.72,
+      "quantity": 486,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 9.87,
+      "max": 408.43,
+      "mean": 28.15,
+      "median": 20.67,
+      "suggested": 12.18,
+      "quantity": 151,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 9.09,
+      "max": 180.34,
+      "mean": 15.54,
+      "median": 10.83,
+      "suggested": 11.04,
+      "quantity": 96,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP7 | Fade (Factory New)",
+      "price": {
+        "min": 22.64,
+        "max": 1166.94,
+        "mean": 77.24,
+        "median": 65.9,
+        "suggested": 31.72,
+        "quantity": 486,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP7 | Fade (Minimal Wear)",
+      "price": {
+        "min": 9.87,
+        "max": 408.43,
+        "mean": 28.15,
+        "median": 20.67,
+        "suggested": 12.18,
+        "quantity": 151,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP7 | Fade (Field-Tested)",
+      "price": {
+        "min": 9.09,
+        "max": 180.34,
+        "mean": 15.54,
+        "median": 10.83,
+        "suggested": 11.04,
+        "quantity": 96,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP7 | Fade (Factory New)",
+        "price": {
+          "min": 22.64,
+          "max": 1166.94,
+          "mean": 77.24,
+          "median": 65.9,
+          "suggested": 31.72,
+          "quantity": 486,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP7 | Fade (Minimal Wear)",
+        "price": {
+          "min": 9.87,
+          "max": 408.43,
+          "mean": 28.15,
+          "median": 20.67,
+          "suggested": 12.18,
+          "quantity": 151,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP7 | Fade (Field-Tested)",
+        "price": {
+          "min": 9.09,
+          "max": 180.34,
+          "mean": 15.54,
+          "median": 10.83,
+          "suggested": 11.04,
+          "quantity": 96,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP7 | Fade (Factory New)",
+        "price": {
+          "min": 40.6,
+          "max": 123.98,
+          "mean": 61.49,
+          "median": 51.35,
+          "suggested": 47.48,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP7 | Fade (Minimal Wear)",
+        "price": {
+          "min": 26.26,
+          "max": 92.95,
+          "mean": 47.48,
+          "median": 44.92,
+          "suggested": 32.68,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP7 | Fade (Field-Tested)",
+        "price": {
+          "min": 25.58,
+          "max": 55.8,
+          "mean": 37.79,
+          "median": 34.89,
+          "suggested": 31.91,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.932Z"
+}

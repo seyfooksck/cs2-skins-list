@@ -1,0 +1,249 @@
+{
+  "id": "skin-6e56f8710eff",
+  "name": "P2000 | Dispatch",
+  "paint_index": "997",
+  "weapon": {
+    "id": "weapon_hkp2000",
+    "weapon_id": 32,
+    "name": "P2000",
+    "slug": "hkp2000"
+  },
+  "pattern": {
+    "id": "am_numbers_red_blue",
+    "name": "Dispatch"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.65,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Accurate and controllable, the German-made P2000 is a serviceable first-round pistol that works best against unarmored opponents. A multicolored pattern of randomized numbers has been applied.\\n\\n<i>Numbers don't lie, but I do</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 39.61,
+      "max": 122.53,
+      "mean": 66.84,
+      "median": 50.18,
+      "suggested": 58.24,
+      "quantity": 27,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 16.34,
+      "max": 44.33,
+      "mean": 25.78,
+      "median": 21.35,
+      "suggested": 22,
+      "quantity": 21,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 16.45,
+      "max": 33.61,
+      "mean": 22.28,
+      "median": 19.67,
+      "suggested": 19.18,
+      "quantity": 25,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 19.84,
+      "max": 36.85,
+      "mean": 26.12,
+      "median": 22.5,
+      "suggested": 22.72,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 17.68,
+      "max": 41.65,
+      "mean": 24.03,
+      "median": 17.75,
+      "suggested": 20.17,
+      "quantity": 7,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P2000 | Dispatch (Factory New)",
+      "price": {
+        "min": 39.61,
+        "max": 122.53,
+        "mean": 66.84,
+        "median": 50.18,
+        "suggested": 58.24,
+        "quantity": 27,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P2000 | Dispatch (Minimal Wear)",
+      "price": {
+        "min": 16.34,
+        "max": 44.33,
+        "mean": 25.78,
+        "median": 21.35,
+        "suggested": 22,
+        "quantity": 21,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P2000 | Dispatch (Field-Tested)",
+      "price": {
+        "min": 16.45,
+        "max": 33.61,
+        "mean": 22.28,
+        "median": 19.67,
+        "suggested": 19.18,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P2000 | Dispatch (Well-Worn)",
+      "price": {
+        "min": 19.84,
+        "max": 36.85,
+        "mean": 26.12,
+        "median": 22.5,
+        "suggested": 22.72,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P2000 | Dispatch (Battle-Scarred)",
+      "price": {
+        "min": 17.68,
+        "max": 41.65,
+        "mean": 24.03,
+        "median": 17.75,
+        "suggested": 20.17,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P2000 | Dispatch (Factory New)",
+        "price": {
+          "min": 39.61,
+          "max": 122.53,
+          "mean": 66.84,
+          "median": 50.18,
+          "suggested": 58.24,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P2000 | Dispatch (Minimal Wear)",
+        "price": {
+          "min": 16.34,
+          "max": 44.33,
+          "mean": 25.78,
+          "median": 21.35,
+          "suggested": 22,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P2000 | Dispatch (Field-Tested)",
+        "price": {
+          "min": 16.45,
+          "max": 33.61,
+          "mean": 22.28,
+          "median": 19.67,
+          "suggested": 19.18,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P2000 | Dispatch (Well-Worn)",
+        "price": {
+          "min": 19.84,
+          "max": 36.85,
+          "mean": 26.12,
+          "median": 22.5,
+          "suggested": 22.72,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P2000 | Dispatch (Battle-Scarred)",
+        "price": {
+          "min": 17.68,
+          "max": 41.65,
+          "mean": 24.03,
+          "median": 17.75,
+          "suggested": 20.17,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P2000 | Dispatch (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P2000 | Dispatch (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P2000 | Dispatch (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P2000 | Dispatch (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P2000 | Dispatch (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:32.351Z"
+}

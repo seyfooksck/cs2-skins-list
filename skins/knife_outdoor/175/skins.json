@@ -1,0 +1,265 @@
+{
+  "id": "skin-c71f661fe45c",
+  "name": "★ Nomad Knife | Scorched",
+  "paint_index": "175",
+  "weapon": {
+    "id": "weapon_knife_outdoor",
+    "weapon_id": 521,
+    "name": "Nomad Knife",
+    "slug": "knife_outdoor"
+  },
+  "pattern": {
+    "id": "sp_dapple",
+    "name": "Scorched"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This ergonomic tactical hunting lock-blade knife features composite handle inserts and a broad, sturdy blade, useful for cutting and prying apart material. It has been spray-painted in a sun-dappled pattern.\\n\\n<i>The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 156.65,
+      "max": 156.65,
+      "mean": 156.65,
+      "median": 156.65,
+      "suggested": 180.69,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 107.36,
+      "max": 233.38,
+      "mean": 170.37,
+      "median": 170.37,
+      "suggested": 133.13,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 106.04,
+      "max": 106.04,
+      "mean": 106.04,
+      "median": 106.04,
+      "suggested": 114.35,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 89.84,
+      "max": 103.27,
+      "mean": 97.84,
+      "median": 100.38,
+      "suggested": 115.43,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 90.27,
+      "max": 94.13,
+      "mean": 92.2,
+      "median": 92.2,
+      "suggested": 105.66,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Nomad Knife | Scorched (Factory New)",
+      "price": {
+        "min": 156.65,
+        "max": 156.65,
+        "mean": 156.65,
+        "median": 156.65,
+        "suggested": 180.69,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Nomad Knife | Scorched (Minimal Wear)",
+      "price": {
+        "min": 107.36,
+        "max": 233.38,
+        "mean": 170.37,
+        "median": 170.37,
+        "suggested": 133.13,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Nomad Knife | Scorched (Field-Tested)",
+      "price": {
+        "min": 106.04,
+        "max": 106.04,
+        "mean": 106.04,
+        "median": 106.04,
+        "suggested": 114.35,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Nomad Knife | Scorched (Well-Worn)",
+      "price": {
+        "min": 89.84,
+        "max": 103.27,
+        "mean": 97.84,
+        "median": 100.38,
+        "suggested": 115.43,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Nomad Knife | Scorched (Battle-Scarred)",
+      "price": {
+        "min": 90.27,
+        "max": 94.13,
+        "mean": 92.2,
+        "median": 92.2,
+        "suggested": 105.66,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Nomad Knife | Scorched (Factory New)",
+        "price": {
+          "min": 156.65,
+          "max": 156.65,
+          "mean": 156.65,
+          "median": 156.65,
+          "suggested": 180.69,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Nomad Knife | Scorched (Minimal Wear)",
+        "price": {
+          "min": 107.36,
+          "max": 233.38,
+          "mean": 170.37,
+          "median": 170.37,
+          "suggested": 133.13,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Nomad Knife | Scorched (Field-Tested)",
+        "price": {
+          "min": 106.04,
+          "max": 106.04,
+          "mean": 106.04,
+          "median": 106.04,
+          "suggested": 114.35,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Nomad Knife | Scorched (Well-Worn)",
+        "price": {
+          "min": 89.84,
+          "max": 103.27,
+          "mean": 97.84,
+          "median": 100.38,
+          "suggested": 115.43,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Nomad Knife | Scorched (Battle-Scarred)",
+        "price": {
+          "min": 90.27,
+          "max": 94.13,
+          "mean": 92.2,
+          "median": 92.2,
+          "suggested": 105.66,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Nomad Knife | Scorched (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Nomad Knife | Scorched (Minimal Wear)",
+        "price": {
+          "min": 110.86,
+          "max": 110.86,
+          "mean": 110.86,
+          "median": 110.86,
+          "suggested": 148.16,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Nomad Knife | Scorched (Field-Tested)",
+        "price": {
+          "min": 122.28,
+          "max": 125.18,
+          "mean": 123.92,
+          "median": 124.28,
+          "suggested": 114.42,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Nomad Knife | Scorched (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Nomad Knife | Scorched (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:37.084Z"
+}

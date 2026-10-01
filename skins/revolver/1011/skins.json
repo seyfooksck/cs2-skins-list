@@ -1,0 +1,249 @@
+{
+  "id": "skin-53e224af9282",
+  "name": "R8 Revolver | Phoenix Marker",
+  "paint_index": "1011",
+  "weapon": {
+    "id": "weapon_revolver",
+    "weapon_id": 64,
+    "name": "R8 Revolver",
+    "slug": "revolver"
+  },
+  "pattern": {
+    "id": "am_phoenix_tags_blue",
+    "name": "Phoenix Marker"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The R8 Revolver delivers a highly accurate and powerful round at the expense of a lengthy trigger-pull. Firing rapidly by fanning the hammer may be the best option when point-blank stopping power is required. A multicolored pattern of various Phoenix Connexion graffiti has been applied.\\n\\n<i>\\\"They cannot stop us now!\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 21.64,
+      "max": 57.46,
+      "mean": 30.49,
+      "median": 30.34,
+      "suggested": 23.29,
+      "quantity": 30,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 13.59,
+      "max": 140.17,
+      "mean": 33.5,
+      "median": 13.89,
+      "suggested": 9.19,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 5.85,
+      "max": 124.83,
+      "mean": 19.16,
+      "median": 16.8,
+      "suggested": 7.24,
+      "quantity": 26,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 4.92,
+      "max": 45.51,
+      "mean": 19.92,
+      "median": 14.62,
+      "suggested": 5.58,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 4.32,
+      "max": 43.18,
+      "mean": 21.14,
+      "median": 5.31,
+      "suggested": 5.32,
+      "quantity": 7,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "R8 Revolver | Phoenix Marker (Factory New)",
+      "price": {
+        "min": 21.64,
+        "max": 57.46,
+        "mean": 30.49,
+        "median": 30.34,
+        "suggested": 23.29,
+        "quantity": 30,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "R8 Revolver | Phoenix Marker (Minimal Wear)",
+      "price": {
+        "min": 13.59,
+        "max": 140.17,
+        "mean": 33.5,
+        "median": 13.89,
+        "suggested": 9.19,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "R8 Revolver | Phoenix Marker (Field-Tested)",
+      "price": {
+        "min": 5.85,
+        "max": 124.83,
+        "mean": 19.16,
+        "median": 16.8,
+        "suggested": 7.24,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "R8 Revolver | Phoenix Marker (Well-Worn)",
+      "price": {
+        "min": 4.92,
+        "max": 45.51,
+        "mean": 19.92,
+        "median": 14.62,
+        "suggested": 5.58,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "R8 Revolver | Phoenix Marker (Battle-Scarred)",
+      "price": {
+        "min": 4.32,
+        "max": 43.18,
+        "mean": 21.14,
+        "median": 5.31,
+        "suggested": 5.32,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "R8 Revolver | Phoenix Marker (Factory New)",
+        "price": {
+          "min": 21.64,
+          "max": 57.46,
+          "mean": 30.49,
+          "median": 30.34,
+          "suggested": 23.29,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "R8 Revolver | Phoenix Marker (Minimal Wear)",
+        "price": {
+          "min": 13.59,
+          "max": 140.17,
+          "mean": 33.5,
+          "median": 13.89,
+          "suggested": 9.19,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "R8 Revolver | Phoenix Marker (Field-Tested)",
+        "price": {
+          "min": 5.85,
+          "max": 124.83,
+          "mean": 19.16,
+          "median": 16.8,
+          "suggested": 7.24,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "R8 Revolver | Phoenix Marker (Well-Worn)",
+        "price": {
+          "min": 4.92,
+          "max": 45.51,
+          "mean": 19.92,
+          "median": 14.62,
+          "suggested": 5.58,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "R8 Revolver | Phoenix Marker (Battle-Scarred)",
+        "price": {
+          "min": 4.32,
+          "max": 43.18,
+          "mean": 21.14,
+          "median": 5.31,
+          "suggested": 5.32,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir R8 Revolver | Phoenix Marker (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir R8 Revolver | Phoenix Marker (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir R8 Revolver | Phoenix Marker (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir R8 Revolver | Phoenix Marker (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir R8 Revolver | Phoenix Marker (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:46.545Z"
+}

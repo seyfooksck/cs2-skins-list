@@ -1,0 +1,198 @@
+{
+  "id": "skin-ee167748ce8e",
+  "name": "MAG-7 | Memento",
+  "paint_index": "177",
+  "weapon": {
+    "id": "weapon_mag7",
+    "weapon_id": 27,
+    "name": "MAG-7",
+    "slug": "mag7"
+  },
+  "pattern": {
+    "id": "hy_icosahedron",
+    "name": "Memento"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0.02,
+  "max_float": 0.18,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The CT-exclusive Mag-7 delivers a devastating amount of damage at close range. Its rapid magazine-style reloads make it a great tactical choice. It has been painted using a geometric-patterned hydrographic.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 6.18,
+      "max": 144.27,
+      "mean": 21.74,
+      "median": 11.35,
+      "suggested": 7.11,
+      "quantity": 18,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 3.73,
+      "max": 8.22,
+      "mean": 5.58,
+      "median": 5.64,
+      "suggested": 3.38,
+      "quantity": 13,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 3.65,
+      "max": 3.65,
+      "mean": 3.65,
+      "median": 3.65,
+      "suggested": 4.07,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAG-7 | Memento (Factory New)",
+      "price": {
+        "min": 6.18,
+        "max": 144.27,
+        "mean": 21.74,
+        "median": 11.35,
+        "suggested": 7.11,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAG-7 | Memento (Minimal Wear)",
+      "price": {
+        "min": 3.73,
+        "max": 8.22,
+        "mean": 5.58,
+        "median": 5.64,
+        "suggested": 3.38,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAG-7 | Memento (Field-Tested)",
+      "price": {
+        "min": 3.65,
+        "max": 3.65,
+        "mean": 3.65,
+        "median": 3.65,
+        "suggested": 4.07,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAG-7 | Memento (Factory New)",
+        "price": {
+          "min": 6.18,
+          "max": 144.27,
+          "mean": 21.74,
+          "median": 11.35,
+          "suggested": 7.11,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAG-7 | Memento (Minimal Wear)",
+        "price": {
+          "min": 3.73,
+          "max": 8.22,
+          "mean": 5.58,
+          "median": 5.64,
+          "suggested": 3.38,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAG-7 | Memento (Field-Tested)",
+        "price": {
+          "min": 3.65,
+          "max": 3.65,
+          "mean": 3.65,
+          "median": 3.65,
+          "suggested": 4.07,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MAG-7 | Memento (Factory New)",
+        "price": {
+          "min": 7.95,
+          "max": 126.24,
+          "mean": 38.42,
+          "median": 18.66,
+          "suggested": 8.87,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MAG-7 | Memento (Minimal Wear)",
+        "price": {
+          "min": 3.69,
+          "max": 307.24,
+          "mean": 24.38,
+          "median": 4.63,
+          "suggested": 4.47,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MAG-7 | Memento (Field-Tested)",
+        "price": null
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAG-7 | Memento (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAG-7 | Memento (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAG-7 | Memento (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.459Z"
+}

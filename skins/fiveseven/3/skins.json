@@ -1,0 +1,145 @@
+{
+  "id": "skin-5405a5b5e06f",
+  "name": "Five-SeveN | Candy Apple",
+  "paint_index": "3",
+  "weapon": {
+    "id": "weapon_fiveseven",
+    "weapon_id": 3,
+    "name": "Five-SeveN",
+    "slug": "fiveseven"
+  },
+  "pattern": {
+    "id": "so_red",
+    "name": "Candy Apple"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.3,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. It has individual parts spray-painted solid colors in a red and black color scheme.\\n\\n<i>Great on cars, better on weapons</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 84.45,
+      "max": 1091.98,
+      "mean": 243.1,
+      "median": 93.58,
+      "suggested": 99.47,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 61.31,
+      "max": 151.69,
+      "mean": 94.51,
+      "median": 70.54,
+      "suggested": 76.28,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ft": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Five-SeveN | Candy Apple (Factory New)",
+      "price": {
+        "min": 84.45,
+        "max": 1091.98,
+        "mean": 243.1,
+        "median": 93.58,
+        "suggested": 99.47,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Five-SeveN | Candy Apple (Minimal Wear)",
+      "price": {
+        "min": 61.31,
+        "max": 151.69,
+        "mean": 94.51,
+        "median": 70.54,
+        "suggested": 76.28,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Five-SeveN | Candy Apple (Field-Tested)",
+      "price": null,
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Five-SeveN | Candy Apple (Factory New)",
+        "price": {
+          "min": 84.45,
+          "max": 1091.98,
+          "mean": 243.1,
+          "median": 93.58,
+          "suggested": 99.47,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Five-SeveN | Candy Apple (Minimal Wear)",
+        "price": {
+          "min": 61.31,
+          "max": 151.69,
+          "mean": 94.51,
+          "median": 70.54,
+          "suggested": 76.28,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Five-SeveN | Candy Apple (Field-Tested)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Five-SeveN | Candy Apple (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Five-SeveN | Candy Apple (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Five-SeveN | Candy Apple (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:30.358Z"
+}

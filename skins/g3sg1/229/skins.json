@@ -1,0 +1,206 @@
+{
+  "id": "skin-2eb53e528c9d",
+  "name": "G3SG1 | Azure Zebra",
+  "paint_index": "229",
+  "weapon": {
+    "id": "weapon_g3sg1",
+    "weapon_id": 11,
+    "name": "G3SG1",
+    "slug": "g3sg1"
+  },
+  "pattern": {
+    "id": "sp_zebracam_blue",
+    "name": "Azure Zebra"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.28,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The pricy G3SG1 lowers movement speed considerably but compensates with a higher rate of fire than other sniper rifles. It has been spray-painted in a zebra stripe pattern.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 4.45,
+      "max": 219.38,
+      "mean": 12.7,
+      "median": 11.2,
+      "suggested": 5.18,
+      "quantity": 105,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 3.37,
+      "max": 64.82,
+      "mean": 9.17,
+      "median": 7.13,
+      "suggested": 3.87,
+      "quantity": 22,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 4.07,
+      "max": 10.93,
+      "mean": 7.5,
+      "median": 7.5,
+      "suggested": 3.71,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "G3SG1 | Azure Zebra (Factory New)",
+      "price": {
+        "min": 4.45,
+        "max": 219.38,
+        "mean": 12.7,
+        "median": 11.2,
+        "suggested": 5.18,
+        "quantity": 105,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "G3SG1 | Azure Zebra (Minimal Wear)",
+      "price": {
+        "min": 3.37,
+        "max": 64.82,
+        "mean": 9.17,
+        "median": 7.13,
+        "suggested": 3.87,
+        "quantity": 22,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "G3SG1 | Azure Zebra (Field-Tested)",
+      "price": {
+        "min": 4.07,
+        "max": 10.93,
+        "mean": 7.5,
+        "median": 7.5,
+        "suggested": 3.71,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "G3SG1 | Azure Zebra (Factory New)",
+        "price": {
+          "min": 4.45,
+          "max": 219.38,
+          "mean": 12.7,
+          "median": 11.2,
+          "suggested": 5.18,
+          "quantity": 105,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "G3SG1 | Azure Zebra (Minimal Wear)",
+        "price": {
+          "min": 3.37,
+          "max": 64.82,
+          "mean": 9.17,
+          "median": 7.13,
+          "suggested": 3.87,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "G3SG1 | Azure Zebra (Field-Tested)",
+        "price": {
+          "min": 4.07,
+          "max": 10.93,
+          "mean": 7.5,
+          "median": 7.5,
+          "suggested": 3.71,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ G3SG1 | Azure Zebra (Factory New)",
+        "price": {
+          "min": 4.08,
+          "max": 134.08,
+          "mean": 15.08,
+          "median": 5.55,
+          "suggested": 4.97,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ G3SG1 | Azure Zebra (Minimal Wear)",
+        "price": {
+          "min": 3.45,
+          "max": 7.94,
+          "mean": 5.86,
+          "median": 7.32,
+          "suggested": 4.23,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ G3SG1 | Azure Zebra (Field-Tested)",
+        "price": {
+          "min": 8.26,
+          "max": 8.26,
+          "mean": 8.26,
+          "median": 8.26,
+          "suggested": 3.89,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir G3SG1 | Azure Zebra (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir G3SG1 | Azure Zebra (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir G3SG1 | Azure Zebra (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:30.817Z"
+}

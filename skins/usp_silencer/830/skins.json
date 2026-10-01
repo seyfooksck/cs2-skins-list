@@ -1,0 +1,249 @@
+{
+  "id": "skin-7d2a2ccef9f1",
+  "name": "USP-S | Alpine Camo",
+  "paint_index": "830",
+  "weapon": {
+    "id": "weapon_usp_silencer",
+    "weapon_id": 61,
+    "name": "USP-S",
+    "slug": "usp_silencer"
+  },
+  "pattern": {
+    "id": "gsch_bright_camo_usp",
+    "name": "Alpine Camo"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.68,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise. It has been custom painted with a blue and purple camouflage.\\n\\n<i>Pulled out of cold storage</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.23,
+      "max": 288.55,
+      "mean": 13.24,
+      "median": 10.34,
+      "suggested": 3.64,
+      "quantity": 754,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.64,
+      "max": 268.94,
+      "mean": 3.89,
+      "median": 1.69,
+      "suggested": 0.95,
+      "quantity": 1164,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.34,
+      "max": 78.77,
+      "mean": 1.82,
+      "median": 0.88,
+      "suggested": 0.48,
+      "quantity": 2317,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.4,
+      "max": 35.57,
+      "mean": 1.95,
+      "median": 0.55,
+      "suggested": 0.5,
+      "quantity": 41,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.34,
+      "max": 11.66,
+      "mean": 1.24,
+      "median": 0.93,
+      "suggested": 0.48,
+      "quantity": 124,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "USP-S | Alpine Camo (Factory New)",
+      "price": {
+        "min": 2.23,
+        "max": 288.55,
+        "mean": 13.24,
+        "median": 10.34,
+        "suggested": 3.64,
+        "quantity": 754,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "USP-S | Alpine Camo (Minimal Wear)",
+      "price": {
+        "min": 0.64,
+        "max": 268.94,
+        "mean": 3.89,
+        "median": 1.69,
+        "suggested": 0.95,
+        "quantity": 1164,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "USP-S | Alpine Camo (Field-Tested)",
+      "price": {
+        "min": 0.34,
+        "max": 78.77,
+        "mean": 1.82,
+        "median": 0.88,
+        "suggested": 0.48,
+        "quantity": 2317,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "USP-S | Alpine Camo (Well-Worn)",
+      "price": {
+        "min": 0.4,
+        "max": 35.57,
+        "mean": 1.95,
+        "median": 0.55,
+        "suggested": 0.5,
+        "quantity": 41,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "USP-S | Alpine Camo (Battle-Scarred)",
+      "price": {
+        "min": 0.34,
+        "max": 11.66,
+        "mean": 1.24,
+        "median": 0.93,
+        "suggested": 0.48,
+        "quantity": 124,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "USP-S | Alpine Camo (Factory New)",
+        "price": {
+          "min": 2.23,
+          "max": 288.55,
+          "mean": 13.24,
+          "median": 10.34,
+          "suggested": 3.64,
+          "quantity": 754,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "USP-S | Alpine Camo (Minimal Wear)",
+        "price": {
+          "min": 0.64,
+          "max": 268.94,
+          "mean": 3.89,
+          "median": 1.69,
+          "suggested": 0.95,
+          "quantity": 1164,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "USP-S | Alpine Camo (Field-Tested)",
+        "price": {
+          "min": 0.34,
+          "max": 78.77,
+          "mean": 1.82,
+          "median": 0.88,
+          "suggested": 0.48,
+          "quantity": 2317,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "USP-S | Alpine Camo (Well-Worn)",
+        "price": {
+          "min": 0.4,
+          "max": 35.57,
+          "mean": 1.95,
+          "median": 0.55,
+          "suggested": 0.5,
+          "quantity": 41,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "USP-S | Alpine Camo (Battle-Scarred)",
+        "price": {
+          "min": 0.34,
+          "max": 11.66,
+          "mean": 1.24,
+          "median": 0.93,
+          "suggested": 0.48,
+          "quantity": 124,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir USP-S | Alpine Camo (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir USP-S | Alpine Camo (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir USP-S | Alpine Camo (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir USP-S | Alpine Camo (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir USP-S | Alpine Camo (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:50.694Z"
+}

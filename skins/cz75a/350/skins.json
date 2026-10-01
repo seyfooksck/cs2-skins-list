@@ -1,0 +1,310 @@
+{
+  "id": "skin-c80f871a746d",
+  "name": "CZ75-Auto | Tigris",
+  "paint_index": "350",
+  "weapon": {
+    "id": "weapon_cz75a",
+    "weapon_id": 63,
+    "name": "CZ75-Auto",
+    "slug": "cz75a"
+  },
+  "pattern": {
+    "id": "cu_c75a-tiger",
+    "name": "Tigris"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fully automatic variant of the CZ75, the CZ75-Auto is the ideal short-term choice for turning the tables and gaining your opponents weapon. But with very little ammo in the magazine, strong trigger discipline is required. It has been custom painted with high-gloss paint in a tiger stripe motif.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 9.69,
+      "max": 327.91,
+      "mean": 31.19,
+      "median": 13.36,
+      "suggested": 12.6,
+      "quantity": 46,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.87,
+      "max": 128.35,
+      "mean": 9.76,
+      "median": 3.37,
+      "suggested": 3.81,
+      "quantity": 58,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.1,
+      "max": 116.69,
+      "mean": 3.92,
+      "median": 2.6,
+      "suggested": 2.78,
+      "quantity": 109,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 2.04,
+      "max": 14.69,
+      "mean": 3.08,
+      "median": 2.49,
+      "suggested": 2.43,
+      "quantity": 40,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 2.02,
+      "max": 21.06,
+      "mean": 5.2,
+      "median": 2.46,
+      "suggested": 2.27,
+      "quantity": 13,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "CZ75-Auto | Tigris (Factory New)",
+      "price": {
+        "min": 9.69,
+        "max": 327.91,
+        "mean": 31.19,
+        "median": 13.36,
+        "suggested": 12.6,
+        "quantity": 46,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "CZ75-Auto | Tigris (Minimal Wear)",
+      "price": {
+        "min": 2.87,
+        "max": 128.35,
+        "mean": 9.76,
+        "median": 3.37,
+        "suggested": 3.81,
+        "quantity": 58,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "CZ75-Auto | Tigris (Field-Tested)",
+      "price": {
+        "min": 2.1,
+        "max": 116.69,
+        "mean": 3.92,
+        "median": 2.6,
+        "suggested": 2.78,
+        "quantity": 109,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "CZ75-Auto | Tigris (Well-Worn)",
+      "price": {
+        "min": 2.04,
+        "max": 14.69,
+        "mean": 3.08,
+        "median": 2.49,
+        "suggested": 2.43,
+        "quantity": 40,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "CZ75-Auto | Tigris (Battle-Scarred)",
+      "price": {
+        "min": 2.02,
+        "max": 21.06,
+        "mean": 5.2,
+        "median": 2.46,
+        "suggested": 2.27,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "CZ75-Auto | Tigris (Factory New)",
+        "price": {
+          "min": 9.69,
+          "max": 327.91,
+          "mean": 31.19,
+          "median": 13.36,
+          "suggested": 12.6,
+          "quantity": 46,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "CZ75-Auto | Tigris (Minimal Wear)",
+        "price": {
+          "min": 2.87,
+          "max": 128.35,
+          "mean": 9.76,
+          "median": 3.37,
+          "suggested": 3.81,
+          "quantity": 58,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "CZ75-Auto | Tigris (Field-Tested)",
+        "price": {
+          "min": 2.1,
+          "max": 116.69,
+          "mean": 3.92,
+          "median": 2.6,
+          "suggested": 2.78,
+          "quantity": 109,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "CZ75-Auto | Tigris (Well-Worn)",
+        "price": {
+          "min": 2.04,
+          "max": 14.69,
+          "mean": 3.08,
+          "median": 2.49,
+          "suggested": 2.43,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "CZ75-Auto | Tigris (Battle-Scarred)",
+        "price": {
+          "min": 2.02,
+          "max": 21.06,
+          "mean": 5.2,
+          "median": 2.46,
+          "suggested": 2.27,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Tigris (Factory New)",
+        "price": {
+          "min": 9.32,
+          "max": 43.06,
+          "mean": 16.08,
+          "median": 16.64,
+          "suggested": 11.8,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Tigris (Minimal Wear)",
+        "price": {
+          "min": 3.69,
+          "max": 163.95,
+          "mean": 17.08,
+          "median": 6.2,
+          "suggested": 4.7,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Tigris (Field-Tested)",
+        "price": {
+          "min": 2.32,
+          "max": 51.73,
+          "mean": 5.8,
+          "median": 2.71,
+          "suggested": 2.96,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Tigris (Well-Worn)",
+        "price": {
+          "min": 1.93,
+          "max": 66.2,
+          "mean": 5.8,
+          "median": 2.52,
+          "suggested": 2.39,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ CZ75-Auto | Tigris (Battle-Scarred)",
+        "price": {
+          "min": 1.89,
+          "max": 23.26,
+          "mean": 4.32,
+          "median": 2.3,
+          "suggested": 2.34,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir CZ75-Auto | Tigris (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir CZ75-Auto | Tigris (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir CZ75-Auto | Tigris (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir CZ75-Auto | Tigris (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir CZ75-Auto | Tigris (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:27.585Z"
+}

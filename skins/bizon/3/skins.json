@@ -1,0 +1,193 @@
+{
+  "id": "skin-505c66da36c8",
+  "name": "PP-Bizon | Candy Apple",
+  "paint_index": "3",
+  "weapon": {
+    "id": "weapon_bizon",
+    "weapon_id": 26,
+    "name": "PP-Bizon",
+    "slug": "bizon"
+  },
+  "pattern": {
+    "id": "so_red",
+    "name": "Candy Apple"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.3,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly. It has individual parts spray-painted solid colors in a red and black color scheme.\\n\\n<i>Great on cars, better on weapons</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.22,
+      "max": 93.35,
+      "mean": 2.33,
+      "median": 0.54,
+      "suggested": 0.27,
+      "quantity": 230,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.09,
+      "max": 12.84,
+      "mean": 0.44,
+      "median": 0.22,
+      "suggested": 0.12,
+      "quantity": 466,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.09,
+      "max": 12.79,
+      "mean": 0.49,
+      "median": 0.23,
+      "suggested": 0.1,
+      "quantity": 241,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "PP-Bizon | Candy Apple (Factory New)",
+      "price": {
+        "min": 0.22,
+        "max": 93.35,
+        "mean": 2.33,
+        "median": 0.54,
+        "suggested": 0.27,
+        "quantity": 230,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "PP-Bizon | Candy Apple (Minimal Wear)",
+      "price": {
+        "min": 0.09,
+        "max": 12.84,
+        "mean": 0.44,
+        "median": 0.22,
+        "suggested": 0.12,
+        "quantity": 466,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "PP-Bizon | Candy Apple (Field-Tested)",
+      "price": {
+        "min": 0.09,
+        "max": 12.79,
+        "mean": 0.49,
+        "median": 0.23,
+        "suggested": 0.1,
+        "quantity": 241,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "PP-Bizon | Candy Apple (Factory New)",
+        "price": {
+          "min": 0.22,
+          "max": 93.35,
+          "mean": 2.33,
+          "median": 0.54,
+          "suggested": 0.27,
+          "quantity": 230,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "PP-Bizon | Candy Apple (Minimal Wear)",
+        "price": {
+          "min": 0.09,
+          "max": 12.84,
+          "mean": 0.44,
+          "median": 0.22,
+          "suggested": 0.12,
+          "quantity": 466,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "PP-Bizon | Candy Apple (Field-Tested)",
+        "price": {
+          "min": 0.09,
+          "max": 12.79,
+          "mean": 0.49,
+          "median": 0.23,
+          "suggested": 0.1,
+          "quantity": 241,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir PP-Bizon | Candy Apple (Factory New)",
+        "price": {
+          "min": 1.11,
+          "max": 54.1,
+          "mean": 5.3,
+          "median": 3.22,
+          "suggested": 1.43,
+          "quantity": 68,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir PP-Bizon | Candy Apple (Minimal Wear)",
+        "price": {
+          "min": 0.39,
+          "max": 74.28,
+          "mean": 5.08,
+          "median": 2.51,
+          "suggested": 0.46,
+          "quantity": 58,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir PP-Bizon | Candy Apple (Field-Tested)",
+        "price": {
+          "min": 0.34,
+          "max": 23.33,
+          "mean": 4.49,
+          "median": 4.2,
+          "suggested": 0.43,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:27.311Z"
+}

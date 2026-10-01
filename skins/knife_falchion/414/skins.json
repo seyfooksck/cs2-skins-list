@@ -1,0 +1,113 @@
+{
+  "id": "skin-7ab6b7fb14f9",
+  "name": "★ Falchion Knife | Rust Coat",
+  "paint_index": "414",
+  "weapon": {
+    "id": "weapon_knife_falchion",
+    "weapon_id": 512,
+    "name": "Falchion Knife",
+    "slug": "knife_falchion"
+  },
+  "pattern": {
+    "id": "aq_steel_knife",
+    "name": "Rust Coat"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.4,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A modern homage to a falchion sword, this clip point blade has a curved edge. This memento from Siege is still perfectly operational although the exterior surfaces have rusted.\\n\\n<i>Scars build character</i>",
+  "images": {
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "ww": null,
+    "bs": {
+      "min": 62.37,
+      "max": 180.88,
+      "mean": 105.29,
+      "median": 86.89,
+      "suggested": 80.5,
+      "quantity": 9,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Falchion Knife | Rust Coat (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Falchion Knife | Rust Coat (Battle-Scarred)",
+      "price": {
+        "min": 62.37,
+        "max": 180.88,
+        "mean": 105.29,
+        "median": 86.89,
+        "suggested": 80.5,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "ww": {
+        "market_hash_name": "★ Falchion Knife | Rust Coat (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ Falchion Knife | Rust Coat (Battle-Scarred)",
+        "price": {
+          "min": 62.37,
+          "max": 180.88,
+          "mean": 105.29,
+          "median": 86.89,
+          "suggested": 80.5,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Falchion Knife | Rust Coat (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Falchion Knife | Rust Coat (Battle-Scarred)",
+        "price": {
+          "min": 84.71,
+          "max": 99.18,
+          "mean": 91.94,
+          "median": 91.94,
+          "suggested": 93.65,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:34.274Z"
+}

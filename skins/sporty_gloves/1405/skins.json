@@ -1,0 +1,204 @@
+{
+  "id": "skin-0f6327fef452",
+  "name": "★ Sport Gloves | Violet Beadwork",
+  "paint_index": "1405",
+  "weapon": {
+    "id": "sporty_gloves",
+    "weapon_id": 5030,
+    "name": "Sport Gloves",
+    "slug": "sporty_gloves"
+  },
+  "pattern": {
+    "id": "glove_sport_beadwork_diamonds_purple",
+    "name": "Violet Beadwork"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_gloves",
+    "name": "Gloves"
+  },
+  "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Synthetic fabrics make these athletic gloves durable and eye-catching.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 1126.56,
+      "max": 1494.48,
+      "mean": 1250.99,
+      "median": 1131.93,
+      "suggested": 823.01,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 268.38,
+      "max": 791.32,
+      "mean": 444.43,
+      "median": 389.09,
+      "suggested": 320.99,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 245.83,
+      "max": 245.83,
+      "mean": 245.83,
+      "median": 245.83,
+      "suggested": 280.42,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 191.33,
+      "max": 274.23,
+      "mean": 230,
+      "median": 218.22,
+      "suggested": 235.96,
+      "quantity": 5,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Sport Gloves | Violet Beadwork (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Sport Gloves | Violet Beadwork (Minimal Wear)",
+      "price": {
+        "min": 1126.56,
+        "max": 1494.48,
+        "mean": 1250.99,
+        "median": 1131.93,
+        "suggested": 823.01,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Sport Gloves | Violet Beadwork (Field-Tested)",
+      "price": {
+        "min": 268.38,
+        "max": 791.32,
+        "mean": 444.43,
+        "median": 389.09,
+        "suggested": 320.99,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Sport Gloves | Violet Beadwork (Well-Worn)",
+      "price": {
+        "min": 245.83,
+        "max": 245.83,
+        "mean": 245.83,
+        "median": 245.83,
+        "suggested": 280.42,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Sport Gloves | Violet Beadwork (Battle-Scarred)",
+      "price": {
+        "min": 191.33,
+        "max": 274.23,
+        "mean": 230,
+        "median": 218.22,
+        "suggested": 235.96,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Sport Gloves | Violet Beadwork (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Sport Gloves | Violet Beadwork (Minimal Wear)",
+        "price": {
+          "min": 1126.56,
+          "max": 1494.48,
+          "mean": 1250.99,
+          "median": 1131.93,
+          "suggested": 823.01,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Sport Gloves | Violet Beadwork (Field-Tested)",
+        "price": {
+          "min": 268.38,
+          "max": 791.32,
+          "mean": 444.43,
+          "median": 389.09,
+          "suggested": 320.99,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Sport Gloves | Violet Beadwork (Well-Worn)",
+        "price": {
+          "min": 245.83,
+          "max": 245.83,
+          "mean": 245.83,
+          "median": 245.83,
+          "suggested": 280.42,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Sport Gloves | Violet Beadwork (Battle-Scarred)",
+        "price": {
+          "min": 191.33,
+          "max": 274.23,
+          "mean": 230,
+          "median": 218.22,
+          "suggested": 235.96,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:23.857Z"
+}

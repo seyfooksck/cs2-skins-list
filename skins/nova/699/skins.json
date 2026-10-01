@@ -1,0 +1,310 @@
+{
+  "id": "skin-85bee1ae1898",
+  "name": "Nova | Wild Six",
+  "paint_index": "699",
+  "weapon": {
+    "id": "weapon_nova",
+    "weapon_id": 35,
+    "name": "Nova",
+    "slug": "nova"
+  },
+  "pattern": {
+    "id": "gs_nova_anchorite",
+    "name": "Wild Six"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Nova's rock-bottom price tag makes it a great ambush weapon for a cash-strapped team. A custom paint job has been applied evoking post-apocalyptic imagery.\\n\\n<i>My gun, my rules</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.61,
+      "max": 80.52,
+      "mean": 9.78,
+      "median": 4.53,
+      "suggested": 3.6,
+      "quantity": 25,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.85,
+      "max": 2.46,
+      "mean": 1.13,
+      "median": 1.07,
+      "suggested": 0.97,
+      "quantity": 69,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.35,
+      "max": 5.83,
+      "mean": 0.62,
+      "median": 0.58,
+      "suggested": 0.54,
+      "quantity": 238,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.48,
+      "max": 1.04,
+      "mean": 0.62,
+      "median": 0.58,
+      "suggested": 0.54,
+      "quantity": 17,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.43,
+      "max": 7.21,
+      "mean": 0.68,
+      "median": 0.54,
+      "suggested": 0.54,
+      "quantity": 46,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Nova | Wild Six (Factory New)",
+      "price": {
+        "min": 2.61,
+        "max": 80.52,
+        "mean": 9.78,
+        "median": 4.53,
+        "suggested": 3.6,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Nova | Wild Six (Minimal Wear)",
+      "price": {
+        "min": 0.85,
+        "max": 2.46,
+        "mean": 1.13,
+        "median": 1.07,
+        "suggested": 0.97,
+        "quantity": 69,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Nova | Wild Six (Field-Tested)",
+      "price": {
+        "min": 0.35,
+        "max": 5.83,
+        "mean": 0.62,
+        "median": 0.58,
+        "suggested": 0.54,
+        "quantity": 238,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Nova | Wild Six (Well-Worn)",
+      "price": {
+        "min": 0.48,
+        "max": 1.04,
+        "mean": 0.62,
+        "median": 0.58,
+        "suggested": 0.54,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Nova | Wild Six (Battle-Scarred)",
+      "price": {
+        "min": 0.43,
+        "max": 7.21,
+        "mean": 0.68,
+        "median": 0.54,
+        "suggested": 0.54,
+        "quantity": 46,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Nova | Wild Six (Factory New)",
+        "price": {
+          "min": 2.61,
+          "max": 80.52,
+          "mean": 9.78,
+          "median": 4.53,
+          "suggested": 3.6,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Nova | Wild Six (Minimal Wear)",
+        "price": {
+          "min": 0.85,
+          "max": 2.46,
+          "mean": 1.13,
+          "median": 1.07,
+          "suggested": 0.97,
+          "quantity": 69,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Nova | Wild Six (Field-Tested)",
+        "price": {
+          "min": 0.35,
+          "max": 5.83,
+          "mean": 0.62,
+          "median": 0.58,
+          "suggested": 0.54,
+          "quantity": 238,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Nova | Wild Six (Well-Worn)",
+        "price": {
+          "min": 0.48,
+          "max": 1.04,
+          "mean": 0.62,
+          "median": 0.58,
+          "suggested": 0.54,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Nova | Wild Six (Battle-Scarred)",
+        "price": {
+          "min": 0.43,
+          "max": 7.21,
+          "mean": 0.68,
+          "median": 0.54,
+          "suggested": 0.54,
+          "quantity": 46,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Nova | Wild Six (Factory New)",
+        "price": {
+          "min": 3.19,
+          "max": 70.02,
+          "mean": 9.6,
+          "median": 4.04,
+          "suggested": 3.77,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Nova | Wild Six (Minimal Wear)",
+        "price": {
+          "min": 1.23,
+          "max": 6.8,
+          "mean": 1.79,
+          "median": 1.49,
+          "suggested": 1.43,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Nova | Wild Six (Field-Tested)",
+        "price": {
+          "min": 0.61,
+          "max": 20.81,
+          "mean": 1.53,
+          "median": 0.77,
+          "suggested": 0.77,
+          "quantity": 84,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Nova | Wild Six (Well-Worn)",
+        "price": {
+          "min": 0.56,
+          "max": 1.38,
+          "mean": 0.89,
+          "median": 0.95,
+          "suggested": 0.78,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Nova | Wild Six (Battle-Scarred)",
+        "price": {
+          "min": 0.61,
+          "max": 1.17,
+          "mean": 0.83,
+          "median": 0.77,
+          "suggested": 0.74,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Nova | Wild Six (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Nova | Wild Six (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Nova | Wild Six (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Nova | Wild Six (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Nova | Wild Six (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.577Z"
+}

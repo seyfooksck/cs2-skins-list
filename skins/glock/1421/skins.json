@@ -1,0 +1,310 @@
+{
+  "id": "skin-ec359b168d17",
+  "name": "Glock-18 | Fully Tuned",
+  "paint_index": "1421",
+  "weapon": {
+    "id": "weapon_glock",
+    "weapon_id": 4,
+    "name": "Glock-18",
+    "slug": "glock"
+  },
+  "pattern": {
+    "id": "glock_jdpeek",
+    "name": "Fully Tuned"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. It has been custom painted using neon colors and metallic glitter paint.\\n\\n<i>It's a bit much for me, but I'm not the target audience... - Booth, Arms Dealer</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 192.53,
+      "max": 789.93,
+      "mean": 289.16,
+      "median": 247.75,
+      "suggested": 273.28,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 127.98,
+      "max": 383.92,
+      "mean": 159.67,
+      "median": 144.25,
+      "suggested": 154.57,
+      "quantity": 28,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 64.18,
+      "max": 184.34,
+      "mean": 78.08,
+      "median": 71.47,
+      "suggested": 82.25,
+      "quantity": 34,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 54.22,
+      "max": 89.1,
+      "mean": 63.88,
+      "median": 63.17,
+      "suggested": 72.73,
+      "quantity": 45,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 40.83,
+      "max": 81.69,
+      "mean": 51.36,
+      "median": 46.79,
+      "suggested": 53.01,
+      "quantity": 12,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Glock-18 | Fully Tuned (Factory New)",
+      "price": {
+        "min": 192.53,
+        "max": 789.93,
+        "mean": 289.16,
+        "median": 247.75,
+        "suggested": 273.28,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Glock-18 | Fully Tuned (Minimal Wear)",
+      "price": {
+        "min": 127.98,
+        "max": 383.92,
+        "mean": 159.67,
+        "median": 144.25,
+        "suggested": 154.57,
+        "quantity": 28,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Glock-18 | Fully Tuned (Field-Tested)",
+      "price": {
+        "min": 64.18,
+        "max": 184.34,
+        "mean": 78.08,
+        "median": 71.47,
+        "suggested": 82.25,
+        "quantity": 34,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Glock-18 | Fully Tuned (Well-Worn)",
+      "price": {
+        "min": 54.22,
+        "max": 89.1,
+        "mean": 63.88,
+        "median": 63.17,
+        "suggested": 72.73,
+        "quantity": 45,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Glock-18 | Fully Tuned (Battle-Scarred)",
+      "price": {
+        "min": 40.83,
+        "max": 81.69,
+        "mean": 51.36,
+        "median": 46.79,
+        "suggested": 53.01,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Glock-18 | Fully Tuned (Factory New)",
+        "price": {
+          "min": 192.53,
+          "max": 789.93,
+          "mean": 289.16,
+          "median": 247.75,
+          "suggested": 273.28,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Glock-18 | Fully Tuned (Minimal Wear)",
+        "price": {
+          "min": 127.98,
+          "max": 383.92,
+          "mean": 159.67,
+          "median": 144.25,
+          "suggested": 154.57,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Glock-18 | Fully Tuned (Field-Tested)",
+        "price": {
+          "min": 64.18,
+          "max": 184.34,
+          "mean": 78.08,
+          "median": 71.47,
+          "suggested": 82.25,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Glock-18 | Fully Tuned (Well-Worn)",
+        "price": {
+          "min": 54.22,
+          "max": 89.1,
+          "mean": 63.88,
+          "median": 63.17,
+          "suggested": 72.73,
+          "quantity": 45,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Glock-18 | Fully Tuned (Battle-Scarred)",
+        "price": {
+          "min": 40.83,
+          "max": 81.69,
+          "mean": 51.36,
+          "median": 46.79,
+          "suggested": 53.01,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Glock-18 | Fully Tuned (Factory New)",
+        "price": {
+          "min": 309.24,
+          "max": 348.91,
+          "mean": 324.29,
+          "median": 314.71,
+          "suggested": 386.2,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Glock-18 | Fully Tuned (Minimal Wear)",
+        "price": {
+          "min": 126.3,
+          "max": 177.43,
+          "mean": 152.36,
+          "median": 158.39,
+          "suggested": 158.14,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Glock-18 | Fully Tuned (Field-Tested)",
+        "price": {
+          "min": 103.31,
+          "max": 128.35,
+          "mean": 117.62,
+          "median": 116.83,
+          "suggested": 85.62,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Glock-18 | Fully Tuned (Well-Worn)",
+        "price": {
+          "min": 55.49,
+          "max": 56.86,
+          "mean": 56.18,
+          "median": 56.18,
+          "suggested": 59.27,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Glock-18 | Fully Tuned (Battle-Scarred)",
+        "price": {
+          "min": 49.75,
+          "max": 49.75,
+          "mean": 49.75,
+          "median": 49.75,
+          "suggested": 51.59,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Glock-18 | Fully Tuned (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Glock-18 | Fully Tuned (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Glock-18 | Fully Tuned (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Glock-18 | Fully Tuned (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Glock-18 | Fully Tuned (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:31.965Z"
+}

@@ -1,0 +1,258 @@
+{
+  "id": "skin-3470c859db1d",
+  "name": "Negev | Dazzle",
+  "paint_index": "610",
+  "weapon": {
+    "id": "weapon_negev",
+    "weapon_id": 28,
+    "name": "Negev",
+    "slug": "negev"
+  },
+  "pattern": {
+    "id": "hy_negev_dazzle",
+    "name": "Dazzle"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0.1,
+  "max_float": 0.65,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been covered in blue and white zebra stripe decals.\\n\\n<i>Finally, a gun for trivia lovers</i>",
+  "images": {
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "mw": {
+      "min": 2.25,
+      "max": 27.54,
+      "mean": 8.57,
+      "median": 5.17,
+      "suggested": 2.59,
+      "quantity": 24,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.32,
+      "max": 15.75,
+      "mean": 0.47,
+      "median": 0.37,
+      "suggested": 0.44,
+      "quantity": 219,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.28,
+      "max": 0.5,
+      "mean": 0.37,
+      "median": 0.34,
+      "suggested": 0.37,
+      "quantity": 29,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.26,
+      "max": 4.78,
+      "mean": 0.63,
+      "median": 0.3,
+      "suggested": 0.36,
+      "quantity": 29,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Negev | Dazzle (Minimal Wear)",
+      "price": {
+        "min": 2.25,
+        "max": 27.54,
+        "mean": 8.57,
+        "median": 5.17,
+        "suggested": 2.59,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Negev | Dazzle (Field-Tested)",
+      "price": {
+        "min": 0.32,
+        "max": 15.75,
+        "mean": 0.47,
+        "median": 0.37,
+        "suggested": 0.44,
+        "quantity": 219,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Negev | Dazzle (Well-Worn)",
+      "price": {
+        "min": 0.28,
+        "max": 0.5,
+        "mean": 0.37,
+        "median": 0.34,
+        "suggested": 0.37,
+        "quantity": 29,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Negev | Dazzle (Battle-Scarred)",
+      "price": {
+        "min": 0.26,
+        "max": 4.78,
+        "mean": 0.63,
+        "median": 0.3,
+        "suggested": 0.36,
+        "quantity": 29,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "mw": {
+        "market_hash_name": "Negev | Dazzle (Minimal Wear)",
+        "price": {
+          "min": 2.25,
+          "max": 27.54,
+          "mean": 8.57,
+          "median": 5.17,
+          "suggested": 2.59,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Negev | Dazzle (Field-Tested)",
+        "price": {
+          "min": 0.32,
+          "max": 15.75,
+          "mean": 0.47,
+          "median": 0.37,
+          "suggested": 0.44,
+          "quantity": 219,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Negev | Dazzle (Well-Worn)",
+        "price": {
+          "min": 0.28,
+          "max": 0.5,
+          "mean": 0.37,
+          "median": 0.34,
+          "suggested": 0.37,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Negev | Dazzle (Battle-Scarred)",
+        "price": {
+          "min": 0.26,
+          "max": 4.78,
+          "mean": 0.63,
+          "median": 0.3,
+          "suggested": 0.36,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "mw": {
+        "market_hash_name": "StatTrak™ Negev | Dazzle (Minimal Wear)",
+        "price": {
+          "min": 3.85,
+          "max": 25.09,
+          "mean": 8.68,
+          "median": 5.89,
+          "suggested": 4.68,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Negev | Dazzle (Field-Tested)",
+        "price": {
+          "min": 0.33,
+          "max": 5.83,
+          "mean": 0.57,
+          "median": 0.43,
+          "suggested": 0.52,
+          "quantity": 47,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Negev | Dazzle (Well-Worn)",
+        "price": {
+          "min": 0.44,
+          "max": 0.9,
+          "mean": 0.63,
+          "median": 0.68,
+          "suggested": 0.58,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Negev | Dazzle (Battle-Scarred)",
+        "price": {
+          "min": 0.27,
+          "max": 0.37,
+          "mean": 0.33,
+          "median": 0.33,
+          "suggested": 0.39,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "mw": {
+        "market_hash_name": "Souvenir Negev | Dazzle (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Negev | Dazzle (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Negev | Dazzle (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Negev | Dazzle (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.208Z"
+}

@@ -1,0 +1,249 @@
+{
+  "id": "skin-79039995c554",
+  "name": "Glock-18 | Coral Bloom",
+  "paint_index": "1312",
+  "weapon": {
+    "id": "weapon_glock",
+    "weapon_id": 4,
+    "name": "Glock-18",
+    "slug": "glock"
+  },
+  "pattern": {
+    "id": "soe_roses",
+    "name": "Coral Bloom"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.752941,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. A vintage pattern of roses over a coral pink base has been applied.\\n\\n<i>LOL (lots of love), Grandma</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.93,
+      "max": 81.67,
+      "mean": 9.87,
+      "median": 8.17,
+      "suggested": 3.44,
+      "quantity": 118,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.04,
+      "max": 123.1,
+      "mean": 6.16,
+      "median": 1.62,
+      "suggested": 0.92,
+      "quantity": 101,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.25,
+      "max": 6.99,
+      "mean": 0.9,
+      "median": 0.51,
+      "suggested": 0.33,
+      "quantity": 172,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.27,
+      "max": 1.69,
+      "mean": 0.47,
+      "median": 0.33,
+      "suggested": 0.38,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.21,
+      "max": 0.44,
+      "mean": 0.27,
+      "median": 0.27,
+      "suggested": 0.28,
+      "quantity": 15,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Glock-18 | Coral Bloom (Factory New)",
+      "price": {
+        "min": 2.93,
+        "max": 81.67,
+        "mean": 9.87,
+        "median": 8.17,
+        "suggested": 3.44,
+        "quantity": 118,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Glock-18 | Coral Bloom (Minimal Wear)",
+      "price": {
+        "min": 1.04,
+        "max": 123.1,
+        "mean": 6.16,
+        "median": 1.62,
+        "suggested": 0.92,
+        "quantity": 101,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Glock-18 | Coral Bloom (Field-Tested)",
+      "price": {
+        "min": 0.25,
+        "max": 6.99,
+        "mean": 0.9,
+        "median": 0.51,
+        "suggested": 0.33,
+        "quantity": 172,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Glock-18 | Coral Bloom (Well-Worn)",
+      "price": {
+        "min": 0.27,
+        "max": 1.69,
+        "mean": 0.47,
+        "median": 0.33,
+        "suggested": 0.38,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Glock-18 | Coral Bloom (Battle-Scarred)",
+      "price": {
+        "min": 0.21,
+        "max": 0.44,
+        "mean": 0.27,
+        "median": 0.27,
+        "suggested": 0.28,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Glock-18 | Coral Bloom (Factory New)",
+        "price": {
+          "min": 2.93,
+          "max": 81.67,
+          "mean": 9.87,
+          "median": 8.17,
+          "suggested": 3.44,
+          "quantity": 118,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Glock-18 | Coral Bloom (Minimal Wear)",
+        "price": {
+          "min": 1.04,
+          "max": 123.1,
+          "mean": 6.16,
+          "median": 1.62,
+          "suggested": 0.92,
+          "quantity": 101,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Glock-18 | Coral Bloom (Field-Tested)",
+        "price": {
+          "min": 0.25,
+          "max": 6.99,
+          "mean": 0.9,
+          "median": 0.51,
+          "suggested": 0.33,
+          "quantity": 172,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Glock-18 | Coral Bloom (Well-Worn)",
+        "price": {
+          "min": 0.27,
+          "max": 1.69,
+          "mean": 0.47,
+          "median": 0.33,
+          "suggested": 0.38,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Glock-18 | Coral Bloom (Battle-Scarred)",
+        "price": {
+          "min": 0.21,
+          "max": 0.44,
+          "mean": 0.27,
+          "median": 0.27,
+          "suggested": 0.28,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Glock-18 | Coral Bloom (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Glock-18 | Coral Bloom (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Glock-18 | Coral Bloom (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Glock-18 | Coral Bloom (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Glock-18 | Coral Bloom (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:32.261Z"
+}

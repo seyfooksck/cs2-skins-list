@@ -1,0 +1,310 @@
+{
+  "id": "skin-f7d21206f3a7",
+  "name": "M4A1-S | Guardian",
+  "paint_index": "257",
+  "weapon": {
+    "id": "weapon_m4a1_silencer",
+    "weapon_id": 60,
+    "name": "M4A1-S",
+    "slug": "m4a1_silencer"
+  },
+  "pattern": {
+    "id": "cu_m4a1-s_elegant",
+    "name": "Guardian"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. It has been painted cobalt blue and stenciled with the CT logo on the magazine.\\n\\n<i>I don't have to like you, I have to keep you safe - Carmen Cocinero, Extraction Expert</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 95.11,
+      "max": 62833.73,
+      "mean": 1246.08,
+      "median": 175.04,
+      "suggested": 114.2,
+      "quantity": 63,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 32.99,
+      "max": 1169.15,
+      "mean": 169.1,
+      "median": 82.29,
+      "suggested": 41.07,
+      "quantity": 45,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 25.43,
+      "max": 1702.56,
+      "mean": 296.82,
+      "median": 123.96,
+      "suggested": 32.3,
+      "quantity": 29,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 25.66,
+      "max": 47.82,
+      "mean": 34,
+      "median": 32.7,
+      "suggested": 30.07,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 29.38,
+      "max": 29.38,
+      "mean": 29.38,
+      "median": 29.38,
+      "suggested": 30.81,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A1-S | Guardian (Factory New)",
+      "price": {
+        "min": 95.11,
+        "max": 62833.73,
+        "mean": 1246.08,
+        "median": 175.04,
+        "suggested": 114.2,
+        "quantity": 63,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A1-S | Guardian (Minimal Wear)",
+      "price": {
+        "min": 32.99,
+        "max": 1169.15,
+        "mean": 169.1,
+        "median": 82.29,
+        "suggested": 41.07,
+        "quantity": 45,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A1-S | Guardian (Field-Tested)",
+      "price": {
+        "min": 25.43,
+        "max": 1702.56,
+        "mean": 296.82,
+        "median": 123.96,
+        "suggested": 32.3,
+        "quantity": 29,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M4A1-S | Guardian (Well-Worn)",
+      "price": {
+        "min": 25.66,
+        "max": 47.82,
+        "mean": 34,
+        "median": 32.7,
+        "suggested": 30.07,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M4A1-S | Guardian (Battle-Scarred)",
+      "price": {
+        "min": 29.38,
+        "max": 29.38,
+        "mean": 29.38,
+        "median": 29.38,
+        "suggested": 30.81,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A1-S | Guardian (Factory New)",
+        "price": {
+          "min": 95.11,
+          "max": 62833.73,
+          "mean": 1246.08,
+          "median": 175.04,
+          "suggested": 114.2,
+          "quantity": 63,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A1-S | Guardian (Minimal Wear)",
+        "price": {
+          "min": 32.99,
+          "max": 1169.15,
+          "mean": 169.1,
+          "median": 82.29,
+          "suggested": 41.07,
+          "quantity": 45,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A1-S | Guardian (Field-Tested)",
+        "price": {
+          "min": 25.43,
+          "max": 1702.56,
+          "mean": 296.82,
+          "median": 123.96,
+          "suggested": 32.3,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M4A1-S | Guardian (Well-Worn)",
+        "price": {
+          "min": 25.66,
+          "max": 47.82,
+          "mean": 34,
+          "median": 32.7,
+          "suggested": 30.07,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M4A1-S | Guardian (Battle-Scarred)",
+        "price": {
+          "min": 29.38,
+          "max": 29.38,
+          "mean": 29.38,
+          "median": 29.38,
+          "suggested": 30.81,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ M4A1-S | Guardian (Factory New)",
+        "price": {
+          "min": 108.51,
+          "max": 721.37,
+          "mean": 228.56,
+          "median": 140.02,
+          "suggested": 128.62,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ M4A1-S | Guardian (Minimal Wear)",
+        "price": {
+          "min": 71.46,
+          "max": 932.38,
+          "mean": 181.95,
+          "median": 97.35,
+          "suggested": 94.28,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ M4A1-S | Guardian (Field-Tested)",
+        "price": {
+          "min": 67.68,
+          "max": 699,
+          "mean": 232.1,
+          "median": 78.41,
+          "suggested": 63.86,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ M4A1-S | Guardian (Well-Worn)",
+        "price": {
+          "min": 71.63,
+          "max": 91.6,
+          "mean": 85.43,
+          "median": 89.24,
+          "suggested": 79.34,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ M4A1-S | Guardian (Battle-Scarred)",
+        "price": {
+          "min": 96.41,
+          "max": 96.41,
+          "mean": 96.41,
+          "median": 96.41,
+          "suggested": 52.48,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A1-S | Guardian (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A1-S | Guardian (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A1-S | Guardian (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M4A1-S | Guardian (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M4A1-S | Guardian (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:40.792Z"
+}

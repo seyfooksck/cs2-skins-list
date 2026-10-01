@@ -1,0 +1,310 @@
+{
+  "id": "skin-69f2e17b78f2",
+  "name": "Galil AR | Chromatic Aberration",
+  "paint_index": "1038",
+  "weapon": {
+    "id": "weapon_galilar",
+    "weapon_id": 13,
+    "name": "Galil AR",
+    "slug": "galilar"
+  },
+  "pattern": {
+    "id": "cu_galil_chroma_pink",
+    "name": "Chromatic Aberration"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat. The colors in this custom paint job were applied in offset positions, leading to an eye-popping look.\\n\\n<i>(Not so) easy on the eyes...</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 32.24,
+      "max": 118.27,
+      "mean": 57.92,
+      "median": 56.48,
+      "suggested": 45.76,
+      "quantity": 38,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 7.28,
+      "max": 134.19,
+      "mean": 11.13,
+      "median": 8.51,
+      "suggested": 9.62,
+      "quantity": 117,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 4.34,
+      "max": 55.71,
+      "mean": 5.41,
+      "median": 4.73,
+      "suggested": 5.17,
+      "quantity": 166,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 3.3,
+      "max": 128.35,
+      "mean": 5.87,
+      "median": 4.01,
+      "suggested": 4.36,
+      "quantity": 72,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 3.44,
+      "max": 4.9,
+      "mean": 3.96,
+      "median": 3.96,
+      "suggested": 4.51,
+      "quantity": 39,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Galil AR | Chromatic Aberration (Factory New)",
+      "price": {
+        "min": 32.24,
+        "max": 118.27,
+        "mean": 57.92,
+        "median": 56.48,
+        "suggested": 45.76,
+        "quantity": 38,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Galil AR | Chromatic Aberration (Minimal Wear)",
+      "price": {
+        "min": 7.28,
+        "max": 134.19,
+        "mean": 11.13,
+        "median": 8.51,
+        "suggested": 9.62,
+        "quantity": 117,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Galil AR | Chromatic Aberration (Field-Tested)",
+      "price": {
+        "min": 4.34,
+        "max": 55.71,
+        "mean": 5.41,
+        "median": 4.73,
+        "suggested": 5.17,
+        "quantity": 166,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Galil AR | Chromatic Aberration (Well-Worn)",
+      "price": {
+        "min": 3.3,
+        "max": 128.35,
+        "mean": 5.87,
+        "median": 4.01,
+        "suggested": 4.36,
+        "quantity": 72,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Galil AR | Chromatic Aberration (Battle-Scarred)",
+      "price": {
+        "min": 3.44,
+        "max": 4.9,
+        "mean": 3.96,
+        "median": 3.96,
+        "suggested": 4.51,
+        "quantity": 39,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Galil AR | Chromatic Aberration (Factory New)",
+        "price": {
+          "min": 32.24,
+          "max": 118.27,
+          "mean": 57.92,
+          "median": 56.48,
+          "suggested": 45.76,
+          "quantity": 38,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Galil AR | Chromatic Aberration (Minimal Wear)",
+        "price": {
+          "min": 7.28,
+          "max": 134.19,
+          "mean": 11.13,
+          "median": 8.51,
+          "suggested": 9.62,
+          "quantity": 117,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Galil AR | Chromatic Aberration (Field-Tested)",
+        "price": {
+          "min": 4.34,
+          "max": 55.71,
+          "mean": 5.41,
+          "median": 4.73,
+          "suggested": 5.17,
+          "quantity": 166,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Galil AR | Chromatic Aberration (Well-Worn)",
+        "price": {
+          "min": 3.3,
+          "max": 128.35,
+          "mean": 5.87,
+          "median": 4.01,
+          "suggested": 4.36,
+          "quantity": 72,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Galil AR | Chromatic Aberration (Battle-Scarred)",
+        "price": {
+          "min": 3.44,
+          "max": 4.9,
+          "mean": 3.96,
+          "median": 3.96,
+          "suggested": 4.51,
+          "quantity": 39,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Galil AR | Chromatic Aberration (Factory New)",
+        "price": {
+          "min": 35.01,
+          "max": 233.39,
+          "mean": 66.4,
+          "median": 56.28,
+          "suggested": 47.06,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Galil AR | Chromatic Aberration (Minimal Wear)",
+        "price": {
+          "min": 16.7,
+          "max": 86.66,
+          "mean": 27.28,
+          "median": 18.08,
+          "suggested": 20.61,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Galil AR | Chromatic Aberration (Field-Tested)",
+        "price": {
+          "min": 7.41,
+          "max": 17.49,
+          "mean": 10.42,
+          "median": 8.68,
+          "suggested": 9.49,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Galil AR | Chromatic Aberration (Well-Worn)",
+        "price": {
+          "min": 5.59,
+          "max": 11.61,
+          "mean": 7.98,
+          "median": 7.45,
+          "suggested": 6.46,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Galil AR | Chromatic Aberration (Battle-Scarred)",
+        "price": {
+          "min": 4.87,
+          "max": 40.84,
+          "mean": 9.46,
+          "median": 6.52,
+          "suggested": 6.22,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Galil AR | Chromatic Aberration (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Galil AR | Chromatic Aberration (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Galil AR | Chromatic Aberration (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Galil AR | Chromatic Aberration (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Galil AR | Chromatic Aberration (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:30.935Z"
+}

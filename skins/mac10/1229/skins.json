@@ -1,0 +1,206 @@
+{
+  "id": "skin-7815c7fae965",
+  "name": "MAC-10 | Sakkaku",
+  "paint_index": "1229",
+  "weapon": {
+    "id": "weapon_mac10",
+    "weapon_id": 17,
+    "name": "MAC-10",
+    "slug": "mac10"
+  },
+  "pattern": {
+    "id": "cu_mac10_sakkaku",
+    "name": "Sakkaku"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0.21,
+  "max_float": 0.79,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. In specific lighting the eyes on this custom painted MAC-10 glow red.\\n\\n<i>Make your perception their reality</i>",
+  "images": {
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "ft": {
+      "min": 0.9,
+      "max": 91,
+      "mean": 3.03,
+      "median": 1.58,
+      "suggested": 1.05,
+      "quantity": 674,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.36,
+      "max": 27.66,
+      "mean": 0.65,
+      "median": 0.55,
+      "suggested": 0.51,
+      "quantity": 527,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.34,
+      "max": 12.99,
+      "mean": 0.58,
+      "median": 0.5,
+      "suggested": 0.48,
+      "quantity": 473,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAC-10 | Sakkaku (Field-Tested)",
+      "price": {
+        "min": 0.9,
+        "max": 91,
+        "mean": 3.03,
+        "median": 1.58,
+        "suggested": 1.05,
+        "quantity": 674,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAC-10 | Sakkaku (Well-Worn)",
+      "price": {
+        "min": 0.36,
+        "max": 27.66,
+        "mean": 0.65,
+        "median": 0.55,
+        "suggested": 0.51,
+        "quantity": 527,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAC-10 | Sakkaku (Battle-Scarred)",
+      "price": {
+        "min": 0.34,
+        "max": 12.99,
+        "mean": 0.58,
+        "median": 0.5,
+        "suggested": 0.48,
+        "quantity": 473,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "ft": {
+        "market_hash_name": "MAC-10 | Sakkaku (Field-Tested)",
+        "price": {
+          "min": 0.9,
+          "max": 91,
+          "mean": 3.03,
+          "median": 1.58,
+          "suggested": 1.05,
+          "quantity": 674,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAC-10 | Sakkaku (Well-Worn)",
+        "price": {
+          "min": 0.36,
+          "max": 27.66,
+          "mean": 0.65,
+          "median": 0.55,
+          "suggested": 0.51,
+          "quantity": 527,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MAC-10 | Sakkaku (Battle-Scarred)",
+        "price": {
+          "min": 0.34,
+          "max": 12.99,
+          "mean": 0.58,
+          "median": 0.5,
+          "suggested": 0.48,
+          "quantity": 473,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "ft": {
+        "market_hash_name": "StatTrak™ MAC-10 | Sakkaku (Field-Tested)",
+        "price": {
+          "min": 1.76,
+          "max": 113.78,
+          "mean": 5.39,
+          "median": 2.25,
+          "suggested": 2.21,
+          "quantity": 144,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MAC-10 | Sakkaku (Well-Worn)",
+        "price": {
+          "min": 0.64,
+          "max": 2.28,
+          "mean": 1.03,
+          "median": 0.89,
+          "suggested": 0.78,
+          "quantity": 155,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MAC-10 | Sakkaku (Battle-Scarred)",
+        "price": {
+          "min": 0.47,
+          "max": 16.59,
+          "mean": 0.86,
+          "median": 0.64,
+          "suggested": 0.55,
+          "quantity": 104,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "ft": {
+        "market_hash_name": "Souvenir MAC-10 | Sakkaku (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAC-10 | Sakkaku (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAC-10 | Sakkaku (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.737Z"
+}

@@ -1,0 +1,249 @@
+{
+  "id": "skin-4033ec4a42d7",
+  "name": "★ Flip Knife | Black Laminate",
+  "paint_index": "564",
+  "weapon": {
+    "id": "weapon_knife_flip",
+    "weapon_id": 505,
+    "name": "Flip Knife",
+    "slug": "knife_flip"
+  },
+  "pattern": {
+    "id": "cu_flip_stonewash",
+    "name": "Black Laminate"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Flip knives sport a Persian-style back-swept blade with an acute point.  While the point itself may be fragile, the overall design of the flip knife's design is surprisingly durable. It has been stonewashed and given a black laminate handle.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 154.89,
+      "max": 169.57,
+      "mean": 160.77,
+      "median": 157.84,
+      "suggested": 195.36,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 140.49,
+      "max": 175.04,
+      "mean": 152.92,
+      "median": 148.06,
+      "suggested": 171.21,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 138.85,
+      "max": 143.38,
+      "mean": 140.57,
+      "median": 139.47,
+      "suggested": 164.01,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 163.37,
+      "max": 163.37,
+      "mean": 163.37,
+      "median": 163.37,
+      "suggested": 161.25,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Flip Knife | Black Laminate (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Flip Knife | Black Laminate (Minimal Wear)",
+      "price": {
+        "min": 154.89,
+        "max": 169.57,
+        "mean": 160.77,
+        "median": 157.84,
+        "suggested": 195.36,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Flip Knife | Black Laminate (Field-Tested)",
+      "price": {
+        "min": 140.49,
+        "max": 175.04,
+        "mean": 152.92,
+        "median": 148.06,
+        "suggested": 171.21,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Flip Knife | Black Laminate (Well-Worn)",
+      "price": {
+        "min": 138.85,
+        "max": 143.38,
+        "mean": 140.57,
+        "median": 139.47,
+        "suggested": 164.01,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Flip Knife | Black Laminate (Battle-Scarred)",
+      "price": {
+        "min": 163.37,
+        "max": 163.37,
+        "mean": 163.37,
+        "median": 163.37,
+        "suggested": 161.25,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Flip Knife | Black Laminate (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Flip Knife | Black Laminate (Minimal Wear)",
+        "price": {
+          "min": 154.89,
+          "max": 169.57,
+          "mean": 160.77,
+          "median": 157.84,
+          "suggested": 195.36,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Flip Knife | Black Laminate (Field-Tested)",
+        "price": {
+          "min": 140.49,
+          "max": 175.04,
+          "mean": 152.92,
+          "median": 148.06,
+          "suggested": 171.21,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Flip Knife | Black Laminate (Well-Worn)",
+        "price": {
+          "min": 138.85,
+          "max": 143.38,
+          "mean": 140.57,
+          "median": 139.47,
+          "suggested": 164.01,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Flip Knife | Black Laminate (Battle-Scarred)",
+        "price": {
+          "min": 163.37,
+          "max": 163.37,
+          "mean": 163.37,
+          "median": 163.37,
+          "suggested": 161.25,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Black Laminate (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Black Laminate (Minimal Wear)",
+        "price": {
+          "min": 291.2,
+          "max": 291.2,
+          "mean": 291.2,
+          "median": 291.2,
+          "suggested": 191.08,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Black Laminate (Field-Tested)",
+        "price": {
+          "min": 136.5,
+          "max": 269.06,
+          "mean": 201.31,
+          "median": 198.38,
+          "suggested": 171.37,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Black Laminate (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Black Laminate (Battle-Scarred)",
+        "price": {
+          "min": 157.52,
+          "max": 157.52,
+          "mean": 157.52,
+          "median": 157.52,
+          "suggested": 156.63,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:34.758Z"
+}

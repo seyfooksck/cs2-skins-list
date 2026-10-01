@@ -1,0 +1,206 @@
+{
+  "id": "skin-6747a1a6fb43",
+  "name": "Desert Eagle | Cobalt Disruption",
+  "paint_index": "231",
+  "weapon": {
+    "id": "weapon_deagle",
+    "weapon_id": 1,
+    "name": "Desert Eagle",
+    "slug": "deagle"
+  },
+  "pattern": {
+    "id": "am_ddpatdense_peacock",
+    "name": "Cobalt Disruption"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.2,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. It has been covered in a metallic foil stamped with a digital disruptive pattern.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 124.86,
+      "max": 2463.74,
+      "mean": 271.53,
+      "median": 220.38,
+      "suggested": 177.74,
+      "quantity": 78,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 87.05,
+      "max": 932.38,
+      "mean": 172.13,
+      "median": 108.43,
+      "suggested": 114.81,
+      "quantity": 32,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 175.04,
+      "max": 1283.63,
+      "mean": 729.34,
+      "median": 729.34,
+      "suggested": 105.57,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Desert Eagle | Cobalt Disruption (Factory New)",
+      "price": {
+        "min": 124.86,
+        "max": 2463.74,
+        "mean": 271.53,
+        "median": 220.38,
+        "suggested": 177.74,
+        "quantity": 78,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Desert Eagle | Cobalt Disruption (Minimal Wear)",
+      "price": {
+        "min": 87.05,
+        "max": 932.38,
+        "mean": 172.13,
+        "median": 108.43,
+        "suggested": 114.81,
+        "quantity": 32,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Desert Eagle | Cobalt Disruption (Field-Tested)",
+      "price": {
+        "min": 175.04,
+        "max": 1283.63,
+        "mean": 729.34,
+        "median": 729.34,
+        "suggested": 105.57,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Desert Eagle | Cobalt Disruption (Factory New)",
+        "price": {
+          "min": 124.86,
+          "max": 2463.74,
+          "mean": 271.53,
+          "median": 220.38,
+          "suggested": 177.74,
+          "quantity": 78,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Desert Eagle | Cobalt Disruption (Minimal Wear)",
+        "price": {
+          "min": 87.05,
+          "max": 932.38,
+          "mean": 172.13,
+          "median": 108.43,
+          "suggested": 114.81,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Desert Eagle | Cobalt Disruption (Field-Tested)",
+        "price": {
+          "min": 175.04,
+          "max": 1283.63,
+          "mean": 729.34,
+          "median": 729.34,
+          "suggested": 105.57,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Cobalt Disruption (Factory New)",
+        "price": {
+          "min": 215.88,
+          "max": 388.59,
+          "mean": 272.89,
+          "median": 254.56,
+          "suggested": 248.67,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Cobalt Disruption (Minimal Wear)",
+        "price": {
+          "min": 161.03,
+          "max": 688.49,
+          "mean": 250,
+          "median": 193.1,
+          "suggested": 193.78,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Cobalt Disruption (Field-Tested)",
+        "price": {
+          "min": 135.08,
+          "max": 174.41,
+          "mean": 154.75,
+          "median": 154.75,
+          "suggested": 179.15,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Desert Eagle | Cobalt Disruption (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Desert Eagle | Cobalt Disruption (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Desert Eagle | Cobalt Disruption (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:28.000Z"
+}

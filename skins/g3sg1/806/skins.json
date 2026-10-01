@@ -1,0 +1,310 @@
+{
+  "id": "skin-aa544d78f97f",
+  "name": "G3SG1 | Scavenger",
+  "paint_index": "806",
+  "weapon": {
+    "id": "weapon_g3sg1",
+    "weapon_id": 11,
+    "name": "G3SG1",
+    "slug": "g3sg1"
+  },
+  "pattern": {
+    "id": "gs_g3sg1_savage",
+    "name": "Scavenger"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.65,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The pricy G3SG1 lowers movement speed considerably but compensates with a higher rate of fire than other sniper rifles. Originally green, parts of the weapon have been replaced with street signs and a tomato can.\\n\\n<i>Why run?</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.18,
+      "max": 58.35,
+      "mean": 8.97,
+      "median": 3.83,
+      "suggested": 2.88,
+      "quantity": 49,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.86,
+      "max": 3.5,
+      "mean": 1.11,
+      "median": 1.04,
+      "suggested": 1.13,
+      "quantity": 76,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.47,
+      "max": 16.14,
+      "mean": 0.83,
+      "median": 0.63,
+      "suggested": 0.7,
+      "quantity": 191,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.54,
+      "max": 1.47,
+      "mean": 0.99,
+      "median": 0.98,
+      "suggested": 0.61,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.47,
+      "max": 277.59,
+      "mean": 8.3,
+      "median": 0.63,
+      "suggested": 0.71,
+      "quantity": 40,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "G3SG1 | Scavenger (Factory New)",
+      "price": {
+        "min": 2.18,
+        "max": 58.35,
+        "mean": 8.97,
+        "median": 3.83,
+        "suggested": 2.88,
+        "quantity": 49,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "G3SG1 | Scavenger (Minimal Wear)",
+      "price": {
+        "min": 0.86,
+        "max": 3.5,
+        "mean": 1.11,
+        "median": 1.04,
+        "suggested": 1.13,
+        "quantity": 76,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "G3SG1 | Scavenger (Field-Tested)",
+      "price": {
+        "min": 0.47,
+        "max": 16.14,
+        "mean": 0.83,
+        "median": 0.63,
+        "suggested": 0.7,
+        "quantity": 191,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "G3SG1 | Scavenger (Well-Worn)",
+      "price": {
+        "min": 0.54,
+        "max": 1.47,
+        "mean": 0.99,
+        "median": 0.98,
+        "suggested": 0.61,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "G3SG1 | Scavenger (Battle-Scarred)",
+      "price": {
+        "min": 0.47,
+        "max": 277.59,
+        "mean": 8.3,
+        "median": 0.63,
+        "suggested": 0.71,
+        "quantity": 40,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "G3SG1 | Scavenger (Factory New)",
+        "price": {
+          "min": 2.18,
+          "max": 58.35,
+          "mean": 8.97,
+          "median": 3.83,
+          "suggested": 2.88,
+          "quantity": 49,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "G3SG1 | Scavenger (Minimal Wear)",
+        "price": {
+          "min": 0.86,
+          "max": 3.5,
+          "mean": 1.11,
+          "median": 1.04,
+          "suggested": 1.13,
+          "quantity": 76,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "G3SG1 | Scavenger (Field-Tested)",
+        "price": {
+          "min": 0.47,
+          "max": 16.14,
+          "mean": 0.83,
+          "median": 0.63,
+          "suggested": 0.7,
+          "quantity": 191,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "G3SG1 | Scavenger (Well-Worn)",
+        "price": {
+          "min": 0.54,
+          "max": 1.47,
+          "mean": 0.99,
+          "median": 0.98,
+          "suggested": 0.61,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "G3SG1 | Scavenger (Battle-Scarred)",
+        "price": {
+          "min": 0.47,
+          "max": 277.59,
+          "mean": 8.3,
+          "median": 0.63,
+          "suggested": 0.71,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ G3SG1 | Scavenger (Factory New)",
+        "price": {
+          "min": 2.11,
+          "max": 13.99,
+          "mean": 4.46,
+          "median": 2.78,
+          "suggested": 2.89,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ G3SG1 | Scavenger (Minimal Wear)",
+        "price": {
+          "min": 1.31,
+          "max": 2.29,
+          "mean": 1.55,
+          "median": 1.53,
+          "suggested": 1.68,
+          "quantity": 48,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ G3SG1 | Scavenger (Field-Tested)",
+        "price": {
+          "min": 0.81,
+          "max": 36.76,
+          "mean": 3.87,
+          "median": 0.99,
+          "suggested": 1.12,
+          "quantity": 65,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ G3SG1 | Scavenger (Well-Worn)",
+        "price": {
+          "min": 1.05,
+          "max": 1.62,
+          "mean": 1.17,
+          "median": 1.1,
+          "suggested": 0.96,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ G3SG1 | Scavenger (Battle-Scarred)",
+        "price": {
+          "min": 0.82,
+          "max": 2.81,
+          "mean": 1.33,
+          "median": 1.04,
+          "suggested": 0.98,
+          "quantity": 37,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir G3SG1 | Scavenger (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir G3SG1 | Scavenger (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir G3SG1 | Scavenger (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir G3SG1 | Scavenger (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir G3SG1 | Scavenger (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:30.595Z"
+}

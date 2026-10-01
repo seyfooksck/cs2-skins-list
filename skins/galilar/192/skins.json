@@ -1,0 +1,310 @@
+{
+  "id": "skin-9dc89a8890a8",
+  "name": "Galil AR | Shattered",
+  "paint_index": "192",
+  "weapon": {
+    "id": "weapon_galilar",
+    "weapon_id": 13,
+    "name": "Galil AR",
+    "slug": "galilar"
+  },
+  "pattern": {
+    "id": "hy_crumple_bravo",
+    "name": "Shattered"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat. This memento from Agency has been painted with a polygonal patterned hydrographic.\\n\\n<i>My men are professionals, they'll get the job done right... - Elliott Kingsman, Career Criminal</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 46.68,
+      "max": 189.91,
+      "mean": 84.23,
+      "median": 51.75,
+      "suggested": 56.71,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 10.79,
+      "max": 19.84,
+      "mean": 13.15,
+      "median": 12.29,
+      "suggested": 12.43,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 5.95,
+      "max": 9.22,
+      "mean": 6.98,
+      "median": 6.44,
+      "suggested": 7.09,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 6.11,
+      "max": 9.45,
+      "mean": 8.11,
+      "median": 8.44,
+      "suggested": 6.45,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 5.27,
+      "max": 116.69,
+      "mean": 31.27,
+      "median": 22.72,
+      "suggested": 6.5,
+      "quantity": 8,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Galil AR | Shattered (Factory New)",
+      "price": {
+        "min": 46.68,
+        "max": 189.91,
+        "mean": 84.23,
+        "median": 51.75,
+        "suggested": 56.71,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Galil AR | Shattered (Minimal Wear)",
+      "price": {
+        "min": 10.79,
+        "max": 19.84,
+        "mean": 13.15,
+        "median": 12.29,
+        "suggested": 12.43,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Galil AR | Shattered (Field-Tested)",
+      "price": {
+        "min": 5.95,
+        "max": 9.22,
+        "mean": 6.98,
+        "median": 6.44,
+        "suggested": 7.09,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Galil AR | Shattered (Well-Worn)",
+      "price": {
+        "min": 6.11,
+        "max": 9.45,
+        "mean": 8.11,
+        "median": 8.44,
+        "suggested": 6.45,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Galil AR | Shattered (Battle-Scarred)",
+      "price": {
+        "min": 5.27,
+        "max": 116.69,
+        "mean": 31.27,
+        "median": 22.72,
+        "suggested": 6.5,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Galil AR | Shattered (Factory New)",
+        "price": {
+          "min": 46.68,
+          "max": 189.91,
+          "mean": 84.23,
+          "median": 51.75,
+          "suggested": 56.71,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Galil AR | Shattered (Minimal Wear)",
+        "price": {
+          "min": 10.79,
+          "max": 19.84,
+          "mean": 13.15,
+          "median": 12.29,
+          "suggested": 12.43,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Galil AR | Shattered (Field-Tested)",
+        "price": {
+          "min": 5.95,
+          "max": 9.22,
+          "mean": 6.98,
+          "median": 6.44,
+          "suggested": 7.09,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Galil AR | Shattered (Well-Worn)",
+        "price": {
+          "min": 6.11,
+          "max": 9.45,
+          "mean": 8.11,
+          "median": 8.44,
+          "suggested": 6.45,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Galil AR | Shattered (Battle-Scarred)",
+        "price": {
+          "min": 5.27,
+          "max": 116.69,
+          "mean": 31.27,
+          "median": 22.72,
+          "suggested": 6.5,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Galil AR | Shattered (Factory New)",
+        "price": {
+          "min": 116.69,
+          "max": 201.99,
+          "mean": 159.35,
+          "median": 159.35,
+          "suggested": 121.84,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Galil AR | Shattered (Minimal Wear)",
+        "price": {
+          "min": 11.37,
+          "max": 14.24,
+          "mean": 13.05,
+          "median": 13.99,
+          "suggested": 14.23,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Galil AR | Shattered (Field-Tested)",
+        "price": {
+          "min": 7.12,
+          "max": 35.01,
+          "mean": 13.19,
+          "median": 7.84,
+          "suggested": 8.54,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Galil AR | Shattered (Well-Worn)",
+        "price": {
+          "min": 8.4,
+          "max": 204.83,
+          "mean": 106.62,
+          "median": 106.62,
+          "suggested": 7.51,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Galil AR | Shattered (Battle-Scarred)",
+        "price": {
+          "min": 6.29,
+          "max": 6.29,
+          "mean": 6.29,
+          "median": 6.29,
+          "suggested": 6.95,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Galil AR | Shattered (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Galil AR | Shattered (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Galil AR | Shattered (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Galil AR | Shattered (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Galil AR | Shattered (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:31.114Z"
+}

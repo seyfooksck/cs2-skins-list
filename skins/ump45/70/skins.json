@@ -1,0 +1,129 @@
+{
+  "id": "skin-3bc8c64a1ae8",
+  "name": "UMP-45 | Carbon Fiber",
+  "paint_index": "70",
+  "weapon": {
+    "id": "weapon_ump45",
+    "weapon_id": 24,
+    "name": "UMP-45",
+    "slug": "ump45"
+  },
+  "pattern": {
+    "id": "am_carbon_fiber",
+    "name": "Carbon Fiber"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.12,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic. It has been painted using a carbon fiber hydrographic over a graphite base coat.\\n\\n<i>Just because I carried my team doesn't mean it wasn't a team effort - Rona Sabri, Rising Star</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.15,
+      "max": 78.34,
+      "mean": 2.54,
+      "median": 1.17,
+      "suggested": 0.22,
+      "quantity": 458,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.13,
+      "max": 7.59,
+      "mean": 0.47,
+      "median": 0.28,
+      "suggested": 0.2,
+      "quantity": 64,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "UMP-45 | Carbon Fiber (Factory New)",
+      "price": {
+        "min": 0.15,
+        "max": 78.34,
+        "mean": 2.54,
+        "median": 1.17,
+        "suggested": 0.22,
+        "quantity": 458,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "UMP-45 | Carbon Fiber (Minimal Wear)",
+      "price": {
+        "min": 0.13,
+        "max": 7.59,
+        "mean": 0.47,
+        "median": 0.28,
+        "suggested": 0.2,
+        "quantity": 64,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "UMP-45 | Carbon Fiber (Factory New)",
+        "price": {
+          "min": 0.15,
+          "max": 78.34,
+          "mean": 2.54,
+          "median": 1.17,
+          "suggested": 0.22,
+          "quantity": 458,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "UMP-45 | Carbon Fiber (Minimal Wear)",
+        "price": {
+          "min": 0.13,
+          "max": 7.59,
+          "mean": 0.47,
+          "median": 0.28,
+          "suggested": 0.2,
+          "quantity": 64,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir UMP-45 | Carbon Fiber (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir UMP-45 | Carbon Fiber (Minimal Wear)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.737Z"
+}

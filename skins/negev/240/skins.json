@@ -1,0 +1,249 @@
+{
+  "id": "skin-2e26a69a85e0",
+  "name": "Negev | CaliCamo",
+  "paint_index": "240",
+  "weapon": {
+    "id": "weapon_negev",
+    "weapon_id": 28,
+    "name": "Negev",
+    "slug": "negev"
+  },
+  "pattern": {
+    "id": "hy_varicamo_desert",
+    "name": "CaliCamo"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it. It has been painted using a VariCamo patterned hydrographic.\\n\\n<i>Rebuilding only comes in the wake of destruction</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 31.6,
+      "max": 2532.03,
+      "mean": 656.71,
+      "median": 31.6,
+      "suggested": 14.33,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 39.94,
+      "max": 40.56,
+      "mean": 40.26,
+      "median": 40.26,
+      "suggested": 13.45,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 10.47,
+      "max": 23.99,
+      "mean": 17.21,
+      "median": 17.2,
+      "suggested": 11.22,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 11.56,
+      "max": 11.56,
+      "mean": 11.56,
+      "median": 11.56,
+      "suggested": 12.37,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Negev | CaliCamo (Factory New)",
+      "price": {
+        "min": 31.6,
+        "max": 2532.03,
+        "mean": 656.71,
+        "median": 31.6,
+        "suggested": 14.33,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Negev | CaliCamo (Minimal Wear)",
+      "price": {
+        "min": 39.94,
+        "max": 40.56,
+        "mean": 40.26,
+        "median": 40.26,
+        "suggested": 13.45,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Negev | CaliCamo (Field-Tested)",
+      "price": {
+        "min": 10.47,
+        "max": 23.99,
+        "mean": 17.21,
+        "median": 17.2,
+        "suggested": 11.22,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Negev | CaliCamo (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Negev | CaliCamo (Battle-Scarred)",
+      "price": {
+        "min": 11.56,
+        "max": 11.56,
+        "mean": 11.56,
+        "median": 11.56,
+        "suggested": 12.37,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Negev | CaliCamo (Factory New)",
+        "price": {
+          "min": 31.6,
+          "max": 2532.03,
+          "mean": 656.71,
+          "median": 31.6,
+          "suggested": 14.33,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Negev | CaliCamo (Minimal Wear)",
+        "price": {
+          "min": 39.94,
+          "max": 40.56,
+          "mean": 40.26,
+          "median": 40.26,
+          "suggested": 13.45,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Negev | CaliCamo (Field-Tested)",
+        "price": {
+          "min": 10.47,
+          "max": 23.99,
+          "mean": 17.21,
+          "median": 17.2,
+          "suggested": 11.22,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Negev | CaliCamo (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Negev | CaliCamo (Battle-Scarred)",
+        "price": {
+          "min": 11.56,
+          "max": 11.56,
+          "mean": 11.56,
+          "median": 11.56,
+          "suggested": 12.37,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Negev | CaliCamo (Factory New)",
+        "price": {
+          "min": 35.01,
+          "max": 79.9,
+          "mean": 55.58,
+          "median": 42.2,
+          "suggested": 12.4,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Negev | CaliCamo (Minimal Wear)",
+        "price": {
+          "min": 10.84,
+          "max": 655.63,
+          "mean": 159.66,
+          "median": 75.12,
+          "suggested": 12.87,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Negev | CaliCamo (Field-Tested)",
+        "price": {
+          "min": 11.54,
+          "max": 28.01,
+          "mean": 13.63,
+          "median": 11.54,
+          "suggested": 11.1,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Negev | CaliCamo (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Negev | CaliCamo (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.232Z"
+}

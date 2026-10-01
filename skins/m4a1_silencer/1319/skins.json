@@ -1,0 +1,249 @@
+{
+  "id": "skin-d474744b61b7",
+  "name": "M4A1-S | Rose Hex",
+  "paint_index": "1319",
+  "weapon": {
+    "id": "weapon_m4a1_silencer",
+    "weapon_id": 60,
+    "name": "M4A1-S",
+    "slug": "m4a1_silencer"
+  },
+  "pattern": {
+    "id": "hy_hexagon",
+    "name": "Rose Hex"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. A hydrographic hex pattern has been applied.\\n\\n<i>Hex marks the spot</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.19,
+      "max": 51.21,
+      "mean": 5.94,
+      "median": 5.51,
+      "suggested": 1.22,
+      "quantity": 57,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.46,
+      "max": 22.24,
+      "mean": 1.79,
+      "median": 0.58,
+      "suggested": 0.53,
+      "quantity": 46,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.18,
+      "max": 5.82,
+      "mean": 1.97,
+      "median": 3,
+      "suggested": 0.22,
+      "quantity": 87,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.19,
+      "max": 2.63,
+      "mean": 0.43,
+      "median": 0.25,
+      "suggested": 0.22,
+      "quantity": 18,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.2,
+      "max": 0.25,
+      "mean": 0.23,
+      "median": 0.25,
+      "suggested": 0.22,
+      "quantity": 8,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A1-S | Rose Hex (Factory New)",
+      "price": {
+        "min": 1.19,
+        "max": 51.21,
+        "mean": 5.94,
+        "median": 5.51,
+        "suggested": 1.22,
+        "quantity": 57,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A1-S | Rose Hex (Minimal Wear)",
+      "price": {
+        "min": 0.46,
+        "max": 22.24,
+        "mean": 1.79,
+        "median": 0.58,
+        "suggested": 0.53,
+        "quantity": 46,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A1-S | Rose Hex (Field-Tested)",
+      "price": {
+        "min": 0.18,
+        "max": 5.82,
+        "mean": 1.97,
+        "median": 3,
+        "suggested": 0.22,
+        "quantity": 87,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M4A1-S | Rose Hex (Well-Worn)",
+      "price": {
+        "min": 0.19,
+        "max": 2.63,
+        "mean": 0.43,
+        "median": 0.25,
+        "suggested": 0.22,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M4A1-S | Rose Hex (Battle-Scarred)",
+      "price": {
+        "min": 0.2,
+        "max": 0.25,
+        "mean": 0.23,
+        "median": 0.25,
+        "suggested": 0.22,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A1-S | Rose Hex (Factory New)",
+        "price": {
+          "min": 1.19,
+          "max": 51.21,
+          "mean": 5.94,
+          "median": 5.51,
+          "suggested": 1.22,
+          "quantity": 57,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A1-S | Rose Hex (Minimal Wear)",
+        "price": {
+          "min": 0.46,
+          "max": 22.24,
+          "mean": 1.79,
+          "median": 0.58,
+          "suggested": 0.53,
+          "quantity": 46,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A1-S | Rose Hex (Field-Tested)",
+        "price": {
+          "min": 0.18,
+          "max": 5.82,
+          "mean": 1.97,
+          "median": 3,
+          "suggested": 0.22,
+          "quantity": 87,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M4A1-S | Rose Hex (Well-Worn)",
+        "price": {
+          "min": 0.19,
+          "max": 2.63,
+          "mean": 0.43,
+          "median": 0.25,
+          "suggested": 0.22,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M4A1-S | Rose Hex (Battle-Scarred)",
+        "price": {
+          "min": 0.2,
+          "max": 0.25,
+          "mean": 0.23,
+          "median": 0.25,
+          "suggested": 0.22,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A1-S | Rose Hex (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A1-S | Rose Hex (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A1-S | Rose Hex (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M4A1-S | Rose Hex (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M4A1-S | Rose Hex (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:41.082Z"
+}

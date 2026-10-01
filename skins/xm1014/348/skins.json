@@ -1,0 +1,201 @@
+{
+  "id": "skin-7599996181be",
+  "name": "XM1014 | Red Leather",
+  "paint_index": "348",
+  "weapon": {
+    "id": "weapon_xm1014",
+    "weapon_id": 25,
+    "name": "XM1014",
+    "slug": "xm1014"
+  },
+  "pattern": {
+    "id": "cu_leather_xm1014",
+    "name": "Red Leather"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.56,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The XM1014 is a powerful fully automatic shotgun that justifies its heftier price tag with the ability to paint a room with lead fast. Its stock and grip have been wrapped in red leather.\\n\\n<i>Pack your baags.  Let's go kill that sonofabitch... - The Oni and The Valkyrie Part 2</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 65.34,
+      "max": 518.12,
+      "mean": 141.89,
+      "median": 92.77,
+      "suggested": 80.84,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 60.61,
+      "max": 89.4,
+      "mean": 77.65,
+      "median": 82.92,
+      "suggested": 53.52,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 40.29,
+      "max": 40.29,
+      "mean": 40.29,
+      "median": 40.29,
+      "suggested": 45.89,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "XM1014 | Red Leather (Factory New)",
+      "price": {
+        "min": 65.34,
+        "max": 518.12,
+        "mean": 141.89,
+        "median": 92.77,
+        "suggested": 80.84,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "XM1014 | Red Leather (Minimal Wear)",
+      "price": {
+        "min": 60.61,
+        "max": 89.4,
+        "mean": 77.65,
+        "median": 82.92,
+        "suggested": 53.52,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "XM1014 | Red Leather (Field-Tested)",
+      "price": {
+        "min": 40.29,
+        "max": 40.29,
+        "mean": 40.29,
+        "median": 40.29,
+        "suggested": 45.89,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "XM1014 | Red Leather (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "XM1014 | Red Leather (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "XM1014 | Red Leather (Factory New)",
+        "price": {
+          "min": 65.34,
+          "max": 518.12,
+          "mean": 141.89,
+          "median": 92.77,
+          "suggested": 80.84,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "XM1014 | Red Leather (Minimal Wear)",
+        "price": {
+          "min": 60.61,
+          "max": 89.4,
+          "mean": 77.65,
+          "median": 82.92,
+          "suggested": 53.52,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "XM1014 | Red Leather (Field-Tested)",
+        "price": {
+          "min": 40.29,
+          "max": 40.29,
+          "mean": 40.29,
+          "median": 40.29,
+          "suggested": 45.89,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "XM1014 | Red Leather (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "XM1014 | Red Leather (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir XM1014 | Red Leather (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir XM1014 | Red Leather (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir XM1014 | Red Leather (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir XM1014 | Red Leather (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir XM1014 | Red Leather (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:51.139Z"
+}

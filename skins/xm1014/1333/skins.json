@@ -1,0 +1,249 @@
+{
+  "id": "skin-f329fee24fe4",
+  "name": "XM1014 | Canvas Cloud",
+  "paint_index": "1333",
+  "weapon": {
+    "id": "weapon_xm1014",
+    "weapon_id": 25,
+    "name": "XM1014",
+    "slug": "xm1014"
+  },
+  "pattern": {
+    "id": "hy_cloud_camo",
+    "name": "Canvas Cloud"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The XM1014 is a powerful fully automatic shotgun that justifies its heftier price tag with the ability to paint a room with lead fast. A pattern of orange, tan, and brown spots has been applied.\\n\\n<i>Spotty coverage</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.05,
+      "max": 18.67,
+      "mean": 0.82,
+      "median": 0.16,
+      "suggested": 0.06,
+      "quantity": 138,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.02,
+      "max": 1.6,
+      "mean": 0.06,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 555,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.02,
+      "max": 2.31,
+      "mean": 0.05,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 1175,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.02,
+      "max": 0.06,
+      "mean": 0.04,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 65,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.02,
+      "max": 0.58,
+      "mean": 0.05,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 149,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "XM1014 | Canvas Cloud (Factory New)",
+      "price": {
+        "min": 0.05,
+        "max": 18.67,
+        "mean": 0.82,
+        "median": 0.16,
+        "suggested": 0.06,
+        "quantity": 138,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "XM1014 | Canvas Cloud (Minimal Wear)",
+      "price": {
+        "min": 0.02,
+        "max": 1.6,
+        "mean": 0.06,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 555,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "XM1014 | Canvas Cloud (Field-Tested)",
+      "price": {
+        "min": 0.02,
+        "max": 2.31,
+        "mean": 0.05,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 1175,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "XM1014 | Canvas Cloud (Well-Worn)",
+      "price": {
+        "min": 0.02,
+        "max": 0.06,
+        "mean": 0.04,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 65,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "XM1014 | Canvas Cloud (Battle-Scarred)",
+      "price": {
+        "min": 0.02,
+        "max": 0.58,
+        "mean": 0.05,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 149,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "XM1014 | Canvas Cloud (Factory New)",
+        "price": {
+          "min": 0.05,
+          "max": 18.67,
+          "mean": 0.82,
+          "median": 0.16,
+          "suggested": 0.06,
+          "quantity": 138,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "XM1014 | Canvas Cloud (Minimal Wear)",
+        "price": {
+          "min": 0.02,
+          "max": 1.6,
+          "mean": 0.06,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 555,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "XM1014 | Canvas Cloud (Field-Tested)",
+        "price": {
+          "min": 0.02,
+          "max": 2.31,
+          "mean": 0.05,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 1175,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "XM1014 | Canvas Cloud (Well-Worn)",
+        "price": {
+          "min": 0.02,
+          "max": 0.06,
+          "mean": 0.04,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 65,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "XM1014 | Canvas Cloud (Battle-Scarred)",
+        "price": {
+          "min": 0.02,
+          "max": 0.58,
+          "mean": 0.05,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 149,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir XM1014 | Canvas Cloud (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir XM1014 | Canvas Cloud (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir XM1014 | Canvas Cloud (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir XM1014 | Canvas Cloud (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir XM1014 | Canvas Cloud (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:51.288Z"
+}

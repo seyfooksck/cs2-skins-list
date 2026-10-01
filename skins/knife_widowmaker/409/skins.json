@@ -1,0 +1,137 @@
+{
+  "id": "skin-680a9e6c14da",
+  "name": "★ Talon Knife | Tiger Tooth",
+  "paint_index": "409",
+  "weapon": {
+    "id": "weapon_knife_widowmaker",
+    "weapon_id": 523,
+    "name": "Talon Knife",
+    "slug": "knife_widowmaker"
+  },
+  "pattern": {
+    "id": "an_tiger_orange",
+    "name": "Tiger Tooth"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This ivory-handled karambit features brass rivets and saw-tooth ridges, so it cuts on the way in, and tears on the way out. It has been anodized orange and hand-etched in a tiger stripe pattern.\\n\\n<i>Like the tiger it is rare... like the tiger it is deadly...</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 502.79,
+      "max": 1633.71,
+      "mean": 702.44,
+      "median": 573.37,
+      "suggested": 585.23,
+      "quantity": 30,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 535.62,
+      "max": 583.47,
+      "mean": 559.55,
+      "median": 559.55,
+      "suggested": 588.83,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Talon Knife | Tiger Tooth (Factory New)",
+      "price": {
+        "min": 502.79,
+        "max": 1633.71,
+        "mean": 702.44,
+        "median": 573.37,
+        "suggested": 585.23,
+        "quantity": 30,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Talon Knife | Tiger Tooth (Minimal Wear)",
+      "price": {
+        "min": 535.62,
+        "max": 583.47,
+        "mean": 559.55,
+        "median": 559.55,
+        "suggested": 588.83,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Talon Knife | Tiger Tooth (Factory New)",
+        "price": {
+          "min": 502.79,
+          "max": 1633.71,
+          "mean": 702.44,
+          "median": 573.37,
+          "suggested": 585.23,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Talon Knife | Tiger Tooth (Minimal Wear)",
+        "price": {
+          "min": 535.62,
+          "max": 583.47,
+          "mean": 559.55,
+          "median": 559.55,
+          "suggested": 588.83,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Talon Knife | Tiger Tooth (Factory New)",
+        "price": {
+          "min": 583.47,
+          "max": 1177.77,
+          "mean": 802.82,
+          "median": 744.37,
+          "suggested": 620.86,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Talon Knife | Tiger Tooth (Minimal Wear)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:39.491Z"
+}

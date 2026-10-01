@@ -1,0 +1,310 @@
+{
+  "id": "skin-2a0e222beb58",
+  "name": "Desert Eagle | Light Rail",
+  "paint_index": "841",
+  "weapon": {
+    "id": "weapon_deagle",
+    "weapon_id": 1,
+    "name": "Desert Eagle",
+    "slug": "deagle"
+  },
+  "pattern": {
+    "id": "gs_deagle_exo",
+    "name": "Light Rail"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.9,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. Its custom paint job creates an optical illusion and appears to change the weapon's geometry.\\n\\n<i>Required power supply sold separately</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 21,
+      "max": 152.36,
+      "mean": 37.03,
+      "median": 26.9,
+      "suggested": 29.87,
+      "quantity": 50,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.61,
+      "max": 136.52,
+      "mean": 5.69,
+      "median": 3.1,
+      "suggested": 3.61,
+      "quantity": 116,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.07,
+      "max": 17.24,
+      "mean": 1.69,
+      "median": 1.4,
+      "suggested": 1.49,
+      "quantity": 334,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.11,
+      "max": 22.97,
+      "mean": 1.68,
+      "median": 1.32,
+      "suggested": 1.37,
+      "quantity": 102,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.06,
+      "max": 26.26,
+      "mean": 1.84,
+      "median": 1.35,
+      "suggested": 1.35,
+      "quantity": 120,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Desert Eagle | Light Rail (Factory New)",
+      "price": {
+        "min": 21,
+        "max": 152.36,
+        "mean": 37.03,
+        "median": 26.9,
+        "suggested": 29.87,
+        "quantity": 50,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Desert Eagle | Light Rail (Minimal Wear)",
+      "price": {
+        "min": 2.61,
+        "max": 136.52,
+        "mean": 5.69,
+        "median": 3.1,
+        "suggested": 3.61,
+        "quantity": 116,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Desert Eagle | Light Rail (Field-Tested)",
+      "price": {
+        "min": 1.07,
+        "max": 17.24,
+        "mean": 1.69,
+        "median": 1.4,
+        "suggested": 1.49,
+        "quantity": 334,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Desert Eagle | Light Rail (Well-Worn)",
+      "price": {
+        "min": 1.11,
+        "max": 22.97,
+        "mean": 1.68,
+        "median": 1.32,
+        "suggested": 1.37,
+        "quantity": 102,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Desert Eagle | Light Rail (Battle-Scarred)",
+      "price": {
+        "min": 1.06,
+        "max": 26.26,
+        "mean": 1.84,
+        "median": 1.35,
+        "suggested": 1.35,
+        "quantity": 120,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Desert Eagle | Light Rail (Factory New)",
+        "price": {
+          "min": 21,
+          "max": 152.36,
+          "mean": 37.03,
+          "median": 26.9,
+          "suggested": 29.87,
+          "quantity": 50,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Desert Eagle | Light Rail (Minimal Wear)",
+        "price": {
+          "min": 2.61,
+          "max": 136.52,
+          "mean": 5.69,
+          "median": 3.1,
+          "suggested": 3.61,
+          "quantity": 116,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Desert Eagle | Light Rail (Field-Tested)",
+        "price": {
+          "min": 1.07,
+          "max": 17.24,
+          "mean": 1.69,
+          "median": 1.4,
+          "suggested": 1.49,
+          "quantity": 334,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Desert Eagle | Light Rail (Well-Worn)",
+        "price": {
+          "min": 1.11,
+          "max": 22.97,
+          "mean": 1.68,
+          "median": 1.32,
+          "suggested": 1.37,
+          "quantity": 102,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Desert Eagle | Light Rail (Battle-Scarred)",
+        "price": {
+          "min": 1.06,
+          "max": 26.26,
+          "mean": 1.84,
+          "median": 1.35,
+          "suggested": 1.35,
+          "quantity": 120,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Light Rail (Factory New)",
+        "price": {
+          "min": 18.95,
+          "max": 40.84,
+          "mean": 25.45,
+          "median": 22.8,
+          "suggested": 23.79,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Light Rail (Minimal Wear)",
+        "price": {
+          "min": 7.16,
+          "max": 21.33,
+          "mean": 11.02,
+          "median": 8.15,
+          "suggested": 9.14,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Light Rail (Field-Tested)",
+        "price": {
+          "min": 3.48,
+          "max": 128.35,
+          "mean": 6.27,
+          "median": 3.93,
+          "suggested": 4.09,
+          "quantity": 74,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Light Rail (Well-Worn)",
+        "price": {
+          "min": 3.37,
+          "max": 11.66,
+          "mean": 5.12,
+          "median": 4.57,
+          "suggested": 3.85,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Light Rail (Battle-Scarred)",
+        "price": {
+          "min": 3.23,
+          "max": 127.18,
+          "mean": 9.43,
+          "median": 3.84,
+          "suggested": 3.79,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Desert Eagle | Light Rail (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Desert Eagle | Light Rail (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Desert Eagle | Light Rail (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Desert Eagle | Light Rail (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Desert Eagle | Light Rail (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:28.383Z"
+}

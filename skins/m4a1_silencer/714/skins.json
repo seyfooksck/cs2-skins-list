@@ -1,0 +1,310 @@
+{
+  "id": "skin-2746c427a1c5",
+  "name": "M4A1-S | Nightmare",
+  "paint_index": "714",
+  "weapon": {
+    "id": "weapon_m4a1_silencer",
+    "weapon_id": 60,
+    "name": "M4A1-S",
+    "slug": "m4a1_silencer"
+  },
+  "pattern": {
+    "id": "cu_m4a1s_nightmare",
+    "name": "Nightmare"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. A custom paint job depicting a frightening nocturnal visitor has been applied.\\n\\n<i>Next time set an alarm</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 239.65,
+      "max": 879.88,
+      "mean": 410.33,
+      "median": 402.91,
+      "suggested": 424.65,
+      "quantity": 42,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 23.63,
+      "max": 1980.88,
+      "mean": 55.11,
+      "median": 29.4,
+      "suggested": 32.43,
+      "quantity": 89,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 10.97,
+      "max": 487.2,
+      "mean": 20.13,
+      "median": 11.55,
+      "suggested": 12.76,
+      "quantity": 93,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 7.26,
+      "max": 29.76,
+      "mean": 11.61,
+      "median": 8.29,
+      "suggested": 8.46,
+      "quantity": 25,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 6.81,
+      "max": 136.52,
+      "mean": 16.36,
+      "median": 9.39,
+      "suggested": 7.94,
+      "quantity": 24,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A1-S | Nightmare (Factory New)",
+      "price": {
+        "min": 239.65,
+        "max": 879.88,
+        "mean": 410.33,
+        "median": 402.91,
+        "suggested": 424.65,
+        "quantity": 42,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A1-S | Nightmare (Minimal Wear)",
+      "price": {
+        "min": 23.63,
+        "max": 1980.88,
+        "mean": 55.11,
+        "median": 29.4,
+        "suggested": 32.43,
+        "quantity": 89,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A1-S | Nightmare (Field-Tested)",
+      "price": {
+        "min": 10.97,
+        "max": 487.2,
+        "mean": 20.13,
+        "median": 11.55,
+        "suggested": 12.76,
+        "quantity": 93,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M4A1-S | Nightmare (Well-Worn)",
+      "price": {
+        "min": 7.26,
+        "max": 29.76,
+        "mean": 11.61,
+        "median": 8.29,
+        "suggested": 8.46,
+        "quantity": 25,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M4A1-S | Nightmare (Battle-Scarred)",
+      "price": {
+        "min": 6.81,
+        "max": 136.52,
+        "mean": 16.36,
+        "median": 9.39,
+        "suggested": 7.94,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A1-S | Nightmare (Factory New)",
+        "price": {
+          "min": 239.65,
+          "max": 879.88,
+          "mean": 410.33,
+          "median": 402.91,
+          "suggested": 424.65,
+          "quantity": 42,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A1-S | Nightmare (Minimal Wear)",
+        "price": {
+          "min": 23.63,
+          "max": 1980.88,
+          "mean": 55.11,
+          "median": 29.4,
+          "suggested": 32.43,
+          "quantity": 89,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A1-S | Nightmare (Field-Tested)",
+        "price": {
+          "min": 10.97,
+          "max": 487.2,
+          "mean": 20.13,
+          "median": 11.55,
+          "suggested": 12.76,
+          "quantity": 93,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M4A1-S | Nightmare (Well-Worn)",
+        "price": {
+          "min": 7.26,
+          "max": 29.76,
+          "mean": 11.61,
+          "median": 8.29,
+          "suggested": 8.46,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M4A1-S | Nightmare (Battle-Scarred)",
+        "price": {
+          "min": 6.81,
+          "max": 136.52,
+          "mean": 16.36,
+          "median": 9.39,
+          "suggested": 7.94,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ M4A1-S | Nightmare (Factory New)",
+        "price": {
+          "min": 132.14,
+          "max": 271.39,
+          "mean": 170.52,
+          "median": 154.32,
+          "suggested": 163.73,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ M4A1-S | Nightmare (Minimal Wear)",
+        "price": {
+          "min": 61.17,
+          "max": 175.04,
+          "mean": 76.91,
+          "median": 67.94,
+          "suggested": 72.66,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ M4A1-S | Nightmare (Field-Tested)",
+        "price": {
+          "min": 27.71,
+          "max": 48.17,
+          "mean": 39.86,
+          "median": 39.94,
+          "suggested": 31.7,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ M4A1-S | Nightmare (Well-Worn)",
+        "price": {
+          "min": 22.72,
+          "max": 1012.32,
+          "mean": 181.74,
+          "median": 92.91,
+          "suggested": 24.73,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ M4A1-S | Nightmare (Battle-Scarred)",
+        "price": {
+          "min": 21.3,
+          "max": 28.78,
+          "mean": 25.31,
+          "median": 26.41,
+          "suggested": 24.5,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A1-S | Nightmare (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A1-S | Nightmare (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A1-S | Nightmare (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M4A1-S | Nightmare (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M4A1-S | Nightmare (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:40.905Z"
+}

@@ -1,0 +1,257 @@
+{
+  "id": "skin-f64e51a70f37",
+  "name": "MP7 | Short Ochre",
+  "paint_index": "1326",
+  "weapon": {
+    "id": "weapon_mp7",
+    "weapon_id": 33,
+    "name": "MP7",
+    "slug": "mp7"
+  },
+  "pattern": {
+    "id": "so_mustard",
+    "name": "Short Ochre"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 0.746575,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been painted using different shades of yellow.\\n\\n<i>Here's some new material...</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.09,
+      "max": 6.97,
+      "mean": 1.45,
+      "median": 0.35,
+      "suggested": 0.1,
+      "quantity": 83,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.02,
+      "max": 2.05,
+      "mean": 0.09,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 323,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.02,
+      "max": 2.33,
+      "mean": 0.05,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 1321,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.02,
+      "max": 0.07,
+      "mean": 0.04,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 72,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.02,
+      "max": 0.35,
+      "mean": 0.04,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 256,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP7 | Short Ochre (Factory New)",
+      "price": {
+        "min": 0.09,
+        "max": 6.97,
+        "mean": 1.45,
+        "median": 0.35,
+        "suggested": 0.1,
+        "quantity": 83,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP7 | Short Ochre (Minimal Wear)",
+      "price": {
+        "min": 0.02,
+        "max": 2.05,
+        "mean": 0.09,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 323,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP7 | Short Ochre (Field-Tested)",
+      "price": {
+        "min": 0.02,
+        "max": 2.33,
+        "mean": 0.05,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 1321,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP7 | Short Ochre (Well-Worn)",
+      "price": {
+        "min": 0.02,
+        "max": 0.07,
+        "mean": 0.04,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 72,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP7 | Short Ochre (Battle-Scarred)",
+      "price": {
+        "min": 0.02,
+        "max": 0.35,
+        "mean": 0.04,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 256,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP7 | Short Ochre (Factory New)",
+        "price": {
+          "min": 0.09,
+          "max": 6.97,
+          "mean": 1.45,
+          "median": 0.35,
+          "suggested": 0.1,
+          "quantity": 83,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP7 | Short Ochre (Minimal Wear)",
+        "price": {
+          "min": 0.02,
+          "max": 2.05,
+          "mean": 0.09,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 323,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP7 | Short Ochre (Field-Tested)",
+        "price": {
+          "min": 0.02,
+          "max": 2.33,
+          "mean": 0.05,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 1321,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP7 | Short Ochre (Well-Worn)",
+        "price": {
+          "min": 0.02,
+          "max": 0.07,
+          "mean": 0.04,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 72,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP7 | Short Ochre (Battle-Scarred)",
+        "price": {
+          "min": 0.02,
+          "max": 0.35,
+          "mean": 0.04,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 256,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP7 | Short Ochre (Factory New)",
+        "price": {
+          "min": 7.61,
+          "max": 52.51,
+          "mean": 30.06,
+          "median": 30.06,
+          "suggested": 5.72,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP7 | Short Ochre (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP7 | Short Ochre (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP7 | Short Ochre (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP7 | Short Ochre (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:43.314Z"
+}

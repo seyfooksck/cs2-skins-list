@@ -1,0 +1,289 @@
+{
+  "id": "skin-612659d976ea",
+  "name": "Desert Eagle | Urban Rubble",
+  "paint_index": "237",
+  "weapon": {
+    "id": "weapon_deagle",
+    "weapon_id": 1,
+    "name": "Desert Eagle",
+    "slug": "deagle"
+  },
+  "pattern": {
+    "id": "hy_varicamo_urban",
+    "name": "Urban Rubble"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. It has been painted using a VariCamo patterned hydrographic.\\n\\n<i>Rebuilding only comes in the wake of destruction</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.42,
+      "max": 55.1,
+      "mean": 4.17,
+      "median": 3.47,
+      "suggested": 0.58,
+      "quantity": 210,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.34,
+      "max": 24.51,
+      "mean": 2.35,
+      "median": 2.58,
+      "suggested": 0.4,
+      "quantity": 201,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.18,
+      "max": 402.59,
+      "mean": 2.39,
+      "median": 1.11,
+      "suggested": 0.25,
+      "quantity": 444,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.22,
+      "max": 5.83,
+      "mean": 0.61,
+      "median": 0.41,
+      "suggested": 0.3,
+      "quantity": 29,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.35,
+      "max": 0.68,
+      "mean": 0.47,
+      "median": 0.43,
+      "suggested": 0.42,
+      "quantity": 13,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Desert Eagle | Urban Rubble (Factory New)",
+      "price": {
+        "min": 1.42,
+        "max": 55.1,
+        "mean": 4.17,
+        "median": 3.47,
+        "suggested": 0.58,
+        "quantity": 210,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Desert Eagle | Urban Rubble (Minimal Wear)",
+      "price": {
+        "min": 0.34,
+        "max": 24.51,
+        "mean": 2.35,
+        "median": 2.58,
+        "suggested": 0.4,
+        "quantity": 201,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Desert Eagle | Urban Rubble (Field-Tested)",
+      "price": {
+        "min": 0.18,
+        "max": 402.59,
+        "mean": 2.39,
+        "median": 1.11,
+        "suggested": 0.25,
+        "quantity": 444,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Desert Eagle | Urban Rubble (Well-Worn)",
+      "price": {
+        "min": 0.22,
+        "max": 5.83,
+        "mean": 0.61,
+        "median": 0.41,
+        "suggested": 0.3,
+        "quantity": 29,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Desert Eagle | Urban Rubble (Battle-Scarred)",
+      "price": {
+        "min": 0.35,
+        "max": 0.68,
+        "mean": 0.47,
+        "median": 0.43,
+        "suggested": 0.42,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Desert Eagle | Urban Rubble (Factory New)",
+        "price": {
+          "min": 1.42,
+          "max": 55.1,
+          "mean": 4.17,
+          "median": 3.47,
+          "suggested": 0.58,
+          "quantity": 210,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Desert Eagle | Urban Rubble (Minimal Wear)",
+        "price": {
+          "min": 0.34,
+          "max": 24.51,
+          "mean": 2.35,
+          "median": 2.58,
+          "suggested": 0.4,
+          "quantity": 201,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Desert Eagle | Urban Rubble (Field-Tested)",
+        "price": {
+          "min": 0.18,
+          "max": 402.59,
+          "mean": 2.39,
+          "median": 1.11,
+          "suggested": 0.25,
+          "quantity": 444,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Desert Eagle | Urban Rubble (Well-Worn)",
+        "price": {
+          "min": 0.22,
+          "max": 5.83,
+          "mean": 0.61,
+          "median": 0.41,
+          "suggested": 0.3,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Desert Eagle | Urban Rubble (Battle-Scarred)",
+        "price": {
+          "min": 0.35,
+          "max": 0.68,
+          "mean": 0.47,
+          "median": 0.43,
+          "suggested": 0.42,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Desert Eagle | Urban Rubble (Factory New)",
+        "price": {
+          "min": 18.57,
+          "max": 151.91,
+          "mean": 50.58,
+          "median": 36.42,
+          "suggested": 14.71,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Desert Eagle | Urban Rubble (Minimal Wear)",
+        "price": {
+          "min": 14.19,
+          "max": 43.85,
+          "mean": 22.43,
+          "median": 16.69,
+          "suggested": 9.21,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Desert Eagle | Urban Rubble (Field-Tested)",
+        "price": {
+          "min": 7.97,
+          "max": 40.61,
+          "mean": 15.81,
+          "median": 13.89,
+          "suggested": 9.76,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Desert Eagle | Urban Rubble (Well-Worn)",
+        "price": {
+          "min": 29.17,
+          "max": 29.17,
+          "mean": 29.17,
+          "median": 29.17,
+          "suggested": 10.37,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Desert Eagle | Urban Rubble (Battle-Scarred)",
+        "price": {
+          "min": 15.44,
+          "max": 15.44,
+          "mean": 15.44,
+          "median": 15.44,
+          "suggested": 11.17,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:28.492Z"
+}

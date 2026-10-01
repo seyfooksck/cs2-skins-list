@@ -1,0 +1,145 @@
+{
+  "id": "skin-ddc4aeda27ca",
+  "name": "Dual Berettas | Anodized Navy",
+  "paint_index": "28",
+  "weapon": {
+    "id": "weapon_elite",
+    "weapon_id": 2,
+    "name": "Dual Berettas",
+    "slug": "elite"
+  },
+  "pattern": {
+    "id": "an_navy",
+    "name": "Anodized Navy"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. It has been painted with a chrome base coat and candied in transparent navy blue anodized effect paint.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 17.56,
+      "max": 151.92,
+      "mean": 31.57,
+      "median": 23.72,
+      "suggested": 21.36,
+      "quantity": 23,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 19.45,
+      "max": 19.45,
+      "mean": 19.45,
+      "median": 19.45,
+      "suggested": 15.37,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Dual Berettas | Anodized Navy (Factory New)",
+      "price": {
+        "min": 17.56,
+        "max": 151.92,
+        "mean": 31.57,
+        "median": 23.72,
+        "suggested": 21.36,
+        "quantity": 23,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Dual Berettas | Anodized Navy (Minimal Wear)",
+      "price": {
+        "min": 19.45,
+        "max": 19.45,
+        "mean": 19.45,
+        "median": 19.45,
+        "suggested": 15.37,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Dual Berettas | Anodized Navy (Factory New)",
+        "price": {
+          "min": 17.56,
+          "max": 151.92,
+          "mean": 31.57,
+          "median": 23.72,
+          "suggested": 21.36,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Dual Berettas | Anodized Navy (Minimal Wear)",
+        "price": {
+          "min": 19.45,
+          "max": 19.45,
+          "mean": 19.45,
+          "median": 19.45,
+          "suggested": 15.37,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Dual Berettas | Anodized Navy (Factory New)",
+        "price": {
+          "min": 14.83,
+          "max": 134.19,
+          "mean": 54.1,
+          "median": 35.99,
+          "suggested": 16.92,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Dual Berettas | Anodized Navy (Minimal Wear)",
+        "price": {
+          "min": 84.02,
+          "max": 92.19,
+          "mean": 88.05,
+          "median": 87.92,
+          "suggested": 21.97,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:28.645Z"
+}

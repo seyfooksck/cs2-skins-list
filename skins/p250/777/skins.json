@@ -1,0 +1,289 @@
+{
+  "id": "skin-6b0b591466f0",
+  "name": "P250 | Facility Draft",
+  "paint_index": "777",
+  "weapon": {
+    "id": "weapon_p250",
+    "weapon_id": 36,
+    "name": "P250",
+    "slug": "p250"
+  },
+  "pattern": {
+    "id": "hy_blueprint_red",
+    "name": "Facility Draft"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A low-recoil firearm with a high rate of fire, the P250 is a relatively inexpensive choice against armored opponents. It has been covered in a red hydrographic pattern resembling a nuclear power plant.\\n\\n<i>Creating energy from atoms</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.06,
+      "max": 10.49,
+      "mean": 1.51,
+      "median": 0.15,
+      "suggested": 0.09,
+      "quantity": 495,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.04,
+      "max": 6.17,
+      "mean": 0.12,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 1304,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.02,
+      "max": 235.29,
+      "mean": 0.09,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 6078,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.02,
+      "max": 4.07,
+      "mean": 0.07,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 534,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.02,
+      "max": 3.76,
+      "mean": 0.06,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 313,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P250 | Facility Draft (Factory New)",
+      "price": {
+        "min": 0.06,
+        "max": 10.49,
+        "mean": 1.51,
+        "median": 0.15,
+        "suggested": 0.09,
+        "quantity": 495,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P250 | Facility Draft (Minimal Wear)",
+      "price": {
+        "min": 0.04,
+        "max": 6.17,
+        "mean": 0.12,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 1304,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P250 | Facility Draft (Field-Tested)",
+      "price": {
+        "min": 0.02,
+        "max": 235.29,
+        "mean": 0.09,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 6078,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P250 | Facility Draft (Well-Worn)",
+      "price": {
+        "min": 0.02,
+        "max": 4.07,
+        "mean": 0.07,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 534,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P250 | Facility Draft (Battle-Scarred)",
+      "price": {
+        "min": 0.02,
+        "max": 3.76,
+        "mean": 0.06,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 313,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P250 | Facility Draft (Factory New)",
+        "price": {
+          "min": 0.06,
+          "max": 10.49,
+          "mean": 1.51,
+          "median": 0.15,
+          "suggested": 0.09,
+          "quantity": 495,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P250 | Facility Draft (Minimal Wear)",
+        "price": {
+          "min": 0.04,
+          "max": 6.17,
+          "mean": 0.12,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 1304,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P250 | Facility Draft (Field-Tested)",
+        "price": {
+          "min": 0.02,
+          "max": 235.29,
+          "mean": 0.09,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 6078,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P250 | Facility Draft (Well-Worn)",
+        "price": {
+          "min": 0.02,
+          "max": 4.07,
+          "mean": 0.07,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 534,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P250 | Facility Draft (Battle-Scarred)",
+        "price": {
+          "min": 0.02,
+          "max": 3.76,
+          "mean": 0.06,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 313,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P250 | Facility Draft (Factory New)",
+        "price": {
+          "min": 0.28,
+          "max": 46.68,
+          "mean": 2.23,
+          "median": 1.17,
+          "suggested": 0.16,
+          "quantity": 192,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P250 | Facility Draft (Minimal Wear)",
+        "price": {
+          "min": 0.07,
+          "max": 35.01,
+          "mean": 2.19,
+          "median": 0.49,
+          "suggested": 0.08,
+          "quantity": 84,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P250 | Facility Draft (Field-Tested)",
+        "price": {
+          "min": 0.05,
+          "max": 14,
+          "mean": 2.32,
+          "median": 1.18,
+          "suggested": 0.07,
+          "quantity": 86,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P250 | Facility Draft (Well-Worn)",
+        "price": {
+          "min": 0.09,
+          "max": 6.88,
+          "mean": 1.48,
+          "median": 0.42,
+          "suggested": 0.08,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P250 | Facility Draft (Battle-Scarred)",
+        "price": {
+          "min": 0.11,
+          "max": 70.02,
+          "mean": 14.9,
+          "median": 1.25,
+          "suggested": 0.12,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:45.290Z"
+}

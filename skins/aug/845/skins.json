@@ -1,0 +1,310 @@
+{
+  "id": "skin-4280698b46ee",
+  "name": "AUG | Momentum",
+  "paint_index": "845",
+  "weapon": {
+    "id": "weapon_aug",
+    "weapon_id": 8,
+    "name": "AUG",
+    "slug": "aug"
+  },
+  "pattern": {
+    "id": "cu_aug_momentum",
+    "name": "Momentum"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0.05,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire. It has been custom painted with bright colors and forward facing arrows.\\n\\n<i>Always moving forward</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 47.67,
+      "max": 466.77,
+      "mean": 109.2,
+      "median": 71.15,
+      "suggested": 54.38,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 16.44,
+      "max": 54.85,
+      "mean": 20.53,
+      "median": 17.8,
+      "suggested": 20.23,
+      "quantity": 30,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 5.81,
+      "max": 323.24,
+      "mean": 13.29,
+      "median": 6.44,
+      "suggested": 7.52,
+      "quantity": 161,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 5.13,
+      "max": 54.73,
+      "mean": 7.27,
+      "median": 5.82,
+      "suggested": 6.81,
+      "quantity": 71,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 5.19,
+      "max": 54.39,
+      "mean": 8.45,
+      "median": 5.59,
+      "suggested": 6.38,
+      "quantity": 55,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AUG | Momentum (Factory New)",
+      "price": {
+        "min": 47.67,
+        "max": 466.77,
+        "mean": 109.2,
+        "median": 71.15,
+        "suggested": 54.38,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AUG | Momentum (Minimal Wear)",
+      "price": {
+        "min": 16.44,
+        "max": 54.85,
+        "mean": 20.53,
+        "median": 17.8,
+        "suggested": 20.23,
+        "quantity": 30,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AUG | Momentum (Field-Tested)",
+      "price": {
+        "min": 5.81,
+        "max": 323.24,
+        "mean": 13.29,
+        "median": 6.44,
+        "suggested": 7.52,
+        "quantity": 161,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AUG | Momentum (Well-Worn)",
+      "price": {
+        "min": 5.13,
+        "max": 54.73,
+        "mean": 7.27,
+        "median": 5.82,
+        "suggested": 6.81,
+        "quantity": 71,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AUG | Momentum (Battle-Scarred)",
+      "price": {
+        "min": 5.19,
+        "max": 54.39,
+        "mean": 8.45,
+        "median": 5.59,
+        "suggested": 6.38,
+        "quantity": 55,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AUG | Momentum (Factory New)",
+        "price": {
+          "min": 47.67,
+          "max": 466.77,
+          "mean": 109.2,
+          "median": 71.15,
+          "suggested": 54.38,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AUG | Momentum (Minimal Wear)",
+        "price": {
+          "min": 16.44,
+          "max": 54.85,
+          "mean": 20.53,
+          "median": 17.8,
+          "suggested": 20.23,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AUG | Momentum (Field-Tested)",
+        "price": {
+          "min": 5.81,
+          "max": 323.24,
+          "mean": 13.29,
+          "median": 6.44,
+          "suggested": 7.52,
+          "quantity": 161,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AUG | Momentum (Well-Worn)",
+        "price": {
+          "min": 5.13,
+          "max": 54.73,
+          "mean": 7.27,
+          "median": 5.82,
+          "suggested": 6.81,
+          "quantity": 71,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AUG | Momentum (Battle-Scarred)",
+        "price": {
+          "min": 5.19,
+          "max": 54.39,
+          "mean": 8.45,
+          "median": 5.59,
+          "suggested": 6.38,
+          "quantity": 55,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AUG | Momentum (Factory New)",
+        "price": {
+          "min": 64.17,
+          "max": 64.17,
+          "mean": 64.17,
+          "median": 64.17,
+          "suggested": 66.42,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AUG | Momentum (Minimal Wear)",
+        "price": {
+          "min": 20.68,
+          "max": 81.93,
+          "mean": 29.23,
+          "median": 24.61,
+          "suggested": 25.43,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AUG | Momentum (Field-Tested)",
+        "price": {
+          "min": 6.95,
+          "max": 15.02,
+          "mean": 8.64,
+          "median": 7.87,
+          "suggested": 8.89,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AUG | Momentum (Well-Worn)",
+        "price": {
+          "min": 5.78,
+          "max": 128.35,
+          "mean": 13.58,
+          "median": 8.16,
+          "suggested": 6.93,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ AUG | Momentum (Battle-Scarred)",
+        "price": {
+          "min": 6,
+          "max": 16.5,
+          "mean": 8.13,
+          "median": 7.43,
+          "suggested": 6.64,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AUG | Momentum (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AUG | Momentum (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AUG | Momentum (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AUG | Momentum (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AUG | Momentum (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.368Z"
+}

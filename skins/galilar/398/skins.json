@@ -1,0 +1,206 @@
+{
+  "id": "skin-94878071c8d9",
+  "name": "Galil AR | Chatterbox",
+  "paint_index": "398",
+  "weapon": {
+    "id": "weapon_galilar",
+    "weapon_id": 13,
+    "name": "Galil AR",
+    "slug": "galilar"
+  },
+  "pattern": {
+    "id": "cu_galil_abrasion",
+    "name": "Chatterbox"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.35,
+  "max_float": 0.85,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat. It has been hand-painted and distressed.  The skull painted over the dust cover appears to chatter when the bolt reciprocates.\\n\\n<i>Some say that when you laugh, the world laughs with you...but when Chatterbox laughs there are only screams</i>",
+  "images": {
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "ft": {
+      "min": 223.07,
+      "max": 466.77,
+      "mean": 304.62,
+      "median": 291.73,
+      "suggested": 265.16,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 112.97,
+      "max": 488.74,
+      "mean": 136.25,
+      "median": 129.46,
+      "suggested": 149.98,
+      "quantity": 87,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 109.6,
+      "max": 203.05,
+      "mean": 127.22,
+      "median": 124.33,
+      "suggested": 144.86,
+      "quantity": 83,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Galil AR | Chatterbox (Field-Tested)",
+      "price": {
+        "min": 223.07,
+        "max": 466.77,
+        "mean": 304.62,
+        "median": 291.73,
+        "suggested": 265.16,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Galil AR | Chatterbox (Well-Worn)",
+      "price": {
+        "min": 112.97,
+        "max": 488.74,
+        "mean": 136.25,
+        "median": 129.46,
+        "suggested": 149.98,
+        "quantity": 87,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Galil AR | Chatterbox (Battle-Scarred)",
+      "price": {
+        "min": 109.6,
+        "max": 203.05,
+        "mean": 127.22,
+        "median": 124.33,
+        "suggested": 144.86,
+        "quantity": 83,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "ft": {
+        "market_hash_name": "Galil AR | Chatterbox (Field-Tested)",
+        "price": {
+          "min": 223.07,
+          "max": 466.77,
+          "mean": 304.62,
+          "median": 291.73,
+          "suggested": 265.16,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Galil AR | Chatterbox (Well-Worn)",
+        "price": {
+          "min": 112.97,
+          "max": 488.74,
+          "mean": 136.25,
+          "median": 129.46,
+          "suggested": 149.98,
+          "quantity": 87,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Galil AR | Chatterbox (Battle-Scarred)",
+        "price": {
+          "min": 109.6,
+          "max": 203.05,
+          "mean": 127.22,
+          "median": 124.33,
+          "suggested": 144.86,
+          "quantity": 83,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "ft": {
+        "market_hash_name": "StatTrak™ Galil AR | Chatterbox (Field-Tested)",
+        "price": {
+          "min": 2332.71,
+          "max": 2332.71,
+          "mean": 2332.71,
+          "median": 2332.71,
+          "suggested": 442.51,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Galil AR | Chatterbox (Well-Worn)",
+        "price": {
+          "min": 118.3,
+          "max": 292.18,
+          "mean": 166.95,
+          "median": 141.99,
+          "suggested": 158.46,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Galil AR | Chatterbox (Battle-Scarred)",
+        "price": {
+          "min": 110.25,
+          "max": 9334.33,
+          "mean": 670.34,
+          "median": 133.66,
+          "suggested": 147.15,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "ft": {
+        "market_hash_name": "Souvenir Galil AR | Chatterbox (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Galil AR | Chatterbox (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Galil AR | Chatterbox (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:30.895Z"
+}

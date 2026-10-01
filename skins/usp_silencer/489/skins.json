@@ -1,0 +1,310 @@
+{
+  "id": "skin-982f2e59bfda",
+  "name": "USP-S | Torque",
+  "paint_index": "489",
+  "weapon": {
+    "id": "weapon_usp_silencer",
+    "weapon_id": 61,
+    "name": "USP-S",
+    "slug": "usp_silencer"
+  },
+  "pattern": {
+    "id": "cu_usp_progressiv",
+    "name": "Torque"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.46,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise. It has been custom painted in a modern black, white and yellow design.\\n\\n<i>They're manipulating you Kotaro.  And if you can't see that, you're in more trouble than you know... - Felix Riley, Commanding Officer</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 3.01,
+      "max": 93.24,
+      "mean": 10.14,
+      "median": 5.83,
+      "suggested": 4.15,
+      "quantity": 90,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.14,
+      "max": 38.21,
+      "mean": 2.46,
+      "median": 1.48,
+      "suggested": 1.57,
+      "quantity": 170,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.72,
+      "max": 37.67,
+      "mean": 1.75,
+      "median": 0.98,
+      "suggested": 0.99,
+      "quantity": 203,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.68,
+      "max": 3.38,
+      "mean": 1.24,
+      "median": 1.03,
+      "suggested": 0.88,
+      "quantity": 42,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.81,
+      "max": 90.17,
+      "mean": 7.67,
+      "median": 2.01,
+      "suggested": 2.12,
+      "quantity": 16,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "USP-S | Torque (Factory New)",
+      "price": {
+        "min": 3.01,
+        "max": 93.24,
+        "mean": 10.14,
+        "median": 5.83,
+        "suggested": 4.15,
+        "quantity": 90,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "USP-S | Torque (Minimal Wear)",
+      "price": {
+        "min": 1.14,
+        "max": 38.21,
+        "mean": 2.46,
+        "median": 1.48,
+        "suggested": 1.57,
+        "quantity": 170,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "USP-S | Torque (Field-Tested)",
+      "price": {
+        "min": 0.72,
+        "max": 37.67,
+        "mean": 1.75,
+        "median": 0.98,
+        "suggested": 0.99,
+        "quantity": 203,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "USP-S | Torque (Well-Worn)",
+      "price": {
+        "min": 0.68,
+        "max": 3.38,
+        "mean": 1.24,
+        "median": 1.03,
+        "suggested": 0.88,
+        "quantity": 42,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "USP-S | Torque (Battle-Scarred)",
+      "price": {
+        "min": 1.81,
+        "max": 90.17,
+        "mean": 7.67,
+        "median": 2.01,
+        "suggested": 2.12,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "USP-S | Torque (Factory New)",
+        "price": {
+          "min": 3.01,
+          "max": 93.24,
+          "mean": 10.14,
+          "median": 5.83,
+          "suggested": 4.15,
+          "quantity": 90,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "USP-S | Torque (Minimal Wear)",
+        "price": {
+          "min": 1.14,
+          "max": 38.21,
+          "mean": 2.46,
+          "median": 1.48,
+          "suggested": 1.57,
+          "quantity": 170,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "USP-S | Torque (Field-Tested)",
+        "price": {
+          "min": 0.72,
+          "max": 37.67,
+          "mean": 1.75,
+          "median": 0.98,
+          "suggested": 0.99,
+          "quantity": 203,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "USP-S | Torque (Well-Worn)",
+        "price": {
+          "min": 0.68,
+          "max": 3.38,
+          "mean": 1.24,
+          "median": 1.03,
+          "suggested": 0.88,
+          "quantity": 42,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "USP-S | Torque (Battle-Scarred)",
+        "price": {
+          "min": 1.81,
+          "max": 90.17,
+          "mean": 7.67,
+          "median": 2.01,
+          "suggested": 2.12,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ USP-S | Torque (Factory New)",
+        "price": {
+          "min": 4.61,
+          "max": 2433.06,
+          "mean": 70.54,
+          "median": 10.4,
+          "suggested": 5.37,
+          "quantity": 68,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ USP-S | Torque (Minimal Wear)",
+        "price": {
+          "min": 2.78,
+          "max": 60.45,
+          "mean": 6.58,
+          "median": 3.96,
+          "suggested": 3.56,
+          "quantity": 81,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ USP-S | Torque (Field-Tested)",
+        "price": {
+          "min": 1.73,
+          "max": 25.67,
+          "mean": 4.17,
+          "median": 2.33,
+          "suggested": 2.26,
+          "quantity": 53,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ USP-S | Torque (Well-Worn)",
+        "price": {
+          "min": 1.72,
+          "max": 5.82,
+          "mean": 2.53,
+          "median": 2.24,
+          "suggested": 2.14,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ USP-S | Torque (Battle-Scarred)",
+        "price": {
+          "min": 7,
+          "max": 7,
+          "mean": 7,
+          "median": 7,
+          "suggested": 3.87,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir USP-S | Torque (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir USP-S | Torque (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir USP-S | Torque (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir USP-S | Torque (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir USP-S | Torque (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:50.557Z"
+}

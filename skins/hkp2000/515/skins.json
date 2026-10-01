@@ -1,0 +1,206 @@
+{
+  "id": "skin-a2c3eeca40db",
+  "name": "P2000 | Imperial",
+  "paint_index": "515",
+  "weapon": {
+    "id": "weapon_hkp2000",
+    "weapon_id": 32,
+    "name": "P2000",
+    "slug": "hkp2000"
+  },
+  "pattern": {
+    "id": "am_p2000_imperial_red",
+    "name": "Imperial"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.2,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Accurate and controllable, the German-made P2000 is a serviceable first-round pistol that works best against unarmored opponents. It has been laser-etched and painted with red and yellow metallics.\\n\\n<i>My feelings are irrelevant Keo, I have an empire to protect - Booth, Arms Dealer</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.07,
+      "max": 29.17,
+      "mean": 4.7,
+      "median": 3.38,
+      "suggested": 2.88,
+      "quantity": 103,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.43,
+      "max": 22.17,
+      "mean": 2.53,
+      "median": 1.52,
+      "suggested": 0.63,
+      "quantity": 45,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.49,
+      "max": 11.67,
+      "mean": 1.44,
+      "median": 0.64,
+      "suggested": 0.59,
+      "quantity": 62,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P2000 | Imperial (Factory New)",
+      "price": {
+        "min": 2.07,
+        "max": 29.17,
+        "mean": 4.7,
+        "median": 3.38,
+        "suggested": 2.88,
+        "quantity": 103,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P2000 | Imperial (Minimal Wear)",
+      "price": {
+        "min": 0.43,
+        "max": 22.17,
+        "mean": 2.53,
+        "median": 1.52,
+        "suggested": 0.63,
+        "quantity": 45,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P2000 | Imperial (Field-Tested)",
+      "price": {
+        "min": 0.49,
+        "max": 11.67,
+        "mean": 1.44,
+        "median": 0.64,
+        "suggested": 0.59,
+        "quantity": 62,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P2000 | Imperial (Factory New)",
+        "price": {
+          "min": 2.07,
+          "max": 29.17,
+          "mean": 4.7,
+          "median": 3.38,
+          "suggested": 2.88,
+          "quantity": 103,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P2000 | Imperial (Minimal Wear)",
+        "price": {
+          "min": 0.43,
+          "max": 22.17,
+          "mean": 2.53,
+          "median": 1.52,
+          "suggested": 0.63,
+          "quantity": 45,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P2000 | Imperial (Field-Tested)",
+        "price": {
+          "min": 0.49,
+          "max": 11.67,
+          "mean": 1.44,
+          "median": 0.64,
+          "suggested": 0.59,
+          "quantity": 62,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P2000 | Imperial (Factory New)",
+        "price": {
+          "min": 1.54,
+          "max": 53.21,
+          "mean": 6.42,
+          "median": 3.76,
+          "suggested": 2.05,
+          "quantity": 42,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P2000 | Imperial (Minimal Wear)",
+        "price": {
+          "min": 0.9,
+          "max": 124.86,
+          "mean": 5.92,
+          "median": 1.26,
+          "suggested": 1.18,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P2000 | Imperial (Field-Tested)",
+        "price": {
+          "min": 0.85,
+          "max": 36.07,
+          "mean": 3.31,
+          "median": 1.28,
+          "suggested": 1.04,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P2000 | Imperial (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P2000 | Imperial (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P2000 | Imperial (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:32.377Z"
+}

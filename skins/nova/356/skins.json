@@ -1,0 +1,206 @@
+{
+  "id": "skin-b029cb49c14f",
+  "name": "Nova | Koi",
+  "paint_index": "356",
+  "weapon": {
+    "id": "weapon_nova",
+    "weapon_id": 35,
+    "name": "Nova",
+    "slug": "nova"
+  },
+  "pattern": {
+    "id": "cu_nova_koi",
+    "name": "Koi"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.3,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Nova's rock-bottom price tag makes it a great ambush weapon for a cash-strapped team. It has been custom painted with variegated koi scales.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 3.94,
+      "max": 93.35,
+      "mean": 14.22,
+      "median": 4.6,
+      "suggested": 5.27,
+      "quantity": 41,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.16,
+      "max": 60.1,
+      "mean": 3.59,
+      "median": 2.57,
+      "suggested": 2.69,
+      "quantity": 141,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.07,
+      "max": 25.25,
+      "mean": 3.62,
+      "median": 2.87,
+      "suggested": 2.57,
+      "quantity": 60,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Nova | Koi (Factory New)",
+      "price": {
+        "min": 3.94,
+        "max": 93.35,
+        "mean": 14.22,
+        "median": 4.6,
+        "suggested": 5.27,
+        "quantity": 41,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Nova | Koi (Minimal Wear)",
+      "price": {
+        "min": 2.16,
+        "max": 60.1,
+        "mean": 3.59,
+        "median": 2.57,
+        "suggested": 2.69,
+        "quantity": 141,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Nova | Koi (Field-Tested)",
+      "price": {
+        "min": 2.07,
+        "max": 25.25,
+        "mean": 3.62,
+        "median": 2.87,
+        "suggested": 2.57,
+        "quantity": 60,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Nova | Koi (Factory New)",
+        "price": {
+          "min": 3.94,
+          "max": 93.35,
+          "mean": 14.22,
+          "median": 4.6,
+          "suggested": 5.27,
+          "quantity": 41,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Nova | Koi (Minimal Wear)",
+        "price": {
+          "min": 2.16,
+          "max": 60.1,
+          "mean": 3.59,
+          "median": 2.57,
+          "suggested": 2.69,
+          "quantity": 141,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Nova | Koi (Field-Tested)",
+        "price": {
+          "min": 2.07,
+          "max": 25.25,
+          "mean": 3.62,
+          "median": 2.87,
+          "suggested": 2.57,
+          "quantity": 60,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Nova | Koi (Factory New)",
+        "price": {
+          "min": 3.56,
+          "max": 105.67,
+          "mean": 14.94,
+          "median": 4.64,
+          "suggested": 5.37,
+          "quantity": 37,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Nova | Koi (Minimal Wear)",
+        "price": {
+          "min": 2.31,
+          "max": 53.68,
+          "mean": 3.79,
+          "median": 2.86,
+          "suggested": 2.91,
+          "quantity": 94,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Nova | Koi (Field-Tested)",
+        "price": {
+          "min": 2.05,
+          "max": 10.61,
+          "mean": 3.24,
+          "median": 2.92,
+          "suggested": 2.56,
+          "quantity": 37,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Nova | Koi (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Nova | Koi (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Nova | Koi (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.479Z"
+}

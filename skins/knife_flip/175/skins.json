@@ -1,0 +1,201 @@
+{
+  "id": "skin-569f95a6f7ce",
+  "name": "★ Flip Knife | Scorched",
+  "paint_index": "175",
+  "weapon": {
+    "id": "weapon_knife_flip",
+    "weapon_id": 505,
+    "name": "Flip Knife",
+    "slug": "knife_flip"
+  },
+  "pattern": {
+    "id": "sp_dapple",
+    "name": "Scorched"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Flip knives sport a Persian-style back-swept blade with an acute point.  While the point itself may be fragile, the overall design of the flip knife's design is surprisingly durable. It has been spray-painted in a sun-dappled pattern.\\n\\n<i>The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 251.43,
+      "max": 251.43,
+      "mean": 251.43,
+      "median": 251.43,
+      "suggested": 168.48,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 120.04,
+      "max": 151.53,
+      "mean": 136.88,
+      "median": 133.61,
+      "suggested": 151.93,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 115.62,
+      "max": 185.54,
+      "mean": 155.35,
+      "median": 164.89,
+      "suggested": 139.38,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Flip Knife | Scorched (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Flip Knife | Scorched (Minimal Wear)",
+      "price": {
+        "min": 251.43,
+        "max": 251.43,
+        "mean": 251.43,
+        "median": 251.43,
+        "suggested": 168.48,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Flip Knife | Scorched (Field-Tested)",
+      "price": {
+        "min": 120.04,
+        "max": 151.53,
+        "mean": 136.88,
+        "median": 133.61,
+        "suggested": 151.93,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Flip Knife | Scorched (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Flip Knife | Scorched (Battle-Scarred)",
+      "price": {
+        "min": 115.62,
+        "max": 185.54,
+        "mean": 155.35,
+        "median": 164.89,
+        "suggested": 139.38,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Flip Knife | Scorched (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Flip Knife | Scorched (Minimal Wear)",
+        "price": {
+          "min": 251.43,
+          "max": 251.43,
+          "mean": 251.43,
+          "median": 251.43,
+          "suggested": 168.48,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Flip Knife | Scorched (Field-Tested)",
+        "price": {
+          "min": 120.04,
+          "max": 151.53,
+          "mean": 136.88,
+          "median": 133.61,
+          "suggested": 151.93,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Flip Knife | Scorched (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ Flip Knife | Scorched (Battle-Scarred)",
+        "price": {
+          "min": 115.62,
+          "max": 185.54,
+          "mean": 155.35,
+          "median": 164.89,
+          "suggested": 139.38,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Scorched (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Scorched (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Scorched (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Scorched (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Flip Knife | Scorched (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:34.857Z"
+}

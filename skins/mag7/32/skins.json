@@ -1,0 +1,121 @@
+{
+  "id": "skin-175c48cc6d6b",
+  "name": "MAG-7 | Silver",
+  "paint_index": "32",
+  "weapon": {
+    "id": "weapon_mag7",
+    "weapon_id": 27,
+    "name": "MAG-7",
+    "slug": "mag7"
+  },
+  "pattern": {
+    "id": "an_silver",
+    "name": "Silver"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_uncommon_weapon",
+    "name": "Industrial Grade",
+    "color": "#5e98d9"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The CT-exclusive Mag-7 delivers a devastating amount of damage at close range. Its rapid magazine-style reloads make it a great tactical choice. It has been painted with a chrome base coat and candied in transparent silver anodized effect paint.\\n\\n<i>There is beauty in simplicity - Franz Kriegeld, Phoenix Tactician</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 19.51,
+      "max": 150.59,
+      "mean": 40.04,
+      "median": 34.45,
+      "suggested": 23.9,
+      "quantity": 31,
+      "currency": "USD"
+    },
+    "mw": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAG-7 | Silver (Factory New)",
+      "price": {
+        "min": 19.51,
+        "max": 150.59,
+        "mean": 40.04,
+        "median": 34.45,
+        "suggested": 23.9,
+        "quantity": 31,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAG-7 | Silver (Minimal Wear)",
+      "price": null,
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAG-7 | Silver (Factory New)",
+        "price": {
+          "min": 19.51,
+          "max": 150.59,
+          "mean": 40.04,
+          "median": 34.45,
+          "suggested": 23.9,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAG-7 | Silver (Minimal Wear)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAG-7 | Silver (Factory New)",
+        "price": {
+          "min": 14.38,
+          "max": 2333.87,
+          "mean": 132.84,
+          "median": 25.6,
+          "suggested": 21.62,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAG-7 | Silver (Minimal Wear)",
+        "price": {
+          "min": 21.32,
+          "max": 46.68,
+          "mean": 28.2,
+          "median": 22.42,
+          "suggested": 26.18,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.221Z"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "skin-22079bd55cef",
+  "name": "Nova | Ranger",
+  "paint_index": "484",
+  "weapon": {
+    "id": "weapon_nova",
+    "weapon_id": 35,
+    "name": "Nova",
+    "slug": "nova"
+  },
+  "pattern": {
+    "id": "cu_nova_ranger",
+    "name": "Ranger"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Nova's rock-bottom price tag makes it a great ambush weapon for a cash-strapped team. It has been painted with a brush stroke hydrographic and detailed with heat-transfer decals.\\n\\n<i>Who's keeping score?</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 2.19,
+      "max": 25.25,
+      "mean": 8.39,
+      "median": 6.17,
+      "suggested": 2.54,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.81,
+      "max": 3.5,
+      "mean": 1.24,
+      "median": 0.93,
+      "suggested": 0.86,
+      "quantity": 40,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.81,
+      "max": 16.38,
+      "mean": 1.55,
+      "median": 1.05,
+      "suggested": 0.97,
+      "quantity": 96,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.37,
+      "max": 1.17,
+      "mean": 0.63,
+      "median": 0.63,
+      "suggested": 0.57,
+      "quantity": 52,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.39,
+      "max": 3.5,
+      "mean": 0.89,
+      "median": 0.64,
+      "suggested": 0.5,
+      "quantity": 39,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Nova | Ranger (Factory New)",
+      "price": {
+        "min": 2.19,
+        "max": 25.25,
+        "mean": 8.39,
+        "median": 6.17,
+        "suggested": 2.54,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Nova | Ranger (Minimal Wear)",
+      "price": {
+        "min": 0.81,
+        "max": 3.5,
+        "mean": 1.24,
+        "median": 0.93,
+        "suggested": 0.86,
+        "quantity": 40,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Nova | Ranger (Field-Tested)",
+      "price": {
+        "min": 0.81,
+        "max": 16.38,
+        "mean": 1.55,
+        "median": 1.05,
+        "suggested": 0.97,
+        "quantity": 96,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Nova | Ranger (Well-Worn)",
+      "price": {
+        "min": 0.37,
+        "max": 1.17,
+        "mean": 0.63,
+        "median": 0.63,
+        "suggested": 0.57,
+        "quantity": 52,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Nova | Ranger (Battle-Scarred)",
+      "price": {
+        "min": 0.39,
+        "max": 3.5,
+        "mean": 0.89,
+        "median": 0.64,
+        "suggested": 0.5,
+        "quantity": 39,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Nova | Ranger (Factory New)",
+        "price": {
+          "min": 2.19,
+          "max": 25.25,
+          "mean": 8.39,
+          "median": 6.17,
+          "suggested": 2.54,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Nova | Ranger (Minimal Wear)",
+        "price": {
+          "min": 0.81,
+          "max": 3.5,
+          "mean": 1.24,
+          "median": 0.93,
+          "suggested": 0.86,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Nova | Ranger (Field-Tested)",
+        "price": {
+          "min": 0.81,
+          "max": 16.38,
+          "mean": 1.55,
+          "median": 1.05,
+          "suggested": 0.97,
+          "quantity": 96,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Nova | Ranger (Well-Worn)",
+        "price": {
+          "min": 0.37,
+          "max": 1.17,
+          "mean": 0.63,
+          "median": 0.63,
+          "suggested": 0.57,
+          "quantity": 52,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Nova | Ranger (Battle-Scarred)",
+        "price": {
+          "min": 0.39,
+          "max": 3.5,
+          "mean": 0.89,
+          "median": 0.64,
+          "suggested": 0.5,
+          "quantity": 39,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Nova | Ranger (Factory New)",
+        "price": {
+          "min": 2.52,
+          "max": 36.07,
+          "mean": 8.27,
+          "median": 4.01,
+          "suggested": 3.11,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Nova | Ranger (Minimal Wear)",
+        "price": {
+          "min": 0.76,
+          "max": 5.83,
+          "mean": 1.21,
+          "median": 0.96,
+          "suggested": 0.97,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Nova | Ranger (Field-Tested)",
+        "price": {
+          "min": 0.44,
+          "max": 13.05,
+          "mean": 1.49,
+          "median": 0.55,
+          "suggested": 0.63,
+          "quantity": 37,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Nova | Ranger (Well-Worn)",
+        "price": {
+          "min": 0.39,
+          "max": 2.61,
+          "mean": 0.57,
+          "median": 0.49,
+          "suggested": 0.48,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Nova | Ranger (Battle-Scarred)",
+        "price": {
+          "min": 0.36,
+          "max": 6.87,
+          "mean": 1.19,
+          "median": 0.54,
+          "suggested": 0.47,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Nova | Ranger (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Nova | Ranger (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Nova | Ranger (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Nova | Ranger (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Nova | Ranger (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.504Z"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "skin-803657465fa6",
+  "name": "USP-S | Jawbreaker",
+  "paint_index": "1173",
+  "weapon": {
+    "id": "weapon_usp_silencer",
+    "weapon_id": 61,
+    "name": "USP-S",
+    "slug": "usp_silencer"
+  },
+  "pattern": {
+    "id": "usps_doggy",
+    "name": "Jawbreaker"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise. This custom painted USP-S uses high gloss paint and depicts a dog barking from the grip to the silencer. The silencer reads \\\"GOOD DOGGY\\\".\\n\\n<i>I said \\\"sit\\\"!</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 24.51,
+      "max": 123.98,
+      "mean": 46.97,
+      "median": 36.79,
+      "suggested": 37.05,
+      "quantity": 70,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 7.46,
+      "max": 515.79,
+      "mean": 16.09,
+      "median": 8.81,
+      "suggested": 8.69,
+      "quantity": 125,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 3.86,
+      "max": 64.18,
+      "mean": 5.36,
+      "median": 4.43,
+      "suggested": 4.89,
+      "quantity": 417,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 3.3,
+      "max": 29.17,
+      "mean": 4.36,
+      "median": 3.84,
+      "suggested": 4.4,
+      "quantity": 224,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 3.38,
+      "max": 26.84,
+      "mean": 4.71,
+      "median": 3.78,
+      "suggested": 4.2,
+      "quantity": 126,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "USP-S | Jawbreaker (Factory New)",
+      "price": {
+        "min": 24.51,
+        "max": 123.98,
+        "mean": 46.97,
+        "median": 36.79,
+        "suggested": 37.05,
+        "quantity": 70,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "USP-S | Jawbreaker (Minimal Wear)",
+      "price": {
+        "min": 7.46,
+        "max": 515.79,
+        "mean": 16.09,
+        "median": 8.81,
+        "suggested": 8.69,
+        "quantity": 125,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "USP-S | Jawbreaker (Field-Tested)",
+      "price": {
+        "min": 3.86,
+        "max": 64.18,
+        "mean": 5.36,
+        "median": 4.43,
+        "suggested": 4.89,
+        "quantity": 417,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "USP-S | Jawbreaker (Well-Worn)",
+      "price": {
+        "min": 3.3,
+        "max": 29.17,
+        "mean": 4.36,
+        "median": 3.84,
+        "suggested": 4.4,
+        "quantity": 224,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "USP-S | Jawbreaker (Battle-Scarred)",
+      "price": {
+        "min": 3.38,
+        "max": 26.84,
+        "mean": 4.71,
+        "median": 3.78,
+        "suggested": 4.2,
+        "quantity": 126,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "USP-S | Jawbreaker (Factory New)",
+        "price": {
+          "min": 24.51,
+          "max": 123.98,
+          "mean": 46.97,
+          "median": 36.79,
+          "suggested": 37.05,
+          "quantity": 70,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "USP-S | Jawbreaker (Minimal Wear)",
+        "price": {
+          "min": 7.46,
+          "max": 515.79,
+          "mean": 16.09,
+          "median": 8.81,
+          "suggested": 8.69,
+          "quantity": 125,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "USP-S | Jawbreaker (Field-Tested)",
+        "price": {
+          "min": 3.86,
+          "max": 64.18,
+          "mean": 5.36,
+          "median": 4.43,
+          "suggested": 4.89,
+          "quantity": 417,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "USP-S | Jawbreaker (Well-Worn)",
+        "price": {
+          "min": 3.3,
+          "max": 29.17,
+          "mean": 4.36,
+          "median": 3.84,
+          "suggested": 4.4,
+          "quantity": 224,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "USP-S | Jawbreaker (Battle-Scarred)",
+        "price": {
+          "min": 3.38,
+          "max": 26.84,
+          "mean": 4.71,
+          "median": 3.78,
+          "suggested": 4.2,
+          "quantity": 126,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ USP-S | Jawbreaker (Factory New)",
+        "price": {
+          "min": 47.49,
+          "max": 379.25,
+          "mean": 85.84,
+          "median": 66.48,
+          "suggested": 59.66,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ USP-S | Jawbreaker (Minimal Wear)",
+        "price": {
+          "min": 18.43,
+          "max": 46.68,
+          "mean": 26.31,
+          "median": 20.91,
+          "suggested": 21.93,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ USP-S | Jawbreaker (Field-Tested)",
+        "price": {
+          "min": 10.13,
+          "max": 25.7,
+          "mean": 13.3,
+          "median": 10.93,
+          "suggested": 11.63,
+          "quantity": 48,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ USP-S | Jawbreaker (Well-Worn)",
+        "price": {
+          "min": 6.44,
+          "max": 7.9,
+          "mean": 7.11,
+          "median": 7.07,
+          "suggested": 7.83,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ USP-S | Jawbreaker (Battle-Scarred)",
+        "price": {
+          "min": 5.97,
+          "max": 29.17,
+          "mean": 10.58,
+          "median": 8.94,
+          "suggested": 6.86,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir USP-S | Jawbreaker (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir USP-S | Jawbreaker (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir USP-S | Jawbreaker (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir USP-S | Jawbreaker (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir USP-S | Jawbreaker (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:50.930Z"
+}

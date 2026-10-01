@@ -1,0 +1,310 @@
+{
+  "id": "skin-db4ae843fbd7",
+  "name": "Sawed-Off | Apocalypto",
+  "paint_index": "953",
+  "weapon": {
+    "id": "weapon_sawedoff",
+    "weapon_id": 29,
+    "name": "Sawed-Off",
+    "slug": "sawedoff"
+  },
+  "pattern": {
+    "id": "cu_sawedoff_apocalypto",
+    "name": "Apocalypto"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit. A decomposing hand reaching for a bomb-like planet has been custom painted over a purple outer space background.\\n\\n<i>\\\"Have you got the time?\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 4.92,
+      "max": 68.53,
+      "mean": 11.74,
+      "median": 7.46,
+      "suggested": 6.19,
+      "quantity": 28,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.39,
+      "max": 31.97,
+      "mean": 2.8,
+      "median": 1.55,
+      "suggested": 1.63,
+      "quantity": 51,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.63,
+      "max": 26.36,
+      "mean": 1.17,
+      "median": 0.83,
+      "suggested": 0.81,
+      "quantity": 156,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.47,
+      "max": 3.49,
+      "mean": 0.69,
+      "median": 0.64,
+      "suggested": 0.68,
+      "quantity": 92,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.53,
+      "max": 14.42,
+      "mean": 1.48,
+      "median": 0.65,
+      "suggested": 0.68,
+      "quantity": 81,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Sawed-Off | Apocalypto (Factory New)",
+      "price": {
+        "min": 4.92,
+        "max": 68.53,
+        "mean": 11.74,
+        "median": 7.46,
+        "suggested": 6.19,
+        "quantity": 28,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Sawed-Off | Apocalypto (Minimal Wear)",
+      "price": {
+        "min": 1.39,
+        "max": 31.97,
+        "mean": 2.8,
+        "median": 1.55,
+        "suggested": 1.63,
+        "quantity": 51,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Sawed-Off | Apocalypto (Field-Tested)",
+      "price": {
+        "min": 0.63,
+        "max": 26.36,
+        "mean": 1.17,
+        "median": 0.83,
+        "suggested": 0.81,
+        "quantity": 156,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Sawed-Off | Apocalypto (Well-Worn)",
+      "price": {
+        "min": 0.47,
+        "max": 3.49,
+        "mean": 0.69,
+        "median": 0.64,
+        "suggested": 0.68,
+        "quantity": 92,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Sawed-Off | Apocalypto (Battle-Scarred)",
+      "price": {
+        "min": 0.53,
+        "max": 14.42,
+        "mean": 1.48,
+        "median": 0.65,
+        "suggested": 0.68,
+        "quantity": 81,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Sawed-Off | Apocalypto (Factory New)",
+        "price": {
+          "min": 4.92,
+          "max": 68.53,
+          "mean": 11.74,
+          "median": 7.46,
+          "suggested": 6.19,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Sawed-Off | Apocalypto (Minimal Wear)",
+        "price": {
+          "min": 1.39,
+          "max": 31.97,
+          "mean": 2.8,
+          "median": 1.55,
+          "suggested": 1.63,
+          "quantity": 51,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Sawed-Off | Apocalypto (Field-Tested)",
+        "price": {
+          "min": 0.63,
+          "max": 26.36,
+          "mean": 1.17,
+          "median": 0.83,
+          "suggested": 0.81,
+          "quantity": 156,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Sawed-Off | Apocalypto (Well-Worn)",
+        "price": {
+          "min": 0.47,
+          "max": 3.49,
+          "mean": 0.69,
+          "median": 0.64,
+          "suggested": 0.68,
+          "quantity": 92,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Sawed-Off | Apocalypto (Battle-Scarred)",
+        "price": {
+          "min": 0.53,
+          "max": 14.42,
+          "mean": 1.48,
+          "median": 0.65,
+          "suggested": 0.68,
+          "quantity": 81,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Apocalypto (Factory New)",
+        "price": {
+          "min": 6.83,
+          "max": 22.17,
+          "mean": 11.94,
+          "median": 6.83,
+          "suggested": 7.93,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Apocalypto (Minimal Wear)",
+        "price": {
+          "min": 2.17,
+          "max": 44.94,
+          "mean": 4.7,
+          "median": 2.28,
+          "suggested": 2.5,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Apocalypto (Field-Tested)",
+        "price": {
+          "min": 0.96,
+          "max": 30.12,
+          "mean": 1.88,
+          "median": 1.24,
+          "suggested": 1.19,
+          "quantity": 101,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Apocalypto (Well-Worn)",
+        "price": {
+          "min": 0.83,
+          "max": 1.83,
+          "mean": 1.16,
+          "median": 1.06,
+          "suggested": 0.96,
+          "quantity": 46,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Apocalypto (Battle-Scarred)",
+        "price": {
+          "min": 0.74,
+          "max": 45.51,
+          "mean": 2.38,
+          "median": 1.11,
+          "suggested": 0.95,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Sawed-Off | Apocalypto (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Sawed-Off | Apocalypto (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Sawed-Off | Apocalypto (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Sawed-Off | Apocalypto (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Sawed-Off | Apocalypto (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:47.017Z"
+}

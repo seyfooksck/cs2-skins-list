@@ -1,0 +1,204 @@
+{
+  "id": "skin-d9b9add3d4ae",
+  "name": "★ Driver Gloves | Brocade Flowers",
+  "paint_index": "1400",
+  "weapon": {
+    "id": "slick_gloves",
+    "weapon_id": 5031,
+    "name": "Driver Gloves",
+    "slug": "slick_gloves"
+  },
+  "pattern": {
+    "id": "glove_driver_brocade_flower_red",
+    "name": "Brocade Flowers"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_gloves",
+    "name": "Gloves"
+  },
+  "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "These driving gloves offer protection from the elements while still maintaining tactile sensation.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 477.55,
+      "max": 793.49,
+      "mean": 563.39,
+      "median": 513.45,
+      "suggested": 495.5,
+      "quantity": 5,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 167.72,
+      "max": 482.13,
+      "mean": 248.7,
+      "median": 212.86,
+      "suggested": 225.06,
+      "quantity": 33,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 152.78,
+      "max": 201.88,
+      "mean": 160.96,
+      "median": 155.9,
+      "suggested": 183.99,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 138.36,
+      "max": 166.93,
+      "mean": 150.56,
+      "median": 148.43,
+      "suggested": 164.25,
+      "quantity": 6,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Driver Gloves | Brocade Flowers (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Driver Gloves | Brocade Flowers (Minimal Wear)",
+      "price": {
+        "min": 477.55,
+        "max": 793.49,
+        "mean": 563.39,
+        "median": 513.45,
+        "suggested": 495.5,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Driver Gloves | Brocade Flowers (Field-Tested)",
+      "price": {
+        "min": 167.72,
+        "max": 482.13,
+        "mean": 248.7,
+        "median": 212.86,
+        "suggested": 225.06,
+        "quantity": 33,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Driver Gloves | Brocade Flowers (Well-Worn)",
+      "price": {
+        "min": 152.78,
+        "max": 201.88,
+        "mean": 160.96,
+        "median": 155.9,
+        "suggested": 183.99,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Driver Gloves | Brocade Flowers (Battle-Scarred)",
+      "price": {
+        "min": 138.36,
+        "max": 166.93,
+        "mean": 150.56,
+        "median": 148.43,
+        "suggested": 164.25,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Driver Gloves | Brocade Flowers (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Driver Gloves | Brocade Flowers (Minimal Wear)",
+        "price": {
+          "min": 477.55,
+          "max": 793.49,
+          "mean": 563.39,
+          "median": 513.45,
+          "suggested": 495.5,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Driver Gloves | Brocade Flowers (Field-Tested)",
+        "price": {
+          "min": 167.72,
+          "max": 482.13,
+          "mean": 248.7,
+          "median": 212.86,
+          "suggested": 225.06,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Driver Gloves | Brocade Flowers (Well-Worn)",
+        "price": {
+          "min": 152.78,
+          "max": 201.88,
+          "mean": 160.96,
+          "median": 155.9,
+          "suggested": 183.99,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Driver Gloves | Brocade Flowers (Battle-Scarred)",
+        "price": {
+          "min": 138.36,
+          "max": 166.93,
+          "mean": 150.56,
+          "median": 148.43,
+          "suggested": 164.25,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:23.336Z"
+}

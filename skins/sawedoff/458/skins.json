@@ -1,0 +1,225 @@
+{
+  "id": "skin-a6b38e973280",
+  "name": "Sawed-Off | Bamboo Shadow",
+  "paint_index": "458",
+  "weapon": {
+    "id": "weapon_sawedoff",
+    "weapon_id": 29,
+    "name": "Sawed-Off",
+    "slug": "sawedoff"
+  },
+  "pattern": {
+    "id": "hy_bamboo_jungle_black",
+    "name": "Bamboo Shadow"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit. It has been painted with a hydrographic of brush-painted bamboo.\\n\\n<i>Kotaro lost his son to this gun... and one day he'll use it to stop the man responsible</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 13.35,
+      "max": 58.35,
+      "mean": 20.06,
+      "median": 15.17,
+      "suggested": 16.63,
+      "quantity": 29,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 12.95,
+      "max": 335.11,
+      "mean": 38.08,
+      "median": 15.33,
+      "suggested": 14.78,
+      "quantity": 17,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 9.93,
+      "max": 40.84,
+      "mean": 14.69,
+      "median": 12.15,
+      "suggested": 13.2,
+      "quantity": 32,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 22.22,
+      "max": 22.22,
+      "mean": 22.22,
+      "median": 22.22,
+      "suggested": 8.2,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Sawed-Off | Bamboo Shadow (Factory New)",
+      "price": {
+        "min": 13.35,
+        "max": 58.35,
+        "mean": 20.06,
+        "median": 15.17,
+        "suggested": 16.63,
+        "quantity": 29,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Sawed-Off | Bamboo Shadow (Minimal Wear)",
+      "price": {
+        "min": 12.95,
+        "max": 335.11,
+        "mean": 38.08,
+        "median": 15.33,
+        "suggested": 14.78,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Sawed-Off | Bamboo Shadow (Field-Tested)",
+      "price": {
+        "min": 9.93,
+        "max": 40.84,
+        "mean": 14.69,
+        "median": 12.15,
+        "suggested": 13.2,
+        "quantity": 32,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Sawed-Off | Bamboo Shadow (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Sawed-Off | Bamboo Shadow (Battle-Scarred)",
+      "price": {
+        "min": 22.22,
+        "max": 22.22,
+        "mean": 22.22,
+        "median": 22.22,
+        "suggested": 8.2,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Sawed-Off | Bamboo Shadow (Factory New)",
+        "price": {
+          "min": 13.35,
+          "max": 58.35,
+          "mean": 20.06,
+          "median": 15.17,
+          "suggested": 16.63,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Sawed-Off | Bamboo Shadow (Minimal Wear)",
+        "price": {
+          "min": 12.95,
+          "max": 335.11,
+          "mean": 38.08,
+          "median": 15.33,
+          "suggested": 14.78,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Sawed-Off | Bamboo Shadow (Field-Tested)",
+        "price": {
+          "min": 9.93,
+          "max": 40.84,
+          "mean": 14.69,
+          "median": 12.15,
+          "suggested": 13.2,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Sawed-Off | Bamboo Shadow (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Sawed-Off | Bamboo Shadow (Battle-Scarred)",
+        "price": {
+          "min": 22.22,
+          "max": 22.22,
+          "mean": 22.22,
+          "median": 22.22,
+          "suggested": 8.2,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Sawed-Off | Bamboo Shadow (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Sawed-Off | Bamboo Shadow (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Sawed-Off | Bamboo Shadow (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Sawed-Off | Bamboo Shadow (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Sawed-Off | Bamboo Shadow (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:47.197Z"
+}

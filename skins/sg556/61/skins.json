@@ -1,0 +1,129 @@
+{
+  "id": "skin-4be502157e9f",
+  "name": "SG 553 | Hypnotic",
+  "paint_index": "61",
+  "weapon": {
+    "id": "weapon_sg556",
+    "weapon_id": 39,
+    "name": "SG 553",
+    "slug": "sg556"
+  },
+  "pattern": {
+    "id": "aa_vertigo",
+    "name": "Hypnotic"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The terrorist-exclusive SG553 is a premium scoped alternative to the AK47 for effective long-range engagement. It has been painted with a pearl base coat, then spray-painted black through a stencil in a graphic pattern.\\n\\n<i>You're not getting sleepy, you're passing out from blood loss</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 72.79,
+      "max": 443.42,
+      "mean": 146.32,
+      "median": 112.34,
+      "suggested": 89.94,
+      "quantity": 22,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 154.27,
+      "max": 154.27,
+      "mean": 154.27,
+      "median": 154.27,
+      "suggested": 81.4,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SG 553 | Hypnotic (Factory New)",
+      "price": {
+        "min": 72.79,
+        "max": 443.42,
+        "mean": 146.32,
+        "median": 112.34,
+        "suggested": 89.94,
+        "quantity": 22,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SG 553 | Hypnotic (Minimal Wear)",
+      "price": {
+        "min": 154.27,
+        "max": 154.27,
+        "mean": 154.27,
+        "median": 154.27,
+        "suggested": 81.4,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SG 553 | Hypnotic (Factory New)",
+        "price": {
+          "min": 72.79,
+          "max": 443.42,
+          "mean": 146.32,
+          "median": 112.34,
+          "suggested": 89.94,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "SG 553 | Hypnotic (Minimal Wear)",
+        "price": {
+          "min": 154.27,
+          "max": 154.27,
+          "mean": 154.27,
+          "median": 154.27,
+          "suggested": 81.4,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SG 553 | Hypnotic (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir SG 553 | Hypnotic (Minimal Wear)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:47.836Z"
+}

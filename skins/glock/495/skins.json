@@ -1,0 +1,310 @@
+{
+  "id": "skin-c9c83de22ecf",
+  "name": "Glock-18 | Wraiths",
+  "paint_index": "495",
+  "weapon": {
+    "id": "weapon_glock",
+    "weapon_id": 4,
+    "name": "Glock-18",
+    "slug": "glock"
+  },
+  "pattern": {
+    "id": "gs_glock18_wrathys",
+    "name": "Wraiths"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.8,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. It has lost souls custom painted on the slide.\\n\\n<i>First it pierces the shroud, then it pierces the shadow</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 15.86,
+      "max": 79.35,
+      "mean": 26.99,
+      "median": 20.6,
+      "suggested": 18.5,
+      "quantity": 24,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.24,
+      "max": 43.06,
+      "mean": 3.96,
+      "median": 1.97,
+      "suggested": 1.56,
+      "quantity": 27,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.48,
+      "max": 29.52,
+      "mean": 1.62,
+      "median": 0.61,
+      "suggested": 0.76,
+      "quantity": 78,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.62,
+      "max": 4.67,
+      "mean": 1.27,
+      "median": 0.77,
+      "suggested": 0.71,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.47,
+      "max": 11.66,
+      "mean": 1.07,
+      "median": 0.65,
+      "suggested": 0.67,
+      "quantity": 34,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Glock-18 | Wraiths (Factory New)",
+      "price": {
+        "min": 15.86,
+        "max": 79.35,
+        "mean": 26.99,
+        "median": 20.6,
+        "suggested": 18.5,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Glock-18 | Wraiths (Minimal Wear)",
+      "price": {
+        "min": 1.24,
+        "max": 43.06,
+        "mean": 3.96,
+        "median": 1.97,
+        "suggested": 1.56,
+        "quantity": 27,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Glock-18 | Wraiths (Field-Tested)",
+      "price": {
+        "min": 0.48,
+        "max": 29.52,
+        "mean": 1.62,
+        "median": 0.61,
+        "suggested": 0.76,
+        "quantity": 78,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Glock-18 | Wraiths (Well-Worn)",
+      "price": {
+        "min": 0.62,
+        "max": 4.67,
+        "mean": 1.27,
+        "median": 0.77,
+        "suggested": 0.71,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Glock-18 | Wraiths (Battle-Scarred)",
+      "price": {
+        "min": 0.47,
+        "max": 11.66,
+        "mean": 1.07,
+        "median": 0.65,
+        "suggested": 0.67,
+        "quantity": 34,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Glock-18 | Wraiths (Factory New)",
+        "price": {
+          "min": 15.86,
+          "max": 79.35,
+          "mean": 26.99,
+          "median": 20.6,
+          "suggested": 18.5,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Glock-18 | Wraiths (Minimal Wear)",
+        "price": {
+          "min": 1.24,
+          "max": 43.06,
+          "mean": 3.96,
+          "median": 1.97,
+          "suggested": 1.56,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Glock-18 | Wraiths (Field-Tested)",
+        "price": {
+          "min": 0.48,
+          "max": 29.52,
+          "mean": 1.62,
+          "median": 0.61,
+          "suggested": 0.76,
+          "quantity": 78,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Glock-18 | Wraiths (Well-Worn)",
+        "price": {
+          "min": 0.62,
+          "max": 4.67,
+          "mean": 1.27,
+          "median": 0.77,
+          "suggested": 0.71,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Glock-18 | Wraiths (Battle-Scarred)",
+        "price": {
+          "min": 0.47,
+          "max": 11.66,
+          "mean": 1.07,
+          "median": 0.65,
+          "suggested": 0.67,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Glock-18 | Wraiths (Factory New)",
+        "price": {
+          "min": 9.31,
+          "max": 116.69,
+          "mean": 27.33,
+          "median": 16.77,
+          "suggested": 9.54,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Glock-18 | Wraiths (Minimal Wear)",
+        "price": {
+          "min": 2.63,
+          "max": 127.18,
+          "mean": 14.27,
+          "median": 3.52,
+          "suggested": 2.88,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Glock-18 | Wraiths (Field-Tested)",
+        "price": {
+          "min": 0.97,
+          "max": 29.16,
+          "mean": 2.59,
+          "median": 1.24,
+          "suggested": 1.18,
+          "quantity": 44,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Glock-18 | Wraiths (Well-Worn)",
+        "price": {
+          "min": 1.93,
+          "max": 3.02,
+          "mean": 2.61,
+          "median": 2.75,
+          "suggested": 2.39,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Glock-18 | Wraiths (Battle-Scarred)",
+        "price": {
+          "min": 0.88,
+          "max": 128.35,
+          "mean": 7.25,
+          "median": 1.39,
+          "suggested": 1.18,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Glock-18 | Wraiths (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Glock-18 | Wraiths (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Glock-18 | Wraiths (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Glock-18 | Wraiths (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Glock-18 | Wraiths (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:32.042Z"
+}

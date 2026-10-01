@@ -1,0 +1,233 @@
+{
+  "id": "skin-34bed90326a8",
+  "name": "★ Nomad Knife | Urban Masked",
+  "paint_index": "143",
+  "weapon": {
+    "id": "weapon_knife_outdoor",
+    "weapon_id": 521,
+    "name": "Nomad Knife",
+    "slug": "knife_outdoor"
+  },
+  "pattern": {
+    "id": "sp_tape_urban",
+    "name": "Urban Masked"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "This ergonomic tactical hunting lock-blade knife features composite handle inserts and a broad, sturdy blade, useful for cutting and prying apart material. It has been spray-painted using a tangle of masking tape as a stencil.\\n\\n<i>True power is demonstrated with subtle application</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 127.14,
+      "max": 249.51,
+      "mean": 173.55,
+      "median": 143.99,
+      "suggested": 154.86,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 115.12,
+      "max": 198.37,
+      "mean": 148.29,
+      "median": 139.86,
+      "suggested": 128.46,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 116.54,
+      "max": 116.54,
+      "mean": 116.54,
+      "median": 116.54,
+      "suggested": 127.71,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 225.31,
+      "max": 225.31,
+      "mean": 225.31,
+      "median": 225.31,
+      "suggested": 111.22,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Nomad Knife | Urban Masked (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Nomad Knife | Urban Masked (Minimal Wear)",
+      "price": {
+        "min": 127.14,
+        "max": 249.51,
+        "mean": 173.55,
+        "median": 143.99,
+        "suggested": 154.86,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Nomad Knife | Urban Masked (Field-Tested)",
+      "price": {
+        "min": 115.12,
+        "max": 198.37,
+        "mean": 148.29,
+        "median": 139.86,
+        "suggested": 128.46,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Nomad Knife | Urban Masked (Well-Worn)",
+      "price": {
+        "min": 116.54,
+        "max": 116.54,
+        "mean": 116.54,
+        "median": 116.54,
+        "suggested": 127.71,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Nomad Knife | Urban Masked (Battle-Scarred)",
+      "price": {
+        "min": 225.31,
+        "max": 225.31,
+        "mean": 225.31,
+        "median": 225.31,
+        "suggested": 111.22,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Nomad Knife | Urban Masked (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Nomad Knife | Urban Masked (Minimal Wear)",
+        "price": {
+          "min": 127.14,
+          "max": 249.51,
+          "mean": 173.55,
+          "median": 143.99,
+          "suggested": 154.86,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Nomad Knife | Urban Masked (Field-Tested)",
+        "price": {
+          "min": 115.12,
+          "max": 198.37,
+          "mean": 148.29,
+          "median": 139.86,
+          "suggested": 128.46,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Nomad Knife | Urban Masked (Well-Worn)",
+        "price": {
+          "min": 116.54,
+          "max": 116.54,
+          "mean": 116.54,
+          "median": 116.54,
+          "suggested": 127.71,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Nomad Knife | Urban Masked (Battle-Scarred)",
+        "price": {
+          "min": 225.31,
+          "max": 225.31,
+          "mean": 225.31,
+          "median": 225.31,
+          "suggested": 111.22,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Nomad Knife | Urban Masked (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Nomad Knife | Urban Masked (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Nomad Knife | Urban Masked (Field-Tested)",
+        "price": {
+          "min": 112.2,
+          "max": 135.32,
+          "mean": 124.73,
+          "median": 125.71,
+          "suggested": 130.53,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ StatTrak™ Nomad Knife | Urban Masked (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ StatTrak™ Nomad Knife | Urban Masked (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:37.121Z"
+}

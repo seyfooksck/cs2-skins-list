@@ -1,0 +1,310 @@
+{
+  "id": "skin-dd7837484577",
+  "name": "P2000 | Acid Etched",
+  "paint_index": "951",
+  "weapon": {
+    "id": "weapon_hkp2000",
+    "weapon_id": 32,
+    "name": "P2000",
+    "slug": "hkp2000"
+  },
+  "pattern": {
+    "id": "aq_p2000_acid_clover",
+    "name": "Acid Etched"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Accurate and controllable, the German-made P2000 is a serviceable first-round pistol that works best against unarmored opponents. A randomized multicolored pattern with a rare four-leaf clover has been applied.\\n\\n<i>Do you feel lucky?</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 21.74,
+      "max": 256.04,
+      "mean": 65.4,
+      "median": 41.06,
+      "suggested": 25.36,
+      "quantity": 31,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 1.34,
+      "max": 47.4,
+      "mean": 4.15,
+      "median": 1.86,
+      "suggested": 2.21,
+      "quantity": 52,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.56,
+      "max": 26.26,
+      "mean": 1.45,
+      "median": 0.79,
+      "suggested": 0.85,
+      "quantity": 164,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.53,
+      "max": 20.42,
+      "mean": 1.76,
+      "median": 0.74,
+      "suggested": 0.67,
+      "quantity": 55,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.6,
+      "max": 21,
+      "mean": 2.12,
+      "median": 0.81,
+      "suggested": 0.67,
+      "quantity": 51,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P2000 | Acid Etched (Factory New)",
+      "price": {
+        "min": 21.74,
+        "max": 256.04,
+        "mean": 65.4,
+        "median": 41.06,
+        "suggested": 25.36,
+        "quantity": 31,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P2000 | Acid Etched (Minimal Wear)",
+      "price": {
+        "min": 1.34,
+        "max": 47.4,
+        "mean": 4.15,
+        "median": 1.86,
+        "suggested": 2.21,
+        "quantity": 52,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P2000 | Acid Etched (Field-Tested)",
+      "price": {
+        "min": 0.56,
+        "max": 26.26,
+        "mean": 1.45,
+        "median": 0.79,
+        "suggested": 0.85,
+        "quantity": 164,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P2000 | Acid Etched (Well-Worn)",
+      "price": {
+        "min": 0.53,
+        "max": 20.42,
+        "mean": 1.76,
+        "median": 0.74,
+        "suggested": 0.67,
+        "quantity": 55,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P2000 | Acid Etched (Battle-Scarred)",
+      "price": {
+        "min": 0.6,
+        "max": 21,
+        "mean": 2.12,
+        "median": 0.81,
+        "suggested": 0.67,
+        "quantity": 51,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P2000 | Acid Etched (Factory New)",
+        "price": {
+          "min": 21.74,
+          "max": 256.04,
+          "mean": 65.4,
+          "median": 41.06,
+          "suggested": 25.36,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P2000 | Acid Etched (Minimal Wear)",
+        "price": {
+          "min": 1.34,
+          "max": 47.4,
+          "mean": 4.15,
+          "median": 1.86,
+          "suggested": 2.21,
+          "quantity": 52,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P2000 | Acid Etched (Field-Tested)",
+        "price": {
+          "min": 0.56,
+          "max": 26.26,
+          "mean": 1.45,
+          "median": 0.79,
+          "suggested": 0.85,
+          "quantity": 164,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P2000 | Acid Etched (Well-Worn)",
+        "price": {
+          "min": 0.53,
+          "max": 20.42,
+          "mean": 1.76,
+          "median": 0.74,
+          "suggested": 0.67,
+          "quantity": 55,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P2000 | Acid Etched (Battle-Scarred)",
+        "price": {
+          "min": 0.6,
+          "max": 21,
+          "mean": 2.12,
+          "median": 0.81,
+          "suggested": 0.67,
+          "quantity": 51,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P2000 | Acid Etched (Factory New)",
+        "price": {
+          "min": 9.44,
+          "max": 126.24,
+          "mean": 28.78,
+          "median": 15.6,
+          "suggested": 11.62,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P2000 | Acid Etched (Minimal Wear)",
+        "price": {
+          "min": 2.36,
+          "max": 78.18,
+          "mean": 11.53,
+          "median": 3.4,
+          "suggested": 2.84,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P2000 | Acid Etched (Field-Tested)",
+        "price": {
+          "min": 0.98,
+          "max": 57.18,
+          "mean": 3.16,
+          "median": 1.54,
+          "suggested": 1.37,
+          "quantity": 59,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ P2000 | Acid Etched (Well-Worn)",
+        "price": {
+          "min": 0.89,
+          "max": 43.76,
+          "mean": 3.06,
+          "median": 1.11,
+          "suggested": 1.04,
+          "quantity": 50,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ P2000 | Acid Etched (Battle-Scarred)",
+        "price": {
+          "min": 0.84,
+          "max": 24.84,
+          "mean": 3,
+          "median": 1.21,
+          "suggested": 1.03,
+          "quantity": 50,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P2000 | Acid Etched (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P2000 | Acid Etched (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P2000 | Acid Etched (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P2000 | Acid Etched (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P2000 | Acid Etched (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:32.416Z"
+}

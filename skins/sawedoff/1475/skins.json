@@ -1,0 +1,249 @@
+{
+  "id": "skin-4f033a7badb4",
+  "name": "Sawed-Off | Lunar Wyrm",
+  "paint_index": "1475",
+  "weapon": {
+    "id": "weapon_sawedoff",
+    "weapon_id": 29,
+    "name": "Sawed-Off",
+    "slug": "sawedoff"
+  },
+  "pattern": {
+    "id": "sawedoff_lunar_wyrm",
+    "name": "Lunar Wyrm"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit. A serpent has been custom painted over a crimson-colored base.\\n\\n<i>Coiled at the world's depths</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 5.65,
+      "max": 6.59,
+      "mean": 6.01,
+      "median": 6.03,
+      "suggested": 5.02,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.81,
+      "max": 5.78,
+      "mean": 1.82,
+      "median": 1.35,
+      "suggested": 0.95,
+      "quantity": 10,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.29,
+      "max": 9.18,
+      "mean": 2.85,
+      "median": 0.4,
+      "suggested": 0.38,
+      "quantity": 30,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.2,
+      "max": 0.35,
+      "mean": 0.25,
+      "median": 0.2,
+      "suggested": 0.23,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.16,
+      "max": 1.17,
+      "mean": 0.56,
+      "median": 0.16,
+      "suggested": 0.2,
+      "quantity": 5,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Sawed-Off | Lunar Wyrm (Factory New)",
+      "price": {
+        "min": 5.65,
+        "max": 6.59,
+        "mean": 6.01,
+        "median": 6.03,
+        "suggested": 5.02,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Sawed-Off | Lunar Wyrm (Minimal Wear)",
+      "price": {
+        "min": 0.81,
+        "max": 5.78,
+        "mean": 1.82,
+        "median": 1.35,
+        "suggested": 0.95,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Sawed-Off | Lunar Wyrm (Field-Tested)",
+      "price": {
+        "min": 0.29,
+        "max": 9.18,
+        "mean": 2.85,
+        "median": 0.4,
+        "suggested": 0.38,
+        "quantity": 30,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Sawed-Off | Lunar Wyrm (Well-Worn)",
+      "price": {
+        "min": 0.2,
+        "max": 0.35,
+        "mean": 0.25,
+        "median": 0.2,
+        "suggested": 0.23,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Sawed-Off | Lunar Wyrm (Battle-Scarred)",
+      "price": {
+        "min": 0.16,
+        "max": 1.17,
+        "mean": 0.56,
+        "median": 0.16,
+        "suggested": 0.2,
+        "quantity": 5,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Sawed-Off | Lunar Wyrm (Factory New)",
+        "price": {
+          "min": 5.65,
+          "max": 6.59,
+          "mean": 6.01,
+          "median": 6.03,
+          "suggested": 5.02,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Sawed-Off | Lunar Wyrm (Minimal Wear)",
+        "price": {
+          "min": 0.81,
+          "max": 5.78,
+          "mean": 1.82,
+          "median": 1.35,
+          "suggested": 0.95,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Sawed-Off | Lunar Wyrm (Field-Tested)",
+        "price": {
+          "min": 0.29,
+          "max": 9.18,
+          "mean": 2.85,
+          "median": 0.4,
+          "suggested": 0.38,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Sawed-Off | Lunar Wyrm (Well-Worn)",
+        "price": {
+          "min": 0.2,
+          "max": 0.35,
+          "mean": 0.25,
+          "median": 0.2,
+          "suggested": 0.23,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Sawed-Off | Lunar Wyrm (Battle-Scarred)",
+        "price": {
+          "min": 0.16,
+          "max": 1.17,
+          "mean": 0.56,
+          "median": 0.16,
+          "suggested": 0.2,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Sawed-Off | Lunar Wyrm (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Sawed-Off | Lunar Wyrm (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Sawed-Off | Lunar Wyrm (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Sawed-Off | Lunar Wyrm (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Sawed-Off | Lunar Wyrm (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:47.309Z"
+}

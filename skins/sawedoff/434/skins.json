@@ -1,0 +1,310 @@
+{
+  "id": "skin-628ddc6f56d0",
+  "name": "Sawed-Off | Origami",
+  "paint_index": "434",
+  "weapon": {
+    "id": "weapon_sawedoff",
+    "weapon_id": 29,
+    "name": "Sawed-Off",
+    "slug": "sawedoff"
+  },
+  "pattern": {
+    "id": "cu_sawedoff_origami",
+    "name": "Origami"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.55,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit. It has been custom painted with an origami-inspired design.\\n\\n<i>It takes time to build something beautiful, but only a moment to destroy it</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.67,
+      "max": 12.99,
+      "mean": 1.53,
+      "median": 1.05,
+      "suggested": 0.88,
+      "quantity": 90,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.3,
+      "max": 1.58,
+      "mean": 0.57,
+      "median": 0.41,
+      "suggested": 0.43,
+      "quantity": 76,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.33,
+      "max": 1.17,
+      "mean": 0.61,
+      "median": 0.53,
+      "suggested": 0.48,
+      "quantity": 82,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.27,
+      "max": 0.51,
+      "mean": 0.37,
+      "median": 0.35,
+      "suggested": 0.38,
+      "quantity": 27,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.28,
+      "max": 0.42,
+      "mean": 0.36,
+      "median": 0.37,
+      "suggested": 0.37,
+      "quantity": 13,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Sawed-Off | Origami (Factory New)",
+      "price": {
+        "min": 0.67,
+        "max": 12.99,
+        "mean": 1.53,
+        "median": 1.05,
+        "suggested": 0.88,
+        "quantity": 90,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Sawed-Off | Origami (Minimal Wear)",
+      "price": {
+        "min": 0.3,
+        "max": 1.58,
+        "mean": 0.57,
+        "median": 0.41,
+        "suggested": 0.43,
+        "quantity": 76,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Sawed-Off | Origami (Field-Tested)",
+      "price": {
+        "min": 0.33,
+        "max": 1.17,
+        "mean": 0.61,
+        "median": 0.53,
+        "suggested": 0.48,
+        "quantity": 82,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Sawed-Off | Origami (Well-Worn)",
+      "price": {
+        "min": 0.27,
+        "max": 0.51,
+        "mean": 0.37,
+        "median": 0.35,
+        "suggested": 0.38,
+        "quantity": 27,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Sawed-Off | Origami (Battle-Scarred)",
+      "price": {
+        "min": 0.28,
+        "max": 0.42,
+        "mean": 0.36,
+        "median": 0.37,
+        "suggested": 0.37,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Sawed-Off | Origami (Factory New)",
+        "price": {
+          "min": 0.67,
+          "max": 12.99,
+          "mean": 1.53,
+          "median": 1.05,
+          "suggested": 0.88,
+          "quantity": 90,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Sawed-Off | Origami (Minimal Wear)",
+        "price": {
+          "min": 0.3,
+          "max": 1.58,
+          "mean": 0.57,
+          "median": 0.41,
+          "suggested": 0.43,
+          "quantity": 76,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Sawed-Off | Origami (Field-Tested)",
+        "price": {
+          "min": 0.33,
+          "max": 1.17,
+          "mean": 0.61,
+          "median": 0.53,
+          "suggested": 0.48,
+          "quantity": 82,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Sawed-Off | Origami (Well-Worn)",
+        "price": {
+          "min": 0.27,
+          "max": 0.51,
+          "mean": 0.37,
+          "median": 0.35,
+          "suggested": 0.38,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Sawed-Off | Origami (Battle-Scarred)",
+        "price": {
+          "min": 0.28,
+          "max": 0.42,
+          "mean": 0.36,
+          "median": 0.37,
+          "suggested": 0.37,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Origami (Factory New)",
+        "price": {
+          "min": 0.89,
+          "max": 20.2,
+          "mean": 2.71,
+          "median": 1.26,
+          "suggested": 1.03,
+          "quantity": 37,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Origami (Minimal Wear)",
+        "price": {
+          "min": 0.42,
+          "max": 2.32,
+          "mean": 0.68,
+          "median": 0.57,
+          "suggested": 0.57,
+          "quantity": 38,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Origami (Field-Tested)",
+        "price": {
+          "min": 0.27,
+          "max": 16.34,
+          "mean": 0.63,
+          "median": 0.36,
+          "suggested": 0.39,
+          "quantity": 111,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Origami (Well-Worn)",
+        "price": {
+          "min": 0.35,
+          "max": 0.83,
+          "mean": 0.57,
+          "median": 0.47,
+          "suggested": 0.39,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Sawed-Off | Origami (Battle-Scarred)",
+        "price": {
+          "min": 0.3,
+          "max": 1.3,
+          "mean": 0.56,
+          "median": 0.46,
+          "suggested": 0.42,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Sawed-Off | Origami (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Sawed-Off | Origami (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Sawed-Off | Origami (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Sawed-Off | Origami (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Sawed-Off | Origami (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:47.104Z"
+}

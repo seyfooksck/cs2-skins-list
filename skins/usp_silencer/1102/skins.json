@@ -1,0 +1,310 @@
+{
+  "id": "skin-9c09911caf5c",
+  "name": "USP-S | Black Lotus",
+  "paint_index": "1102",
+  "weapon": {
+    "id": "weapon_usp_silencer",
+    "weapon_id": 61,
+    "name": "USP-S",
+    "slug": "usp_silencer"
+  },
+  "pattern": {
+    "id": "cu_usp_black_lotus",
+    "name": "Black Lotus"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.9,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise. It has been custom painted with a black lotus flower on the slide.\\n\\n<i>Adds 3 kills during pistol round, then is discarded</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 39.19,
+      "max": 281.64,
+      "mean": 65.13,
+      "median": 57.18,
+      "suggested": 62.53,
+      "quantity": 43,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.92,
+      "max": 142.51,
+      "mean": 8.06,
+      "median": 4.24,
+      "suggested": 3.97,
+      "quantity": 149,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.31,
+      "max": 127.2,
+      "mean": 4.41,
+      "median": 1.6,
+      "suggested": 1.7,
+      "quantity": 159,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.89,
+      "max": 2.45,
+      "mean": 1.59,
+      "median": 1.26,
+      "suggested": 1.11,
+      "quantity": 44,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.79,
+      "max": 120.5,
+      "mean": 3.5,
+      "median": 1.05,
+      "suggested": 0.93,
+      "quantity": 93,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "USP-S | Black Lotus (Factory New)",
+      "price": {
+        "min": 39.19,
+        "max": 281.64,
+        "mean": 65.13,
+        "median": 57.18,
+        "suggested": 62.53,
+        "quantity": 43,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "USP-S | Black Lotus (Minimal Wear)",
+      "price": {
+        "min": 2.92,
+        "max": 142.51,
+        "mean": 8.06,
+        "median": 4.24,
+        "suggested": 3.97,
+        "quantity": 149,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "USP-S | Black Lotus (Field-Tested)",
+      "price": {
+        "min": 1.31,
+        "max": 127.2,
+        "mean": 4.41,
+        "median": 1.6,
+        "suggested": 1.7,
+        "quantity": 159,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "USP-S | Black Lotus (Well-Worn)",
+      "price": {
+        "min": 0.89,
+        "max": 2.45,
+        "mean": 1.59,
+        "median": 1.26,
+        "suggested": 1.11,
+        "quantity": 44,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "USP-S | Black Lotus (Battle-Scarred)",
+      "price": {
+        "min": 0.79,
+        "max": 120.5,
+        "mean": 3.5,
+        "median": 1.05,
+        "suggested": 0.93,
+        "quantity": 93,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "USP-S | Black Lotus (Factory New)",
+        "price": {
+          "min": 39.19,
+          "max": 281.64,
+          "mean": 65.13,
+          "median": 57.18,
+          "suggested": 62.53,
+          "quantity": 43,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "USP-S | Black Lotus (Minimal Wear)",
+        "price": {
+          "min": 2.92,
+          "max": 142.51,
+          "mean": 8.06,
+          "median": 4.24,
+          "suggested": 3.97,
+          "quantity": 149,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "USP-S | Black Lotus (Field-Tested)",
+        "price": {
+          "min": 1.31,
+          "max": 127.2,
+          "mean": 4.41,
+          "median": 1.6,
+          "suggested": 1.7,
+          "quantity": 159,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "USP-S | Black Lotus (Well-Worn)",
+        "price": {
+          "min": 0.89,
+          "max": 2.45,
+          "mean": 1.59,
+          "median": 1.26,
+          "suggested": 1.11,
+          "quantity": 44,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "USP-S | Black Lotus (Battle-Scarred)",
+        "price": {
+          "min": 0.79,
+          "max": 120.5,
+          "mean": 3.5,
+          "median": 1.05,
+          "suggested": 0.93,
+          "quantity": 93,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ USP-S | Black Lotus (Factory New)",
+        "price": {
+          "min": 37.6,
+          "max": 93.68,
+          "mean": 61.95,
+          "median": 56.25,
+          "suggested": 42.81,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ USP-S | Black Lotus (Minimal Wear)",
+        "price": {
+          "min": 8.81,
+          "max": 65.56,
+          "mean": 25.81,
+          "median": 25.38,
+          "suggested": 9.85,
+          "quantity": 40,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ USP-S | Black Lotus (Field-Tested)",
+        "price": {
+          "min": 3.73,
+          "max": 129.52,
+          "mean": 23.69,
+          "median": 4.91,
+          "suggested": 4.29,
+          "quantity": 53,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ USP-S | Black Lotus (Well-Worn)",
+        "price": {
+          "min": 2.7,
+          "max": 7.33,
+          "mean": 4.59,
+          "median": 3.44,
+          "suggested": 3.15,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ USP-S | Black Lotus (Battle-Scarred)",
+        "price": {
+          "min": 2.33,
+          "max": 72.85,
+          "mean": 7.13,
+          "median": 2.91,
+          "suggested": 2.72,
+          "quantity": 37,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir USP-S | Black Lotus (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir USP-S | Black Lotus (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir USP-S | Black Lotus (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir USP-S | Black Lotus (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir USP-S | Black Lotus (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:50.446Z"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "skin-75138a0c07b3",
+  "name": "Desert Eagle | Naga",
+  "paint_index": "397",
+  "weapon": {
+    "id": "weapon_deagle",
+    "weapon_id": 1,
+    "name": "Desert Eagle",
+    "slug": "deagle"
+  },
+  "pattern": {
+    "id": "aq_deagle_naga",
+    "name": "Naga"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. It has been engraved with a mythological motif.\\n\\n<i>A beast in Indian mythology as well as on the battlefield</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 52.91,
+      "max": 189.91,
+      "mean": 73.86,
+      "median": 65.9,
+      "suggested": 56.27,
+      "quantity": 13,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 5.46,
+      "max": 192.43,
+      "mean": 74.6,
+      "median": 57.49,
+      "suggested": 6.17,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.38,
+      "max": 64.43,
+      "mean": 5.94,
+      "median": 2.71,
+      "suggested": 3.15,
+      "quantity": 35,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.95,
+      "max": 86.49,
+      "mean": 5.79,
+      "median": 2.72,
+      "suggested": 2.57,
+      "quantity": 34,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 2.21,
+      "max": 3.12,
+      "mean": 2.5,
+      "median": 2.39,
+      "suggested": 2.57,
+      "quantity": 10,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Desert Eagle | Naga (Factory New)",
+      "price": {
+        "min": 52.91,
+        "max": 189.91,
+        "mean": 73.86,
+        "median": 65.9,
+        "suggested": 56.27,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Desert Eagle | Naga (Minimal Wear)",
+      "price": {
+        "min": 5.46,
+        "max": 192.43,
+        "mean": 74.6,
+        "median": 57.49,
+        "suggested": 6.17,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Desert Eagle | Naga (Field-Tested)",
+      "price": {
+        "min": 2.38,
+        "max": 64.43,
+        "mean": 5.94,
+        "median": 2.71,
+        "suggested": 3.15,
+        "quantity": 35,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Desert Eagle | Naga (Well-Worn)",
+      "price": {
+        "min": 1.95,
+        "max": 86.49,
+        "mean": 5.79,
+        "median": 2.72,
+        "suggested": 2.57,
+        "quantity": 34,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Desert Eagle | Naga (Battle-Scarred)",
+      "price": {
+        "min": 2.21,
+        "max": 3.12,
+        "mean": 2.5,
+        "median": 2.39,
+        "suggested": 2.57,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Desert Eagle | Naga (Factory New)",
+        "price": {
+          "min": 52.91,
+          "max": 189.91,
+          "mean": 73.86,
+          "median": 65.9,
+          "suggested": 56.27,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Desert Eagle | Naga (Minimal Wear)",
+        "price": {
+          "min": 5.46,
+          "max": 192.43,
+          "mean": 74.6,
+          "median": 57.49,
+          "suggested": 6.17,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Desert Eagle | Naga (Field-Tested)",
+        "price": {
+          "min": 2.38,
+          "max": 64.43,
+          "mean": 5.94,
+          "median": 2.71,
+          "suggested": 3.15,
+          "quantity": 35,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Desert Eagle | Naga (Well-Worn)",
+        "price": {
+          "min": 1.95,
+          "max": 86.49,
+          "mean": 5.79,
+          "median": 2.72,
+          "suggested": 2.57,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Desert Eagle | Naga (Battle-Scarred)",
+        "price": {
+          "min": 2.21,
+          "max": 3.12,
+          "mean": 2.5,
+          "median": 2.39,
+          "suggested": 2.57,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Naga (Factory New)",
+        "price": {
+          "min": 31.45,
+          "max": 50.06,
+          "mean": 38.52,
+          "median": 37.05,
+          "suggested": 32.4,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Naga (Minimal Wear)",
+        "price": {
+          "min": 7.78,
+          "max": 141.2,
+          "mean": 22.43,
+          "median": 10.35,
+          "suggested": 9.93,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Naga (Field-Tested)",
+        "price": {
+          "min": 4.64,
+          "max": 128.35,
+          "mean": 23.3,
+          "median": 6.57,
+          "suggested": 5.57,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Naga (Well-Worn)",
+        "price": {
+          "min": 4.24,
+          "max": 50.18,
+          "mean": 9.38,
+          "median": 4.67,
+          "suggested": 4.95,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Desert Eagle | Naga (Battle-Scarred)",
+        "price": {
+          "min": 4.06,
+          "max": 133.02,
+          "mean": 12.54,
+          "median": 4.34,
+          "suggested": 5.02,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Desert Eagle | Naga (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Desert Eagle | Naga (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Desert Eagle | Naga (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Desert Eagle | Naga (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Desert Eagle | Naga (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:28.134Z"
+}

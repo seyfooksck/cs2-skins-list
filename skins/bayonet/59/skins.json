@@ -1,0 +1,193 @@
+{
+  "id": "skin-8084beee1235",
+  "name": "★ Bayonet | Slaughter",
+  "paint_index": "59",
+  "weapon": {
+    "id": "weapon_bayonet",
+    "weapon_id": 500,
+    "name": "Bayonet",
+    "slug": "bayonet"
+  },
+  "pattern": {
+    "id": "am_zebra",
+    "name": "Slaughter"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.01,
+  "max_float": 0.26,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Relatively unchanged in its design since World War II, the bayonet still retains a place in modern military strategy. Bayonet charges have continued to be effective as recently as the second Gulf War and the war in Afghanistan. It has been painted in a zebra-stripe pattern with aluminum and chrome paints with various reflectivities, and has then been covered with a tomato red candy coat.\\n\\n<i>Valeria doesn't pay Javier to ask questions... she pays him to pry out answers</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 399.08,
+      "max": 700.16,
+      "mean": 488.29,
+      "median": 454.52,
+      "suggested": 462.34,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 338.88,
+      "max": 408.26,
+      "mean": 358.51,
+      "median": 347.74,
+      "suggested": 423.86,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 313.91,
+      "max": 313.91,
+      "mean": 313.91,
+      "median": 313.91,
+      "suggested": 382.44,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Bayonet | Slaughter (Factory New)",
+      "price": {
+        "min": 399.08,
+        "max": 700.16,
+        "mean": 488.29,
+        "median": 454.52,
+        "suggested": 462.34,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Bayonet | Slaughter (Minimal Wear)",
+      "price": {
+        "min": 338.88,
+        "max": 408.26,
+        "mean": 358.51,
+        "median": 347.74,
+        "suggested": 423.86,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Bayonet | Slaughter (Field-Tested)",
+      "price": {
+        "min": 313.91,
+        "max": 313.91,
+        "mean": 313.91,
+        "median": 313.91,
+        "suggested": 382.44,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Bayonet | Slaughter (Factory New)",
+        "price": {
+          "min": 399.08,
+          "max": 700.16,
+          "mean": 488.29,
+          "median": 454.52,
+          "suggested": 462.34,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Bayonet | Slaughter (Minimal Wear)",
+        "price": {
+          "min": 338.88,
+          "max": 408.26,
+          "mean": 358.51,
+          "median": 347.74,
+          "suggested": 423.86,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Bayonet | Slaughter (Field-Tested)",
+        "price": {
+          "min": 313.91,
+          "max": 313.91,
+          "mean": 313.91,
+          "median": 313.91,
+          "suggested": 382.44,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Slaughter (Factory New)",
+        "price": {
+          "min": 512.08,
+          "max": 583.47,
+          "mean": 547.77,
+          "median": 547.77,
+          "suggested": 538.72,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Slaughter (Minimal Wear)",
+        "price": {
+          "min": 402.59,
+          "max": 408.43,
+          "mean": 405.51,
+          "median": 405.51,
+          "suggested": 429.66,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ StatTrak™ Bayonet | Slaughter (Field-Tested)",
+        "price": {
+          "min": 431.77,
+          "max": 431.77,
+          "mean": 431.77,
+          "median": 431.77,
+          "suggested": 458.74,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:26.620Z"
+}

@@ -1,0 +1,289 @@
+{
+  "id": "skin-cf50b5bef61d",
+  "name": "Five-SeveN | Coolant",
+  "paint_index": "784",
+  "weapon": {
+    "id": "weapon_fiveseven",
+    "weapon_id": 3,
+    "name": "Five-SeveN",
+    "slug": "fiveseven"
+  },
+  "pattern": {
+    "id": "hy_ducts_green",
+    "name": "Coolant"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. The slide features a teal hydrographic pattern of interweaving pipes.\\n\\n<i>A handheld heat rejection device</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.08,
+      "max": 23.33,
+      "mean": 3.26,
+      "median": 0.23,
+      "suggested": 0.1,
+      "quantity": 769,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.04,
+      "max": 6.17,
+      "mean": 0.15,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 1380,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.02,
+      "max": 6.34,
+      "mean": 0.07,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 6782,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.02,
+      "max": 1.75,
+      "mean": 0.05,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 571,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.02,
+      "max": 5.83,
+      "mean": 0.08,
+      "median": 0.04,
+      "suggested": 0.03,
+      "quantity": 245,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Five-SeveN | Coolant (Factory New)",
+      "price": {
+        "min": 0.08,
+        "max": 23.33,
+        "mean": 3.26,
+        "median": 0.23,
+        "suggested": 0.1,
+        "quantity": 769,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Five-SeveN | Coolant (Minimal Wear)",
+      "price": {
+        "min": 0.04,
+        "max": 6.17,
+        "mean": 0.15,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 1380,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Five-SeveN | Coolant (Field-Tested)",
+      "price": {
+        "min": 0.02,
+        "max": 6.34,
+        "mean": 0.07,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 6782,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Five-SeveN | Coolant (Well-Worn)",
+      "price": {
+        "min": 0.02,
+        "max": 1.75,
+        "mean": 0.05,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 571,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Five-SeveN | Coolant (Battle-Scarred)",
+      "price": {
+        "min": 0.02,
+        "max": 5.83,
+        "mean": 0.08,
+        "median": 0.04,
+        "suggested": 0.03,
+        "quantity": 245,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Five-SeveN | Coolant (Factory New)",
+        "price": {
+          "min": 0.08,
+          "max": 23.33,
+          "mean": 3.26,
+          "median": 0.23,
+          "suggested": 0.1,
+          "quantity": 769,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Five-SeveN | Coolant (Minimal Wear)",
+        "price": {
+          "min": 0.04,
+          "max": 6.17,
+          "mean": 0.15,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 1380,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Five-SeveN | Coolant (Field-Tested)",
+        "price": {
+          "min": 0.02,
+          "max": 6.34,
+          "mean": 0.07,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 6782,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Five-SeveN | Coolant (Well-Worn)",
+        "price": {
+          "min": 0.02,
+          "max": 1.75,
+          "mean": 0.05,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 571,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Five-SeveN | Coolant (Battle-Scarred)",
+        "price": {
+          "min": 0.02,
+          "max": 5.83,
+          "mean": 0.08,
+          "median": 0.04,
+          "suggested": 0.03,
+          "quantity": 245,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Five-SeveN | Coolant (Factory New)",
+        "price": {
+          "min": 0.53,
+          "max": 303.05,
+          "mean": 8.67,
+          "median": 2.98,
+          "suggested": 0.65,
+          "quantity": 92,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Five-SeveN | Coolant (Minimal Wear)",
+        "price": {
+          "min": 0.18,
+          "max": 23.34,
+          "mean": 2.8,
+          "median": 2.36,
+          "suggested": 0.22,
+          "quantity": 108,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Five-SeveN | Coolant (Field-Tested)",
+        "price": {
+          "min": 0.06,
+          "max": 17.5,
+          "mean": 2.32,
+          "median": 1.18,
+          "suggested": 0.07,
+          "quantity": 104,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Five-SeveN | Coolant (Well-Worn)",
+        "price": {
+          "min": 0.09,
+          "max": 23.7,
+          "mean": 3.71,
+          "median": 0.28,
+          "suggested": 0.09,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Five-SeveN | Coolant (Battle-Scarred)",
+        "price": {
+          "min": 0.29,
+          "max": 15.17,
+          "mean": 2.23,
+          "median": 0.67,
+          "suggested": 0.17,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:30.227Z"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "skin-75edb16f0014",
+  "name": "P2000 | Lifted Spirits",
+  "paint_index": "1138",
+  "weapon": {
+    "id": "weapon_hkp2000",
+    "weapon_id": 32,
+    "name": "P2000",
+    "slug": "hkp2000"
+  },
+  "pattern": {
+    "id": "cu_p2k_flying_dream",
+    "name": "Lifted Spirits"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Accurate and controllable, the German-made P2000 is a serviceable first-round pistol that works best against unarmored opponents. It has been custom painted with a forest beneath ascending bodies.\\n\\n<i>Many lost souls do not wish to be found</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1.05,
+      "max": 35,
+      "mean": 5.61,
+      "median": 2.52,
+      "suggested": 1.44,
+      "quantity": 53,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.15,
+      "max": 2.45,
+      "mean": 0.25,
+      "median": 0.23,
+      "suggested": 0.24,
+      "quantity": 497,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.07,
+      "max": 4.1,
+      "mean": 0.15,
+      "median": 0.11,
+      "suggested": 0.1,
+      "quantity": 1046,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.06,
+      "max": 3.07,
+      "mean": 0.12,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 834,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.06,
+      "max": 5.64,
+      "mean": 0.14,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 491,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P2000 | Lifted Spirits (Factory New)",
+      "price": {
+        "min": 1.05,
+        "max": 35,
+        "mean": 5.61,
+        "median": 2.52,
+        "suggested": 1.44,
+        "quantity": 53,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P2000 | Lifted Spirits (Minimal Wear)",
+      "price": {
+        "min": 0.15,
+        "max": 2.45,
+        "mean": 0.25,
+        "median": 0.23,
+        "suggested": 0.24,
+        "quantity": 497,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P2000 | Lifted Spirits (Field-Tested)",
+      "price": {
+        "min": 0.07,
+        "max": 4.1,
+        "mean": 0.15,
+        "median": 0.11,
+        "suggested": 0.1,
+        "quantity": 1046,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P2000 | Lifted Spirits (Well-Worn)",
+      "price": {
+        "min": 0.06,
+        "max": 3.07,
+        "mean": 0.12,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 834,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P2000 | Lifted Spirits (Battle-Scarred)",
+      "price": {
+        "min": 0.06,
+        "max": 5.64,
+        "mean": 0.14,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 491,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P2000 | Lifted Spirits (Factory New)",
+        "price": {
+          "min": 1.05,
+          "max": 35,
+          "mean": 5.61,
+          "median": 2.52,
+          "suggested": 1.44,
+          "quantity": 53,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P2000 | Lifted Spirits (Minimal Wear)",
+        "price": {
+          "min": 0.15,
+          "max": 2.45,
+          "mean": 0.25,
+          "median": 0.23,
+          "suggested": 0.24,
+          "quantity": 497,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P2000 | Lifted Spirits (Field-Tested)",
+        "price": {
+          "min": 0.07,
+          "max": 4.1,
+          "mean": 0.15,
+          "median": 0.11,
+          "suggested": 0.1,
+          "quantity": 1046,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P2000 | Lifted Spirits (Well-Worn)",
+        "price": {
+          "min": 0.06,
+          "max": 3.07,
+          "mean": 0.12,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 834,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "P2000 | Lifted Spirits (Battle-Scarred)",
+        "price": {
+          "min": 0.06,
+          "max": 5.64,
+          "mean": 0.14,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 491,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P2000 | Lifted Spirits (Factory New)",
+        "price": {
+          "min": 0.91,
+          "max": 35.74,
+          "mean": 4.08,
+          "median": 1.12,
+          "suggested": 1.05,
+          "quantity": 41,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P2000 | Lifted Spirits (Minimal Wear)",
+        "price": {
+          "min": 0.19,
+          "max": 11.94,
+          "mean": 0.33,
+          "median": 0.25,
+          "suggested": 0.25,
+          "quantity": 143,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P2000 | Lifted Spirits (Field-Tested)",
+        "price": {
+          "min": 0.08,
+          "max": 1.2,
+          "mean": 0.14,
+          "median": 0.13,
+          "suggested": 0.1,
+          "quantity": 238,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ P2000 | Lifted Spirits (Well-Worn)",
+        "price": {
+          "min": 0.07,
+          "max": 1.16,
+          "mean": 0.12,
+          "median": 0.12,
+          "suggested": 0.1,
+          "quantity": 189,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ P2000 | Lifted Spirits (Battle-Scarred)",
+        "price": {
+          "min": 0.08,
+          "max": 7.57,
+          "mean": 0.32,
+          "median": 0.13,
+          "suggested": 0.12,
+          "quantity": 118,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P2000 | Lifted Spirits (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P2000 | Lifted Spirits (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P2000 | Lifted Spirits (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P2000 | Lifted Spirits (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P2000 | Lifted Spirits (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:32.588Z"
+}

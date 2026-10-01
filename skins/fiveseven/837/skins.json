@@ -1,0 +1,302 @@
+{
+  "id": "skin-f971772d4996",
+  "name": "Five-SeveN | Angry Mob",
+  "paint_index": "837",
+  "weapon": {
+    "id": "weapon_fiveseven",
+    "weapon_id": 3,
+    "name": "Five-SeveN",
+    "slug": "fiveseven"
+  },
+  "pattern": {
+    "id": "cu_five_seven_angry",
+    "name": "Angry Mob"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. A brightly colored paint job inspired by street art has been applied.\\n\\n<i>\\\"Inside voices, please\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 84.01,
+      "max": 583.47,
+      "mean": 160.3,
+      "median": 126.9,
+      "suggested": 106.24,
+      "quantity": 28,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 59.25,
+      "max": 784.42,
+      "mean": 83.65,
+      "median": 70.05,
+      "suggested": 81.03,
+      "quantity": 76,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 52.51,
+      "max": 216.91,
+      "mean": 66.96,
+      "median": 64.18,
+      "suggested": 73.39,
+      "quantity": 144,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 56.75,
+      "max": 70.25,
+      "mean": 64.33,
+      "median": 66.14,
+      "suggested": 72.01,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 53.64,
+      "max": 72.16,
+      "mean": 62.99,
+      "median": 62.61,
+      "suggested": 77.32,
+      "quantity": 19,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Five-SeveN | Angry Mob (Factory New)",
+      "price": {
+        "min": 84.01,
+        "max": 583.47,
+        "mean": 160.3,
+        "median": 126.9,
+        "suggested": 106.24,
+        "quantity": 28,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Five-SeveN | Angry Mob (Minimal Wear)",
+      "price": {
+        "min": 59.25,
+        "max": 784.42,
+        "mean": 83.65,
+        "median": 70.05,
+        "suggested": 81.03,
+        "quantity": 76,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Five-SeveN | Angry Mob (Field-Tested)",
+      "price": {
+        "min": 52.51,
+        "max": 216.91,
+        "mean": 66.96,
+        "median": 64.18,
+        "suggested": 73.39,
+        "quantity": 144,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Five-SeveN | Angry Mob (Well-Worn)",
+      "price": {
+        "min": 56.75,
+        "max": 70.25,
+        "mean": 64.33,
+        "median": 66.14,
+        "suggested": 72.01,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Five-SeveN | Angry Mob (Battle-Scarred)",
+      "price": {
+        "min": 53.64,
+        "max": 72.16,
+        "mean": 62.99,
+        "median": 62.61,
+        "suggested": 77.32,
+        "quantity": 19,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Five-SeveN | Angry Mob (Factory New)",
+        "price": {
+          "min": 84.01,
+          "max": 583.47,
+          "mean": 160.3,
+          "median": 126.9,
+          "suggested": 106.24,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Five-SeveN | Angry Mob (Minimal Wear)",
+        "price": {
+          "min": 59.25,
+          "max": 784.42,
+          "mean": 83.65,
+          "median": 70.05,
+          "suggested": 81.03,
+          "quantity": 76,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Five-SeveN | Angry Mob (Field-Tested)",
+        "price": {
+          "min": 52.51,
+          "max": 216.91,
+          "mean": 66.96,
+          "median": 64.18,
+          "suggested": 73.39,
+          "quantity": 144,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Five-SeveN | Angry Mob (Well-Worn)",
+        "price": {
+          "min": 56.75,
+          "max": 70.25,
+          "mean": 64.33,
+          "median": 66.14,
+          "suggested": 72.01,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Five-SeveN | Angry Mob (Battle-Scarred)",
+        "price": {
+          "min": 53.64,
+          "max": 72.16,
+          "mean": 62.99,
+          "median": 62.61,
+          "suggested": 77.32,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Angry Mob (Factory New)",
+        "price": {
+          "min": 88.8,
+          "max": 105.02,
+          "mean": 98.97,
+          "median": 100.89,
+          "suggested": 107.69,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Angry Mob (Minimal Wear)",
+        "price": {
+          "min": 59.44,
+          "max": 90.23,
+          "mean": 72.74,
+          "median": 70.6,
+          "suggested": 82.93,
+          "quantity": 22,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Angry Mob (Field-Tested)",
+        "price": {
+          "min": 53.56,
+          "max": 87.52,
+          "mean": 63.89,
+          "median": 63.17,
+          "suggested": 75.03,
+          "quantity": 45,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Angry Mob (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Angry Mob (Battle-Scarred)",
+        "price": {
+          "min": 59,
+          "max": 66.57,
+          "mean": 62.83,
+          "median": 64.24,
+          "suggested": 67.92,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Five-SeveN | Angry Mob (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Five-SeveN | Angry Mob (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Five-SeveN | Angry Mob (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Five-SeveN | Angry Mob (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Five-SeveN | Angry Mob (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:29.983Z"
+}

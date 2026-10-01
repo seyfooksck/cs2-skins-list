@@ -1,0 +1,204 @@
+{
+  "id": "skin-510d868c343b",
+  "name": "★ Moto Gloves | Cool Mint",
+  "paint_index": "10028",
+  "weapon": {
+    "id": "motorcycle_gloves",
+    "weapon_id": 5033,
+    "name": "Moto Gloves",
+    "slug": "motorcycle_gloves"
+  },
+  "pattern": {
+    "id": "motorcycle_triangle_blue",
+    "name": "Cool Mint"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_gloves",
+    "name": "Gloves"
+  },
+  "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "These bulky hard knuckled gloves can protect the wearers hands from road rash at 60 mph. The soft blue leather has been accented with arctic colored geometric designs.\\n\\n<i>Combat has never felt so refreshing.</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 1587,
+      "max": 2560.37,
+      "mean": 2073.68,
+      "median": 2073.68,
+      "suggested": 1687.27,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1925.45,
+      "max": 2206.5,
+      "mean": 2065.98,
+      "median": 2065.98,
+      "suggested": 1437.55,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 431.77,
+      "max": 688.76,
+      "mean": 525.04,
+      "median": 454.58,
+      "suggested": 437.19,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 164.57,
+      "max": 278.9,
+      "mean": 218.79,
+      "median": 212.91,
+      "suggested": 205.39,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Moto Gloves | Cool Mint (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Moto Gloves | Cool Mint (Minimal Wear)",
+      "price": {
+        "min": 1587,
+        "max": 2560.37,
+        "mean": 2073.68,
+        "median": 2073.68,
+        "suggested": 1687.27,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Moto Gloves | Cool Mint (Field-Tested)",
+      "price": {
+        "min": 1925.45,
+        "max": 2206.5,
+        "mean": 2065.98,
+        "median": 2065.98,
+        "suggested": 1437.55,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Moto Gloves | Cool Mint (Well-Worn)",
+      "price": {
+        "min": 431.77,
+        "max": 688.76,
+        "mean": 525.04,
+        "median": 454.58,
+        "suggested": 437.19,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Moto Gloves | Cool Mint (Battle-Scarred)",
+      "price": {
+        "min": 164.57,
+        "max": 278.9,
+        "mean": 218.79,
+        "median": 212.91,
+        "suggested": 205.39,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Moto Gloves | Cool Mint (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Moto Gloves | Cool Mint (Minimal Wear)",
+        "price": {
+          "min": 1587,
+          "max": 2560.37,
+          "mean": 2073.68,
+          "median": 2073.68,
+          "suggested": 1687.27,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Moto Gloves | Cool Mint (Field-Tested)",
+        "price": {
+          "min": 1925.45,
+          "max": 2206.5,
+          "mean": 2065.98,
+          "median": 2065.98,
+          "suggested": 1437.55,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Moto Gloves | Cool Mint (Well-Worn)",
+        "price": {
+          "min": 431.77,
+          "max": 688.76,
+          "mean": 525.04,
+          "median": 454.58,
+          "suggested": 437.19,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Moto Gloves | Cool Mint (Battle-Scarred)",
+        "price": {
+          "min": 164.57,
+          "max": 278.9,
+          "mean": 218.79,
+          "median": 212.91,
+          "suggested": 205.39,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:23.282Z"
+}

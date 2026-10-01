@@ -1,0 +1,249 @@
+{
+  "id": "skin-f74957f8857b",
+  "name": "Tec-9 | Safety Net",
+  "paint_index": "795",
+  "weapon": {
+    "id": "weapon_tec9",
+    "weapon_id": 30,
+    "name": "Tec-9",
+    "slug": "tec9"
+  },
+  "pattern": {
+    "id": "hy_mesh_safetyorange",
+    "name": "Safety Net"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.6,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity. An orange mesh pattern has been applied over a white base.\\n\\n<i>Your loadout; now with high visibility</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 21.82,
+      "max": 490.11,
+      "mean": 52.02,
+      "median": 28.05,
+      "suggested": 31.77,
+      "quantity": 32,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 3.52,
+      "max": 7.22,
+      "mean": 5.8,
+      "median": 6.44,
+      "suggested": 4.05,
+      "quantity": 18,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.1,
+      "max": 40.84,
+      "mean": 4.64,
+      "median": 3.26,
+      "suggested": 2.41,
+      "quantity": 65,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 2.19,
+      "max": 7.77,
+      "mean": 3.54,
+      "median": 3.71,
+      "suggested": 2.23,
+      "quantity": 17,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.98,
+      "max": 5.87,
+      "mean": 3.91,
+      "median": 3.37,
+      "suggested": 2.18,
+      "quantity": 9,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Tec-9 | Safety Net (Factory New)",
+      "price": {
+        "min": 21.82,
+        "max": 490.11,
+        "mean": 52.02,
+        "median": 28.05,
+        "suggested": 31.77,
+        "quantity": 32,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Tec-9 | Safety Net (Minimal Wear)",
+      "price": {
+        "min": 3.52,
+        "max": 7.22,
+        "mean": 5.8,
+        "median": 6.44,
+        "suggested": 4.05,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Tec-9 | Safety Net (Field-Tested)",
+      "price": {
+        "min": 2.1,
+        "max": 40.84,
+        "mean": 4.64,
+        "median": 3.26,
+        "suggested": 2.41,
+        "quantity": 65,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Tec-9 | Safety Net (Well-Worn)",
+      "price": {
+        "min": 2.19,
+        "max": 7.77,
+        "mean": 3.54,
+        "median": 3.71,
+        "suggested": 2.23,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Tec-9 | Safety Net (Battle-Scarred)",
+      "price": {
+        "min": 1.98,
+        "max": 5.87,
+        "mean": 3.91,
+        "median": 3.37,
+        "suggested": 2.18,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Tec-9 | Safety Net (Factory New)",
+        "price": {
+          "min": 21.82,
+          "max": 490.11,
+          "mean": 52.02,
+          "median": 28.05,
+          "suggested": 31.77,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Tec-9 | Safety Net (Minimal Wear)",
+        "price": {
+          "min": 3.52,
+          "max": 7.22,
+          "mean": 5.8,
+          "median": 6.44,
+          "suggested": 4.05,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Tec-9 | Safety Net (Field-Tested)",
+        "price": {
+          "min": 2.1,
+          "max": 40.84,
+          "mean": 4.64,
+          "median": 3.26,
+          "suggested": 2.41,
+          "quantity": 65,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Tec-9 | Safety Net (Well-Worn)",
+        "price": {
+          "min": 2.19,
+          "max": 7.77,
+          "mean": 3.54,
+          "median": 3.71,
+          "suggested": 2.23,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Tec-9 | Safety Net (Battle-Scarred)",
+        "price": {
+          "min": 1.98,
+          "max": 5.87,
+          "mean": 3.91,
+          "median": 3.37,
+          "suggested": 2.18,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Tec-9 | Safety Net (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Tec-9 | Safety Net (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Tec-9 | Safety Net (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Tec-9 | Safety Net (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Tec-9 | Safety Net (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.417Z"
+}

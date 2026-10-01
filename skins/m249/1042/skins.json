@@ -1,0 +1,310 @@
+{
+  "id": "skin-c6f056b9dbbc",
+  "name": "M249 | O.S.I.P.R.",
+  "paint_index": "1042",
+  "weapon": {
+    "id": "weapon_m249",
+    "weapon_id": 14,
+    "name": "M249",
+    "slug": "m249"
+  },
+  "pattern": {
+    "id": "gs_m249_combine",
+    "name": "O.S.I.P.R."
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A strong open-area LMG, the M249 is the perfect choice for players willing to trade a slow fire rate for increased accuracy and a high ammo capacity. This M249 has been custom painted in gunmetal grey and finished with a Combine logo.\\n\\n<i>Overwatch Standard Issue Pulse Rifle</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.64,
+      "max": 152.5,
+      "mean": 7.45,
+      "median": 1.07,
+      "suggested": 0.85,
+      "quantity": 65,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.27,
+      "max": 14.59,
+      "mean": 0.58,
+      "median": 0.37,
+      "suggested": 0.36,
+      "quantity": 151,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.2,
+      "max": 9.56,
+      "mean": 0.43,
+      "median": 0.33,
+      "suggested": 0.28,
+      "quantity": 384,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.21,
+      "max": 1.83,
+      "mean": 0.67,
+      "median": 0.36,
+      "suggested": 0.29,
+      "quantity": 24,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.2,
+      "max": 6.3,
+      "mean": 1.38,
+      "median": 0.27,
+      "suggested": 0.28,
+      "quantity": 17,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M249 | O.S.I.P.R. (Factory New)",
+      "price": {
+        "min": 0.64,
+        "max": 152.5,
+        "mean": 7.45,
+        "median": 1.07,
+        "suggested": 0.85,
+        "quantity": 65,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M249 | O.S.I.P.R. (Minimal Wear)",
+      "price": {
+        "min": 0.27,
+        "max": 14.59,
+        "mean": 0.58,
+        "median": 0.37,
+        "suggested": 0.36,
+        "quantity": 151,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M249 | O.S.I.P.R. (Field-Tested)",
+      "price": {
+        "min": 0.2,
+        "max": 9.56,
+        "mean": 0.43,
+        "median": 0.33,
+        "suggested": 0.28,
+        "quantity": 384,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M249 | O.S.I.P.R. (Well-Worn)",
+      "price": {
+        "min": 0.21,
+        "max": 1.83,
+        "mean": 0.67,
+        "median": 0.36,
+        "suggested": 0.29,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M249 | O.S.I.P.R. (Battle-Scarred)",
+      "price": {
+        "min": 0.2,
+        "max": 6.3,
+        "mean": 1.38,
+        "median": 0.27,
+        "suggested": 0.28,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M249 | O.S.I.P.R. (Factory New)",
+        "price": {
+          "min": 0.64,
+          "max": 152.5,
+          "mean": 7.45,
+          "median": 1.07,
+          "suggested": 0.85,
+          "quantity": 65,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M249 | O.S.I.P.R. (Minimal Wear)",
+        "price": {
+          "min": 0.27,
+          "max": 14.59,
+          "mean": 0.58,
+          "median": 0.37,
+          "suggested": 0.36,
+          "quantity": 151,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M249 | O.S.I.P.R. (Field-Tested)",
+        "price": {
+          "min": 0.2,
+          "max": 9.56,
+          "mean": 0.43,
+          "median": 0.33,
+          "suggested": 0.28,
+          "quantity": 384,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M249 | O.S.I.P.R. (Well-Worn)",
+        "price": {
+          "min": 0.21,
+          "max": 1.83,
+          "mean": 0.67,
+          "median": 0.36,
+          "suggested": 0.29,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M249 | O.S.I.P.R. (Battle-Scarred)",
+        "price": {
+          "min": 0.2,
+          "max": 6.3,
+          "mean": 1.38,
+          "median": 0.27,
+          "suggested": 0.28,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ M249 | O.S.I.P.R. (Factory New)",
+        "price": {
+          "min": 1.49,
+          "max": 21.64,
+          "mean": 4.36,
+          "median": 1.98,
+          "suggested": 1.73,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ M249 | O.S.I.P.R. (Minimal Wear)",
+        "price": {
+          "min": 0.64,
+          "max": 2.33,
+          "mean": 0.91,
+          "median": 0.79,
+          "suggested": 0.82,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ M249 | O.S.I.P.R. (Field-Tested)",
+        "price": {
+          "min": 0.35,
+          "max": 1.17,
+          "mean": 0.48,
+          "median": 0.46,
+          "suggested": 0.54,
+          "quantity": 149,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ M249 | O.S.I.P.R. (Well-Worn)",
+        "price": {
+          "min": 0.37,
+          "max": 0.58,
+          "mean": 0.47,
+          "median": 0.48,
+          "suggested": 0.43,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ M249 | O.S.I.P.R. (Battle-Scarred)",
+        "price": {
+          "min": 0.33,
+          "max": 3.22,
+          "mean": 0.68,
+          "median": 0.42,
+          "suggested": 0.43,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M249 | O.S.I.P.R. (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M249 | O.S.I.P.R. (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M249 | O.S.I.P.R. (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M249 | O.S.I.P.R. (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M249 | O.S.I.P.R. (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:39.798Z"
+}

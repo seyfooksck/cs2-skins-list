@@ -1,0 +1,270 @@
+{
+  "id": "skin-ebbde3e289ee",
+  "name": "P2000 | Woodsman",
+  "paint_index": "667",
+  "weapon": {
+    "id": "weapon_hkp2000",
+    "weapon_id": 32,
+    "name": "P2000",
+    "slug": "hkp2000"
+  },
+  "pattern": {
+    "id": "cu_p2000_hunter",
+    "name": "Woodsman"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.8,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Accurate and controllable, the German-made P2000 is a serviceable first-round pistol that works best against unarmored opponents. It has been hand painted with custom green camouflage and orange detailing.\\n\\n<i>\\\"The orange is for you, not me\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 38.66,
+      "max": 55.1,
+      "mean": 44.27,
+      "median": 41.67,
+      "suggested": 52.5,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 33.75,
+      "max": 59.51,
+      "mean": 46.63,
+      "median": 46.63,
+      "suggested": 34.45,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 23.12,
+      "max": 35.53,
+      "mean": 27.39,
+      "median": 25.45,
+      "suggested": 26.95,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 23.5,
+      "max": 23.5,
+      "mean": 23.5,
+      "median": 23.5,
+      "suggested": 27.22,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P2000 | Woodsman (Factory New)",
+      "price": {
+        "min": 38.66,
+        "max": 55.1,
+        "mean": 44.27,
+        "median": 41.67,
+        "suggested": 52.5,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P2000 | Woodsman (Minimal Wear)",
+      "price": {
+        "min": 33.75,
+        "max": 59.51,
+        "mean": 46.63,
+        "median": 46.63,
+        "suggested": 34.45,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P2000 | Woodsman (Field-Tested)",
+      "price": {
+        "min": 23.12,
+        "max": 35.53,
+        "mean": 27.39,
+        "median": 25.45,
+        "suggested": 26.95,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P2000 | Woodsman (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P2000 | Woodsman (Battle-Scarred)",
+      "price": {
+        "min": 23.5,
+        "max": 23.5,
+        "mean": 23.5,
+        "median": 23.5,
+        "suggested": 27.22,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P2000 | Woodsman (Factory New)",
+        "price": {
+          "min": 38.66,
+          "max": 55.1,
+          "mean": 44.27,
+          "median": 41.67,
+          "suggested": 52.5,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P2000 | Woodsman (Minimal Wear)",
+        "price": {
+          "min": 33.75,
+          "max": 59.51,
+          "mean": 46.63,
+          "median": 46.63,
+          "suggested": 34.45,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P2000 | Woodsman (Field-Tested)",
+        "price": {
+          "min": 23.12,
+          "max": 35.53,
+          "mean": 27.39,
+          "median": 25.45,
+          "suggested": 26.95,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P2000 | Woodsman (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "P2000 | Woodsman (Battle-Scarred)",
+        "price": {
+          "min": 23.5,
+          "max": 23.5,
+          "mean": 23.5,
+          "median": 23.5,
+          "suggested": 27.22,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ P2000 | Woodsman (Factory New)",
+        "price": {
+          "min": 36.97,
+          "max": 58.35,
+          "mean": 47.66,
+          "median": 47.66,
+          "suggested": 41.23,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ P2000 | Woodsman (Minimal Wear)",
+        "price": {
+          "min": 24.84,
+          "max": 27.66,
+          "mean": 26.26,
+          "median": 26.26,
+          "suggested": 28.62,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ P2000 | Woodsman (Field-Tested)",
+        "price": {
+          "min": 15.64,
+          "max": 15.64,
+          "mean": 15.64,
+          "median": 15.64,
+          "suggested": 18.2,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ P2000 | Woodsman (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ P2000 | Woodsman (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P2000 | Woodsman (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P2000 | Woodsman (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P2000 | Woodsman (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P2000 | Woodsman (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P2000 | Woodsman (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:32.522Z"
+}

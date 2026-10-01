@@ -1,0 +1,310 @@
+{
+  "id": "skin-12f67f052f95",
+  "name": "MP5-SD | Acid Wash",
+  "paint_index": "888",
+  "weapon": {
+    "id": "weapon_mp5sd",
+    "weapon_id": 23,
+    "name": "MP5-SD",
+    "slug": "mp5sd"
+  },
+  "pattern": {
+    "id": "gs_mp5_etch",
+    "name": "Acid Wash"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.68,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet. Prior to assembly its metallic blue topcoat was exposed to acid. It has been finished with brass hardware.\\n\\n<i>Black and blue and brass all over</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 3.64,
+      "max": 42.59,
+      "mean": 9.04,
+      "median": 5.3,
+      "suggested": 4.65,
+      "quantity": 38,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.24,
+      "max": 37.88,
+      "mean": 8.57,
+      "median": 3.48,
+      "suggested": 2.46,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 1.13,
+      "max": 11.67,
+      "mean": 1.96,
+      "median": 1.68,
+      "suggested": 1.58,
+      "quantity": 104,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 1.94,
+      "max": 1.95,
+      "mean": 1.95,
+      "median": 1.95,
+      "suggested": 1.34,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.95,
+      "max": 2.79,
+      "mean": 1.41,
+      "median": 1.28,
+      "suggested": 1.22,
+      "quantity": 21,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MP5-SD | Acid Wash (Factory New)",
+      "price": {
+        "min": 3.64,
+        "max": 42.59,
+        "mean": 9.04,
+        "median": 5.3,
+        "suggested": 4.65,
+        "quantity": 38,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MP5-SD | Acid Wash (Minimal Wear)",
+      "price": {
+        "min": 2.24,
+        "max": 37.88,
+        "mean": 8.57,
+        "median": 3.48,
+        "suggested": 2.46,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MP5-SD | Acid Wash (Field-Tested)",
+      "price": {
+        "min": 1.13,
+        "max": 11.67,
+        "mean": 1.96,
+        "median": 1.68,
+        "suggested": 1.58,
+        "quantity": 104,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MP5-SD | Acid Wash (Well-Worn)",
+      "price": {
+        "min": 1.94,
+        "max": 1.95,
+        "mean": 1.95,
+        "median": 1.95,
+        "suggested": 1.34,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MP5-SD | Acid Wash (Battle-Scarred)",
+      "price": {
+        "min": 0.95,
+        "max": 2.79,
+        "mean": 1.41,
+        "median": 1.28,
+        "suggested": 1.22,
+        "quantity": 21,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MP5-SD | Acid Wash (Factory New)",
+        "price": {
+          "min": 3.64,
+          "max": 42.59,
+          "mean": 9.04,
+          "median": 5.3,
+          "suggested": 4.65,
+          "quantity": 38,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MP5-SD | Acid Wash (Minimal Wear)",
+        "price": {
+          "min": 2.24,
+          "max": 37.88,
+          "mean": 8.57,
+          "median": 3.48,
+          "suggested": 2.46,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MP5-SD | Acid Wash (Field-Tested)",
+        "price": {
+          "min": 1.13,
+          "max": 11.67,
+          "mean": 1.96,
+          "median": 1.68,
+          "suggested": 1.58,
+          "quantity": 104,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MP5-SD | Acid Wash (Well-Worn)",
+        "price": {
+          "min": 1.94,
+          "max": 1.95,
+          "mean": 1.95,
+          "median": 1.95,
+          "suggested": 1.34,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MP5-SD | Acid Wash (Battle-Scarred)",
+        "price": {
+          "min": 0.95,
+          "max": 2.79,
+          "mean": 1.41,
+          "median": 1.28,
+          "suggested": 1.22,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ MP5-SD | Acid Wash (Factory New)",
+        "price": {
+          "min": 4.67,
+          "max": 29.17,
+          "mean": 10.61,
+          "median": 7.26,
+          "suggested": 4.79,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ MP5-SD | Acid Wash (Minimal Wear)",
+        "price": {
+          "min": 2.87,
+          "max": 48.21,
+          "mean": 8.71,
+          "median": 4.87,
+          "suggested": 3.3,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ MP5-SD | Acid Wash (Field-Tested)",
+        "price": {
+          "min": 1.16,
+          "max": 7.16,
+          "mean": 2.01,
+          "median": 1.65,
+          "suggested": 1.44,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ MP5-SD | Acid Wash (Well-Worn)",
+        "price": {
+          "min": 1.38,
+          "max": 10.5,
+          "mean": 3.37,
+          "median": 2.07,
+          "suggested": 1.44,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ MP5-SD | Acid Wash (Battle-Scarred)",
+        "price": {
+          "min": 1.14,
+          "max": 1.77,
+          "mean": 1.33,
+          "median": 1.37,
+          "suggested": 1.26,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MP5-SD | Acid Wash (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MP5-SD | Acid Wash (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MP5-SD | Acid Wash (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MP5-SD | Acid Wash (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MP5-SD | Acid Wash (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.684Z"
+}

@@ -1,0 +1,206 @@
+{
+  "id": "skin-592da919e2a7",
+  "name": "Five-SeveN | Kami",
+  "paint_index": "265",
+  "weapon": {
+    "id": "weapon_fiveseven",
+    "weapon_id": 3,
+    "name": "Five-SeveN",
+    "slug": "fiveseven"
+  },
+  "pattern": {
+    "id": "hy_kami",
+    "name": "Kami"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.3,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. It has been painted using a hydrographic in a Japanese manga pattern.\\n\\n<i>Some ghosts won't stay buried</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 8.01,
+      "max": 477.28,
+      "mean": 44.11,
+      "median": 12.22,
+      "suggested": 12.22,
+      "quantity": 50,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 3.84,
+      "max": 378.81,
+      "mean": 45.24,
+      "median": 12.75,
+      "suggested": 4.34,
+      "quantity": 26,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 3.28,
+      "max": 138.63,
+      "mean": 13.72,
+      "median": 4.54,
+      "suggested": 3.72,
+      "quantity": 16,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Five-SeveN | Kami (Factory New)",
+      "price": {
+        "min": 8.01,
+        "max": 477.28,
+        "mean": 44.11,
+        "median": 12.22,
+        "suggested": 12.22,
+        "quantity": 50,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Five-SeveN | Kami (Minimal Wear)",
+      "price": {
+        "min": 3.84,
+        "max": 378.81,
+        "mean": 45.24,
+        "median": 12.75,
+        "suggested": 4.34,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Five-SeveN | Kami (Field-Tested)",
+      "price": {
+        "min": 3.28,
+        "max": 138.63,
+        "mean": 13.72,
+        "median": 4.54,
+        "suggested": 3.72,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Five-SeveN | Kami (Factory New)",
+        "price": {
+          "min": 8.01,
+          "max": 477.28,
+          "mean": 44.11,
+          "median": 12.22,
+          "suggested": 12.22,
+          "quantity": 50,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Five-SeveN | Kami (Minimal Wear)",
+        "price": {
+          "min": 3.84,
+          "max": 378.81,
+          "mean": 45.24,
+          "median": 12.75,
+          "suggested": 4.34,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Five-SeveN | Kami (Field-Tested)",
+        "price": {
+          "min": 3.28,
+          "max": 138.63,
+          "mean": 13.72,
+          "median": 4.54,
+          "suggested": 3.72,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Kami (Factory New)",
+        "price": {
+          "min": 6.11,
+          "max": 873.58,
+          "mean": 59.82,
+          "median": 12.75,
+          "suggested": 7.4,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Kami (Minimal Wear)",
+        "price": {
+          "min": 3.83,
+          "max": 583.47,
+          "mean": 69.92,
+          "median": 8.81,
+          "suggested": 4.55,
+          "quantity": 31,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Five-SeveN | Kami (Field-Tested)",
+        "price": {
+          "min": 3.63,
+          "max": 1105.19,
+          "mean": 131.7,
+          "median": 7.2,
+          "suggested": 3.91,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Five-SeveN | Kami (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Five-SeveN | Kami (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Five-SeveN | Kami (Field-Tested)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:30.267Z"
+}

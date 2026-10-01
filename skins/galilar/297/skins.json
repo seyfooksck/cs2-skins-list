@@ -1,0 +1,249 @@
+{
+  "id": "skin-8019620598a2",
+  "name": "Galil AR | Tuxedo",
+  "paint_index": "297",
+  "weapon": {
+    "id": "weapon_galilar",
+    "weapon_id": 13,
+    "name": "Galil AR",
+    "slug": "galilar"
+  },
+  "pattern": {
+    "id": "so_orca",
+    "name": "Tuxedo"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.8,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat. It has individual parts spray-painted solid colors in a black and white color scheme.\\n\\n<i>For when combat is a black tie affair</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 4.32,
+      "max": 233.39,
+      "mean": 10.77,
+      "median": 6.06,
+      "suggested": 5.17,
+      "quantity": 193,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 2.36,
+      "max": 8.17,
+      "mean": 3.26,
+      "median": 2.75,
+      "suggested": 2.85,
+      "quantity": 143,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.96,
+      "max": 17.49,
+      "mean": 2.36,
+      "median": 2.38,
+      "suggested": 1.18,
+      "quantity": 128,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.82,
+      "max": 3.09,
+      "mean": 1.2,
+      "median": 0.89,
+      "suggested": 1.08,
+      "quantity": 7,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.7,
+      "max": 3.5,
+      "mean": 1.69,
+      "median": 2.07,
+      "suggested": 0.68,
+      "quantity": 11,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Galil AR | Tuxedo (Factory New)",
+      "price": {
+        "min": 4.32,
+        "max": 233.39,
+        "mean": 10.77,
+        "median": 6.06,
+        "suggested": 5.17,
+        "quantity": 193,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Galil AR | Tuxedo (Minimal Wear)",
+      "price": {
+        "min": 2.36,
+        "max": 8.17,
+        "mean": 3.26,
+        "median": 2.75,
+        "suggested": 2.85,
+        "quantity": 143,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Galil AR | Tuxedo (Field-Tested)",
+      "price": {
+        "min": 0.96,
+        "max": 17.49,
+        "mean": 2.36,
+        "median": 2.38,
+        "suggested": 1.18,
+        "quantity": 128,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Galil AR | Tuxedo (Well-Worn)",
+      "price": {
+        "min": 0.82,
+        "max": 3.09,
+        "mean": 1.2,
+        "median": 0.89,
+        "suggested": 1.08,
+        "quantity": 7,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Galil AR | Tuxedo (Battle-Scarred)",
+      "price": {
+        "min": 0.7,
+        "max": 3.5,
+        "mean": 1.69,
+        "median": 2.07,
+        "suggested": 0.68,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Galil AR | Tuxedo (Factory New)",
+        "price": {
+          "min": 4.32,
+          "max": 233.39,
+          "mean": 10.77,
+          "median": 6.06,
+          "suggested": 5.17,
+          "quantity": 193,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Galil AR | Tuxedo (Minimal Wear)",
+        "price": {
+          "min": 2.36,
+          "max": 8.17,
+          "mean": 3.26,
+          "median": 2.75,
+          "suggested": 2.85,
+          "quantity": 143,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Galil AR | Tuxedo (Field-Tested)",
+        "price": {
+          "min": 0.96,
+          "max": 17.49,
+          "mean": 2.36,
+          "median": 2.38,
+          "suggested": 1.18,
+          "quantity": 128,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Galil AR | Tuxedo (Well-Worn)",
+        "price": {
+          "min": 0.82,
+          "max": 3.09,
+          "mean": 1.2,
+          "median": 0.89,
+          "suggested": 1.08,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Galil AR | Tuxedo (Battle-Scarred)",
+        "price": {
+          "min": 0.7,
+          "max": 3.5,
+          "mean": 1.69,
+          "median": 2.07,
+          "suggested": 0.68,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Galil AR | Tuxedo (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Galil AR | Tuxedo (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Galil AR | Tuxedo (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Galil AR | Tuxedo (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Galil AR | Tuxedo (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:31.277Z"
+}

@@ -1,0 +1,249 @@
+{
+  "id": "skin-be36aa1159cb",
+  "name": "Desert Eagle | Sputnik",
+  "paint_index": "1056",
+  "weapon": {
+    "id": "weapon_deagle",
+    "weapon_id": 1,
+    "name": "Desert Eagle",
+    "slug": "deagle"
+  },
+  "pattern": {
+    "id": "sp_spacerace_blue",
+    "name": "Sputnik"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. A space themed pattern consisting of stars and satellites has been applied.\\n\\n<i>Send and receive</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 19.04,
+      "max": 768.11,
+      "mean": 39.08,
+      "median": 24.41,
+      "suggested": 27.85,
+      "quantity": 88,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 3.69,
+      "max": 189.91,
+      "mean": 14.33,
+      "median": 7.81,
+      "suggested": 4.57,
+      "quantity": 80,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.04,
+      "max": 46.55,
+      "mean": 5.59,
+      "median": 5.97,
+      "suggested": 3.04,
+      "quantity": 86,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 2.35,
+      "max": 15.36,
+      "mean": 3.69,
+      "median": 2.63,
+      "suggested": 2.96,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 2.32,
+      "max": 128.35,
+      "mean": 15.17,
+      "median": 2.53,
+      "suggested": 2.95,
+      "quantity": 10,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Desert Eagle | Sputnik (Factory New)",
+      "price": {
+        "min": 19.04,
+        "max": 768.11,
+        "mean": 39.08,
+        "median": 24.41,
+        "suggested": 27.85,
+        "quantity": 88,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Desert Eagle | Sputnik (Minimal Wear)",
+      "price": {
+        "min": 3.69,
+        "max": 189.91,
+        "mean": 14.33,
+        "median": 7.81,
+        "suggested": 4.57,
+        "quantity": 80,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Desert Eagle | Sputnik (Field-Tested)",
+      "price": {
+        "min": 2.04,
+        "max": 46.55,
+        "mean": 5.59,
+        "median": 5.97,
+        "suggested": 3.04,
+        "quantity": 86,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Desert Eagle | Sputnik (Well-Worn)",
+      "price": {
+        "min": 2.35,
+        "max": 15.36,
+        "mean": 3.69,
+        "median": 2.63,
+        "suggested": 2.96,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Desert Eagle | Sputnik (Battle-Scarred)",
+      "price": {
+        "min": 2.32,
+        "max": 128.35,
+        "mean": 15.17,
+        "median": 2.53,
+        "suggested": 2.95,
+        "quantity": 10,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Desert Eagle | Sputnik (Factory New)",
+        "price": {
+          "min": 19.04,
+          "max": 768.11,
+          "mean": 39.08,
+          "median": 24.41,
+          "suggested": 27.85,
+          "quantity": 88,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Desert Eagle | Sputnik (Minimal Wear)",
+        "price": {
+          "min": 3.69,
+          "max": 189.91,
+          "mean": 14.33,
+          "median": 7.81,
+          "suggested": 4.57,
+          "quantity": 80,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Desert Eagle | Sputnik (Field-Tested)",
+        "price": {
+          "min": 2.04,
+          "max": 46.55,
+          "mean": 5.59,
+          "median": 5.97,
+          "suggested": 3.04,
+          "quantity": 86,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Desert Eagle | Sputnik (Well-Worn)",
+        "price": {
+          "min": 2.35,
+          "max": 15.36,
+          "mean": 3.69,
+          "median": 2.63,
+          "suggested": 2.96,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Desert Eagle | Sputnik (Battle-Scarred)",
+        "price": {
+          "min": 2.32,
+          "max": 128.35,
+          "mean": 15.17,
+          "median": 2.53,
+          "suggested": 2.95,
+          "quantity": 10,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Desert Eagle | Sputnik (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Desert Eagle | Sputnik (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Desert Eagle | Sputnik (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Desert Eagle | Sputnik (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Desert Eagle | Sputnik (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:28.571Z"
+}

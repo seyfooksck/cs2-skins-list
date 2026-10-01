@@ -1,0 +1,137 @@
+{
+  "id": "skin-618b9c495102",
+  "name": "★ Huntsman Knife | Marble Fade",
+  "paint_index": "413",
+  "weapon": {
+    "id": "weapon_knife_tactical",
+    "weapon_id": 509,
+    "name": "Huntsman Knife",
+    "slug": "knife_tactical"
+  },
+  "pattern": {
+    "id": "am_marble_fade",
+    "name": "Marble Fade"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_melee",
+    "name": "Knives"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A knife designed for modern tactical uses, the blade is well suited for a range of both combat and utilitarian needs.  The unique Tanto point allows for maximum penetration through even the toughest of surfaces. It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated in three colors.\\n\\n<i>The blade is made of many colors, but soon it all looks red</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 183.22,
+      "max": 816.84,
+      "mean": 256.74,
+      "median": 226.07,
+      "suggested": 249.85,
+      "quantity": 71,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 268.21,
+      "max": 401.55,
+      "mean": 334.89,
+      "median": 334.89,
+      "suggested": 343.45,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Huntsman Knife | Marble Fade (Factory New)",
+      "price": {
+        "min": 183.22,
+        "max": 816.84,
+        "mean": 256.74,
+        "median": 226.07,
+        "suggested": 249.85,
+        "quantity": 71,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Huntsman Knife | Marble Fade (Minimal Wear)",
+      "price": {
+        "min": 268.21,
+        "max": 401.55,
+        "mean": 334.89,
+        "median": 334.89,
+        "suggested": 343.45,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Huntsman Knife | Marble Fade (Factory New)",
+        "price": {
+          "min": 183.22,
+          "max": 816.84,
+          "mean": 256.74,
+          "median": 226.07,
+          "suggested": 249.85,
+          "quantity": 71,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Huntsman Knife | Marble Fade (Minimal Wear)",
+        "price": {
+          "min": 268.21,
+          "max": 401.55,
+          "mean": 334.89,
+          "median": 334.89,
+          "suggested": 343.45,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "★ StatTrak™ Huntsman Knife | Marble Fade (Factory New)",
+        "price": {
+          "min": 281.02,
+          "max": 547.29,
+          "mean": 379.14,
+          "median": 378.93,
+          "suggested": 334,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ StatTrak™ Huntsman Knife | Marble Fade (Minimal Wear)",
+        "price": null
+      }
+    },
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:38.742Z"
+}

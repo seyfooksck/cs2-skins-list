@@ -1,0 +1,310 @@
+{
+  "id": "skin-860a0652d07a",
+  "name": "AWP | PAW",
+  "paint_index": "718",
+  "weapon": {
+    "id": "weapon_awp",
+    "weapon_id": 9,
+    "name": "AWP",
+    "slug": "awp"
+  },
+  "pattern": {
+    "id": "am_awp_pawpaw",
+    "name": "PAW"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. A pattern of felines, K-9s, and a creature with a red scarf has been applied.\\n\\n<i>Kill rewards paid in scratching posts and tennis balls</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 8.71,
+      "max": 291.73,
+      "mean": 25.44,
+      "median": 14.72,
+      "suggested": 12.82,
+      "quantity": 175,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 3.8,
+      "max": 218.22,
+      "mean": 11.65,
+      "median": 5.9,
+      "suggested": 4.73,
+      "quantity": 191,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.12,
+      "max": 130.41,
+      "mean": 6.22,
+      "median": 2.94,
+      "suggested": 2.89,
+      "quantity": 160,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 2.46,
+      "max": 11.67,
+      "mean": 3.51,
+      "median": 2.99,
+      "suggested": 2.74,
+      "quantity": 29,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.94,
+      "max": 35,
+      "mean": 8.46,
+      "median": 2.74,
+      "suggested": 2.8,
+      "quantity": 12,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AWP | PAW (Factory New)",
+      "price": {
+        "min": 8.71,
+        "max": 291.73,
+        "mean": 25.44,
+        "median": 14.72,
+        "suggested": 12.82,
+        "quantity": 175,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AWP | PAW (Minimal Wear)",
+      "price": {
+        "min": 3.8,
+        "max": 218.22,
+        "mean": 11.65,
+        "median": 5.9,
+        "suggested": 4.73,
+        "quantity": 191,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AWP | PAW (Field-Tested)",
+      "price": {
+        "min": 2.12,
+        "max": 130.41,
+        "mean": 6.22,
+        "median": 2.94,
+        "suggested": 2.89,
+        "quantity": 160,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AWP | PAW (Well-Worn)",
+      "price": {
+        "min": 2.46,
+        "max": 11.67,
+        "mean": 3.51,
+        "median": 2.99,
+        "suggested": 2.74,
+        "quantity": 29,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AWP | PAW (Battle-Scarred)",
+      "price": {
+        "min": 1.94,
+        "max": 35,
+        "mean": 8.46,
+        "median": 2.74,
+        "suggested": 2.8,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AWP | PAW (Factory New)",
+        "price": {
+          "min": 8.71,
+          "max": 291.73,
+          "mean": 25.44,
+          "median": 14.72,
+          "suggested": 12.82,
+          "quantity": 175,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AWP | PAW (Minimal Wear)",
+        "price": {
+          "min": 3.8,
+          "max": 218.22,
+          "mean": 11.65,
+          "median": 5.9,
+          "suggested": 4.73,
+          "quantity": 191,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AWP | PAW (Field-Tested)",
+        "price": {
+          "min": 2.12,
+          "max": 130.41,
+          "mean": 6.22,
+          "median": 2.94,
+          "suggested": 2.89,
+          "quantity": 160,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AWP | PAW (Well-Worn)",
+        "price": {
+          "min": 2.46,
+          "max": 11.67,
+          "mean": 3.51,
+          "median": 2.99,
+          "suggested": 2.74,
+          "quantity": 29,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AWP | PAW (Battle-Scarred)",
+        "price": {
+          "min": 1.94,
+          "max": 35,
+          "mean": 8.46,
+          "median": 2.74,
+          "suggested": 2.8,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ AWP | PAW (Factory New)",
+        "price": {
+          "min": 15.1,
+          "max": 144,
+          "mean": 31.31,
+          "median": 18.2,
+          "suggested": 18.27,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ AWP | PAW (Minimal Wear)",
+        "price": {
+          "min": 7.92,
+          "max": 116.69,
+          "mean": 16.98,
+          "median": 10.6,
+          "suggested": 9.72,
+          "quantity": 35,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ AWP | PAW (Field-Tested)",
+        "price": {
+          "min": 4.68,
+          "max": 58.35,
+          "mean": 11.91,
+          "median": 7.52,
+          "suggested": 6.28,
+          "quantity": 51,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ AWP | PAW (Well-Worn)",
+        "price": {
+          "min": 7.18,
+          "max": 102.41,
+          "mean": 33.86,
+          "median": 12.93,
+          "suggested": 7.09,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ AWP | PAW (Battle-Scarred)",
+        "price": {
+          "min": 6.31,
+          "max": 18.66,
+          "mean": 8.72,
+          "median": 7.38,
+          "suggested": 7.88,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AWP | PAW (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AWP | PAW (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AWP | PAW (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AWP | PAW (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AWP | PAW (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:25.763Z"
+}

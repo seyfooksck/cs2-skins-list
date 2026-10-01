@@ -1,0 +1,281 @@
+{
+  "id": "skin-0ac8d26ea3c5",
+  "name": "XM1014 | Monster Melt",
+  "paint_index": "146",
+  "weapon": {
+    "id": "weapon_xm1014",
+    "weapon_id": 25,
+    "name": "XM1014",
+    "slug": "xm1014"
+  },
+  "pattern": {
+    "id": "cu_overpass_monsters_xm",
+    "name": "Monster Melt"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.75,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The XM1014 is a powerful fully automatic shotgun that justifies its heftier price tag with the ability to paint a room with lead fast. A collection of monsters has been custom painted on both sides of this XM1014.\\n\\n<i>\\\"Best to not check the other side\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 9.23,
+      "max": 291.73,
+      "mean": 33.08,
+      "median": 24.47,
+      "suggested": 12.48,
+      "quantity": 116,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 5.04,
+      "max": 54.99,
+      "mean": 13.58,
+      "median": 10.21,
+      "suggested": 5.93,
+      "quantity": 84,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 2.53,
+      "max": 126.03,
+      "mean": 7.61,
+      "median": 3.15,
+      "suggested": 3.19,
+      "quantity": 103,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 2.45,
+      "max": 115.53,
+      "mean": 11.74,
+      "median": 2.68,
+      "suggested": 2.81,
+      "quantity": 14,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 1.9,
+      "max": 21.39,
+      "mean": 5.36,
+      "median": 3.7,
+      "suggested": 2.18,
+      "quantity": 28,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "XM1014 | Monster Melt (Factory New)",
+      "price": {
+        "min": 9.23,
+        "max": 291.73,
+        "mean": 33.08,
+        "median": 24.47,
+        "suggested": 12.48,
+        "quantity": 116,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "XM1014 | Monster Melt (Minimal Wear)",
+      "price": {
+        "min": 5.04,
+        "max": 54.99,
+        "mean": 13.58,
+        "median": 10.21,
+        "suggested": 5.93,
+        "quantity": 84,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "XM1014 | Monster Melt (Field-Tested)",
+      "price": {
+        "min": 2.53,
+        "max": 126.03,
+        "mean": 7.61,
+        "median": 3.15,
+        "suggested": 3.19,
+        "quantity": 103,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "XM1014 | Monster Melt (Well-Worn)",
+      "price": {
+        "min": 2.45,
+        "max": 115.53,
+        "mean": 11.74,
+        "median": 2.68,
+        "suggested": 2.81,
+        "quantity": 14,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "XM1014 | Monster Melt (Battle-Scarred)",
+      "price": {
+        "min": 1.9,
+        "max": 21.39,
+        "mean": 5.36,
+        "median": 3.7,
+        "suggested": 2.18,
+        "quantity": 28,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "XM1014 | Monster Melt (Factory New)",
+        "price": {
+          "min": 9.23,
+          "max": 291.73,
+          "mean": 33.08,
+          "median": 24.47,
+          "suggested": 12.48,
+          "quantity": 116,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "XM1014 | Monster Melt (Minimal Wear)",
+        "price": {
+          "min": 5.04,
+          "max": 54.99,
+          "mean": 13.58,
+          "median": 10.21,
+          "suggested": 5.93,
+          "quantity": 84,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "XM1014 | Monster Melt (Field-Tested)",
+        "price": {
+          "min": 2.53,
+          "max": 126.03,
+          "mean": 7.61,
+          "median": 3.15,
+          "suggested": 3.19,
+          "quantity": 103,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "XM1014 | Monster Melt (Well-Worn)",
+        "price": {
+          "min": 2.45,
+          "max": 115.53,
+          "mean": 11.74,
+          "median": 2.68,
+          "suggested": 2.81,
+          "quantity": 14,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "XM1014 | Monster Melt (Battle-Scarred)",
+        "price": {
+          "min": 1.9,
+          "max": 21.39,
+          "mean": 5.36,
+          "median": 3.7,
+          "suggested": 2.18,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir XM1014 | Monster Melt (Factory New)",
+        "price": {
+          "min": 23.32,
+          "max": 29.35,
+          "mean": 26.15,
+          "median": 25.96,
+          "suggested": 16.95,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Souvenir XM1014 | Monster Melt (Minimal Wear)",
+        "price": {
+          "min": 6.41,
+          "max": 20.07,
+          "mean": 10.65,
+          "median": 9.91,
+          "suggested": 6.19,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir XM1014 | Monster Melt (Field-Tested)",
+        "price": {
+          "min": 4.48,
+          "max": 8.03,
+          "mean": 6.3,
+          "median": 6.98,
+          "suggested": 3.96,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir XM1014 | Monster Melt (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir XM1014 | Monster Melt (Battle-Scarred)",
+        "price": {
+          "min": 4.08,
+          "max": 4.08,
+          "mean": 4.08,
+          "median": 4.08,
+          "suggested": 3.71,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:51.151Z"
+}

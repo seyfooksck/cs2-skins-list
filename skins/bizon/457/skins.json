@@ -1,0 +1,225 @@
+{
+  "id": "skin-768cf60065ba",
+  "name": "PP-Bizon | Bamboo Print",
+  "paint_index": "457",
+  "weapon": {
+    "id": "weapon_bizon",
+    "weapon_id": 26,
+    "name": "PP-Bizon",
+    "slug": "bizon"
+  },
+  "pattern": {
+    "id": "hy_bamboo_jungle_ink",
+    "name": "Bamboo Print"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_common_weapon",
+    "name": "Consumer Grade",
+    "color": "#b0c3d9"
+  },
+  "min_float": 0,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly. It has been painted with a hydrographic of brush-painted bamboo.\\n\\n<i>Insert shoot pun here</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 26.05,
+      "max": 79.9,
+      "mean": 37.03,
+      "median": 30.48,
+      "suggested": 30.65,
+      "quantity": 13,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 11.09,
+      "max": 58.35,
+      "mean": 27.19,
+      "median": 13.66,
+      "suggested": 14.6,
+      "quantity": 26,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 10.25,
+      "max": 175.04,
+      "mean": 17.33,
+      "median": 11.67,
+      "suggested": 13.09,
+      "quantity": 37,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 11.09,
+      "max": 11.54,
+      "mean": 11.24,
+      "median": 11.09,
+      "suggested": 9.48,
+      "quantity": 3,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "PP-Bizon | Bamboo Print (Factory New)",
+      "price": {
+        "min": 26.05,
+        "max": 79.9,
+        "mean": 37.03,
+        "median": 30.48,
+        "suggested": 30.65,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "PP-Bizon | Bamboo Print (Minimal Wear)",
+      "price": {
+        "min": 11.09,
+        "max": 58.35,
+        "mean": 27.19,
+        "median": 13.66,
+        "suggested": 14.6,
+        "quantity": 26,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "PP-Bizon | Bamboo Print (Field-Tested)",
+      "price": {
+        "min": 10.25,
+        "max": 175.04,
+        "mean": 17.33,
+        "median": 11.67,
+        "suggested": 13.09,
+        "quantity": 37,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "PP-Bizon | Bamboo Print (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "PP-Bizon | Bamboo Print (Battle-Scarred)",
+      "price": {
+        "min": 11.09,
+        "max": 11.54,
+        "mean": 11.24,
+        "median": 11.09,
+        "suggested": 9.48,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "PP-Bizon | Bamboo Print (Factory New)",
+        "price": {
+          "min": 26.05,
+          "max": 79.9,
+          "mean": 37.03,
+          "median": 30.48,
+          "suggested": 30.65,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "PP-Bizon | Bamboo Print (Minimal Wear)",
+        "price": {
+          "min": 11.09,
+          "max": 58.35,
+          "mean": 27.19,
+          "median": 13.66,
+          "suggested": 14.6,
+          "quantity": 26,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "PP-Bizon | Bamboo Print (Field-Tested)",
+        "price": {
+          "min": 10.25,
+          "max": 175.04,
+          "mean": 17.33,
+          "median": 11.67,
+          "suggested": 13.09,
+          "quantity": 37,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "PP-Bizon | Bamboo Print (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "PP-Bizon | Bamboo Print (Battle-Scarred)",
+        "price": {
+          "min": 11.09,
+          "max": 11.54,
+          "mean": 11.24,
+          "median": 11.09,
+          "suggested": 9.48,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir PP-Bizon | Bamboo Print (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir PP-Bizon | Bamboo Print (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir PP-Bizon | Bamboo Print (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir PP-Bizon | Bamboo Print (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir PP-Bizon | Bamboo Print (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:27.129Z"
+}

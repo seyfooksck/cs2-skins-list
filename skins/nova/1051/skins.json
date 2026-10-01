@@ -1,0 +1,310 @@
+{
+  "id": "skin-0c7be2632ca1",
+  "name": "Nova | Windblown",
+  "paint_index": "1051",
+  "weapon": {
+    "id": "weapon_nova",
+    "weapon_id": 35,
+    "name": "Nova",
+    "slug": "nova"
+  },
+  "pattern": {
+    "id": "sp_nova_wind_dispersal",
+    "name": "Windblown"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Nova's rock-bottom price tag makes it a great ambush weapon for a cash-strapped team. It has been spray painted with a randomized pattern of a dandelion field.\\n\\n<i>Get off my lawn</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.63,
+      "max": 36.07,
+      "mean": 2.99,
+      "median": 0.89,
+      "suggested": 0.82,
+      "quantity": 77,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.26,
+      "max": 17.5,
+      "mean": 0.63,
+      "median": 0.36,
+      "suggested": 0.4,
+      "quantity": 228,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.28,
+      "max": 51.21,
+      "mean": 1.9,
+      "median": 0.39,
+      "suggested": 0.4,
+      "quantity": 52,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.26,
+      "max": 0.95,
+      "mean": 0.42,
+      "median": 0.37,
+      "suggested": 0.35,
+      "quantity": 69,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.27,
+      "max": 0.57,
+      "mean": 0.34,
+      "median": 0.32,
+      "suggested": 0.36,
+      "quantity": 38,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Nova | Windblown (Factory New)",
+      "price": {
+        "min": 0.63,
+        "max": 36.07,
+        "mean": 2.99,
+        "median": 0.89,
+        "suggested": 0.82,
+        "quantity": 77,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Nova | Windblown (Minimal Wear)",
+      "price": {
+        "min": 0.26,
+        "max": 17.5,
+        "mean": 0.63,
+        "median": 0.36,
+        "suggested": 0.4,
+        "quantity": 228,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Nova | Windblown (Field-Tested)",
+      "price": {
+        "min": 0.28,
+        "max": 51.21,
+        "mean": 1.9,
+        "median": 0.39,
+        "suggested": 0.4,
+        "quantity": 52,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Nova | Windblown (Well-Worn)",
+      "price": {
+        "min": 0.26,
+        "max": 0.95,
+        "mean": 0.42,
+        "median": 0.37,
+        "suggested": 0.35,
+        "quantity": 69,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Nova | Windblown (Battle-Scarred)",
+      "price": {
+        "min": 0.27,
+        "max": 0.57,
+        "mean": 0.34,
+        "median": 0.32,
+        "suggested": 0.36,
+        "quantity": 38,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Nova | Windblown (Factory New)",
+        "price": {
+          "min": 0.63,
+          "max": 36.07,
+          "mean": 2.99,
+          "median": 0.89,
+          "suggested": 0.82,
+          "quantity": 77,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Nova | Windblown (Minimal Wear)",
+        "price": {
+          "min": 0.26,
+          "max": 17.5,
+          "mean": 0.63,
+          "median": 0.36,
+          "suggested": 0.4,
+          "quantity": 228,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Nova | Windblown (Field-Tested)",
+        "price": {
+          "min": 0.28,
+          "max": 51.21,
+          "mean": 1.9,
+          "median": 0.39,
+          "suggested": 0.4,
+          "quantity": 52,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Nova | Windblown (Well-Worn)",
+        "price": {
+          "min": 0.26,
+          "max": 0.95,
+          "mean": 0.42,
+          "median": 0.37,
+          "suggested": 0.35,
+          "quantity": 69,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Nova | Windblown (Battle-Scarred)",
+        "price": {
+          "min": 0.27,
+          "max": 0.57,
+          "mean": 0.34,
+          "median": 0.32,
+          "suggested": 0.36,
+          "quantity": 38,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Nova | Windblown (Factory New)",
+        "price": {
+          "min": 1.19,
+          "max": 23.34,
+          "mean": 3.83,
+          "median": 1.51,
+          "suggested": 1.4,
+          "quantity": 47,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Nova | Windblown (Minimal Wear)",
+        "price": {
+          "min": 0.62,
+          "max": 37.34,
+          "mean": 1.3,
+          "median": 0.71,
+          "suggested": 0.86,
+          "quantity": 78,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Nova | Windblown (Field-Tested)",
+        "price": {
+          "min": 0.41,
+          "max": 3.48,
+          "mean": 0.53,
+          "median": 0.48,
+          "suggested": 0.65,
+          "quantity": 126,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Nova | Windblown (Well-Worn)",
+        "price": {
+          "min": 0.4,
+          "max": 0.68,
+          "mean": 0.49,
+          "median": 0.47,
+          "suggested": 0.52,
+          "quantity": 27,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Nova | Windblown (Battle-Scarred)",
+        "price": {
+          "min": 0.4,
+          "max": 10.09,
+          "mean": 0.91,
+          "median": 0.51,
+          "suggested": 0.46,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Nova | Windblown (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Nova | Windblown (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Nova | Windblown (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Nova | Windblown (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Nova | Windblown (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:44.894Z"
+}

@@ -1,0 +1,228 @@
+{
+  "id": "skin-560640de154c",
+  "name": "★ Specialist Gloves | Crimson Web",
+  "paint_index": "10061",
+  "weapon": {
+    "id": "specialist_gloves",
+    "weapon_id": 5034,
+    "name": "Specialist Gloves",
+    "slug": "specialist_gloves"
+  },
+  "pattern": {
+    "id": "specialist_webs_red",
+    "name": "Crimson Web"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_gloves",
+    "name": "Gloves"
+  },
+  "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Durable, breathable, and stylish; these gloves are designed to take (and give) a beating. These red and grey gloves have been printed with a rubberized webs pattern.",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1121.44,
+      "max": 1409.6,
+      "mean": 1265.52,
+      "median": 1265.52,
+      "suggested": 1315.47,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 392.59,
+      "max": 1172.77,
+      "mean": 622.6,
+      "median": 645.16,
+      "suggested": 511.07,
+      "quantity": 16,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 145.87,
+      "max": 478.43,
+      "mean": 198.18,
+      "median": 173.94,
+      "suggested": 185.55,
+      "quantity": 98,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 122.83,
+      "max": 297.57,
+      "mean": 155.68,
+      "median": 143.26,
+      "suggested": 161.09,
+      "quantity": 30,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 102.99,
+      "max": 465.61,
+      "mean": 146.59,
+      "median": 123.73,
+      "suggested": 133.15,
+      "quantity": 32,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Specialist Gloves | Crimson Web (Factory New)",
+      "price": {
+        "min": 1121.44,
+        "max": 1409.6,
+        "mean": 1265.52,
+        "median": 1265.52,
+        "suggested": 1315.47,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Specialist Gloves | Crimson Web (Minimal Wear)",
+      "price": {
+        "min": 392.59,
+        "max": 1172.77,
+        "mean": 622.6,
+        "median": 645.16,
+        "suggested": 511.07,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Specialist Gloves | Crimson Web (Field-Tested)",
+      "price": {
+        "min": 145.87,
+        "max": 478.43,
+        "mean": 198.18,
+        "median": 173.94,
+        "suggested": 185.55,
+        "quantity": 98,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Specialist Gloves | Crimson Web (Well-Worn)",
+      "price": {
+        "min": 122.83,
+        "max": 297.57,
+        "mean": 155.68,
+        "median": 143.26,
+        "suggested": 161.09,
+        "quantity": 30,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Specialist Gloves | Crimson Web (Battle-Scarred)",
+      "price": {
+        "min": 102.99,
+        "max": 465.61,
+        "mean": 146.59,
+        "median": 123.73,
+        "suggested": 133.15,
+        "quantity": 32,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Specialist Gloves | Crimson Web (Factory New)",
+        "price": {
+          "min": 1121.44,
+          "max": 1409.6,
+          "mean": 1265.52,
+          "median": 1265.52,
+          "suggested": 1315.47,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "★ Specialist Gloves | Crimson Web (Minimal Wear)",
+        "price": {
+          "min": 392.59,
+          "max": 1172.77,
+          "mean": 622.6,
+          "median": 645.16,
+          "suggested": 511.07,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Specialist Gloves | Crimson Web (Field-Tested)",
+        "price": {
+          "min": 145.87,
+          "max": 478.43,
+          "mean": 198.18,
+          "median": 173.94,
+          "suggested": 185.55,
+          "quantity": 98,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Specialist Gloves | Crimson Web (Well-Worn)",
+        "price": {
+          "min": 122.83,
+          "max": 297.57,
+          "mean": 155.68,
+          "median": 143.26,
+          "suggested": 161.09,
+          "quantity": 30,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Specialist Gloves | Crimson Web (Battle-Scarred)",
+        "price": {
+          "min": 102.99,
+          "max": 465.61,
+          "mean": 146.59,
+          "median": 123.73,
+          "suggested": 133.15,
+          "quantity": 32,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:23.830Z"
+}

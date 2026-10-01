@@ -1,0 +1,273 @@
+{
+  "id": "skin-b7fa0b0519bd",
+  "name": "MAG-7 | Bulldozer",
+  "paint_index": "39",
+  "weapon": {
+    "id": "weapon_mag7",
+    "weapon_id": 27,
+    "name": "MAG-7",
+    "slug": "mag7"
+  },
+  "pattern": {
+    "id": "so_yellow",
+    "name": "Bulldozer"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_heavy",
+    "name": "Heavy"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The CT-exclusive Mag-7 delivers a devastating amount of damage at close range. Its rapid magazine-style reloads make it a great tactical choice. It has individual parts spray-painted solid colors in a production line yellow color scheme.\\n\\n<i>This bone crusher is a devastator</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 408.43,
+      "max": 554.3,
+      "mean": 481.36,
+      "median": 481.36,
+      "suggested": 266.24,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 42.01,
+      "max": 210.05,
+      "mean": 82.28,
+      "median": 69.96,
+      "suggested": 48.42,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 16.96,
+      "max": 185.8,
+      "mean": 35.22,
+      "median": 21.59,
+      "suggested": 20.8,
+      "quantity": 21,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 19.49,
+      "max": 22.37,
+      "mean": 20.48,
+      "median": 19.57,
+      "suggested": 18.06,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 21.03,
+      "max": 22.01,
+      "mean": 21.52,
+      "median": 21.52,
+      "suggested": 19.58,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "MAG-7 | Bulldozer (Factory New)",
+      "price": {
+        "min": 408.43,
+        "max": 554.3,
+        "mean": 481.36,
+        "median": 481.36,
+        "suggested": 266.24,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "MAG-7 | Bulldozer (Minimal Wear)",
+      "price": {
+        "min": 42.01,
+        "max": 210.05,
+        "mean": 82.28,
+        "median": 69.96,
+        "suggested": 48.42,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "MAG-7 | Bulldozer (Field-Tested)",
+      "price": {
+        "min": 16.96,
+        "max": 185.8,
+        "mean": 35.22,
+        "median": 21.59,
+        "suggested": 20.8,
+        "quantity": 21,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "MAG-7 | Bulldozer (Well-Worn)",
+      "price": {
+        "min": 19.49,
+        "max": 22.37,
+        "mean": 20.48,
+        "median": 19.57,
+        "suggested": 18.06,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "MAG-7 | Bulldozer (Battle-Scarred)",
+      "price": {
+        "min": 21.03,
+        "max": 22.01,
+        "mean": 21.52,
+        "median": 21.52,
+        "suggested": 19.58,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "MAG-7 | Bulldozer (Factory New)",
+        "price": {
+          "min": 408.43,
+          "max": 554.3,
+          "mean": 481.36,
+          "median": 481.36,
+          "suggested": 266.24,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "MAG-7 | Bulldozer (Minimal Wear)",
+        "price": {
+          "min": 42.01,
+          "max": 210.05,
+          "mean": 82.28,
+          "median": 69.96,
+          "suggested": 48.42,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "MAG-7 | Bulldozer (Field-Tested)",
+        "price": {
+          "min": 16.96,
+          "max": 185.8,
+          "mean": 35.22,
+          "median": 21.59,
+          "suggested": 20.8,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "MAG-7 | Bulldozer (Well-Worn)",
+        "price": {
+          "min": 19.49,
+          "max": 22.37,
+          "mean": 20.48,
+          "median": 19.57,
+          "suggested": 18.06,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "MAG-7 | Bulldozer (Battle-Scarred)",
+        "price": {
+          "min": 21.03,
+          "max": 22.01,
+          "mean": 21.52,
+          "median": 21.52,
+          "suggested": 19.58,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir MAG-7 | Bulldozer (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir MAG-7 | Bulldozer (Minimal Wear)",
+        "price": {
+          "min": 79.42,
+          "max": 79.42,
+          "mean": 79.42,
+          "median": 79.42,
+          "suggested": 47.97,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Souvenir MAG-7 | Bulldozer (Field-Tested)",
+        "price": {
+          "min": 19.53,
+          "max": 348.91,
+          "mean": 87.03,
+          "median": 52.69,
+          "suggested": 25.31,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Souvenir MAG-7 | Bulldozer (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir MAG-7 | Bulldozer (Battle-Scarred)",
+        "price": {
+          "min": 18.75,
+          "max": 46.68,
+          "mean": 32.72,
+          "median": 32.72,
+          "suggested": 22.57,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:42.567Z"
+}

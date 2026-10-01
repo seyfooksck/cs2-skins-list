@@ -1,0 +1,204 @@
+{
+  "id": "skin-e8384ee7aa31",
+  "name": "★ Driver Gloves | Lunar Weave",
+  "paint_index": "10013",
+  "weapon": {
+    "id": "slick_gloves",
+    "weapon_id": 5031,
+    "name": "Driver Gloves",
+    "slug": "slick_gloves"
+  },
+  "pattern": {
+    "id": "slick_black",
+    "name": "Lunar Weave"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_gloves",
+    "name": "Gloves"
+  },
+  "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "These driving gloves offer protection from the elements while still maintaining tactile sensation. Midnight blue suede has been interwoven with jet black leather to give these gloves a timeless look.\\n\\n<i>Keeps the blood off your hands...metaphorically speaking</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 929.76,
+      "max": 1073.99,
+      "mean": 981.69,
+      "median": 961.49,
+      "suggested": 990.16,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 805.19,
+      "max": 1415.97,
+      "mean": 1091.09,
+      "median": 1102.76,
+      "suggested": 852.52,
+      "quantity": 16,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 289.27,
+      "max": 414.4,
+      "mean": 327.78,
+      "median": 314.08,
+      "suggested": 173.83,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 113.18,
+      "max": 1212.21,
+      "mean": 265.34,
+      "median": 115.6,
+      "suggested": 140.53,
+      "quantity": 8,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Driver Gloves | Lunar Weave (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Driver Gloves | Lunar Weave (Minimal Wear)",
+      "price": {
+        "min": 929.76,
+        "max": 1073.99,
+        "mean": 981.69,
+        "median": 961.49,
+        "suggested": 990.16,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Driver Gloves | Lunar Weave (Field-Tested)",
+      "price": {
+        "min": 805.19,
+        "max": 1415.97,
+        "mean": 1091.09,
+        "median": 1102.76,
+        "suggested": 852.52,
+        "quantity": 16,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Driver Gloves | Lunar Weave (Well-Worn)",
+      "price": {
+        "min": 289.27,
+        "max": 414.4,
+        "mean": 327.78,
+        "median": 314.08,
+        "suggested": 173.83,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Driver Gloves | Lunar Weave (Battle-Scarred)",
+      "price": {
+        "min": 113.18,
+        "max": 1212.21,
+        "mean": 265.34,
+        "median": 115.6,
+        "suggested": 140.53,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Driver Gloves | Lunar Weave (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Driver Gloves | Lunar Weave (Minimal Wear)",
+        "price": {
+          "min": 929.76,
+          "max": 1073.99,
+          "mean": 981.69,
+          "median": 961.49,
+          "suggested": 990.16,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Driver Gloves | Lunar Weave (Field-Tested)",
+        "price": {
+          "min": 805.19,
+          "max": 1415.97,
+          "mean": 1091.09,
+          "median": 1102.76,
+          "suggested": 852.52,
+          "quantity": 16,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Driver Gloves | Lunar Weave (Well-Worn)",
+        "price": {
+          "min": 289.27,
+          "max": 414.4,
+          "mean": 327.78,
+          "median": 314.08,
+          "suggested": 173.83,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "★ Driver Gloves | Lunar Weave (Battle-Scarred)",
+        "price": {
+          "min": 113.18,
+          "max": 1212.21,
+          "mean": 265.34,
+          "median": 115.6,
+          "suggested": 140.53,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:23.427Z"
+}

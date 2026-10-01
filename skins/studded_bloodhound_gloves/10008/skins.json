@@ -1,0 +1,180 @@
+{
+  "id": "skin-4e17d497a43e",
+  "name": "★ Bloodhound Gloves | Bronzed",
+  "paint_index": "10008",
+  "weapon": {
+    "id": "studded_bloodhound_gloves",
+    "weapon_id": 5027,
+    "name": "Bloodhound Gloves",
+    "slug": "studded_bloodhound_gloves"
+  },
+  "pattern": {
+    "id": "bloodhound_metallic",
+    "name": "Bronzed"
+  },
+  "category": {
+    "id": "sfui_invpanel_filter_gloves",
+    "name": "Gloves"
+  },
+  "rarity": {
+    "id": "rarity_ancient",
+    "name": "Extraordinary",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0.06,
+  "max_float": 0.8,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "These fingerless gloves have been decorated with metal studs and the Operation Bloodhound logo. The leather has been dyed gun metal and bronze.\\n\\n<i>Operation Bloodhound marked the end of rouge sniper Chase Turner</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": null,
+    "mw": {
+      "min": 302.63,
+      "max": 315.01,
+      "mean": 308.83,
+      "median": 308.83,
+      "suggested": 356.02,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 267.74,
+      "max": 491.89,
+      "mean": 359.11,
+      "median": 338.41,
+      "suggested": 301.6,
+      "quantity": 4,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 92.95,
+      "max": 92.95,
+      "mean": 92.95,
+      "median": 92.95,
+      "suggested": 95.53,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "★ Bloodhound Gloves | Bronzed (Factory New)",
+      "price": null,
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "★ Bloodhound Gloves | Bronzed (Minimal Wear)",
+      "price": {
+        "min": 302.63,
+        "max": 315.01,
+        "mean": 308.83,
+        "median": 308.83,
+        "suggested": 356.02,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "★ Bloodhound Gloves | Bronzed (Field-Tested)",
+      "price": {
+        "min": 267.74,
+        "max": 491.89,
+        "mean": 359.11,
+        "median": 338.41,
+        "suggested": 301.6,
+        "quantity": 4,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "★ Bloodhound Gloves | Bronzed (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "★ Bloodhound Gloves | Bronzed (Battle-Scarred)",
+      "price": {
+        "min": 92.95,
+        "max": 92.95,
+        "mean": 92.95,
+        "median": 92.95,
+        "suggested": 95.53,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "★ Bloodhound Gloves | Bronzed (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "★ Bloodhound Gloves | Bronzed (Minimal Wear)",
+        "price": {
+          "min": 302.63,
+          "max": 315.01,
+          "mean": 308.83,
+          "median": 308.83,
+          "suggested": 356.02,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "★ Bloodhound Gloves | Bronzed (Field-Tested)",
+        "price": {
+          "min": 267.74,
+          "max": 491.89,
+          "mean": 359.11,
+          "median": 338.41,
+          "suggested": 301.6,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "★ Bloodhound Gloves | Bronzed (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "★ Bloodhound Gloves | Bronzed (Battle-Scarred)",
+        "price": {
+          "min": 92.95,
+          "max": 92.95,
+          "mean": 92.95,
+          "median": 92.95,
+          "suggested": 95.53,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {}
+  },
+  "updated_at": "2026-08-05T11:13:24.172Z"
+}

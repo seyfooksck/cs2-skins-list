@@ -1,0 +1,310 @@
+{
+  "id": "skin-5bd16f2599cf",
+  "name": "Glock-18 | Gold Toof",
+  "paint_index": "129",
+  "weapon": {
+    "id": "weapon_glock",
+    "weapon_id": 4,
+    "name": "Glock-18",
+    "slug": "glock"
+  },
+  "pattern": {
+    "id": "glock_chomper",
+    "name": "Gold Toof"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_ancient_weapon",
+    "name": "Covert",
+    "color": "#eb4b4b"
+  },
+  "min_float": 0,
+  "max_float": 0.730496,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. It has been custom painted with a pink grip and an aggressive forward-facing gaze.\\n\\n<i>\\\"This one's for you!\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 210.05,
+      "max": 350.06,
+      "mean": 279.84,
+      "median": 283.76,
+      "suggested": 256.96,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 44.67,
+      "max": 110.85,
+      "mean": 72.46,
+      "median": 74.36,
+      "suggested": 59.72,
+      "quantity": 60,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 30.34,
+      "max": 73,
+      "mean": 41.38,
+      "median": 37.76,
+      "suggested": 39.04,
+      "quantity": 105,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 32.85,
+      "max": 110.6,
+      "mean": 50.96,
+      "median": 54.55,
+      "suggested": 38.41,
+      "quantity": 13,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 31.15,
+      "max": 66.05,
+      "mean": 40.27,
+      "median": 33.83,
+      "suggested": 38.29,
+      "quantity": 17,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Glock-18 | Gold Toof (Factory New)",
+      "price": {
+        "min": 210.05,
+        "max": 350.06,
+        "mean": 279.84,
+        "median": 283.76,
+        "suggested": 256.96,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Glock-18 | Gold Toof (Minimal Wear)",
+      "price": {
+        "min": 44.67,
+        "max": 110.85,
+        "mean": 72.46,
+        "median": 74.36,
+        "suggested": 59.72,
+        "quantity": 60,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Glock-18 | Gold Toof (Field-Tested)",
+      "price": {
+        "min": 30.34,
+        "max": 73,
+        "mean": 41.38,
+        "median": 37.76,
+        "suggested": 39.04,
+        "quantity": 105,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Glock-18 | Gold Toof (Well-Worn)",
+      "price": {
+        "min": 32.85,
+        "max": 110.6,
+        "mean": 50.96,
+        "median": 54.55,
+        "suggested": 38.41,
+        "quantity": 13,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Glock-18 | Gold Toof (Battle-Scarred)",
+      "price": {
+        "min": 31.15,
+        "max": 66.05,
+        "mean": 40.27,
+        "median": 33.83,
+        "suggested": 38.29,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Glock-18 | Gold Toof (Factory New)",
+        "price": {
+          "min": 210.05,
+          "max": 350.06,
+          "mean": 279.84,
+          "median": 283.76,
+          "suggested": 256.96,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Glock-18 | Gold Toof (Minimal Wear)",
+        "price": {
+          "min": 44.67,
+          "max": 110.85,
+          "mean": 72.46,
+          "median": 74.36,
+          "suggested": 59.72,
+          "quantity": 60,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Glock-18 | Gold Toof (Field-Tested)",
+        "price": {
+          "min": 30.34,
+          "max": 73,
+          "mean": 41.38,
+          "median": 37.76,
+          "suggested": 39.04,
+          "quantity": 105,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Glock-18 | Gold Toof (Well-Worn)",
+        "price": {
+          "min": 32.85,
+          "max": 110.6,
+          "mean": 50.96,
+          "median": 54.55,
+          "suggested": 38.41,
+          "quantity": 13,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Glock-18 | Gold Toof (Battle-Scarred)",
+        "price": {
+          "min": 31.15,
+          "max": 66.05,
+          "mean": 40.27,
+          "median": 33.83,
+          "suggested": 38.29,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Glock-18 | Gold Toof (Factory New)",
+        "price": {
+          "min": 200.57,
+          "max": 338.4,
+          "mean": 259.39,
+          "median": 254.39,
+          "suggested": 205.96,
+          "quantity": 7,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Glock-18 | Gold Toof (Minimal Wear)",
+        "price": {
+          "min": 85.77,
+          "max": 186.7,
+          "mean": 114.2,
+          "median": 103.31,
+          "suggested": 98.68,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Glock-18 | Gold Toof (Field-Tested)",
+        "price": {
+          "min": 40.56,
+          "max": 81.67,
+          "mean": 55.93,
+          "median": 52.33,
+          "suggested": 46.18,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Glock-18 | Gold Toof (Well-Worn)",
+        "price": {
+          "min": 51.94,
+          "max": 54.39,
+          "mean": 53.17,
+          "median": 53.17,
+          "suggested": 60.05,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Glock-18 | Gold Toof (Battle-Scarred)",
+        "price": {
+          "min": 44.16,
+          "max": 49.8,
+          "mean": 46.13,
+          "median": 45.28,
+          "suggested": 45.05,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Glock-18 | Gold Toof (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Glock-18 | Gold Toof (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Glock-18 | Gold Toof (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Glock-18 | Gold Toof (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Glock-18 | Gold Toof (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:31.925Z"
+}

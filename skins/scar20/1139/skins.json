@@ -1,0 +1,310 @@
+{
+  "id": "skin-2c6b935bb4eb",
+  "name": "SCAR-20 | Poultrygeist",
+  "paint_index": "1139",
+  "weapon": {
+    "id": "weapon_scar20",
+    "weapon_id": 38,
+    "name": "SCAR-20",
+    "slug": "scar20"
+  },
+  "pattern": {
+    "id": "sp_scar_chickenfight",
+    "name": "Poultrygeist"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.57,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The SCAR-20 is a semi-automatic sniper rifle that trades a high rate of fire and powerful long-distance damage for sluggish movement speed and big price tag. It has been spray-painted with a pattern depicting chickens on a battlefield.\\n\\n<i>A chicken rides a shark into battle...</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.33,
+      "max": 35,
+      "mean": 1.39,
+      "median": 0.56,
+      "suggested": 0.5,
+      "quantity": 361,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.12,
+      "max": 10.25,
+      "mean": 0.27,
+      "median": 0.21,
+      "suggested": 0.18,
+      "quantity": 778,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.07,
+      "max": 3.99,
+      "mean": 0.12,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 1673,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.07,
+      "max": 2.18,
+      "mean": 0.12,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 126,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.07,
+      "max": 1.73,
+      "mean": 0.13,
+      "median": 0.09,
+      "suggested": 0.08,
+      "quantity": 218,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SCAR-20 | Poultrygeist (Factory New)",
+      "price": {
+        "min": 0.33,
+        "max": 35,
+        "mean": 1.39,
+        "median": 0.56,
+        "suggested": 0.5,
+        "quantity": 361,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SCAR-20 | Poultrygeist (Minimal Wear)",
+      "price": {
+        "min": 0.12,
+        "max": 10.25,
+        "mean": 0.27,
+        "median": 0.21,
+        "suggested": 0.18,
+        "quantity": 778,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "SCAR-20 | Poultrygeist (Field-Tested)",
+      "price": {
+        "min": 0.07,
+        "max": 3.99,
+        "mean": 0.12,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 1673,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "SCAR-20 | Poultrygeist (Well-Worn)",
+      "price": {
+        "min": 0.07,
+        "max": 2.18,
+        "mean": 0.12,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 126,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "SCAR-20 | Poultrygeist (Battle-Scarred)",
+      "price": {
+        "min": 0.07,
+        "max": 1.73,
+        "mean": 0.13,
+        "median": 0.09,
+        "suggested": 0.08,
+        "quantity": 218,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SCAR-20 | Poultrygeist (Factory New)",
+        "price": {
+          "min": 0.33,
+          "max": 35,
+          "mean": 1.39,
+          "median": 0.56,
+          "suggested": 0.5,
+          "quantity": 361,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "SCAR-20 | Poultrygeist (Minimal Wear)",
+        "price": {
+          "min": 0.12,
+          "max": 10.25,
+          "mean": 0.27,
+          "median": 0.21,
+          "suggested": 0.18,
+          "quantity": 778,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "SCAR-20 | Poultrygeist (Field-Tested)",
+        "price": {
+          "min": 0.07,
+          "max": 3.99,
+          "mean": 0.12,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 1673,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "SCAR-20 | Poultrygeist (Well-Worn)",
+        "price": {
+          "min": 0.07,
+          "max": 2.18,
+          "mean": 0.12,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 126,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "SCAR-20 | Poultrygeist (Battle-Scarred)",
+        "price": {
+          "min": 0.07,
+          "max": 1.73,
+          "mean": 0.13,
+          "median": 0.09,
+          "suggested": 0.08,
+          "quantity": 218,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ SCAR-20 | Poultrygeist (Factory New)",
+        "price": {
+          "min": 0.41,
+          "max": 29.86,
+          "mean": 1.75,
+          "median": 0.54,
+          "suggested": 0.48,
+          "quantity": 71,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ SCAR-20 | Poultrygeist (Minimal Wear)",
+        "price": {
+          "min": 0.16,
+          "max": 2.56,
+          "mean": 0.36,
+          "median": 0.28,
+          "suggested": 0.2,
+          "quantity": 110,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ SCAR-20 | Poultrygeist (Field-Tested)",
+        "price": {
+          "min": 0.08,
+          "max": 1.65,
+          "mean": 0.14,
+          "median": 0.13,
+          "suggested": 0.1,
+          "quantity": 404,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ SCAR-20 | Poultrygeist (Well-Worn)",
+        "price": {
+          "min": 0.09,
+          "max": 0.16,
+          "mean": 0.12,
+          "median": 0.13,
+          "suggested": 0.12,
+          "quantity": 48,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ SCAR-20 | Poultrygeist (Battle-Scarred)",
+        "price": {
+          "min": 0.09,
+          "max": 7.21,
+          "mean": 0.27,
+          "median": 0.21,
+          "suggested": 0.12,
+          "quantity": 81,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SCAR-20 | Poultrygeist (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir SCAR-20 | Poultrygeist (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir SCAR-20 | Poultrygeist (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir SCAR-20 | Poultrygeist (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir SCAR-20 | Poultrygeist (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:47.796Z"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "skin-84a10128334c",
+  "name": "UMP-45 | Momentum",
+  "paint_index": "802",
+  "weapon": {
+    "id": "weapon_ump45",
+    "weapon_id": 24,
+    "name": "UMP-45",
+    "slug": "ump45"
+  },
+  "pattern": {
+    "id": "cu_ump_arrows",
+    "name": "Momentum"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic. It has been custom painted with bright colors and forward facing arrows.\\n\\n<i>Always moving forward</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 11.18,
+      "max": 564.21,
+      "mean": 30.07,
+      "median": 15.75,
+      "suggested": 14.23,
+      "quantity": 43,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 4.91,
+      "max": 23.9,
+      "mean": 6.56,
+      "median": 6.08,
+      "suggested": 6.86,
+      "quantity": 262,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 4.48,
+      "max": 95.26,
+      "mean": 6.07,
+      "median": 5.22,
+      "suggested": 6.09,
+      "quantity": 220,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 4.63,
+      "max": 7.32,
+      "mean": 5.25,
+      "median": 4.91,
+      "suggested": 5.56,
+      "quantity": 15,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 4.6,
+      "max": 8.67,
+      "mean": 5.67,
+      "median": 5.33,
+      "suggested": 6.01,
+      "quantity": 19,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "UMP-45 | Momentum (Factory New)",
+      "price": {
+        "min": 11.18,
+        "max": 564.21,
+        "mean": 30.07,
+        "median": 15.75,
+        "suggested": 14.23,
+        "quantity": 43,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "UMP-45 | Momentum (Minimal Wear)",
+      "price": {
+        "min": 4.91,
+        "max": 23.9,
+        "mean": 6.56,
+        "median": 6.08,
+        "suggested": 6.86,
+        "quantity": 262,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "UMP-45 | Momentum (Field-Tested)",
+      "price": {
+        "min": 4.48,
+        "max": 95.26,
+        "mean": 6.07,
+        "median": 5.22,
+        "suggested": 6.09,
+        "quantity": 220,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "UMP-45 | Momentum (Well-Worn)",
+      "price": {
+        "min": 4.63,
+        "max": 7.32,
+        "mean": 5.25,
+        "median": 4.91,
+        "suggested": 5.56,
+        "quantity": 15,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "UMP-45 | Momentum (Battle-Scarred)",
+      "price": {
+        "min": 4.6,
+        "max": 8.67,
+        "mean": 5.67,
+        "median": 5.33,
+        "suggested": 6.01,
+        "quantity": 19,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "UMP-45 | Momentum (Factory New)",
+        "price": {
+          "min": 11.18,
+          "max": 564.21,
+          "mean": 30.07,
+          "median": 15.75,
+          "suggested": 14.23,
+          "quantity": 43,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "UMP-45 | Momentum (Minimal Wear)",
+        "price": {
+          "min": 4.91,
+          "max": 23.9,
+          "mean": 6.56,
+          "median": 6.08,
+          "suggested": 6.86,
+          "quantity": 262,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "UMP-45 | Momentum (Field-Tested)",
+        "price": {
+          "min": 4.48,
+          "max": 95.26,
+          "mean": 6.07,
+          "median": 5.22,
+          "suggested": 6.09,
+          "quantity": 220,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "UMP-45 | Momentum (Well-Worn)",
+        "price": {
+          "min": 4.63,
+          "max": 7.32,
+          "mean": 5.25,
+          "median": 4.91,
+          "suggested": 5.56,
+          "quantity": 15,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "UMP-45 | Momentum (Battle-Scarred)",
+        "price": {
+          "min": 4.6,
+          "max": 8.67,
+          "mean": 5.67,
+          "median": 5.33,
+          "suggested": 6.01,
+          "quantity": 19,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ UMP-45 | Momentum (Factory New)",
+        "price": {
+          "min": 16.64,
+          "max": 275.5,
+          "mean": 40.52,
+          "median": 26.51,
+          "suggested": 20.51,
+          "quantity": 25,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ UMP-45 | Momentum (Minimal Wear)",
+        "price": {
+          "min": 7.68,
+          "max": 15.88,
+          "mean": 8.59,
+          "median": 7.73,
+          "suggested": 9.1,
+          "quantity": 60,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ UMP-45 | Momentum (Field-Tested)",
+        "price": {
+          "min": 6.03,
+          "max": 15.24,
+          "mean": 7.63,
+          "median": 6.49,
+          "suggested": 7.48,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ UMP-45 | Momentum (Well-Worn)",
+        "price": {
+          "min": 6.23,
+          "max": 9.79,
+          "mean": 8.16,
+          "median": 8.3,
+          "suggested": 7.02,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ UMP-45 | Momentum (Battle-Scarred)",
+        "price": {
+          "min": 6.11,
+          "max": 252.48,
+          "mean": 55.97,
+          "median": 7.07,
+          "suggested": 7.14,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir UMP-45 | Momentum (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir UMP-45 | Momentum (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir UMP-45 | Momentum (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir UMP-45 | Momentum (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir UMP-45 | Momentum (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.884Z"
+}

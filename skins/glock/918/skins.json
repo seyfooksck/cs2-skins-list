@@ -1,0 +1,310 @@
+{
+  "id": "skin-dbf88f552c6d",
+  "name": "Glock-18 | Sacrifice",
+  "paint_index": "918",
+  "weapon": {
+    "id": "weapon_glock",
+    "weapon_id": 4,
+    "name": "Glock-18",
+    "slug": "glock"
+  },
+  "pattern": {
+    "id": "cu_glock_hero",
+    "name": "Sacrifice"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. This custom paint job pays homage to olofmeister's burning defuse on Overpass at ESL One Cologne 2014.\\n\\n<i>\\\"The defuse is coming in—he's still going!\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 13.45,
+      "max": 144.27,
+      "mean": 37.7,
+      "median": 25.68,
+      "suggested": 25.81,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.67,
+      "max": 7.59,
+      "mean": 1.37,
+      "median": 0.9,
+      "suggested": 0.83,
+      "quantity": 50,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.4,
+      "max": 9.34,
+      "mean": 0.65,
+      "median": 0.51,
+      "suggested": 0.5,
+      "quantity": 129,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.25,
+      "max": 4.1,
+      "mean": 0.47,
+      "median": 0.39,
+      "suggested": 0.35,
+      "quantity": 103,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.26,
+      "max": 5.5,
+      "mean": 0.62,
+      "median": 0.36,
+      "suggested": 0.35,
+      "quantity": 64,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Glock-18 | Sacrifice (Factory New)",
+      "price": {
+        "min": 13.45,
+        "max": 144.27,
+        "mean": 37.7,
+        "median": 25.68,
+        "suggested": 25.81,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Glock-18 | Sacrifice (Minimal Wear)",
+      "price": {
+        "min": 0.67,
+        "max": 7.59,
+        "mean": 1.37,
+        "median": 0.9,
+        "suggested": 0.83,
+        "quantity": 50,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Glock-18 | Sacrifice (Field-Tested)",
+      "price": {
+        "min": 0.4,
+        "max": 9.34,
+        "mean": 0.65,
+        "median": 0.51,
+        "suggested": 0.5,
+        "quantity": 129,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Glock-18 | Sacrifice (Well-Worn)",
+      "price": {
+        "min": 0.25,
+        "max": 4.1,
+        "mean": 0.47,
+        "median": 0.39,
+        "suggested": 0.35,
+        "quantity": 103,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Glock-18 | Sacrifice (Battle-Scarred)",
+      "price": {
+        "min": 0.26,
+        "max": 5.5,
+        "mean": 0.62,
+        "median": 0.36,
+        "suggested": 0.35,
+        "quantity": 64,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Glock-18 | Sacrifice (Factory New)",
+        "price": {
+          "min": 13.45,
+          "max": 144.27,
+          "mean": 37.7,
+          "median": 25.68,
+          "suggested": 25.81,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Glock-18 | Sacrifice (Minimal Wear)",
+        "price": {
+          "min": 0.67,
+          "max": 7.59,
+          "mean": 1.37,
+          "median": 0.9,
+          "suggested": 0.83,
+          "quantity": 50,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Glock-18 | Sacrifice (Field-Tested)",
+        "price": {
+          "min": 0.4,
+          "max": 9.34,
+          "mean": 0.65,
+          "median": 0.51,
+          "suggested": 0.5,
+          "quantity": 129,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Glock-18 | Sacrifice (Well-Worn)",
+        "price": {
+          "min": 0.25,
+          "max": 4.1,
+          "mean": 0.47,
+          "median": 0.39,
+          "suggested": 0.35,
+          "quantity": 103,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Glock-18 | Sacrifice (Battle-Scarred)",
+        "price": {
+          "min": 0.26,
+          "max": 5.5,
+          "mean": 0.62,
+          "median": 0.36,
+          "suggested": 0.35,
+          "quantity": 64,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Glock-18 | Sacrifice (Factory New)",
+        "price": {
+          "min": 7.53,
+          "max": 72.14,
+          "mean": 21.64,
+          "median": 11.82,
+          "suggested": 9.32,
+          "quantity": 21,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Glock-18 | Sacrifice (Minimal Wear)",
+        "price": {
+          "min": 1.18,
+          "max": 74.1,
+          "mean": 7.02,
+          "median": 1.56,
+          "suggested": 1.55,
+          "quantity": 20,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Glock-18 | Sacrifice (Field-Tested)",
+        "price": {
+          "min": 0.6,
+          "max": 17.07,
+          "mean": 1.55,
+          "median": 0.77,
+          "suggested": 0.74,
+          "quantity": 53,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Glock-18 | Sacrifice (Well-Worn)",
+        "price": {
+          "min": 0.35,
+          "max": 5.83,
+          "mean": 0.64,
+          "median": 0.55,
+          "suggested": 0.48,
+          "quantity": 67,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Glock-18 | Sacrifice (Battle-Scarred)",
+        "price": {
+          "min": 0.39,
+          "max": 5.82,
+          "mean": 0.76,
+          "median": 0.49,
+          "suggested": 0.47,
+          "quantity": 65,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Glock-18 | Sacrifice (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Glock-18 | Sacrifice (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Glock-18 | Sacrifice (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Glock-18 | Sacrifice (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Glock-18 | Sacrifice (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:31.801Z"
+}

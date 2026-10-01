@@ -1,0 +1,310 @@
+{
+  "id": "skin-de854ad43079",
+  "name": "UMP-45 | Roadblock",
+  "paint_index": "1157",
+  "weapon": {
+    "id": "weapon_ump45",
+    "weapon_id": 24,
+    "name": "UMP-45",
+    "slug": "ump45"
+  },
+  "pattern": {
+    "id": "gs_ump_roadblock",
+    "name": "Roadblock"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic. It has been custom painted with horizontal orange lines and forward facing arrows.\\n\\n<i>Seek alternate routes</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 0.96,
+      "max": 60.42,
+      "mean": 3.78,
+      "median": 1.49,
+      "suggested": 1.22,
+      "quantity": 67,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 0.19,
+      "max": 6.13,
+      "mean": 0.3,
+      "median": 0.23,
+      "suggested": 0.27,
+      "quantity": 657,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 0.07,
+      "max": 5.47,
+      "mean": 0.18,
+      "median": 0.11,
+      "suggested": 0.1,
+      "quantity": 773,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 0.06,
+      "max": 3.59,
+      "mean": 0.12,
+      "median": 0.09,
+      "suggested": 0.09,
+      "quantity": 705,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 0.07,
+      "max": 4.83,
+      "mean": 0.21,
+      "median": 0.09,
+      "suggested": 0.1,
+      "quantity": 471,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "UMP-45 | Roadblock (Factory New)",
+      "price": {
+        "min": 0.96,
+        "max": 60.42,
+        "mean": 3.78,
+        "median": 1.49,
+        "suggested": 1.22,
+        "quantity": 67,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "UMP-45 | Roadblock (Minimal Wear)",
+      "price": {
+        "min": 0.19,
+        "max": 6.13,
+        "mean": 0.3,
+        "median": 0.23,
+        "suggested": 0.27,
+        "quantity": 657,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "UMP-45 | Roadblock (Field-Tested)",
+      "price": {
+        "min": 0.07,
+        "max": 5.47,
+        "mean": 0.18,
+        "median": 0.11,
+        "suggested": 0.1,
+        "quantity": 773,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "UMP-45 | Roadblock (Well-Worn)",
+      "price": {
+        "min": 0.06,
+        "max": 3.59,
+        "mean": 0.12,
+        "median": 0.09,
+        "suggested": 0.09,
+        "quantity": 705,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "UMP-45 | Roadblock (Battle-Scarred)",
+      "price": {
+        "min": 0.07,
+        "max": 4.83,
+        "mean": 0.21,
+        "median": 0.09,
+        "suggested": 0.1,
+        "quantity": 471,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "UMP-45 | Roadblock (Factory New)",
+        "price": {
+          "min": 0.96,
+          "max": 60.42,
+          "mean": 3.78,
+          "median": 1.49,
+          "suggested": 1.22,
+          "quantity": 67,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "UMP-45 | Roadblock (Minimal Wear)",
+        "price": {
+          "min": 0.19,
+          "max": 6.13,
+          "mean": 0.3,
+          "median": 0.23,
+          "suggested": 0.27,
+          "quantity": 657,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "UMP-45 | Roadblock (Field-Tested)",
+        "price": {
+          "min": 0.07,
+          "max": 5.47,
+          "mean": 0.18,
+          "median": 0.11,
+          "suggested": 0.1,
+          "quantity": 773,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "UMP-45 | Roadblock (Well-Worn)",
+        "price": {
+          "min": 0.06,
+          "max": 3.59,
+          "mean": 0.12,
+          "median": 0.09,
+          "suggested": 0.09,
+          "quantity": 705,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "UMP-45 | Roadblock (Battle-Scarred)",
+        "price": {
+          "min": 0.07,
+          "max": 4.83,
+          "mean": 0.21,
+          "median": 0.09,
+          "suggested": 0.1,
+          "quantity": 471,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ UMP-45 | Roadblock (Factory New)",
+        "price": {
+          "min": 0.82,
+          "max": 5.67,
+          "mean": 2.58,
+          "median": 2.17,
+          "suggested": 1.13,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ UMP-45 | Roadblock (Minimal Wear)",
+        "price": {
+          "min": 0.2,
+          "max": 3.13,
+          "mean": 0.63,
+          "median": 0.25,
+          "suggested": 0.3,
+          "quantity": 159,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ UMP-45 | Roadblock (Field-Tested)",
+        "price": {
+          "min": 0.08,
+          "max": 7,
+          "mean": 0.36,
+          "median": 0.14,
+          "suggested": 0.12,
+          "quantity": 227,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ UMP-45 | Roadblock (Well-Worn)",
+        "price": {
+          "min": 0.07,
+          "max": 2.33,
+          "mean": 0.13,
+          "median": 0.11,
+          "suggested": 0.1,
+          "quantity": 152,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ UMP-45 | Roadblock (Battle-Scarred)",
+        "price": {
+          "min": 0.07,
+          "max": 7,
+          "mean": 0.39,
+          "median": 0.11,
+          "suggested": 0.1,
+          "quantity": 103,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir UMP-45 | Roadblock (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir UMP-45 | Roadblock (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir UMP-45 | Roadblock (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir UMP-45 | Roadblock (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir UMP-45 | Roadblock (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:49.989Z"
+}

@@ -1,0 +1,249 @@
+{
+  "id": "skin-d5c4cc36d66a",
+  "name": "M4A1-S | Stratosphere",
+  "paint_index": "1216",
+  "weapon": {
+    "id": "weapon_m4a1_silencer",
+    "weapon_id": 60,
+    "name": "M4A1-S",
+    "slug": "m4a1_silencer"
+  },
+  "pattern": {
+    "id": "cue_stratosphere",
+    "name": "Stratosphere"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.8,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. It has been custom painted with spacefaring ships circling a planet in outer space.\\n\\n<i>\\\"One day in the not too distant future...\\\"</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 50.75,
+      "max": 408.43,
+      "mean": 117.95,
+      "median": 72.46,
+      "suggested": 70.58,
+      "quantity": 36,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 16.27,
+      "max": 698.47,
+      "mean": 34.86,
+      "median": 16.98,
+      "suggested": 18.97,
+      "quantity": 98,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 4.95,
+      "max": 75.56,
+      "mean": 15.05,
+      "median": 8.1,
+      "suggested": 5.82,
+      "quantity": 93,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 5.25,
+      "max": 18.85,
+      "mean": 12.09,
+      "median": 11.3,
+      "suggested": 5.74,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 3.03,
+      "max": 161.04,
+      "mean": 16.36,
+      "median": 7,
+      "suggested": 3.53,
+      "quantity": 23,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A1-S | Stratosphere (Factory New)",
+      "price": {
+        "min": 50.75,
+        "max": 408.43,
+        "mean": 117.95,
+        "median": 72.46,
+        "suggested": 70.58,
+        "quantity": 36,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A1-S | Stratosphere (Minimal Wear)",
+      "price": {
+        "min": 16.27,
+        "max": 698.47,
+        "mean": 34.86,
+        "median": 16.98,
+        "suggested": 18.97,
+        "quantity": 98,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "M4A1-S | Stratosphere (Field-Tested)",
+      "price": {
+        "min": 4.95,
+        "max": 75.56,
+        "mean": 15.05,
+        "median": 8.1,
+        "suggested": 5.82,
+        "quantity": 93,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "M4A1-S | Stratosphere (Well-Worn)",
+      "price": {
+        "min": 5.25,
+        "max": 18.85,
+        "mean": 12.09,
+        "median": 11.3,
+        "suggested": 5.74,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "M4A1-S | Stratosphere (Battle-Scarred)",
+      "price": {
+        "min": 3.03,
+        "max": 161.04,
+        "mean": 16.36,
+        "median": 7,
+        "suggested": 3.53,
+        "quantity": 23,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A1-S | Stratosphere (Factory New)",
+        "price": {
+          "min": 50.75,
+          "max": 408.43,
+          "mean": 117.95,
+          "median": 72.46,
+          "suggested": 70.58,
+          "quantity": 36,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A1-S | Stratosphere (Minimal Wear)",
+        "price": {
+          "min": 16.27,
+          "max": 698.47,
+          "mean": 34.86,
+          "median": 16.98,
+          "suggested": 18.97,
+          "quantity": 98,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "M4A1-S | Stratosphere (Field-Tested)",
+        "price": {
+          "min": 4.95,
+          "max": 75.56,
+          "mean": 15.05,
+          "median": 8.1,
+          "suggested": 5.82,
+          "quantity": 93,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "M4A1-S | Stratosphere (Well-Worn)",
+        "price": {
+          "min": 5.25,
+          "max": 18.85,
+          "mean": 12.09,
+          "median": 11.3,
+          "suggested": 5.74,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "M4A1-S | Stratosphere (Battle-Scarred)",
+        "price": {
+          "min": 3.03,
+          "max": 161.04,
+          "mean": 16.36,
+          "median": 7,
+          "suggested": 3.53,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A1-S | Stratosphere (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A1-S | Stratosphere (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir M4A1-S | Stratosphere (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir M4A1-S | Stratosphere (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir M4A1-S | Stratosphere (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:40.943Z"
+}

@@ -1,0 +1,177 @@
+{
+  "id": "skin-f78ee5dc6e7e",
+  "name": "Glock-18 | Synth Leaf",
+  "paint_index": "732",
+  "weapon": {
+    "id": "weapon_glock",
+    "weapon_id": 4,
+    "name": "Glock-18",
+    "slug": "glock"
+  },
+  "pattern": {
+    "id": "hy_leaf_blue",
+    "name": "Synth Leaf"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. A teal and purple hydrographic pattern of overlapping leaves has been applied.\\n\\n<i>Blood on the leaves</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 380.36,
+      "max": 1166.94,
+      "mean": 537.34,
+      "median": 464.6,
+      "suggested": 439.15,
+      "quantity": 18,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 431.77,
+      "max": 560.75,
+      "mean": 496.26,
+      "median": 496.26,
+      "suggested": 461.12,
+      "quantity": 2,
+      "currency": "USD"
+    },
+    "ft": null,
+    "ww": null,
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Glock-18 | Synth Leaf (Factory New)",
+      "price": {
+        "min": 380.36,
+        "max": 1166.94,
+        "mean": 537.34,
+        "median": 464.6,
+        "suggested": 439.15,
+        "quantity": 18,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Glock-18 | Synth Leaf (Minimal Wear)",
+      "price": {
+        "min": 431.77,
+        "max": 560.75,
+        "mean": 496.26,
+        "median": 496.26,
+        "suggested": 461.12,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Glock-18 | Synth Leaf (Field-Tested)",
+      "price": null,
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Glock-18 | Synth Leaf (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Glock-18 | Synth Leaf (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Glock-18 | Synth Leaf (Factory New)",
+        "price": {
+          "min": 380.36,
+          "max": 1166.94,
+          "mean": 537.34,
+          "median": 464.6,
+          "suggested": 439.15,
+          "quantity": 18,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Glock-18 | Synth Leaf (Minimal Wear)",
+        "price": {
+          "min": 431.77,
+          "max": 560.75,
+          "mean": 496.26,
+          "median": 496.26,
+          "suggested": 461.12,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Glock-18 | Synth Leaf (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Glock-18 | Synth Leaf (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Glock-18 | Synth Leaf (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Glock-18 | Synth Leaf (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Glock-18 | Synth Leaf (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Glock-18 | Synth Leaf (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Glock-18 | Synth Leaf (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Glock-18 | Synth Leaf (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:32.145Z"
+}

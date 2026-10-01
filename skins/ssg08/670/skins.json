@@ -1,0 +1,278 @@
+{
+  "id": "skin-d9516fc63729",
+  "name": "SSG 08 | Death's Head",
+  "paint_index": "670",
+  "weapon": {
+    "id": "weapon_ssg08",
+    "weapon_id": 40,
+    "name": "SSG 08",
+    "slug": "ssg08"
+  },
+  "pattern": {
+    "id": "cu_ssg08_deathshead",
+    "name": "Death's Head"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_mythical_weapon",
+    "name": "Restricted",
+    "color": "#8847ff"
+  },
+  "min_float": 0,
+  "max_float": 0.51,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship. It has been hand painted to resemble a death's-head hawkmoth.\\n\\n<i>Quid pro quo</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 36.11,
+      "max": 152.9,
+      "mean": 72.75,
+      "median": 64.18,
+      "suggested": 52.8,
+      "quantity": 17,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 23.08,
+      "max": 50.52,
+      "mean": 36.91,
+      "median": 35.17,
+      "suggested": 27.93,
+      "quantity": 17,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 18.43,
+      "max": 34.56,
+      "mean": 25.51,
+      "median": 24.66,
+      "suggested": 21.15,
+      "quantity": 9,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 29.17,
+      "max": 72.14,
+      "mean": 50.66,
+      "median": 50.66,
+      "suggested": 19.12,
+      "quantity": 2,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "SSG 08 | Death's Head (Factory New)",
+      "price": {
+        "min": 36.11,
+        "max": 152.9,
+        "mean": 72.75,
+        "median": 64.18,
+        "suggested": 52.8,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "SSG 08 | Death's Head (Minimal Wear)",
+      "price": {
+        "min": 23.08,
+        "max": 50.52,
+        "mean": 36.91,
+        "median": 35.17,
+        "suggested": 27.93,
+        "quantity": 17,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "SSG 08 | Death's Head (Field-Tested)",
+      "price": {
+        "min": 18.43,
+        "max": 34.56,
+        "mean": 25.51,
+        "median": 24.66,
+        "suggested": 21.15,
+        "quantity": 9,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "SSG 08 | Death's Head (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "SSG 08 | Death's Head (Battle-Scarred)",
+      "price": {
+        "min": 29.17,
+        "max": 72.14,
+        "mean": 50.66,
+        "median": 50.66,
+        "suggested": 19.12,
+        "quantity": 2,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "SSG 08 | Death's Head (Factory New)",
+        "price": {
+          "min": 36.11,
+          "max": 152.9,
+          "mean": 72.75,
+          "median": 64.18,
+          "suggested": 52.8,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "SSG 08 | Death's Head (Minimal Wear)",
+        "price": {
+          "min": 23.08,
+          "max": 50.52,
+          "mean": 36.91,
+          "median": 35.17,
+          "suggested": 27.93,
+          "quantity": 17,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "SSG 08 | Death's Head (Field-Tested)",
+        "price": {
+          "min": 18.43,
+          "max": 34.56,
+          "mean": 25.51,
+          "median": 24.66,
+          "suggested": 21.15,
+          "quantity": 9,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "SSG 08 | Death's Head (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "SSG 08 | Death's Head (Battle-Scarred)",
+        "price": {
+          "min": 29.17,
+          "max": 72.14,
+          "mean": 50.66,
+          "median": 50.66,
+          "suggested": 19.12,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ SSG 08 | Death's Head (Factory New)",
+        "price": {
+          "min": 32.95,
+          "max": 50.53,
+          "mean": 41.41,
+          "median": 41.09,
+          "suggested": 39.97,
+          "quantity": 4,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ SSG 08 | Death's Head (Minimal Wear)",
+        "price": {
+          "min": 28.24,
+          "max": 46.72,
+          "mean": 37.48,
+          "median": 37.48,
+          "suggested": 29.38,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ SSG 08 | Death's Head (Field-Tested)",
+        "price": {
+          "min": 18.5,
+          "max": 36.49,
+          "mean": 28.16,
+          "median": 28.85,
+          "suggested": 22.2,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ SSG 08 | Death's Head (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ SSG 08 | Death's Head (Battle-Scarred)",
+        "price": {
+          "min": 20.72,
+          "max": 20.72,
+          "mean": 20.72,
+          "median": 20.72,
+          "suggested": 22.09,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir SSG 08 | Death's Head (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir SSG 08 | Death's Head (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir SSG 08 | Death's Head (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir SSG 08 | Death's Head (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir SSG 08 | Death's Head (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:48.400Z"
+}

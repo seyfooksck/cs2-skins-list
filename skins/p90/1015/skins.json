@@ -1,0 +1,225 @@
+{
+  "id": "skin-2c61427e2101",
+  "name": "P90 | Tiger Pit",
+  "paint_index": "1015",
+  "weapon": {
+    "id": "weapon_p90",
+    "weapon_id": 19,
+    "name": "P90",
+    "slug": "p90"
+  },
+  "pattern": {
+    "id": "am_tigers_brown",
+    "name": "Tiger Pit"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_smgs",
+    "name": "SMGs"
+  },
+  "rarity": {
+    "id": "rarity_rare_weapon",
+    "name": "Mil-Spec Grade",
+    "color": "#4b69ff"
+  },
+  "min_float": 0,
+  "max_float": 0.5,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. A brown and tan hydrographic tiger pattern has been applied over a black base.\\n\\n<i>Anywhere but here</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 23.34,
+      "max": 142.66,
+      "mean": 50.17,
+      "median": 35.94,
+      "suggested": 28.54,
+      "quantity": 24,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 19.32,
+      "max": 54.85,
+      "mean": 39.44,
+      "median": 44.34,
+      "suggested": 23.03,
+      "quantity": 11,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 28.94,
+      "max": 56.97,
+      "mean": 38.36,
+      "median": 29.17,
+      "suggested": 20.48,
+      "quantity": 3,
+      "currency": "USD"
+    },
+    "ww": null,
+    "bs": {
+      "min": 33.98,
+      "max": 33.98,
+      "mean": 33.98,
+      "median": 33.98,
+      "suggested": 23.98,
+      "quantity": 1,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "P90 | Tiger Pit (Factory New)",
+      "price": {
+        "min": 23.34,
+        "max": 142.66,
+        "mean": 50.17,
+        "median": 35.94,
+        "suggested": 28.54,
+        "quantity": 24,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "P90 | Tiger Pit (Minimal Wear)",
+      "price": {
+        "min": 19.32,
+        "max": 54.85,
+        "mean": 39.44,
+        "median": 44.34,
+        "suggested": 23.03,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "P90 | Tiger Pit (Field-Tested)",
+      "price": {
+        "min": 28.94,
+        "max": 56.97,
+        "mean": 38.36,
+        "median": 29.17,
+        "suggested": 20.48,
+        "quantity": 3,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "P90 | Tiger Pit (Well-Worn)",
+      "price": null,
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "P90 | Tiger Pit (Battle-Scarred)",
+      "price": {
+        "min": 33.98,
+        "max": 33.98,
+        "mean": 33.98,
+        "median": 33.98,
+        "suggested": 23.98,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "P90 | Tiger Pit (Factory New)",
+        "price": {
+          "min": 23.34,
+          "max": 142.66,
+          "mean": 50.17,
+          "median": 35.94,
+          "suggested": 28.54,
+          "quantity": 24,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "P90 | Tiger Pit (Minimal Wear)",
+        "price": {
+          "min": 19.32,
+          "max": 54.85,
+          "mean": 39.44,
+          "median": 44.34,
+          "suggested": 23.03,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "P90 | Tiger Pit (Field-Tested)",
+        "price": {
+          "min": 28.94,
+          "max": 56.97,
+          "mean": 38.36,
+          "median": 29.17,
+          "suggested": 20.48,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "P90 | Tiger Pit (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "P90 | Tiger Pit (Battle-Scarred)",
+        "price": {
+          "min": 33.98,
+          "max": 33.98,
+          "mean": 33.98,
+          "median": 33.98,
+          "suggested": 23.98,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir P90 | Tiger Pit (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir P90 | Tiger Pit (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir P90 | Tiger Pit (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir P90 | Tiger Pit (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir P90 | Tiger Pit (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:45.817Z"
+}

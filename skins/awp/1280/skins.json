@@ -1,0 +1,249 @@
+{
+  "id": "skin-b889cea4b0a8",
+  "name": "AWP | Green Energy",
+  "paint_index": "1280",
+  "weapon": {
+    "id": "weapon_awp",
+    "weapon_id": 9,
+    "name": "AWP",
+    "slug": "awp"
+  },
+  "pattern": {
+    "id": "cue_jump_line",
+    "name": "Green Energy"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.75,
+  "team": {
+    "id": "both",
+    "name": "Both Teams"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. A yellow streak runs the length of this custom painted, green metallic flake AWP.\\n\\n<i>Energy amplified</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 56.72,
+      "max": 408.43,
+      "mean": 102.31,
+      "median": 60.05,
+      "suggested": 71.69,
+      "quantity": 66,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 20.95,
+      "max": 444.58,
+      "mean": 52.26,
+      "median": 28.98,
+      "suggested": 27.49,
+      "quantity": 94,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 9.7,
+      "max": 52.51,
+      "mean": 19.86,
+      "median": 15.52,
+      "suggested": 12.29,
+      "quantity": 52,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 10.49,
+      "max": 42.34,
+      "mean": 23.56,
+      "median": 23.19,
+      "suggested": 11.38,
+      "quantity": 6,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 5.68,
+      "max": 31.51,
+      "mean": 14.14,
+      "median": 12.84,
+      "suggested": 5.65,
+      "quantity": 11,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "AWP | Green Energy (Factory New)",
+      "price": {
+        "min": 56.72,
+        "max": 408.43,
+        "mean": 102.31,
+        "median": 60.05,
+        "suggested": 71.69,
+        "quantity": 66,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "AWP | Green Energy (Minimal Wear)",
+      "price": {
+        "min": 20.95,
+        "max": 444.58,
+        "mean": 52.26,
+        "median": 28.98,
+        "suggested": 27.49,
+        "quantity": 94,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "AWP | Green Energy (Field-Tested)",
+      "price": {
+        "min": 9.7,
+        "max": 52.51,
+        "mean": 19.86,
+        "median": 15.52,
+        "suggested": 12.29,
+        "quantity": 52,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "AWP | Green Energy (Well-Worn)",
+      "price": {
+        "min": 10.49,
+        "max": 42.34,
+        "mean": 23.56,
+        "median": 23.19,
+        "suggested": 11.38,
+        "quantity": 6,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "AWP | Green Energy (Battle-Scarred)",
+      "price": {
+        "min": 5.68,
+        "max": 31.51,
+        "mean": 14.14,
+        "median": 12.84,
+        "suggested": 5.65,
+        "quantity": 11,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "AWP | Green Energy (Factory New)",
+        "price": {
+          "min": 56.72,
+          "max": 408.43,
+          "mean": 102.31,
+          "median": 60.05,
+          "suggested": 71.69,
+          "quantity": 66,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "AWP | Green Energy (Minimal Wear)",
+        "price": {
+          "min": 20.95,
+          "max": 444.58,
+          "mean": 52.26,
+          "median": 28.98,
+          "suggested": 27.49,
+          "quantity": 94,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "AWP | Green Energy (Field-Tested)",
+        "price": {
+          "min": 9.7,
+          "max": 52.51,
+          "mean": 19.86,
+          "median": 15.52,
+          "suggested": 12.29,
+          "quantity": 52,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "AWP | Green Energy (Well-Worn)",
+        "price": {
+          "min": 10.49,
+          "max": 42.34,
+          "mean": 23.56,
+          "median": 23.19,
+          "suggested": 11.38,
+          "quantity": 6,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "AWP | Green Energy (Battle-Scarred)",
+        "price": {
+          "min": 5.68,
+          "max": 31.51,
+          "mean": 14.14,
+          "median": 12.84,
+          "suggested": 5.65,
+          "quantity": 11,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir AWP | Green Energy (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir AWP | Green Energy (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir AWP | Green Energy (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir AWP | Green Energy (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir AWP | Green Energy (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:26.133Z"
+}

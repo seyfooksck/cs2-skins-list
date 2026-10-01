@@ -1,0 +1,270 @@
+{
+  "id": "skin-99def93a5fe2",
+  "name": "Galil AR | Sugar Rush",
+  "paint_index": "661",
+  "weapon": {
+    "id": "weapon_galilar",
+    "weapon_id": 13,
+    "name": "Galil AR",
+    "slug": "galilar"
+  },
+  "pattern": {
+    "id": "cu_galil_candychaos",
+    "name": "Sugar Rush"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.55,
+  "team": {
+    "id": "terrorists",
+    "name": "Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat. It has been custom painted using cotton candy themed colors and various patterns.\\n\\n<i>Prepare for the crash</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 210.81,
+      "max": 466.77,
+      "mean": 332.73,
+      "median": 317.84,
+      "suggested": 304.23,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 68.85,
+      "max": 134.99,
+      "mean": 95.07,
+      "median": 91.38,
+      "suggested": 93.94,
+      "quantity": 8,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 50.18,
+      "max": 129.5,
+      "mean": 87.71,
+      "median": 81.67,
+      "suggested": 63.69,
+      "quantity": 12,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 58.62,
+      "max": 58.62,
+      "mean": 58.62,
+      "median": 58.62,
+      "suggested": 55.61,
+      "quantity": 1,
+      "currency": "USD"
+    },
+    "bs": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "Galil AR | Sugar Rush (Factory New)",
+      "price": {
+        "min": 210.81,
+        "max": 466.77,
+        "mean": 332.73,
+        "median": 317.84,
+        "suggested": 304.23,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "Galil AR | Sugar Rush (Minimal Wear)",
+      "price": {
+        "min": 68.85,
+        "max": 134.99,
+        "mean": 95.07,
+        "median": 91.38,
+        "suggested": 93.94,
+        "quantity": 8,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "Galil AR | Sugar Rush (Field-Tested)",
+      "price": {
+        "min": 50.18,
+        "max": 129.5,
+        "mean": 87.71,
+        "median": 81.67,
+        "suggested": 63.69,
+        "quantity": 12,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "Galil AR | Sugar Rush (Well-Worn)",
+      "price": {
+        "min": 58.62,
+        "max": 58.62,
+        "mean": 58.62,
+        "median": 58.62,
+        "suggested": 55.61,
+        "quantity": 1,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "Galil AR | Sugar Rush (Battle-Scarred)",
+      "price": null,
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "Galil AR | Sugar Rush (Factory New)",
+        "price": {
+          "min": 210.81,
+          "max": 466.77,
+          "mean": 332.73,
+          "median": 317.84,
+          "suggested": 304.23,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "Galil AR | Sugar Rush (Minimal Wear)",
+        "price": {
+          "min": 68.85,
+          "max": 134.99,
+          "mean": 95.07,
+          "median": 91.38,
+          "suggested": 93.94,
+          "quantity": 8,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "Galil AR | Sugar Rush (Field-Tested)",
+        "price": {
+          "min": 50.18,
+          "max": 129.5,
+          "mean": 87.71,
+          "median": 81.67,
+          "suggested": 63.69,
+          "quantity": 12,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "Galil AR | Sugar Rush (Well-Worn)",
+        "price": {
+          "min": 58.62,
+          "max": 58.62,
+          "mean": 58.62,
+          "median": 58.62,
+          "suggested": 55.61,
+          "quantity": 1,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "Galil AR | Sugar Rush (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ Galil AR | Sugar Rush (Factory New)",
+        "price": {
+          "min": 215.88,
+          "max": 229.14,
+          "mean": 222.44,
+          "median": 225.45,
+          "suggested": 269.49,
+          "quantity": 5,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ Galil AR | Sugar Rush (Minimal Wear)",
+        "price": {
+          "min": 122.9,
+          "max": 136.55,
+          "mean": 128.11,
+          "median": 124.86,
+          "suggested": 157.33,
+          "quantity": 3,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ Galil AR | Sugar Rush (Field-Tested)",
+        "price": {
+          "min": 128.34,
+          "max": 128.35,
+          "mean": 128.35,
+          "median": 128.35,
+          "suggested": 77.6,
+          "quantity": 2,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ Galil AR | Sugar Rush (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ Galil AR | Sugar Rush (Battle-Scarred)",
+        "price": null
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir Galil AR | Sugar Rush (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir Galil AR | Sugar Rush (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir Galil AR | Sugar Rush (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir Galil AR | Sugar Rush (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir Galil AR | Sugar Rush (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:30.921Z"
+}

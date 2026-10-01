@@ -1,0 +1,105 @@
+{
+  "id": "skin-7562e4bd91c7",
+  "name": "M4A1-S | Hot Rod",
+  "paint_index": "445",
+  "weapon": {
+    "id": "weapon_m4a1_silencer",
+    "weapon_id": 60,
+    "name": "M4A1-S",
+    "slug": "m4a1_silencer"
+  },
+  "pattern": {
+    "id": "an_red_m4a1s",
+    "name": "Hot Rod"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_rifles",
+    "name": "Rifles"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 0.08,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. It has been painted with a chrome base coat and candied in transparent red anodized effect paint.\\n\\n<i>Automatic. Systematic. Hydromatic.</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 1659.13,
+      "max": 5251.22,
+      "mean": 2532.01,
+      "median": 2333.87,
+      "suggested": 1862.41,
+      "quantity": 33,
+      "currency": "USD"
+    },
+    "mw": null
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "M4A1-S | Hot Rod (Factory New)",
+      "price": {
+        "min": 1659.13,
+        "max": 5251.22,
+        "mean": 2532.01,
+        "median": 2333.87,
+        "suggested": 1862.41,
+        "quantity": 33,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "M4A1-S | Hot Rod (Minimal Wear)",
+      "price": null,
+      "file": "mw.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "M4A1-S | Hot Rod (Factory New)",
+        "price": {
+          "min": 1659.13,
+          "max": 5251.22,
+          "mean": 2532.01,
+          "median": 2333.87,
+          "suggested": 1862.41,
+          "quantity": 33,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "M4A1-S | Hot Rod (Minimal Wear)",
+        "price": null
+      }
+    },
+    "stattrak": {},
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir M4A1-S | Hot Rod (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir M4A1-S | Hot Rod (Minimal Wear)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:40.765Z"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "skin-3901933d5e47",
+  "name": "USP-S | Cortex",
+  "paint_index": "705",
+  "weapon": {
+    "id": "weapon_usp_silencer",
+    "weapon_id": 61,
+    "name": "USP-S",
+    "slug": "usp_silencer"
+  },
+  "pattern": {
+    "id": "cu_usp_cut",
+    "name": "Cortex"
+  },
+  "category": {
+    "id": "csgo_inventory_weapon_category_pistols",
+    "name": "Pistols"
+  },
+  "rarity": {
+    "id": "rarity_legendary_weapon",
+    "name": "Classified",
+    "color": "#d32ce6"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "team": {
+    "id": "counter-terrorists",
+    "name": "Counter-Terrorist"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "collections": [],
+  "crates": [],
+  "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise. It has been custom painted with pink accents over a silver and black base.\\n\\n<i>Keep your head</i>",
+  "images": {
+    "fn": "fn.png",
+    "mw": "mw.png",
+    "ft": "ft.png",
+    "ww": "ww.png",
+    "bs": "bs.png"
+  },
+  "prices": {
+    "fn": {
+      "min": 35.01,
+      "max": 679.9,
+      "mean": 91.83,
+      "median": 46.86,
+      "suggested": 54.18,
+      "quantity": 34,
+      "currency": "USD"
+    },
+    "mw": {
+      "min": 7.48,
+      "max": 135.35,
+      "mean": 12.71,
+      "median": 8.69,
+      "suggested": 10,
+      "quantity": 233,
+      "currency": "USD"
+    },
+    "ft": {
+      "min": 3.9,
+      "max": 119.03,
+      "mean": 5.85,
+      "median": 4.4,
+      "suggested": 5.05,
+      "quantity": 316,
+      "currency": "USD"
+    },
+    "ww": {
+      "min": 3.58,
+      "max": 127.18,
+      "mean": 8.33,
+      "median": 3.91,
+      "suggested": 4.39,
+      "quantity": 73,
+      "currency": "USD"
+    },
+    "bs": {
+      "min": 3.56,
+      "max": 29.16,
+      "mean": 5.71,
+      "median": 3.86,
+      "suggested": 4.31,
+      "quantity": 73,
+      "currency": "USD"
+    }
+  },
+  "wears": {
+    "fn": {
+      "name": "Factory New",
+      "market_hash_name": "USP-S | Cortex (Factory New)",
+      "price": {
+        "min": 35.01,
+        "max": 679.9,
+        "mean": 91.83,
+        "median": 46.86,
+        "suggested": 54.18,
+        "quantity": 34,
+        "currency": "USD"
+      },
+      "file": "fn.png"
+    },
+    "mw": {
+      "name": "Minimal Wear",
+      "market_hash_name": "USP-S | Cortex (Minimal Wear)",
+      "price": {
+        "min": 7.48,
+        "max": 135.35,
+        "mean": 12.71,
+        "median": 8.69,
+        "suggested": 10,
+        "quantity": 233,
+        "currency": "USD"
+      },
+      "file": "mw.png"
+    },
+    "ft": {
+      "name": "Field-Tested",
+      "market_hash_name": "USP-S | Cortex (Field-Tested)",
+      "price": {
+        "min": 3.9,
+        "max": 119.03,
+        "mean": 5.85,
+        "median": 4.4,
+        "suggested": 5.05,
+        "quantity": 316,
+        "currency": "USD"
+      },
+      "file": "ft.png"
+    },
+    "ww": {
+      "name": "Well-Worn",
+      "market_hash_name": "USP-S | Cortex (Well-Worn)",
+      "price": {
+        "min": 3.58,
+        "max": 127.18,
+        "mean": 8.33,
+        "median": 3.91,
+        "suggested": 4.39,
+        "quantity": 73,
+        "currency": "USD"
+      },
+      "file": "ww.png"
+    },
+    "bs": {
+      "name": "Battle-Scarred",
+      "market_hash_name": "USP-S | Cortex (Battle-Scarred)",
+      "price": {
+        "min": 3.56,
+        "max": 29.16,
+        "mean": 5.71,
+        "median": 3.86,
+        "suggested": 4.31,
+        "quantity": 73,
+        "currency": "USD"
+      },
+      "file": "bs.png"
+    }
+  },
+  "variants": {
+    "normal": {
+      "fn": {
+        "market_hash_name": "USP-S | Cortex (Factory New)",
+        "price": {
+          "min": 35.01,
+          "max": 679.9,
+          "mean": 91.83,
+          "median": 46.86,
+          "suggested": 54.18,
+          "quantity": 34,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "USP-S | Cortex (Minimal Wear)",
+        "price": {
+          "min": 7.48,
+          "max": 135.35,
+          "mean": 12.71,
+          "median": 8.69,
+          "suggested": 10,
+          "quantity": 233,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "USP-S | Cortex (Field-Tested)",
+        "price": {
+          "min": 3.9,
+          "max": 119.03,
+          "mean": 5.85,
+          "median": 4.4,
+          "suggested": 5.05,
+          "quantity": 316,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "USP-S | Cortex (Well-Worn)",
+        "price": {
+          "min": 3.58,
+          "max": 127.18,
+          "mean": 8.33,
+          "median": 3.91,
+          "suggested": 4.39,
+          "quantity": 73,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "USP-S | Cortex (Battle-Scarred)",
+        "price": {
+          "min": 3.56,
+          "max": 29.16,
+          "mean": 5.71,
+          "median": 3.86,
+          "suggested": 4.31,
+          "quantity": 73,
+          "currency": "USD"
+        }
+      }
+    },
+    "stattrak": {
+      "fn": {
+        "market_hash_name": "StatTrak™ USP-S | Cortex (Factory New)",
+        "price": {
+          "min": 43.98,
+          "max": 76.81,
+          "mean": 52.69,
+          "median": 50.18,
+          "suggested": 54.44,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      },
+      "mw": {
+        "market_hash_name": "StatTrak™ USP-S | Cortex (Minimal Wear)",
+        "price": {
+          "min": 16.34,
+          "max": 508.2,
+          "mean": 36.54,
+          "median": 18.79,
+          "suggested": 19.14,
+          "quantity": 44,
+          "currency": "USD"
+        }
+      },
+      "ft": {
+        "market_hash_name": "StatTrak™ USP-S | Cortex (Field-Tested)",
+        "price": {
+          "min": 7.41,
+          "max": 46.67,
+          "mean": 11.1,
+          "median": 8.58,
+          "suggested": 8.57,
+          "quantity": 38,
+          "currency": "USD"
+        }
+      },
+      "ww": {
+        "market_hash_name": "StatTrak™ USP-S | Cortex (Well-Worn)",
+        "price": {
+          "min": 6.59,
+          "max": 4783.7,
+          "mean": 180.08,
+          "median": 8.09,
+          "suggested": 7.68,
+          "quantity": 28,
+          "currency": "USD"
+        }
+      },
+      "bs": {
+        "market_hash_name": "StatTrak™ USP-S | Cortex (Battle-Scarred)",
+        "price": {
+          "min": 6.72,
+          "max": 20.84,
+          "mean": 11.32,
+          "median": 8.61,
+          "suggested": 7.84,
+          "quantity": 23,
+          "currency": "USD"
+        }
+      }
+    },
+    "souvenir": {
+      "fn": {
+        "market_hash_name": "Souvenir USP-S | Cortex (Factory New)",
+        "price": null
+      },
+      "mw": {
+        "market_hash_name": "Souvenir USP-S | Cortex (Minimal Wear)",
+        "price": null
+      },
+      "ft": {
+        "market_hash_name": "Souvenir USP-S | Cortex (Field-Tested)",
+        "price": null
+      },
+      "ww": {
+        "market_hash_name": "Souvenir USP-S | Cortex (Well-Worn)",
+        "price": null
+      },
+      "bs": {
+        "market_hash_name": "Souvenir USP-S | Cortex (Battle-Scarred)",
+        "price": null
+      }
+    }
+  },
+  "updated_at": "2026-08-05T11:13:50.459Z"
+}
