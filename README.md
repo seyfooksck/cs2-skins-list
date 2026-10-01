@@ -33,5 +33,4 @@ The collection includes weapon and knife skins, gloves, stickers, agents, patche
 
 ## Data sources
 
-- Catalog and images: [ByMykel CSGO-API](https://bymykel.com/CSGO-API/)
 - Prices: [Skinport public API](https://api.skinport.com/v1/items) (USD)
